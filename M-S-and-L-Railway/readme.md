@@ -1,4 +1,4 @@
-# Mancester, Sheffield and Lincolnshire Railway (MS&LR) Company Rain Gauges
+# Manchester, Sheffield and Lincolnshire Railway (MS&LR) Company Rain Gauges
 
 [MS&LR](https://en.wikipedia.org/wiki/Manchester,_Sheffield_and_Lincolnshire_Railway) operated rain gauges across their network for about 70 years between around 1850 and 1922, covering about 50 locations (stations, locks, reservoirs, moorland,...). They became the [Great Central Railway](https://en.wikipedia.org/wiki/Great_Central_Railway) in 1897, and joined with several other railways to form the [LNER](https://en.wikipedia.org/wiki/London_and_North_Eastern_Railway) at the start of 1923, at which point the rain gauge records stop.
 
