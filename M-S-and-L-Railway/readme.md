@@ -6,8 +6,9 @@ The rainfall sheets for these gauges can be accessed on the [Met Office Archive 
 
 Contents of this folder:
 
-* **MSLR_GaugeSheetIndex_1860-1922.csv** identifies the Met Office PDF document and page number for each MS&LR rainfall sheet between 1860 and the end of 1922. It has one row per sheet for each gauge (with each sheet covering a decade of monthly rainfall figures).
 * **MSLR_GaugeInfo.xlsx** is an Excel spreadsheet listing each gauge and a few summary details, for example its period of operation.
+* **MSLR_GaugeSheetIndex_1860-1922.csv** identifies the Met Office PDF document and page number for each MS&LR rainfall sheet between 1860 and the end of 1922. It has one row per sheet for each gauge (with each sheet covering a decade of monthly rainfall figures).
+* **MSLR_GaugeSheetIndex_1850s.csv** as above, but covering the MS&LR rainfall sheets for the 1850s decade.
 
 The transcribed rainfall sheets for the MS&LR gauges (and many others) are becoming available on the Rainfall Rescue GitHub site is at [https://github.com/ed-hawkins/rainfall-rescue](https://github.com/ed-hawkins/rainfall-rescue).
 
