@@ -6,7 +6,7 @@ A summary of the transport-related that MS&LR (and later The Great Central Railw
 
 MS&LR was created by the amalgamation of three existing railway companies:
 
-* the [Sheffield, Ashton under Lyne and Manchester Railway](https://en.wikipedia.org/wiki/Sheffield,_Ashton-under-Lyne_and_Manchester_Railway)
+* the [Sheffield, Ashton under Lyne and Manchester Railway](https://en.wikipedia.org/wiki/Sheffield,_Ashton-under-Lyne_and_Manchester_Railway) SA&MR
 * the [Great Grimsby and Sheffield Junction Railway](https://en.wikipedia.org/wiki/Great_Grimsby_and_Sheffield_Junction_Railway)
 * the [Sheffield and Lincolnshire Junction Railway](https://en.wikipedia.org/wiki/Sheffield_and_Lincolnshire_Junction_Railway)
 
@@ -14,12 +14,15 @@ It came into being at the start of 1847.
 
 ## Railways
 
+|Railway|Notes|
+|-------|-----|
+|[Macclesfield, Bollington and Marple Railway](https://en.wikipedia.org/wiki/Macclesfield,_Bollington_and_Marple_Railway)| A joint railway with the North Staffordshire Railway Company, opened in 1869.
 
 ## Canals
 
-| Canal | Selected points on the route |
-|-----|-----|
-|[Macclesfield Canal](https://en.wikipedia.org/wiki/Macclesfield_Canal)|Bosley Locks, Macclesfield, Bollington, Marple Junction (with Peak Forest Canal)|
+| Canal | Selected points on the route |Other|
+|-----|-----|------|
+|[Macclesfield Canal](https://en.wikipedia.org/wiki/Macclesfield_Canal)|Bosley Locks, Macclesfield, Bollington, Marple Junction (with Peak Forest Canal). | Reservoirs at Bosley and Sutton. Bought by SA&MR in 1846. |
 |[Peak Forest Canal](https://en.wikipedia.org/wiki/Peak_Forest_Canal)|Whaley Bridge, Marple Junction (with Macclesfield Canal), Marple Locks, Marple Aqueduct, Ashton-under-Lyne (links to the Ashton Canal)|
 |[Ashton Canal](https://en.wikipedia.org/wiki/Ashton_Canal)|Ashton, Fairfield Locks, junction with the Stockport Branch Canal|
 |[Stockport Branch Canal](https://en.wikipedia.org/wiki/Stockport_Branch_Canal)|Ashton Canal to Stockport Basin|
