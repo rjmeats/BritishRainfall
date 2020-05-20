@@ -38,7 +38,9 @@ It came into being at the start of 1847.
 
 .. other than [Wikipedia](https://en.wikipedia.org/) ...
 
-The [Rail Map Online](http://www.railmaponline.com/UKIEMap.php) site provides an amazingly detailed map of historic railway networks. This has been very useful in working out which parts of the network belonged to MS&LR (labelled as 'Great Central Rly') and which belonged to other companies.
+The [Rail Map Online](http://www.railmaponline.com/UKIEMap.php) site provides an amazingly detailed map of historic railway networks. This has been very useful in working out which parts of the network belonged to MS&LR (labelled as 'Great Central Rly') and which belonged to other companies. It also has a section on canals.
+
+The [Canal and River Trust](https://canalrivertrust.org.uk/enjoy-the-waterways/canal-and-river-network) has detailed maps of the route taken by canals, including locks. However, it only shows stretches of canals still in existence, so for example the western part of the Chesterfield Canal (Norwood Tunnel to Chesterfield) does not appear.
 
 Old OS and other maps provided by the [National Library of Scotland web site](https://maps.nls.uk/). Occasionally these show the exact position of rain gauges, but otherwise show where old railways, canals, stations etc were located, with benchmark heights.
 
