@@ -16,7 +16,8 @@ It came into being at the start of 1847.
 
 |Railway|Notes|
 |-------|-----|
-|[Macclesfield, Bollington and Marple Railway](https://en.wikipedia.org/wiki/Macclesfield,_Bollington_and_Marple_Railway)| A joint railway with the North Staffordshire Railway Company, opened in 1869.
+|[Macclesfield, Bollington and Marple Railway](https://en.wikipedia.org/wiki/Macclesfield,_Bollington_and_Marple_Railway)| A joint railway with the North Staffordshire Railway Company, opened in 1869.|
+|[Woodhead Line](https://en.wikipedia.org/wiki/Woodhead_line)|Manchester to Sheffield via the [Woodhead Tunnel](https://en.wikipedia.org/wiki/Woodhead_Tunnel).|
 
 ## Canals
 
@@ -24,7 +25,7 @@ It came into being at the start of 1847.
 |-----|-----|------|
 |[Macclesfield Canal](https://en.wikipedia.org/wiki/Macclesfield_Canal)|Bosley Locks, Macclesfield, Bollington, Marple Junction (with Peak Forest Canal). | Reservoirs at Bosley and Sutton. Bought by SA&MR in 1846. |
 |[Peak Forest Canal](https://en.wikipedia.org/wiki/Peak_Forest_Canal)|Whaley Bridge, Marple Junction (with Macclesfield Canal), Marple Locks, Marple Aqueduct, Ashton-under-Lyne (links to the Ashton Canal)|
-|[Ashton Canal](https://en.wikipedia.org/wiki/Ashton_Canal)|Ashton, Fairfield Locks, junction with the Stockport Branch Canal|
+|[Ashton Canal](https://en.wikipedia.org/wiki/Ashton_Canal)|Ashton, Fairfield Locks, junction with the Stockport Branch Canal, Piccadilly Basin (junction with Rochdale Canal)|
 |[Stockport Branch Canal](https://en.wikipedia.org/wiki/Stockport_Branch_Canal)| Ashton Canal to Stockport Basin|A branch of the Ashton Canal|
 |[Hollinwood Branch Canal](https://en.wikipedia.org/wiki/Hollinwood_Branch_Canal)|Fairfield locks to Hollinwood via Waterhouses (now known as Daisy Nook)|A branch of the Ashton Canal|
 |[Chesterfield Canal](https://en.wikipedia.org/wiki/Chesterfield_Canal)|Chesterfield, Norwood Locks and Tunnel, Worksop, Retford, West Stockwith|
