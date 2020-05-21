@@ -25,7 +25,8 @@ It came into being at the start of 1847.
 |[Macclesfield Canal](https://en.wikipedia.org/wiki/Macclesfield_Canal)|Bosley Locks, Macclesfield, Bollington, Marple Junction (with Peak Forest Canal). | Reservoirs at Bosley and Sutton. Bought by SA&MR in 1846. |
 |[Peak Forest Canal](https://en.wikipedia.org/wiki/Peak_Forest_Canal)|Whaley Bridge, Marple Junction (with Macclesfield Canal), Marple Locks, Marple Aqueduct, Ashton-under-Lyne (links to the Ashton Canal)|
 |[Ashton Canal](https://en.wikipedia.org/wiki/Ashton_Canal)|Ashton, Fairfield Locks, junction with the Stockport Branch Canal|
-|[Stockport Branch Canal](https://en.wikipedia.org/wiki/Stockport_Branch_Canal)|Ashton Canal to Stockport Basin|
+|[Stockport Branch Canal](https://en.wikipedia.org/wiki/Stockport_Branch_Canal)| Ashton Canal to Stockport Basin|A branch of the Ashton Canal|
+|[Hollinwood Branch Canal](https://en.wikipedia.org/wiki/Hollinwood_Branch_Canal)|Fairfield locks to Hollinwood via Waterhouses (now known as Daisy Nook)|A branch of the Ashton Canal|
 |[Chesterfield Canal](https://en.wikipedia.org/wiki/Chesterfield_Canal)|Chesterfield, Norwood Locks and Tunnel, Worksop, Retford, West Stockwith|
 |[Dearne and Dove Canal](https://en.wikipedia.org/wiki/Dearne_and_Dove_Canal)|Elsecar Locks, Worsborough reservoir, Barnsley|
 |[Stainforth and Kealby Canal](https://en.wikipedia.org/wiki/Stainforth_and_Keadby_Canal)|Keadby Lock|
