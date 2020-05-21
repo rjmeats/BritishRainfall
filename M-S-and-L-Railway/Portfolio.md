@@ -36,6 +36,8 @@ It came into being at the start of 1847.
 |-----|-----|-----|
 |The Humber Ferry|New Holland to Hull|Inherited from the the Great Grimsby and Sheffield Junction Railway|
 |Grimsby Docks|Grimsby|Inherited from the the Great Grimsby and Sheffield Junction Railway|
+|The [Peak Forest Tramway](https://en.wikipedia.org/wiki/Peak_Forest_Tramway)|Bugsworth, Chapel-en-le-Frith, Dove Holes|Part of the Peak Forest Canal system. It was a horse- and gravity-powered industrial railway.
+|The [Chapel Inclined Plane](https://en.wikipedia.org/wiki/Chapel_inclined_plane)|Chapel-en-le-Frith|Steep part of the Peak Forest Tramway, with loaded wagons descending, hauling up empty wagons via gravity-power|
 
 ## Useful Web Sites
 
