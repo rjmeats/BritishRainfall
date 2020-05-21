@@ -41,6 +41,14 @@ It came into being at the start of 1847.
 |The [Peak Forest Tramway](https://en.wikipedia.org/wiki/Peak_Forest_Tramway)|Bugsworth, Chapel-en-le-Frith, Dove Holes|Part of the Peak Forest Canal system. It was a horse- and gravity-powered industrial railway.
 |The [Chapel Inclined Plane](https://en.wikipedia.org/wiki/Chapel_inclined_plane)|Chapel-en-le-Frith|Steep part of the Peak Forest Tramway, with loaded wagons descending, hauling up empty wagons via gravity-power|
 
+## Private Homes
+
+John Chapman, a chairman and directory of MS&RL owned homes at each end of the Woodhead Tunnel:
+* Mottram Hill End House
+* Carlecotes Hall
+
+Both of these are the location of an MS&LR rain gauge. 
+
 ## Useful Web Sites
 
 .. other than [Wikipedia](https://en.wikipedia.org/) ...
