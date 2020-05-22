@@ -17,7 +17,11 @@ It came into being at the start of 1847.
 |Railway|Notes|
 |-------|-----|
 |[Macclesfield, Bollington and Marple Railway](https://en.wikipedia.org/wiki/Macclesfield,_Bollington_and_Marple_Railway)| A joint railway with the North Staffordshire Railway Company, opened in 1869.|
-|[Woodhead Line](https://en.wikipedia.org/wiki/Woodhead_line)|Manchester to Sheffield via the [Woodhead Tunnel](https://en.wikipedia.org/wiki/Woodhead_Tunnel).|
+|[Woodhead Line](https://en.wikipedia.org/wiki/Woodhead_line)|Manchester to Sheffield via Mottram, [the Woodhead Tunnel](https://en.wikipedia.org/wiki/Woodhead_Tunnel), Dunford Bridge and Penistone.|
+|[South Yorkshire Railway](https://en.wikipedia.org/wiki/South_Yorkshire_Railway)| Swinton to Doncaster; Rotherham to Barnsley|
+|[Trent, Ancholme and Grimsby Railway](https://en.wikipedia.org/wiki/Trent,_Ancholme_and_Grimsby_Railway)|Trent at Keadby to Grimsby via Barnetby|
+
+
 
 ## Canals
 
@@ -28,9 +32,10 @@ It came into being at the start of 1847.
 |[Ashton Canal](https://en.wikipedia.org/wiki/Ashton_Canal)|Ashton, Fairfield Locks, junction with the Stockport Branch Canal, Piccadilly Basin (junction with Rochdale Canal)|
 |[Stockport Branch Canal](https://en.wikipedia.org/wiki/Stockport_Branch_Canal)| Ashton Canal to Stockport Basin|A branch of the Ashton Canal|
 |[Hollinwood Branch Canal](https://en.wikipedia.org/wiki/Hollinwood_Branch_Canal)|Fairfield locks to Hollinwood via Waterhouses (now known as Daisy Nook)|A branch of the Ashton Canal|
-|[Chesterfield Canal](https://en.wikipedia.org/wiki/Chesterfield_Canal)|Chesterfield, Norwood Locks and Tunnel, Worksop, Retford, West Stockwith|
-|[Dearne and Dove Canal](https://en.wikipedia.org/wiki/Dearne_and_Dove_Canal)|Elsecar Locks, Worsborough reservoir, Barnsley|
-|[Stainforth and Kealby Canal](https://en.wikipedia.org/wiki/Stainforth_and_Keadby_Canal)|Keadby Lock|
+|[Chesterfield Canal](https://en.wikipedia.org/wiki/Chesterfield_Canal)|Chesterfield, Norwood Locks and Tunnel, Worksop, Retford, West Stockwith||
+|[Dearne and Dove Canal](https://en.wikipedia.org/wiki/Dearne_and_Dove_Canal)|Elsecar Locks, Worsborough reservoir, Barnsley||
+|[Stainforth and Kealby Canal](https://en.wikipedia.org/wiki/Stainforth_and_Keadby_Canal)|Keadby Lock, where the canal joins the River Trent||
+|[Sheffield and Tinsley Canal](https://en.wikipedia.org/wiki/Sheffield_%26_Tinsley_Canal)|Connects Sheffield to the River Don||
 
 ## Other Assets
 
@@ -43,11 +48,15 @@ It came into being at the start of 1847.
 
 ## Private Homes
 
-John Chapman, a chairman and directory of MS&RL owned homes at each end of the Woodhead Tunnel:
+[John Chapman](https://en.wikipedia.org/wiki/John_Chapman_(Grimsby_MP)), a chairman and directory of MS&LR owned homes at each end of the Woodhead Tunnel:
 * Mottram Hill End House
 * Carlecotes Hall
 
 Both of these are the location of an MS&LR rain gauge. 
+
+[Edward Montagu-Stuart-Wortley-Mackenzie, 1st Earl of Wharncliffe](https://en.wikipedia.org/wiki/Edward_Montagu-Stuart-Wortley-Mackenzie,_1st_Earl_of_Wharncliffe) was Chairman of MS&LR when it became the Great Central Railway in 1897. He owned [Wortley Hall](https://en.wikipedia.org/wiki/Wortley_Hall), near Wortley Station on the Woodhead line.
+
+Edge End in Sheffield ?
 
 ## Useful Web Sites
 
