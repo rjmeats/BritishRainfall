@@ -54,9 +54,13 @@ It came into being at the start of 1847.
 
 Both of these are the location of an MS&LR rain gauge. 
 
+Other rain gauge locations that seem likely to be private homes, but where the family-to-MS&LR link has not been established.
+
+* Edge End in Sheffield ?
+* Gate Burton just south of Gainsborough
+
 [Edward Montagu-Stuart-Wortley-Mackenzie, 1st Earl of Wharncliffe](https://en.wikipedia.org/wiki/Edward_Montagu-Stuart-Wortley-Mackenzie,_1st_Earl_of_Wharncliffe) was Chairman of MS&LR when it became the Great Central Railway in 1897. He owned [Wortley Hall](https://en.wikipedia.org/wiki/Wortley_Hall), near Wortley Station on the Woodhead line.
 
-Edge End in Sheffield ?
 
 ## Useful Web Sites
 
