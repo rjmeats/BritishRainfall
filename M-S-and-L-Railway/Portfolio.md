@@ -21,7 +21,12 @@ It came into being at the start of 1847.
 |[South Yorkshire Railway](https://en.wikipedia.org/wiki/South_Yorkshire_Railway)| Swinton to Doncaster; Rotherham to Barnsley|
 |[Trent, Ancholme and Grimsby Railway](https://en.wikipedia.org/wiki/Trent,_Ancholme_and_Grimsby_Railway)|Trent at Keadby to Grimsby via Barnetby|
 |[Oldham, Ashton and Guide Bridge Railway](https://en.wikipedia.org/wiki/Oldham,_Ashton_and_Guide_Bridge_Railway)||
-|[Cheshire Lines Committee (CLC)](https://en.wikipedia.org/wiki/Cheshire_Lines_Committee)|Joint venture with GNR
+|[Cheshire Lines Committee (CLC)](https://en.wikipedia.org/wiki/Cheshire_Lines_Committee)|An MS&LR joint venture with GNR, amalgamating/operating other lines including:|
+||[Cheshire Midland Railway](https://en.wikipedia.org/wiki/Cheshire_Midland_Railway)|
+||[North Liverpool Extension Line](https://en.wikipedia.org/wiki/North_Liverpool_Extension_Line)|
+||[Southport & Cheshire Lines Extension Railway ](https://en.wikipedia.org/wiki/Southport_and_Cheshire_Lines_Extension_Railway)|
+
+ 
 
 
 
