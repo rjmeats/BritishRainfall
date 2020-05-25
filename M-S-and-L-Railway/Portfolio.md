@@ -1,6 +1,6 @@
 # MS&LR Portfolio
 
-A summary of the transport-related that MS&LR (and later The Great Central Railway) owned over time (not meant to be complete, just what I've come across while trying to locate MS&LR rain gauges.)
+A summary of the transport-related items that MS&LR (and later The Great Central Railway) owned over time (not meant to be complete, just what I've come across while trying to locate MS&LR rain gauges.)
 
 ## Founder Companies
 
