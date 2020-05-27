@@ -12,6 +12,8 @@ Contents of my repository:
 |--|--|
 |csv_format_trial|Demonstrates how GitHub can display CSV files in a tabular way.|
 |M-S-and-L-Railway|Notes relating to the rain gauges sites which the [MS&L Railway](https://en.wikipedia.org/wiki/Manchester,_Sheffield_and_Lincolnshire_Railway) operated between about 1850 and 1922.
+|Data-Issues|Material relating to potential data issues, for ease of sharing|
+
 
 
 
