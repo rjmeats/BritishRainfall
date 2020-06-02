@@ -43,7 +43,7 @@ The key MS&LR corporate events in relation to this are:
 * on 1st January 1923, the Great Central Railway merged with several other railways to form [LNER](https://en.wikipedia.org/wiki/London_and_North_Eastern_Railway)
   * all the MS&LR rain gauge records stop at the end of 1922
 
-![Corporate Events](Images/CorporateEvents.jpg)
+![Corporate Events](Images/CorporateEvents.JPG)
 
 ## Location clues available from the MS&LR Rainfall Sheets
 
