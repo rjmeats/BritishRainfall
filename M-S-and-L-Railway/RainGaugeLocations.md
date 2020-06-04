@@ -210,12 +210,59 @@ A few of the MS&LR rain gauge locations were located at private residences rathe
 
 **Sheffield Brincliffe Edge** also seems to belong to this set given its start date and lack of any obvious links to MS&LR railway and canal systems. The early rainfall sheets just refer to this location as *Sheffield, The Edge* which is likely to indicate a property called *Edge End* on a track called *The Edge* near Brincliffe Edge. But owner of the property and his or her links to MS&LR have not been determined however.
 
+## 'South Yorkshire Waterways' Rain Gauge Locations
 
+![South Yorkshire Waterways Timelines](Images/SouthYorkshireWaterwaysGroup.jpg)
 
+in 1864, MS&LR leased and then in 187 bought a set of South Yorkshire waterways. This included:
+* the [Dearne and Dove Canal](https://en.wikipedia.org/wiki/Dearne_and_Dove_Canal)
+* the [Sheffield and Tinsley Canal](https://en.wikipedia.org/wiki/Sheffield_%26_Tinsley_Canal)
+* the [Stainforth and Keadby Canal](https://en.wikipedia.org/wiki/Stainforth_and_Keadby_Canal)
+* the [River Don Navigation](https://en.wikipedia.org/wiki/River_Don_Navigation)
 
+In 1895, MS&LR were forced to sell them all to the [Sheffield and South Yorkshire Navigation Company](https://en.wikipedia.org/wiki/Sheffield_and_South_Yorkshire_Navigation).
 
+Several MS&LR rain gauges are closely linked to locations on these waterways. All but one of the locations comes into operation in April 1867, and most of them have a small change in altitude recorded in the mid 1890s, which may reflect the gauges being relocated from canal-type locations to nearby MS&LR railway locations after the waterways were sold.
 
-## .. In progress ..
+The locations concerned were:
+
+* **Barnsley** - the Dearne and Dove Canal passed through the edge of Barnsley, joining up with the Barnsley Canal
+* **Elsecar** - the Elsecar branch of the Dearne and Dove Canal ended at a basin and reservoir in Elsecar
+* **Worsborough** - the Worsborough branch of the Dearne and Dove Canal ended at a basin and reservoir in Worsborough
+* **Doncaster** - the River Don navigation runs along the north-west side of Doncaster
+* **Rotherham** - the Rotherham Cut of the River Don navigation runs through Rotherham
+* **Sheffield Tinsley Locks** - a set of 7 locks on the Sheffield and Tinsley Canal at the edge of Sheffield
+* **Crowle Keadby** - the Stainforth and Keadby Canal joins the River Trent at Keadby
+
+The Rotherham rain gauge only operated for three years 1867-69, with its rainfall sheet reporting that the gauge was moved because it was in the way of a new railway line. The Sheffield Tinsley Locks rain gauge started operating in 1870 - conceivably this was the new location for the Rotherham rain gauge, explaining why the Sheffield location started reporting after the other locations in this set.
+
+Most of the rain gauges report a change of altitude, usually in the mid-1890s, tying in with the date when the waterways becoming independent of MS&LR. Rain gauge readings continue for nearly 30 years after this, still in the name of MS&LR (and its successor GCR), implying that gauges at waterways sites had probably been relocated to a nearby MS&LR railway site. There were MS&LR railway lines close to the various waterways (often running parallel to them), but not necessarily stations.
+
+## 'Cheshire Lines Railway' Rain Gauge Locations
+
+![Cheshire Lines Railway Timelines](Images/CheshireLinesRailwaysGroup.jpg)
+
+MS&LR formed the [Cheshire Lines Railway](https://en.wikipedia.org/wiki/Cheshire_Lines_Committee) joint venture with Great Northern Railway to operate a set of local railway lines in Cheshire, Lancashire (and North Wales).
+
+In 1889, after a period of expansion, MS&LR started to operate rain gauges at locations on some of these lines, mostly at stations:
+
+* **Chester Northgate Station**
+* **Liverpool Huskisson Station**
+* **Northwich**
+* **Southport Lord Street Station**
+* **Warrington Central Station**
+
+A couple of locations are less clear:
+* **Hawarden** - this rain gauge cannot be located at Hawarden Station (in North Wales) or anywhere nearby. The rainfall sheets give the altitude of the gauge as just 35 ft, where Hawarden Station and the town of Hawarden is at around 250 ft. *Hawarden Bridge* railway bridge across the River Dee (2-3 miles from Hawarden itself) seems a possible site for the gauge at about the right altitude.
+* **Oldham Honeywell Lane** - the only connection to MS&LR at this site is its bridge over the [Oldham, Ashton and Guide Bridge Railway](https://en.wikipedia.org/wiki/Oldham,_Ashton_and_Guide_Bridge_Railway), which was another MS&LR joint venture railway. The bridge or nearby sidings may be the location of this rain gauge.
+
+## Other Rain Gauge Locations
+
+A couple of very short-lived MS&LR rain gauges do not fit in the above classification, and very little is known about them:
+
+* **Combs House** only reported rainfall figures for 10 months in 1855. It has not been located on a map, but was presumably in the same area as Combs Reservoir, which is part of the Peak Forest Canal rain gauges.
+* **Rochdale** only reported rainfall figures for two years, 1863 and 1864. There is no obvious relationship to any of the other MS&LR gauges, and MS&LR did not have canal or railway networks in the area. One very weak connection is that the MS&LR's Ashton Canal joins the Rochdale Canal near the middle of Manchester.
+
 
 
 
