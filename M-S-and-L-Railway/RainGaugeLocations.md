@@ -4,17 +4,17 @@ This note documents my attempt to assign an OS grid reference location to the ~5
 
 For a few rain gauges, mainly those relating to the Peak Forest Canal, old OS maps mark the position of the rain gauge; for the rest, the likely location has to be deduced. (Potentially a visit to the locations involved might find old rain gauges still in situ, as in [this example](https://www.zooniverse.org/projects/edh/rainfall-rescue/talk/3143/1358833?comment=2306373&page=20) in Reading, but this has not been attempted.)
 
-If you just want to see the grid references assigned to each MS&LR location, please see the 'Location Summary' sheet of the [MSLR_GaugeInfo spreadsheet](MSLR_GaugeInfo.xlsx).
+If you just want to see the grid references assigned to each MS&LR location in a simple table, without lots of discussion, please see the 'Location Summary' sheet of the [MSLR_GaugeInfo spreadsheet](MSLR_GaugeInfo.xlsx).
 
 ## Types of Rain Gauge Location ##
 
-In relation to its rain gauges, the name 'MS&L Railways' is misleading. The company actually ran two large networks:
+In relation to its rain gauges, the name *'MS&L Railways'* is misleading. The company actually ran two large networks:
 * a *railway network*, consisting of multiple railway lines, each with stations, sidings, tunnels, bridges, ...
 * a *canal network*, consisting of multiple canals, each with locks, basins, wharfs, reservoirs and their catchments, ...
 
 MS&LR had rain gauges in both types of locations, and part of the process of locating each rain gauge is to work out which location type applies. 
 
-Rain gauges would seem to have a more direct relevance to canal operation and water management; so in unclear cases, I've been inclined to assign a canal-based location to a rain gauge rather than a railway one. Possible support for this approach comes from the *British Rainfall* annual almanacs, which add a footnote against the first MS&LR entry in the 'Rainfall Stations' table to indicate that *'Gauges are kept for the Canals Department of the MS&LR Company'*. 
+Rain gauges would seem to have a more direct relevance to canal operation and water management; so in unclear cases, I've been inclined to assign a canal-based location to a rain gauge rather than a railway one. Possible support for this approach comes from the *British Rainfall* annual almanacs, which add a footnote against the first MS&LR entry in the *'Rainfall Stations'* table to indicate that *'Gauges are kept for the Canals Department of the MS&LR Company'*. 
 
 There is also a third location type, *private residence*, as a possibility, where the rain gauge is located at the house of someone prominent in MS&LR management.
 
@@ -34,7 +34,7 @@ The key MS&LR corporate events in relation to this are:
   2) the [Great Grimsby and Sheffield Junction Railway](https://en.wikipedia.org/wiki/Great_Grimsby_and_Sheffield_Junction_Railway) with its planned railway system in Lincolnshire
   3) the [Sheffield and Lincolnshire Junction Railway](https://en.wikipedia.org/wiki/Sheffield_and_Lincolnshire_Junction_Railway) and its planned railway system to link Sheffield with Chesterfield and Lincoln, and its planned merger with the company which owned the Chesterfield Canal.
 
-  Rainfall sheets from 1850s show 'MS&LR' as the 'observer', making them easy to identify. Rainfall sheets from the 1840s are less helpfully labelled, and have to be linked to the later MS&LR sheets by matching on location names
+  Rainfall sheets from 1850s show *'MS&LR'* as the 'observer', making them easy to identify. Rainfall sheets from the 1840s are less helpfully labelled, and have to be linked to the later MS&LR sheets by matching on location names
 
 * in 1864 MS&LR took out a 999 year lease of the [South Yorkshire Railway and River Dun Company](https://en.wikipedia.org/wiki/South_Yorkshire_Railway), which included railways,  canals and other waterways in the South Yorkshire area.
   * this became a take-over by MS&LR in 1874.
@@ -88,47 +88,48 @@ Detailed screenshots of sections of this 'Timelines' sheet are included below to
 
 ![Manchester Area Canal Timelines](Images/ManchesterAreaCanalGroupings.jpg)
 
-The earliest of the MS&LR rain gauges relate to the set of canal systems in the Manchester area which MS&LR inherited from the Sheffield, Ashton-under-Lyne and Manchester Railway company:
+The earliest of the MS&LR rain gauges relate to the canals in the Manchester area which MS&LR inherited from the Sheffield, Ashton-under-Lyne and Manchester Railway company:
 * the [Peak Forest Canal](https://en.wikipedia.org/wiki/Peak_Forest_Canal)
 * the [Macclesfield Canal](https://en.wikipedia.org/wiki/Macclesfield_Canal)
 * the [Ashton Canal](https://en.wikipedia.org/wiki/Ashton_Canal)
 
-They nearly all commence regular rainfall recording in 1850 or 1851, often with some intermittent readings in the 1840s. Many of the mid-1840s readings are referenced in an [1848 report](https://books.google.co.uk/books?id=2RUHAAAAQAAJ) by an MS&LR civil engineer which discussed a scheme to use canal catchment rain water to supply clean water to Manchester.
+These gauges nearly all commence regular rainfall recording in 1850 or 1851, often with some intermittent readings in the 1840s. Many of the mid-1840s readings are referenced in an [1848 report](https://books.google.co.uk/books?id=2RUHAAAAQAAJ) produced by Samuel Homersham, an MS&LR civil engineer, which discussed a scheme to use canal catchment rain water to supply clean water to Manchester.
 
-Most of the locations in these three rain gauge groupings are clearly related to the canal system:
+For most of the rain gauges assigned to these canal groupings, there is a clear link to a canal system:
 
-* **Combs Reservoir** provides water for the Peak Forest Canal, with **Combs Moss** being high ground forming part of the catchment area of the reservoir. Both rain gauges are shown on the old OS Map.
-* the Toddbrook Reservoir, beside the town of **Whaley Bridge**, also provides water for the Peak Forest Canal. **Sponds Hill** is high ground forming part of the catchment area of the reservoir. Both rain gauges are shown on the old OS Map.
+* **Combs Reservoir** provides water for the Peak Forest Canal, with **Combs Moss** forming part of the catchment area of the reservoir. Both rain gauges are shown on an old OS Map.
+* the Toddbrook Reservoir, beside the town of **Whaley Bridge**, also provides water for the Peak Forest Canal. **Sponds Hill** forms part of the catchment area of the reservoir. Both rain gauges are shown on an old OS Map.
 
   [Whaley Bridge had to be evacuated in 2019 when the [reservoir slipway nearly collapsed](https://canalrivertrust.org.uk/news-and-views/news/toddbrook-reservoir-update).]
 * **Marple Top Lock** and **Marple Aqueduct** are part of the canal infrastructure near the town of Marple, (where the Macclesfield Canal joins the Peak Forest Canal).
-* the [Peak Forest Tramway](http://www.pittdixon.go-plus.net/pft/$pft.htm) was used to transport limestone in wagons to the Peak Forest Canal. The Tramway included the gravity-driven ['Inclined Plane'](http://www.pittdixon.go-plus.net/pft/inclined-plane.htm) just outside the town Chapel-en-le-Frith. The **Chapel-en-le-Frith** rain gauge location is at the top of the Inclined Plane - some of the rainfall sheets mention this, and the gauge position is [marked](https://maps.nls.uk/geo/explore/#zoom=18&lat=53.31986&lon=-1.89976&layers=168&b=1) on the old OS map.
+* the [Peak Forest Tramway](http://www.pittdixon.go-plus.net/pft/$pft.htm), was used to transport limestone in wagons to the Peak Forest Canal. The Tramway included the gravity-driven ['Inclined Plane'](http://www.pittdixon.go-plus.net/pft/inclined-plane.htm) just outside the town of Chapel-en-le-Frith. The rain gauge location labelled **Chapel-en-le-Frith** is actually at the top of the Inclined Plane - some of the rainfall sheets mention this, and the gauge position is [marked](https://maps.nls.uk/geo/explore/#zoom=18&lat=53.31986&lon=-1.89976&layers=168&b=1) on an old OS map.
 
-* **Bosley Reservoir** provides water for the Macclesfield Canal, with **Bosley Minns** being high ground forming part of the catchment area of the reservoir. The Bosley Reservoir rain gauge is shown on the old OS Map.
+* **Bosley Reservoir** provides water for the Macclesfield Canal, with **Bosley Minns** forming part of the catchment area of the reservoir. The Bosley Reservoir rain gauge is shown on the old OS Map.
 
-* **Ashton Waterhouses** was a set of four locks on the Hollinwood branch of the Ashton Canal
+* **Ashton Waterhouses** was a set of four locks on the Hollinwood branch of the Ashton Canal.
 
-The assignment of the remaining gauge locations in these canal groupings needs a little more explanation, as plausible railway alternatives exist:
+For the remaining rain gauges assigned to these canal groupings, a little more explanation is needed, as plausible railway alternatives exist:
 
 * for the **Macclesfield** gauge:
   * the rainfall sheets make no reference to whether this was a railway or canal site; they give an altitude of 539 ft throughout
-  * MS&LR did not open a railway station in Macclesfield until 1869, with the Central Station opening in 1873; rain gauge operation began a lot earlier than this, in 1855
-  * 539 ft is a good fit for the altitude of the Macclesfield Canal, which runs along the eastern side of Macclesfield, whereas the Central Station altitude is about 100 ft lower
-  * so a canal-based location is more likely to be correct
-  * the canal in Macclesfield seems not to have locks or basins as obvious places for the rain gauge grid reference, so a spot at Richmond Hill bridge over the canal was arbitrarily chosen to provide an indicative grid reference 
+  * MS&LR did not open a railway station in Macclesfield until 1869, with the Central Station opening in 1873; but rain gauge operation began a lot earlier than this, in 1855
+  * 539 ft is a good fit for the altitude of the Macclesfield Canal, which runs along the hillside on the eastern side of Macclesfield, whereas the Central Station altitude is about 100 ft lower
+  * this makes a canal-based location for the rain gauge more likely to be correct, and fits in with the Bosley gauges associated with the canal
+  * the canal in Macclesfield has no locks or basins as obvious places for the rain gauge grid reference, so a spot at Richmond Hill bridge over the canal has arbitrarily been chosen to provide an indicative grid reference 
 
 * for the **Manchester Fairfield** gauge:
-  * the MS&LR railway and MS&LR's Ashton canal both run through the Fairfield area at a similar altitude
+  * the MS&LR railway and MS&LR's Ashton canal both run through the Fairfield area, at a similar altitude
   * Fairfield Station might be a location for the rain gauge; the current station was opened by MS&LR in 1892, with a station further to the west being used before then
-  * Fairfield lock on the Ashton Canal, by Fairfield junction where the Hollinwood Branch of the canal, joins might be another possible location
-  * the main rainfall sheets make no reference to whether this was a railway or canal site; they give an altitude of 312 ft throughout, no indication of the gauge having been moved
+  * Fairfield lock on the Ashton Canal, by Fairfield junction where the Hollinwood Branch of the canal splits off, might be a possible canal-based location
+  * the main rainfall sheets make no reference to whether this was a railway or canal site; they give an altitude of 312 ft throughout, with no indication of the gauge having been moved
   * one 1840 rainfall sheet does refer to the Ashton & Peak Forest Canal, quoting a very slightly different altitude (320 ft)
-  * with nothing conclusive either way, the canal-based location has been chosen to provide the grid reference for this rain gauge. (If the station was chosen instead, this location would fit easily into the Woodhead Railway group of gauges listed later.)
+  * with nothing conclusive either way, the canal-based location has been chosen to provide the grid reference for this rain gauge. (If the early railway station location was chosen instead, it would fit easily into the 'Woodhead Railway' group of gauges listed later.)
   
   for the **Manchester Piccadilly** gauge:
-  * the MS&LR railway and MS&LR's Ashton Canal both terminate in the Piccadilly area of Manchester (i.e. close to the road called Piccadilly)
-  * the MS&LR station in the area was called Manchester Store Street initially, and renamed Manchester London Road in 1847. It only became Manchester Piccadilly in 1960.
-  * so 'Manchester Piccadilly' on the rainfall sheets is not referring to the railway station
-  * the rain gauge location seems likely to be near the Ashton Canal basin, at the point where it joins the Rochdale Canal, near Dulcie Street and the London Road Goods Station.
+  * the MS&LR railway and MS&LR's Ashton Canal both terminate in the Piccadilly area of Manchester (i.e. close to the street called *Piccadilly*)
+  * the MS&LR station in the area was called *Manchester Store Street* initially, and renamed *Manchester London Road* in 1847. But it only became known as *Manchester Piccadilly* in 1960, so the location 'Manchester Piccadilly' on the rainfall sheets is not referring to the railway station
+  * the rain gauge location seems likely to be near the Ashton Canal basin, at the point where it joins the Rochdale Canal, near Dulcie Street and the London Road Goods Station, just off Piccadilly.
   
 ## .. In progress ..
+
+
