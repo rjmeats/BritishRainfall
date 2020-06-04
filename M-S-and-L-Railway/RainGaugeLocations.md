@@ -69,7 +69,7 @@ The following general web sites have all proved very useful during this exercise
 |----|--------|
 |[Wikipedia](https://en.wikipedia.org/wiki/Manchester,_Sheffield_and_Lincolnshire_Railway)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|Information about the history of MS&LR, when railways, stations and canals were built, directors|
 |[Rail Map Online](http://www.railmaponline.com/UKIEMap.php)|An enormously detailed historical map of UK and Ireland railway infrastructure. Extremely useful for clarifying which parts of the railway network were and were not owned by MS&LR (identified as *Great Central Railway* on these maps), and for showing the location of old stations. The site is also developing a canal equivalent.|
-|[Canal & River Trust](https://canalrivertrust.org.uk/enjoy-the-waterways/canal-and-river-network)|This has a very detailed map of the current canal network.|
+|[Canal & River Trust](https://canalrivertrust.org.uk/enjoy-the-waterways/canal-and-river-network)|This has a very detailed map of the current canal network (but does not show canals or sections of canals which no longer exist).|
 |[National Library of Scotland - Maps section](https://maps.nls.uk/)|All sorts of old maps of Britain (not just Scotland), particularly old OS maps showing the railway and canal networks as they were while the MS&LR rain gauges were still in operation, [this](https://maps.nls.uk/geo/explore/#zoom=18&lat=53.49567&lon=-1.83280&layers=168&b=1) for example.
 
 I've also produced an outline of MS&LR's portfolio of railway, canal and other assets [here](portfolio.md).
@@ -148,12 +148,37 @@ A set of MS&LR rain gauges are located at their stations along the line, with mo
 * **Wortley**
 * **Sheffield Victoria Station**
 
-Of these, only Wortley has any plausible non-railway location option. Wortley Hall, close to Wortley Station, was owned by the [Earl of Warncliffe](https://www.wikiwand.com/en/Earl_of_Wharncliffe) who was chairman of MS&LR, and so this might fit into the 'Private Residence' group of gauges, especially as this rain gauge has a much later operational start date.
+Of these, only *Wortley* has a plausible non-railway location option. Wortley Hall, close to Wortley Station and at a similar altitude, was owned by the [Earl of Warncliffe](https://www.wikiwand.com/en/Earl_of_Wharncliffe) who was chairman of MS&LR, and so this might fit into the 'Private Residence' group of gauges, especially as this rain gauge has a much later operational start date.
 
 A few other notes on some of these locations:
 * the early rainfall sheets for *Mottram Station* refer to it as *Mottram Matley's Field* instead. The 1890s sheet says the gauge moved 125 yards to the station in 1897, and records an altitude which is 50 ft higher. The original position of the gauge, in the field, is shown on the old OS Map, and is used as the grid reference for this location.
-* the 1920s *Penistone* rainfall sheet has a note saying the gauge is on the corner of a platform of the goods station, west of the passenger station. The goods station was the original Penistone station.
+* the 1920s *Penistone* rainfall sheet has a note saying the gauge is on the corner of a platform of the goods station, west of the passenger station. The goods station was the original Penistone passenger station, replaced in 1875.
 * the 1920s *Penistone Hazlehead* rainfall sheet has a note saying the gauge is in a small enclosed meadow. This is presumably close to Hazlehead Bridge station.
+
+## 'Chesterfield Canal' Rain Gauge Locations
+
+![Chesterfield Canal Timelines](Images/ChesterfieldCanalGroup.jpg)
+
+MS&LR bought the [Chesterfield Canal](https://en.wikipedia.org/wiki/Chesterfield_Canal) in 1847. The canal ran from Chesterfield to West Stockwith on the River Trent, passing through the Norwood Tunnel, Worksop and Retford on the way.
+
+A set of MS&LR rain gauges are located on the route of the canal, and all have rainfall measurements starting in 1855 or shortly afterwards. Some of these locations seem very likely to be canal-based:
+
+* **Chesterfield** had no MS&LR railway or station until 1893, long after the rain gauge started operations. 
+* West **Stockwith**, where the Chesterfield Canal joins the Trent does not have a railway, and there is no MS&LR railway line nearby
+* the Chesterfield Canal runs through a set of locks at **[Killamarsh] Norwood** just before entering the Norwood Tunnel. There are no MS&LR railway lines near to Norwood.
+
+For the other two locations, **Retford** and **Worksop**, there is a possibility of these being railway-related rather than canal-based, as the MS&LR Sheffield to Gainsborough line runs through these towns. There's no clear evidence one way or the other:
+* Retford and Worksop start recording rainfall in exactly the same month (may 1855) as Chesterfield and Stockwith, which are almost certainly canal-based locations
+* neither Retford's nor Worksops's rainfall sheets included 'Station' in their initial location name
+* but 'Station' has been retrospectively (time unknown) added to the Worksop sheets, without explanation
+* there's no significant altitude difference between the canal and railway locations
+
+In the absence of clear 'railway' indicators, Retford and Worksop are both being treated as canal-based rain gauge locations. (If one or both was to be treated as being a railway-based location, then a separate group of rain gauge(s) for the Sheffield to Gainsborough line would be in order.)
+
+A few other notes on the location of the Chesterfield Canal rain gauges:
+* Chesterfield's rain gauge shows some small changes in altitude during the 1890s and 1900s, around the time MS&LR were extending their railway network to Chesterfield and opening a station there. Chesterfield's 1920s rainfall sheet notes that the rain gauge is at the northern end of the platform near the signal box. Taken together, it seems likely that the Chesterfield rain gauge was moved from its initial canal-based location to the newly-built railway station in the 1890s or 1900s.
+* the Killamarsh Norwood rainfall sheets show a change in altitude from 1902. The initial altitude and the new altitude are both compatible with the Chesterfield Canal in the Norwood area - perhaps the gauge was moved to a different lock ?
+
 
 
 ## .. In progress ..
