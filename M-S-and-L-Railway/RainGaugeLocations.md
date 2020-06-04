@@ -140,7 +140,7 @@ Sheffield, Ashton-under-Lyne and Manchester Railway, built the [Woodhead Line ](
 A set of MS&LR rain gauges are located at their stations along the Woodhead line, with most of the gauges beginning operations in the early 1850s:
 
 * **Newton**
-* **Mottram Station**
+* **Mottram Station** [now called Broadbottom Station]
 * **Woodhead Station**
 * **Dunford Bridge Station**
 * **Penistone Hazlehead**
@@ -196,6 +196,24 @@ A set of MS&LR rain gauges are located at their railway stations in Lincolnshire
 There are no canal complications for these locations.
 
 The location of the New Holland rain gauge is shown on the old OS Map.
+
+## 'Private Residence' Rain Gauge Locations
+
+![Private Residence Timelines](Images/PrivateResidenceGroup.jpg)
+
+A few of the MS&LR rain gauge locations were located at private residences rather than at canal or railway sites. They all started reporting rainfall measurements in Spring 1860:
+
+* **Gate Burton** near Gainsborough was owned by George Morland Hutton who was a director of Great Central Railway
+* **Mottram Hill End** near the Mottram Station location was owned by John Chapman, MP for Great Grimsby and a director of MS&LR. His son Edward Chapman also lived there and was a director of Great Central Railway. The rain gauge at Hill End is shown on the old OS Map.
+* **Penistone Carlcotes** - John Chapman also owned Carlecotes, between Dunford Bridge and Hazlehead. So it seems he had two houses near the Woodhead line, one on each side of the Woodhead Tunnel.
+
+
+**Sheffield Brincliffe Edge** also seems to belong to this set given its start date and lack of any obvious links to MS&LR railway and canal systems. The early rainfall sheets just refer to this location as *Sheffield, The Edge* which is likely to indicate a property called *Edge End* on a track called *The Edge* near Brincliffe Edge. But owner of the property and his or her links to MS&LR have not been determined however.
+
+
+
+
+
 
 ## .. In progress ..
 
