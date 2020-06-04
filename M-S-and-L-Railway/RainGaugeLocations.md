@@ -137,7 +137,7 @@ For the remaining rain gauges assigned to these canal groupings, a little more e
 One of MS&LR's predecessor companies, the 
 Sheffield, Ashton-under-Lyne and Manchester Railway, built the [Woodhead Line ](https://en.wikipedia.org/wiki/Woodhead_line) between Manchester and Sheffield, via the [Woodhead Tunnel](https://en.wikipedia.org/wiki/Woodhead_Tunnel) through the Pennines. The line opened in 1845, with its Sheffield terminus moved to Sheffield Victoria Station in 1851.
 
-A set of MS&LR rain gauges are located at their stations along the line, with most of the gauges beginning operations in the early 1850s:
+A set of MS&LR rain gauges are located at their stations along the Woodhead line, with most of the gauges beginning operations in the early 1850s:
 
 * **Newton**
 * **Mottram Station**
@@ -179,7 +179,23 @@ A few other notes on the location of the Chesterfield Canal rain gauges:
 * Chesterfield's rain gauge shows some small changes in altitude during the 1890s and 1900s, around the time MS&LR were extending their railway network to Chesterfield and opening a station there. Chesterfield's 1920s rainfall sheet notes that the rain gauge is at the northern end of the platform near the signal box. Taken together, it seems likely that the Chesterfield rain gauge was moved from its initial canal-based location to the newly-built railway station in the 1890s or 1900s.
 * the Killamarsh Norwood rainfall sheets show a change in altitude from 1902. The initial altitude and the new altitude are both compatible with the Chesterfield Canal in the Norwood area - perhaps the gauge was moved to a different lock ?
 
+## 'Lincolnshire Railways' Rain Gauge Locations
 
+![Lincolnshire Railway Timelines](Images/LincolnshireRailwaysGroup.jpg)
+
+A set of MS&LR rain gauges are located at their railway stations in Lincolnshire, with the gauges all beginning operations in March 1859:
+
+* **Barnetby**
+* **Brigg**
+* **Gainsborough**
+* **Grimsby** [the 'Town' Station]
+* **Lincoln** [St Marks Station]
+* **Market Rasen**
+* **New Holland** [the old 'Town' Station]
+
+There are no canal complications for these locations.
+
+The location of the New Holland rain gauge is shown on the old OS Map.
 
 ## .. In progress ..
 
