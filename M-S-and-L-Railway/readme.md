@@ -6,14 +6,15 @@ The rainfall sheets for these gauges can be accessed on the [Met Office Archive 
 
 Contents of this folder:
 
-* **MSLR_GaugeInfo.xlsx** is an Excel spreadsheet listing each gauge and a few summary details, for example its period of operation.
+* **MSLR_GaugeInfo.xlsx** is an Excel spreadsheet listing each gauge and a few summary details, for example its period of operation and a grid reference.
 * **MSLR_GaugeSheetIndex_1860-1922.csv** identifies the Met Office PDF document and page number for each MS&LR rainfall sheet between 1860 and the end of 1922. It has one row per sheet for each gauge (with each sheet covering a decade of monthly rainfall figures).
 * **MSLR_GaugeSheetIndex_1850s.csv** as above, but covering the MS&LR rainfall sheets for the 1850s decade.
 * **MSLR_GaugeSheetIndex_1840s.csv** as above, but covering the MS&LR rainfall sheets for the 1840s decade.
 * **MSLR_GaugeSheetIndex.csv** combines the SheetIndex files for 1840a, 1850s and 1860-1922 into one file
 * **1840s.md** which describes how a few of the MS&LR rain gauges had roots in gauges being used in the 1840s.
 * **Portfolio.md** which lists some railways and canals owned by MS&LR
-* **the RainfallSheets** folder contains a PDF file for each MS&LR rain gauge location showing the combined set of rainfall sheets for that location, extracted from the Met Office archive.
+* **RainGaugeLocations.md** describes an attempt to assign grid references have been assigned to the MS&LR rain gauge locations.
+* the **RainfallSheets** folder contains a PDF file for each MS&LR rain gauge location showing the combined set of rainfall sheets for that location, extracted from the Met Office archive.
 
 The transcribed rainfall sheets for the MS&LR gauges (and many others) are becoming available on the Rainfall Rescue GitHub site is at [https://github.com/ed-hawkins/rainfall-rescue](https://github.com/ed-hawkins/rainfall-rescue).
 

@@ -40,7 +40,7 @@ The key MS&LR corporate events in relation to this are:
   * this became a take-over by MS&LR in 1874.
   * in 1895 the [Sheffield and South Yorkshire Navigation Company](https://en.wikipedia.org/wiki/Sheffield_and_South_Yorkshire_Navigation) bought the South Yorkshire canal and waterways interests off MS&LR and became a separate company.
 * in 1867 MS&LR formed the [Cheshire Lines Committee](https://en.wikipedia.org/wiki/Cheshire_Lines_Committee), a joint venture with Great Northern Railways to run local railway lines in Cheshire and Lancashire.
-* in 1897 MS&LR renamed itself as *The Great Central Railway*
+* in 1897 MS&LR renamed itself as the [Great Central Railway](https://en.wikipedia.org/wiki/Great_Central_Railway)
   * this name is used on the later MS&LR rainfall sheets
 * on 1st January 1923, the Great Central Railway merged with several other railways to form [LNER](https://en.wikipedia.org/wiki/London_and_North_Eastern_Railway)
   * all the MS&LR rain gauge records stop at the end of 1922
@@ -262,10 +262,5 @@ A couple of very short-lived MS&LR rain gauges do not fit in the above classific
 
 * **Combs House** only reported rainfall figures for 10 months in 1855. It has not been located on a map, but was presumably in the same area as Combs Reservoir, which is part of the Peak Forest Canal rain gauges.
 * **Rochdale** only reported rainfall figures for two years, 1863 and 1864. There is no obvious relationship to any of the other MS&LR gauges, and MS&LR did not have canal or railway networks in the area. One very weak connection is that the MS&LR's Ashton Canal joins the Rochdale Canal near the middle of Manchester.
-
-
-
-
-
 
 
