@@ -73,7 +73,7 @@ The grid references assigned to MS&LR are often approximate, even when the locat
   * but otherwise the grid reference assigned would be an arbitrarily selected canal feature in the vicinity, such as a lock or a basin, so the grid reference is really just indicative
 * for the private residence rain gauges, the rain gauge at Mottram Hill End is shown on the map, but for the others the grid reference is based on somewhere within the residence grounds at the appropriate altitude.
 
-The actual grid references selected for each location are listed in the 'Location Summary' sheet of the [MSLR_GaugeInfo spreadsheet](MSLR_GaugeInfo.xlsx).
+The actual grid references selected for each location are listed in the 'Location Summary' sheet of the [MSLR_GaugeInfo spreadsheet](MSLR_GaugeInfo.xlsx). The sheet also has a link to an old OS Map showing the location.
 
 ## Useful Sources of Information ##
 
