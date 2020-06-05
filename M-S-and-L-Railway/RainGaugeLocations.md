@@ -61,6 +61,20 @@ Aspects of the MS&LR rainfall sheets which can provide information which is used
 - the dates of operation; the MS&LR rain gauges often form sets with very similar start dates. This seems likely to indicate that the gauges in a set have related locations, e.g. by belonging to the same railway or canal. The dates can also tie in to some of the MS&LR corporate events or to dates when particular railway stations were in operation, allowing some location possibilities to be ruled in or out.
 - occasionally there are contemporary notes written on the rainfall sheet which provide useful information about the gauge location
 
+## Assigning a Grid Reference to a Location
+
+The grid references assigned to MS&LR are often approximate, even when the location type has been determined with some confidence:
+
+* in 10 cases, the rain gauge was marked on the old OS Map, making grid reference assignment straight-forward and accurate
+* for railway-based locations, the location was normally taken to be at a specific railway station, so a grid reference based on the station has been used. But in at least two cases (Mottram and Penistone Hazlehead), the rainfall sheets indicate that the gauge was in a field/meadow rather than within the station itself, and this may be true but not mentioned at other station locations too. 
+* for canal-based locations, the confidence in the gird reference assigned varies quite a lot:
+  * a few gauges are shown on the map
+  * sometimes the location name indicates a specific canal feature (lock or aqueduct) that can give a fairly accurate grid reference, especially in combination with the altitude value
+  * but otherwise the grid reference assigned would be an arbitrarily selected canal feature in the vicinity, such as a lock or a basin, so the grid reference is really just indicative
+* for the private residence rain gauges, the rain gauge at Mottram Hill End is shown on the map, but for the others the grid reference is based on somewhere within the residence grounds at the appropriate altitude.
+
+The actual grid references selected for each location are listed in the 'Location Summary' sheet of the [MSLR_GaugeInfo spreadsheet](MSLR_GaugeInfo.xlsx).
+
 ## Useful Sources of Information ##
 
 The following general web sites have all proved very useful during this exercise:
