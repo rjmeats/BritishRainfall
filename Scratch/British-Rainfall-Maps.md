@@ -3,12 +3,20 @@
 The annual *British Rainfall* almanacs sometimes contained useful maps showing the location of rain gauges in selected parts of the country. Here are images of some of the maps I spotted in the earlier editions.
 
 Contents:
+* [Great Britain and Ireland](#great-britain-and-ireland)
 * [Wales](#wales)
 * [The North of Scotland](#the-north-of-scotland)
 * [Border Counties](#border-counties)
 * [Devon and Cornwall](#devon-and-cornwall)
 * [Eastern England](#eastern-england)
 * [The Lake District](#the-lake-district)
+
+
+# Great Britain and Ireland
+
+This image is actually from [GJ Symons 1865 report for the British Association for the Advancement of Science](https://archive.org/details/reportofbritisha66brit/page/n263/mode/1up).
+
+![](BR-Map-Images/GB-and-Ireland-BAAS-1865.jpg)
 
 
 # Wales
@@ -88,4 +96,5 @@ See the chapter entitled '*The Most Rainy Part of England*' in BR 1896 for the i
 BR 1931 has a section labelled *Rain-gauges in and near Borrowdale* which starts on P17 describing the state of the Seathwaite area rain gauges (including The Stye and Stye Head Tarn) following an inspection visit by Dr Glasspoole.
 
 ![](BR-Map-Images/Seathwaite-Area-BR-1931-P18.jpg)
+
 
