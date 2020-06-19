@@ -1,10 +1,6 @@
-<sub style="font-size:20px">[ABBEY-LEIX-BLANDSFORT](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/ABBEY-LEIX-BLANDSFORT)</sub>
-
-<sub style="font-size:5">[ABERDARE-NANTHIR-RES](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/ABERDARE-NANTHIR-RES)</sub>
-
 ||||
 |----|----|----|
-|<sub style="font-size:20px">[ABBEY-LEIX-BLANDSFORT](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/ABBEY-LEIX-BLANDSFORT)</sub>|<sub style="font-size:20px">x</sub>|<sub style="font-size:20px">[ABERDARE-NANTHIR-RES](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/ABERDARE-NANTHIR-RES)</sub>|
+|[ABBEY-LEIX-BLANDSFORT](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/ABBEY-LEIX-BLANDSFORT)|:droplet:|[ABERDARE-NANTHIR-RES](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/ABERDARE-NANTHIR-RES)|
 |[ABERDEEN-MARISCHAL-COLLEGE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/ABERDEEN-MARISCHAL-COLLEGE)|:droplet:|[ABERDEEN-OBSERVATORY](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/ABERDEEN-OBSERVATORY)|
 |[ABERFOYLE-THE-INN](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/ABERFOYLE-THE-INN)|:droplet:|[ABERGAVENNY-LARCHFIELD](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/ABERGAVENNY-LARCHFIELD)|
 |[ABERYSTWYTH-GOGERDDAN](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/ABERYSTWYTH-GOGERDDAN)|:droplet:|[ABINGTON-PIGOTTS-ROYSTON](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/ABINGTON-PIGOTTS-ROYSTON)|
@@ -523,4 +519,3 @@
 |[YATTON-CHELVEY](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/YATTON-CHELVEY)|:droplet:|[YEALAND-CONYERS](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/YEALAND-CONYERS)|
 |[YORK-BOOTHAM](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/YORK-BOOTHAM)|:droplet:|[YORK-CHERRY-HILL](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/YORK-CHERRY-HILL)|
 |[YORK-MUSEUM](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/YORK-MUSEUM)|:droplet:
-
