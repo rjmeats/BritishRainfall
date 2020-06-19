@@ -1,5 +1,5 @@
 
-1038 locations:
+1038 locations under [https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA):
 
 * [ABBEY-LEIX-BLANDSFORT](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/ABBEY-LEIX-BLANDSFORT)
 * [ABERDARE-NANTHIR-RES](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/ABERDARE-NANTHIR-RES)
