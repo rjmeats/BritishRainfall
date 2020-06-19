@@ -1,4 +1,6 @@
 
+1038 locations:
+
 * [ABBEY-LEIX-BLANDSFORT](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/ABBEY-LEIX-BLANDSFORT)
 * [ABERDARE-NANTHIR-RES](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/ABERDARE-NANTHIR-RES)
 * [ABERDEEN-MARISCHAL-COLLEGE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/ABERDEEN-MARISCHAL-COLLEGE)
