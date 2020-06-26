@@ -1,5 +1,5 @@
 
-1178 locations under [https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA):
+1184 locations under [https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA):
 
 * [ABBEY-LEIX-BLANDSFORT](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/ABBEY-LEIX-BLANDSFORT)
 * [ABERDARE-MARDY](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/ABERDARE-MARDY)
@@ -103,6 +103,7 @@
 * [BERKELEY-GLOUCESTER](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/BERKELEY-GLOUCESTER)
 * [BERKELEY-SHARPNESS-DOCKS](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/BERKELEY-SHARPNESS-DOCKS)
 * [BERKHAMPSTEAD](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/BERKHAMPSTEAD)
+* [BERRIEDALE-LANGWELL](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/BERRIEDALE-LANGWELL)
 * [BEVERLEY-BROADGATE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/BEVERLEY-BROADGATE)
 * [BEVERLEY-HULL-BRIDGE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/BEVERLEY-HULL-BRIDGE)
 * [BICESTER-MIDDLETON-PARK](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/BICESTER-MIDDLETON-PARK)
@@ -224,6 +225,7 @@
 * [CARDIFF-HEATH-FILTERS](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/CARDIFF-HEATH-FILTERS)
 * [CARDIFF-LISVANE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/CARDIFF-LISVANE)
 * [CARDIFF-LLANISHEN-RES](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/CARDIFF-LLANISHEN-RES)
+* [CARDIFF-RADYR](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/CARDIFF-RADYR)
 * [CARDIFF-WW-NANT-PENIG](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/CARDIFF-WW-NANT-PENIG)
 * [CARDINGTON](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/CARDINGTON)
 * [CARGEN-DUMFRIES](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/CARGEN-DUMFRIES)
@@ -649,6 +651,7 @@
 * [LERWICK-OBSERVATORY](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/LERWICK-OBSERVATORY)
 * [LESLIE-LOTHRIE-RES](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/LESLIE-LOTHRIE-RES)
 * [LEVENTHORPE-HALL](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/LEVENTHORPE-HALL)
+* [LEWIS-BERNERA](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/LEWIS-BERNERA)
 * [LEYBURN](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/LEYBURN)
 * [LEYBURN-BOLTON-HALL](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/LEYBURN-BOLTON-HALL)
 * [LIBERTON-ALNWICK-HILL](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/LIBERTON-ALNWICK-HILL)
@@ -789,6 +792,7 @@
 * [NETHERTON-LODGE-FARM-RES](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/NETHERTON-LODGE-FARM-RES)
 * [NEW-GALLOWAY-GLENLEE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/NEW-GALLOWAY-GLENLEE)
 * [NEW-HOLLAND-RAILWAY-STATION](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/NEW-HOLLAND-RAILWAY-STATION)
+* [NEWBURY-WELBURY-PARK](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/NEWBURY-WELBURY-PARK)
 * [NEWBURY-WELFORD-PARK](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/NEWBURY-WELFORD-PARK)
 * [NEWCASTLE-CAMPHILL-WW](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/NEWCASTLE-CAMPHILL-WW)
 * [NEWCASTLE-GREEN-CRAG](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/NEWCASTLE-GREEN-CRAG)
@@ -1033,6 +1037,7 @@
 * [STONEFIELD-KINTYRE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/STONEFIELD-KINTYRE)
 * [STONEYKIRK-ARDWELL-HOUSE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/STONEYKIRK-ARDWELL-HOUSE)
 * [STONYHURST](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/STONYHURST)
+* [STORNOWAY-CASTLE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/STORNOWAY-CASTLE)
 * [STORNOWAY-LIGHTHOUSE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/STORNOWAY-LIGHTHOUSE)
 * [STOTFOLD-THREE-COUNTIES-HOSPITAL](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/STOTFOLD-THREE-COUNTIES-HOSPITAL)
 * [STOURHEAD](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/STOURHEAD)
@@ -1168,6 +1173,7 @@
 * [WORTH-WORTH-LODGE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/WORTH-WORTH-LODGE)
 * [WRAY-CASTLE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/WRAY-CASTLE)
 * [WREXHAM-CAE-LLWYD-RES](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/WREXHAM-CAE-LLWYD-RES)
+* [WREXHAM-TREVALYN](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/WREXHAM-TREVALYN)
 * [WREXHAM-WW-PACK-SADDLE-RES](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/WREXHAM-WW-PACK-SADDLE-RES)
 * [WROTTESLEY-WOLVERHAMPTON](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/WROTTESLEY-WOLVERHAMPTON)
 * [WYMONDHAM-BROWICK-HALL](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/WYMONDHAM-BROWICK-HALL)
