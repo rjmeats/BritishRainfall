@@ -1,5 +1,5 @@
 
-1334 locations under [https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA):
+1337 locations under [https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA):
 
 * [ABBEY-LEIX-BLANDSFORT](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/ABBEY-LEIX-BLANDSFORT)
 * [ABERDARE-MARDY](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/ABERDARE-MARDY)
@@ -25,6 +25,7 @@
 * [ALNESS-ARDROSS-CASTLE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/ALNESS-ARDROSS-CASTLE)
 * [ALNWICK-CASTLE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/ALNWICK-CASTLE)
 * [ALRESFORD-OVINGTON-RECTORY](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/ALRESFORD-OVINGTON-RECTORY)
+* [ALSTON-LOVELADY](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/ALSTON-LOVELADY)
 * [ALTHORP-HOUSE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/ALTHORP-HOUSE)
 * [ALTRINCHAM-BARRINGTON-HOUSE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/ALTRINCHAM-BARRINGTON-HOUSE)
 * [ALTRINCHAM-NORMANS-PLACE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/ALTRINCHAM-NORMANS-PLACE)
@@ -257,7 +258,6 @@
 * [CARLISLE-ABBEY-STREET](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/CARLISLE-ABBEY-STREET)
 * [CARLISLE-BUNKERS-HILL](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/CARLISLE-BUNKERS-HILL)
 * [CARLISLE-PARHAMBECK](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/CARLISLE-PARHAMBECK)
-* [CARLISLE-PITT](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/CARLISLE-PITT)
 * [CARLISLE-SCALEBY](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/CARLISLE-SCALEBY)
 * [CARLISLE-SHADDONGATE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/CARLISLE-SHADDONGATE)
 * [CARLISLE-SPITAL-CEMETERY](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/CARLISLE-SPITAL-CEMETERY)
@@ -482,6 +482,7 @@
 * [GALASHIELS-ABBOTSFORD-ROAD](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/GALASHIELS-ABBOTSFORD-ROAD)
 * [GALASHIELS-STANTLING-CRAIG](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/GALASHIELS-STANTLING-CRAIG)
 * [GANTON-HALL](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/GANTON-HALL)
+* [GARELOCHHEAD-ARDDARROCH](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/GARELOCHHEAD-ARDDARROCH)
 * [GARGRAVE-RAY-BRIDGE-HILL](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/GARGRAVE-RAY-BRIDGE-HILL)
 * [GARLIESTON-GALLOWAY-HOUSE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/GARLIESTON-GALLOWAY-HOUSE)
 * [GARREG-DDU-RES-NANTGWILLT-CHURCH](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/GARREG-DDU-RES-NANTGWILLT-CHURCH)
@@ -658,7 +659,7 @@
 * [JERSEY-ST-LOUIS](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/JERSEY-ST-LOUIS)
 * [JEVINGTON](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/JEVINGTON)
 * [JURA-ARDFIN](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/JURA-ARDFIN)
-* [KEITHLEY-KNOWLE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/KEITHLEY-KNOWLE)
+* [KEIGHLEY-KNOWLE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/KEIGHLEY-KNOWLE)
 * [KELSO-BROOMLANDS](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/KELSO-BROOMLANDS)
 * [KELSO-SPRINGWOOD-PARK](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/KELSO-SPRINGWOOD-PARK)
 * [KENDAL-ELLERGREEN](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/KENDAL-ELLERGREEN)
@@ -878,6 +879,7 @@
 * [MYNYDD-ST-JOHN-LLUESTWEN](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/MYNYDD-ST-JOHN-LLUESTWEN)
 * [NAIRN-ACHAREIDH](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/NAIRN-ACHAREIDH)
 * [NANTGLYN-PANT-Y-MAEN](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/NANTGLYN-PANT-Y-MAEN)
+* [NANTLLE-DOROTHEA-QUARRIES](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/NANTLLE-DOROTHEA-QUARRIES)
 * [NANTWICH-BADDILEY-WW](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/NANTWICH-BADDILEY-WW)
 * [NANTWICH-DORFOLD-HALL](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/NANTWICH-DORFOLD-HALL)
 * [NANTWICH-REASEHEATH](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/NANTWICH-REASEHEATH)
@@ -912,6 +914,7 @@
 * [NORWICH-CARROW-HOUSE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/NORWICH-CARROW-HOUSE)
 * [NORWICH-COSTESSEY](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/NORWICH-COSTESSEY)
 * [NORWICH-HEIGHAM-CEMETERY](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/NORWICH-HEIGHAM-CEMETERY)
+* [NOTTINGHAM-BASFORD](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/NOTTINGHAM-BASFORD)
 * [NOTTINGHAM-HIGHFIELD-HOUSE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/NOTTINGHAM-HIGHFIELD-HOUSE)
 * [NOTTINGHAM-STOKE-BARDALPH](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/NOTTINGHAM-STOKE-BARDALPH)
 * [NOTTINGHAM-STRELLEY-HALL](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/NOTTINGHAM-STRELLEY-HALL)
