@@ -1,6 +1,6 @@
-Generation time: Friday 10/07/2020 21:16:53 BST
+Generation time: Sunday 12/07/2020 23:29:40 BST
 
-1712 locations under [https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA):
+1719 locations under [https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA):
 
 * [ABBEY-LEIX-BLANDSFORT](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/ABBEY-LEIX-BLANDSFORT)
 * [ABERDARE-MARDY](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/ABERDARE-MARDY)
@@ -170,6 +170,7 @@ Generation time: Friday 10/07/2020 21:16:53 BST
 * [BISHOPWEARMOUTH](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/BISHOPWEARMOUTH)
 * [BLACKBURN-GUIDE-RES](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/BLACKBURN-GUIDE-RES)
 * [BLACKBURN-WITTON](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/BLACKBURN-WITTON)
+* [BLACKBURN-WW-OFFICE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/BLACKBURN-WW-OFFICE)
 * [BLACKPOOL-SOUTH-SHORE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/BLACKPOOL-SOUTH-SHORE)
 * [BLACKSOD-POINT](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/BLACKSOD-POINT)
 * [BLACKSTONE-EDGE-HOLLINGWORTH-LAKE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/BLACKSTONE-EDGE-HOLLINGWORTH-LAKE)
@@ -182,6 +183,7 @@ Generation time: Friday 10/07/2020 21:16:53 BST
 * [BLOXWICH-SNEYD-RES](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/BLOXWICH-SNEYD-RES)
 * [BLOXWORTH-HOUSE-BERE-REGIS](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/BLOXWORTH-HOUSE-BERE-REGIS)
 * [BODFARI-NANTLYS](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/BODFARI-NANTLYS)
+* [BODMIN-CASTLE-HILL-HOUSE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/BODMIN-CASTLE-HILL-HOUSE)
 * [BODMIN-CASTLE-ST](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/BODMIN-CASTLE-ST)
 * [BODMIN-FORE-ST](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/BODMIN-FORE-ST)
 * [BODMIN-LANHYDROCK](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/BODMIN-LANHYDROCK)
@@ -464,6 +466,7 @@ Generation time: Friday 10/07/2020 21:16:53 BST
 * [DOVER-BUCKLAND](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/DOVER-BUCKLAND)
 * [DOVER-CASTLE-ST](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/DOVER-CASTLE-ST)
 * [DOVER-MARTIN-MILL](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/DOVER-MARTIN-MILL)
+* [DOVER-WALDERSHARE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/DOVER-WALDERSHARE)
 * [DOVER-WW](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/DOVER-WW)
 * [DOWLAIS-GWERNLLWYN](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/DOWLAIS-GWERNLLWYN)
 * [DOWNHAM-HALL](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/DOWNHAM-HALL)
@@ -637,6 +640,7 @@ Generation time: Friday 10/07/2020 21:16:53 BST
 * [GORTON-RES](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/GORTON-RES)
 * [GOSPORT](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/GOSPORT)
 * [GOUDHURST-SCOTNEY-CASTLE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/GOUDHURST-SCOTNEY-CASTLE)
+* [GRANTHAM](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/GRANTHAM)
 * [GRANTHAM-DENTON-HALL](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/GRANTHAM-DENTON-HALL)
 * [GRANTHAM-SALTERSFORD](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/GRANTHAM-SALTERSFORD)
 * [GRANTOWN-ON-SPEY](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/GRANTOWN-ON-SPEY)
@@ -798,6 +802,7 @@ Generation time: Friday 10/07/2020 21:16:53 BST
 * [JERSEY-ST-LOUIS](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/JERSEY-ST-LOUIS)
 * [JEVINGTON](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/JEVINGTON)
 * [JURA-ARDFIN](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/JURA-ARDFIN)
+* [KEARSNEY-CHILTON-FARM](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/KEARSNEY-CHILTON-FARM)
 * [KEIGHLEY-KNOWLE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/KEIGHLEY-KNOWLE)
 * [KELSO-BROOMLANDS](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/KELSO-BROOMLANDS)
 * [KELSO-SPRINGWOOD-PARK](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/KELSO-SPRINGWOOD-PARK)
@@ -1371,6 +1376,7 @@ Generation time: Friday 10/07/2020 21:16:53 BST
 * [SHOEBURYNESS](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/SHOEBURYNESS)
 * [SHOTLEY-HALL](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/SHOTLEY-HALL)
 * [SHREWSBURY-FITZ](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/SHREWSBURY-FITZ)
+* [SIDMOUTH-MIX](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/SIDMOUTH-MIX)
 * [SILLOTH](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/SILLOTH)
 * [SION-MILLS](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/SION-MILLS)
 * [SKEGNESS-MARINE-GDNS](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/SKEGNESS-MARINE-GDNS)
@@ -1641,6 +1647,7 @@ Generation time: Friday 10/07/2020 21:16:53 BST
 * [WESTRAY-NOUP-HEAD](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/WESTRAY-NOUP-HEAD)
 * [WETHERBY-RIBSTON-HALL](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/WETHERBY-RIBSTON-HALL)
 * [WEYBRIDGE-OIL-MILLS](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/WEYBRIDGE-OIL-MILLS)
+* [WEYCOMBE-HASLEMERE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/WEYCOMBE-HASLEMERE)
 * [WEYMOUTH-WESTHAM](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/WEYMOUTH-WESTHAM)
 * [WHALEY-BRIDGE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/WHALEY-BRIDGE)
 * [WHARFEDALE-OUGHTERSHAW-HALL](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/WHARFEDALE-OUGHTERSHAW-HALL)
