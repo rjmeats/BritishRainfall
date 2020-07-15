@@ -1,4 +1,4 @@
-Generation time: Wednesday 15/07/2020 08:21:55 BST
+Generation time: Wednesday 15/07/2020 12:03:53 BST
 
 1765 locations under [https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA):
 
@@ -639,8 +639,8 @@ Generation time: Wednesday 15/07/2020 08:21:55 BST
 * [GLASGOW-TOLLCROSS-PARK](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/GLASGOW-TOLLCROSS-PARK)
 * [GLASGWM-TYN-Y-FFRIDD](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/GLASGWM-TYN-Y-FFRIDD)
 * [GLASTONBURY-HINDHAYES](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/GLASTONBURY-HINDHAYES)
-* [GLEN-FINLAS](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/GLEN-FINLAS)
-* [GLEN-FINLAS-RES](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/GLEN-FINLAS-RES)
+* [GLEN-FINLAS-PERTHSHIRE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/GLEN-FINLAS-PERTHSHIRE)
+* [GLEN-FINLAS-RES-DUMBARTONSHIRE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/GLEN-FINLAS-RES-DUMBARTONSHIRE)
 * [GLEN-GYLE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/GLEN-GYLE)
 * [GLENARM-CASTLE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/GLENARM-CASTLE)
 * [GLENCOE-GDNS](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/GLENCOE-GDNS)
@@ -979,7 +979,7 @@ Generation time: Wednesday 15/07/2020 08:21:55 BST
 * [LOCH-DHU](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/LOCH-DHU)
 * [LOCH-DRUNKIE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/LOCH-DRUNKIE)
 * [LOCH-DUICH-INVERINATE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/LOCH-DUICH-INVERINATE)
-* [LOCH-FINLAS](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/LOCH-FINLAS)
+* [LOCH-FINLAS-AYRSHIRE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/LOCH-FINLAS-AYRSHIRE)
 * [LOCH-KATRINE-TUNNEL-HILL-TOP](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/LOCH-KATRINE-TUNNEL-HILL-TOP)
 * [LOCH-LAGGAN-ARDVERIKIE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/LOCH-LAGGAN-ARDVERIKIE)
 * [LOCH-LEVEN-SLUICE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/LOCH-LEVEN-SLUICE)
