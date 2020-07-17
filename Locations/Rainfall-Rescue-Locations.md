@@ -1,6 +1,6 @@
-Generation time: Thursday 16/07/2020 23:18:17 BST
+Generation time: Friday 17/07/2020 18:09:19 BST
 
-1848 locations under [https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA):
+1851 locations under [https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA):
 
 * [ABBEY-LEIX-BLANDSFORT](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/ABBEY-LEIX-BLANDSFORT)
 * [ABERDARE-MARDY](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/ABERDARE-MARDY)
@@ -217,6 +217,7 @@ Generation time: Thursday 16/07/2020 23:18:17 BST
 * [BOSLEY-RES](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/BOSLEY-RES)
 * [BOSTON-BLACK-SLUICE-SKIRBECK](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/BOSTON-BLACK-SLUICE-SKIRBECK)
 * [BOSTON-GRAND-SLUICE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/BOSTON-GRAND-SLUICE)
+* [BOSTON-LINCS](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/BOSTON-LINCS)
 * [BOTHWELL-CASTLE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/BOTHWELL-CASTLE)
 * [BOURTON-ON-THE-WATER-CHARDWAR](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/BOURTON-ON-THE-WATER-CHARDWAR)
 * [BOURTON-ON-WATER-EASTFIELD](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/BOURTON-ON-WATER-EASTFIELD)
@@ -787,6 +788,7 @@ Generation time: Thursday 16/07/2020 23:18:17 BST
 * [HAVANT-FARLINGTON-PUMPING-STN](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/HAVANT-FARLINGTON-PUMPING-STN)
 * [HAVERFORDWEST-HIGH-STREET](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/HAVERFORDWEST-HIGH-STREET)
 * [HAVERFORDWEST-PICTON-CASTLE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/HAVERFORDWEST-PICTON-CASTLE)
+* [HAVERLAND](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/HAVERLAND)
 * [HAWARDEN](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/HAWARDEN)
 * [HAWICK-WOLFELEE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/HAWICK-WOLFELEE)
 * [HECKFIELD-PARK-CORNER](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/HECKFIELD-PARK-CORNER)
@@ -1638,6 +1640,7 @@ Generation time: Thursday 16/07/2020 23:18:17 BST
 * [TEWKESBURY-WW](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/TEWKESBURY-WW)
 * [TEYNHAM-NEW-GARDENS](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/TEYNHAM-NEW-GARDENS)
 * [THE-STYE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/THE-STYE)
+* [THETFORD](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/THETFORD)
 * [THETFORD-KILVERSTONE-HALL](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/THETFORD-KILVERSTONE-HALL)
 * [THIRLMERE-DALE-HEAD-HALL](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/THIRLMERE-DALE-HEAD-HALL)
 * [THIRSK-SOWERBY](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/THIRSK-SOWERBY)
