@@ -1,6 +1,6 @@
-Generation time: Tuesday 28/07/2020 17:15:03 BST
+Generation time: Wednesday 29/07/2020 07:42:23 BST
 
-2206 locations under [https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA):
+2205 locations under [https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA):
 
 * [ABBEY-LEIX-BLANDSFORT](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/ABBEY-LEIX-BLANDSFORT)
 * [ABBOTSBURY-CASTLE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/ABBOTSBURY-CASTLE)
@@ -758,7 +758,6 @@ Generation time: Tuesday 28/07/2020 17:15:03 BST
 * [ELVEDEN-HALL](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/ELVEDEN-HALL)
 * [ELY-STRETHAM-ENGINE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/ELY-STRETHAM-ENGINE)
 * [EMPINGHAM](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/EMPINGHAM)
-* [ENDSLEIGH-MILTON-ABBOT](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/ENDSLEIGH-MILTON-ABBOT)
 * [ENFIELD-SOUTHBURY-ROAD](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/ENFIELD-SOUTHBURY-ROAD)
 * [ENFIELD-VICARAGE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/ENFIELD-VICARAGE)
 * [ENNIS](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/ENNIS)
