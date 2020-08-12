@@ -1,11 +1,11 @@
-Generation time: Wednesday 12/08/2020 07:00:09 BST
+Generation time: Wednesday 12/08/2020 17:04:30 BST
 
 95 locations under [https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA) which contributed to the [Met Office 2020 UK Climate Report](https://www.metoffice.gov.uk/research/climate/maps-and-data/about/state-of-climate):
 
-* [GREENOCK-WW-LOCH-THOM](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/GREENOCK-WW-LOCH-THOM) : 5 days ago : 2020-08-07 00:11:14 +0100 
-* [GREENOCK-WW-PROSPECT-HILL](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/GREENOCK-WW-PROSPECT-HILL) : 5 days ago : 2020-08-07 00:11:14 +0100 
-* [GREENOCK-WW-SPANGO-BURN](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/GREENOCK-WW-SPANGO-BURN) : 5 days ago : 2020-08-07 00:11:14 +0100 
-* [STORNOWAY-LIGHTHOUSE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/STORNOWAY-LIGHTHOUSE) : 5 days ago : 2020-08-07 00:11:14 +0100 
+* [GREENOCK-WW-LOCH-THOM](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/GREENOCK-WW-LOCH-THOM) : 6 days ago : 2020-08-07 00:11:14 +0100 
+* [GREENOCK-WW-PROSPECT-HILL](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/GREENOCK-WW-PROSPECT-HILL) : 6 days ago : 2020-08-07 00:11:14 +0100 
+* [GREENOCK-WW-SPANGO-BURN](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/GREENOCK-WW-SPANGO-BURN) : 6 days ago : 2020-08-07 00:11:14 +0100 
+* [STORNOWAY-LIGHTHOUSE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/STORNOWAY-LIGHTHOUSE) : 6 days ago : 2020-08-07 00:11:14 +0100 
 * [ABERGAVENNY-LARCHFIELD](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/ABERGAVENNY-LARCHFIELD) : 12 days ago : 2020-07-31 15:48:44 +0100 
 * [WHITTLESEA-MERE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/WHITTLESEA-MERE) : 2 weeks ago : 2020-07-26 15:56:01 +0100 
 * [IPSWICH-BELSTEAD-HALL](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/IPSWICH-BELSTEAD-HALL) : 3 weeks ago : 2020-07-24 21:28:29 +0100 
