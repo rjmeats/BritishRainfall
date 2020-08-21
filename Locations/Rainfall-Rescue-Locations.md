@@ -1,4 +1,4 @@
-Generation time: Thursday 20/08/2020 18:02:02 BST
+Generation time: Friday 21/08/2020 08:09:31 BST
 
 2810 locations under [https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA):
 
@@ -1422,7 +1422,7 @@ Generation time: Thursday 20/08/2020 18:02:02 BST
 * [KILPATRICK-HILLS-LOCH-COCHNO](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/KILPATRICK-HILLS-LOCH-COCHNO)
 * [KILSYTH-FAUGHLIN-RES](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/KILSYTH-FAUGHLIN-RES)
 * [KILSYTH-INNSBRIDGE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/KILSYTH-INNSBRIDGE)
-* [KILTON-SOMERSERT](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/KILTON-SOMERSERT)
+* [KILTON-SOMERSET](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/KILTON-SOMERSET)
 * [KIMBOLTON-GRANTSFIELD](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/KIMBOLTON-GRANTSFIELD)
 * [KINETON-FENNY-COMPTON](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/KINETON-FENNY-COMPTON)
 * [KINFAUNS-CASTLE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/KINFAUNS-CASTLE)
