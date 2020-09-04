@@ -1,6 +1,6 @@
-Generation time: Thursday 03/09/2020 08:04:53 BST
+Generation time: Thursday 03/09/2020 22:58:34 BST
 
-2939 locations under [https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA):
+2944 locations under [https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA):
 
 [MO-2020] indicates a location which contributed to the [Met Office 2020 UK Climate Report](https://www.metoffice.gov.uk/research/climate/maps-and-data/about/state-of-climate):
 
@@ -1408,6 +1408,7 @@ Generation time: Thursday 03/09/2020 08:04:53 BST
 * [INVERARAY-CASTLE-GDNS](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/INVERARAY-CASTLE-GDNS)
 * [INVERESK](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/INVERESK)
 * [INVERGARRY](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/INVERGARRY)
+* [INVERGORDON-CASTLE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/INVERGORDON-CASTLE)
 * [INVERNESS-CULLODEN-HOUSE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/INVERNESS-CULLODEN-HOUSE)
 * [INVERNESS-HIGH-SCHOOL](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/INVERNESS-HIGH-SCHOOL)
 * [INVERSHIN](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/INVERSHIN)
@@ -1415,6 +1416,7 @@ Generation time: Thursday 03/09/2020 08:04:53 BST
 * [IPSWICH-BISHOPS-HILL](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/IPSWICH-BISHOPS-HILL)
 * [IPSWICH-MUSEUM](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/IPSWICH-MUSEUM)
 * [IPSWICH-ORWELL-PARK](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/IPSWICH-ORWELL-PARK)
+* [IPSWICH-WOOLVERSTONE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/IPSWICH-WOOLVERSTONE)
 * [IRONGRAY-DRUM-PARK](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/IRONGRAY-DRUM-PARK)
 * [ISLAY-ARDBEG](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/ISLAY-ARDBEG)
 * [ISLAY-EALLABUS](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/ISLAY-EALLABUS) [MO-2020]
@@ -1424,6 +1426,7 @@ Generation time: Thursday 03/09/2020 08:04:53 BST
 * [ISLAY-RHUVAAL](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/ISLAY-RHUVAAL)
 * [ISLE-OF-EIGG](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/ISLE-OF-EIGG)
 * [ISLE-OF-MAY](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/ISLE-OF-MAY) [MO-2020]
+* [ISLEWORTH-SPRING-GROVE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/ISLEWORTH-SPRING-GROVE)
 * [ITCHEN-ABBAS-CHILLAND](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/ITCHEN-ABBAS-CHILLAND)
 * [JEDBURGH-CRAILING](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/JEDBURGH-CRAILING)
 * [JEDBURGH-SUNNYSIDE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/JEDBURGH-SUNNYSIDE)
@@ -1676,6 +1679,7 @@ Generation time: Thursday 03/09/2020 08:04:53 BST
 * [LOCH-NESS-ABERCHALDER](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/LOCH-NESS-ABERCHALDER)
 * [LOCH-NESS-FOYERS](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/LOCH-NESS-FOYERS)
 * [LOCH-NESS-GARTHBEG](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/LOCH-NESS-GARTHBEG)
+* [LOCH-NESS-KILLIN](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/LOCH-NESS-KILLIN)
 * [LOCH-NEVIS-INVERIE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/LOCH-NEVIS-INVERIE)
 * [LOCH-QUOICH-LOAN](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/LOCH-QUOICH-LOAN)
 * [LOCH-RANNOCH](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/LOCH-RANNOCH)
@@ -2158,6 +2162,7 @@ Generation time: Thursday 03/09/2020 08:04:53 BST
 * [POMONA-DEERNESS](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/POMONA-DEERNESS)
 * [POOLEWE-INVEREWE-GDNS](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/POOLEWE-INVEREWE-GDNS)
 * [POPLAR-ISLAND-GDNS](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/POPLAR-ISLAND-GDNS)
+* [POPLAR-OLD-FORD](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/POPLAR-OLD-FORD)
 * [PORTARLINGTON](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/PORTARLINGTON)
 * [PORTCHESTER-NOEL-COTTAGE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/PORTCHESTER-NOEL-COTTAGE)
 * [PORTLAND-BILL](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/PORTLAND-BILL)

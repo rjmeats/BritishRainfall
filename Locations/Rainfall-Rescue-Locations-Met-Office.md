@@ -1,11 +1,11 @@
-Generation time: Thursday 03/09/2020 08:04:53 BST
+Generation time: Thursday 03/09/2020 22:58:34 BST
 
 95 locations under [https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA) which contributed to the [Met Office 2020 UK Climate Report](https://www.metoffice.gov.uk/research/climate/maps-and-data/about/state-of-climate):
 
-* [YORK-CHERRY-HILL](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/YORK-CHERRY-HILL) : 9 hours ago : 2020-09-02 23:14:52 +0100 
-* [CREWKERNE-BINCOMBE-HOUSE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/CREWKERNE-BINCOMBE-HOUSE) : 13 days ago : 2020-08-20 21:58:30 +0100 
-* [KEW-OBSERVATORY](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/KEW-OBSERVATORY) : 13 days ago : 2020-08-20 21:58:30 +0100 
-* [LOCH-LEVEN-SLUICE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/LOCH-LEVEN-SLUICE) : 13 days ago : 2020-08-20 21:58:30 +0100 
+* [YORK-CHERRY-HILL](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/YORK-CHERRY-HILL) : 24 hours ago : 2020-09-02 23:14:52 +0100 
+* [CREWKERNE-BINCOMBE-HOUSE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/CREWKERNE-BINCOMBE-HOUSE) : 2 weeks ago : 2020-08-20 21:58:30 +0100 
+* [KEW-OBSERVATORY](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/KEW-OBSERVATORY) : 2 weeks ago : 2020-08-20 21:58:30 +0100 
+* [LOCH-LEVEN-SLUICE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/LOCH-LEVEN-SLUICE) : 2 weeks ago : 2020-08-20 21:58:30 +0100 
 * [GREENOCK-WW-LOCH-THOM](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/GREENOCK-WW-LOCH-THOM) : 4 weeks ago : 2020-08-07 00:11:14 +0100 
 * [GREENOCK-WW-PROSPECT-HILL](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/GREENOCK-WW-PROSPECT-HILL) : 4 weeks ago : 2020-08-07 00:11:14 +0100 
 * [GREENOCK-WW-SPANGO-BURN](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/GREENOCK-WW-SPANGO-BURN) : 4 weeks ago : 2020-08-07 00:11:14 +0100 
