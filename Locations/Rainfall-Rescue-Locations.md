@@ -1,6 +1,6 @@
-Generation time: Monday 07/09/2020 13:04:48 BST
+Generation time: Monday 07/09/2020 17:26:36 BST
 
-3212 locations under [https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA):
+3213 locations under [https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA):
 
 [MO-2020] indicates a location which contributed to the [Met Office 2020 UK Climate Report](https://www.metoffice.gov.uk/research/climate/maps-and-data/about/state-of-climate):
 
@@ -1626,6 +1626,7 @@ Generation time: Monday 07/09/2020 13:04:48 BST
 * [KIMBOLTON-GRANTSFIELD](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/KIMBOLTON-GRANTSFIELD)
 * [KINETON-FENNY-COMPTON](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/KINETON-FENNY-COMPTON)
 * [KINFAUNS-CASTLE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/KINFAUNS-CASTLE)
+* [KINFAUNS-MANSE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/KINFAUNS-MANSE)
 * [KINGSBRIDGE-BURTON](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/KINGSBRIDGE-BURTON)
 * [KINGSTEIGNTON-TEIGNBRIDGE-HOUSE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/KINGSTEIGNTON-TEIGNBRIDGE-HOUSE)
 * [KINGSTON-COUNTY-HALL](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/KINGSTON-COUNTY-HALL)
@@ -2071,7 +2072,7 @@ Generation time: Monday 07/09/2020 13:04:48 BST
 * [NANTGLYN-PANT-Y-MAEN](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/NANTGLYN-PANT-Y-MAEN)
 * [NANTLLE-DOROTHEA-QUARRIES](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/NANTLLE-DOROTHEA-QUARRIES)
 * [NANTWICH-BADDILEY-WW](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/NANTWICH-BADDILEY-WW)
-* [NANTWICH-CHOLMONDELLY-CASTLE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/NANTWICH-CHOLMONDELLY-CASTLE)
+* [NANTWICH-CHOLMONDELEY-CASTLE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/NANTWICH-CHOLMONDELEY-CASTLE)
 * [NANTWICH-DORFOLD-HALL](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/NANTWICH-DORFOLD-HALL)
 * [NANTWICH-REASEHEATH](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/NANTWICH-REASEHEATH)
 * [NARBERTH-TEGFYNYDD](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/NARBERTH-TEGFYNYDD)
