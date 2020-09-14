@@ -1,6 +1,6 @@
-Generation time: Friday 11/09/2020 17:45:10 BST
+Generation time: Monday 14/09/2020 17:06:02 BST
 
-3322 locations under [https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA):
+3333 locations under [https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA):
 
 [MO-2020] indicates a location which contributed to the [Met Office 2020 UK Climate Report](https://www.metoffice.gov.uk/research/climate/maps-and-data/about/state-of-climate):
 
@@ -57,6 +57,7 @@ Generation time: Friday 11/09/2020 17:45:10 BST
 * [ALDBOROUGH-ALDRINGHAM](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/ALDBOROUGH-ALDRINGHAM)
 * [ALDERLEY-RECTORY](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/ALDERLEY-RECTORY)
 * [ALDERNEY-HARBOUR](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/ALDERNEY-HARBOUR)
+* [ALDERSHOT](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/ALDERSHOT)
 * [ALDERSHOT-CAMP](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/ALDERSHOT-CAMP)
 * [ALDWORTH-READING](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/ALDWORTH-READING)
 * [ALKHAM-LOWER-STANDEN](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/ALKHAM-LOWER-STANDEN)
@@ -458,6 +459,7 @@ Generation time: Friday 11/09/2020 17:45:10 BST
 * [BRISTOL-STAPLETON-RECTORY](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/BRISTOL-STAPLETON-RECTORY)
 * [BRIXHAM-COMBE-BANK](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/BRIXHAM-COMBE-BANK)
 * [BRIXTON-ACRE-LANE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/BRIXTON-ACRE-LANE)
+* [BROAD-CHALKE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/BROAD-CHALKE)
 * [BROAD-HINTON](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/BROAD-HINTON)
 * [BROADBOTTOM-HAREWOOD-LODGE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/BROADBOTTOM-HAREWOOD-LODGE)
 * [BROADCLYST-BROCKHILL](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/BROADCLYST-BROCKHILL)
@@ -559,6 +561,7 @@ Generation time: Friday 11/09/2020 17:45:10 BST
 * [CAMBUSLANG-BUSHEY-HILL](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/CAMBUSLANG-BUSHEY-HILL)
 * [CAMBUSLANG-GREENLEES-FILTERS](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/CAMBUSLANG-GREENLEES-FILTERS)
 * [CAMDEN-SQUARE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/CAMDEN-SQUARE)
+* [CAMDEN-TOWN](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/CAMDEN-TOWN)
 * [CAMELFORD-STANNON-CLAY-WORKS](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/CAMELFORD-STANNON-CLAY-WORKS)
 * [CAMPBELTOWN-SOUTH-PARK](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/CAMPBELTOWN-SOUTH-PARK)
 * [CANNINGTON-ASHFORD-WW](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/CANNINGTON-ASHFORD-WW)
@@ -1058,6 +1061,7 @@ Generation time: Friday 11/09/2020 17:45:10 BST
 * [EAST-MALLING-RESEARCH-STATION](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/EAST-MALLING-RESEARCH-STATION)
 * [EAST-TISTED-ROTHERFIELD](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/EAST-TISTED-ROTHERFIELD)
 * [EAST-YELL-SHETLAND](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/EAST-YELL-SHETLAND) [MO-2020]
+* [EASTBOURNE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/EASTBOURNE)
 * [EASTBOURNE-WILMINGTON-SQUARE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/EASTBOURNE-WILMINGTON-SQUARE)
 * [EASTON-ON-THE-HILL](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/EASTON-ON-THE-HILL)
 * [EASTWOOD-COLLIERY](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/EASTWOOD-COLLIERY)
@@ -1242,6 +1246,7 @@ Generation time: Friday 11/09/2020 17:45:10 BST
 * [GARGRAVE-BANKS-HILL-BANK](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/GARGRAVE-BANKS-HILL-BANK)
 * [GARGRAVE-GREAT-SCARNBER](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/GARGRAVE-GREAT-SCARNBER)
 * [GARGRAVE-RAY-BRIDGE-HILL](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/GARGRAVE-RAY-BRIDGE-HILL)
+* [GARGUNNOCK](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/GARGUNNOCK)
 * [GARLIESTON-GALLOWAY-HOUSE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/GARLIESTON-GALLOWAY-HOUSE)
 * [GARREG-DDU-RES-NANTGWILLT-CHURCH](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/GARREG-DDU-RES-NANTGWILLT-CHURCH)
 * [GARSTANG-BARNACRE-RES](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/GARSTANG-BARNACRE-RES) [MO-2020]
@@ -1989,6 +1994,7 @@ Generation time: Friday 11/09/2020 17:45:10 BST
 * [MALIN-HEAD](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/MALIN-HEAD)
 * [MALLOW-LONGUEVILLE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/MALLOW-LONGUEVILLE)
 * [MALMESBURY-CHARLTON](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/MALMESBURY-CHARLTON)
+* [MALTON](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/MALTON)
 * [MALVERN-BRITISH-CAMP-RES](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/MALVERN-BRITISH-CAMP-RES)
 * [MALVERN-WEST](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/MALVERN-WEST)
 * [MANCHESTER-ARDWICK](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/MANCHESTER-ARDWICK)
@@ -2074,6 +2080,7 @@ Generation time: Friday 11/09/2020 17:45:10 BST
 * [MIDMAR-BLACKSTOCK](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/MIDMAR-BLACKSTOCK)
 * [MIDMAR-DUNECHT-OBSERVATORY](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/MIDMAR-DUNECHT-OBSERVATORY)
 * [MILE-END](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/MILE-END)
+* [MILLFIELD-STIRLING](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/MILLFIELD-STIRLING)
 * [MILNATHORT-LEDLANET](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/MILNATHORT-LEDLANET)
 * [MILNE-GRADEN](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/MILNE-GRADEN)
 * [MILNGAVIE-DOUGALSTON](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/MILNGAVIE-DOUGALSTON)
@@ -2622,6 +2629,7 @@ Generation time: Friday 11/09/2020 17:45:10 BST
 * [SARK](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/SARK)
 * [SARNESFIELD-GRANGE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/SARNESFIELD-GRANGE)
 * [SAUNDERSFOOT-HEAN-CASTLE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/SAUNDERSFOOT-HEAN-CASTLE)
+* [SAWBRIDGEWORTH-PUMPING-STATION](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/SAWBRIDGEWORTH-PUMPING-STATION)
 * [SAXLINGHAM-NETHERGATE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/SAXLINGHAM-NETHERGATE)
 * [SCAFELL-PIKE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/SCAFELL-PIKE)
 * [SCALPAY](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/SCALPAY)
@@ -2775,6 +2783,7 @@ Generation time: Friday 11/09/2020 17:45:10 BST
 * [SOUTHPORT-LORD-STREET-STATION](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/SOUTHPORT-LORD-STREET-STATION)
 * [SOUTHWELL-OXTON](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/SOUTHWELL-OXTON)
 * [SOUTHWICK](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/SOUTHWICK)
+* [SOUTHWOLD](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/SOUTHWOLD)
 * [SOWERBY-BRIDGE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/SOWERBY-BRIDGE)
 * [SPADE-MILL-PRESTON-WW](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/SPADE-MILL-PRESTON-WW)
 * [SPALDING-PODE-HOLE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/SPALDING-PODE-HOLE)
@@ -2888,6 +2897,7 @@ Generation time: Friday 11/09/2020 17:45:10 BST
 * [STRETTON-ON-DUNSMORE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/STRETTON-ON-DUNSMORE)
 * [STRICHEN](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/STRICHEN)
 * [STROMA](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/STROMA)
+* [STRONACHLACHAR-INVERGYLE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/STRONACHLACHAR-INVERGYLE)
 * [STRONTIAN-LAUDALE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/STRONTIAN-LAUDALE)
 * [STROOD-WW](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/STROOD-WW)
 * [STROUD](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/STROUD)
@@ -3106,6 +3116,7 @@ Generation time: Friday 11/09/2020 17:45:10 BST
 * [WALTON-LIVERPOOL](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/WALTON-LIVERPOOL)
 * [WANLOCKHEAD](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/WANLOCKHEAD)
 * [WANSTEAD-RED-BRIDGE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/WANSTEAD-RED-BRIDGE)
+* [WANTAGE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/WANTAGE)
 * [WARE-GRAMMAR-SCHOOL](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/WARE-GRAMMAR-SCHOOL)
 * [WARE-RED-HOUSE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/WARE-RED-HOUSE) [MO-2020]
 * [WAREHAM-BINNEGAR-HALL](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/WAREHAM-BINNEGAR-HALL)
