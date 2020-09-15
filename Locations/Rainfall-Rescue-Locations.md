@@ -1,4 +1,4 @@
-Generation time: Tuesday 15/09/2020 08:06:30 BST
+Generation time: Tuesday 15/09/2020 17:23:16 BST
 
 3343 locations under [https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA):
 
@@ -1128,7 +1128,6 @@ Generation time: Tuesday 15/09/2020 08:06:30 BST
 * [ERMINGTON-STRODE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/ERMINGTON-STRODE)
 * [ESHER-SEWAGE-WORKS](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/ESHER-SEWAGE-WORKS) [MO-2020]
 * [ESKDALEMUIR-OBSY](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/ESKDALEMUIR-OBSY)
-* [ESTHWAITE-LODGE-LANCASHIRE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/ESTHWAITE-LODGE-LANCASHIRE)
 * [ETON-TANGIER](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/ETON-TANGIER)
 * [ETRURIA](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/ETRURIA)
 * [ETTRICK-MANSE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/ETTRICK-MANSE)
@@ -1641,7 +1640,6 @@ Generation time: Tuesday 15/09/2020 08:06:30 BST
 * [JURA-ARDFIN](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/JURA-ARDFIN)
 * [JURA-BAY-OF-SMALL-ISLES](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/JURA-BAY-OF-SMALL-ISLES)
 * [JURA-LOWLANDMANS-BAY](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/JURA-LOWLANDMANS-BAY)
-* [JURA-LOWLANDSMAN-BAY](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/JURA-LOWLANDSMAN-BAY)
 * [KEARSNEY-CHILTON-FARM](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/KEARSNEY-CHILTON-FARM)
 * [KEIGHLEY-KNOWLE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/KEIGHLEY-KNOWLE)
 * [KEITH-STATION](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/KEITH-STATION)
@@ -2253,6 +2251,7 @@ Generation time: Tuesday 15/09/2020 08:06:30 BST
 * [NORTHAMPTON-HAZELWOOD](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/NORTHAMPTON-HAZELWOOD)
 * [NORTHFIELD-WEST-HEATH-HOUSE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/NORTHFIELD-WEST-HEATH-HOUSE)
 * [NORTHLEACH-SHERBORNE-HOUSE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/NORTHLEACH-SHERBORNE-HOUSE)
+* [NORTHMAVINE-LOCHEND](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/NORTHMAVINE-LOCHEND)
 * [NORTHOP-SOUGHTON-HALL](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/NORTHOP-SOUGHTON-HALL)
 * [NORTHWICH-HIGHFIELD](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/NORTHWICH-HIGHFIELD)
 * [NORTHWICH-LOSTOCK-GRALAM](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/NORTHWICH-LOSTOCK-GRALAM)
@@ -2448,6 +2447,7 @@ Generation time: Tuesday 15/09/2020 08:06:30 BST
 * [POLMAISE-CASTLE-GDNS](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/POLMAISE-CASTLE-GDNS)
 * [POLMONT-VELLORE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/POLMONT-VELLORE)
 * [POMONA-DEERNESS](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/POMONA-DEERNESS)
+* [POMONA-TANKERNES](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/POMONA-TANKERNES)
 * [PONTEFRACT-FERN-HILL](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/PONTEFRACT-FERN-HILL)
 * [POOLE-PARKSTONE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/POOLE-PARKSTONE)
 * [POOLEWE-INVEREWE-GDNS](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/POOLEWE-INVEREWE-GDNS)
