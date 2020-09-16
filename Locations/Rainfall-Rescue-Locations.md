@@ -1,6 +1,6 @@
-Generation time: Wednesday 16/09/2020 17:54:19 BST
+Generation time: Wednesday 16/09/2020 21:30:54 BST
 
-3385 locations under [https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA):
+3398 locations under [https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA):
 
 [MO-2020] indicates a location which contributed to the [Met Office 2020 UK Climate Report](https://www.metoffice.gov.uk/research/climate/maps-and-data/about/state-of-climate):
 
@@ -29,13 +29,16 @@ Generation time: Wednesday 16/09/2020 17:54:19 BST
 * [ABERGWESYN-TRALLWN](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/ABERGWESYN-TRALLWN)
 * [ABERLOUR-MIX](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/ABERLOUR-MIX)
 * [ABERYSTWYTH-CASTLE-GROUNDS](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/ABERYSTWYTH-CASTLE-GROUNDS)
+* [ABERYSTWYTH-CORPORATION-YARD](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/ABERYSTWYTH-CORPORATION-YARD)
 * [ABERYSTWYTH-GOGERDDAN](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/ABERYSTWYTH-GOGERDDAN)
+* [ABERYSTWYTH-NORTH-PARADE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/ABERYSTWYTH-NORTH-PARADE)
 * [ABINGDON-CULHAM](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/ABINGDON-CULHAM)
 * [ABINGDON-NUNEHAM-PARK](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/ABINGDON-NUNEHAM-PARK)
 * [ABINGDON-SEWAGE-WORKS](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/ABINGDON-SEWAGE-WORKS)
 * [ABINGTON-PIGOTTS-ROYSTON](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/ABINGTON-PIGOTTS-ROYSTON)
 * [ACCRINGTON-MILNSHAW-PARK](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/ACCRINGTON-MILNSHAW-PARK)
 * [ACCRINGTON-WARMDEN-RES](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/ACCRINGTON-WARMDEN-RES)
+* [ACHNACROISH](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/ACHNACROISH)
 * [ACHNAHARD](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/ACHNAHARD)
 * [ACKLINGTON-BROOMHILL-COLLIERY](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/ACKLINGTON-BROOMHILL-COLLIERY)
 * [ACKWORTH-SCHOOL](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/ACKWORTH-SCHOOL)
@@ -59,6 +62,7 @@ Generation time: Wednesday 16/09/2020 17:54:19 BST
 * [ALDERNEY-HARBOUR](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/ALDERNEY-HARBOUR)
 * [ALDERSHOT](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/ALDERSHOT)
 * [ALDERSHOT-CAMP](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/ALDERSHOT-CAMP)
+* [ALDWINKLE-ST-PETER](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/ALDWINKLE-ST-PETER)
 * [ALDWORTH-READING](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/ALDWORTH-READING)
 * [ALFORD-ABERDEENSHIRE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/ALFORD-ABERDEENSHIRE)
 * [ALKHAM-LOWER-STANDEN](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/ALKHAM-LOWER-STANDEN)
@@ -1578,13 +1582,20 @@ Generation time: Wednesday 16/09/2020 17:54:19 BST
 * [HOOTON-WW](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/HOOTON-WW)
 * [HORNCASTLE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/HORNCASTLE)
 * [HORNCASTLE-BUCKNALL](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/HORNCASTLE-BUCKNALL)
+* [HORNCASTLE-HEMINGBY](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/HORNCASTLE-HEMINGBY)
+* [HORNCASTLE-LINC](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/HORNCASTLE-LINC)
+* [HORNCASTLE-QUEEN-STREET](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/HORNCASTLE-QUEEN-STREET)
 * [HORNCASTLE-REVESBY](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/HORNCASTLE-REVESBY)
 * [HORNSEA-TOWN-HALL](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/HORNSEA-TOWN-HALL)
 * [HORNSEY-HIGH-STREET](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/HORNSEY-HIGH-STREET)
+* [HORSHAM-CHRISTS-HOSPITAL](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/HORSHAM-CHRISTS-HOSPITAL)
 * [HORSHAM-LEONARDS-LEE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/HORSHAM-LEONARDS-LEE)
 * [HORSHAM-MANOR-HOUSE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/HORSHAM-MANOR-HOUSE)
 * [HORSHAM-WIMBLEHURST](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/HORSHAM-WIMBLEHURST) [MO-2020]
 * [HORSLEY-TOWERS](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/HORSLEY-TOWERS)
+* [HORTON-HALL-BRADFORD](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/HORTON-HALL-BRADFORD)
+* [HORTON-PARK-HYTHE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/HORTON-PARK-HYTHE)
+* [HOUGHTON-LE-SPRING-MYRE-HALL](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/HOUGHTON-LE-SPRING-MYRE-HALL)
 * [HOVINGHAM](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/HOVINGHAM)
 * [HOWICK-HALL](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/HOWICK-HALL)
 * [HOY-CANTICKHEAD](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/HOY-CANTICKHEAD)
@@ -1603,11 +1614,13 @@ Generation time: Wednesday 16/09/2020 17:54:19 BST
 * [HUNGERFORD](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/HUNGERFORD)
 * [HUNMANBY-WOLD-NEWTON](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/HUNMANBY-WOLD-NEWTON)
 * [HUNSTANTON](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/HUNSTANTON)
+* [HUNTINGDON](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/HUNTINGDON)
 * [HUNTINGDON-BRAMPTON](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/HUNTINGDON-BRAMPTON)
 * [HUNTINGDON-HINCHINGBROOKE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/HUNTINGDON-HINCHINGBROOKE)
 * [HURST-BROOK-VALLEY](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/HURST-BROOK-VALLEY)
 * [HURST-CASTLE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/HURST-CASTLE)
 * [HURSTPIERPOINT-DANNY-PARK](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/HURSTPIERPOINT-DANNY-PARK)
+* [HURSTPIERPOINT-THE-COLLEGE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/HURSTPIERPOINT-THE-COLLEGE)
 * [HURWORTH-BURN-RES](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/HURWORTH-BURN-RES)
 * [HYDE-CHESHIRE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/HYDE-CHESHIRE)
 * [HYSKEIR](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/HYSKEIR)
