@@ -1,6 +1,6 @@
-Generation time: Thursday 17/09/2020 20:53:49 BST
+Generation time: Friday 18/09/2020 07:53:23 BST
 
-3398 locations under [https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA):
+3410 locations under [https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA):
 
 [MO-2020] indicates a location which contributed to the [Met Office 2020 UK Climate Report](https://www.metoffice.gov.uk/research/climate/maps-and-data/about/state-of-climate):
 
@@ -138,7 +138,9 @@ Generation time: Thursday 17/09/2020 20:53:49 BST
 * [ATHLONE-TWYFORD-HOUSE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/ATHLONE-TWYFORD-HOUSE)
 * [AUCHENCAIRN-TORR-HOUSE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/AUCHENCAIRN-TORR-HOUSE)
 * [AUCHINRAITH-HAMILTON](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/AUCHINRAITH-HAMILTON)
+* [AUCHTERARDER-COLQUHALZIE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/AUCHTERARDER-COLQUHALZIE)
 * [AUCHTERARDER-HOUSE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/AUCHTERARDER-HOUSE)
+* [AUCHTERARDER-TRINITY-GASK](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/AUCHTERARDER-TRINITY-GASK)
 * [AUSKERRY](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/AUSKERRY)
 * [AVIEMORE-HRS](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/AVIEMORE-HRS)
 * [AYLESBURY-MENTMORE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/AYLESBURY-MENTMORE)
@@ -1145,8 +1147,13 @@ Generation time: Thursday 17/09/2020 20:53:49 BST
 * [EPPING](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/EPPING)
 * [ERITH-CROSSNESS](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/ERITH-CROSSNESS)
 * [ERMINGTON-STRODE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/ERMINGTON-STRODE)
+* [ERROL-FINGASK](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/ERROL-FINGASK)
+* [ERWARTON-HALL](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/ERWARTON-HALL)
+* [ESHANESS](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/ESHANESS)
 * [ESHER-SEWAGE-WORKS](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/ESHER-SEWAGE-WORKS) [MO-2020]
+* [ESKDALEMUIR](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/ESKDALEMUIR)
 * [ESKDALEMUIR-OBSY](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/ESKDALEMUIR-OBSY)
+* [ETON-COLLEGE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/ETON-COLLEGE)
 * [ETON-TANGIER](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/ETON-TANGIER)
 * [ETRURIA](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/ETRURIA)
 * [ETTRICK-MANSE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/ETTRICK-MANSE)
@@ -1907,8 +1914,12 @@ Generation time: Thursday 17/09/2020 20:53:49 BST
 * [LLANBISTER-LLANANNO](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/LLANBISTER-LLANANNO)
 * [LLANDERFEL-PALE-GDNS](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/LLANDERFEL-PALE-GDNS)
 * [LLANDILO-DYNEVOR-CASTLE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/LLANDILO-DYNEVOR-CASTLE)
+* [LLANDILO-GOLDEN-GROVE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/LLANDILO-GOLDEN-GROVE)
+* [LLANDINAM](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/LLANDINAM)
 * [LLANDOVERY](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/LLANDOVERY)
+* [LLANDRINDOD-HOWEY-HALL](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/LLANDRINDOD-HOWEY-HALL)
 * [LLANDUDNO](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/LLANDUDNO)
+* [LLANDUDNO-ORMES-HEAD](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/LLANDUDNO-ORMES-HEAD)
 * [LLANDWROG-GLYNLLIFON-FORT](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/LLANDWROG-GLYNLLIFON-FORT)
 * [LLANDWROG-GLYNLLIFON-GDNS](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/LLANDWROG-GLYNLLIFON-GDNS)
 * [LLANDWROG-GLYNLLIFON-NURSERY](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/LLANDWROG-GLYNLLIFON-NURSERY)
@@ -2454,6 +2465,7 @@ Generation time: Thursday 17/09/2020 20:53:49 BST
 * [PERTH-DEANSTON](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/PERTH-DEANSTON)
 * [PERTH-EARLY-BANK](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/PERTH-EARLY-BANK)
 * [PERTH-INCHBANK](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/PERTH-INCHBANK)
+* [PERTH-ROSEBANK](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/PERTH-ROSEBANK)
 * [PERTH-STANLEY](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/PERTH-STANLEY)
 * [PETERBOROUGH-WESTBOURNE-HOUSE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/PETERBOROUGH-WESTBOURNE-HOUSE)
 * [PETERSFIELD-DITCHAM-PARK](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/PETERSFIELD-DITCHAM-PARK)
