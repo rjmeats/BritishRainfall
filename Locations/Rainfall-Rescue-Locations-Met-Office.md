@@ -1,22 +1,22 @@
-Generation time: Thursday 08/10/2020 18:13:29 BST
+Generation time: Friday 09/10/2020 17:57:36 BST
 
 95 locations under [https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA) which contributed to the [Met Office 2020 UK Climate Report](https://www.metoffice.gov.uk/research/climate/maps-and-data/about/state-of-climate):
 
-* [YORK-CHERRY-HILL](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/YORK-CHERRY-HILL) : 26 hours ago : 2020-10-07 15:46:25 +0100 
-* [SHOEBURYNESS](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/SHOEBURYNESS) : 3 days ago : 2020-10-06 00:25:13 +0100 
-* [CORSEWALL](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/CORSEWALL) : 3 days ago : 2020-10-05 17:55:20 +0100 
-* [CREWKERNE-BINCOMBE-HOUSE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/CREWKERNE-BINCOMBE-HOUSE) : 5 days ago : 2020-10-03 18:14:30 +0100 
-* [GREENOCK-WW-PROSPECT-HILL](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/GREENOCK-WW-PROSPECT-HILL) : 5 days ago : 2020-10-03 18:14:30 +0100 
-* [GREENOCK-WW-SPANGO-BURN](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/GREENOCK-WW-SPANGO-BURN) : 5 days ago : 2020-10-03 18:14:30 +0100 
-* [MELTHAM-HARDEN-MOSS](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/MELTHAM-HARDEN-MOSS) : 5 days ago : 2020-10-03 18:14:30 +0100 
-* [PAISLEY-WW-STANELY](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/PAISLEY-WW-STANELY) : 5 days ago : 2020-10-03 18:14:30 +0100 
-* [WHITTLESEA-MERE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/WHITTLESEA-MERE) : 5 days ago : 2020-10-03 18:14:30 +0100 
-* [STORNOWAY-LIGHTHOUSE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/STORNOWAY-LIGHTHOUSE) : 4 weeks ago : 2020-09-07 14:00:07 +0100 
+* [YORK-CHERRY-HILL](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/YORK-CHERRY-HILL) : 2 days ago : 2020-10-07 15:46:25 +0100 
+* [SHOEBURYNESS](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/SHOEBURYNESS) : 4 days ago : 2020-10-06 00:25:13 +0100 
+* [CORSEWALL](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/CORSEWALL) : 4 days ago : 2020-10-05 17:55:20 +0100 
+* [CREWKERNE-BINCOMBE-HOUSE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/CREWKERNE-BINCOMBE-HOUSE) : 6 days ago : 2020-10-03 18:14:30 +0100 
+* [GREENOCK-WW-PROSPECT-HILL](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/GREENOCK-WW-PROSPECT-HILL) : 6 days ago : 2020-10-03 18:14:30 +0100 
+* [GREENOCK-WW-SPANGO-BURN](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/GREENOCK-WW-SPANGO-BURN) : 6 days ago : 2020-10-03 18:14:30 +0100 
+* [MELTHAM-HARDEN-MOSS](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/MELTHAM-HARDEN-MOSS) : 6 days ago : 2020-10-03 18:14:30 +0100 
+* [PAISLEY-WW-STANELY](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/PAISLEY-WW-STANELY) : 6 days ago : 2020-10-03 18:14:30 +0100 
+* [WHITTLESEA-MERE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/WHITTLESEA-MERE) : 6 days ago : 2020-10-03 18:14:30 +0100 
+* [STORNOWAY-LIGHTHOUSE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/STORNOWAY-LIGHTHOUSE) : 5 weeks ago : 2020-09-07 14:00:07 +0100 
 * [IPSWICH-BELSTEAD-HALL](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/IPSWICH-BELSTEAD-HALL) : 5 weeks ago : 2020-09-07 00:19:31 +0100 
 * [KEW-OBSERVATORY](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/KEW-OBSERVATORY) : 7 weeks ago : 2020-08-20 21:58:30 +0100 
 * [LOCH-LEVEN-SLUICE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/LOCH-LEVEN-SLUICE) : 7 weeks ago : 2020-08-20 21:58:30 +0100 
 * [GREENOCK-WW-LOCH-THOM](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/GREENOCK-WW-LOCH-THOM) : 9 weeks ago : 2020-08-07 00:11:14 +0100 
-* [ABERGAVENNY-LARCHFIELD](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/ABERGAVENNY-LARCHFIELD) : 10 weeks ago : 2020-07-31 15:48:44 +0100 
+* [ABERGAVENNY-LARCHFIELD](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/ABERGAVENNY-LARCHFIELD) : 2 months ago : 2020-07-31 15:48:44 +0100 
 * [WINDSOR-ROYAL-GARDENS](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/WINDSOR-ROYAL-GARDENS) : 3 months ago : 2020-07-09 15:27:47 +0100 
 * [ABERDEEN-OBSERVATORY](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/ABERDEEN-OBSERVATORY) : 3 months ago : 2020-07-08 14:36:05 +0100 
 * [APPLECROSS-GDNS](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/APPLECROSS-GDNS) : 3 months ago : 2020-07-08 14:36:05 +0100 
@@ -97,4 +97,6 @@ Generation time: Thursday 08/10/2020 18:13:29 BST
 * [WARE-RED-HOUSE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/WARE-RED-HOUSE) : 3 months ago : 2020-07-08 14:36:05 +0100 
 * [WEST-HAM-ABBEY-MILLS](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/WEST-HAM-ABBEY-MILLS) : 3 months ago : 2020-07-08 14:36:05 +0100 
 * [WOODHEAD-RES](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/WOODHEAD-RES) : 3 months ago : 2020-07-08 14:36:05 +0100 
+
+
 
