@@ -1,9 +1,9 @@
-Generation time: Tuesday 13/10/2020 18:21:26 BST
+Generation time: Wednesday 14/10/2020 08:29:51 BST
 
 
 [MO-2020] indicates a location which contributed to the [Met Office 2020 UK Climate Report](https://www.metoffice.gov.uk/research/climate/maps-and-data/about/state-of-climate):
 
-3939 locations under [https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA):
+3941 locations under [https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA):
 
 * [ABBEY-LEIX-BLANDSFORT](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/ABBEY-LEIX-BLANDSFORT)
 * [ABBOTSBURY-CASTLE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/ABBOTSBURY-CASTLE)
@@ -78,6 +78,7 @@ Generation time: Tuesday 13/10/2020 18:21:26 BST
 * [ALLENHEADS](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/ALLENHEADS)
 * [ALLOA-HOUSE-GDNS](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/ALLOA-HOUSE-GDNS)
 * [ALLOA-WW-GARTMORN-RES](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/ALLOA-WW-GARTMORN-RES)
+* [ALLT-A-CHOIN](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/ALLT-A-CHOIN)
 * [ALNESS-ARDROSS-CASTLE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/ALNESS-ARDROSS-CASTLE)
 * [ALNWICK-CASTLE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/ALNWICK-CASTLE)
 * [ALNWICK-GLANTON-PIKE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/ALNWICK-GLANTON-PIKE)
@@ -3053,6 +3054,7 @@ Generation time: Tuesday 13/10/2020 18:21:26 BST
 * [ROTHERHAM-ULLEY-RES](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/ROTHERHAM-ULLEY-RES)
 * [ROTHESAY-COTTON-MILLS](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/ROTHESAY-COTTON-MILLS)
 * [ROTHESAY-CRICHTON-ROAD](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/ROTHESAY-CRICHTON-ROAD)
+* [ROTHESAY-LOCH-DHU](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/ROTHESAY-LOCH-DHU)
 * [ROTHESAY-MIX](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/ROTHESAY-MIX)
 * [ROTHWELL](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/ROTHWELL)
 * [ROTHWELL-SHOTWELL-MILL](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/ROTHWELL-SHOTWELL-MILL)
