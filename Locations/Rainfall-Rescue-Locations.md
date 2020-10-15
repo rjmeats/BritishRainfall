@@ -1,9 +1,9 @@
-Generation time: Thursday 15/10/2020 20:55:04 BST
+Generation time: Thursday 15/10/2020 22:53:15 BST
 
 
 [MO-2020] indicates a location which contributed to the [Met Office 2020 UK Climate Report](https://www.metoffice.gov.uk/research/climate/maps-and-data/about/state-of-climate):
 
-3949 locations under [https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA):
+3954 locations under [https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA):
 
 * [ABBEY-LEIX-BLANDSFORT](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/ABBEY-LEIX-BLANDSFORT)
 * [ABBOTSBURY-CASTLE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/ABBOTSBURY-CASTLE)
@@ -347,6 +347,7 @@ Generation time: Thursday 15/10/2020 20:55:04 BST
 * [BERWICK-ON-TWEED-RAMPARTS](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/BERWICK-ON-TWEED-RAMPARTS)
 * [BESSBROOK-THE-WOODHOUSE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/BESSBROOK-THE-WOODHOUSE)
 * [BETHNAL-GREEN-VICTORIA-PARK](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/BETHNAL-GREEN-VICTORIA-PARK)
+* [BETTYHILL](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/BETTYHILL)
 * [BEVERLEY-BROADGATE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/BEVERLEY-BROADGATE)
 * [BEVERLEY-HULL-BRIDGE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/BEVERLEY-HULL-BRIDGE)
 * [BEVERLEY-NEW-WALK](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/BEVERLEY-NEW-WALK)
@@ -666,6 +667,7 @@ Generation time: Thursday 15/10/2020 20:55:04 BST
 * [BUSHEY-HEATH](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/BUSHEY-HEATH)
 * [BUSHMILLS-DUNDARAVE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/BUSHMILLS-DUNDARAVE)
 * [BUTE-MOUNTSTUART](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/BUTE-MOUNTSTUART)
+* [BUTE-PORT-BANNATYNE-ETTRICKDALE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/BUTE-PORT-BANNATYNE-ETTRICKDALE)
 * [BUTT-OF-LEWIS-LIGHTHOUSE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/BUTT-OF-LEWIS-LIGHTHOUSE)
 * [BUTTERLEY-MOSS](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/BUTTERLEY-MOSS)
 * [BUTTERMERE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/BUTTERMERE)
@@ -1153,6 +1155,7 @@ Generation time: Thursday 15/10/2020 20:55:04 BST
 * [DORKING-HOLMWOOD](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/DORKING-HOLMWOOD)
 * [DORKING-THE-DENBIES](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/DORKING-THE-DENBIES)
 * [DORKING-WEST-STREET](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/DORKING-WEST-STREET)
+* [DORNOCH-OSPISDALE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/DORNOCH-OSPISDALE)
 * [DORWARDS-HALL](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/DORWARDS-HALL)
 * [DOUGLAS-BOROUGH-CEMETERY](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/DOUGLAS-BOROUGH-CEMETERY)
 * [DOUGLAS-CLYPSE-ONCHAN](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/DOUGLAS-CLYPSE-ONCHAN)
@@ -1775,6 +1778,7 @@ Generation time: Thursday 15/10/2020 20:55:04 BST
 * [HELENSBURGH-WATER-WORKS](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/HELENSBURGH-WATER-WORKS)
 * [HELENSLEA-CHILDS-HILL](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/HELENSLEA-CHILDS-HILL)
 * [HELLYAR-HOLM](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/HELLYAR-HOLM)
+* [HELMSDALE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/HELMSDALE)
 * [HELSTON](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/HELSTON)
 * [HELVELLYN-BIRKSIDE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/HELVELLYN-BIRKSIDE)
 * [HELVELLYN-WHITESIDE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/HELVELLYN-WHITESIDE)
@@ -2273,6 +2277,7 @@ Generation time: Thursday 15/10/2020 20:55:04 BST
 * [LOCH-LEVEN-SLUICE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/LOCH-LEVEN-SLUICE) [MO-2020]
 * [LOCH-LOCHY-INVERGLOY](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/LOCH-LOCHY-INVERGLOY)
 * [LOCH-LOMOND-ARDLUI](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/LOCH-LOMOND-ARDLUI)
+* [LOCH-MORE-ACHFARY](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/LOCH-MORE-ACHFARY)
 * [LOCH-NESS-ABERCHALDER](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/LOCH-NESS-ABERCHALDER)
 * [LOCH-NESS-FOYERS](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/LOCH-NESS-FOYERS)
 * [LOCH-NESS-GARTHBEG](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/LOCH-NESS-GARTHBEG)
@@ -2459,6 +2464,7 @@ Generation time: Thursday 15/10/2020 20:55:04 BST
 * [MELTON-MOWBRAY-THORPE-ARNOLD](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/MELTON-MOWBRAY-THORPE-ARNOLD)
 * [MELTON-MOWBRAY-WHITE-LODGE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/MELTON-MOWBRAY-WHITE-LODGE)
 * [MELTON-ST-AUDRYS-HOSPITAL](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/MELTON-ST-AUDRYS-HOSPITAL)
+* [MELVICH](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/MELVICH)
 * [MENAI-STRAITS](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/MENAI-STRAITS)
 * [MENAIFRON](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/MENAIFRON)
 * [MENHENIOT-COLDRENICK](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/MENHENIOT-COLDRENICK)
@@ -2480,7 +2486,6 @@ Generation time: Thursday 15/10/2020 20:55:04 BST
 * [MIDDLETON-TYAS](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/MIDDLETON-TYAS)
 * [MIDDLEWICH](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/MIDDLEWICH)
 * [MIDDLEWICH-BOSTOCK-HALL](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/MIDDLEWICH-BOSTOCK-HALL)
-* [MIDHURST](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/MIDHURST)
 * [MIDHURST-LYNCH](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/MIDHURST-LYNCH)
 * [MIDMAR-BLACKSTOCK](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/MIDMAR-BLACKSTOCK)
 * [MIDMAR-DUNECHT-OBSERVATORY](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/MIDMAR-DUNECHT-OBSERVATORY)
@@ -3955,7 +3960,7 @@ Generation time: Thursday 15/10/2020 20:55:04 BST
 * [YSTRADFELLTE-RES](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/YSTRADFELLTE-RES)
 * [YSTRADYFODWG-FYNTYLA-HOSPITAL](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/YSTRADYFODWG-FYNTYLA-HOSPITAL)
 
-16 locations under [https://github.com/ed-hawkins/rainfall-rescue/tree/master/POOR-LOCATIONS](https://github.com/ed-hawkins/rainfall-rescue/tree/master/POOR-LOCATIONS):
+18 locations under [https://github.com/ed-hawkins/rainfall-rescue/tree/master/POOR-LOCATIONS](https://github.com/ed-hawkins/rainfall-rescue/tree/master/POOR-LOCATIONS):
 
 * [BLACK-CLOUGH-WOODHEAD](https://github.com/ed-hawkins/rainfall-rescue/tree/master/POOR-LOCATIONS/BLACK-CLOUGH-WOODHEAD)
 * [CAMBRIDGE-MIX](https://github.com/ed-hawkins/rainfall-rescue/tree/master/POOR-LOCATIONS/CAMBRIDGE-MIX)
@@ -3964,11 +3969,13 @@ Generation time: Thursday 15/10/2020 20:55:04 BST
 * [CULROSS-TULLIALLAN-FREE-CHURCH-MANSE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/POOR-LOCATIONS/CULROSS-TULLIALLAN-FREE-CHURCH-MANSE)
 * [EXETER-WHITSTONE-RECTORY](https://github.com/ed-hawkins/rainfall-rescue/tree/master/POOR-LOCATIONS/EXETER-WHITSTONE-RECTORY)
 * [HAMPSTEAD-BRANCH-HILL](https://github.com/ed-hawkins/rainfall-rescue/tree/master/POOR-LOCATIONS/HAMPSTEAD-BRANCH-HILL)
+* [HELMSDALE-STATION](https://github.com/ed-hawkins/rainfall-rescue/tree/master/POOR-LOCATIONS/HELMSDALE-STATION)
 * [JERVISTON](https://github.com/ed-hawkins/rainfall-rescue/tree/master/POOR-LOCATIONS/JERVISTON)
 * [KENSINGTON-HOLLAND-ROAD](https://github.com/ed-hawkins/rainfall-rescue/tree/master/POOR-LOCATIONS/KENSINGTON-HOLLAND-ROAD)
 * [MAIDA-HILL-WARRINGTON-CRESCENT](https://github.com/ed-hawkins/rainfall-rescue/tree/master/POOR-LOCATIONS/MAIDA-HILL-WARRINGTON-CRESCENT)
 * [MARKET-LAVINGTON-NR-DEVIZES](https://github.com/ed-hawkins/rainfall-rescue/tree/master/POOR-LOCATIONS/MARKET-LAVINGTON-NR-DEVIZES)
 * [MASBOROUGH-PARSONAGE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/POOR-LOCATIONS/MASBOROUGH-PARSONAGE)
+* [MIDHURST](https://github.com/ed-hawkins/rainfall-rescue/tree/master/POOR-LOCATIONS/MIDHURST)
 * [NORWICH-BETHEL-ST](https://github.com/ed-hawkins/rainfall-rescue/tree/master/POOR-LOCATIONS/NORWICH-BETHEL-ST)
 * [OAKHAM-WING-RECTORY](https://github.com/ed-hawkins/rainfall-rescue/tree/master/POOR-LOCATIONS/OAKHAM-WING-RECTORY)
 * [RHAYADER-RHYDOLDOG](https://github.com/ed-hawkins/rainfall-rescue/tree/master/POOR-LOCATIONS/RHAYADER-RHYDOLDOG)
