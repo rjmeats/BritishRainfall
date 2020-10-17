@@ -1,9 +1,9 @@
-Generation time: Thursday 15/10/2020 22:53:15 BST
+Generation time: Saturday 17/10/2020 08:45:17 BST
 
 
 [MO-2020] indicates a location which contributed to the [Met Office 2020 UK Climate Report](https://www.metoffice.gov.uk/research/climate/maps-and-data/about/state-of-climate):
 
-3954 locations under [https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA):
+3962 locations under [https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA):
 
 * [ABBEY-LEIX-BLANDSFORT](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/ABBEY-LEIX-BLANDSFORT)
 * [ABBOTSBURY-CASTLE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/ABBOTSBURY-CASTLE)
@@ -483,6 +483,7 @@ Generation time: Thursday 15/10/2020 22:53:15 BST
 * [BORROWDALE-GRANGE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/BORROWDALE-GRANGE)
 * [BORROWDALE-SEATHWAITE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/BORROWDALE-SEATHWAITE)
 * [BORROWDALE-THE-MORAINE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/BORROWDALE-THE-MORAINE)
+* [BORROWDALE-VICARAGE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/BORROWDALE-VICARAGE)
 * [BOSAHAN](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/BOSAHAN)
 * [BOSLEY-MINNS](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/BOSLEY-MINNS)
 * [BOSLEY-RES](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/BOSLEY-RES) [MO-2020]
@@ -1921,6 +1922,7 @@ Generation time: Thursday 15/10/2020 22:53:15 BST
 * [INVERESK](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/INVERESK)
 * [INVERGARRY](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/INVERGARRY)
 * [INVERGORDON-CASTLE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/INVERGORDON-CASTLE)
+* [INVERNESS-CULDUTHEL-RES](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/INVERNESS-CULDUTHEL-RES)
 * [INVERNESS-CULLODEN-HOUSE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/INVERNESS-CULLODEN-HOUSE)
 * [INVERNESS-DISTRICT-ASYLUM](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/INVERNESS-DISTRICT-ASYLUM)
 * [INVERNESS-HIGH-SCHOOL](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/INVERNESS-HIGH-SCHOOL)
@@ -1929,6 +1931,7 @@ Generation time: Thursday 15/10/2020 22:53:15 BST
 * [INVERSHIN](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/INVERSHIN)
 * [INVERURIE-MANOR](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/INVERURIE-MANOR)
 * [INVERURIE-MANSE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/INVERURIE-MANSE)
+* [IONA](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/IONA)
 * [IPSWICH-BELSTEAD-HALL](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/IPSWICH-BELSTEAD-HALL) [MO-2020]
 * [IPSWICH-BISHOPS-HILL](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/IPSWICH-BISHOPS-HILL)
 * [IPSWICH-MUSEUM](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/IPSWICH-MUSEUM)
@@ -1982,8 +1985,10 @@ Generation time: Thursday 15/10/2020 22:53:15 BST
 * [KENSINGTON-PALACE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/KENSINGTON-PALACE)
 * [KESWICK-BARROW-HOUSE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/KESWICK-BARROW-HOUSE)
 * [KESWICK-CROSTHWAITE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/KESWICK-CROSTHWAITE)
+* [KESWICK-CROW-PARK](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/KESWICK-CROW-PARK)
 * [KESWICK-DEER-CLOSE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/KESWICK-DEER-CLOSE)
 * [KESWICK-DERWENT-ISLAND](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/KESWICK-DERWENT-ISLAND)
+* [KESWICK-HIGH-HILL](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/KESWICK-HIGH-HILL)
 * [KESWICK-MIREHOUSE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/KESWICK-MIREHOUSE)
 * [KESWICK-OLD-HALL](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/KESWICK-OLD-HALL)
 * [KESWICK-SHU-LE-CROW](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/KESWICK-SHU-LE-CROW)
@@ -2492,6 +2497,8 @@ Generation time: Thursday 15/10/2020 22:53:15 BST
 * [MILBURN](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/MILBURN)
 * [MILE-END](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/MILE-END)
 * [MILLFIELD-STIRLING](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/MILLFIELD-STIRLING)
+* [MILLPORT-ST-ANDREWS-HOME](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/MILLPORT-ST-ANDREWS-HOME)
+* [MILLPORT-WW](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/MILLPORT-WW)
 * [MILNATHORT-LEDLANET](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/MILNATHORT-LEDLANET)
 * [MILNE-GRADEN](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/MILNE-GRADEN)
 * [MILNGAVIE-DOUGALSTON](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/MILNGAVIE-DOUGALSTON)
@@ -2561,6 +2568,7 @@ Generation time: Thursday 15/10/2020 22:53:15 BST
 * [MULL-EARRAID](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/MULL-EARRAID)
 * [MULL-GRULINE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/MULL-GRULINE)
 * [MULL-KNOCK](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/MULL-KNOCK)
+* [MULL-LOCHBUIE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/MULL-LOCHBUIE)
 * [MULL-OF-GALLOWAY](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/MULL-OF-GALLOWAY)
 * [MULL-OF-KINTYRE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/MULL-OF-KINTYRE) [MO-2020]
 * [MULL-QUINISH](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/MULL-QUINISH)
