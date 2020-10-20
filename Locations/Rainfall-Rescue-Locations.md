@@ -1,9 +1,9 @@
-Generation time: Monday 19/10/2020 17:55:17 BST
+Generation time: Tuesday 20/10/2020 08:11:39 BST
 
 
 [MO-2020] indicates a location which contributed to the [Met Office 2020 UK Climate Report](https://www.metoffice.gov.uk/research/climate/maps-and-data/about/state-of-climate):
 
-3962 locations under [https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA):
+3963 locations under [https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA):
 
 * [ABBEY-LEIX-BLANDSFORT](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/ABBEY-LEIX-BLANDSFORT)
 * [ABBOTSBURY-CASTLE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/ABBOTSBURY-CASTLE)
@@ -465,7 +465,6 @@ Generation time: Monday 19/10/2020 17:55:17 BST
 * [BODMIN-FORE-ST](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/BODMIN-FORE-ST)
 * [BODMIN-LANHYDROCK](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/BODMIN-LANHYDROCK)
 * [BODMIN-POLGWIN](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/BODMIN-POLGWIN)
-* [BOGNOR-IVYCROFT](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/BOGNOR-IVYCROFT)
 * [BOGNOR-LIDSEY-LODGE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/BOGNOR-LIDSEY-LODGE)
 * [BOGNOR-REGIS-ALBERT-ROAD](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/BOGNOR-REGIS-ALBERT-ROAD)
 * [BOGNOR-REGIS-WATERLOO-SQUARE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/BOGNOR-REGIS-WATERLOO-SQUARE)
@@ -1621,6 +1620,7 @@ Generation time: Monday 19/10/2020 17:55:17 BST
 * [GREENOCK-WW-SHIELHILL](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/GREENOCK-WW-SHIELHILL) [MO-2020]
 * [GREENOCK-WW-SPANGO-BURN](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/GREENOCK-WW-SPANGO-BURN) [MO-2020]
 * [GREENORE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/GREENORE)
+* [GREENWICH-CROOMS-HILL](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/GREENWICH-CROOMS-HILL)
 * [GREENWICH-ROYAL-HOSPITAL-SCHOOLS](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/GREENWICH-ROYAL-HOSPITAL-SCHOOLS)
 * [GREENWICH-ROYAL-OBSERVATORY](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/GREENWICH-ROYAL-OBSERVATORY)
 * [GREENWICH-WESTCOMBE-PARK-ROAD](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/GREENWICH-WESTCOMBE-PARK-ROAD)
@@ -3314,6 +3314,7 @@ Generation time: Monday 19/10/2020 17:55:17 BST
 * [ST-ALBANS-COUNTY-MUSEUM](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/ST-ALBANS-COUNTY-MUSEUM)
 * [ST-ALBANS-GORHAMBURY](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/ST-ALBANS-GORHAMBURY) [MO-2020]
 * [ST-ALBANS-HILL-END-HOSPITAL](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/ST-ALBANS-HILL-END-HOSPITAL)
+* [ST-ANDREWS-CASTLE-CLIFF](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/ST-ANDREWS-CASTLE-CLIFF)
 * [ST-ANDREWS-MIX](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/ST-ANDREWS-MIX)
 * [ST-ANDREWS-WW](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/ST-ANDREWS-WW)
 * [ST-ANNES-ON-THE-SEA](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/ST-ANNES-ON-THE-SEA)
@@ -3968,12 +3969,14 @@ Generation time: Monday 19/10/2020 17:55:17 BST
 * [YSTRADFELLTE-RES](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/YSTRADFELLTE-RES)
 * [YSTRADYFODWG-FYNTYLA-HOSPITAL](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/YSTRADYFODWG-FYNTYLA-HOSPITAL)
 
-18 locations under [https://github.com/ed-hawkins/rainfall-rescue/tree/master/POOR-LOCATIONS](https://github.com/ed-hawkins/rainfall-rescue/tree/master/POOR-LOCATIONS):
+20 locations under [https://github.com/ed-hawkins/rainfall-rescue/tree/master/POOR-LOCATIONS](https://github.com/ed-hawkins/rainfall-rescue/tree/master/POOR-LOCATIONS):
 
 * [BLACK-CLOUGH-WOODHEAD](https://github.com/ed-hawkins/rainfall-rescue/tree/master/POOR-LOCATIONS/BLACK-CLOUGH-WOODHEAD)
+* [BOGNOR-IVYCROFT](https://github.com/ed-hawkins/rainfall-rescue/tree/master/POOR-LOCATIONS/BOGNOR-IVYCROFT)
 * [CAMBRIDGE-MIX](https://github.com/ed-hawkins/rainfall-rescue/tree/master/POOR-LOCATIONS/CAMBRIDGE-MIX)
 * [CARDIFF-MIX](https://github.com/ed-hawkins/rainfall-rescue/tree/master/POOR-LOCATIONS/CARDIFF-MIX)
 * [COLNEY-HATCH-ASYLUM](https://github.com/ed-hawkins/rainfall-rescue/tree/master/POOR-LOCATIONS/COLNEY-HATCH-ASYLUM)
+* [CROYDON](https://github.com/ed-hawkins/rainfall-rescue/tree/master/POOR-LOCATIONS/CROYDON)
 * [CULROSS-TULLIALLAN-FREE-CHURCH-MANSE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/POOR-LOCATIONS/CULROSS-TULLIALLAN-FREE-CHURCH-MANSE)
 * [EXETER-WHITSTONE-RECTORY](https://github.com/ed-hawkins/rainfall-rescue/tree/master/POOR-LOCATIONS/EXETER-WHITSTONE-RECTORY)
 * [HAMPSTEAD-BRANCH-HILL](https://github.com/ed-hawkins/rainfall-rescue/tree/master/POOR-LOCATIONS/HAMPSTEAD-BRANCH-HILL)

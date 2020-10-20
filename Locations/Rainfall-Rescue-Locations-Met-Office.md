@@ -1,11 +1,11 @@
-Generation time: Monday 19/10/2020 17:55:17 BST
+Generation time: Tuesday 20/10/2020 08:11:39 BST
 
 95 locations under [https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA) which contributed to the [Met Office 2020 UK Climate Report](https://www.metoffice.gov.uk/research/climate/maps-and-data/about/state-of-climate):
 
 * [GREENOCK-WW-LOCH-THOM](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/GREENOCK-WW-LOCH-THOM) : 7 days ago : 2020-10-12 23:15:37 +0100 
 * [SEAFORDE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/SEAFORDE) : 7 days ago : 2020-10-12 23:15:37 +0100 
 * [STORNOWAY-LIGHTHOUSE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/STORNOWAY-LIGHTHOUSE) : 7 days ago : 2020-10-12 23:15:37 +0100 
-* [YORK-CHERRY-HILL](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/YORK-CHERRY-HILL) : 12 days ago : 2020-10-07 15:46:25 +0100 
+* [YORK-CHERRY-HILL](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/YORK-CHERRY-HILL) : 13 days ago : 2020-10-07 15:46:25 +0100 
 * [SHOEBURYNESS](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/SHOEBURYNESS) : 2 weeks ago : 2020-10-06 00:25:13 +0100 
 * [CORSEWALL](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/CORSEWALL) : 2 weeks ago : 2020-10-05 17:55:20 +0100 
 * [CREWKERNE-BINCOMBE-HOUSE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/CREWKERNE-BINCOMBE-HOUSE) : 2 weeks ago : 2020-10-03 18:14:30 +0100 
