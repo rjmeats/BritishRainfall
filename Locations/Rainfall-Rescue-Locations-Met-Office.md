@@ -1,4 +1,4 @@
-Generation time: Monday 26/10/2020 23:17:05 GMT
+Generation time: Wednesday 28/10/2020 20:29:00 GMT
 
 95 locations under [https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA) which contributed to the [Met Office 2020 UK Climate Report](https://www.metoffice.gov.uk/research/climate/maps-and-data/about/state-of-climate):
 
@@ -8,12 +8,12 @@ Generation time: Monday 26/10/2020 23:17:05 GMT
 * [YORK-CHERRY-HILL](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/YORK-CHERRY-HILL) : 3 weeks ago : 2020-10-07 15:46:25 +0100 
 * [SHOEBURYNESS](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/SHOEBURYNESS) : 3 weeks ago : 2020-10-06 00:25:13 +0100 
 * [CORSEWALL](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/CORSEWALL) : 3 weeks ago : 2020-10-05 17:55:20 +0100 
-* [CREWKERNE-BINCOMBE-HOUSE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/CREWKERNE-BINCOMBE-HOUSE) : 3 weeks ago : 2020-10-03 18:14:30 +0100 
-* [GREENOCK-WW-PROSPECT-HILL](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/GREENOCK-WW-PROSPECT-HILL) : 3 weeks ago : 2020-10-03 18:14:30 +0100 
-* [GREENOCK-WW-SPANGO-BURN](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/GREENOCK-WW-SPANGO-BURN) : 3 weeks ago : 2020-10-03 18:14:30 +0100 
-* [MELTHAM-HARDEN-MOSS](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/MELTHAM-HARDEN-MOSS) : 3 weeks ago : 2020-10-03 18:14:30 +0100 
-* [PAISLEY-WW-STANELY](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/PAISLEY-WW-STANELY) : 3 weeks ago : 2020-10-03 18:14:30 +0100 
-* [WHITTLESEA-MERE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/WHITTLESEA-MERE) : 3 weeks ago : 2020-10-03 18:14:30 +0100 
+* [CREWKERNE-BINCOMBE-HOUSE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/CREWKERNE-BINCOMBE-HOUSE) : 4 weeks ago : 2020-10-03 18:14:30 +0100 
+* [GREENOCK-WW-PROSPECT-HILL](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/GREENOCK-WW-PROSPECT-HILL) : 4 weeks ago : 2020-10-03 18:14:30 +0100 
+* [GREENOCK-WW-SPANGO-BURN](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/GREENOCK-WW-SPANGO-BURN) : 4 weeks ago : 2020-10-03 18:14:30 +0100 
+* [MELTHAM-HARDEN-MOSS](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/MELTHAM-HARDEN-MOSS) : 4 weeks ago : 2020-10-03 18:14:30 +0100 
+* [PAISLEY-WW-STANELY](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/PAISLEY-WW-STANELY) : 4 weeks ago : 2020-10-03 18:14:30 +0100 
+* [WHITTLESEA-MERE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/WHITTLESEA-MERE) : 4 weeks ago : 2020-10-03 18:14:30 +0100 
 * [IPSWICH-BELSTEAD-HALL](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/IPSWICH-BELSTEAD-HALL) : 7 weeks ago : 2020-09-07 00:19:31 +0100 
 * [KEW-OBSERVATORY](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/KEW-OBSERVATORY) : 10 weeks ago : 2020-08-20 21:58:30 +0100 
 * [LOCH-LEVEN-SLUICE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/LOCH-LEVEN-SLUICE) : 10 weeks ago : 2020-08-20 21:58:30 +0100 
