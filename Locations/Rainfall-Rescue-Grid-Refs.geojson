@@ -1920,6 +1920,28 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -0.447,
+          50.846
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+		"marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "ARUNDEL-CLAPHAM-RECTORY",
+        "county": "Sussex",
+        "gridref": "TQ094063",
+        "latitude" : "50.846",
+        "longitude" : "-0.447",
+        "elevation": "150 ft"
+      }
+    }
+    ,
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -0.615,
           50.883
         ]
@@ -6254,6 +6276,28 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          0.004,
+          51.469
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+		"marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "BLACKHEATH",
+        "county": "Kent-became-London",
+        "gridref": "TQ393763",
+        "latitude" : "51.469",
+        "longitude" : "0.004",
+        "elevation": "160 ft"
+      }
+    }
+    ,
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -3.052,
           53.796
         ]
@@ -8380,6 +8424,28 @@
         "latitude" : "52.954",
         "longitude" : "-1.153",
         "elevation": "150 ft"
+      }
+    }
+    ,
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.020,
+          51.403
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+		"marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "BROMLEY-THE-PALACE",
+        "county": "Kent-stayed-Kent",
+        "gridref": "TQ406690",
+        "latitude" : "51.403",
+        "longitude" : "0.020",
+        "elevation": "187 ft"
       }
     }
     ,
@@ -14966,6 +15032,28 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -0.162,
+          51.017
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+		"marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "CUCKFIELD-HENMEAD-HALL",
+        "county": "Sussex",
+        "gridref": "TQ2901325816",
+        "latitude" : "51.017",
+        "longitude" : "-0.162",
+        "elevation": "365 ft"
+      }
+    }
+    ,
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -2.835,
           57.678
         ]
@@ -20378,6 +20466,28 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          0.887,
+          52.827
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+		"marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "FAKENHAM-PENSTHORPE",
+        "county": "Norfolk",
+        "gridref": "TF946294",
+        "latitude" : "52.827",
+        "longitude" : "0.887",
+        "elevation": "153 ft"
+      }
+    }
+    ,
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -3.742,
           55.996
         ]
@@ -21162,6 +21272,28 @@
         "latitude" : "56.248",
         "longitude" : "-5.682",
         "elevation": "8 ft"
+      }
+    }
+    ,
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.221,
+          51.101
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+		"marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "FOLKESTONE-CAPEL-LODGE",
+        "county": "Kent-stayed-Kent",
+        "gridref": "TR256385",
+        "latitude" : "51.101",
+        "longitude" : "1.221",
+        "elevation": "480 ft"
       }
     }
     ,
@@ -23304,6 +23436,28 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -4.358,
+          56.585
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+		"marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "GLENLYON-MEGGERNIE-CASTLE",
+        "county": "Perthshire",
+        "gridref": "NN553462",
+        "latitude" : "56.585",
+        "longitude" : "-4.358",
+        "elevation": "700 ft"
+      }
+    }
+    ,
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -5.255,
           57.076
         ]
@@ -24316,6 +24470,28 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -4.826,
+          55.909
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+		"marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "GREENOCK-WW-MIX",
+        "county": "Renfrewshire",
+        "gridref": "NS234721",
+        "latitude" : "55.909",
+        "longitude" : "-4.826",
+        "elevation": "687 ft"
+      }
+    }
+    ,
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -4.780,
           55.926
         ]
@@ -24418,6 +24594,28 @@
         "latitude" : "54.032",
         "longitude" : "-6.131",
         "elevation": "20 ft"
+      }
+    }
+    ,
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.004,
+          51.475
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+		"marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "GREENWICH-CROOMS-HILL",
+        "county": "Kent-became-London",
+        "gridref": "TQ387770",
+        "latitude" : "51.475",
+        "longitude" : "-0.004",
+        "elevation": "140 ft"
       }
     }
     ,
@@ -28716,6 +28914,28 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          1.043,
+          51.092
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+		"marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "HYTHE-HILLHURST-FARM",
+        "county": "Kent-stayed-Kent",
+        "gridref": "TR132369",
+        "latitude" : "51.092",
+        "longitude" : "1.043",
+        "elevation": "280 ft"
+      }
+    }
+    ,
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           1.138,
           51.115
         ]
@@ -29258,6 +29478,28 @@
         "latitude" : "52.009",
         "longitude" : "1.230",
         "elevation": "60 ft"
+      }
+    }
+    ,
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.153,
+          52.053
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+		"marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "IPSWICH-ST-PETERS",
+        "county": "Suffolk",
+        "gridref": "TM163441",
+        "latitude" : "52.053",
+        "longitude" : "1.153",
+        "elevation": "17 ft"
       }
     }
     ,
@@ -30248,6 +30490,28 @@
         "latitude" : "53.332",
         "longitude" : "-1.303",
         "elevation": "238 ft"
+      }
+    }
+    ,
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.316,
+          56.063
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+		"marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "KILLEARN-OLD-BALLIKINRAIN",
+        "county": "Stirlingshire",
+        "gridref": "NS559880",
+        "latitude" : "56.063",
+        "longitude" : "-4.316",
+        "elevation": "200 ft"
       }
     }
     ,
@@ -38066,6 +38330,28 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -3.915,
+          57.576
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+		"marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "NAIRN",
+        "county": "Nairnshire",
+        "gridref": "NH856556",
+        "latitude" : "57.576",
+        "longitude" : "-3.915",
+        "elevation": "84 ft"
+      }
+    }
+    ,
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -3.894,
           57.583
         ]
@@ -38080,28 +38366,6 @@
         "latitude" : "57.583",
         "longitude" : "-3.894",
         "elevation": "59 ft"
-      }
-    }
-    ,
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -3.915,
-          57.576
-        ]
-      },
-      "properties": {
-        "marker-symbol": "circle-stroked",
-		"marker-size": "small",
-        "marker-color": "66ff33",
-        "name": "NAIRN-DELNIES",
-        "county": "Nairnshire",
-        "gridref": "NH856556",
-        "latitude" : "57.576",
-        "longitude" : "-3.915",
-        "elevation": "65 ft"
       }
     }
     ,
@@ -39914,6 +40178,28 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          1.368,
+          52.631
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+		"marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "NORWICH-LITERARY-INSTITUTION",
+        "county": "Norfolk",
+        "gridref": "TG280090",
+        "latitude" : "52.631",
+        "longitude" : "1.368",
+        "elevation": "53 ft"
+      }
+    }
+    ,
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           1.279,
           52.642
         ]
@@ -39928,6 +40214,28 @@
         "latitude" : "52.642",
         "longitude" : "1.279",
         "elevation": "11 ft"
+      }
+    }
+    ,
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.284,
+          52.620
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+		"marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "NORWICH-NEWMARKET-ROAD",
+        "county": "Norfolk",
+        "gridref": "TG224075",
+        "latitude" : "52.620",
+        "longitude" : "1.284",
+        "elevation": "89 ft"
       }
     }
     ,
@@ -39994,6 +40302,182 @@
         "latitude" : "52.664",
         "longitude" : "1.341",
         "elevation": "90 ft"
+      }
+    }
+    ,
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.293,
+          52.623
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+		"marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "NORWICH-ST-CATHERINES",
+        "county": "Norfolk",
+        "gridref": "TG230079",
+        "latitude" : "52.623",
+        "longitude" : "1.293",
+        "elevation": "120 ft"
+      }
+    }
+    ,
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.308,
+          52.629
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+		"marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "NORWICH-THORPE",
+        "county": "Norfolk",
+        "gridref": "TG240086",
+        "latitude" : "52.629",
+        "longitude" : "1.308",
+        "elevation": "55 ft"
+      }
+    }
+    ,
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.343,
+          52.627
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+		"marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "NORWICH-THORPE",
+        "county": "Norfolk",
+        "gridref": "TG263085",
+        "latitude" : "52.627",
+        "longitude" : "1.343",
+        "elevation": "78 ft"
+      }
+    }
+    ,
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.343,
+          52.630
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+		"marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "NORWICH-THORPE",
+        "county": "Norfolk",
+        "gridref": "TG263088",
+        "latitude" : "52.630",
+        "longitude" : "1.343",
+        "elevation": "139 ft"
+      }
+    }
+    ,
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.433,
+          52.645
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+		"marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "NORWICH-THORPE",
+        "county": "Norfolk",
+        "gridref": "TG323108",
+        "latitude" : "52.645",
+        "longitude" : "1.433",
+        "elevation": "82 ft"
+      }
+    }
+    ,
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.326,
+          52.629
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+		"marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "NORWICH-THORPE",
+        "county": "Norfolk",
+        "gridref": "TG256086",
+        "latitude" : "52.629",
+        "longitude" : "1.326",
+        "elevation": "115 ft"
+      }
+    }
+    ,
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.346,
+          52.628
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+		"marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "NORWICH-THORPE",
+        "county": "Norfolk",
+        "gridref": "TG265086",
+        "latitude" : "52.628",
+        "longitude" : "1.346",
+        "elevation": "55 ft"
+      }
+    }
+    ,
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.293,
+          52.625
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+		"marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "NORWICH-UPPER-SURREY-ST",
+        "county": "Norfolk",
+        "gridref": "TG230080",
+        "latitude" : "52.625",
+        "longitude" : "1.293",
+        "elevation": "100 ft"
       }
     }
     ,
@@ -48956,6 +49440,28 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          0.532,
+          50.866
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+		"marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "ST-LEONARDS-THE-GROVE",
+        "county": "Sussex",
+        "gridref": "TQ783104",
+        "latitude" : "50.866",
+        "longitude" : "0.532",
+        "elevation": "110 ft"
+      }
+    }
+    ,
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -6.320,
           49.915
         ]
@@ -55072,6 +55578,28 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          0.115,
+          51.461
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+		"marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "WELLING-BEXLEY-HEATH",
+        "county": "Kent-stayed-Kent",
+        "gridref": "TQ470757",
+        "latitude" : "51.461",
+        "longitude" : "0.115",
+        "elevation": "150 ft"
+      }
+    }
+    ,
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -0.692,
           52.298
         ]
@@ -57118,6 +57646,28 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          0.137,
+          51.357
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+		"marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "WOODLANDS-CHELSFIELD",
+        "county": "Kent-stayed-Kent",
+        "gridref": "TQ489642",
+        "latitude" : "51.357",
+        "longitude" : "0.137",
+        "elevation": "400 ft"
+      }
+    }
+    ,
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -7.059,
           52.476
         ]
@@ -57536,6 +58086,28 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -0.109,
+          51.097
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+		"marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "WORTH-SOUTH-HILL",
+        "county": "Sussex",
+        "gridref": "TQ3252734742",
+        "latitude" : "51.097",
+        "longitude" : "-0.109",
+        "elevation": "558 ft"
+      }
+    }
+    ,
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           1.341,
           51.254
         ]
@@ -57844,6 +58416,28 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          1.178,
+          52.600
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+		"marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "WYMONDHAM-HETHERSETT",
+        "county": "Norfolk",
+        "gridref": "TG153050",
+        "latitude" : "52.600",
+        "longitude" : "1.178",
+        "elevation": "163 ft"
+      }
+    }
+    ,
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -2.669,
           53.983
         ]
@@ -57990,6 +58584,28 @@
         "latitude" : "52.602",
         "longitude" : "1.572",
         "elevation": "48 ft"
+      }
+    }
+    ,
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.726,
+          52.608
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+		"marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "YARMOUTH-MARKET-PLACE",
+        "county": "Norfolk",
+        "gridref": "TG524077",
+        "latitude" : "52.608",
+        "longitude" : "1.726",
+        "elevation": "25 ft"
       }
     }
     ,
