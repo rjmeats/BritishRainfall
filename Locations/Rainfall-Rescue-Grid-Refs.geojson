@@ -3240,48 +3240,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -3.454,
-          52.762
-        ]
-      },
-      "properties": {
-        "marker-symbol": "circle-stroked",
-        "marker-size": "small",
-        "marker-color": "66ff33",
-        "name": "BANK-CYNON-TRAF",
-        "county": "Montgomeryshire",
-        "gridref": "SJ019192",
-        "latitude": "52.762",
-        "longitude": "-3.454",
-        "elevation (ft)": "750"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -3.457,
-          52.761
-        ]
-      },
-      "properties": {
-        "marker-symbol": "circle-stroked",
-        "marker-size": "small",
-        "marker-color": "66ff33",
-        "name": "BANK-CYNON-TRAF",
-        "county": "Montgomeryshire",
-        "gridref": "SJ018191",
-        "latitude": "52.761",
-        "longitude": "-3.457",
-        "elevation (ft)": "750"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -0.227,
           51.309
         ]
@@ -8020,7 +7978,7 @@
         "gridref": "SU545646",
         "latitude": "51.378",
         "longitude": "-1.218",
-        "elevation (ft)": "-999999"
+        "elevation (ft)": "330"
       }
     },
     {
@@ -28461,6 +28419,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -4.226,
+          57.441
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "INVERNESS-CULDUTHEL-RES",
+        "county": "Inverness",
+        "gridref": "NH665412",
+        "latitude": "57.441",
+        "longitude": "-4.226",
+        "elevation (ft)": "242"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -4.139,
           57.49
         ]
@@ -29805,6 +29784,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -4.027,
+          55.979
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "KILSYTH-INNSBRIDGE",
+        "county": "Stirlingshire",
+        "gridref": "NS736781",
+        "latitude": "55.979",
+        "longitude": "-4.027",
+        "elevation (ft)": "200"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -4.042,
           55.983
         ]
@@ -30540,6 +30540,48 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -3.457,
+          52.761
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "LAKE-VYRNWY-BANK-CYNON-ISAF",
+        "county": "Montgomeryshire",
+        "gridref": "SJ018191",
+        "latitude": "52.761",
+        "longitude": "-3.457",
+        "elevation (ft)": "750"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.454,
+          52.762
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "LAKE-VYRNWY-BANK-CYNON-ISAF",
+        "county": "Montgomeryshire",
+        "gridref": "SJ019192",
+        "latitude": "52.762",
+        "longitude": "-3.454",
+        "elevation (ft)": "750"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -3.508,
           52.796
         ]
@@ -30722,6 +30764,27 @@
         "latitude": "51.477",
         "longitude": "-0.126",
         "elevation (ft)": "20"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.617,
+          55.561
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "LAMINGTON",
+        "county": "Lanarkshire",
+        "gridref": "NS981309",
+        "latitude": "55.561",
+        "longitude": "-3.617",
+        "elevation (ft)": "730"
       }
     },
     {
