@@ -1,4 +1,4 @@
-Generation time: Monday 02/11/2020 07:50:07 GMT
+Generation time: Monday 02/11/2020 19:10:26 GMT
 
 95 locations under [https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA) which contributed to the [Met Office 2020 UK Climate Report](https://www.metoffice.gov.uk/research/climate/maps-and-data/about/state-of-climate):
 

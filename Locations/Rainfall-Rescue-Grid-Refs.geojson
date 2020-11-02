@@ -951,6 +951,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -0.522,
+          52.425
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "ALDWINKLE-ST-PETER",
+        "county": "Northamptonshire",
+        "gridref": "TL006818",
+        "latitude": "52.425",
+        "longitude": "-0.522",
+        "elevation (ft)": "175"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -1.203,
           51.511
         ]
@@ -1371,6 +1392,174 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -2.963,
+          54.434
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "AMBLESIDE-LOW-NOOK",
+        "county": "Westmorland",
+        "gridref": "NY376047",
+        "latitude": "54.434",
+        "longitude": "-2.963",
+        "elevation (ft)": "150"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.964,
+          54.436
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "AMBLESIDE-NOOK-COTTAGE",
+        "county": "Westmorland",
+        "gridref": "NY375049",
+        "latitude": "54.436",
+        "longitude": "-2.964",
+        "elevation (ft)": "229"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.429,
+          52.063
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "AMPTHILL-HAYNES-PARK",
+        "county": "Bedfordshire",
+        "gridref": "TL078417",
+        "latitude": "52.063",
+        "longitude": "-0.429",
+        "elevation (ft)": "285"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.471,
+          51.985
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "AMPTHILL-HIGHAM-BURY",
+        "county": "Bedfordshire",
+        "gridref": "TL051329",
+        "latitude": "51.985",
+        "longitude": "-0.471",
+        "elevation (ft)": "310"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.557,
+          52.041
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "AMPTHILL-LIDLINGTON",
+        "county": "Bedfordshire",
+        "gridref": "SP991390",
+        "latitude": "52.041",
+        "longitude": "-0.557",
+        "elevation (ft)": "235"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.49,
+          52.032
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "AMPTHILL-MIX",
+        "county": "Bedfordshire",
+        "gridref": "TL037381",
+        "latitude": "52.032",
+        "longitude": "-0.490",
+        "elevation (ft)": "320"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.497,
+          52.028
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "AMPTHILL-MIX",
+        "county": "Bedfordshire",
+        "gridref": "TL032377",
+        "latitude": "52.028",
+        "longitude": "-0.497",
+        "elevation (ft)": "313"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.428,
+          52.01
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "AMPTHILL-SILSOE",
+        "county": "Bedfordshire",
+        "gridref": "TL080358",
+        "latitude": "52.010",
+        "longitude": "-0.428",
+        "elevation (ft)": "214"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -2.567,
           55.517
         ]
@@ -1511,6 +1700,27 @@
         "latitude": "57.443",
         "longitude": "-5.796",
         "elevation (ft)": "70"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.626,
+          52.01
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "APSLEY-GUISE-OAKLANDS",
+        "county": "Bedfordshire",
+        "gridref": "SP944355",
+        "latitude": "52.010",
+        "longitude": "-0.626",
+        "elevation (ft)": "433"
       }
     },
     {
@@ -2673,6 +2883,48 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -3.607,
+          52.907
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "BALA-ERYL-ARAN",
+        "county": "Merionethshire",
+        "gridref": "SH920356",
+        "latitude": "52.907",
+        "longitude": "-3.607",
+        "elevation (ft)": "600"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.597,
+          52.911
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "BALA-HENBLAS",
+        "county": "Merionethshire",
+        "gridref": "SH927360",
+        "latitude": "52.911",
+        "longitude": "-3.597",
+        "elevation (ft)": "544"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -0.113,
           51.046
         ]
@@ -3492,6 +3744,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -0.48,
+          52.443
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "BARNWELL-LILFORD-HALL",
+        "county": "Northamptonshire",
+        "gridref": "TL034839",
+        "latitude": "52.443",
+        "longitude": "-0.480",
+        "elevation (ft)": "140"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -7.653,
           56.785
         ]
@@ -4017,6 +4290,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -0.472,
+          52.163
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "BEDFORD-CLAPHAM-PARK",
+        "county": "Bedfordshire",
+        "gridref": "TL046527",
+        "latitude": "52.163",
+        "longitude": "-0.472",
+        "elevation (ft)": "220"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -0.473,
           52.141
         ]
@@ -4094,6 +4388,27 @@
         "latitude": "52.135",
         "longitude": "-0.473",
         "elevation (ft)": "110"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.467,
+          52.139
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "BEDFORD-ST-PETERS",
+        "county": "Bedfordshire",
+        "gridref": "TL050501",
+        "latitude": "52.139",
+        "longitude": "-0.467",
+        "elevation (ft)": "114"
       }
     },
     {
@@ -6117,6 +6432,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -3.943,
+          53.003
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "BLAENAU-FESTINIOG-LLECHWEDD-QUARRY",
+        "county": "Merionethshire",
+        "gridref": "SH697468",
+        "latitude": "53.003",
+        "longitude": "-3.943",
+        "elevation (ft)": "700"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -3.949,
           53.003
         ]
@@ -6194,6 +6530,90 @@
         "latitude": "56.770",
         "longitude": "-3.860",
         "elevation (ft)": "450"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.085,
+          52.147
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "BLAKESLEY",
+        "county": "Northamptonshire",
+        "gridref": "SP627503",
+        "latitude": "52.147",
+        "longitude": "-1.085",
+        "elevation (ft)": "416"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.948,
+          52.189
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "BLISWORTH",
+        "county": "Northamptonshire",
+        "gridref": "SP720550",
+        "latitude": "52.189",
+        "longitude": "-0.948",
+        "elevation (ft)": "320"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.944,
+          52.173
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "BLISWORTH-CREIFF-HOUSE",
+        "county": "Northamptonshire",
+        "gridref": "SP723533",
+        "latitude": "52.173",
+        "longitude": "-0.944",
+        "elevation (ft)": "330"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.935,
+          52.174
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "BLISWORTH-CREIFF-HOUSE",
+        "county": "Northamptonshire",
+        "gridref": "SP729534",
+        "latitude": "52.174",
+        "longitude": "-0.935",
+        "elevation (ft)": "351"
       }
     },
     {
@@ -6887,6 +7307,27 @@
         "latitude": "53.122",
         "longitude": "-1.468",
         "elevation (ft)": "447"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.149,
+          52.025
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "BRACKLEY-NORTHAMPTONSHIRE",
+        "county": "Northamptonshire",
+        "gridref": "SP585366",
+        "latitude": "52.025",
+        "longitude": "-1.149",
+        "elevation (ft)": "387"
       }
     },
     {
@@ -13593,6 +14034,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -3.409,
+          52.985
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "CORWEN-RHUG-GDNS",
+        "county": "Merionethshire",
+        "gridref": "SJ055440",
+        "latitude": "52.985",
+        "longitude": "-3.409",
+        "elevation (ft)": "500"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           0.131,
           52.294
         ]
@@ -14657,6 +15119,27 @@
         "latitude": "55.748",
         "longitude": "-4.911",
         "elevation (ft)": "16"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.025,
+          56.258
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "CUPAR-CLATTO-RES",
+        "county": "Fife",
+        "gridref": "NO366078",
+        "latitude": "56.258",
+        "longitude": "-3.025",
+        "elevation (ft)": "505"
       }
     },
     {
@@ -17373,6 +17856,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -3.089,
+          54.449
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "DUNGEON-GHYLL",
+        "county": "Westmorland",
+        "gridref": "NY295065",
+        "latitude": "54.449",
+        "longitude": "-3.089",
+        "elevation (ft)": "310"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -3.578,
           56.557
         ]
@@ -17555,6 +18059,69 @@
         "latitude": "55.780",
         "longitude": "-2.343",
         "elevation (ft)": "500"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.526,
+          51.899
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "DUNSTABLE-CEMENT-WORKS",
+        "county": "Bedfordshire",
+        "gridref": "TL015233",
+        "latitude": "51.899",
+        "longitude": "-0.526",
+        "elevation (ft)": "430"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.506,
+          51.852
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "DUNSTABLE-KENSWORTH",
+        "county": "Bedfordshire",
+        "gridref": "TL030181",
+        "latitude": "51.852",
+        "longitude": "-0.506",
+        "elevation (ft)": "630"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.5,
+          51.856
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "DUNSTABLE-KENSWORTH",
+        "county": "Bedfordshire",
+        "gridref": "TL034185",
+        "latitude": "51.856",
+        "longitude": "-0.500",
+        "elevation (ft)": "585"
       }
     },
     {
@@ -18920,6 +19487,27 @@
         "latitude": "51.656",
         "longitude": "-0.313",
         "elevation (ft)": "305"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.025,
+          54.434
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "ELTERWATER-WOODLANDS",
+        "county": "Westmorland",
+        "gridref": "NY336047",
+        "latitude": "54.434",
+        "longitude": "-3.025",
+        "elevation (ft)": "244"
       }
     },
     {
@@ -21048,6 +21636,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -2.169,
+          53.879
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "FOULRIDGE-CANAL-OFFICE",
+        "county": "Lancashire",
+        "gridref": "SD889425",
+        "latitude": "53.879",
+        "longitude": "-2.169",
+        "elevation (ft)": "535"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -2.167,
           53.869
         ]
@@ -22791,6 +23400,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -4.865,
+          56.745
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "GLENLEVEN-LOCH-EILDE-BEG",
+        "county": "Inverness",
+        "gridref": "NN249652",
+        "latitude": "56.745",
+        "longitude": "-4.865",
+        "elevation (ft)": "1125"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -4.359,
           56.585
         ]
@@ -23274,6 +23904,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -0.339,
+          52.165
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "GREAT-BARFORD-HOUSE",
+        "county": "Bedfordshire",
+        "gridref": "TL137532",
+        "latitude": "52.165",
+        "longitude": "-0.339",
+        "elevation (ft)": "126"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -1.705,
           51.82
         ]
@@ -23414,6 +24065,27 @@
         "latitude": "51.985",
         "longitude": "0.631",
         "elevation (ft)": "245"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.686,
+          54.599
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "GREAT-STRICKLAND",
+        "county": "Westmorland",
+        "gridref": "NY558229",
+        "latitude": "54.599",
+        "longitude": "-2.686",
+        "elevation (ft)": "650"
       }
     },
     {
@@ -28566,6 +29238,48 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -6.395,
+          56.332
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "IONA",
+        "county": "Argyll",
+        "gridref": "NM284242",
+        "latitude": "56.332",
+        "longitude": "-6.395",
+        "elevation (ft)": "20"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.402,
+          56.332
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "IONA",
+        "county": "Argyll",
+        "gridref": "NM280238",
+        "latitude": "56.332",
+        "longitude": "-6.402",
+        "elevation (ft)": "60"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           1.099,
           52.028
         ]
@@ -29196,6 +29910,69 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -2.771,
+          54.353
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "KENDAL-ELLERGREEN",
+        "county": "Westmorland",
+        "gridref": "SD500956",
+        "latitude": "54.353",
+        "longitude": "-2.771",
+        "elevation (ft)": "290"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.74,
+          54.33
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "KENDAL-GOUGH",
+        "county": "Westmorland",
+        "gridref": "SD519929",
+        "latitude": "54.330",
+        "longitude": "-2.740",
+        "elevation (ft)": "149"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.781,
+          54.389
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "KENDAL-POTTER-FELL",
+        "county": "Westmorland",
+        "gridref": "SD494996",
+        "latitude": "54.389",
+        "longitude": "-2.781",
+        "elevation (ft)": "750"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -2.75,
           54.329
         ]
@@ -29343,6 +30120,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -3.128,
+          54.586
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "KESWICK-DEER-CLOSE",
+        "county": "Cumberland",
+        "gridref": "NY272218",
+        "latitude": "54.586",
+        "longitude": "-3.128",
+        "elevation (ft)": "300"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -3.145,
           54.59
         ]
@@ -29399,6 +30197,27 @@
         "latitude": "52.594",
         "longitude": "1.257",
         "elevation (ft)": "90"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.133,
+          54.6
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "KESWICK-SHU-LE-CROW",
+        "county": "Cumberland",
+        "gridref": "NY269234",
+        "latitude": "54.600",
+        "longitude": "-3.133",
+        "elevation (ft)": "287"
       }
     },
     {
@@ -32808,6 +33627,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -3.574,
+          52.403
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "LLANIDLOES-YSTRAD-OLWYN-FAWR",
+        "county": "Montgomeryshire",
+        "gridref": "SN930795",
+        "latitude": "52.403",
+        "longitude": "-3.574",
+        "elevation (ft)": "950"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -3.452,
           52.216
         ]
@@ -33816,6 +34656,69 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -0.179,
+          51.528
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "LONDON-HAMILTON-TERRACE",
+        "county": "Middlesex-became-London",
+        "gridref": "TQ264826",
+        "latitude": "51.528",
+        "longitude": "-0.179",
+        "elevation (ft)": "125"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.179,
+          51.527
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "LONDON-HAMILTON-TERRACE",
+        "county": "Middlesex-became-London",
+        "gridref": "TQ264825",
+        "latitude": "51.527",
+        "longitude": "-0.179",
+        "elevation (ft)": "125"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.115,
+          51.518
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "LONDON-HIGH-HOLBORN",
+        "county": "Middlesex-became-London",
+        "gridref": "TQ309816",
+        "latitude": "51.518",
+        "longitude": "-0.115",
+        "elevation (ft)": "74"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -0.155,
           51.567
         ]
@@ -34502,6 +35405,48 @@
         "latitude": "53.264",
         "longitude": "-2.135",
         "elevation (ft)": "501"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.854,
+          52.588
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "MACHYNLLETH-PLAS",
+        "county": "Montgomeryshire",
+        "gridref": "SH745005",
+        "latitude": "52.588",
+        "longitude": "-3.854",
+        "elevation (ft)": "41"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.845,
+          52.627
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "MACHYNLLETH-PLAS",
+        "county": "Montgomeryshire",
+        "gridref": "SH752048",
+        "latitude": "52.627",
+        "longitude": "-3.845",
+        "elevation (ft)": "150"
       }
     },
     {
@@ -41271,6 +42216,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -2.675,
+          54.685
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "PENRITH-EDENHALL",
+        "county": "Cumberland",
+        "gridref": "NY566324",
+        "latitude": "54.685",
+        "longitude": "-2.675",
+        "elevation (ft)": "310"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -2.877,
           54.671
         ]
@@ -41306,6 +42272,69 @@
         "latitude": "54.606",
         "longitude": "-2.742",
         "elevation (ft)": "750"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.741,
+          54.672
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "PENRITH-NANDANA",
+        "county": "Cumberland",
+        "gridref": "NY523310",
+        "latitude": "54.672",
+        "longitude": "-2.741",
+        "elevation (ft)": "650"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.788,
+          54.672
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "PENRITH-NEWTON-RIGG",
+        "county": "Cumberland",
+        "gridref": "NY493310",
+        "latitude": "54.672",
+        "longitude": "-2.788",
+        "elevation (ft)": "580"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.695,
+          54.715
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "PENRITH-NUNWICK-HALL",
+        "county": "Cumberland",
+        "gridref": "NY553358",
+        "latitude": "54.715",
+        "longitude": "-2.695",
+        "elevation (ft)": "258"
       }
     },
     {
@@ -42797,6 +43826,27 @@
         "latitude": "51.695",
         "longitude": "-0.178",
         "elevation (ft)": "400"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.165,
+          52.108
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "POTTON-WRESTLINGWORTH",
+        "county": "Bedfordshire",
+        "gridref": "TL258471",
+        "latitude": "52.108",
+        "longitude": "-0.165",
+        "elevation (ft)": "119"
       }
     },
     {
@@ -45170,6 +46220,27 @@
         "latitude": "59.036",
         "longitude": "-3.306",
         "elevation (ft)": "78"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.286,
+          52.127
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "SANDY-RECTORY",
+        "county": "Bedfordshire",
+        "gridref": "TL174490",
+        "latitude": "52.127",
+        "longitude": "-0.286",
+        "elevation (ft)": "120"
       }
     },
     {
@@ -52583,6 +53654,48 @@
         "latitude": "55.326",
         "longitude": "-4.845",
         "elevation (ft)": "96"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.627,
+          52.155
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "TURVEY",
+        "county": "Bedfordshire",
+        "gridref": "SP940516",
+        "latitude": "52.155",
+        "longitude": "-0.627",
+        "elevation (ft)": "240"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.645,
+          52.158
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "TURVEY",
+        "county": "Bedfordshire",
+        "gridref": "SP928520",
+        "latitude": "52.158",
+        "longitude": "-0.645",
+        "elevation (ft)": "180"
       }
     },
     {
