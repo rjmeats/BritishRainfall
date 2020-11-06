@@ -1,4 +1,4 @@
-Generation time: Friday 06/11/2020 23:10:08 GMT
+Generation time: Friday 06/11/2020 23:23:10 GMT
 
 4473 locations under [https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA):
 
