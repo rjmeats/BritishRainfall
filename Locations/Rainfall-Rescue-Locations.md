@@ -1,9 +1,9 @@
-Generation time: Friday 06/11/2020 19:15:29 GMT
+Generation time: Friday 06/11/2020 23:10:08 GMT
 
 
 [MO-2020] indicates a location which contributed to the [Met Office 2020 UK Climate Report](https://www.metoffice.gov.uk/research/climate/maps-and-data/about/state-of-climate):
 
-4471 locations under [https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA):
+4473 locations under [https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA):
 
 * [ABBEY-LEIX-BLANDSFORT](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/ABBEY-LEIX-BLANDSFORT)
 * [ABBEY-ST-BATHANS](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/ABBEY-ST-BATHANS)
@@ -2568,7 +2568,8 @@ Generation time: Friday 06/11/2020 19:15:29 GMT
 * [LOCH-NESS-KILLIN](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/LOCH-NESS-KILLIN)
 * [LOCH-NEVIS-INVERIE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/LOCH-NEVIS-INVERIE)
 * [LOCH-QUOICH-LOAN](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/LOCH-QUOICH-LOAN)
-* [LOCH-RANNOCH](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/LOCH-RANNOCH)
+* [LOCH-RANNOCH-DALL](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/LOCH-RANNOCH-DALL)
+* [LOCH-RANNOCH-STATION](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/LOCH-RANNOCH-STATION)
 * [LOCH-RYAN-LIGHTHOUSE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/LOCH-RYAN-LIGHTHOUSE)
 * [LOCH-SHIEL-GLENFINNAN](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/LOCH-SHIEL-GLENFINNAN)
 * [LOCH-SUNART-GLENBORRODALE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/LOCH-SUNART-GLENBORRODALE)
@@ -2900,6 +2901,7 @@ Generation time: Friday 06/11/2020 19:15:29 GMT
 * [NAILSWORTH-SPRING-HILL](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/NAILSWORTH-SPRING-HILL)
 * [NAIRN](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/NAIRN)
 * [NAIRN-ACHAREIDH](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/NAIRN-ACHAREIDH)
+* [NAIRN-DELNIES](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/NAIRN-DELNIES)
 * [NANTGLYN-PANT-Y-MAEN](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/NANTGLYN-PANT-Y-MAEN)
 * [NANTLLE-DOROTHEA-QUARRIES](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/NANTLLE-DOROTHEA-QUARRIES)
 * [NANTWICH-BADDILEY-WW](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/NANTWICH-BADDILEY-WW)

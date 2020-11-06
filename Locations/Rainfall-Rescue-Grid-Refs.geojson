@@ -951,6 +951,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          0.961,
+          52.072
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "ALDHAM",
+        "county": "Suffolk",
+        "gridref": "TM030456",
+        "latitude": "52.072",
+        "longitude": "0.961",
+        "elevation (ft)": "160"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -0.522,
           52.425
         ]
@@ -3030,6 +3051,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -0.19,
+          51.989
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "BALDOCK-MIX",
+        "county": "Hertfordshire",
+        "gridref": "TL244338",
+        "latitude": "51.989",
+        "longitude": "-0.190",
+        "elevation (ft)": "214"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -2.918,
           59.031
         ]
@@ -4773,6 +4815,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -0.097,
+          51.885
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "BENNINGTON-HOUSE",
+        "county": "Hertfordshire",
+        "gridref": "TL3107622404",
+        "latitude": "51.885",
+        "longitude": "-0.097",
+        "elevation (ft)": "408"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -2.22,
           50.754
         ]
@@ -4850,6 +4913,48 @@
         "latitude": "51.759",
         "longitude": "-0.567",
         "elevation (ft)": "370"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.573,
+          51.758
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "BERKHAMPSTEAD-ROSEBANK",
+        "county": "Hertfordshire",
+        "gridref": "SP986075",
+        "latitude": "51.758",
+        "longitude": "-0.573",
+        "elevation (ft)": "401"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.612,
+          51.755
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "BERKHAMPSTEAD-ROSSWAY",
+        "county": "Hertfordshire",
+        "gridref": "SP959072",
+        "latitude": "51.755",
+        "longitude": "-0.612",
+        "elevation (ft)": "560"
       }
     },
     {
@@ -7125,6 +7230,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -3.158,
+          54.547
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "BORROWDALE-GRANGE",
+        "county": "Cumberland",
+        "gridref": "NY252175",
+        "latitude": "54.547",
+        "longitude": "-3.158",
+        "elevation (ft)": "271"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -3.181,
           54.499
         ]
@@ -7160,6 +7286,48 @@
         "latitude": "54.499",
         "longitude": "-3.183",
         "elevation (ft)": "422"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.151,
+          54.519
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "BORROWDALE-THE-MORAINE",
+        "county": "Cumberland",
+        "gridref": "NY256143",
+        "latitude": "54.519",
+        "longitude": "-3.151",
+        "elevation (ft)": "330"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.149,
+          54.516
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "BORROWDALE-VICARAGE",
+        "county": "Cumberland",
+        "gridref": "NY257140",
+        "latitude": "54.516",
+        "longitude": "-3.149",
+        "elevation (ft)": "330"
       }
     },
     {
@@ -7370,6 +7538,27 @@
         "latitude": "55.541",
         "longitude": "-2.908",
         "elevation (ft)": "537"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.923,
+          54.367
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "BOWNESS-FALLBARROW",
+        "county": "Westmorland",
+        "gridref": "SD401972",
+        "latitude": "54.367",
+        "longitude": "-2.923",
+        "elevation (ft)": "135"
       }
     },
     {
@@ -7818,6 +8007,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -2.653,
+          54.955
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "BRAMPTON-DENTON-HOUSE",
+        "county": "Cumberland",
+        "gridref": "NY583625",
+        "latitude": "54.955",
+        "longitude": "-2.653",
+        "elevation (ft)": "541"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -0.309,
           53.914
         ]
@@ -7881,8 +8091,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -3.227,
-          54.474
+          -3.221,
+          54.472
         ]
       },
       "properties": {
@@ -7891,9 +8101,9 @@
         "marker-color": "66ff33",
         "name": "BRANT-RIGG",
         "county": "Cumberland",
-        "gridref": "NY206094",
-        "latitude": "54.474",
-        "longitude": "-3.227",
+        "gridref": "NY210092",
+        "latitude": "54.472",
+        "longitude": "-3.221",
         "elevation (ft)": "695"
       }
     },
@@ -9456,6 +9666,48 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -2.311,
+          54.731
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "BURNHOPE-LODGE-GILL-MINE",
+        "county": "Durham",
+        "gridref": "NY801374",
+        "latitude": "54.731",
+        "longitude": "-2.311",
+        "elevation (ft)": "1950"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.309,
+          54.687
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "BURNHOPE-LODGE-GILL-MINE",
+        "county": "Durham",
+        "gridref": "NY802325",
+        "latitude": "54.687",
+        "longitude": "-2.309",
+        "elevation (ft)": "1950"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -2.164,
           53.767
         ]
@@ -10422,6 +10674,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          0.097,
+          52.175
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "CAMBRIDGE-GRANCHESTER",
+        "county": "Cambridgeshire",
+        "gridref": "TL435550",
+        "latitude": "52.175",
+        "longitude": "0.097",
+        "elevation (ft)": "31"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           0.098,
           52.214
         ]
@@ -11094,6 +11367,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -2.933,
+          54.893
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "CARLISLE-ATHENAEUM",
+        "county": "Cumberland",
+        "gridref": "NY402557",
+        "latitude": "54.893",
+        "longitude": "-2.933",
+        "elevation (ft)": "76"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -2.988,
           54.883
         ]
@@ -11136,6 +11430,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -2.943,
+          54.883
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "CARLISLE-DENTON-HOLME",
+        "county": "Cumberland",
+        "gridref": "NY396547",
+        "latitude": "54.883",
+        "longitude": "-2.943",
+        "elevation (ft)": "57"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -2.949,
           54.894
         ]
@@ -11150,6 +11465,48 @@
         "latitude": "54.894",
         "longitude": "-2.949",
         "elevation (ft)": "45"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.917,
+          54.904
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "CARLISLE-RICKERBY",
+        "county": "Cumberland",
+        "gridref": "NY413570",
+        "latitude": "54.904",
+        "longitude": "-2.917",
+        "elevation (ft)": "52"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.884,
+          54.896
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "CARLISLE-ROSE-HILL",
+        "county": "Cumberland",
+        "gridref": "NY434561",
+        "latitude": "54.896",
+        "longitude": "-2.884",
+        "elevation (ft)": "102"
       }
     },
     {
@@ -13005,6 +13362,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -0.352,
+          51.779
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "CHILDWICKBURY-GDNS",
+        "county": "Hertfordshire",
+        "gridref": "TL138102",
+        "latitude": "51.779",
+        "longitude": "-0.352",
+        "elevation (ft)": "400"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -0.033,
           51.615
         ]
@@ -13607,6 +13985,90 @@
         "latitude": "51.315",
         "longitude": "-0.407",
         "elevation (ft)": "100"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.361,
+          54.663
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "COCKERMOUTH",
+        "county": "Cumberland",
+        "gridref": "NY123306",
+        "latitude": "54.663",
+        "longitude": "-3.361",
+        "elevation (ft)": "127"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.363,
+          54.626
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "COCKERMOUTH-BRANDLINGILL",
+        "county": "Cumberland",
+        "gridref": "NY121265",
+        "latitude": "54.626",
+        "longitude": "-3.363",
+        "elevation (ft)": "320"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.43,
+          54.67
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "COCKERMOUTH-BROUGHTON-GRANGE",
+        "county": "Cumberland",
+        "gridref": "NY079315",
+        "latitude": "54.670",
+        "longitude": "-3.430",
+        "elevation (ft)": "209"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.265,
+          54.672
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "COCKERMOUTH-HIGHAM",
+        "county": "Cumberland",
+        "gridref": "NY185315",
+        "latitude": "54.672",
+        "longitude": "-3.265",
+        "elevation (ft)": "478"
       }
     },
     {
@@ -16736,6 +17198,27 @@
         "latitude": "53.349",
         "longitude": "-2.045",
         "elevation (ft)": "720"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.11,
+          52.38
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "DISS",
+        "county": "Norfolk",
+        "gridref": "TM118803",
+        "latitude": "52.380",
+        "longitude": "1.110",
+        "elevation (ft)": "96"
       }
     },
     {
@@ -20124,6 +20607,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -3.283,
+          54.392
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "ESKDALE-VICARAGE",
+        "county": "Cumberland",
+        "gridref": "NY168004",
+        "latitude": "54.392",
+        "longitude": "-3.283",
+        "elevation (ft)": "180"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -3.181,
           55.274
         ]
@@ -20600,6 +21104,27 @@
         "latitude": "59.514",
         "longitude": "-1.654",
         "elevation (ft)": "28"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.312,
+          54.629
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "FAIRFIELD-LORTON-NR-COCKERMOUTH",
+        "county": "Cumberland",
+        "gridref": "NY154268",
+        "latitude": "54.629",
+        "longitude": "-3.312",
+        "elevation (ft)": "255"
       }
     },
     {
@@ -21398,6 +21923,27 @@
         "latitude": "51.597",
         "longitude": "-0.194",
         "elevation (ft)": "278"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.96,
+          51.849
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "FINGRINGHOE-BALLAST-QUAY-FARM",
+        "county": "Essex",
+        "gridref": "TM040209",
+        "latitude": "51.849",
+        "longitude": "0.960",
+        "elevation (ft)": "47"
       }
     },
     {
@@ -22707,6 +23253,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -3.247,
+          54.524
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "GATESGARTH-BUTTERMERE",
+        "county": "Cumberland",
+        "gridref": "NY193150",
+        "latitude": "54.524",
+        "longitude": "-3.247",
+        "elevation (ft)": "326"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -1.571,
           54.92
         ]
@@ -22833,6 +23400,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -2.672,
+          54.876
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "GELTSDALE",
+        "county": "Cumberland",
+        "gridref": "NY570537",
+        "latitude": "54.876",
+        "longitude": "-2.672",
+        "elevation (ft)": "778"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -3.451,
           58.513
         ]
@@ -22847,6 +23435,27 @@
         "latitude": "58.513",
         "longitude": "-3.451",
         "elevation (ft)": "167"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.339,
+          54.515
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "GILLERTHWAITE-ENNERDALE",
+        "county": "Cumberland",
+        "gridref": "NY134141",
+        "latitude": "54.515",
+        "longitude": "-3.339",
+        "elevation (ft)": "396"
       }
     },
     {
@@ -24170,6 +24779,27 @@
         "latitude": "51.800",
         "longitude": "1.162",
         "elevation (ft)": "45"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.22,
+          54.482
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "GREAT-GABLE",
+        "county": "Cumberland",
+        "gridref": "NY210103",
+        "latitude": "54.482",
+        "longitude": "-3.220",
+        "elevation (ft)": "2925"
       }
     },
     {
@@ -30204,6 +30834,48 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -2.747,
+          54.324
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "KENDAL-MIX",
+        "county": "Westmorland",
+        "gridref": "SD514923",
+        "latitude": "54.324",
+        "longitude": "-2.747",
+        "elevation (ft)": "160"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.735,
+          54.329
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "KENDAL-MIX",
+        "county": "Westmorland",
+        "gridref": "SD523928",
+        "latitude": "54.329",
+        "longitude": "-2.735",
+        "elevation (ft)": "176"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -2.781,
           54.389
         ]
@@ -30372,6 +31044,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -3.142,
+          54.597
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "KESWICK-CROW-PARK",
+        "county": "Cumberland",
+        "gridref": "NY263230",
+        "latitude": "54.597",
+        "longitude": "-3.142",
+        "elevation (ft)": "295"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -3.128,
           54.586
         ]
@@ -30407,6 +31100,27 @@
         "latitude": "54.590",
         "longitude": "-3.145",
         "elevation (ft)": "280"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.147,
+          54.604
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "KESWICK-HIGH-HILL",
+        "county": "Cumberland",
+        "gridref": "NY260238",
+        "latitude": "54.604",
+        "longitude": "-3.147",
+        "elevation (ft)": "254"
       }
     },
     {
@@ -30806,6 +31520,48 @@
         "latitude": "55.639",
         "longitude": "-4.483",
         "elevation (ft)": "319"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.433,
+          55.984
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "KILPATRICK-HILLS-BURNCROOKS",
+        "county": "[CHOICE] Dunbartonshire, Stirlingshire",
+        "gridref": "NS483795",
+        "latitude": "55.984",
+        "longitude": "-4.433",
+        "elevation (ft)": "835"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.43,
+          55.985
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "KILPATRICK-HILLS-BURNCROOKS",
+        "county": "[CHOICE] Dunbartonshire, Stirlingshire",
+        "gridref": "NS485796",
+        "latitude": "55.985",
+        "longitude": "-4.430",
+        "elevation (ft)": "959"
       }
     },
     {
@@ -34509,6 +35265,48 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -4.297,
+          56.679
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "LOCH-RANNOCH-DALL",
+        "county": "Perthshire",
+        "gridref": "NN594565",
+        "latitude": "56.679",
+        "longitude": "-4.297",
+        "elevation (ft)": "722"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.575,
+          56.685
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "LOCH-RANNOCH-STATION",
+        "county": "Perthshire",
+        "gridref": "NN424578",
+        "latitude": "56.685",
+        "longitude": "-4.575",
+        "elevation (ft)": "1007"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -5.031,
           54.974
         ]
@@ -35286,6 +36084,48 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -3.345,
+          54.58
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "LOWESWATER-LAKE",
+        "county": "Cumberland",
+        "gridref": "NY131213",
+        "latitude": "54.580",
+        "longitude": "-3.345",
+        "elevation (ft)": "336"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.369,
+          54.591
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "LOWESWATER-WATEREND",
+        "county": "Cumberland",
+        "gridref": "NY116226",
+        "latitude": "54.591",
+        "longitude": "-3.369",
+        "elevation (ft)": "432"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -0.362,
           54.035
         ]
@@ -35909,6 +36749,27 @@
         "latitude": "55.579",
         "longitude": "-2.518",
         "elevation (ft)": "225"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.696,
+          51.726
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "MALDON",
+        "county": "Essex",
+        "gridref": "TL863065",
+        "latitude": "51.726",
+        "longitude": "0.696",
+        "elevation (ft)": "14"
       }
     },
     {
@@ -36623,6 +37484,48 @@
         "latitude": "51.528",
         "longitude": "-0.152",
         "elevation (ft)": "126"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.489,
+          54.715
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "MARYPORT-NETHERHALL",
+        "county": "Cumberland",
+        "gridref": "NY042366",
+        "latitude": "54.715",
+        "longitude": "-3.489",
+        "elevation (ft)": "27"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.986,
+          54.594
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "MATTERDALE-FELL",
+        "county": "Cumberland",
+        "gridref": "NY364225",
+        "latitude": "54.594",
+        "longitude": "-2.986",
+        "elevation (ft)": "1400"
       }
     },
     {
