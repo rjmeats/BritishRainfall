@@ -3765,6 +3765,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -7.436,
+          57.041
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "BARRA-EOLIGARRY",
+        "county": "Inverness",
+        "gridref": "NF704076",
+        "latitude": "57.041",
+        "longitude": "-7.436",
+        "elevation (ft)": "50"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -7.653,
           56.785
         ]
@@ -4878,6 +4899,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -3.192,
+          52.615
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "BERRIEW-BRITHDIR-HALL",
+        "county": "Montgomeryshire",
+        "gridref": "SJ194026",
+        "latitude": "52.615",
+        "longitude": "-3.192",
+        "elevation (ft)": "350"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -1.998,
           55.769
         ]
@@ -5613,6 +5655,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -3.664,
+          52.36
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "BIRMINGHAM-WW-BOD-TALOG",
+        "county": "Montgomeryshire",
+        "gridref": "SN868749",
+        "latitude": "52.360",
+        "longitude": "-3.664",
+        "elevation (ft)": "1250"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -3.75,
           52.283
         ]
@@ -5816,6 +5879,27 @@
         "latitude": "52.329",
         "longitude": "-3.721",
         "elevation (ft)": "1620"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.66,
+          52.369
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "BIRMINGHAM-WW-GLAN-FEDWEN",
+        "county": "Montgomeryshire",
+        "gridref": "SN871759",
+        "latitude": "52.369",
+        "longitude": "-3.660",
+        "elevation (ft)": "1375"
       }
     },
     {
@@ -8238,8 +8322,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -0.482,
-          53.547
+          -0.486,
+          53.548
         ]
       },
       "properties": {
@@ -8248,10 +8332,73 @@
         "marker-color": "66ff33",
         "name": "BRIGG-RAILWAY-STATION",
         "county": "Lincolnshire",
-        "gridref": "TA002068",
-        "latitude": "53.547",
-        "longitude": "-0.482",
+        "gridref": "TA004068",
+        "latitude": "53.548",
+        "longitude": "-0.486",
         "elevation (ft)": "16"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.541,
+          53.539
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "BRIGG-SCAWBY-HALL",
+        "county": "Lincolnshire",
+        "gridref": "SE968057",
+        "latitude": "53.539",
+        "longitude": "-0.541",
+        "elevation (ft)": "80"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.512,
+          53.542
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "BRIGG-SUGAR-FACTORY",
+        "county": "Lincolnshire",
+        "gridref": "SE987061",
+        "latitude": "53.542",
+        "longitude": "-0.512",
+        "elevation (ft)": "134"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.484,
+          53.554
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "BRIGG-WRAWBY-ROAD",
+        "county": "Lincolnshire",
+        "gridref": "TA005074",
+        "latitude": "53.554",
+        "longitude": "-0.484",
+        "elevation (ft)": "22"
       }
     },
     {
@@ -9575,6 +9722,27 @@
         "latitude": "53.732",
         "longitude": "-0.140",
         "elevation (ft)": "26"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.684,
+          53.65
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "BURTON-ON-STATHER-VICARAGE",
+        "county": "Lincolnshire",
+        "gridref": "SE871179",
+        "latitude": "53.650",
+        "longitude": "-0.684",
+        "elevation (ft)": "212"
       }
     },
     {
@@ -11150,6 +11318,27 @@
         "latitude": "53.122",
         "longitude": "-4.333",
         "elevation (ft)": "12"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.536,
+          52.558
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "CARNO-TYBRITH",
+        "county": "Montgomeryshire",
+        "gridref": "SN960967",
+        "latitude": "52.558",
+        "longitude": "-3.536",
+        "elevation (ft)": "595"
       }
     },
     {
@@ -13061,6 +13250,27 @@
         "latitude": "52.581",
         "longitude": "-2.805",
         "elevation (ft)": "745"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.095,
+          52.519
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "CHURCHSTOKE-MELLINGTON-HALL",
+        "county": "Montgomeryshire",
+        "gridref": "SO258918",
+        "latitude": "52.519",
+        "longitude": "-3.095",
+        "elevation (ft)": "540"
       }
     },
     {
@@ -15000,7 +15210,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -0.741,
+          -0.74,
           53.593
         ]
       },
@@ -15010,10 +15220,10 @@
         "marker-color": "66ff33",
         "name": "CROWLE-KEADBY",
         "county": "Lincolnshire",
-        "gridref": "SE834114",
+        "gridref": "SE835114",
         "latitude": "53.593",
-        "longitude": "-0.741",
-        "elevation (ft)": "17"
+        "longitude": "-0.740",
+        "elevation (ft)": "10"
       }
     },
     {
@@ -25857,6 +26067,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -6.802,
+          57.897
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "HARRIS",
+        "county": "Inverness",
+        "gridref": "NG155999",
+        "latitude": "57.897",
+        "longitude": "-6.802",
+        "elevation (ft)": "0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -6.643,
           57.857
         ]
@@ -29805,6 +30036,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -0.74,
+          53.591
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "KEADBY-PUMPING-STATION",
+        "county": "Lincolnshire",
+        "gridref": "SE835112",
+        "latitude": "53.591",
+        "longitude": "-0.740",
+        "elevation (ft)": "20"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           1.252,
           51.143
         ]
@@ -31359,27 +31611,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -3.457,
-          52.761
-        ]
-      },
-      "properties": {
-        "marker-symbol": "circle-stroked",
-        "marker-size": "small",
-        "marker-color": "66ff33",
-        "name": "LAKE-VYRNWY-BANK-CYNON-ISAF",
-        "county": "Montgomeryshire",
-        "gridref": "SJ018191",
-        "latitude": "52.761",
-        "longitude": "-3.457",
-        "elevation (ft)": "750"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -3.454,
           52.762
         ]
@@ -31393,6 +31624,27 @@
         "gridref": "SJ019192",
         "latitude": "52.762",
         "longitude": "-3.454",
+        "elevation (ft)": "750"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.457,
+          52.761
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "LAKE-VYRNWY-BANK-CYNON-ISAF",
+        "county": "Montgomeryshire",
+        "gridref": "SJ018191",
+        "latitude": "52.761",
+        "longitude": "-3.457",
         "elevation (ft)": "750"
       }
     },
@@ -37449,6 +37701,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -3.146,
+          52.564
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "MONTGOMERY-OAKFIELD",
+        "county": "Montgomeryshire",
+        "gridref": "SO224969",
+        "latitude": "52.564",
+        "longitude": "-3.146",
+        "elevation (ft)": "450"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -2.473,
           56.709
         ]
@@ -39507,6 +39780,69 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -3.325,
+          52.473
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "NEWTOWN-DOLFOR",
+        "county": "Montgomeryshire",
+        "gridref": "SO101869",
+        "latitude": "52.473",
+        "longitude": "-3.325",
+        "elevation (ft)": "1027"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.357,
+          52.474
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "NEWTOWN-MOCHDRE-RES",
+        "county": "Montgomeryshire",
+        "gridref": "SO079871",
+        "latitude": "52.474",
+        "longitude": "-3.357",
+        "elevation (ft)": "650"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.275,
+          52.523
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "NEWTOWN-PENARTH-WEIR",
+        "county": "Montgomeryshire",
+        "gridref": "SO136925",
+        "latitude": "52.523",
+        "longitude": "-3.275",
+        "elevation (ft)": "321"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -4.362,
           55.771
         ]
@@ -39521,6 +39857,27 @@
         "latitude": "55.771",
         "longitude": "-4.362",
         "elevation (ft)": "420"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.666,
+          53.64
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "NORMANBY",
+        "county": "Lincolnshire",
+        "gridref": "SE883168",
+        "latitude": "53.640",
+        "longitude": "-0.666",
+        "elevation (ft)": "185"
       }
     },
     {
@@ -49734,6 +50091,90 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -4.019,
+          56.102
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "STIRLING-TOUCH-RES",
+        "county": "Stirlingshire",
+        "gridref": "NS745917",
+        "latitude": "56.102",
+        "longitude": "-4.019",
+        "elevation (ft)": "435"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.035,
+          56.102
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "STIRLING-TOUCH-RES",
+        "county": "Stirlingshire",
+        "gridref": "NS735918",
+        "latitude": "56.102",
+        "longitude": "-4.035",
+        "elevation (ft)": "737"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.043,
+          56.098
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "STIRLING-TOUCH-RES",
+        "county": "Stirlingshire",
+        "gridref": "NS730913",
+        "latitude": "56.098",
+        "longitude": "-4.043",
+        "elevation (ft)": "759"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.04,
+          56.101
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "STIRLING-TOUCH-RES",
+        "county": "Stirlingshire",
+        "gridref": "NS732917",
+        "latitude": "56.101",
+        "longitude": "-4.040",
+        "elevation (ft)": "758"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -3.313,
           55.616
         ]
@@ -55530,6 +55971,90 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -3.143,
+          52.655
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "WELSHPOOL-COUNTY-SCHOOL",
+        "county": "Montgomeryshire",
+        "gridref": "SJ228070",
+        "latitude": "52.655",
+        "longitude": "-3.143",
+        "elevation (ft)": "254"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.162,
+          52.661
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "WELSHPOOL-FRON-LLWYD",
+        "county": "Montgomeryshire",
+        "gridref": "SJ215077",
+        "latitude": "52.661",
+        "longitude": "-3.162",
+        "elevation (ft)": "500"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.101,
+          52.701
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "WELSHPOOL-POOL-QUAY",
+        "county": "Montgomeryshire",
+        "gridref": "SJ257120",
+        "latitude": "52.701",
+        "longitude": "-3.101",
+        "elevation (ft)": "230"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.162,
+          52.65
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "WELSHPOOL-POWYS-CASTLE",
+        "county": "Montgomeryshire",
+        "gridref": "SJ215064",
+        "latitude": "52.650",
+        "longitude": "-3.162",
+        "elevation (ft)": "420"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -0.17,
           51.854
         ]
@@ -56972,6 +57497,90 @@
         "latitude": "51.301",
         "longitude": "-0.881",
         "elevation (ft)": "217"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.103,
+          51.633
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "WINCHMORE-HILL-MIX",
+        "county": "Middlesex-stayed-Middlesex",
+        "gridref": "TQ314944",
+        "latitude": "51.633",
+        "longitude": "-0.103",
+        "elevation (ft)": "160"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.091,
+          51.634
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "WINCHMORE-HILL-MIX",
+        "county": "Middlesex-stayed-Middlesex",
+        "gridref": "TQ322945",
+        "latitude": "51.634",
+        "longitude": "-0.091",
+        "elevation (ft)": "110"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.111,
+          51.637
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "WINCHMORE-HILL-MIX",
+        "county": "Middlesex-stayed-Middlesex",
+        "gridref": "TQ308948",
+        "latitude": "51.637",
+        "longitude": "-0.111",
+        "elevation (ft)": "130"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.106,
+          51.637
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "WINCHMORE-HILL-MIX",
+        "county": "Middlesex-stayed-Middlesex",
+        "gridref": "TQ312948",
+        "latitude": "51.637",
+        "longitude": "-0.106",
+        "elevation (ft)": "170"
       }
     },
     {
