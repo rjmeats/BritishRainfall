@@ -1,11 +1,13 @@
-Generation time: Friday 06/11/2020 23:23:10 GMT
+Generation time: Tuesday 10/11/2020 19:25:30 GMT
 
 95 locations under [https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA) which contributed to the [Met Office 2020 UK Climate Report](https://www.metoffice.gov.uk/research/climate/maps-and-data/about/state-of-climate):
 
+* [FERRIBY-SLUICE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/FERRIBY-SLUICE) : 62 minutes ago : 2020-11-10 17:41:42 +0000 
+* [READING-ENGLEFIELD](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/READING-ENGLEFIELD) : 69 minutes ago : 2020-11-10 17:41:42 +0000 
 * [GREENOCK-WW-LOCH-THOM](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/GREENOCK-WW-LOCH-THOM) : 4 weeks ago : 2020-10-12 23:15:37 +0100 
 * [SEAFORDE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/SEAFORDE) : 4 weeks ago : 2020-10-12 23:15:37 +0100 
 * [STORNOWAY-LIGHTHOUSE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/STORNOWAY-LIGHTHOUSE) : 4 weeks ago : 2020-10-12 23:15:37 +0100 
-* [YORK-CHERRY-HILL](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/YORK-CHERRY-HILL) : 4 weeks ago : 2020-10-07 15:46:25 +0100 
+* [YORK-CHERRY-HILL](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/YORK-CHERRY-HILL) : 5 weeks ago : 2020-10-07 15:46:25 +0100 
 * [SHOEBURYNESS](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/SHOEBURYNESS) : 5 weeks ago : 2020-10-06 00:25:13 +0100 
 * [CORSEWALL](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/CORSEWALL) : 5 weeks ago : 2020-10-05 17:55:20 +0100 
 * [CREWKERNE-BINCOMBE-HOUSE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/CREWKERNE-BINCOMBE-HOUSE) : 5 weeks ago : 2020-10-03 18:14:30 +0100 
@@ -43,7 +45,6 @@ Generation time: Friday 06/11/2020 23:23:10 GMT
 * [ESHER-SEWAGE-WORKS](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/ESHER-SEWAGE-WORKS) : 4 months ago : 2020-07-08 14:36:05 +0100 
 * [EWHURST-CONEYHURST](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/EWHURST-CONEYHURST) : 4 months ago : 2020-07-08 14:36:05 +0100 
 * [FELSTED-SCHOOL](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/FELSTED-SCHOOL) : 4 months ago : 2020-07-08 14:36:05 +0100 
-* [FERRIBY-SLUICE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/FERRIBY-SLUICE) : 4 months ago : 2020-07-08 14:36:05 +0100 
 * [GARSTANG-BARNACRE-RES](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/GARSTANG-BARNACRE-RES) : 4 months ago : 2020-07-08 14:36:05 +0100 
 * [GOOLE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/GOOLE) : 4 months ago : 2020-07-08 14:36:05 +0100 
 * [GREENOCK-WW-DARNDAFF-MOOR](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/GREENOCK-WW-DARNDAFF-MOOR) : 4 months ago : 2020-07-08 14:36:05 +0100 
@@ -80,7 +81,6 @@ Generation time: Friday 06/11/2020 23:23:10 GMT
 * [PAISLEY-WW-MUIRHEAD](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/PAISLEY-WW-MUIRHEAD) : 4 months ago : 2020-07-08 14:36:05 +0100 
 * [PLADDA-ARRAN-LIGHTHOUSE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/PLADDA-ARRAN-LIGHTHOUSE) : 4 months ago : 2020-07-08 14:36:05 +0100 
 * [POINT-OF-AYRE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/POINT-OF-AYRE) : 4 months ago : 2020-07-08 14:36:05 +0100 
-* [READING-ENGLEFIELD](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/READING-ENGLEFIELD) : 4 months ago : 2020-07-08 14:36:05 +0100 
 * [READING-FORBURY-GDNS](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/READING-FORBURY-GDNS) : 4 months ago : 2020-07-08 14:36:05 +0100 
 * [ROTHERHAM-THRYBERGH](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/ROTHERHAM-THRYBERGH) : 4 months ago : 2020-07-08 14:36:05 +0100 
 * [SANDAY-START-POINT](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/SANDAY-START-POINT) : 4 months ago : 2020-07-08 14:36:05 +0100 
