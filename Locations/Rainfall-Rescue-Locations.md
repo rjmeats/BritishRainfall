@@ -1,9 +1,9 @@
-Generation time: Tuesday 10/11/2020 19:25:30 GMT
+Generation time: Wednesday 11/11/2020 17:20:31 GMT
 
 
 [MO-2020] indicates a location which contributed to the [Met Office 2020 UK Climate Report](https://www.metoffice.gov.uk/research/climate/maps-and-data/about/state-of-climate):
 
-4479 locations under [https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA):
+4488 locations under [https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA):
 
 * [ABBEY-LEIX-BLANDSFORT](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/ABBEY-LEIX-BLANDSFORT)
 * [ABBEY-ST-BATHANS](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/ABBEY-ST-BATHANS)
@@ -74,6 +74,7 @@ Generation time: Tuesday 10/11/2020 19:25:30 GMT
 * [AIRDRIE-FORRESTBURN-RES](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/AIRDRIE-FORRESTBURN-RES)
 * [AIRDRIE-HILLEND](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/AIRDRIE-HILLEND)
 * [AISLABY-PARK-HALL](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/AISLABY-PARK-HALL)
+* [AITNACH](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/AITNACH)
 * [ALCESTER-RAGLEY](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/ALCESTER-RAGLEY)
 * [ALDBOROUGH-ALDRINGHAM](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/ALDBOROUGH-ALDRINGHAM)
 * [ALDERLEY-RECTORY](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/ALDERLEY-RECTORY)
@@ -1713,8 +1714,12 @@ Generation time: Tuesday 10/11/2020 19:25:30 GMT
 * [GLEN-ETIVE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/GLEN-ETIVE)
 * [GLEN-FINLAS-PERTHSHIRE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/GLEN-FINLAS-PERTHSHIRE)
 * [GLEN-FINLAS-RES-DUMBARTONSHIRE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/GLEN-FINLAS-RES-DUMBARTONSHIRE)
+* [GLEN-GAIRN-CORNDAVON](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/GLEN-GAIRN-CORNDAVON)
+* [GLEN-GAVIN-GAIRN-SHIEL-LODGE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/GLEN-GAVIN-GAIRN-SHIEL-LODGE)
 * [GLEN-GYLE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/GLEN-GYLE)
 * [GLEN-MEANN](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/GLEN-MEANN)
+* [GLEN-MUICK](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/GLEN-MUICK)
+* [GLEN-MUICK-INCHNABOBART](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/GLEN-MUICK-INCHNABOBART)
 * [GLEN-SPEY-MEALGARVE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/GLEN-SPEY-MEALGARVE)
 * [GLEN-STRATHFARRER](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/GLEN-STRATHFARRER)
 * [GLEN-URQUHART](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/GLEN-URQUHART)
@@ -1729,6 +1734,7 @@ Generation time: Tuesday 10/11/2020 19:25:30 GMT
 * [GLENEDRA-LODGE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/GLENEDRA-LODGE)
 * [GLENELG](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/GLENELG)
 * [GLENGORM-MULL](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/GLENGORM-MULL)
+* [GLENHEAD-OF-TROOL](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/GLENHEAD-OF-TROOL)
 * [GLENLEVEN-BLACKWATER](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/GLENLEVEN-BLACKWATER)
 * [GLENLEVEN-BLACKWATER-DAM-N](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/GLENLEVEN-BLACKWATER-DAM-N)
 * [GLENLEVEN-BLACKWATER-DAM-S](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/GLENLEVEN-BLACKWATER-DAM-S)
@@ -2127,6 +2133,8 @@ Generation time: Tuesday 10/11/2020 19:25:30 GMT
 * [HUNTINGDON](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/HUNTINGDON)
 * [HUNTINGDON-BRAMPTON](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/HUNTINGDON-BRAMPTON)
 * [HUNTINGDON-HINCHINGBROOKE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/HUNTINGDON-HINCHINGBROOKE)
+* [HUNTLY-CRUCHIE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/HUNTLY-CRUCHIE)
+* [HUNTLY-UNION-BANK](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/HUNTLY-UNION-BANK)
 * [HURST-BROOK-VALLEY](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/HURST-BROOK-VALLEY)
 * [HURST-CASTLE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/HURST-CASTLE)
 * [HURSTPIERPOINT-DANNY-PARK](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/HURSTPIERPOINT-DANNY-PARK)
@@ -3246,6 +3254,7 @@ Generation time: Tuesday 10/11/2020 19:25:30 GMT
 * [PILTOWN-BESSBOROUGH](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/PILTOWN-BESSBOROUGH)
 * [PINNER-HILL](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/PINNER-HILL)
 * [PITLOCHRY-BONSKEID](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/PITLOCHRY-BONSKEID)
+* [PITLOCHRY-DUNAVOURD](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/PITLOCHRY-DUNAVOURD)
 * [PITLOCHRY-FASGANEOIN](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/PITLOCHRY-FASGANEOIN)
 * [PITSEA-PUMPING-STATION](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/PITSEA-PUMPING-STATION)
 * [PITTENWEEM](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/PITTENWEEM)

@@ -7797,6 +7797,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -2.189,
+          51.834
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "BOWDEN-HALL",
+        "county": "Gloucestershire",
+        "gridref": "SO871151",
+        "latitude": "51.834",
+        "longitude": "-2.189",
+        "elevation (ft)": "232"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -2.908,
           55.541
         ]
@@ -21965,6 +21986,48 @@
         "latitude": "50.152",
         "longitude": "-5.070",
         "elevation (ft)": "169"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.588,
+          51.658
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "FARINGDON-THE-ELMS",
+        "county": "Berkshire",
+        "gridref": "SU286956",
+        "latitude": "51.658",
+        "longitude": "-1.588",
+        "elevation (ft)": "340"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.584,
+          51.658
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "FARINGDON-THE-ELMS",
+        "county": "Berkshire",
+        "gridref": "SU289955",
+        "latitude": "51.658",
+        "longitude": "-1.584",
+        "elevation (ft)": "333"
       }
     },
     {
@@ -45849,6 +45912,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -4.082,
+          50.381
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "PLYMOUTH-SALTRAM-GDNS",
+        "county": "Devon",
+        "gridref": "SX520555",
+        "latitude": "50.381",
+        "longitude": "-4.082",
+        "elevation (ft)": "65"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -3.998,
           50.41
         ]
@@ -46850,6 +46934,27 @@
         "latitude": "51.451",
         "longitude": "-0.961",
         "elevation (ft)": "148"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.991,
+          51.45
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "READING-WW-BATH-ROAD",
+        "county": "Berkshire",
+        "gridref": "SU702728",
+        "latitude": "51.450",
+        "longitude": "-0.991",
+        "elevation (ft)": "217"
       }
     },
     {
@@ -48789,6 +48894,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -0.825,
+          51.359
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "SANDHURST-LODGE",
+        "county": "Berkshire",
+        "gridref": "SU819629",
+        "latitude": "51.359",
+        "longitude": "-0.825",
+        "elevation (ft)": "263"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           0.515,
           52.83
         ]
@@ -50049,6 +50175,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -0.946,
+          51.412
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "SHINFIELD-UNIV-HORT-FARM",
+        "county": "Berkshire",
+        "gridref": "SU734686",
+        "latitude": "51.412",
+        "longitude": "-0.946",
+        "elevation (ft)": "200"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -1.621,
           52.045
         ]
@@ -50462,6 +50609,27 @@
         "latitude": "52.689",
         "longitude": "-2.763",
         "elevation (ft)": "205"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.619,
+          51.562
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "SHRIVENHAM-ASHBURY-VICARAGE",
+        "county": "Berkshire",
+        "gridref": "SU265849",
+        "latitude": "51.562",
+        "longitude": "-1.619",
+        "elevation (ft)": "479"
       }
     },
     {
@@ -54165,6 +54333,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -0.647,
+          51.398
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "SUNNINGDALE-LYNWOOD",
+        "county": "Berkshire",
+        "gridref": "SU942674",
+        "latitude": "51.398",
+        "longitude": "-0.647",
+        "elevation (ft)": "266"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -0.317,
           51.391
         ]
@@ -57651,6 +57840,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -1.205,
+          51.573
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "WALLINGFORD-BLEWBURTON-HOUSE",
+        "county": "Berkshire",
+        "gridref": "SU552863",
+        "latitude": "51.573",
+        "longitude": "-1.205",
+        "elevation (ft)": "240"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -1.124,
           51.602
         ]
@@ -57665,6 +57875,27 @@
         "latitude": "51.602",
         "longitude": "-1.124",
         "elevation (ft)": "175"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.155,
+          51.617
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "WALLINGFORD-STYLE-ACRE",
+        "county": "Berkshire",
+        "gridref": "SU586912",
+        "latitude": "51.617",
+        "longitude": "-1.155",
+        "elevation (ft)": "200"
       }
     },
     {
@@ -57938,6 +58169,69 @@
         "latitude": "51.575",
         "longitude": "0.041",
         "elevation (ft)": "25"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.427,
+          51.585
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "WANTAGE",
+        "county": "Berkshire",
+        "gridref": "SU398875",
+        "latitude": "51.585",
+        "longitude": "-1.427",
+        "elevation (ft)": "320"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.427,
+          51.589
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "WANTAGE",
+        "county": "Berkshire",
+        "gridref": "SU398879",
+        "latitude": "51.589",
+        "longitude": "-1.427",
+        "elevation (ft)": "304"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.453,
+          51.574
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "WANTAGE-LETCOMBE-REGIS",
+        "county": "Berkshire",
+        "gridref": "SU380863",
+        "latitude": "51.574",
+        "longitude": "-1.453",
+        "elevation (ft)": "350"
       }
     },
     {
