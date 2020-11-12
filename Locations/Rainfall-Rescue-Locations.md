@@ -1,9 +1,9 @@
-Generation time: Wednesday 11/11/2020 17:20:31 GMT
+Generation time: Thursday 12/11/2020 09:19:42 GMT
 
 
 [MO-2020] indicates a location which contributed to the [Met Office 2020 UK Climate Report](https://www.metoffice.gov.uk/research/climate/maps-and-data/about/state-of-climate):
 
-4488 locations under [https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA):
+4489 locations under [https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA):
 
 * [ABBEY-LEIX-BLANDSFORT](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/ABBEY-LEIX-BLANDSFORT)
 * [ABBEY-ST-BATHANS](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/ABBEY-ST-BATHANS)
@@ -3396,6 +3396,7 @@ Generation time: Wednesday 11/11/2020 17:20:31 GMT
 * [RICHMOND-ASKE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/RICHMOND-ASKE)
 * [RICHMOND-TERRACE-GDNS](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/RICHMOND-TERRACE-GDNS)
 * [RICHMOND-THE-GROVE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/RICHMOND-THE-GROVE)
+* [RICHMOND-YORKS](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/RICHMOND-YORKS)
 * [RICKMANSWORTH-CROXLEY-GREEN](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/RICKMANSWORTH-CROXLEY-GREEN)
 * [RICKMANSWORTH-MOOR-PARK](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/RICKMANSWORTH-MOOR-PARK)
 * [RILLINGTON-SCAMPSTON-HALL](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/RILLINGTON-SCAMPSTON-HALL)
