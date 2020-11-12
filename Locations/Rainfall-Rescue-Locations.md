@@ -1,9 +1,9 @@
-Generation time: Thursday 12/11/2020 09:19:42 GMT
+Generation time: Thursday 12/11/2020 20:14:37 GMT
 
 
 [MO-2020] indicates a location which contributed to the [Met Office 2020 UK Climate Report](https://www.metoffice.gov.uk/research/climate/maps-and-data/about/state-of-climate):
 
-4489 locations under [https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA):
+4498 locations under [https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA):
 
 * [ABBEY-LEIX-BLANDSFORT](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/ABBEY-LEIX-BLANDSFORT)
 * [ABBEY-ST-BATHANS](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/ABBEY-ST-BATHANS)
@@ -381,6 +381,7 @@ Generation time: Thursday 12/11/2020 09:19:42 GMT
 * [BERRIEDALE-LANGWELL](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/BERRIEDALE-LANGWELL)
 * [BERRIEW-BRITHDIR-HALL](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/BERRIEW-BRITHDIR-HALL)
 * [BERWICK-ON-TWEED-RAMPARTS](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/BERWICK-ON-TWEED-RAMPARTS)
+* [BERWICK-PAXTON-HOUSE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/BERWICK-PAXTON-HOUSE)
 * [BESSBROOK-THE-WOODHOUSE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/BESSBROOK-THE-WOODHOUSE)
 * [BETHNAL-GREEN-VICTORIA-PARK](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/BETHNAL-GREEN-VICTORIA-PARK)
 * [BETTYHILL](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/BETTYHILL)
@@ -1029,6 +1030,7 @@ Generation time: Thursday 12/11/2020 09:19:42 GMT
 * [CLYTHNESS](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/CLYTHNESS)
 * [COBHAM](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/COBHAM)
 * [COBO-CASTEL](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/COBO-CASTEL)
+* [COCKBURNSPATH-REDHEUGH](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/COCKBURNSPATH-REDHEUGH)
 * [COCKERMOUTH](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/COCKERMOUTH)
 * [COCKERMOUTH-BRANDLINGILL](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/COCKERMOUTH-BRANDLINGILL)
 * [COCKERMOUTH-BROUGHTON-GRANGE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/COCKERMOUTH-BROUGHTON-GRANGE)
@@ -1383,7 +1385,9 @@ Generation time: Thursday 12/11/2020 09:19:42 GMT
 * [DUNMOW-HIGH-RODING](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/DUNMOW-HIGH-RODING)
 * [DUNROBIN-CASTLE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/DUNROBIN-CASTLE)
 * [DUNS-CASTLE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/DUNS-CASTLE)
+* [DUNS-CLOUDS](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/DUNS-CLOUDS)
 * [DUNS-MANDERSTON](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/DUNS-MANDERSTON)
+* [DUNS-NISBET-HOUSE-GDNS](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/DUNS-NISBET-HOUSE-GDNS)
 * [DUNS-TEINDHILL](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/DUNS-TEINDHILL)
 * [DUNSTABLE-CEMENT-WORKS](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/DUNSTABLE-CEMENT-WORKS)
 * [DUNSTABLE-KENSWORTH](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/DUNSTABLE-KENSWORTH)
@@ -1397,6 +1401,7 @@ Generation time: Thursday 12/11/2020 09:19:42 GMT
 * [EARLESTOWN-NEWTON-CEMETERY](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/EARLESTOWN-NEWTON-CEMETERY)
 * [EARLS-COLNE-CHALKNEY-HOUSE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/EARLS-COLNE-CHALKNEY-HOUSE)
 * [EARLSBURN-RES](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/EARLSBURN-RES)
+* [EARLSTON-CAROLSIDE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/EARLSTON-CAROLSIDE)
 * [EARLSTON-COWDENKNOWES](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/EARLSTON-COWDENKNOWES)
 * [EARLSWOOD-SEWAGE-FARM](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/EARLSWOOD-SEWAGE-FARM)
 * [EAST-ANSTEY-SOAMES](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/EAST-ANSTEY-SOAMES)
@@ -2618,7 +2623,10 @@ Generation time: Thursday 12/11/2020 09:19:42 GMT
 * [LONG-ASHTON-RESEARCH-STATION](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/LONG-ASHTON-RESEARCH-STATION)
 * [LONG-COMPTON-WESTON-PARK](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/LONG-COMPTON-WESTON-PARK)
 * [LONG-SUTTON-SOMERSET](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/LONG-SUTTON-SOMERSET)
+* [LONG-WITTENHAM-LOVEGROVES-COTTAGE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/LONG-WITTENHAM-LOVEGROVES-COTTAGE)
 * [LONG-WITTENHAM-MANOR-HOUSE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/LONG-WITTENHAM-MANOR-HOUSE)
+* [LONGFORMACUS-RAWBURN](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/LONGFORMACUS-RAWBURN)
+* [LONGFORMACUS-WHITCHESTER](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/LONGFORMACUS-WHITCHESTER)
 * [LONGLEAT](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/LONGLEAT)
 * [LONGTON-THE-MEIR](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/LONGTON-THE-MEIR)
 * [LONGWOOD-BILBERRY-EDGE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/LONGWOOD-BILBERRY-EDGE)
@@ -3164,6 +3172,7 @@ Generation time: Thursday 12/11/2020 09:19:42 GMT
 * [PATSHULL-PARK](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/PATSHULL-PARK)
 * [PATTERDALE-HALL](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/PATTERDALE-HALL)
 * [PATTERSIDE-GREENSIDE-MINES](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/PATTERSIDE-GREENSIDE-MINES)
+* [PAXTON-TWEEDHILL](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/PAXTON-TWEEDHILL)
 * [PEDMORE-BECKMAN-ROAD](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/PEDMORE-BECKMAN-ROAD)
 * [PEEBLES](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/PEEBLES)
 * [PEEBLES-GLENTRESS](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/PEEBLES-GLENTRESS)

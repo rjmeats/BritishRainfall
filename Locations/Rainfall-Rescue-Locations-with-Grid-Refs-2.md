@@ -1,4 +1,4 @@
-Generation time: Thursday 12/11/2020 09:19:42 GMT
+Generation time: Thursday 12/11/2020 20:14:37 GMT
 
 ## Locations L-Z
 
@@ -364,7 +364,10 @@ Generation time: Thursday 12/11/2020 09:19:42 GMT
 |[LONG-ASHTON-RESEARCH-STATION](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/LONG-ASHTON-RESEARCH-STATION)|||||||
 |[LONG-COMPTON-WESTON-PARK](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/LONG-COMPTON-WESTON-PARK)|LONG-COMPTON-WESTON-PARK.csv|SP287345|52.008|-1.583|510|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=52.008&lon=-1.583&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/52.008,-1.583,16)  |
 |[LONG-SUTTON-SOMERSET](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/LONG-SUTTON-SOMERSET)|||||||
+|[LONG-WITTENHAM-LOVEGROVES-COTTAGE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/LONG-WITTENHAM-LOVEGROVES-COTTAGE)|||||||
 |[LONG-WITTENHAM-MANOR-HOUSE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/LONG-WITTENHAM-MANOR-HOUSE)|LONG-WITTENHAM-MANOR-HOUSE.csv|SU549940|51.642|-1.208|170|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=51.642&lon=-1.208&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/51.642,-1.208,16)  |
+|[LONGFORMACUS-RAWBURN](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/LONGFORMACUS-RAWBURN)|||||||
+|[LONGFORMACUS-WHITCHESTER](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/LONGFORMACUS-WHITCHESTER)|||||||
 |[LONGLEAT](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/LONGLEAT)|LONGLEAT.csv|ST808431|51.187|-2.275|350|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=51.187&lon=-2.275&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/51.187,-2.275,16)  |
 |[LONGTON-THE-MEIR](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/LONGTON-THE-MEIR)|LONGTON-THE-MEIR.csv|SJ941418|52.974|-2.089|618|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=52.974&lon=-2.089&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/52.974,-2.089,16)  |
 |[LONGWOOD-BILBERRY-EDGE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/LONGWOOD-BILBERRY-EDGE)|||||||
@@ -1059,6 +1062,7 @@ Generation time: Thursday 12/11/2020 09:19:42 GMT
 |[PATTERDALE-HALL](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/PATTERDALE-HALL)|PATTERDALE-HALL.csv|NY389162|54.538|-2.946|490|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=54.538&lon=-2.946&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/54.538,-2.946,16)  |
 |[PATTERSIDE-GREENSIDE-MINES](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/PATTERSIDE-GREENSIDE-MINES)|PATTERSIDE-GREENSIDE-MINES.csv|NY364174|54.548|-2.985|1000|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=54.548&lon=-2.985&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/54.548,-2.985,16)  |
 ||PATTERSIDE-GREENSIDE-MINES-HIGH.csv|NY366179|54.553|-2.981|2000|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=54.553&lon=-2.981&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/54.553,-2.981,16)  |
+|[PAXTON-TWEEDHILL](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/PAXTON-TWEEDHILL)|||||||
 |[PEDMORE-BECKMAN-ROAD](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/PEDMORE-BECKMAN-ROAD)|||||||
 |[PEEBLES](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/PEEBLES)|PEEBLES.csv|NT252397|55.646|-3.189|590|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=55.646&lon=-3.189&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/55.646,-3.189,16)  |
 |[PEEBLES-GLENTRESS](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/PEEBLES-GLENTRESS)|PEEBLES-GLENTRESS.csv|NT284397|55.646|-3.139|580|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=55.646&lon=-3.139&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/55.646,-3.139,16)  |
@@ -2175,9 +2179,9 @@ Generation time: Thursday 12/11/2020 09:19:42 GMT
 |[TRAWSFYNYDD](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/TRAWSFYNYDD)|TRAWSFYNYDD.csv|SH708354|52.900|-3.922|700|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=52.900&lon=-3.922&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/52.900,-3.922,16)  |
 ||TRAWSFYNYDD-2.csv|SH707355|52.900|-3.922|700|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=52.900&lon=-3.922&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/52.900,-3.922,16)  |
 ||TRAWSFYNYDD-3.csv|SH705345|52.892|-3.926|665|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=52.892&lon=-3.926&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/52.892,-3.926,16)  |
-|[TRAWSFYNYDD-CWM-PRYSOR](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/TRAWSFYNYDD-CWM-PRYSOR)|||||||
-|[TRAWSFYNYDD-DARN-GAE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/TRAWSFYNYDD-DARN-GAE)|||||||
-|[TRAWSFYNYDD-TYN-TWLL](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/TRAWSFYNYDD-TYN-TWLL)|||||||
+|[TRAWSFYNYDD-CWM-PRYSOR](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/TRAWSFYNYDD-CWM-PRYSOR)|TRAWSFYNYDD-CWM-PRYSOR.csv|SH792383|52.928|-3.799|1330|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=52.928&lon=-3.799&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/52.928,-3.799,16)  |
+|[TRAWSFYNYDD-DARN-GAE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/TRAWSFYNYDD-DARN-GAE)|TRAWSFYNYDD-DARN-GAE.csv|SH762368|52.914|-3.843|950|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=52.914&lon=-3.843&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/52.914,-3.843,16)  |
+|[TRAWSFYNYDD-TYN-TWLL](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/TRAWSFYNYDD-TYN-TWLL)|TRAWSFYNYDD-TYN-TWLL.csv|SH686353|52.899|-3.955|750|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=52.899&lon=-3.955&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/52.899,-3.955,16)  |
 |[TRECASTLE-BLAENAU-LYDFER](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/TRECASTLE-BLAENAU-LYDFER)|||||||
 |[TRECASTLE-LLYWEL-VIC](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/TRECASTLE-LLYWEL-VIC)|||||||
 |[TREDEGAR-BEDWELLTY-HOUSE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/TREDEGAR-BEDWELLTY-HOUSE)|||||||

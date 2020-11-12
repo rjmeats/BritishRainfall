@@ -17562,6 +17562,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -3.448,
+          53.023
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "DERWEN-MINFFORDD",
+        "county": "Merionethshire",
+        "gridref": "SJ030483",
+        "latitude": "53.023",
+        "longitude": "-3.448",
+        "elevation (ft)": "971"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -5.54,
           55.428
         ]
@@ -56888,6 +56909,69 @@
         "latitude": "52.892",
         "longitude": "-3.926",
         "elevation (ft)": "665"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.799,
+          52.928
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "TRAWSFYNYDD-CWM-PRYSOR",
+        "county": "Merionethshire",
+        "gridref": "SH792383",
+        "latitude": "52.928",
+        "longitude": "-3.799",
+        "elevation (ft)": "1330"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.843,
+          52.914
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "TRAWSFYNYDD-DARN-GAE",
+        "county": "Merionethshire",
+        "gridref": "SH762368",
+        "latitude": "52.914",
+        "longitude": "-3.843",
+        "elevation (ft)": "950"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.955,
+          52.899
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "TRAWSFYNYDD-TYN-TWLL",
+        "county": "Merionethshire",
+        "gridref": "SH686353",
+        "latitude": "52.899",
+        "longitude": "-3.955",
+        "elevation (ft)": "750"
       }
     },
     {
