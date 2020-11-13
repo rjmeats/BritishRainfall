@@ -1,4 +1,4 @@
-Generation time: Thursday 12/11/2020 20:14:37 GMT
+Generation time: Friday 13/11/2020 17:53:55 GMT
 
 ## Locations L-Z
 
@@ -208,6 +208,7 @@ Generation time: Thursday 12/11/2020 20:14:37 GMT
 |[LITTLE-ROSS](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/LITTLE-ROSS)|LITTLE-ROSS.csv|NX659432|54.766|-4.086|136|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=54.766&lon=-4.086&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/54.766,-4.086,16)  |
 |[LITTLEHAMPTON-MET-STATION](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/LITTLEHAMPTON-MET-STATION)|||||||
 |[LITTLEPORT-HIGHFIELD-HOUSE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/LITTLEPORT-HIGHFIELD-HOUSE)|LITTLEPORT-HIGHFIELD-HOUSE.csv|TL564864|52.453|0.300|67|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=52.453&lon=0.300&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/52.453,0.300,16)  |
+|[LITTLETON-QUEEN-MARY-RES](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/LITTLETON-QUEEN-MARY-RES)|||||||
 |[LIVERPOOL-BRADSTONES](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/LIVERPOOL-BRADSTONES)|||||||
 |[LIVERPOOL-DOBSON](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/LIVERPOOL-DOBSON)|||||||
 |[LIVERPOOL-GROVE-PARK](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/LIVERPOOL-GROVE-PARK)|LIVERPOOL-GROVE-PARK.csv|SJ371886|53.390|-2.947||[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=53.390&lon=-2.947&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/53.390,-2.947,16)  |
@@ -558,7 +559,8 @@ Generation time: Thursday 12/11/2020 20:14:37 GMT
 ||MAYBOLE-KNOCKDON-2.csv|NS308139|55.390|-4.673|344|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=55.390&lon=-4.673&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/55.390,-4.673,16)  |
 ||MAYBOLE-KNOCKDON-3.csv|NS294133|55.384|-4.695|500|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=55.384&lon=-4.695&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/55.384,-4.695,16)  |
 |[MAYFIELD-HOUSE-ASHBOURNE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/MAYFIELD-HOUSE-ASHBOURNE)|||||||
-|[MEIGLE-ARTHURSTONE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/MEIGLE-ARTHURSTONE)|||||||
+|[MEIGLE-ARTHURSTONE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/MEIGLE-ARTHURSTONE)|MEIGLE-ARTHURSTONE .csv|NO261429|56.573|-3.205|187|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=56.573&lon=-3.205&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/56.573,-3.205,16)  |
+||MEIGLE-ARTHURSTONE-2.csv|NO262431|56.574|-3.203|196|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=56.574&lon=-3.203&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/56.574,-3.203,16)  |
 |[MEIGLE-BELMONT-CASTLE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/MEIGLE-BELMONT-CASTLE)|MEIGLE-BELMONT-CASTLE.csv|NO286439|56.582|-3.163|203|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=56.582&lon=-3.163&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/56.582,-3.163,16)  |
 ||MEIGLE-BELMONT-CASTLE-2.csv|NO286439|56.582|-3.163|170|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=56.582&lon=-3.163&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/56.582,-3.163,16)  |
 ||MEIGLE-BELMONT-CASTLE-3.csv|NO286439|56.582|-3.163|237|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=56.582&lon=-3.163&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/56.582,-3.163,16)  |
@@ -2373,6 +2375,8 @@ Generation time: Thursday 12/11/2020 20:14:37 GMT
 |[WATTEN-HRS](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/WATTEN-HRS)|WATTEN-HRS.csv|ND250557|58.483|-3.288|75|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=58.483&lon=-3.288&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/58.483,-3.288,16)  |
 |[WATTON](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/WATTON)|WATTON.csv|TF920006|52.569|0.832|166|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=52.569&lon=0.832&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/52.569,0.832,16)  |
 |[WAULK-GLEN](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/WAULK-GLEN)|WAULK-GLEN.csv|NS522578|55.791|-4.359|280|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=55.791&lon=-4.359&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/55.791,-4.359,16)  |
+|[WEALDSTONE-KODAK-WORKS](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/WEALDSTONE-KODAK-WORKS)|||||||
+|[WEALDSTONE-SEWAGE-WORKS](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/WEALDSTONE-SEWAGE-WORKS)|||||||
 |[WEARDALE-WW-MILLSTONE-QUARRY](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/WEARDALE-WW-MILLSTONE-QUARRY)|WEARDALE-WW-MILLSTONE-QUARRY.csv|NZ027433|54.785|-1.960|1244|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=54.785&lon=-1.960&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/54.785,-1.960,16)  |
 |[WEARDALE-WW-SHIELD-GREEN](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/WEARDALE-WW-SHIELD-GREEN)|WEARDALE-WW-SHIELD-GREEN.csv|NZ052470|54.818|-1.921|1367|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=54.818&lon=-1.921&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/54.818,-1.921,16)  |
 |[WEARDALE-WW-SMIDDY-SHAW](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/WEARDALE-WW-SMIDDY-SHAW)|||||||

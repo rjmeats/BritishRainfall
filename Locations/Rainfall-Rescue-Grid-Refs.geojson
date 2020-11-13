@@ -3429,6 +3429,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -2.615,
+          56.862
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "BALNAKETTLE",
+        "county": "Kincardineshire",
+        "gridref": "NO6260874693",
+        "latitude": "56.862",
+        "longitude": "-2.615",
+        "elevation (ft)": "450"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -4.523,
           56.327
         ]
@@ -20579,6 +20600,69 @@
         "latitude": "54.513",
         "longitude": "-1.350",
         "elevation (ft)": "100"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.243,
+          57.473
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "ELCHIES-MIX",
+        "county": "Moray (Elgin)",
+        "gridref": "NJ255432",
+        "latitude": "57.473",
+        "longitude": "-3.243",
+        "elevation (ft)": "550"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.235,
+          57.48
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "ELCHIES-MIX",
+        "county": "Moray (Elgin)",
+        "gridref": "NJ260439",
+        "latitude": "57.480",
+        "longitude": "-3.235",
+        "elevation (ft)": "560"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.284,
+          57.481
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "ELCHIES-MIX",
+        "county": "Moray (Elgin)",
+        "gridref": "NJ231442",
+        "latitude": "57.481",
+        "longitude": "-3.284",
+        "elevation (ft)": "750"
       }
     },
     {
@@ -38912,6 +38996,48 @@
         "latitude": "55.384",
         "longitude": "-4.695",
         "elevation (ft)": "500"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.205,
+          56.573
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "MEIGLE-ARTHURSTONE",
+        "county": "Perthshire",
+        "gridref": "NO261429",
+        "latitude": "56.573",
+        "longitude": "-3.205",
+        "elevation (ft)": "187"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.203,
+          56.574
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "MEIGLE-ARTHURSTONE",
+        "county": "Perthshire",
+        "gridref": "NO262431",
+        "latitude": "56.574",
+        "longitude": "-3.203",
+        "elevation (ft)": "196"
       }
     },
     {
