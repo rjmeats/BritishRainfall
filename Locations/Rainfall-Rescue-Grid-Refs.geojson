@@ -5823,6 +5823,69 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -0.265,
+          52.086
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "BIGGLESWADE",
+        "county": "Bedfordshire",
+        "gridref": "TL190445",
+        "latitude": "52.086",
+        "longitude": "-0.265",
+        "elevation (ft)": "103"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.256,
+          52.088
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "BIGGLESWADE",
+        "county": "Bedfordshire",
+        "gridref": "TL196447",
+        "latitude": "52.088",
+        "longitude": "-0.256",
+        "elevation (ft)": "129"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.329,
+          52.084
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "BIGGLESWADE-OLD-WARDEN",
+        "county": "Bedfordshire",
+        "gridref": "TL146442",
+        "latitude": "52.084",
+        "longitude": "-0.329",
+        "elevation (ft)": "90"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -0.237,
           52.059
         ]
@@ -32472,6 +32535,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -4.602,
+          55.58
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "IRVINE-AUCHENS-HOUSE",
+        "county": "Ayrshire",
+        "gridref": "NS361349",
+        "latitude": "55.580",
+        "longitude": "-4.602",
+        "elevation (ft)": "86"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -6.108,
           55.64
         ]
@@ -36770,6 +36854,48 @@
         "latitude": "52.453",
         "longitude": "0.300",
         "elevation (ft)": "67"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.967,
+          53.408
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "LIVERPOOL-DOBSON",
+        "county": "Lancashire",
+        "gridref": "SJ357905",
+        "latitude": "53.408",
+        "longitude": "-2.967",
+        "elevation (ft)": "152"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.995,
+          53.404
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "LIVERPOOL-DOBSON",
+        "county": "Lancashire",
+        "gridref": "SJ339901",
+        "latitude": "53.404",
+        "longitude": "-2.995",
+        "elevation (ft)": "21"
       }
     },
     {
@@ -56748,48 +56874,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -3.192,
-          54.486
-        ]
-      },
-      "properties": {
-        "marker-symbol": "circle-stroked",
-        "marker-size": "small",
-        "marker-color": "66ff33",
-        "name": "STYE-HEAD-TARN",
-        "county": "Cumberland",
-        "gridref": "NY229107",
-        "latitude": "54.486",
-        "longitude": "-3.192",
-        "elevation (ft)": "1077"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -3.188,
-          54.485
-        ]
-      },
-      "properties": {
-        "marker-symbol": "circle-stroked",
-        "marker-size": "small",
-        "marker-color": "66ff33",
-        "name": "STYE-HEAD-TARN",
-        "county": "Cumberland",
-        "gridref": "NY231106",
-        "latitude": "54.485",
-        "longitude": "-3.188",
-        "elevation (ft)": "1100"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           0.728,
           52.036
         ]
@@ -58127,6 +58211,48 @@
         "latitude": "51.057",
         "longitude": "-0.224",
         "elevation (ft)": "300"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.192,
+          54.486
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "THE-STYE",
+        "county": "Cumberland",
+        "gridref": "NY229107",
+        "latitude": "54.486",
+        "longitude": "-3.192",
+        "elevation (ft)": "1077"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.188,
+          54.485
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "THE-STYE",
+        "county": "Cumberland",
+        "gridref": "NY231106",
+        "latitude": "54.485",
+        "longitude": "-3.188",
+        "elevation (ft)": "1100"
       }
     },
     {
