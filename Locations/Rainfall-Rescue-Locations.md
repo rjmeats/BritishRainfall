@@ -1,9 +1,9 @@
-Generation time: Wednesday 09/12/2020 20:38:38 GMT
+Generation time: Friday 11/12/2020 19:08:53 GMT
 
 
 [MO-2020] indicates a location which contributed to the [Met Office 2020 UK Climate Report](https://www.metoffice.gov.uk/research/climate/maps-and-data/about/state-of-climate):
 
-4699 locations under [https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA):
+4700 locations under [https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA):
 
 * [ABBEY-LEIX-BLANDSFORT](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/ABBEY-LEIX-BLANDSFORT)
 * [ABBEY-ST-BATHANS](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/ABBEY-ST-BATHANS)
@@ -1437,6 +1437,8 @@ Generation time: Wednesday 09/12/2020 20:38:38 GMT
 * [DUNS-MANDERSTON](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/DUNS-MANDERSTON)
 * [DUNS-NISBET-HOUSE-GDNS](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/DUNS-NISBET-HOUSE-GDNS)
 * [DUNS-TEINDHILL](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/DUNS-TEINDHILL)
+* [DUNSFOLD](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/DUNSFOLD)
+* [DUNSFOLD-RECTORY](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/DUNSFOLD-RECTORY)
 * [DUNSTABLE-CEMENT-WORKS](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/DUNSTABLE-CEMENT-WORKS)
 * [DUNSTABLE-KENSWORTH](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/DUNSTABLE-KENSWORTH)
 * [DUNSTER-SCHOOLS](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/DUNSTER-SCHOOLS)
@@ -2629,6 +2631,7 @@ Generation time: Wednesday 09/12/2020 20:38:38 GMT
 * [LLANDILO-GOLDEN-GROVE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/LLANDILO-GOLDEN-GROVE)
 * [LLANDINAM](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/LLANDINAM)
 * [LLANDOVERY](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/LLANDOVERY)
+* [LLANDOVERY-NANTYRHOGFAEN](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/LLANDOVERY-NANTYRHOGFAEN)
 * [LLANDRINDOD-HOWEY-HALL](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/LLANDRINDOD-HOWEY-HALL)
 * [LLANDUDNO](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/LLANDUDNO)
 * [LLANDUDNO-ORMES-HEAD](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/LLANDUDNO-ORMES-HEAD)
@@ -2641,7 +2644,6 @@ Generation time: Wednesday 09/12/2020 20:38:38 GMT
 * [LLANEFYDD-GLASCOED-RES](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/LLANEFYDD-GLASCOED-RES)
 * [LLANEFYDD-PLAS-UCHAF-RES](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/LLANEFYDD-PLAS-UCHAF-RES)
 * [LLANELLY-CWMLLEIDL-WW](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/LLANELLY-CWMLLEIDL-WW)
-* [LLANELLY-CWMLLEIDL-WW ](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/LLANELLY-CWMLLEIDL-WW )
 * [LLANELLY-OLD-MARKET-YARD](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/LLANELLY-OLD-MARKET-YARD)
 * [LLANELLY-WEST-END-TERRACE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/LLANELLY-WEST-END-TERRACE)
 * [LLANERCHYMEDD-LLWYDIARTH-ESGOB](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/LLANERCHYMEDD-LLWYDIARTH-ESGOB)
@@ -2662,7 +2664,6 @@ Generation time: Wednesday 09/12/2020 20:38:38 GMT
 * [LLANGYNHAFAL-PLAS-DRAW](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/LLANGYNHAFAL-PLAS-DRAW)
 * [LLANIDLOES-EAST-MIX](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/LLANIDLOES-EAST-MIX)
 * [LLANIDLOES-YSTRAD-OLWYN-FAWR](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/LLANIDLOES-YSTRAD-OLWYN-FAWR)
-* [LLANNDOVERY-GRAMMAR-SCHOOL](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/LLANNDOVERY-GRAMMAR-SCHOOL)
 * [LLANNEFYDD-DOLWEN-RES-S](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/LLANNEFYDD-DOLWEN-RES-S)
 * [LLANNEFYDD-EAST](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/LLANNEFYDD-EAST)
 * [LLANTILIO](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/LLANTILIO)
