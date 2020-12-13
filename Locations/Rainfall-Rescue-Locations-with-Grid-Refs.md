@@ -1,4 +1,4 @@
-Generation time: Friday 11/12/2020 19:08:53 GMT
+Generation time: Sunday 13/12/2020 12:29:46 GMT
 
 ## Locations A-K
 
@@ -47,6 +47,9 @@ Generation time: Friday 11/12/2020 19:08:53 GMT
 |[ABERGAVENNY-RICHMOND-ROAD](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/ABERGAVENNY-RICHMOND-ROAD)|||||||
 |[ABERGAVENNY-THE-CHAIN](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/ABERGAVENNY-THE-CHAIN)|ABERGAVENNY-THE-CHAIN.csv|SO291154|51.833|-3.030|310|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=51.833&lon=-3.030&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/51.833,-3.030,16)  |
 |[ABERGAVENNY-TY-CLYD](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/ABERGAVENNY-TY-CLYD)|||||||
+|[ABERGELDIE-CASTLE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/ABERGELDIE-CASTLE)|||||||
+|[ABERGELE-SEA-ROAD](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/ABERGELE-SEA-ROAD)|||||||
+|[ABERGORLECH-COUNCIL-SCHOOL](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/ABERGORLECH-COUNCIL-SCHOOL)|||||||
 |[ABERGWESYN-NANTNEUADD](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/ABERGWESYN-NANTNEUADD)|||||||
 |[ABERGWESYN-TRALLWN](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/ABERGWESYN-TRALLWN)|||||||
 |[ABERLOUR-MIX](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/ABERLOUR-MIX)|ABERLOUR-MIX.csv|NJ271430|57.471|-3.217|300|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=57.471&lon=-3.217&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/57.471,-3.217,16)  |
@@ -1787,6 +1790,7 @@ Generation time: Friday 11/12/2020 19:08:53 GMT
 |[DUNKELD-SNAIGOW](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/DUNKELD-SNAIGOW)|DUNKELD-SNAIGOW.csv|NO084429|56.569|-3.492|370|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=56.569&lon=-3.492&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/56.569,-3.492,16)  |
 |[DUNMOW](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/DUNMOW)|DUNMOW.csv|TL628219|51.872|0.364|234|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=51.872&lon=0.364&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/51.872,0.364,16)  |
 |[DUNMOW-HIGH-RODING](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/DUNMOW-HIGH-RODING)|DUNMOW-HIGH-RODING.csv|TL597162|51.822|0.317|252|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=51.822&lon=0.317&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/51.822,0.317,16)  |
+|[DUNNING-KIPPEN-HOUSE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/DUNNING-KIPPEN-HOUSE)|||||||
 |[DUNROBIN-CASTLE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/DUNROBIN-CASTLE)|DUNROBIN-CASTLE.csv|NC853008|57.982|-3.941|14|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=57.982&lon=-3.941&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/57.982,-3.941,16)  |
 ||DUNROBIN-CASTLE-2.csv|NC853008|57.982|-3.941|14|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=57.982&lon=-3.941&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/57.982,-3.941,16)  |
 |[DUNS-CASTLE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/DUNS-CASTLE)|DUNS-CASTLE.csv|NT775543|55.781|-2.360|500|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=55.781&lon=-2.360&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/55.781,-2.360,16)  |

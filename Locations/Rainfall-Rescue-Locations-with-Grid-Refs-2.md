@@ -1,4 +1,4 @@
-Generation time: Friday 11/12/2020 19:08:53 GMT
+Generation time: Sunday 13/12/2020 12:29:46 GMT
 
 ## Locations L-Z
 
@@ -247,6 +247,7 @@ Generation time: Friday 11/12/2020 19:08:53 GMT
 |[LLANBEDR-Y-CENNIN-PLASDULYN](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/LLANBEDR-Y-CENNIN-PLASDULYN)|||||||
 |[LLANBERIS-GLYN-PADARN](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/LLANBERIS-GLYN-PADARN)|||||||
 |[LLANBISTER-LLANANNO](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/LLANBISTER-LLANANNO)|||||||
+|[LLANDDEUSANT-PONTERYNFE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/LLANDDEUSANT-PONTERYNFE)|||||||
 |[LLANDERFEL-PALE-GDNS](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/LLANDERFEL-PALE-GDNS)|LLANDERFEL-PALE-GDNS.csv|SH982360|52.912|-3.515|606|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=52.912&lon=-3.515&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/52.912,-3.515,16)  |
 |[LLANDILO-DYNEVOR-CASTLE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/LLANDILO-DYNEVOR-CASTLE)|LLANDILO-DYNEVOR-CASTLE.csv|SN614224|51.883|-4.015|202|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=51.883&lon=-4.015&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/51.883,-4.015,16)  |
 |[LLANDILO-GOLDEN-GROVE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/LLANDILO-GOLDEN-GROVE)|LLANDILO-GOLDEN-GROVE.csv|SN597202|51.863|-4.039|125|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=51.863&lon=-4.039&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/51.863,-4.039,16)  |
@@ -270,7 +271,9 @@ Generation time: Friday 11/12/2020 19:08:53 GMT
 |[LLANEFYDD-PLAS-UCHAF-RES](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/LLANEFYDD-PLAS-UCHAF-RES)|||||||
 |[LLANELLY-CWMLLEIDL-WW](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/LLANELLY-CWMLLEIDL-WW)|LLANELLY-CWMLLEIDL-WW.csv|SN519031|51.707|-4.145|240|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=51.707&lon=-4.145&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/51.707,-4.145,16)  |
 ||LLANELLY-CWMLLEIDL-WW-2.csv|SN519031|51.707|-4.145|240|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=51.707&lon=-4.145&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/51.707,-4.145,16)  |
+|[LLANELLY-FILTER-BEDS](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/LLANELLY-FILTER-BEDS)|||||||
 |[LLANELLY-OLD-MARKET-YARD](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/LLANELLY-OLD-MARKET-YARD)|LLANELLY-OLD-MARKET-YARD.csv|SN506005|51.683|-4.162|35|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=51.683&lon=-4.162&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/51.683,-4.162,16)  |
+|[LLANELLY-UPPER-LLEIDI-RES](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/LLANELLY-UPPER-LLEIDI-RES)|||||||
 |[LLANELLY-WEST-END-TERRACE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/LLANELLY-WEST-END-TERRACE)|LLANELLY-WEST-END-TERRACE.csv|SN504006|51.684|-4.165|20|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=51.684&lon=-4.165&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/51.684,-4.165,16)  |
 |[LLANERCHYMEDD-LLWYDIARTH-ESGOB](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/LLANERCHYMEDD-LLWYDIARTH-ESGOB)|LLANERCHYMEDD-LLWYDIARTH-ESGOB.csv|SH436843|53.332|-4.350|112|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=53.332&lon=-4.350&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/53.332,-4.350,16)  |
 |[LLANFAIRFECHAN-SCHOOL](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/LLANFAIRFECHAN-SCHOOL)|LLANFAIRFECHAN-SCHOOL.csv|SH682746|53.252|-3.977|120|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=53.252&lon=-3.977&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/53.252,-3.977,16)  |
@@ -295,12 +298,19 @@ Generation time: Friday 11/12/2020 19:08:53 GMT
 ||LLANIDLOES-YSTRAD-OLWYN-FAWR-2.csv|SN930795|52.403|-3.574|950|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=52.403&lon=-3.574&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/52.403,-3.574,16)  |
 |[LLANNEFYDD-DOLWEN-RES-S](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/LLANNEFYDD-DOLWEN-RES-S)|||||||
 |[LLANNEFYDD-EAST](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/LLANNEFYDD-EAST)|||||||
+|[LLANNON-RES](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/LLANNON-RES)|||||||
 |[LLANTILIO](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/LLANTILIO)|||||||
+|[LLANTRISANT-TALYGARN](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/LLANTRISANT-TALYGARN)|||||||
 |[LLANUWCHLLYN-PLAS-DEON](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/LLANUWCHLLYN-PLAS-DEON)|LLANUWCHLLYN-PLAS-DEON.csv|SH875302|52.857|-3.672|555|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=52.857&lon=-3.672&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/52.857,-3.672,16)  |
+|[LLANWRDA-DOLAUCOTHY](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/LLANWRDA-DOLAUCOTHY)|||||||
 |[LLANYBYTHER-SANATORIUM](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/LLANYBYTHER-SANATORIUM)|LLANYBYTHER-SANATORIUM.csv|SN555416|52.054|-4.109|850|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=52.054&lon=-4.109&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/52.054,-4.109,16)  |
 |[LLIGWY](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/LLIGWY)|||||||
 |[LLYN-ARENIG-FACH](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/LLYN-ARENIG-FACH)|LLYN-ARENIG-FACH.csv|SH826422|52.964|-3.749|1511|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=52.964&lon=-3.749&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/52.964,-3.749,16)  |
 |[LLYN-BRAN](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/LLYN-BRAN)|||||||
+|[LLYN-Y-FAN-FACH-BWAR-LLYN](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/LLYN-Y-FAN-FACH-BWAR-LLYN)|||||||
+|[LLYN-Y-FAN-FACH-NANT-COCH](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/LLYN-Y-FAN-FACH-NANT-COCH)|||||||
+|[LLYN-Y-FAN-FACH-TROED-Y-FACH](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/LLYN-Y-FAN-FACH-TROED-Y-FACH)|||||||
+|[LLYN-Y-FAN-FACH-WAEN-SYCHLWCH](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/LLYN-Y-FAN-FACH-WAEN-SYCHLWCH)|||||||
 |[LLYSDINAM-NEWBRIDGE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/LLYSDINAM-NEWBRIDGE)|LLYSDINAM-NEWBRIDGE.csv|SO009585|52.216|-3.452|600|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=52.216&lon=-3.452&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/52.216,-3.452,16)  |
 |[LOCH-A-BHRAOIN](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/LOCH-A-BHRAOIN)|LOCH-A-BHRAOIN.csv|NH117733|57.710|-5.162|750|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=57.710&lon=-5.162&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/57.710,-5.162,16)  |
 |[LOCH-ARKAIG-ACHNACARRY](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/LOCH-ARKAIG-ACHNACARRY)|LOCH-ARKAIG-ACHNACARRY.csv|NN176880|56.947|-5.000|128|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=56.947&lon=-5.000&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/56.947,-5.000,16)  |
@@ -1740,6 +1750,7 @@ Generation time: Friday 11/12/2020 19:08:53 GMT
 |[SKOKHOLM-ISLAND](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/SKOKHOLM-ISLAND)|||||||
 |[SKYE-DUNVEGAN](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/SKYE-DUNVEGAN)|SKYE-DUNVEGAN.csv|NG247490|57.448|-6.591|47|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=57.448&lon=-6.591&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/57.448,-6.591,16)  |
 |[SKYE-KYLEAKIN](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/SKYE-KYLEAKIN)|SKYE-KYLEAKIN.csv|NG746270|57.278|-5.740|28|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=57.278&lon=-5.740&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/57.278,-5.740,16)  |
+|[SKYE-KYLEAKIN-DUNRINGELL](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/SKYE-KYLEAKIN-DUNRINGELL)|||||||
 |[SKYE-LYNEDALE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/SKYE-LYNEDALE)|SKYE-LYNEDALE.csv|NG367548|57.507|-6.398|40|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=57.507&lon=-6.398&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/57.507,-6.398,16)  |
 |[SKYE-NEIST-POINT](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/SKYE-NEIST-POINT)|SKYE-NEIST-POINT.csv|NG126471|57.423|-6.788|65|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=57.423&lon=-6.788&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/57.423,-6.788,16)  |
 |[SKYE-ORONSAY](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/SKYE-ORONSAY)|SKYE-ORONSAY.csv|NG714122|57.144|-5.780|15|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=57.144&lon=-5.780&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/57.144,-5.780,16)  |

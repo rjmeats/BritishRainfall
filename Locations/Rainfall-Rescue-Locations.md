@@ -1,9 +1,9 @@
-Generation time: Friday 11/12/2020 19:08:53 GMT
+Generation time: Sunday 13/12/2020 12:29:46 GMT
 
 
 [MO-2020] indicates a location which contributed to the [Met Office 2020 UK Climate Report](https://www.metoffice.gov.uk/research/climate/maps-and-data/about/state-of-climate):
 
-4700 locations under [https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA):
+4715 locations under [https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA):
 
 * [ABBEY-LEIX-BLANDSFORT](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/ABBEY-LEIX-BLANDSFORT)
 * [ABBEY-ST-BATHANS](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/ABBEY-ST-BATHANS)
@@ -35,6 +35,9 @@ Generation time: Friday 11/12/2020 19:08:53 GMT
 * [ABERGAVENNY-RICHMOND-ROAD](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/ABERGAVENNY-RICHMOND-ROAD)
 * [ABERGAVENNY-THE-CHAIN](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/ABERGAVENNY-THE-CHAIN)
 * [ABERGAVENNY-TY-CLYD](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/ABERGAVENNY-TY-CLYD)
+* [ABERGELDIE-CASTLE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/ABERGELDIE-CASTLE)
+* [ABERGELE-SEA-ROAD](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/ABERGELE-SEA-ROAD)
+* [ABERGORLECH-COUNCIL-SCHOOL](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/ABERGORLECH-COUNCIL-SCHOOL)
 * [ABERGWESYN-NANTNEUADD](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/ABERGWESYN-NANTNEUADD)
 * [ABERGWESYN-TRALLWN](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/ABERGWESYN-TRALLWN)
 * [ABERLOUR-MIX](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/ABERLOUR-MIX)
@@ -1431,6 +1434,7 @@ Generation time: Friday 11/12/2020 19:08:53 GMT
 * [DUNKELD-SNAIGOW](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/DUNKELD-SNAIGOW)
 * [DUNMOW](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/DUNMOW)
 * [DUNMOW-HIGH-RODING](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/DUNMOW-HIGH-RODING)
+* [DUNNING-KIPPEN-HOUSE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/DUNNING-KIPPEN-HOUSE)
 * [DUNROBIN-CASTLE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/DUNROBIN-CASTLE)
 * [DUNS-CASTLE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/DUNS-CASTLE)
 * [DUNS-CLOUDS](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/DUNS-CLOUDS)
@@ -2626,6 +2630,7 @@ Generation time: Friday 11/12/2020 19:08:53 GMT
 * [LLANBEDR-Y-CENNIN-PLASDULYN](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/LLANBEDR-Y-CENNIN-PLASDULYN)
 * [LLANBERIS-GLYN-PADARN](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/LLANBERIS-GLYN-PADARN)
 * [LLANBISTER-LLANANNO](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/LLANBISTER-LLANANNO)
+* [LLANDDEUSANT-PONTERYNFE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/LLANDDEUSANT-PONTERYNFE)
 * [LLANDERFEL-PALE-GDNS](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/LLANDERFEL-PALE-GDNS)
 * [LLANDILO-DYNEVOR-CASTLE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/LLANDILO-DYNEVOR-CASTLE)
 * [LLANDILO-GOLDEN-GROVE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/LLANDILO-GOLDEN-GROVE)
@@ -2644,7 +2649,9 @@ Generation time: Friday 11/12/2020 19:08:53 GMT
 * [LLANEFYDD-GLASCOED-RES](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/LLANEFYDD-GLASCOED-RES)
 * [LLANEFYDD-PLAS-UCHAF-RES](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/LLANEFYDD-PLAS-UCHAF-RES)
 * [LLANELLY-CWMLLEIDL-WW](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/LLANELLY-CWMLLEIDL-WW)
+* [LLANELLY-FILTER-BEDS](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/LLANELLY-FILTER-BEDS)
 * [LLANELLY-OLD-MARKET-YARD](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/LLANELLY-OLD-MARKET-YARD)
+* [LLANELLY-UPPER-LLEIDI-RES](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/LLANELLY-UPPER-LLEIDI-RES)
 * [LLANELLY-WEST-END-TERRACE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/LLANELLY-WEST-END-TERRACE)
 * [LLANERCHYMEDD-LLWYDIARTH-ESGOB](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/LLANERCHYMEDD-LLWYDIARTH-ESGOB)
 * [LLANFAIRFECHAN-SCHOOL](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/LLANFAIRFECHAN-SCHOOL)
@@ -2666,12 +2673,19 @@ Generation time: Friday 11/12/2020 19:08:53 GMT
 * [LLANIDLOES-YSTRAD-OLWYN-FAWR](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/LLANIDLOES-YSTRAD-OLWYN-FAWR)
 * [LLANNEFYDD-DOLWEN-RES-S](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/LLANNEFYDD-DOLWEN-RES-S)
 * [LLANNEFYDD-EAST](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/LLANNEFYDD-EAST)
+* [LLANNON-RES](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/LLANNON-RES)
 * [LLANTILIO](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/LLANTILIO)
+* [LLANTRISANT-TALYGARN](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/LLANTRISANT-TALYGARN)
 * [LLANUWCHLLYN-PLAS-DEON](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/LLANUWCHLLYN-PLAS-DEON)
+* [LLANWRDA-DOLAUCOTHY](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/LLANWRDA-DOLAUCOTHY)
 * [LLANYBYTHER-SANATORIUM](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/LLANYBYTHER-SANATORIUM)
 * [LLIGWY](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/LLIGWY)
 * [LLYN-ARENIG-FACH](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/LLYN-ARENIG-FACH)
 * [LLYN-BRAN](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/LLYN-BRAN)
+* [LLYN-Y-FAN-FACH-BWAR-LLYN](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/LLYN-Y-FAN-FACH-BWAR-LLYN)
+* [LLYN-Y-FAN-FACH-NANT-COCH](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/LLYN-Y-FAN-FACH-NANT-COCH)
+* [LLYN-Y-FAN-FACH-TROED-Y-FACH](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/LLYN-Y-FAN-FACH-TROED-Y-FACH)
+* [LLYN-Y-FAN-FACH-WAEN-SYCHLWCH](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/LLYN-Y-FAN-FACH-WAEN-SYCHLWCH)
 * [LLYSDINAM-NEWBRIDGE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/LLYSDINAM-NEWBRIDGE)
 * [LOCH-A-BHRAOIN](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/LOCH-A-BHRAOIN)
 * [LOCH-ARKAIG-ACHNACARRY](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/LOCH-ARKAIG-ACHNACARRY)
@@ -3809,6 +3823,7 @@ Generation time: Friday 11/12/2020 19:08:53 GMT
 * [SKOKHOLM-ISLAND](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/SKOKHOLM-ISLAND)
 * [SKYE-DUNVEGAN](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/SKYE-DUNVEGAN)
 * [SKYE-KYLEAKIN](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/SKYE-KYLEAKIN)
+* [SKYE-KYLEAKIN-DUNRINGELL](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/SKYE-KYLEAKIN-DUNRINGELL)
 * [SKYE-LYNEDALE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/SKYE-LYNEDALE)
 * [SKYE-NEIST-POINT](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/SKYE-NEIST-POINT)
 * [SKYE-ORONSAY](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/SKYE-ORONSAY)
