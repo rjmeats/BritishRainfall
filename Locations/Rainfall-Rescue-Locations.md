@@ -1,4 +1,4 @@
-Generation time: Monday 14/12/2020 22:14:04 GMT
+Generation time: Tuesday 15/12/2020 08:45:40 GMT
 
 
 [MO-2020] indicates a location which contributed to the [Met Office 2020 UK Climate Report](https://www.metoffice.gov.uk/research/climate/maps-and-data/about/state-of-climate):
@@ -202,7 +202,7 @@ Generation time: Monday 14/12/2020 22:14:04 GMT
 * [ASHTON-WATERHOUSES](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/ASHTON-WATERHOUSES)
 * [ASHWATER-RECTORY](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/ASHWATER-RECTORY)
 * [ASPATRIA-BRAYTON](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/ASPATRIA-BRAYTON)
-* [ASSYNTH-ACHUMORE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/ASSYNTH-ACHUMORE)
+* [ASSYNT-ACHUMORE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/ASSYNT-ACHUMORE)
 * [ATHERSTONE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/ATHERSTONE)
 * [ATHLONE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/ATHLONE)
 * [ATHLONE-TWYFORD-HOUSE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/ATHLONE-TWYFORD-HOUSE)
