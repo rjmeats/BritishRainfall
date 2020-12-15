@@ -1,9 +1,9 @@
-Generation time: Tuesday 15/12/2020 08:45:40 GMT
+Generation time: Tuesday 15/12/2020 23:49:40 GMT
 
 
 [MO-2020] indicates a location which contributed to the [Met Office 2020 UK Climate Report](https://www.metoffice.gov.uk/research/climate/maps-and-data/about/state-of-climate):
 
-4762 locations under [https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA):
+4763 locations under [https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA):
 
 * [ABBEY-LEIX-BLANDSFORT](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/ABBEY-LEIX-BLANDSFORT)
 * [ABBEY-ST-BATHANS](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/ABBEY-ST-BATHANS)
@@ -1098,6 +1098,7 @@ Generation time: Tuesday 15/12/2020 08:45:40 GMT
 * [COLMONELL-KNOCKDOLIAN](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/COLMONELL-KNOCKDOLIAN)
 * [COLNE-CEMETERY](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/COLNE-CEMETERY)
 * [COLWYN-BAY-BRYN-EURYN](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/COLWYN-BAY-BRYN-EURYN)
+* [COLWYN-BAY-EIRIAS-PARK](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/COLWYN-BAY-EIRIAS-PARK)
 * [COLWYN-NANT-Y-GLYN](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/COLWYN-NANT-Y-GLYN)
 * [COLZIUM](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/COLZIUM)
 * [COMBS-MOSS](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/COMBS-MOSS)

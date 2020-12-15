@@ -1980,6 +1980,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -6.991,
+          57.961
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "AMHUINSUIDH-CASTLE",
+        "county": "Inverness",
+        "gridref": "NB049078",
+        "latitude": "57.961",
+        "longitude": "-6.991",
+        "elevation (ft)": "12"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -0.429,
           52.063
         ]
@@ -2603,6 +2624,27 @@
         "latitude": "54.627",
         "longitude": "-6.676",
         "elevation (ft)": "191"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.848,
+          56.901
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "ARISAIG-FAIRE-NA-SGUIR",
+        "county": "Inverness",
+        "gridref": "NM658855",
+        "latitude": "56.901",
+        "longitude": "-5.848",
+        "elevation (ft)": "30"
       }
     },
     {
@@ -3317,6 +3359,27 @@
         "latitude": "59.025",
         "longitude": "-2.573",
         "elevation (ft)": "10"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.828,
+          57.188
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "AVIEMORE-HRS",
+        "county": "Inverness",
+        "gridref": "NH896123",
+        "latitude": "57.188",
+        "longitude": "-3.828",
+        "elevation (ft)": "710"
       }
     },
     {
@@ -6033,6 +6096,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -3.555,
+          57.053
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "BEINN-BHREAC",
+        "county": "Aberdeenshire",
+        "gridref": "NO058968",
+        "latitude": "57.053",
+        "longitude": "-3.555",
+        "elevation (ft)": "2700"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -4.597,
           55.75
         ]
@@ -6278,6 +6362,132 @@
         "latitude": "56.181",
         "longitude": "-4.578",
         "elevation (ft)": "1500"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.005,
+          56.796
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "BEN-NEVIS",
+        "county": "Inverness",
+        "gridref": "NN166712",
+        "latitude": "56.796",
+        "longitude": "-5.005",
+        "elevation (ft)": "4407"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.077,
+          56.83
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "BEN-NEVIS",
+        "county": "Inverness",
+        "gridref": "NN124751",
+        "latitude": "56.830",
+        "longitude": "-5.077",
+        "elevation (ft)": "45"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.04,
+          56.812
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "BEN-NEVIS",
+        "county": "Inverness",
+        "gridref": "NN145730",
+        "latitude": "56.812",
+        "longitude": "-5.040",
+        "elevation (ft)": "1850"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.042,
+          56.77
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "BEN-NEVIS",
+        "county": "Inverness",
+        "gridref": "NN142684",
+        "latitude": "56.770",
+        "longitude": "-5.042",
+        "elevation (ft)": "150"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.119,
+          56.813
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "BEN-NEVIS",
+        "county": "Inverness",
+        "gridref": "NN097733",
+        "latitude": "56.813",
+        "longitude": "-5.119",
+        "elevation (ft)": "25"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.483,
+          56.231
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "BEN-VENUE-GLASAHOILE",
+        "county": "Perthshire",
+        "gridref": "NN462071",
+        "latitude": "56.231",
+        "longitude": "-4.483",
+        "elevation (ft)": "1150"
       }
     },
     {
@@ -17478,6 +17688,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -4.232,
+          57.028
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "CLUNY-CASTLE-INVERNESS",
+        "county": "Inverness",
+        "gridref": "NN646943",
+        "latitude": "57.028",
+        "longitude": "-4.232",
+        "elevation (ft)": "816"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -3.366,
           50.804
         ]
@@ -22497,6 +22728,48 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -4.477,
+          57.333
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "DRUMNADROICHT",
+        "county": "Inverness",
+        "gridref": "NH509296",
+        "latitude": "57.333",
+        "longitude": "-4.477",
+        "elevation (ft)": "104"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.47,
+          57.338
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "DRUMNADROICHT",
+        "county": "Inverness",
+        "gridref": "NH514302",
+        "latitude": "57.338",
+        "longitude": "-4.470",
+        "elevation (ft)": "138"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -8.062,
           54.061
         ]
@@ -22784,6 +23057,27 @@
         "latitude": "52.513",
         "longitude": "-2.074",
         "elevation (ft)": "575"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.384,
+          57.699
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "DUFFUS-HOUSE",
+        "county": "Moray (Elgin)",
+        "gridref": "NJ176685",
+        "latitude": "57.699",
+        "longitude": "-3.384",
+        "elevation (ft)": "55"
       }
     },
     {
@@ -26340,6 +26634,48 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -3.786,
+          56.0
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "FALKIRK-ARNOTDALE",
+        "county": "Stirlingshire",
+        "gridref": "NS887800",
+        "latitude": "56.000",
+        "longitude": "-3.786",
+        "elevation (ft)": "107"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.799,
+          56.002
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "FALKIRK-ARNOTDALE",
+        "county": "Stirlingshire",
+        "gridref": "NS879803",
+        "latitude": "56.002",
+        "longitude": "-3.799",
+        "elevation (ft)": "105"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -3.742,
           55.996
         ]
@@ -27698,6 +28034,48 @@
         "latitude": "56.816",
         "longitude": "-5.111",
         "elevation (ft)": "110"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.119,
+          56.813
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "FORT-WILLIAM-SCHOOL",
+        "county": "Inverness",
+        "gridref": "NN097734",
+        "latitude": "56.813",
+        "longitude": "-5.119",
+        "elevation (ft)": "33"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.062,
+          56.6
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "FORTINGALL-GLENLYON-HOUSE",
+        "county": "Perthshire",
+        "gridref": "NN735472",
+        "latitude": "56.600",
+        "longitude": "-4.062",
+        "elevation (ft)": "427"
       }
     },
     {
@@ -29574,6 +29952,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -4.389,
+          56.282
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "GLEN-MEANN",
+        "county": "Perthshire",
+        "gridref": "NN522125",
+        "latitude": "56.282",
+        "longitude": "-4.389",
+        "elevation (ft)": "800"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -3.153,
           56.958
         ]
@@ -29595,6 +29994,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -3.137,
+          56.974
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "GLEN-MUICK-INCHNABOBART",
+        "county": "Aberdeenshire",
+        "gridref": "NO310876",
+        "latitude": "56.974",
+        "longitude": "-3.137",
+        "elevation (ft)": "1270"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -4.534,
           57.029
         ]
@@ -29609,6 +30029,27 @@
         "latitude": "57.029",
         "longitude": "-4.534",
         "elevation (ft)": "1135"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.942,
+          57.403
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "GLEN-STRATHFARRER",
+        "county": "Inverness",
+        "gridref": "NH233386",
+        "latitude": "57.403",
+        "longitude": "-4.942",
+        "elevation (ft)": "461"
       }
     },
     {
@@ -29910,6 +30351,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -4.807,
+          56.699
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "GLENLEVEN-BLACKWATER",
+        "county": "Argyll",
+        "gridref": "NN282599",
+        "latitude": "56.699",
+        "longitude": "-4.807",
+        "elevation (ft)": "1069"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -4.863,
           56.705
         ]
@@ -29952,6 +30414,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -4.691,
+          56.76
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "GLENLEVEN-CORROUR",
+        "county": "Inverness",
+        "gridref": "NN356664",
+        "latitude": "56.760",
+        "longitude": "-4.691",
+        "elevation (ft)": "1260"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -4.733,
           56.709
         ]
@@ -29966,6 +30449,27 @@
         "latitude": "56.709",
         "longitude": "-4.733",
         "elevation (ft)": "1070"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.954,
+          56.712
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "GLENLEVEN-KINLOCHLEVEN",
+        "county": "Argyll",
+        "gridref": "NN193617",
+        "latitude": "56.712",
+        "longitude": "-4.954",
+        "elevation (ft)": "140"
       }
     },
     {
@@ -36749,6 +37253,48 @@
         "latitude": "52.328",
         "longitude": "-0.205",
         "elevation (ft)": "74"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.699,
+          57.471
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "HUNTLY-CRUCHIE",
+        "county": "Aberdeenshire",
+        "gridref": "NJ582425",
+        "latitude": "57.471",
+        "longitude": "-2.699",
+        "elevation (ft)": "375"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.786,
+          57.447
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "HUNTLY-UNION-BANK",
+        "county": "Aberdeenshire",
+        "gridref": "NJ529399",
+        "latitude": "57.447",
+        "longitude": "-2.786",
+        "elevation (ft)": "405"
       }
     },
     {
@@ -45828,6 +46374,48 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -2.699,
+          57.122
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "LUMPHANAN",
+        "county": "Aberdeenshire",
+        "gridref": "NJ578037",
+        "latitude": "57.122",
+        "longitude": "-2.699",
+        "elevation (ft)": "476"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.704,
+          57.121
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "LUMPHANAN",
+        "county": "Aberdeenshire",
+        "gridref": "NJ575036",
+        "latitude": "57.121",
+        "longitude": "-2.704",
+        "elevation (ft)": "473"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -0.405,
           51.874
         ]
@@ -49734,6 +50322,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -5.859,
+          56.356
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "MULL-LOCHBUIE",
+        "county": "Argyll",
+        "gridref": "NM617249",
+        "latitude": "56.356",
+        "longitude": "-5.859",
+        "elevation (ft)": "20"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -4.859,
           54.635
         ]
@@ -49790,6 +50399,27 @@
         "latitude": "56.606",
         "longitude": "-6.214",
         "elevation (ft)": "35"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.155,
+          56.473
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "MULL-ULVA",
+        "county": "Argyll",
+        "gridref": "NM442389",
+        "latitude": "56.473",
+        "longitude": "-6.155",
+        "elevation (ft)": "30"
       }
     },
     {
@@ -53703,6 +54333,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -5.322,
+          55.954
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "OTTER-HOUSE",
+        "county": "Argyll",
+        "gridref": "NR926784",
+        "latitude": "55.954",
+        "longitude": "-5.322",
+        "elevation (ft)": "115"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -1.33,
           51.008
         ]
@@ -56090,6 +56741,27 @@
         "latitude": "56.728",
         "longitude": "-3.809",
         "elevation (ft)": "540"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.705,
+          56.693
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "PITLOCHRY-DUNAVOURD",
+        "county": "Perthshire",
+        "gridref": "NN957570",
+        "latitude": "56.693",
+        "longitude": "-3.705",
+        "elevation (ft)": "400"
       }
     },
     {
@@ -58652,6 +59324,27 @@
         "latitude": "57.580",
         "longitude": "-5.959",
         "elevation (ft)": "212"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.847,
+          50.589
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "ROSCARROCK",
+        "county": "Cornwall",
+        "gridref": "SW986804",
+        "latitude": "50.589",
+        "longitude": "-4.847",
+        "elevation (ft)": "183"
       }
     },
     {
