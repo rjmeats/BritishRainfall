@@ -1,9 +1,9 @@
-Generation time: Tuesday 15/12/2020 23:49:40 GMT
+Generation time: Wednesday 16/12/2020 18:11:56 GMT
 
 
 [MO-2020] indicates a location which contributed to the [Met Office 2020 UK Climate Report](https://www.metoffice.gov.uk/research/climate/maps-and-data/about/state-of-climate):
 
-4763 locations under [https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA):
+4761 locations under [https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA):
 
 * [ABBEY-LEIX-BLANDSFORT](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/ABBEY-LEIX-BLANDSFORT)
 * [ABBEY-ST-BATHANS](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/ABBEY-ST-BATHANS)
@@ -2146,7 +2146,6 @@ Generation time: Tuesday 15/12/2020 23:49:40 GMT
 * [HEREFORD-HOLMER-HALL](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/HEREFORD-HOLMER-HALL)
 * [HEREFORD-INFIRMARY](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/HEREFORD-INFIRMARY)
 * [HEREFORD-KINGTON-TITLEY](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/HEREFORD-KINGTON-TITLEY)
-* [HEREFORD-LAWSON](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/HEREFORD-LAWSON)
 * [HEREFORD-POOL-COTTAGE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/HEREFORD-POOL-COTTAGE)
 * [HEREFORD-RICHMOND-PLACE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/HEREFORD-RICHMOND-PLACE)
 * [HERNE-BAY-WW](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/HERNE-BAY-WW)
@@ -4110,7 +4109,6 @@ Generation time: Tuesday 15/12/2020 23:49:40 GMT
 * [STRONACHLACHAR-INVERGYLE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/STRONACHLACHAR-INVERGYLE)
 * [STRONTIAN-LAUDALE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/STRONTIAN-LAUDALE)
 * [STROOD-WW](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/STROOD-WW)
-* [STROUD](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/STROUD)
 * [STROUD-FIELD-PLACE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/STROUD-FIELD-PLACE)
 * [STROUD-HARESCOMBE-GRANGE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/STROUD-HARESCOMBE-GRANGE)
 * [STROUD-STANLEY-PARK](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/STROUD-STANLEY-PARK)
@@ -4769,7 +4767,7 @@ Generation time: Tuesday 15/12/2020 23:49:40 GMT
 * [YSTRADFELLTE-RES](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/YSTRADFELLTE-RES)
 * [YSTRADYFODWG-FYNTYLA-HOSPITAL](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/YSTRADYFODWG-FYNTYLA-HOSPITAL)
 
-53 locations under [https://github.com/ed-hawkins/rainfall-rescue/tree/master/POOR-LOCATIONS](https://github.com/ed-hawkins/rainfall-rescue/tree/master/POOR-LOCATIONS):
+55 locations under [https://github.com/ed-hawkins/rainfall-rescue/tree/master/POOR-LOCATIONS](https://github.com/ed-hawkins/rainfall-rescue/tree/master/POOR-LOCATIONS):
 
 * [ABERDEEN](https://github.com/ed-hawkins/rainfall-rescue/tree/master/POOR-LOCATIONS/ABERDEEN)
 * [ABERDOVEY](https://github.com/ed-hawkins/rainfall-rescue/tree/master/POOR-LOCATIONS/ABERDOVEY)
@@ -4790,6 +4788,7 @@ Generation time: Tuesday 15/12/2020 23:49:40 GMT
 * [EXETER-WHITSTONE-RECTORY](https://github.com/ed-hawkins/rainfall-rescue/tree/master/POOR-LOCATIONS/EXETER-WHITSTONE-RECTORY)
 * [HAMPSTEAD-BRANCH-HILL](https://github.com/ed-hawkins/rainfall-rescue/tree/master/POOR-LOCATIONS/HAMPSTEAD-BRANCH-HILL)
 * [HELMSDALE-STATION](https://github.com/ed-hawkins/rainfall-rescue/tree/master/POOR-LOCATIONS/HELMSDALE-STATION)
+* [HEREFORD-LAWSON](https://github.com/ed-hawkins/rainfall-rescue/tree/master/POOR-LOCATIONS/HEREFORD-LAWSON)
 * [JERVISTON](https://github.com/ed-hawkins/rainfall-rescue/tree/master/POOR-LOCATIONS/JERVISTON)
 * [KENSINGTON-HOLLAND-ROAD](https://github.com/ed-hawkins/rainfall-rescue/tree/master/POOR-LOCATIONS/KENSINGTON-HOLLAND-ROAD)
 * [LAKE-VYRNWY-BWLCH-Y-GROES](https://github.com/ed-hawkins/rainfall-rescue/tree/master/POOR-LOCATIONS/LAKE-VYRNWY-BWLCH-Y-GROES)
@@ -4822,6 +4821,7 @@ Generation time: Tuesday 15/12/2020 23:49:40 GMT
 * [SNOWDON-CWM-GLAS](https://github.com/ed-hawkins/rainfall-rescue/tree/master/POOR-LOCATIONS/SNOWDON-CWM-GLAS)
 * [SNOWDON-PEN-Y-GWRYD](https://github.com/ed-hawkins/rainfall-rescue/tree/master/POOR-LOCATIONS/SNOWDON-PEN-Y-GWRYD)
 * [SOUTHGATE-THE-LAWNS-MODERN](https://github.com/ed-hawkins/rainfall-rescue/tree/master/POOR-LOCATIONS/SOUTHGATE-THE-LAWNS-MODERN)
+* [STROUD](https://github.com/ed-hawkins/rainfall-rescue/tree/master/POOR-LOCATIONS/STROUD)
 * [WELSHPOOL-LLWYNDERW](https://github.com/ed-hawkins/rainfall-rescue/tree/master/POOR-LOCATIONS/WELSHPOOL-LLWYNDERW)
 * [WHITBY-HAWKSER-GARDEN](https://github.com/ed-hawkins/rainfall-rescue/tree/master/POOR-LOCATIONS/WHITBY-HAWKSER-GARDEN)
 
