@@ -12900,6 +12900,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -1.61,
+          52.803
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "BURTON-RES",
+        "county": "Staffordshire",
+        "gridref": "SK264229",
+        "latitude": "52.803",
+        "longitude": "-1.610",
+        "elevation (ft)": "309"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -1.654,
           52.805
         ]
@@ -40494,6 +40515,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -2.199,
+          52.488
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "KINGSWINFORD-ASHWOOD-PUMPING-STATION",
+        "county": "Staffordshire",
+        "gridref": "SO866878",
+        "latitude": "52.488",
+        "longitude": "-2.199",
+        "elevation (ft)": "207"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -2.989,
           52.191
         ]
@@ -41390,6 +41432,27 @@
         "latitude": "52.372",
         "longitude": "-2.632",
         "elevation (ft)": "1000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.158,
+          53.089
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "KNYPERSLEY-CONGLETON",
+        "county": "Staffordshire",
+        "gridref": "SJ895547",
+        "latitude": "53.089",
+        "longitude": "-2.158",
+        "elevation (ft)": "550"
       }
     },
     {
@@ -43035,8 +43098,113 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -2.034,
-          53.094
+          -2.027,
+          53.107
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "LEEK",
+        "county": "Staffordshire",
+        "gridref": "SJ983567",
+        "latitude": "53.107",
+        "longitude": "-2.027",
+        "elevation (ft)": "591"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.021,
+          53.109
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "LEEK",
+        "county": "Staffordshire",
+        "gridref": "SJ987569",
+        "latitude": "53.109",
+        "longitude": "-2.021",
+        "elevation (ft)": "538"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.01,
+          53.116
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "LEEK-HAREGATE",
+        "county": "Staffordshire",
+        "gridref": "SJ994577",
+        "latitude": "53.116",
+        "longitude": "-2.010",
+        "elevation (ft)": "680"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.004,
+          53.111
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "LEEK-MOORHILL",
+        "county": "Staffordshire",
+        "gridref": "SJ998571",
+        "latitude": "53.111",
+        "longitude": "-2.004",
+        "elevation (ft)": "780"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.075,
+          53.121
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "LEEK-RUDYARD",
+        "county": "Staffordshire",
+        "gridref": "SJ951582",
+        "latitude": "53.121",
+        "longitude": "-2.075",
+        "elevation (ft)": "500"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.052,
+          53.08
         ]
       },
       "properties": {
@@ -43045,9 +43213,9 @@
         "marker-color": "66ff33",
         "name": "LEEK-WALL-GRANGE",
         "county": "Staffordshire",
-        "gridref": "SJ978552",
-        "latitude": "53.094",
-        "longitude": "-2.034",
+        "gridref": "SJ966536",
+        "latitude": "53.080",
+        "longitude": "-2.052",
         "elevation (ft)": "458"
       }
     },
@@ -43532,6 +43700,27 @@
         "latitude": "55.909",
         "longitude": "-3.164",
         "elevation (ft)": "407"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.849,
+          52.721
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "LICHFIELD-HANCH-RES",
+        "county": "Staffordshire",
+        "gridref": "SK103137",
+        "latitude": "52.721",
+        "longitude": "-1.849",
+        "elevation (ft)": "259"
       }
     },
     {
@@ -44435,6 +44624,27 @@
         "latitude": "51.863",
         "longitude": "-4.039",
         "elevation (ft)": "125"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.039,
+          51.864
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "LLANDILO-GOLDEN-GROVE",
+        "county": "Carmarthenshire",
+        "gridref": "SN597203",
+        "latitude": "51.864",
+        "longitude": "-4.039",
+        "elevation (ft)": "100"
       }
     },
     {
@@ -47319,6 +47529,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -2.312,
+          52.94
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "MAER-HALL-GDNS",
+        "county": "Staffordshire",
+        "gridref": "SJ791381",
+        "latitude": "52.940",
+        "longitude": "-2.312",
+        "elevation (ft)": "410"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -0.7,
           51.533
         ]
@@ -48621,6 +48852,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -1.768,
+          53.0
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "MAYFIELD-HOUSE-ASHBOURNE",
+        "county": "Staffordshire",
+        "gridref": "SK157448",
+        "latitude": "53.000",
+        "longitude": "-1.768",
+        "elevation (ft)": "374"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -3.205,
           56.573
         ]
@@ -49433,6 +49685,27 @@
         "latitude": "51.522",
         "longitude": "-0.051",
         "elevation (ft)": "50"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.039,
+          52.788
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "MILFORD-WW",
+        "county": "Staffordshire",
+        "gridref": "SJ975212",
+        "latitude": "52.788",
+        "longitude": "-2.039",
+        "elevation (ft)": "246"
       }
     },
     {
@@ -52884,6 +53157,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -2.308,
+          52.802
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "NORBURY-JUNCTION",
+        "county": "Staffordshire",
+        "gridref": "SJ793228",
+        "latitude": "52.802",
+        "longitude": "-2.308",
+        "elevation (ft)": "331"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -0.666,
           53.64
         ]
@@ -55845,6 +56139,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -2.295,
+          52.606
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "PATSHULL-PARK",
+        "county": "Staffordshire",
+        "gridref": "SJ801010",
+        "latitude": "52.606",
+        "longitude": "-2.295",
+        "elevation (ft)": "279"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -2.946,
           54.538
         ]
@@ -56237,6 +56552,27 @@
         "latitude": "53.526",
         "longitude": "-1.623",
         "elevation (ft)": "717"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.118,
+          52.702
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "PENKRIDGE-RODBASTON",
+        "county": "Staffordshire",
+        "gridref": "SJ921116",
+        "latitude": "52.702",
+        "longitude": "-2.118",
+        "elevation (ft)": "324"
       }
     },
     {
@@ -60906,6 +61242,69 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -1.921,
+          52.717
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "RUGELEY-BEAU-DESERT",
+        "county": "Staffordshire",
+        "gridref": "SK054133",
+        "latitude": "52.717",
+        "longitude": "-1.921",
+        "elevation (ft)": "600"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.924,
+          52.716
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "RUGELEY-BEAU-DESERT",
+        "county": "Staffordshire",
+        "gridref": "SK052131",
+        "latitude": "52.716",
+        "longitude": "-1.924",
+        "elevation (ft)": "680"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.947,
+          52.773
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "RUGELEY-BRINDLEY-BANK",
+        "county": "Staffordshire",
+        "gridref": "SK037195",
+        "latitude": "52.773",
+        "longitude": "-1.947",
+        "elevation (ft)": "254"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -2.757,
           53.329
         ]
@@ -63405,6 +63804,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -2.013,
+          52.8
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "SHUGBOROUGH",
+        "county": "Staffordshire",
+        "gridref": "SJ992225",
+        "latitude": "52.800",
+        "longitude": "-2.013",
+        "elevation (ft)": "260"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -2.822,
           51.312
         ]
@@ -65715,6 +66135,69 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -2.113,
+          52.804
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "STAFFORD-RIVERWAY",
+        "county": "Staffordshire",
+        "gridref": "SJ925230",
+        "latitude": "52.804",
+        "longitude": "-2.113",
+        "elevation (ft)": "249"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.12,
+          52.804
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "STAFFORD-RIVERWAY",
+        "county": "Staffordshire",
+        "gridref": "SJ920229",
+        "latitude": "52.804",
+        "longitude": "-2.120",
+        "elevation (ft)": "245"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.11,
+          52.804
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "STAFFORD-RIVERWAY",
+        "county": "Staffordshire",
+        "gridref": "SJ927229",
+        "latitude": "52.804",
+        "longitude": "-2.110",
+        "elevation (ft)": "247"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -1.803,
           54.594
         ]
@@ -65904,6 +66387,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -2.256,
+          52.93
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "STANDON-HATTON-WW",
+        "county": "Staffordshire",
+        "gridref": "SJ829370",
+        "latitude": "52.930",
+        "longitude": "-2.256",
+        "elevation (ft)": "355"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -0.218,
           52.56
         ]
@@ -65960,6 +66464,27 @@
         "latitude": "51.789",
         "longitude": "-1.168",
         "elevation (ft)": "399"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.623,
+          52.794
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "STAPENHILL-BURTON",
+        "county": "Staffordshire",
+        "gridref": "SK255219",
+        "latitude": "52.794",
+        "longitude": "-1.623",
+        "elevation (ft)": "170"
       }
     },
     {
@@ -66422,6 +66947,27 @@
         "latitude": "51.547",
         "longitude": "-0.594",
         "elevation (ft)": "196"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.107,
+          53.065
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "STOKE-STANLEY",
+        "county": "Staffordshire",
+        "gridref": "SJ929520",
+        "latitude": "53.065",
+        "longitude": "-2.107",
+        "elevation (ft)": "550"
       }
     },
     {
@@ -68837,6 +69383,27 @@
         "latitude": "57.815",
         "longitude": "-4.064",
         "elevation (ft)": "80"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.701,
+          52.632
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "TAMWORTH-LICHFIELD-ST",
+        "county": "Staffordshire",
+        "gridref": "SK203039",
+        "latitude": "52.632",
+        "longitude": "-1.701",
+        "elevation (ft)": "200"
       }
     },
     {
@@ -72764,6 +73331,90 @@
         "latitude": "51.617",
         "longitude": "-1.155",
         "elevation (ft)": "200"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.975,
+          52.58
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "WALSALL",
+        "county": "Staffordshire",
+        "gridref": "SP018980",
+        "latitude": "52.580",
+        "longitude": "-1.975",
+        "elevation (ft)": "463"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.985,
+          52.567
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "WALSALL-BESCOT-SEWAGE-FARM",
+        "county": "Staffordshire",
+        "gridref": "SP011966",
+        "latitude": "52.567",
+        "longitude": "-1.985",
+        "elevation (ft)": "376"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.991,
+          52.567
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "WALSALL-BESCOT-SEWAGE-FARM",
+        "county": "Staffordshire",
+        "gridref": "SP007966",
+        "latitude": "52.567",
+        "longitude": "-1.991",
+        "elevation (ft)": "387"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.998,
+          52.567
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "WALSALL-WEDNESBURY-SEWAGE-WKS",
+        "county": "Staffordshire",
+        "gridref": "SP002966",
+        "latitude": "52.567",
+        "longitude": "-1.998",
+        "elevation (ft)": "381"
       }
     },
     {
