@@ -1518,6 +1518,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -4.279,
+          57.732
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "ALNESS-ARDROSS-SCHOOL",
+        "county": "Ross and Cromarty",
+        "gridref": "NH644736",
+        "latitude": "57.732",
+        "longitude": "-4.279",
+        "elevation (ft)": "490"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -1.708,
           55.415
         ]
@@ -11283,6 +11304,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -0.283,
+          50.848
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "BRIGHTON-WW-SHOREHAM",
+        "county": "Sussex",
+        "gridref": "TQ210068",
+        "latitude": "50.848",
+        "longitude": "-0.283",
+        "elevation (ft)": "9"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -1.218,
           51.378
         ]
@@ -19025,6 +19067,27 @@
         "latitude": "54.758",
         "longitude": "-2.272",
         "elevation (ft)": "1690"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.24,
+          50.929
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "COXLOW-HOREHAM-ROAD",
+        "county": "Sussex",
+        "gridref": "TQ575168",
+        "latitude": "50.929",
+        "longitude": "0.240",
+        "elevation (ft)": "250"
       }
     },
     {
@@ -34362,6 +34425,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -0.15,
+          50.925
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "HASSOCKS-THE-CROFT",
+        "county": "Sussex",
+        "gridref": "TQ301156",
+        "latitude": "50.925",
+        "longitude": "-0.150",
+        "elevation (ft)": "200"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           0.585,
           50.861
         ]
@@ -35026,6 +35110,27 @@
         "gridref": "TQ604210",
         "latitude": "50.966",
         "longitude": "0.283",
+        "elevation (ft)": "500"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.306,
+          50.981
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "HEATHFIELD-TOTTINGWORTH-PARK",
+        "county": "Sussex",
+        "gridref": "TQ6195022760",
+        "latitude": "50.981",
+        "longitude": "0.306",
         "elevation (ft)": "500"
       }
     },
@@ -44253,6 +44358,48 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -0.541,
+          50.804
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "LITTLEHAMPTON-MET-STATION",
+        "county": "Sussex",
+        "gridref": "TQ029014",
+        "latitude": "50.804",
+        "longitude": "-0.541",
+        "elevation (ft)": "24"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.535,
+          50.807
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "LITTLEHAMPTON-MET-STATION",
+        "county": "Sussex",
+        "gridref": "TQ033018",
+        "latitude": "50.807",
+        "longitude": "-0.535",
+        "elevation (ft)": "19"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           0.3,
           52.453
         ]
@@ -51134,6 +51281,27 @@
         "latitude": "52.591",
         "longitude": "-2.483",
         "elevation (ft)": "492"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.583,
+          57.539
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "MUIR-OF-ORD-FAIRBURN",
+        "county": "Ross and Cromarty",
+        "gridref": "NH455528",
+        "latitude": "57.539",
+        "longitude": "-4.583",
+        "elevation (ft)": "500"
       }
     },
     {
@@ -67954,6 +68122,27 @@
         "gridref": "NH484584",
         "latitude": "57.590",
         "longitude": "-4.538",
+        "elevation (ft)": "125"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.01,
+          58.52
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "STRATHY-BOWSIDE",
+        "county": "Sutherland",
+        "gridref": "NC830609",
+        "latitude": "58.520",
+        "longitude": "-4.010",
         "elevation (ft)": "125"
       }
     },
