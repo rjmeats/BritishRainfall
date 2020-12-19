@@ -1,4 +1,4 @@
-Generation time: Friday 18/12/2020 08:21:19 GMT
+Generation time: Saturday 19/12/2020 09:21:22 GMT
 
 
 [MO-2020] indicates a location which contributed to the [Met Office 2020 UK Climate Report](https://www.metoffice.gov.uk/research/climate/maps-and-data/about/state-of-climate):
