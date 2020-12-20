@@ -1,4 +1,4 @@
-Generation time: Saturday 19/12/2020 09:21:22 GMT
+Generation time: Sunday 20/12/2020 15:31:16 GMT
 
 ## Locations L-Z
 
@@ -530,7 +530,7 @@ Generation time: Saturday 19/12/2020 09:21:22 GMT
 |[MAIDENHEAD-COOKHAM-VICARAGE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/MAIDENHEAD-COOKHAM-VICARAGE)|MAIDENHEAD-COOKHAM-VICARAGE.csv|SU896854|51.560|-0.709|90|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=51.560&lon=-0.709&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/51.560,-0.709,16)  |
 |[MAIDENHEAD-LOWOOD](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/MAIDENHEAD-LOWOOD)|MAIDENHEAD-LOWOOD.csv|SU880811|51.522|-0.733|167|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=51.522&lon=-0.733&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/51.522,-0.733,16)  |
 |[MAIDENHEAD-THE-NEW-HALL](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/MAIDENHEAD-THE-NEW-HALL)|||||||
-|[MAIDSTONE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/MAIDSTONE)|||||||
+|[MAIDSTONE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/MAIDSTONE)|MAIDSTONE.csv|TQ758553|51.270|0.519|50|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=51.270&lon=0.519&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/51.270,0.519,16)  |
 |[MAIDSTONE-ALLINGTON-LOCK](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/MAIDSTONE-ALLINGTON-LOCK)|MAIDSTONE-ALLINGTON-LOCK.csv|TQ748582|51.296|0.506|45|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=51.296&lon=0.506&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/51.296,0.506,16)  |
 |[MAIDSTONE-BRENCHLEY-GDNS](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/MAIDSTONE-BRENCHLEY-GDNS)|MAIDSTONE-BRENCHLEY-GDNS.csv|TQ759561|51.277|0.521|50|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=51.277&lon=0.521&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/51.277,0.521,16)  |
 |[MAIDSTONE-DETLING](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/MAIDSTONE-DETLING)|MAIDSTONE-DETLING.csv|TQ795582|51.295|0.573|330|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=51.295&lon=0.573&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/51.295,0.573,16)  |
@@ -538,8 +538,8 @@ Generation time: Saturday 19/12/2020 09:21:22 GMT
 |[MAIDSTONE-HUNTON-COURT](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/MAIDSTONE-HUNTON-COURT)|MAIDSTONE-HUNTON-COURT.csv|TQ723496|51.220|0.466|80|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=51.220&lon=0.466&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/51.220,0.466,16)  |
 |[MAIDSTONE-LINTON-PARK](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/MAIDSTONE-LINTON-PARK)|MAIDSTONE-LINTON-PARK.csv|TQ759500|51.222|0.518|200|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=51.222&lon=0.518&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/51.222,0.518,16)  |
 ||MAIDSTONE-LINTON-PARK-2.csv|TQ759500|51.222|0.518|200|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=51.222&lon=0.518&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/51.222,0.518,16)  |
-|[MAIDSTONE-LOWER-TOVIL](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/MAIDSTONE-LOWER-TOVIL)|||||||
-|[MAIDSTONE-MILL-ST](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/MAIDSTONE-MILL-ST)|||||||
+|[MAIDSTONE-LOWER-TOVIL](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/MAIDSTONE-LOWER-TOVIL)|MAIDSTONE-LOWER-TOVIL.csv|TQ752546|51.264|0.510|30|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=51.264&lon=0.510&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/51.264,0.510,16)  |
+|[MAIDSTONE-MILL-ST](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/MAIDSTONE-MILL-ST)|MAIDSTONE-MILL-ST.csv|TQ7575055743|51.274|0.518|38|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=51.274&lon=0.518&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/51.274,0.518,16)  |
 |[MAIDSTONE-SOMERFIELD](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/MAIDSTONE-SOMERFIELD)|MAIDSTONE-SOMERFIELD.csv|TQ750559|51.275|0.508|150|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=51.275&lon=0.508&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/51.275,0.508,16)  |
 |[MAIDSTONE-WW-BARMING](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/MAIDSTONE-WW-BARMING)|MAIDSTONE-WW-BARMING.csv|TQ735549|51.268|0.486|247|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=51.268&lon=0.486&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/51.268,0.486,16)  |
 |[MAKERSTOUN](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/MAKERSTOUN)|MAKERSTOUN.csv|NT676319|55.580|-2.515|171|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=55.580&lon=-2.515&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/55.580,-2.515,16)  |
@@ -585,17 +585,20 @@ Generation time: Saturday 19/12/2020 09:21:22 GMT
 |[MARCHMONT-HOUSE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/MARCHMONT-HOUSE)|MARCHMONT-HOUSE.csv|NT743484|55.728|-2.411|500|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=55.728&lon=-2.411&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/55.728,-2.411,16)  |
 |[MARESFIELD-FOREST-LODGE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/MARESFIELD-FOREST-LODGE)|MARESFIELD-FOREST-LODGE.csv|TQ4526626165|51.017|0.070|247|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=51.017&lon=0.070&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/51.017,0.070,16)  |
 |[MARESFIELD-RECTORY](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/MARESFIELD-RECTORY)|MARESFIELD-RECTORY.csv|TQ465239|50.996|0.086|250|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=50.996&lon=0.086&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/50.996,0.086,16)  |
-|[MARGATE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/MARGATE)|||||||
+|[MARGATE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/MARGATE)|MARGATE.csv|TR357701|51.381|1.386|84|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=51.381&lon=1.386&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/51.381,1.386,16)  |
+||MARGATE-2.csv|TR357701|51.381|1.386|84|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=51.381&lon=1.386&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/51.381,1.386,16)  |
+||MARGATE-3.csv|TR368714|51.392|1.402|51|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=51.392&lon=1.402&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/51.392,1.402,16)  |
+||MARGATE-4.csv|TR368707|51.386|1.402|99|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=51.386&lon=1.402&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/51.386,1.402,16)  |
 |[MARGATE-ACOL](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/MARGATE-ACOL)|MARGATE-ACOL.csv|TR308673|51.358|1.314|60|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=51.358&lon=1.314&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/51.358,1.314,16)  |
 |[MARKET-BOSWORTH-OSBASTON-HALL](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/MARKET-BOSWORTH-OSBASTON-HALL)|MARKET-BOSWORTH-OSBASTON-HALL.csv|SK425045|52.637|-1.373|385|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=52.637&lon=-1.373&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/52.637,-1.373,16)  |
-|[MARKET-DEEPING-ETTON](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/MARKET-DEEPING-ETTON)|||||||
+|[MARKET-DEEPING-ETTON](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/MARKET-DEEPING-ETTON)|MARKET-DEEPING-ETTON.csv|TF138053|52.634|-0.319|25|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=52.634&lon=-0.319&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/52.634,-0.319,16)  |
 |[MARKET-DEEPING-WILSTHORPE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/MARKET-DEEPING-WILSTHORPE)|MARKET-DEEPING-WILSTHORPE.csv|TF081148|52.720|-0.401|51|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=52.720&lon=-0.401&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/52.720,-0.401,16)  |
 |[MARKET-DRAYTON-BUNTINGSDALE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/MARKET-DRAYTON-BUNTINGSDALE)|MARKET-DRAYTON-BUNTINGSDALE.csv|SJ654325|52.889|-2.516|276|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=52.889&lon=-2.516&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/52.889,-2.516,16)  |
 |[MARKET-DRAYTON-OLD-SPRINGS](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/MARKET-DRAYTON-OLD-SPRINGS)|||||||
 |[MARKET-HARBORO-FOXTON-LOCKS](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/MARKET-HARBORO-FOXTON-LOCKS)|MARKET-HARBORO-FOXTON-LOCKS.csv|SP691895|52.500|-0.983|393|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=52.500&lon=-0.983&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/52.500,-0.983,16)  |
 |[MARKET-HARBOROUGH-BRAYBROOKE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/MARKET-HARBOROUGH-BRAYBROOKE)|MARKET-HARBOROUGH-BRAYBROOKE.csv|SP764843|52.451|-0.877|334|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=52.451&lon=-0.877&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/52.451,-0.877,16)  |
 |[MARKET-HARBOROUGH-DINGLEY](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/MARKET-HARBOROUGH-DINGLEY)|MARKET-HARBOROUGH-DINGLEY.csv|SP771876|52.481|-0.866|450|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=52.481&lon=-0.866&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/52.481,-0.866,16)  |
-|[MARKET-HARBOROUGH-ROSE-HILL](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/MARKET-HARBOROUGH-ROSE-HILL)|||||||
+|[MARKET-HARBOROUGH-ROSE-HILL](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/MARKET-HARBOROUGH-ROSE-HILL)|MARKET-HARBOROUGH-ROSE-HILL.csv|SP734884|52.489|-0.920|348|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=52.489&lon=-0.920&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/52.489,-0.920,16)  |
 |[MARKET-LAVINGTON-NR-DEVIZES](https://github.com/ed-hawkins/rainfall-rescue/tree/master/POOR-LOCATIONS/MARKET-LAVINGTON-NR-DEVIZES)|||||||
 |[MARKET-OVERTON](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/MARKET-OVERTON)|MARKET-OVERTON.csv|SK885160|52.735|-0.690|475|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=52.735&lon=-0.690&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/52.735,-0.690,16)  |
 |[MARKET-RASEN-RAILWAY-STATION](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/MARKET-RASEN-RAILWAY-STATION)|MARKET-RASEN-RAILWAY-STATION.csv|TF107887|53.384|-0.337|100|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=53.384&lon=-0.337&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/53.384,-0.337,16)  |
@@ -928,7 +931,7 @@ Generation time: Saturday 19/12/2020 09:21:22 GMT
 ||NEWPORT-IOW-MIX-4.csv|SZ498891|50.699|-1.296|45|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=50.699&lon=-1.296&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/50.699,-1.296,16)  |
 ||NEWPORT-IOW-MIX-5.csv|SZ498891|50.699|-1.296|45|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=50.699&lon=-1.296&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/50.699,-1.296,16)  |
 |[NEWPORT-PAGNELL-LOVAT-BANK](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/NEWPORT-PAGNELL-LOVAT-BANK)|NEWPORT-PAGNELL-LOVAT-BANK.csv|SP876437|52.085|-0.723|280|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=52.085&lon=-0.723&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/52.085,-0.723,16)  |
-|[NEWPORT-PAGNELL-THE-CROFT](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/NEWPORT-PAGNELL-THE-CROFT)|||||||
+|[NEWPORT-PAGNELL-THE-CROFT](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/NEWPORT-PAGNELL-THE-CROFT)|NEWPORT-PAGNELL-THE-CROFT.csv|SP870434|52.083|-0.731|196|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=52.083&lon=-0.731&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/52.083,-0.731,16)  |
 |[NEWPORT-TAYFIELD](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/NEWPORT-TAYFIELD)|||||||
 |[NEWPORT-WW-FRIAR-ST-YARD](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/NEWPORT-WW-FRIAR-ST-YARD)|||||||
 |[NEWPORT-WW-LLANVACHES](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/NEWPORT-WW-LLANVACHES)|||||||
@@ -991,7 +994,9 @@ Generation time: Saturday 19/12/2020 09:21:22 GMT
 |[NORTHALLERTON](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/NORTHALLERTON)|||||||
 |[NORTHALLERTON-OSMOTHERLEY](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/NORTHALLERTON-OSMOTHERLEY)|||||||
 |[NORTHAMPTON](https://github.com/ed-hawkins/rainfall-rescue/tree/master/POOR-LOCATIONS/NORTHAMPTON)|||||||
-|[NORTHAMPTON-ASYLUM](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/NORTHAMPTON-ASYLUM)|||||||
+|[NORTHAMPTON-ASYLUM](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/NORTHAMPTON-ASYLUM)|NORTHAMPTON-ASYLUM.csv|SP771603|52.236|-0.872|256|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=52.236&lon=-0.872&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/52.236,-0.872,16)  |
+||NORTHAMPTON-ASYLUM-2.csv|SP711612|52.244|-0.960|399|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=52.244&lon=-0.960&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/52.244,-0.960,16)  |
+||NORTHAMPTON-ASYLUM-3.csv|SP711612|52.244|-0.960|399|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=52.244&lon=-0.960&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/52.244,-0.960,16)  |
 |[NORTHAMPTON-GENERAL-HOSPITAL](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/NORTHAMPTON-GENERAL-HOSPITAL)|NORTHAMPTON-GENERAL-HOSPITAL.csv|SP762604|52.237|-0.886|258|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=52.237&lon=-0.886&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/52.237,-0.886,16)  |
 |[NORTHAMPTON-GOLD-STREET](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/NORTHAMPTON-GOLD-STREET)|NORTHAMPTON-GOLD-STREET.csv|SP754605|52.238|-0.897|230|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=52.238&lon=-0.897&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/52.238,-0.897,16)  |
 |[NORTHAMPTON-HAZELWOOD](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/NORTHAMPTON-HAZELWOOD)|NORTHAMPTON-HAZELWOOD.csv|SP758603|52.236|-0.891|253|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=52.236&lon=-0.891&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/52.236,-0.891,16)  |
@@ -1242,7 +1247,7 @@ Generation time: Saturday 19/12/2020 09:21:22 GMT
 |[PENMAEN-CEFN-MOR](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/PENMAEN-CEFN-MOR)|||||||
 |[PENMAENMAWR-MOUNTAIN](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/PENMAENMAWR-MOUNTAIN)|||||||
 |[PENMYNYDD-VICARAGE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/PENMYNYDD-VICARAGE)|||||||
-|[PENN-RAYNERS](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/PENN-RAYNERS)|||||||
+|[PENN-RAYNERS](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/PENN-RAYNERS)|PENN-RAYNERS.csv|SU906934|51.632|-0.692|550|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=51.632&lon=-0.692&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/51.632,-0.692,16)  |
 |[PENNAL-LLWYNCELYN](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/PENNAL-LLWYNCELYN)|PENNAL-LLWYNCELYN.csv|SN676986|52.569|-3.955|30|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=52.569&lon=-3.955&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/52.569,-3.955,16)  |
 ||PENNAL-LLWYNCELYN-2.csv|SN676986|52.569|-3.955|30|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=52.569&lon=-3.955&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/52.569,-3.955,16)  |
 |[PENNAL-TALGARTH-HALL](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/PENNAL-TALGARTH-HALL)|PENNAL-TALGARTH-HALL.csv|SN694998|52.580|-3.929|125|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=52.580&lon=-3.929&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/52.580,-3.929,16)  |
@@ -1342,7 +1347,8 @@ Generation time: Saturday 19/12/2020 09:21:22 GMT
 |[PITSEA-PUMPING-STATION](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/PITSEA-PUMPING-STATION)|PITSEA-PUMPING-STATION.csv|TQ729874|51.559|0.493|29|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=51.559&lon=0.493&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/51.559,0.493,16)  |
 |[PITTENWEEM](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/PITTENWEEM)|PITTENWEEM.csv|NO551026|56.214|-2.726|75|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=56.214&lon=-2.726&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/56.214,-2.726,16)  |
 |[PLADDA-ARRAN-LIGHTHOUSE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/PLADDA-ARRAN-LIGHTHOUSE)|PLADDA-ARRAN-LIGHTHOUSE.csv|NS0279819075|55.426|-5.118|55|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=55.426&lon=-5.118&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/55.426,-5.118,16)  |
-|[PLAISTOW](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/PLAISTOW)|||||||
+|[PLAISTOW](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/PLAISTOW)|PLAISTOW.csv|TQ405826|51.525|0.024|43|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=51.525&lon=0.024&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/51.525,0.024,16)  |
+||PLAISTOW-2.csv|TQ405826|51.525|0.024|43|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=51.525&lon=0.024&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/51.525,0.024,16)  |
 |[PLAS-CADNANT](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/PLAS-CADNANT)|||||||
 |[PLAS-CWRT-HYR](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/PLAS-CWRT-HYR)|||||||
 |[PLYMOUTH-BERE-FERRERS](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/PLYMOUTH-BERE-FERRERS)|||||||
@@ -2225,7 +2231,7 @@ Generation time: Saturday 19/12/2020 09:21:22 GMT
 ||SWANAGE-2.csv|SZ031777|50.600|-1.956|178|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=50.600&lon=-1.956&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/50.600,-1.956,16)  |
 ||SWANAGE-3.csv|SZ030794|50.614|-1.959|40|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=50.614&lon=-1.959&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/50.614,-1.959,16)  |
 |[SWANAGE-VICTORIA-HOTEL](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/SWANAGE-VICTORIA-HOTEL)|||||||
-|[SWANBOURNE-HOUSE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/SWANBOURNE-HOUSE)|||||||
+|[SWANBOURNE-HOUSE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/SWANBOURNE-HOUSE)|SWANBOURNE-HOUSE.csv|SP799270|51.936|-0.839|411|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=51.936&lon=-0.839&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/51.936,-0.839,16)  |
 |[SWANSEA-SOUTH-DOCK-LOCK](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/SWANSEA-SOUTH-DOCK-LOCK)|||||||
 |[SWANSEA-VICTORIA-PARK](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/SWANSEA-VICTORIA-PARK)|||||||
 |[SWANSEA-WIND-STREET](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/SWANSEA-WIND-STREET)|SWANSEA-WIND-STREET.csv|SS658929|51.619|-3.940|52|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=51.619&lon=-3.940&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/51.619,-3.940,16)  |

@@ -7293,6 +7293,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          0.449,
+          51.631
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "BILLERICAY-RAMSDEN-HALL",
+        "county": "Essex",
+        "gridref": "TQ696953",
+        "latitude": "51.631",
+        "longitude": "0.449",
+        "elevation (ft)": "260"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           0.417,
           51.621
         ]
@@ -11619,6 +11640,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          1.437,
+          51.358
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "BROADSTAIRS-PIERREMONT-PARK",
+        "county": "Kent-stayed-Kent",
+        "gridref": "TR394677",
+        "latitude": "51.358",
+        "longitude": "1.437",
+        "elevation (ft)": "127"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -0.288,
           51.235
         ]
@@ -13698,6 +13740,69 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          0.137,
+          52.186
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "CAMBRIDGE-BARROW-ROAD",
+        "county": "Cambridgeshire",
+        "gridref": "TL462563",
+        "latitude": "52.186",
+        "longitude": "0.137",
+        "elevation (ft)": "45"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.124,
+          52.188
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "CAMBRIDGE-BARROW-ROAD",
+        "county": "Cambridgeshire",
+        "gridref": "TL453565",
+        "latitude": "52.188",
+        "longitude": "0.124",
+        "elevation (ft)": "47"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.123,
+          52.195
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "CAMBRIDGE-BEECH-HOUSE",
+        "county": "Cambridgeshire",
+        "gridref": "TL452573",
+        "latitude": "52.195",
+        "longitude": "0.123",
+        "elevation (ft)": "40"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           0.126,
           52.193
         ]
@@ -13796,6 +13901,27 @@
         "latitude": "52.214",
         "longitude": "0.098",
         "elevation (ft)": "85"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.103,
+          52.201
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "CAMBRIDGE-PINEHURST",
+        "county": "Cambridgeshire",
+        "gridref": "TL438579",
+        "latitude": "52.201",
+        "longitude": "0.103",
+        "elevation (ft)": "36"
       }
     },
     {
@@ -16008,6 +16134,48 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          0.536,
+          51.393
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "CHATHAM-MIX",
+        "county": "Kent-stayed-Kent",
+        "gridref": "TQ765690",
+        "latitude": "51.393",
+        "longitude": "0.536",
+        "elevation (ft)": "115"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.532,
+          51.391
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "CHATHAM-MIX",
+        "county": "Kent-stayed-Kent",
+        "gridref": "TQ762687",
+        "latitude": "51.391",
+        "longitude": "0.532",
+        "elevation (ft)": "137"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -1.709,
           55.523
         ]
@@ -17093,6 +17261,27 @@
         "latitude": "51.779",
         "longitude": "-0.352",
         "elevation (ft)": "400"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.971,
+          51.263
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "CHILHAM-LOWER-ENSDEN",
+        "county": "Kent-stayed-Kent",
+        "gridref": "TR074557",
+        "latitude": "51.263",
+        "longitude": "0.971",
+        "elevation (ft)": "305"
       }
     },
     {
@@ -25500,6 +25689,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          0.834,
+          52.899
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "EGMERE",
+        "county": "Norfolk",
+        "gridref": "TF907373",
+        "latitude": "52.899",
+        "longitude": "0.834",
+        "elevation (ft)": "150"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -3.243,
           57.473
         ]
@@ -28818,6 +29028,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          0.301,
+          51.103
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "FRANT-HIGHFIELD",
+        "county": "Sussex",
+        "gridref": "TQ6117236281",
+        "latitude": "51.103",
+        "longitude": "0.301",
+        "elevation (ft)": "413"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           1.028,
           51.858
         ]
@@ -31863,6 +32094,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          0.193,
+          52.062
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "GREAT-CHESTERFORD-MILLS",
+        "county": "Essex",
+        "gridref": "TL504427",
+        "latitude": "52.062",
+        "longitude": "0.193",
+        "elevation (ft)": "130"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           1.162,
           51.8
         ]
@@ -33851,6 +34103,27 @@
         "latitude": "52.664",
         "longitude": "-1.942",
         "elevation (ft)": "475"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.773,
+          51.714
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "HAMPDEN-HOUSE",
+        "county": "Buckinghamshire",
+        "gridref": "SP849024",
+        "latitude": "51.714",
+        "longitude": "-0.773",
+        "elevation (ft)": "690"
       }
     },
     {
@@ -40256,6 +40529,69 @@
         "latitude": "52.347",
         "longitude": "-0.689",
         "elevation (ft)": "165"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.724,
+          52.41
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "KETTERING-WW-CLOVER-HILL",
+        "county": "Northamptonshire",
+        "gridref": "SP869799",
+        "latitude": "52.410",
+        "longitude": "-0.724",
+        "elevation (ft)": "344"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.777,
+          52.395
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "KETTERING-WW-CRANSLEY",
+        "county": "Northamptonshire",
+        "gridref": "SP833782",
+        "latitude": "52.395",
+        "longitude": "-0.777",
+        "elevation (ft)": "275"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.781,
+          52.407
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "KETTERING-WW-THORPE-MALSOR",
+        "county": "Northamptonshire",
+        "gridref": "SP830795",
+        "latitude": "52.407",
+        "longitude": "-0.781",
+        "elevation (ft)": "345"
       }
     },
     {
@@ -48159,6 +48495,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          0.519,
+          51.27
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "MAIDSTONE",
+        "county": "Kent-stayed-Kent",
+        "gridref": "TQ758553",
+        "latitude": "51.270",
+        "longitude": "0.519",
+        "elevation (ft)": "50"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           0.506,
           51.296
         ]
@@ -48257,6 +48614,48 @@
         "latitude": "51.222",
         "longitude": "0.518",
         "elevation (ft)": "200"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.51,
+          51.264
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "MAIDSTONE-LOWER-TOVIL",
+        "county": "Kent-stayed-Kent",
+        "gridref": "TQ752546",
+        "latitude": "51.264",
+        "longitude": "0.510",
+        "elevation (ft)": "30"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.518,
+          51.274
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "MAIDSTONE-MILL-ST",
+        "county": "Kent-stayed-Kent",
+        "gridref": "TQ7575055743",
+        "latitude": "51.274",
+        "longitude": "0.518",
+        "elevation (ft)": "38"
       }
     },
     {
@@ -48789,6 +49188,69 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          1.386,
+          51.381
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "MARGATE",
+        "county": "Kent-stayed-Kent",
+        "gridref": "TR357701",
+        "latitude": "51.381",
+        "longitude": "1.386",
+        "elevation (ft)": "84"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.402,
+          51.392
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "MARGATE",
+        "county": "Kent-stayed-Kent",
+        "gridref": "TR368714",
+        "latitude": "51.392",
+        "longitude": "1.402",
+        "elevation (ft)": "51"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.402,
+          51.386
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "MARGATE",
+        "county": "Kent-stayed-Kent",
+        "gridref": "TR368707",
+        "latitude": "51.386",
+        "longitude": "1.402",
+        "elevation (ft)": "99"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           1.314,
           51.358
         ]
@@ -48824,6 +49286,27 @@
         "latitude": "52.637",
         "longitude": "-1.373",
         "elevation (ft)": "385"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.319,
+          52.634
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "MARKET-DEEPING-ETTON",
+        "county": "Northamptonshire",
+        "gridref": "TF138053",
+        "latitude": "52.634",
+        "longitude": "-0.319",
+        "elevation (ft)": "25"
       }
     },
     {
@@ -48929,6 +49412,27 @@
         "latitude": "52.481",
         "longitude": "-0.866",
         "elevation (ft)": "450"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.92,
+          52.489
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "MARKET-HARBOROUGH-ROSE-HILL",
+        "county": "Leicestershire",
+        "gridref": "SP734884",
+        "latitude": "52.489",
+        "longitude": "-0.920",
+        "elevation (ft)": "348"
       }
     },
     {
@@ -53325,6 +53829,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -0.731,
+          52.083
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "NEWPORT-PAGNELL-THE-CROFT",
+        "county": "Buckinghamshire",
+        "gridref": "SP870434",
+        "latitude": "52.083",
+        "longitude": "-0.731",
+        "elevation (ft)": "196"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -3.037,
           51.596
         ]
@@ -54095,6 +54620,48 @@
         "latitude": "51.736",
         "longitude": "0.148",
         "elevation (ft)": "250"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.872,
+          52.236
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "NORTHAMPTON-ASYLUM",
+        "county": "Northamptonshire",
+        "gridref": "SP771603",
+        "latitude": "52.236",
+        "longitude": "-0.872",
+        "elevation (ft)": "256"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.96,
+          52.244
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "NORTHAMPTON-ASYLUM",
+        "county": "Northamptonshire",
+        "gridref": "SP711612",
+        "latitude": "52.244",
+        "longitude": "-0.960",
+        "elevation (ft)": "399"
       }
     },
     {
@@ -57231,6 +57798,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -0.692,
+          51.632
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "PENN-RAYNERS",
+        "county": "Buckinghamshire",
+        "gridref": "SU906934",
+        "latitude": "51.632",
+        "longitude": "-0.692",
+        "elevation (ft)": "550"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -3.955,
           52.569
         ]
@@ -58568,6 +59156,27 @@
         "latitude": "55.426",
         "longitude": "-5.118",
         "elevation (ft)": "55"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.024,
+          51.525
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "PLAISTOW",
+        "county": "Essex",
+        "gridref": "TQ405826",
+        "latitude": "51.525",
+        "longitude": "0.024",
+        "elevation (ft)": "43"
       }
     },
     {
@@ -69698,6 +70307,27 @@
         "latitude": "50.614",
         "longitude": "-1.959",
         "elevation (ft)": "40"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.839,
+          51.936
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "SWANBOURNE-HOUSE",
+        "county": "Buckinghamshire",
+        "gridref": "SP799270",
+        "latitude": "51.936",
+        "longitude": "-0.839",
+        "elevation (ft)": "411"
       }
     },
     {
