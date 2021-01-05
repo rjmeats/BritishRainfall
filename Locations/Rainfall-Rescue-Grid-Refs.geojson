@@ -3198,6 +3198,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -3.294,
+          54.77
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "ASPATRIA-BRAYTON",
+        "county": "Cumberland",
+        "gridref": "NY168424",
+        "latitude": "54.770",
+        "longitude": "-3.294",
+        "elevation (ft)": "220"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -4.992,
           58.176
         ]
@@ -78350,27 +78371,6 @@
         "latitude": "54.800",
         "longitude": "-3.222",
         "elevation (ft)": "203"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -3.294,
-          54.77
-        ]
-      },
-      "properties": {
-        "marker-symbol": "circle-stroked",
-        "marker-size": "small",
-        "marker-color": "66ff33",
-        "name": "WIGTON-BRAYTON-HALL",
-        "county": "Cumberland",
-        "gridref": "NY168424",
-        "latitude": "54.770",
-        "longitude": "-3.294",
-        "elevation (ft)": "220"
       }
     },
     {

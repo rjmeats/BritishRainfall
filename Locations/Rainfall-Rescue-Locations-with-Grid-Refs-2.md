@@ -1,4 +1,4 @@
-Generation time: Sunday 20/12/2020 15:31:16 GMT
+Generation time: Tuesday 05/01/2021 19:19:29 GMT
 
 ## Locations L-Z
 
@@ -219,8 +219,7 @@ Generation time: Sunday 20/12/2020 15:31:16 GMT
 |[LINLITHGOW-ROCKVILLE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/LINLITHGOW-ROCKVILLE)|LINLITHGOW-ROCKVILLE.csv|NT003768|55.974|-3.599|260|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=55.974&lon=-3.599&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/55.974,-3.599,16)  |
 ||LINLITHGOW-ROCKVILLE-2.csv|NT003768|55.974|-3.599|260|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=55.974&lon=-3.599&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/55.974,-3.599,16)  |
 |[LINSLADE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/LINSLADE)|LINSLADE.csv|SP913250|51.916|-0.674|300|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=51.916&lon=-0.674&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/51.916,-0.674,16)  |
-|[LISBURN-PROSPECT-HILL](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/LISBURN-PROSPECT-HILL)|||||||
-|[LISBURN-SCHOOL](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/LISBURN-SCHOOL)|||||||
+|[LISBURN-PROSPECT-HILL-SCHOOL](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/LISBURN-PROSPECT-HILL-SCHOOL)|||||||
 |[LISKEARD-DEAN-TERRACE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/LISKEARD-DEAN-TERRACE)|||||||
 |[LISKEARD-PENMILDER](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/LISKEARD-PENMILDER)|||||||
 |[LISKEARD-ST-CLEER](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/LISKEARD-ST-CLEER)|||||||
@@ -383,12 +382,15 @@ Generation time: Sunday 20/12/2020 15:31:16 GMT
 |[LOCH-NEVIS-INVERIE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/LOCH-NEVIS-INVERIE)|LOCH-NEVIS-INVERIE.csv|NM774994|57.032|-5.670|15|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=57.032&lon=-5.670&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/57.032,-5.670,16)  |
 ||LOCH-NEVIS-INVERIE-2.csv|NM774994|57.032|-5.670|15|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=57.032&lon=-5.670&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/57.032,-5.670,16)  |
 ||LOCH-NEVIS-INVERIE-3.csv|NM774994|57.032|-5.670|15|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=57.032&lon=-5.670&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/57.032,-5.670,16)  |
+|[LOCH-OSSIAN-STRATHOSSIAN-HOUSE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/LOCH-OSSIAN-STRATHOSSIAN-HOUSE)|||||||
+|[LOCH-PATTACK](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/LOCH-PATTACK)|||||||
 |[LOCH-QUOICH-LOAN](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/LOCH-QUOICH-LOAN)|LOCH-QUOICH-LOAN.csv|NM934992|57.037|-5.407|650|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=57.037&lon=-5.407&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/57.037,-5.407,16)  |
 |[LOCH-RANNOCH-DALL](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/LOCH-RANNOCH-DALL)|LOCH-RANNOCH-DALL.csv|NN594565|56.679|-4.297|722|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=56.679&lon=-4.297&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/56.679,-4.297,16)  |
 ||LOCH-RANNOCH-DALL-JUSTONEMONTH.csv|NN594565|56.679|-4.297|722|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=56.679&lon=-4.297&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/56.679,-4.297,16)  |
 |[LOCH-RANNOCH-STATION](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/LOCH-RANNOCH-STATION)|LOCH-RANNOCH-STATION.csv|NN424578|56.685|-4.575|1007|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=56.685&lon=-4.575&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/56.685,-4.575,16)  |
 |[LOCH-RYAN-LIGHTHOUSE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/LOCH-RYAN-LIGHTHOUSE)|LOCH-RYAN-LIGHTHOUSE.csv|NX0613068626|54.974|-5.031|10|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=54.974&lon=-5.031&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/54.974,-5.031,16)  |
 |[LOCH-SHIEL-GLENFINNAN](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/LOCH-SHIEL-GLENFINNAN)|LOCH-SHIEL-GLENFINNAN.csv|NM905808|56.871|-5.439|50|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=56.871&lon=-5.439&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/56.871,-5.439,16)  |
+|[LOCH-SHIEL-POLLOCH-HOUSE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/LOCH-SHIEL-POLLOCH-HOUSE)|||||||
 |[LOCH-SUNART-GLENBORRODALE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/LOCH-SUNART-GLENBORRODALE)|LOCH-SUNART-GLENBORRODALE.csv|NM608610|56.679|-5.907|60|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=56.679&lon=-5.907&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/56.679,-5.907,16)  |
 |[LOCH-TORRIDON-BENDAMPH](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/LOCH-TORRIDON-BENDAMPH)|LOCH-TORRIDON-BENDAMPH.csv|NG889542|57.529|-5.527|36|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=57.529&lon=-5.527&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/57.529,-5.527,16)  |
 |[LOCH-VENACHAR](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/LOCH-VENACHAR)|LOCH-VENACHAR.csv|NN598064|56.229|-4.263|275|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=56.229&lon=-4.263&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/56.229,-4.263,16)  |
@@ -1630,6 +1632,9 @@ Generation time: Sunday 20/12/2020 15:31:16 GMT
 |[ROWLANDS-GILL-CHOPWELLWOOD](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/ROWLANDS-GILL-CHOPWELLWOOD)|ROWLANDS-GILL-CHOPWELLWOOD.csv|NZ136580|54.917|-1.789|446|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=54.917&lon=-1.789&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/54.917,-1.789,16)  |
 |[ROWTON-HOLLY-BANK](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/ROWTON-HOLLY-BANK)|||||||
 |[ROYAL-SOCIETY](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/ROYAL-SOCIETY)|ROYAL-SOCIETY.csv|TQ307808|51.511|-0.117|35|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=51.511&lon=-0.117&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/51.511,-0.117,16)  |
+|[ROYBRIDGE-ALLT-LEACHDACH](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/ROYBRIDGE-ALLT-LEACHDACH)|||||||
+|[ROYBRIDGE-KINCHILLI](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/ROYBRIDGE-KINCHILLI)|||||||
+|[ROYBRIDGE-LAIRIG-ROAD](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/ROYBRIDGE-LAIRIG-ROAD)|||||||
 |[ROYSTON](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/ROYSTON)|ROYSTON.csv|TL357403|52.045|-0.023|269|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=52.045&lon=-0.023&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/52.045,-0.023,16)  |
 |[ROYSTON-BARLEY](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/ROYSTON-BARLEY)|ROYSTON-BARLEY.csv|TL399388|52.030|0.038|300|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=52.030&lon=0.038&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/52.030,0.038,16)  |
 |[ROYSTON-EARLS-HILL-HOUSE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/ROYSTON-EARLS-HILL-HOUSE)|ROYSTON-EARLS-HILL-HOUSE.csv|TL3545440689|52.048|-0.026|225|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=52.048&lon=-0.026&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/52.048,-0.026,16)  |
@@ -2820,7 +2825,6 @@ Generation time: Sunday 20/12/2020 15:31:16 GMT
 |[WIGGENHALL-ST-GERMANS-SLUICE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/WIGGENHALL-ST-GERMANS-SLUICE)|WIGGENHALL-ST-GERMANS-SLUICE.csv|TF588139|52.699|0.349|9|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=52.699&lon=0.349&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/52.699,0.349,16)  |
 |[WIGMORE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/WIGMORE)|WIGMORE.csv|SO160689|52.312|-3.234|443|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=52.312&lon=-3.234&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/52.312,-3.234,16)  |
 |[WIGTON-AIKBANK](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/WIGTON-AIKBANK)|WIGTON-AIKBANK.csv|NY215457|54.800|-3.222|203|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=54.800&lon=-3.222&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/54.800,-3.222,16)  |
-|[WIGTON-BRAYTON-HALL](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/WIGTON-BRAYTON-HALL)|WIGTON-BRAYTON-HALL.csv|NY168424|54.770|-3.294|220|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=54.770&lon=-3.294&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/54.770,-3.294,16)  |
 |[WIGTON-BROOKFIELD](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/WIGTON-BROOKFIELD)|WIGTON-BROOKFIELD.csv|NY242478|54.819|-3.181|124|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=54.819&lon=-3.181&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/54.819,-3.181,16)  |
 |[WIGTON-HALL](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/WIGTON-HALL)|WIGTON-HALL.csv|NY252482|54.823|-3.166|124|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=54.823&lon=-3.166&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/54.823,-3.166,16)  |
 |[WILLESDEN-GREEN-STRODE-ROAD](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/WILLESDEN-GREEN-STRODE-ROAD)|WILLESDEN-GREEN-STRODE-ROAD.csv|TQ224846|51.547|-0.236|150|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=51.547&lon=-0.236&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/51.547,-0.236,16)  |
