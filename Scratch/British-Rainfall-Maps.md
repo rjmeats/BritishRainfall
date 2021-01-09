@@ -10,7 +10,8 @@ Contents:
 * [Devon and Cornwall](#devon-and-cornwall)
 * [Eastern England](#eastern-england)
 * [The Lake District](#the-lake-district)
-
+* [The Bradford area](#the-bradford-area)
+* [The Upper Tees area](#the-upper-tees-area)
 
 # Great Britain and Ireland
 
@@ -96,5 +97,30 @@ See the chapter entitled '*The Most Rainy Part of England*' in BR 1896 for the i
 BR 1931 has a section labelled *Rain-gauges in and near Borrowdale* which starts on P17 describing the state of the Seathwaite area rain gauges (including The Stye and Stye Head Tarn) following an inspection visit by Dr Glasspoole.
 
 ![](BR-Map-Images/Seathwaite-Area-BR-1931-P18.jpg)
+
+
+# The Bradford area 
+
+## *British Rainfall* 1876, p54
+
+![](BR-Map-Images/Bradford-WW-BR-1876-P54.jpg)
+
+The Key to the map is on p206-208 in the main table of stations:
+||||
+|----|----|----|
+|![](BR-Map-Images/Bradford-WW-Key-BR-1876-P206.jpg)|![](BR-Map-Images/Bradford-WW-Key-BR-1876-P207.jpg)|![](BR-Map-Images/Bradford-WW-Key-BR-1876-P208.jpg)|
+||||
+
+# The Upper Tees area
+
+## *British Rainfall* 1876, p58
+
+![](BR-Map-Images/Upper-Tees-BR-1876-P58.jpg)
+
+The Key to the map is on p209-210 in the main table of stations:
+|||
+|----|----|
+|![](BR-Map-Images/Upper-Tees-Key-BR-1876-P209.jpg)|![](BR-Map-Images/Upper-Tees-Key-BR-1876-P210.jpg)|
+|||
 
 
