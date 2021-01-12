@@ -1,4 +1,4 @@
-Generation time: Tuesday 05/01/2021 19:19:29 GMT
+Generation time: Tuesday 12/01/2021 22:22:51 GMT
 
 
 [MO-2020] indicates a location which contributed to the [Met Office 2020 UK Climate Report](https://www.metoffice.gov.uk/research/climate/maps-and-data/about/state-of-climate):
@@ -88,8 +88,8 @@ Generation time: Tuesday 05/01/2021 19:19:29 GMT
 * [AIRDRIE-HILLEND](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/AIRDRIE-HILLEND)
 * [AISLABY-PARK-HALL](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/AISLABY-PARK-HALL)
 * [AITNACH](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/AITNACH)
-* [ALCESTER-LAMBOURNE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/ALCESTER-LAMBOURNE)
 * [ALCESTER-RAGLEY](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/ALCESTER-RAGLEY)
+* [ALCESTER-SAMBOURNE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/ALCESTER-SAMBOURNE)
 * [ALDBOROUGH-ALDRINGHAM](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/ALDBOROUGH-ALDRINGHAM)
 * [ALDERLEY-RECTORY](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/ALDERLEY-RECTORY)
 * [ALDERNEY-HARBOUR](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/ALDERNEY-HARBOUR)
@@ -3683,7 +3683,7 @@ Generation time: Tuesday 05/01/2021 19:19:29 GMT
 * [RATHCULLIHEEN](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/RATHCULLIHEEN)
 * [RATHFRILAND](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/RATHFRILAND)
 * [RATHFRYLAND-BALLYNAGAPPOGE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/RATHFRYLAND-BALLYNAGAPPOGE)
-* [RATHMULLAN-FORT-ROYAL](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/RATHMULLAN-FORT-ROYAL)
+* [RATHMULLEN-FORT-ROYAL](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/RATHMULLEN-FORT-ROYAL)
 * [RAVENGLASS-THE-GROVE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/RAVENGLASS-THE-GROVE)
 * [RAVENSTHORPE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/RAVENSTHORPE)
 * [RAWTENSTALL-CEMETERY](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/RAWTENSTALL-CEMETERY)
