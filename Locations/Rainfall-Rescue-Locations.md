@@ -1,9 +1,9 @@
-Generation time: Sunday 17/01/2021 16:28:38 GMT
+Generation time: Monday 18/01/2021 09:12:09 GMT
 
 
 [MO-2020] indicates a location which contributed to the [Met Office 2020 UK Climate Report](https://www.metoffice.gov.uk/research/climate/maps-and-data/about/state-of-climate):
 
-4919 locations under [https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA):
+4920 locations under [https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA):
 
 * [ABBEY-LEIX-BLANDSFORT](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/ABBEY-LEIX-BLANDSFORT)
 * [ABBEY-ST-BATHANS](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/ABBEY-ST-BATHANS)
@@ -1891,6 +1891,7 @@ Generation time: Sunday 17/01/2021 16:28:38 GMT
 * [GLEN-MEANN](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/GLEN-MEANN)
 * [GLEN-MUICK](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/GLEN-MUICK)
 * [GLEN-MUICK-INCHNABOBART](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/GLEN-MUICK-INCHNABOBART)
+* [GLEN-PROSEN-LEDNATHIE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/GLEN-PROSEN-LEDNATHIE)
 * [GLEN-SPEY-MEALGARVE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/GLEN-SPEY-MEALGARVE)
 * [GLEN-STRATHFARRER](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/GLEN-STRATHFARRER)
 * [GLEN-URQUHART](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/GLEN-URQUHART)
