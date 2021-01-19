@@ -531,6 +531,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -3.177,
+          57.042
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "ABERGELDIE-CASTLE",
+        "county": "Aberdeenshire",
+        "gridref": "NO287952",
+        "latitude": "57.042",
+        "longitude": "-3.177",
+        "elevation (ft)": "850"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -4.062,
           51.983
         ]
@@ -20754,6 +20775,69 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -4.982,
+          56.96
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "CLUNES-KILMALLIE",
+        "county": "Inverness",
+        "gridref": "NN188894",
+        "latitude": "56.960",
+        "longitude": "-4.982",
+        "elevation (ft)": "1050"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.961,
+          56.952
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "CLUNES-LOCH-LOCHY-WW",
+        "county": "Inverness",
+        "gridref": "NN200885",
+        "latitude": "56.952",
+        "longitude": "-4.961",
+        "elevation (ft)": "130"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.963,
+          56.952
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "CLUNES-LOCH-LOCHY-WW",
+        "county": "Inverness",
+        "gridref": "NN199884",
+        "latitude": "56.952",
+        "longitude": "-4.963",
+        "elevation (ft)": "110"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -2.498,
           57.189
         ]
@@ -35601,6 +35685,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -4.956,
+          56.715
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "GLENLEVEN-KINLOCHMORE",
+        "county": "Inverness",
+        "gridref": "NN192621",
+        "latitude": "56.715",
+        "longitude": "-4.956",
+        "elevation (ft)": "115"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -4.865,
           56.745
         ]
@@ -35678,6 +35783,48 @@
         "latitude": "56.585",
         "longitude": "-4.358",
         "elevation (ft)": "700"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.935,
+          57.158
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "GLENMORISTON-CEANNACROC",
+        "county": "Inverness",
+        "gridref": "NH226113",
+        "latitude": "57.158",
+        "longitude": "-4.935",
+        "elevation (ft)": "450"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.623,
+          57.216
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "GLENMORISTON-INVERMORISTON",
+        "county": "Inverness",
+        "gridref": "NH417170",
+        "latitude": "57.216",
+        "longitude": "-4.623",
+        "elevation (ft)": "70"
       }
     },
     {
@@ -53003,6 +53150,27 @@
         "latitude": "57.032",
         "longitude": "-5.670",
         "elevation (ft)": "15"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.613,
+          56.824
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "LOCH-OSSIAN-STRATHOSSIAN-HOUSE",
+        "county": "Inverness",
+        "gridref": "NN406734",
+        "latitude": "56.824",
+        "longitude": "-4.613",
+        "elevation (ft)": "1180"
       }
     },
     {
@@ -70517,6 +70685,69 @@
         "latitude": "51.511",
         "longitude": "-0.117",
         "elevation (ft)": "35"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.861,
+          56.87
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "ROYBRIDGE-ALLT-LEACHDACH",
+        "county": "Inverness",
+        "gridref": "NN257790",
+        "latitude": "56.870",
+        "longitude": "-4.861",
+        "elevation (ft)": "650"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.83,
+          56.889
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "ROYBRIDGE-KINCHILLI",
+        "county": "Inverness",
+        "gridref": "NN277811",
+        "latitude": "56.889",
+        "longitude": "-4.830",
+        "elevation (ft)": "407"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.824,
+          56.837
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "ROYBRIDGE-LAIRIG-ROAD",
+        "county": "Inverness",
+        "gridref": "NN278753",
+        "latitude": "56.837",
+        "longitude": "-4.824",
+        "elevation (ft)": "1650"
       }
     },
     {
