@@ -52527,6 +52527,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -3.952,
+          52.339
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "LLANAFAN-CROSSWOOD-PARK",
+        "county": "Cardiganshire",
+        "gridref": "SN671730",
+        "latitude": "52.339",
+        "longitude": "-3.952",
+        "elevation (ft)": "210"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -4.105,
           52.831
         ]
