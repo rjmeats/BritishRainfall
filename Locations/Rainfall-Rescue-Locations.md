@@ -1,9 +1,9 @@
-Generation time: Tuesday 19/01/2021 08:34:46 GMT
+Generation time: Thursday 21/01/2021 08:45:40 GMT
 
 
 [MO-2020] indicates a location which contributed to the [Met Office 2020 UK Climate Report](https://www.metoffice.gov.uk/research/climate/maps-and-data/about/state-of-climate):
 
-4921 locations under [https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA):
+4920 locations under [https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA):
 
 * [ABBEY-LEIX-BLANDSFORT](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/ABBEY-LEIX-BLANDSFORT)
 * [ABBEY-ST-BATHANS](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/ABBEY-ST-BATHANS)
@@ -620,7 +620,6 @@ Generation time: Tuesday 19/01/2021 08:34:46 GMT
 * [BRADFORD-STUBDEN-RES](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/BRADFORD-STUBDEN-RES)
 * [BRADFORD-THE-EXCHANGE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/BRADFORD-THE-EXCHANGE)
 * [BRADFORD-THORNTON-MOOR-FILTERS](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/BRADFORD-THORNTON-MOOR-FILTERS)
-* [BRADFORD-THORNTON-MOOR-RES](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/BRADFORD-THORNTON-MOOR-RES)
 * [BRADFORD-WINSLEY-MANOR](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/BRADFORD-WINSLEY-MANOR)
 * [BRADNINCH](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/BRADNINCH)
 * [BRADNINCH-BOWLEY-CLOSE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/BRADNINCH-BOWLEY-CLOSE)
@@ -2811,7 +2810,7 @@ Generation time: Tuesday 19/01/2021 08:34:46 GMT
 * [LLYN-BRAN](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/LLYN-BRAN)
 * [LLYN-Y-FAN-FACH-BWAR-LLYN](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/LLYN-Y-FAN-FACH-BWAR-LLYN)
 * [LLYN-Y-FAN-FACH-NANT-COCH](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/LLYN-Y-FAN-FACH-NANT-COCH)
-* [LLYN-Y-FAN-FACH-TROED-Y-FACH](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/LLYN-Y-FAN-FACH-TROED-Y-FACH)
+* [LLYN-Y-FAN-FACH-TROED-Y-FOEL](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/LLYN-Y-FAN-FACH-TROED-Y-FOEL)
 * [LLYN-Y-FAN-FACH-WAEN-SYCHLWCH](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/LLYN-Y-FAN-FACH-WAEN-SYCHLWCH)
 * [LLYSDINAM-NEWBRIDGE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/LLYSDINAM-NEWBRIDGE)
 * [LOCH-A-BHRAOIN](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/LOCH-A-BHRAOIN)
@@ -4517,12 +4516,12 @@ Generation time: Tuesday 19/01/2021 08:34:46 GMT
 * [UPPER-FARG-MAIN-BANK](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/UPPER-FARG-MAIN-BANK)
 * [UPPER-FARG-PLAINS](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/UPPER-FARG-PLAINS)
 * [UPPER-GLENGYLE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/UPPER-GLENGYLE)
-* [UPPER-USK-1](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/UPPER-USK-1)
-* [UPPER-USK-2](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/UPPER-USK-2)
-* [UPPER-USK-3](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/UPPER-USK-3)
-* [UPPER-USK-4](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/UPPER-USK-4)
-* [UPPER-USK-5](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/UPPER-USK-5)
-* [UPPER-USK-6](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/UPPER-USK-6)
+* [UPPER-USK-FIVE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/UPPER-USK-FIVE)
+* [UPPER-USK-FOUR](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/UPPER-USK-FOUR)
+* [UPPER-USK-ONE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/UPPER-USK-ONE)
+* [UPPER-USK-SIX](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/UPPER-USK-SIX)
+* [UPPER-USK-THREE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/UPPER-USK-THREE)
+* [UPPER-USK-TWO](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/UPPER-USK-TWO)
 * [UPPINGHAM-RIDLINGTON](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/UPPINGHAM-RIDLINGTON)
 * [UPPINGHAM-WEST-DEYNE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/UPPINGHAM-WEST-DEYNE)
 * [UPTON-ON-SEVERN-THE-EADES](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/UPTON-ON-SEVERN-THE-EADES)
