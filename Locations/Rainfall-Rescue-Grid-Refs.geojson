@@ -1560,6 +1560,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -2.24,
+          53.282
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "ALDERLEY-RECTORY",
+        "county": "Cheshire",
+        "gridref": "SJ841761",
+        "latitude": "53.282",
+        "longitude": "-2.240",
+        "elevation (ft)": "310"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           0.961,
           52.072
         ]
@@ -2505,6 +2526,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -3.22,
+          52.463
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "ANCHOR-KERRY-FOREST",
+        "county": "Montgomeryshire",
+        "gridref": "SO172857",
+        "latitude": "52.463",
+        "longitude": "-3.220",
+        "elevation (ft)": "1250"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -2.567,
           55.517
         ]
@@ -2519,6 +2561,27 @@
         "latitude": "55.517",
         "longitude": "-2.567",
         "elevation (ft)": "210"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.22,
+          53.09
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "ANNACARTER-SCHOOLHOUSE",
+        "county": "Wicklow",
+        "gridref": "IO1928305780",
+        "latitude": "53.090",
+        "longitude": "-6.220",
+        "elevation (ft)": "750"
       }
     },
     {
@@ -2750,6 +2813,27 @@
         "latitude": "57.443",
         "longitude": "-5.796",
         "elevation (ft)": "70"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.599,
+          53.356
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "APPLETON-RES",
+        "county": "Cheshire",
+        "gridref": "SJ602845",
+        "latitude": "53.356",
+        "longitude": "-2.599",
+        "elevation (ft)": "120"
       }
     },
     {
@@ -4598,6 +4682,69 @@
         "latitude": "52.909",
         "longitude": "-3.598",
         "elevation (ft)": "537"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.181,
+          53.609
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "BALBRIGGAN",
+        "county": "Dublin",
+        "gridref": "IO2042963622",
+        "latitude": "53.609",
+        "longitude": "-6.181",
+        "elevation (ft)": "57"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.16,
+          53.587
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "BALBRIGGAN",
+        "county": "Dublin",
+        "gridref": "IO2186661181",
+        "latitude": "53.587",
+        "longitude": "-6.160",
+        "elevation (ft)": "211"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.16,
+          53.587
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "BALBRIGGAN",
+        "county": "Dublin",
+        "gridref": "IO2186661180",
+        "latitude": "53.587",
+        "longitude": "-6.160",
+        "elevation (ft)": "211"
       }
     },
     {
@@ -8007,6 +8154,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -3.278,
+          52.618
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "BERRIEW-GLYNCOGEN",
+        "county": "Montgomeryshire",
+        "gridref": "SJ136030",
+        "latitude": "52.618",
+        "longitude": "-3.278",
+        "elevation (ft)": "415"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -1.998,
           55.769
         ]
@@ -11149,6 +11317,27 @@
         "gridref": "SJ927657",
         "latitude": "53.188",
         "longitude": "-2.111",
+        "elevation (ft)": "590"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.124,
+          53.187
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "BOSLEY-RES",
+        "county": "Cheshire",
+        "gridref": "SJ918656",
+        "latitude": "53.187",
+        "longitude": "-2.124",
         "elevation (ft)": "500"
       }
     },
@@ -11528,6 +11717,90 @@
         "latitude": "51.834",
         "longitude": "-2.189",
         "elevation (ft)": "232"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.368,
+          53.378
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "BOWDON-MIX",
+        "county": "Cheshire",
+        "gridref": "SJ756869",
+        "latitude": "53.378",
+        "longitude": "-2.368",
+        "elevation (ft)": "211"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.356,
+          53.376
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "BOWDON-MIX",
+        "county": "Cheshire",
+        "gridref": "SJ764866",
+        "latitude": "53.376",
+        "longitude": "-2.356",
+        "elevation (ft)": "165"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.365,
+          53.378
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "BOWDON-MIX",
+        "county": "Cheshire",
+        "gridref": "SJ758869",
+        "latitude": "53.378",
+        "longitude": "-2.365",
+        "elevation (ft)": "238"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.362,
+          53.385
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "BOWDON-MIX",
+        "county": "Cheshire",
+        "gridref": "SJ760876",
+        "latitude": "53.385",
+        "longitude": "-2.362",
+        "elevation (ft)": "185"
       }
     },
     {
@@ -13446,6 +13719,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -2.015,
+          53.441
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "BROADBOTTOM-HAREWOOD-LODGE",
+        "county": "Cheshire",
+        "gridref": "SJ991938",
+        "latitude": "53.441",
+        "longitude": "-2.015",
+        "elevation (ft)": "525"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -8.635,
           52.801
         ]
@@ -13706,8 +14000,8 @@
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
         "marker-color": "66ff33",
-        "name": "BROMLEY-WEST-WICKHAM",
-        "county": "Kent-stayed-Kent",
+        "name": "BROMSBERROW-PUMPING-STATION",
+        "county": "Gloucestershire",
         "gridref": "SO738332",
         "latitude": "51.997",
         "longitude": "-2.383",
@@ -14006,6 +14300,48 @@
         "latitude": "51.748",
         "longitude": "-0.014",
         "elevation (ft)": "118"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.032,
+          53.49
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "BRUSHES",
+        "county": "Cheshire",
+        "gridref": "SJ980993",
+        "latitude": "53.490",
+        "longitude": "-2.032",
+        "elevation (ft)": "480"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.014,
+          53.489
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "BRUSHES",
+        "county": "Cheshire",
+        "gridref": "SJ992991",
+        "latitude": "53.489",
+        "longitude": "-2.014",
+        "elevation (ft)": "616"
       }
     },
     {
@@ -15420,6 +15756,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -1.864,
+          53.506
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "BUTTERLEY-MOSS",
+        "county": "Cheshire",
+        "gridref": "SE091010",
+        "latitude": "53.506",
+        "longitude": "-1.864",
+        "elevation (ft)": "1400"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -3.277,
           54.541
         ]
@@ -15630,6 +15987,48 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -3.44,
+          52.533
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "CAERSWS-LLANWNOG",
+        "county": "Montgomeryshire",
+        "gridref": "SO024938",
+        "latitude": "52.533",
+        "longitude": "-3.440",
+        "elevation (ft)": "480"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.429,
+          52.515
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "CAERSWS-LLANWNOG",
+        "county": "Montgomeryshire",
+        "gridref": "SO031918",
+        "latitude": "52.515",
+        "longitude": "-3.429",
+        "elevation (ft)": "410"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -0.316,
           53.494
         ]
@@ -15665,6 +16064,27 @@
         "latitude": "53.501",
         "longitude": "-0.284",
         "elevation (ft)": "280"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.163,
+          53.359
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "CALDY-MANOR",
+        "county": "Cheshire",
+        "gridref": "SJ227853",
+        "latitude": "53.359",
+        "longitude": "-3.163",
+        "elevation (ft)": "131"
       }
     },
     {
@@ -16463,6 +16883,48 @@
         "latitude": "55.225",
         "longitude": "-3.820",
         "elevation (ft)": "300"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.85,
+          52.15
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "CAPPOQUIN-HOUSE",
+        "county": "Waterford",
+        "gridref": "IX1028499760",
+        "latitude": "52.150",
+        "longitude": "-7.850",
+        "elevation (ft)": "283"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.857,
+          52.187
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "CAPPOQUIN-MOUNT-MELLERAY",
+        "county": "Waterford",
+        "gridref": "IS0982003927",
+        "latitude": "52.187",
+        "longitude": "-7.857",
+        "elevation (ft)": "760"
       }
     },
     {
@@ -17436,6 +17898,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -7.436,
+          52.335
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "CARRICK-ON-SUIR-SESKIN",
+        "county": "Waterford",
+        "gridref": "IS3849020516",
+        "latitude": "52.335",
+        "longitude": "-7.436",
+        "elevation (ft)": "542"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -5.774,
           54.73
         ]
@@ -18017,6 +18500,69 @@
         "latitude": "55.870",
         "longitude": "-5.013",
         "elevation (ft)": "120"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.176,
+          51.526
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "CASTLE-TOWNSHEND-GLEN-BARRAHANE",
+        "county": "Cork",
+        "gridref": "IW1847030985",
+        "latitude": "51.526",
+        "longitude": "-9.176",
+        "elevation (ft)": "25"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.174,
+          51.527
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "CASTLE-TOWNSHEND-SEAFIELD",
+        "county": "Cork",
+        "gridref": "IW1858531151",
+        "latitude": "51.527",
+        "longitude": "-9.174",
+        "elevation (ft)": "40"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.202,
+          52.806
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "CASTLECOMER-HOUSE",
+        "county": "Kilkenny",
+        "gridref": "IS5386673047",
+        "latitude": "52.806",
+        "longitude": "-7.202",
+        "elevation (ft)": "380"
       }
     },
     {
@@ -20775,6 +21321,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -4.89,
+          51.862
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "CLARBESTON-PENTRY-PARK",
+        "county": "Pembrokeshire",
+        "gridref": "SN011221",
+        "latitude": "51.862",
+        "longitude": "-4.890",
+        "elevation (ft)": "320"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           0.608,
           52.155
         ]
@@ -21237,6 +21804,48 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -7.704,
+          52.357
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "CLONMEL-BRUCE-VILLA",
+        "county": "Tipperary",
+        "gridref": "IS2022522832",
+        "latitude": "52.357",
+        "longitude": "-7.704",
+        "elevation (ft)": "110"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.684,
+          52.352
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "CLONMEL-GLENAM",
+        "county": "Tipperary",
+        "gridref": "IS2157522268",
+        "latitude": "52.352",
+        "longitude": "-7.684",
+        "elevation (ft)": "80"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -7.114,
           54.768
         ]
@@ -21419,6 +22028,27 @@
         "latitude": "58.310",
         "longitude": "-3.212",
         "elevation (ft)": "133"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.642,
+          52.495
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "CLYWEDOG-ABER-BIGA",
+        "county": "Montgomeryshire",
+        "gridref": "SN886898",
+        "latitude": "52.495",
+        "longitude": "-3.642",
+        "elevation (ft)": "900"
       }
     },
     {
@@ -22413,6 +23043,48 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -8.402,
+          51.9
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "CORK-BLACKROCK",
+        "county": "Cork",
+        "gridref": "IW7236571984",
+        "latitude": "51.900",
+        "longitude": "-8.402",
+        "elevation (ft)": "30"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.475,
+          51.903
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "CORK-HOSPITAL",
+        "county": "Cork",
+        "gridref": "IW6737272364",
+        "latitude": "51.903",
+        "longitude": "-8.475",
+        "elevation (ft)": "39"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -8.47,
           51.897
         ]
@@ -22469,6 +23141,27 @@
         "latitude": "56.721",
         "longitude": "-5.244",
         "elevation (ft)": "13"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.835,
+          52.638
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "CORRIS-ESGAIRGEILIOG-CAMP",
+        "county": "Montgomeryshire",
+        "gridref": "SH759060",
+        "latitude": "52.638",
+        "longitude": "-3.835",
+        "elevation (ft)": "246"
       }
     },
     {
@@ -24786,6 +25479,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -10.143,
+          51.758
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "DARRYNANE-ABBEY",
+        "county": "Kerry",
+        "gridref": "IV5212858331",
+        "latitude": "51.758",
+        "longitude": "-10.143",
+        "elevation (ft)": "13"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           0.207,
           51.446
         ]
@@ -25598,6 +26312,27 @@
         "latitude": "52.658",
         "longitude": "1.033",
         "elevation (ft)": "165"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.422,
+          52.853
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "DERRY-CASTLE-KILLALOE",
+        "county": "Tipperary",
+        "gridref": "IR7164878077",
+        "latitude": "52.853",
+        "longitude": "-8.422",
+        "elevation (ft)": "580"
       }
     },
     {
@@ -27432,6 +28167,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -6.17,
+          53.294
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "DUBLIN-BLACKROCK",
+        "county": "Dublin",
+        "gridref": "IO2204228572",
+        "latitude": "53.294",
+        "longitude": "-6.170",
+        "elevation (ft)": "96"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -6.253,
           53.335
         ]
@@ -27488,6 +28244,27 @@
         "latitude": "53.335",
         "longitude": "-6.252",
         "elevation (ft)": "35"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.35,
+          53.364
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "DUBLIN-ORDNANCE-SURVEY-OFFICE",
+        "county": "Dublin",
+        "gridref": "IO0985336090",
+        "latitude": "53.364",
+        "longitude": "-6.350",
+        "elevation (ft)": "159"
       }
     },
     {
@@ -28159,6 +28936,111 @@
         "gridref": "NO373297",
         "latitude": "56.455",
         "longitude": "-3.019",
+        "elevation (ft)": "50"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.976,
+          55.18
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "DUNFANAGHY",
+        "county": "Donegal",
+        "gridref": "IC0157036916",
+        "latitude": "55.180",
+        "longitude": "-7.976",
+        "elevation (ft)": "38"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.988,
+          55.19
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "DUNFANAGHY",
+        "county": "Donegal",
+        "gridref": "IC0083338061",
+        "latitude": "55.190",
+        "longitude": "-7.988",
+        "elevation (ft)": "163"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.973,
+          55.179
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "DUNFANAGHY",
+        "county": "Donegal",
+        "gridref": "IC0178636818",
+        "latitude": "55.179",
+        "longitude": "-7.973",
+        "elevation (ft)": "11"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.975,
+          55.177
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "DUNFANAGHY",
+        "county": "Donegal",
+        "gridref": "IC0166136639",
+        "latitude": "55.177",
+        "longitude": "-7.975",
+        "elevation (ft)": "30"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.974,
+          55.182
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "DUNFANAGHY",
+        "county": "Donegal",
+        "gridref": "IC0172737167",
+        "latitude": "55.182",
+        "longitude": "-7.974",
         "elevation (ft)": "50"
       }
     },
@@ -31002,6 +31884,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -6.702,
+          52.511
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "ENNISCORTHY-BALLYHYLAND",
+        "county": "Wexford",
+        "gridref": "IS8819140769",
+        "latitude": "52.511",
+        "longitude": "-6.702",
+        "elevation (ft)": "365"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -7.731,
           54.261
         ]
@@ -32493,6 +33396,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -8.267,
+          52.138
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "FERMOY-GAS-WORKS",
+        "county": "Cork",
+        "gridref": "IW8180498489",
+        "latitude": "52.138",
+        "longitude": "-8.267",
+        "elevation (ft)": "75"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           0.087,
           51.93
         ]
@@ -33116,6 +34040,90 @@
         "latitude": "54.282",
         "longitude": "-2.972",
         "elevation (ft)": "250"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.977,
+          51.994
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "FISHGUARD-CASTLE-HILL",
+        "county": "Pembrokeshire",
+        "gridref": "SM956370",
+        "latitude": "51.994",
+        "longitude": "-4.977",
+        "elevation (ft)": "200"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.995,
+          52.004
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "FISHGUARD-GOODWICK-STATION",
+        "county": "Pembrokeshire",
+        "gridref": "SM945382",
+        "latitude": "52.004",
+        "longitude": "-4.995",
+        "elevation (ft)": "57"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.993,
+          51.964
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "FISHGUARD-LANGTON-DWRBACH",
+        "county": "Pembrokeshire",
+        "gridref": "SM944337",
+        "latitude": "51.964",
+        "longitude": "-4.993",
+        "elevation (ft)": "320"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.963,
+          51.957
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "FISHGUARD-TRECWN",
+        "county": "Pembrokeshire",
+        "gridref": "SM965328",
+        "latitude": "51.957",
+        "longitude": "-4.963",
+        "elevation (ft)": "320"
       }
     },
     {
@@ -33816,6 +34824,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -6.946,
+          52.387
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "FOULKESMILL-LONGRAIGUE",
+        "county": "Wexford",
+        "gridref": "IS7178626702",
+        "latitude": "52.387",
+        "longitude": "-6.946",
+        "elevation (ft)": "210"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -2.17,
           53.878
         ]
@@ -34467,6 +35496,48 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -9.062,
+          53.279
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "GALWAY-QUEENS-COLLEGE",
+        "county": "Galway",
+        "gridref": "IM2923625926",
+        "latitude": "53.279",
+        "longitude": "-9.062",
+        "elevation (ft)": "30"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.536,
+          52.65
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "GAM-ABERCANNON-FARM",
+        "county": "Montgomeryshire",
+        "gridref": "SH962069",
+        "latitude": "52.650",
+        "longitude": "-3.536",
+        "elevation (ft)": "800"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -0.495,
           54.188
         ]
@@ -34523,6 +35594,27 @@
         "latitude": "54.173",
         "longitude": "-0.451",
         "elevation (ft)": "565"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.633,
+          52.018
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "GAP-OF-DUNLOE",
+        "county": "Kerry",
+        "gridref": "IV8792586344",
+        "latitude": "52.018",
+        "longitude": "-9.633",
+        "elevation (ft)": "75"
       }
     },
     {
@@ -34817,6 +35909,27 @@
         "latitude": "52.675",
         "longitude": "-3.548",
         "elevation (ft)": "1370"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.519,
+          52.668
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "GARTHBIBIO-LLUESTFAWR",
+        "county": "Montgomeryshire",
+        "gridref": "SH974089",
+        "latitude": "52.668",
+        "longitude": "-3.519",
+        "elevation (ft)": "990"
       }
     },
     {
@@ -36840,6 +37953,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -5.043,
+          52.015
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "GOODWICK-TRENEWYDD",
+        "county": "Pembrokeshire",
+        "gridref": "SM913396",
+        "latitude": "52.015",
+        "longitude": "-5.043",
+        "elevation (ft)": "300"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -0.873,
           53.703
         ]
@@ -36938,6 +38072,27 @@
         "latitude": "55.845",
         "longitude": "-3.049",
         "elevation (ft)": "560"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.993,
+          52.651
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "GORESBRIDGE-BARRAGHCORE",
+        "county": "Kilkenny",
+        "gridref": "IS6817055959",
+        "latitude": "52.651",
+        "longitude": "-6.993",
+        "elevation (ft)": "130"
       }
     },
     {
@@ -41208,6 +42363,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -4.967,
+          51.799
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "HAVERFORDWEST-HOSPITAL-GROUNDS",
+        "county": "Pembrokeshire",
+        "gridref": "SM955153",
+        "latitude": "51.799",
+        "longitude": "-4.967",
+        "elevation (ft)": "133"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -4.886,
           51.784
         ]
@@ -42939,7 +44115,7 @@
         "marker-size": "small",
         "marker-color": "66ff33",
         "name": "HIGHGATE-NURSERIES",
-        "county": "Middlesex-became-London",
+        "county": "Middlesex-stayed-Middlesex",
         "gridref": "TQ282870",
         "latitude": "51.567",
         "longitude": "-0.152",
@@ -47424,6 +48600,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -9.509,
+          52.069
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "KILLARNEY-MENTAL-HOSPITAL",
+        "county": "Kerry",
+        "gridref": "IV9657491771",
+        "latitude": "52.069",
+        "longitude": "-9.509",
+        "elevation (ft)": "178"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -4.316,
           56.063
         ]
@@ -48852,6 +50049,48 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -7.294,
+          52.214
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "KNOCKADERRY",
+        "county": "Waterford",
+        "gridref": "IS4831207135",
+        "latitude": "52.214",
+        "longitude": "-7.294",
+        "elevation (ft)": "248"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.294,
+          52.214
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "KNOCKADERRY",
+        "county": "Waterford",
+        "gridref": "IS4831207136",
+        "latitude": "52.214",
+        "longitude": "-7.294",
+        "elevation (ft)": "248"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           0.103,
           51.305
         ]
@@ -49265,6 +50504,27 @@
         "latitude": "52.780",
         "longitude": "-3.484",
         "elevation (ft)": "860"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.026,
+          53.492
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "LAMBAY",
+        "county": "Dublin",
+        "gridref": "IO3101450940",
+        "latitude": "53.492",
+        "longitude": "-6.026",
+        "elevation (ft)": "20"
       }
     },
     {
@@ -51288,6 +52548,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -4.939,
+          51.953
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "LETTERSTON-TRE-CWN-HOUSE",
+        "county": "Pembrokeshire",
+        "gridref": "SM981323",
+        "latitude": "51.953",
+        "longitude": "-4.939",
+        "elevation (ft)": "371"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           0.004,
           50.871
         ]
@@ -52016,6 +53297,27 @@
         "latitude": "51.916",
         "longitude": "-0.674",
         "elevation (ft)": "300"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.041,
+          54.513
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "LISBURN-PROSPECT-HILL-SCHOOL",
+        "county": "Antrim",
+        "gridref": "IJ269645",
+        "latitude": "54.513",
+        "longitude": "-6.041",
+        "elevation (ft)": "201"
       }
     },
     {
@@ -53409,6 +54711,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -3.708,
+          52.43
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "LLANGURIG-MANOD",
+        "county": "Montgomeryshire",
+        "gridref": "SN840827",
+        "latitude": "52.430",
+        "longitude": "-3.708",
+        "elevation (ft)": "1050"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -4.328,
           53.303
         ]
@@ -53465,6 +54788,69 @@
         "latitude": "52.444",
         "longitude": "-3.554",
         "elevation (ft)": "550"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.557,
+          52.444
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "LLANIDLOES-EAST-MIX",
+        "county": "Montgomeryshire",
+        "gridref": "SN943840",
+        "latitude": "52.444",
+        "longitude": "-3.557",
+        "elevation (ft)": "600"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.543,
+          52.444
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "LLANIDLOES-EAST-MIX",
+        "county": "Montgomeryshire",
+        "gridref": "SN952840",
+        "latitude": "52.444",
+        "longitude": "-3.543",
+        "elevation (ft)": "650"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.472,
+          52.423
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "LLANIDLOES-LLIDIARTYWAEN-SCHOOL",
+        "county": "Montgomeryshire",
+        "gridref": "SO000816",
+        "latitude": "52.423",
+        "longitude": "-3.472",
+        "elevation (ft)": "1150"
       }
     },
     {
@@ -53612,6 +54998,27 @@
         "latitude": "52.054",
         "longitude": "-4.109",
         "elevation (ft)": "850"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.104,
+          52.767
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "LLANYMYNECH-PENTREHEYLIN-HALL",
+        "county": "Montgomeryshire",
+        "gridref": "SJ256194",
+        "latitude": "52.767",
+        "longitude": "-3.104",
+        "elevation (ft)": "220"
       }
     },
     {
@@ -56517,6 +57924,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -4.81,
+          51.935
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "MAENDOCHOG-DDOLWEN-BRIDGE",
+        "county": "Pembrokeshire",
+        "gridref": "SN069300",
+        "latitude": "51.935",
+        "longitude": "-4.810",
+        "elevation (ft)": "740"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -2.312,
           52.94
         ]
@@ -56937,6 +58365,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -6.149,
+          53.443
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "MALAHIDE-SEAMOUNT",
+        "county": "Dublin",
+        "gridref": "IO2301245211",
+        "latitude": "53.443",
+        "longitude": "-6.149",
+        "elevation (ft)": "150"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           0.696,
           51.726
         ]
@@ -56993,6 +58442,27 @@
         "latitude": "55.381",
         "longitude": "-7.374",
         "elevation (ft)": "220"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.736,
+          52.138
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "MALLOW-LONGUEVILLE",
+        "county": "Cork",
+        "gridref": "IW4968498672",
+        "latitude": "52.138",
+        "longitude": "-8.736",
+        "elevation (ft)": "310"
       }
     },
     {
@@ -58260,6 +59730,48 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -3.246,
+          52.718
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "MEIFOD-COED-Y-MAEN",
+        "county": "Montgomeryshire",
+        "gridref": "SJ159141",
+        "latitude": "52.718",
+        "longitude": "-3.246",
+        "elevation (ft)": "280"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.227,
+          52.719
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "MEIFOD-TANYFRON",
+        "county": "Montgomeryshire",
+        "gridref": "SJ172142",
+        "latitude": "52.719",
+        "longitude": "-3.227",
+        "elevation (ft)": "310"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -3.205,
           56.573
         ]
@@ -59114,6 +60626,27 @@
         "latitude": "50.986",
         "longitude": "-0.736",
         "elevation (ft)": "120"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.168,
+          51.901
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "MIDLETON-BALLINACURRA",
+        "county": "Cork",
+        "gridref": "IW8848872015",
+        "latitude": "51.901",
+        "longitude": "-8.168",
+        "elevation (ft)": "25"
       }
     },
     {
@@ -61263,6 +62796,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -4.7,
+          51.944
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "MYNACHLOGDDU-COUNCIL-SCHOOL",
+        "county": "Pembrokeshire",
+        "gridref": "SN145307",
+        "latitude": "51.944",
+        "longitude": "-4.700",
+        "elevation (ft)": "630"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -3.524,
           52.77
         ]
@@ -61466,6 +63020,27 @@
         "latitude": "53.084",
         "longitude": "-2.527",
         "elevation (ft)": "130"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.744,
+          51.802
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "NARBERTH-BLOOMFIELD",
+        "county": "Pembrokeshire",
+        "gridref": "SN109150",
+        "latitude": "51.802",
+        "longitude": "-4.744",
+        "elevation (ft)": "275"
       }
     },
     {
@@ -62180,6 +63755,27 @@
         "latitude": "55.081",
         "longitude": "-2.094",
         "elevation (ft)": "896"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.096,
+          53.08
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "NEWCASTLE-KILLADREENAN",
+        "county": "Wicklow",
+        "gridref": "IO2760204957",
+        "latitude": "53.080",
+        "longitude": "-6.096",
+        "elevation (ft)": "255"
       }
     },
     {
@@ -65820,6 +67416,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -6.345,
+          52.529
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "OULART-WELLS",
+        "county": "Wexford",
+        "gridref": "IT1235043230",
+        "latitude": "52.529",
+        "longitude": "-6.345",
+        "elevation (ft)": "207"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -0.471,
           52.483
         ]
@@ -67122,6 +68739,132 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -4.937,
+          51.692
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "PEMBROKE-DOCK-COUNTY-SCHOOL",
+        "county": "Pembrokeshire",
+        "gridref": "SM971033",
+        "latitude": "51.692",
+        "longitude": "-4.937",
+        "elevation (ft)": "85"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.926,
+          51.684
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "PEMBROKE-DOCK-COUNTY-SCHOOL",
+        "county": "Pembrokeshire",
+        "gridref": "SM978024",
+        "latitude": "51.684",
+        "longitude": "-4.926",
+        "elevation (ft)": "85"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.958,
+          51.694
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "PEMBROKE-DOCK-MIX",
+        "county": "Pembrokeshire",
+        "gridref": "SM956035",
+        "latitude": "51.694",
+        "longitude": "-4.958",
+        "elevation (ft)": "90"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.952,
+          51.695
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "PEMBROKE-DOCK-MIX",
+        "county": "Pembrokeshire",
+        "gridref": "SM960037",
+        "latitude": "51.695",
+        "longitude": "-4.952",
+        "elevation (ft)": "34"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.959,
+          51.696
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "PEMBROKE-DOCKYARD",
+        "county": "Pembrokeshire",
+        "gridref": "SM956038",
+        "latitude": "51.696",
+        "longitude": "-4.959",
+        "elevation (ft)": "30"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.175,
+          51.683
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "PEMBROKE-ST-ANNS",
+        "county": "Pembrokeshire",
+        "gridref": "SM806030",
+        "latitude": "51.683",
+        "longitude": "-5.175",
+        "elevation (ft)": "150"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -4.931,
           51.626
         ]
@@ -67136,6 +68879,27 @@
         "latitude": "51.626",
         "longitude": "-4.931",
         "elevation (ft)": "60"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.316,
+          52.824
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "PEN-Y-BONT-RHIWLAS",
+        "county": "Montgomeryshire",
+        "gridref": "SJ114260",
+        "latitude": "52.824",
+        "longitude": "-3.316",
+        "elevation (ft)": "748"
       }
     },
     {
@@ -68718,6 +70482,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -7.314,
+          52.354
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "PILTOWN-BESSBOROUGH",
+        "county": "Kilkenny",
+        "gridref": "IS4681922693",
+        "latitude": "52.354",
+        "longitude": "-7.314",
+        "elevation (ft)": "80"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -0.767,
           51.535
         ]
@@ -69642,6 +71427,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -7.36,
+          52.29
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "PORTLAW-CURRAGHMORE",
+        "county": "Waterford",
+        "gridref": "IS4368215530",
+        "latitude": "52.290",
+        "longitude": "-7.360",
+        "elevation (ft)": "135"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -7.308,
           52.298
         ]
@@ -69656,6 +71462,27 @@
         "latitude": "52.298",
         "longitude": "-7.308",
         "elevation (ft)": "70"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.322,
+          52.289
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "PORTLAW-WATERFORD",
+        "county": "Waterford",
+        "gridref": "IS4628415472",
+        "latitude": "52.289",
+        "longitude": "-7.322",
+        "elevation (ft)": "50"
       }
     },
     {
@@ -70370,6 +72197,48 @@
         "latitude": "54.857",
         "longitude": "-7.671",
         "elevation (ft)": "110"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.058,
+          53.198
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "RATHANGAN-CLONBRIN",
+        "county": "King's County / Offaly",
+        "gridref": "IN6302216797",
+        "latitude": "53.198",
+        "longitude": "-7.058",
+        "elevation (ft)": "224"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.079,
+          52.265
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "RATHCULLIHEEN",
+        "county": "Kilkenny",
+        "gridref": "IS6292912995",
+        "latitude": "52.265",
+        "longitude": "-7.079",
+        "elevation (ft)": "140"
       }
     },
     {
@@ -72666,6 +74535,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -6.188,
+          53.049
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "ROUNDWOOD-KNOCKATEMPLE",
+        "county": "Wicklow",
+        "gridref": "IO2153001293",
+        "latitude": "53.049",
+        "longitude": "-6.188",
+        "elevation (ft)": "760"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -6.187,
           53.052
         ]
@@ -73940,6 +75830,27 @@
         "latitude": "52.153",
         "longitude": "-2.925",
         "elevation (ft)": "400"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.697,
+          51.721
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "SAUNDERSFOOT-HEAN-CASTLE",
+        "county": "Pembrokeshire",
+        "gridref": "SN138059",
+        "latitude": "51.721",
+        "longitude": "-4.697",
+        "elevation (ft)": "206"
       }
     },
     {
@@ -75375,6 +77286,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -6.499,
+          52.755
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "SHILLELAGH-COOLATTIN-GDNS",
+        "county": "Wicklow",
+        "gridref": "IT0135768154",
+        "latitude": "52.755",
+        "longitude": "-6.499",
+        "elevation (ft)": "383"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -0.36,
           51.994
         ]
@@ -76292,6 +78224,27 @@
         "latitude": "53.925",
         "longitude": "-1.933",
         "elevation (ft)": "560"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.273,
+          51.699
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "SKOKHOLM-ISLAND",
+        "county": "Pembrokeshire",
+        "gridref": "SM739051",
+        "latitude": "51.699",
+        "longitude": "-5.273",
+        "elevation (ft)": "114"
       }
     },
     {
@@ -77951,6 +79904,27 @@
         "latitude": "55.585",
         "longitude": "-2.668",
         "elevation (ft)": "320"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.269,
+          51.882
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "ST-DAVIDS",
+        "county": "Pembrokeshire",
+        "gridref": "SM751254",
+        "latitude": "51.882",
+        "longitude": "-5.269",
+        "elevation (ft)": "216"
       }
     },
     {
@@ -82599,6 +84573,48 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -4.698,
+          51.671
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "TENBY-MIX",
+        "county": "Pembrokeshire",
+        "gridref": "SN135004",
+        "latitude": "51.671",
+        "longitude": "-4.698",
+        "elevation (ft)": "65"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.704,
+          51.67
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "TENBY-MIX",
+        "county": "Pembrokeshire",
+        "gridref": "SN131002",
+        "latitude": "51.670",
+        "longitude": "-4.704",
+        "elevation (ft)": "90"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           0.66,
           51.065
         ]
@@ -82830,7 +84846,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -3.192,
+          -3.19,
           54.486
         ]
       },
@@ -82840,10 +84856,10 @@
         "marker-color": "66ff33",
         "name": "THE-STYE",
         "county": "Cumberland",
-        "gridref": "NY229107",
+        "gridref": "NY230107",
         "latitude": "54.486",
-        "longitude": "-3.192",
-        "elevation (ft)": "1077"
+        "longitude": "-3.190",
+        "elevation (ft)": "948"
       }
     },
     {
@@ -82851,8 +84867,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -3.188,
-          54.485
+          -3.19,
+          54.487
         ]
       },
       "properties": {
@@ -82861,10 +84877,52 @@
         "marker-color": "66ff33",
         "name": "THE-STYE",
         "county": "Cumberland",
-        "gridref": "NY231106",
-        "latitude": "54.485",
-        "longitude": "-3.188",
-        "elevation (ft)": "1100"
+        "gridref": "NY230108",
+        "latitude": "54.487",
+        "longitude": "-3.190",
+        "elevation (ft)": "1077"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.189,
+          54.486
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "THE-STYE",
+        "county": "Cumberland",
+        "gridref": "NY231107",
+        "latitude": "54.486",
+        "longitude": "-3.189",
+        "elevation (ft)": "1077"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.187,
+          54.486
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "THE-STYE",
+        "county": "Cumberland",
+        "gridref": "NY232107",
+        "latitude": "54.486",
+        "longitude": "-3.187",
+        "elevation (ft)": "1077"
       }
     },
     {
@@ -83621,6 +85679,27 @@
         "latitude": "52.708",
         "longitude": "0.296",
         "elevation (ft)": "9"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.706,
+          52.348
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "TIPPERARY-HENRY-STREET",
+        "county": "Tipperary",
+        "gridref": "IS2007621826",
+        "latitude": "52.348",
+        "longitude": "-7.706",
+        "elevation (ft)": "400"
       }
     },
     {
@@ -84930,6 +87009,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -8.97,
+          53.496
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "TUAM-CASTLEHACKET",
+        "county": "Galway",
+        "gridref": "IM3571049915",
+        "latitude": "53.496",
+        "longitude": "-8.970",
+        "elevation (ft)": "400"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -8.873,
           53.542
         ]
@@ -84944,6 +87044,48 @@
         "latitude": "53.542",
         "longitude": "-8.873",
         "elevation (ft)": "155"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.488,
+          53.276
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "TULLAMORE",
+        "county": "King's County / Offaly",
+        "gridref": "IN3421525207",
+        "latitude": "53.276",
+        "longitude": "-7.488",
+        "elevation (ft)": "235"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.479,
+          53.273
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "TULLAMORE-ST-CATHERINES",
+        "county": "King's County / Offaly",
+        "gridref": "IN3481824836",
+        "latitude": "53.273",
+        "longitude": "-7.479",
+        "elevation (ft)": "201"
       }
     },
     {
@@ -87506,6 +89648,27 @@
         "latitude": "52.231",
         "longitude": "-7.034",
         "elevation (ft)": "104"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.133,
+          52.258
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "WATERFORD-TYCOR-WW",
+        "county": "Waterford",
+        "gridref": "IS5924912125",
+        "latitude": "52.258",
+        "longitude": "-7.133",
+        "elevation (ft)": "171"
       }
     },
     {
@@ -92049,6 +94212,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -8.483,
+          53.331
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "WOODLAWN",
+        "county": "Galway",
+        "gridref": "IM6789731249",
+        "latitude": "53.331",
+        "longitude": "-8.483",
+        "elevation (ft)": "300"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -7.059,
           52.476
         ]
@@ -92987,6 +95171,27 @@
         "latitude": "51.183",
         "longitude": "0.939",
         "elevation (ft)": "150"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.699,
+          52.427
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "WYE-PANTMAWR",
+        "county": "Montgomeryshire",
+        "gridref": "SN846824",
+        "latitude": "52.427",
+        "longitude": "-3.699",
+        "elevation (ft)": "1080"
       }
     },
     {

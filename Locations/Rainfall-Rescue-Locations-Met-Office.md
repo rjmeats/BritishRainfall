@@ -1,12 +1,13 @@
-Generation time: Friday 22/01/2021 08:32:23 GMT
+Generation time: Sunday 24/01/2021 23:47:17 GMT
 
 95 locations under [https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA) which contributed to the [Met Office 2020 UK Climate Report](https://www.metoffice.gov.uk/research/climate/maps-and-data/about/state-of-climate):
 
-* [WHITTLESEA-MERE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/WHITTLESEA-MERE) : 10 days ago : 2021-01-12 20:43:39 +0000 
+* [BOSLEY-RES](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/BOSLEY-RES) : 3 hours ago : 2021-01-24 19:40:26 +0000 
+* [WHITTLESEA-MERE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/WHITTLESEA-MERE) : 12 days ago : 2021-01-12 20:43:39 +0000 
 * [CHEW-MAGNA](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/CHEW-MAGNA) : 6 weeks ago : 2020-12-12 22:10:26 +0000 
-* [BOSTON-GRAND-SLUICE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/BOSTON-GRAND-SLUICE) : 9 weeks ago : 2020-11-16 23:16:55 +0000 
-* [FERRIBY-SLUICE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/FERRIBY-SLUICE) : 2 months ago : 2020-11-10 17:41:42 +0000 
-* [READING-ENGLEFIELD](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/READING-ENGLEFIELD) : 2 months ago : 2020-11-10 17:41:42 +0000 
+* [BOSTON-GRAND-SLUICE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/BOSTON-GRAND-SLUICE) : 10 weeks ago : 2020-11-16 23:16:55 +0000 
+* [FERRIBY-SLUICE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/FERRIBY-SLUICE) : 3 months ago : 2020-11-10 17:41:42 +0000 
+* [READING-ENGLEFIELD](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/READING-ENGLEFIELD) : 3 months ago : 2020-11-10 17:41:42 +0000 
 * [GREENOCK-WW-LOCH-THOM](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/GREENOCK-WW-LOCH-THOM) : 3 months ago : 2020-10-12 23:15:37 +0100 
 * [SEAFORDE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/SEAFORDE) : 3 months ago : 2020-10-12 23:15:37 +0100 
 * [STORNOWAY-LIGHTHOUSE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/STORNOWAY-LIGHTHOUSE) : 3 months ago : 2020-10-12 23:15:37 +0100 
@@ -31,7 +32,6 @@ Generation time: Friday 22/01/2021 08:32:23 GMT
 * [BARROW-GURNEY-RES](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/BARROW-GURNEY-RES) : 7 months ago : 2020-07-08 14:36:05 +0100 
 * [BATHEASTON-RES](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/BATHEASTON-RES) : 7 months ago : 2020-07-08 14:36:05 +0100 
 * [BISHOPS-CANNINGS](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/BISHOPS-CANNINGS) : 7 months ago : 2020-07-08 14:36:05 +0100 
-* [BOSLEY-RES](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/BOSLEY-RES) : 7 months ago : 2020-07-08 14:36:05 +0100 
 * [BRADFORD-BRAYSHAW-RES](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/BRADFORD-BRAYSHAW-RES) : 7 months ago : 2020-07-08 14:36:05 +0100 
 * [BRAEMAR-BANK](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/BRAEMAR-BANK) : 7 months ago : 2020-07-08 14:36:05 +0100 
 * [BRIGHTON-WW-LEWES-ROAD](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/BRIGHTON-WW-LEWES-ROAD) : 7 months ago : 2020-07-08 14:36:05 +0100 

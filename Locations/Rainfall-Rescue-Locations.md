@@ -1,9 +1,9 @@
-Generation time: Friday 22/01/2021 08:32:23 GMT
+Generation time: Sunday 24/01/2021 23:47:17 GMT
 
 
 [MO-2020] indicates a location which contributed to the [Met Office 2020 UK Climate Report](https://www.metoffice.gov.uk/research/climate/maps-and-data/about/state-of-climate):
 
-5048 locations under [https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA):
+5046 locations under [https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA):
 
 * [ABBEY-CWMHIR-THE-HALL](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/ABBEY-CWMHIR-THE-HALL)
 * [ABBEY-LEIX-BLANDSFORT](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/ABBEY-LEIX-BLANDSFORT)
@@ -625,9 +625,7 @@ Generation time: Friday 22/01/2021 08:32:23 GMT
 * [BOVEY-TRACEY](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/BOVEY-TRACEY)
 * [BOVEY-TRACEY-COLEHAYS](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/BOVEY-TRACEY-COLEHAYS)
 * [BOWDEN-HALL](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/BOWDEN-HALL)
-* [BOWDON-ERLESDENE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/BOWDON-ERLESDENE)
-* [BOWDON-THE-BEECHES](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/BOWDON-THE-BEECHES)
-* [BOWDON-THE-FIRS](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/BOWDON-THE-FIRS)
+* [BOWDON-MIX](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/BOWDON-MIX)
 * [BOWHILL-SELKIRK](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/BOWHILL-SELKIRK)
 * [BOWLAND-FOREST-HIGHER-SALTER](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/BOWLAND-FOREST-HIGHER-SALTER)
 * [BOWLAND-FOREST-LOWER-SALTER](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/BOWLAND-FOREST-LOWER-SALTER)
@@ -4059,7 +4057,7 @@ Generation time: Friday 22/01/2021 08:32:23 GMT
 * [SHIFNAL-NEACHLEY](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/SHIFNAL-NEACHLEY)
 * [SHIFNAL-VICARAGE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/SHIFNAL-VICARAGE)
 * [SHIFNAL-WESTON-PARK](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/SHIFNAL-WESTON-PARK)
-* [SHILLELAGH-COOLATIN-GDNS](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/SHILLELAGH-COOLATIN-GDNS)
+* [SHILLELAGH-COOLATTIN-GDNS](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/SHILLELAGH-COOLATTIN-GDNS)
 * [SHILLINGTON](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/SHILLINGTON)
 * [SHINFIELD-UNIV-HORT-FARM](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/SHINFIELD-UNIV-HORT-FARM)
 * [SHIPLEY-MOOR-HEAD](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/SHIPLEY-MOOR-HEAD)
