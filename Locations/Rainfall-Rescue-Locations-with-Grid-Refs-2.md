@@ -1,4 +1,4 @@
-Generation time: Sunday 24/01/2021 23:47:17 GMT
+Generation time: Monday 25/01/2021 19:37:05 GMT
 
 ## Locations L-Z
 
@@ -626,6 +626,7 @@ Generation time: Sunday 24/01/2021 23:47:17 GMT
 |[MANCHESTER-PLYMOUTH-GROVE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/MANCHESTER-PLYMOUTH-GROVE)|||||||
 |[MANCHESTER-SALFORD](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/MANCHESTER-SALFORD)|MANCHESTER-SALFORD.csv|SJ800980|53.478|-2.303|100|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=53.478&lon=-2.303&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/53.478,-2.303,16)  |
 |[MANCHESTER-WHITWORTH-PARK](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/MANCHESTER-WHITWORTH-PARK)|MANCHESTER-WHITWORTH-PARK.csv|SJ848958|53.459|-2.230|125|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=53.459&lon=-2.230&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/53.459,-2.230,16)  |
+|[MANOR-PARK-CEMETERY](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/MANOR-PARK-CEMETERY)|||||||
 |[MANSFIELD-WW-RAINWORTH](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/MANSFIELD-WW-RAINWORTH)|MANSFIELD-WW-RAINWORTH.csv|SK586586|53.121|-1.126|360|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=53.121&lon=-1.126&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/53.121,-1.126,16)  |
 |[MARAZION](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/MARAZION)|MARAZION.csv|SW526305|50.123|-5.462|30|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=50.123&lon=-5.462&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/50.123,-5.462,16)  |
 |[MARCH](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/MARCH)|MARCH.csv|TL420967|52.550|0.093|10|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=52.550&lon=0.093&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/52.550,0.093,16)  |
@@ -1953,7 +1954,9 @@ Generation time: Sunday 24/01/2021 23:47:17 GMT
 |[SILLOTH](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/SILLOTH)|SILLOTH.csv|NY111539|54.872|-3.387|28|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=54.872&lon=-3.387&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/54.872,-3.387,16)  |
 |[SILSDEN-GILL-GRANGE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/SILSDEN-GILL-GRANGE)|||||||
 |[SILSOE-THE-RED-HOUSE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/SILSOE-THE-RED-HOUSE)|SILSOE-THE-RED-HOUSE.csv|TL079358|52.010|-0.429|212|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=52.010&lon=-0.429&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/52.010,-0.429,16)  |
-|[SILSOE-WREST-PARK](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/SILSOE-WREST-PARK)|||||||
+|[SILSOE-WREST-PARK](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/SILSOE-WREST-PARK)|SILSOE-WREST-PARK.csv|TL091355|52.007|-0.412|185|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=52.007&lon=-0.412&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/52.007,-0.412,16)  |
+||SILSOE-WREST-PARK-2.csv|TL089363|52.014|-0.415|200|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=52.014&lon=-0.415&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/52.014,-0.415,16)  |
+||SILSOE-WREST-PARK-3.csv|TL091358|52.010|-0.412|195|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=52.010&lon=-0.412&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/52.010,-0.412,16)  |
 |[SILVERTON-KILLERTON](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/SILVERTON-KILLERTON)|||||||
 |[SIMONBURN-PARK-END](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/SIMONBURN-PARK-END)|||||||
 |[SIMONSBATH-MIX](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/SIMONSBATH-MIX)|||||||
@@ -2732,6 +2735,7 @@ Generation time: Sunday 24/01/2021 23:47:17 GMT
 ||WAKEFIELD-HEATH-2.csv|SE351201|53.676|-1.469|130|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=53.676&lon=-1.469&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/53.676,-1.469,16)  |
 |[WAKEFIELD-PRISON](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/WAKEFIELD-PRISON)|WAKEFIELD-PRISON.csv|SE324207|53.682|-1.511|96|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=53.682&lon=-1.511&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/53.682,-1.511,16)  |
 |[WAKEFIELD-WALTON](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/WAKEFIELD-WALTON)|||||||
+|[WAKEHURST-PLACE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/WAKEHURST-PLACE)|||||||
 |[WALDRON-HEATHERDEN-HOUSE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/WALDRON-HEATHERDEN-HOUSE)|WALDRON-HEATHERDEN-HOUSE.csv|TQ564214|50.971|0.226|476|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=50.971&lon=0.226&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/50.971,0.226,16)  |
 |[WALLACE-CLOSEBURN](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/WALLACE-CLOSEBURN)|WALLACE-CLOSEBURN.csv|NX902924|55.214|-3.726|206|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=55.214&lon=-3.726&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/55.214,-3.726,16)  |
 |[WALLINGFORD-BLEWBURTON-HOUSE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/WALLINGFORD-BLEWBURTON-HOUSE)|WALLINGFORD-BLEWBURTON-HOUSE.csv|SU552863|51.573|-1.205|240|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=51.573&lon=-1.205&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/51.573,-1.205,16)  |
@@ -2942,7 +2946,7 @@ Generation time: Sunday 24/01/2021 23:47:17 GMT
 |[WHIPSNADE-PARK](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/WHIPSNADE-PARK)|WHIPSNADE-PARK.csv|TL004178|51.850|-0.544|720|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=51.850&lon=-0.544&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/51.850,-0.544,16)  |
 |[WHITACRE-BIRMINGHAM-WW](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/WHITACRE-BIRMINGHAM-WW)|WHITACRE-BIRMINGHAM-WW.csv|SP225909|52.516|-1.670|269|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=52.516&lon=-1.670&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/52.516,-1.670,16)  |
 |[WHITBY-GUISBOROUGH-ROAD](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/WHITBY-GUISBOROUGH-ROAD)|||||||
-|[WHITBY-HAWKSER-GARDEN](https://github.com/ed-hawkins/rainfall-rescue/tree/master/POOR-LOCATIONS/WHITBY-HAWKSER-GARDEN)|||||||
+|[WHITBY-HAWSKER-GARDEN](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/WHITBY-HAWSKER-GARDEN)|||||||
 |[WHITBY-MULGRAVE-CASTLE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/WHITBY-MULGRAVE-CASTLE)|||||||
 |[WHITCHURCH-DODINGTON](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/WHITCHURCH-DODINGTON)|WHITCHURCH-DODINGTON.csv|SJ543411|52.965|-2.682|320|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=52.965&lon=-2.682&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/52.965,-2.682,16)  |
 |[WHITCHURCH-DUNLEY-MANOR](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/WHITCHURCH-DUNLEY-MANOR)|||||||

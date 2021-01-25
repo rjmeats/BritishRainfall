@@ -44115,7 +44115,7 @@
         "marker-size": "small",
         "marker-color": "66ff33",
         "name": "HIGHGATE-NURSERIES",
-        "county": "Middlesex-stayed-Middlesex",
+        "county": "Middlesex-became-London",
         "gridref": "TQ282870",
         "latitude": "51.567",
         "longitude": "-0.152",
@@ -77930,6 +77930,69 @@
         "latitude": "52.010",
         "longitude": "-0.429",
         "elevation (ft)": "212"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.412,
+          52.007
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "SILSOE-WREST-PARK",
+        "county": "Bedfordshire",
+        "gridref": "TL091355",
+        "latitude": "52.007",
+        "longitude": "-0.412",
+        "elevation (ft)": "185"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.415,
+          52.014
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "SILSOE-WREST-PARK",
+        "county": "Bedfordshire",
+        "gridref": "TL089363",
+        "latitude": "52.014",
+        "longitude": "-0.415",
+        "elevation (ft)": "200"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.412,
+          52.01
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "SILSOE-WREST-PARK",
+        "county": "Bedfordshire",
+        "gridref": "TL091358",
+        "latitude": "52.010",
+        "longitude": "-0.412",
+        "elevation (ft)": "195"
       }
     },
     {

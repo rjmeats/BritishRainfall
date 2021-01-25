@@ -1,9 +1,9 @@
-Generation time: Sunday 24/01/2021 23:47:17 GMT
+Generation time: Monday 25/01/2021 19:37:04 GMT
 
 
 [MO-2020] indicates a location which contributed to the [Met Office 2020 UK Climate Report](https://www.metoffice.gov.uk/research/climate/maps-and-data/about/state-of-climate):
 
-5046 locations under [https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA):
+5050 locations under [https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA):
 
 * [ABBEY-CWMHIR-THE-HALL](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/ABBEY-CWMHIR-THE-HALL)
 * [ABBEY-LEIX-BLANDSFORT](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/ABBEY-LEIX-BLANDSFORT)
@@ -1328,6 +1328,7 @@ Generation time: Sunday 24/01/2021 23:47:17 GMT
 * [DALRY-WW-THIRDPART](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/DALRY-WW-THIRDPART)
 * [DALTON-KIRKWOOD](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/DALTON-KIRKWOOD)
 * [DALTON-LANCASHIRE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/DALTON-LANCASHIRE)
+* [DALTON-PARSONAGE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/DALTON-PARSONAGE)
 * [DALWHINNIE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/DALWHINNIE)
 * [DALWHINNIE-DRUMOCHTER-LODGE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/DALWHINNIE-DRUMOCHTER-LODGE)
 * [DALWHINNIE-STATION](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/DALWHINNIE-STATION)
@@ -3071,6 +3072,7 @@ Generation time: Sunday 24/01/2021 23:47:17 GMT
 * [MANCHESTER-PLYMOUTH-GROVE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/MANCHESTER-PLYMOUTH-GROVE)
 * [MANCHESTER-SALFORD](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/MANCHESTER-SALFORD)
 * [MANCHESTER-WHITWORTH-PARK](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/MANCHESTER-WHITWORTH-PARK)
+* [MANOR-PARK-CEMETERY](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/MANOR-PARK-CEMETERY)
 * [MANSFIELD-WW-RAINWORTH](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/MANSFIELD-WW-RAINWORTH)
 * [MARAZION](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/MARAZION)
 * [MARCH](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/MARCH) [MO-2020]
@@ -4666,6 +4668,7 @@ Generation time: Sunday 24/01/2021 23:47:17 GMT
 * [WAKEFIELD-HEATH](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/WAKEFIELD-HEATH)
 * [WAKEFIELD-PRISON](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/WAKEFIELD-PRISON)
 * [WAKEFIELD-WALTON](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/WAKEFIELD-WALTON)
+* [WAKEHURST-PLACE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/WAKEHURST-PLACE)
 * [WALDRON-HEATHERDEN-HOUSE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/WALDRON-HEATHERDEN-HOUSE)
 * [WALLACE-CLOSEBURN](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/WALLACE-CLOSEBURN)
 * [WALLINGFORD-BLEWBURTON-HOUSE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/WALLINGFORD-BLEWBURTON-HOUSE)
@@ -4841,6 +4844,7 @@ Generation time: Sunday 24/01/2021 23:47:17 GMT
 * [WHIPSNADE-PARK](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/WHIPSNADE-PARK)
 * [WHITACRE-BIRMINGHAM-WW](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/WHITACRE-BIRMINGHAM-WW)
 * [WHITBY-GUISBOROUGH-ROAD](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/WHITBY-GUISBOROUGH-ROAD)
+* [WHITBY-HAWSKER-GARDEN](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/WHITBY-HAWSKER-GARDEN)
 * [WHITBY-MULGRAVE-CASTLE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/WHITBY-MULGRAVE-CASTLE)
 * [WHITCHURCH-DODINGTON](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/WHITCHURCH-DODINGTON)
 * [WHITCHURCH-DUNLEY-MANOR](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/WHITCHURCH-DUNLEY-MANOR)
@@ -5052,7 +5056,7 @@ Generation time: Sunday 24/01/2021 23:47:17 GMT
 * [YSTRADFELLTE-RES](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/YSTRADFELLTE-RES)
 * [YSTRADYFODWG-FYNTYLA-HOSPITAL](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/YSTRADYFODWG-FYNTYLA-HOSPITAL)
 
-55 locations under [https://github.com/ed-hawkins/rainfall-rescue/tree/master/POOR-LOCATIONS](https://github.com/ed-hawkins/rainfall-rescue/tree/master/POOR-LOCATIONS):
+54 locations under [https://github.com/ed-hawkins/rainfall-rescue/tree/master/POOR-LOCATIONS](https://github.com/ed-hawkins/rainfall-rescue/tree/master/POOR-LOCATIONS):
 
 * [ABERDEEN](https://github.com/ed-hawkins/rainfall-rescue/tree/master/POOR-LOCATIONS/ABERDEEN)
 * [ABERDOVEY](https://github.com/ed-hawkins/rainfall-rescue/tree/master/POOR-LOCATIONS/ABERDOVEY)
@@ -5108,7 +5112,6 @@ Generation time: Sunday 24/01/2021 23:47:17 GMT
 * [SOUTHGATE-THE-LAWNS-MODERN](https://github.com/ed-hawkins/rainfall-rescue/tree/master/POOR-LOCATIONS/SOUTHGATE-THE-LAWNS-MODERN)
 * [STROUD](https://github.com/ed-hawkins/rainfall-rescue/tree/master/POOR-LOCATIONS/STROUD)
 * [WELSHPOOL-LLWYNDERW](https://github.com/ed-hawkins/rainfall-rescue/tree/master/POOR-LOCATIONS/WELSHPOOL-LLWYNDERW)
-* [WHITBY-HAWKSER-GARDEN](https://github.com/ed-hawkins/rainfall-rescue/tree/master/POOR-LOCATIONS/WHITBY-HAWKSER-GARDEN)
 
 2 locations under [https://github.com/ed-hawkins/rainfall-rescue/tree/master/COMPOSITE-SERIES](https://github.com/ed-hawkins/rainfall-rescue/tree/master/COMPOSITE-SERIES):
 
