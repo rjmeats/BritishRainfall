@@ -1,9 +1,9 @@
-Generation time: Monday 25/01/2021 19:37:04 GMT
+Generation time: Tuesday 26/01/2021 19:10:11 GMT
 
 
 [MO-2020] indicates a location which contributed to the [Met Office 2020 UK Climate Report](https://www.metoffice.gov.uk/research/climate/maps-and-data/about/state-of-climate):
 
-5050 locations under [https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA):
+5046 locations under [https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA):
 
 * [ABBEY-CWMHIR-THE-HALL](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/ABBEY-CWMHIR-THE-HALL)
 * [ABBEY-LEIX-BLANDSFORT](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/ABBEY-LEIX-BLANDSFORT)
@@ -551,7 +551,6 @@ Generation time: Monday 25/01/2021 19:37:04 GMT
 * [BLANDFORD-BRYANSTON-GARDENS](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/BLANDFORD-BRYANSTON-GARDENS)
 * [BLANDFORD-TARRANT-KEYNSTON](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/BLANDFORD-TARRANT-KEYNSTON)
 * [BLANDFORD-WHATCOMBE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/BLANDFORD-WHATCOMBE)
-* [BLENCOWE-SCHOOL](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/BLENCOWE-SCHOOL)
 * [BLETCHINGLEY-SOUTH-PARK-FARM](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/BLETCHINGLEY-SOUTH-PARK-FARM)
 * [BLISWORTH](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/BLISWORTH)
 * [BLISWORTH-CREIFF-HOUSE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/BLISWORTH-CREIFF-HOUSE)
@@ -2624,8 +2623,8 @@ Generation time: Monday 25/01/2021 19:37:04 GMT
 * [LAKE-VYRNWY-CARREG-GOCH](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/LAKE-VYRNWY-CARREG-GOCH)
 * [LAKE-VYRNWY-CRAIG-Y-GRIBBIN](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/LAKE-VYRNWY-CRAIG-Y-GRIBBIN)
 * [LAKE-VYRNWY-EUNANT-BRIDGE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/LAKE-VYRNWY-EUNANT-BRIDGE)
-* [LAKE-VYRNWY-HOEL-Y-FRIDD-1](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/LAKE-VYRNWY-HOEL-Y-FRIDD-1)
-* [LAKE-VYRNWY-HOEL-Y-FRIDD-2](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/LAKE-VYRNWY-HOEL-Y-FRIDD-2)
+* [LAKE-VYRNWY-HOEL-Y-FRIDD-ONE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/LAKE-VYRNWY-HOEL-Y-FRIDD-ONE)
+* [LAKE-VYRNWY-HOEL-Y-FRIDD-TWO](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/LAKE-VYRNWY-HOEL-Y-FRIDD-TWO)
 * [LAKE-VYRNWY-LLWYN-RHIW](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/LAKE-VYRNWY-LLWYN-RHIW)
 * [LAKE-VYRNWY-TY-UCHAF](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/LAKE-VYRNWY-TY-UCHAF)
 * [LAMBAY](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/LAMBAY)
@@ -4637,11 +4636,8 @@ Generation time: Monday 25/01/2021 19:37:04 GMT
 * [UPPER-FARG-PLAINS](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/UPPER-FARG-PLAINS)
 * [UPPER-GLENGYLE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/UPPER-GLENGYLE)
 * [UPPER-USK-FIVE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/UPPER-USK-FIVE)
-* [UPPER-USK-FOUR](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/UPPER-USK-FOUR)
 * [UPPER-USK-ONE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/UPPER-USK-ONE)
 * [UPPER-USK-SIX](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/UPPER-USK-SIX)
-* [UPPER-USK-THREE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/UPPER-USK-THREE)
-* [UPPER-USK-TWO](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/UPPER-USK-TWO)
 * [UPPINGHAM-RIDLINGTON](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/UPPINGHAM-RIDLINGTON)
 * [UPPINGHAM-WEST-DEYNE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/UPPINGHAM-WEST-DEYNE)
 * [UPTON-ON-SEVERN-THE-EADES](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/UPTON-ON-SEVERN-THE-EADES)
@@ -4750,10 +4746,10 @@ Generation time: Monday 25/01/2021 19:37:04 GMT
 * [WEARDALE-WW-SMIDDY-SHAW](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/WEARDALE-WW-SMIDDY-SHAW)
 * [WEARDALE-WW-TUNSTALL](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/WEARDALE-WW-TUNSTALL)
 * [WEARDALE-WW-WASKERLEY](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/WEARDALE-WW-WASKERLEY)
-* [WEARDALE-WW-WASKERLEY-1](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/WEARDALE-WW-WASKERLEY-1)
-* [WEARDALE-WW-WASKERLEY-3](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/WEARDALE-WW-WASKERLEY-3)
-* [WEARDALE-WW-WASKERLEY-6](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/WEARDALE-WW-WASKERLEY-6)
+* [WEARDALE-WW-WASKERLEY-ONE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/WEARDALE-WW-WASKERLEY-ONE)
 * [WEARDALE-WW-WASKERLEY-PARK](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/WEARDALE-WW-WASKERLEY-PARK)
+* [WEARDALE-WW-WASKERLEY-SIX](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/WEARDALE-WW-WASKERLEY-SIX)
+* [WEARDALE-WW-WASKERLEY-THREE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/WEARDALE-WW-WASKERLEY-THREE)
 * [WEDNESBURY-OCKER-HILL](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/WEDNESBURY-OCKER-HILL)
 * [WEEDON-BECK](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/WEEDON-BECK)
 * [WEEDON-BECK-VICARAGE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/WEEDON-BECK-VICARAGE)
@@ -5056,7 +5052,7 @@ Generation time: Monday 25/01/2021 19:37:04 GMT
 * [YSTRADFELLTE-RES](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/YSTRADFELLTE-RES)
 * [YSTRADYFODWG-FYNTYLA-HOSPITAL](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/YSTRADYFODWG-FYNTYLA-HOSPITAL)
 
-54 locations under [https://github.com/ed-hawkins/rainfall-rescue/tree/master/POOR-LOCATIONS](https://github.com/ed-hawkins/rainfall-rescue/tree/master/POOR-LOCATIONS):
+57 locations under [https://github.com/ed-hawkins/rainfall-rescue/tree/master/POOR-LOCATIONS](https://github.com/ed-hawkins/rainfall-rescue/tree/master/POOR-LOCATIONS):
 
 * [ABERDEEN](https://github.com/ed-hawkins/rainfall-rescue/tree/master/POOR-LOCATIONS/ABERDEEN)
 * [ABERDOVEY](https://github.com/ed-hawkins/rainfall-rescue/tree/master/POOR-LOCATIONS/ABERDOVEY)
@@ -5111,6 +5107,9 @@ Generation time: Monday 25/01/2021 19:37:04 GMT
 * [SNOWDON-PEN-Y-GWRYD](https://github.com/ed-hawkins/rainfall-rescue/tree/master/POOR-LOCATIONS/SNOWDON-PEN-Y-GWRYD)
 * [SOUTHGATE-THE-LAWNS-MODERN](https://github.com/ed-hawkins/rainfall-rescue/tree/master/POOR-LOCATIONS/SOUTHGATE-THE-LAWNS-MODERN)
 * [STROUD](https://github.com/ed-hawkins/rainfall-rescue/tree/master/POOR-LOCATIONS/STROUD)
+* [UPPER-USK-FOUR](https://github.com/ed-hawkins/rainfall-rescue/tree/master/POOR-LOCATIONS/UPPER-USK-FOUR)
+* [UPPER-USK-THREE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/POOR-LOCATIONS/UPPER-USK-THREE)
+* [UPPER-USK-TWO](https://github.com/ed-hawkins/rainfall-rescue/tree/master/POOR-LOCATIONS/UPPER-USK-TWO)
 * [WELSHPOOL-LLWYNDERW](https://github.com/ed-hawkins/rainfall-rescue/tree/master/POOR-LOCATIONS/WELSHPOOL-LLWYNDERW)
 
 2 locations under [https://github.com/ed-hawkins/rainfall-rescue/tree/master/COMPOSITE-SERIES](https://github.com/ed-hawkins/rainfall-rescue/tree/master/COMPOSITE-SERIES):
