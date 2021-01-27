@@ -678,6 +678,48 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -3.348,
+          56.323
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "ABERNETHY-MIX",
+        "county": "Perthshire",
+        "gridref": "NO167153",
+        "latitude": "56.323",
+        "longitude": "-3.348",
+        "elevation (ft)": "120"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.352,
+          56.321
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "ABERNETHY-MIX",
+        "county": "Perthshire",
+        "gridref": "NO164151",
+        "latitude": "56.321",
+        "longitude": "-3.352",
+        "elevation (ft)": "120"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -4.563,
           52.135
         ]
@@ -5270,6 +5312,27 @@
         "latitude": "53.330",
         "longitude": "-8.228",
         "elevation (ft)": "160"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.19,
+          56.454
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "BALLINDEAN",
+        "county": "Perthshire",
+        "gridref": "NO268298",
+        "latitude": "56.454",
+        "longitude": "-3.190",
+        "elevation (ft)": "100"
       }
     },
     {
@@ -46173,7 +46236,7 @@
         "marker-size": "small",
         "marker-color": "66ff33",
         "name": "HIGHGATE-NURSERIES",
-        "county": "Middlesex-stayed-Middlesex",
+        "county": "Middlesex-became-London",
         "gridref": "TQ282870",
         "latitude": "51.567",
         "longitude": "-0.152",
@@ -49167,6 +49230,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -6.125,
+          55.936
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "ISLAY-RHUVAAL",
+        "county": "Argyll",
+        "gridref": "NR425791",
+        "latitude": "55.936",
+        "longitude": "-6.125",
+        "elevation (ft)": "72"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -6.144,
           56.92
         ]
@@ -50482,7 +50566,7 @@
         "gridref": "NO238389",
         "latitude": "56.536",
         "longitude": "-3.241",
-        "elevation (ft)": "218"
+        "elevation (ft)": "222"
       }
     },
     {
@@ -71105,6 +71189,27 @@
         "latitude": "54.087",
         "longitude": "-1.760",
         "elevation (ft)": "431"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.488,
+          55.387
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "PATNA-KERSE-FILTERS",
+        "county": "Ayrshire",
+        "gridref": "NS425131",
+        "latitude": "55.387",
+        "longitude": "-4.488",
+        "elevation (ft)": "741"
       }
     },
     {
