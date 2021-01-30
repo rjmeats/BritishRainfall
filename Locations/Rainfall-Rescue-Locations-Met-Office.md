@@ -1,10 +1,10 @@
-Generation time: Thursday 28/01/2021 18:41:03 GMT
+Generation time: Saturday 30/01/2021 10:39:53 GMT
 
 95 locations under [https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA) which contributed to the [Met Office 2020 UK Climate Report](https://www.metoffice.gov.uk/research/climate/maps-and-data/about/state-of-climate):
 
-* [IPSWICH-BELSTEAD-HALL](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/IPSWICH-BELSTEAD-HALL) : 2 days ago : 2021-01-26 13:27:41 +0000 
-* [BOSLEY-RES](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/BOSLEY-RES) : 4 days ago : 2021-01-24 19:40:26 +0000 
-* [WHITTLESEA-MERE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/WHITTLESEA-MERE) : 2 weeks ago : 2021-01-12 20:43:39 +0000 
+* [IPSWICH-BELSTEAD-HALL](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/IPSWICH-BELSTEAD-HALL) : 4 days ago : 2021-01-26 13:27:41 +0000 
+* [BOSLEY-RES](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/BOSLEY-RES) : 6 days ago : 2021-01-24 19:40:26 +0000 
+* [WHITTLESEA-MERE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/WHITTLESEA-MERE) : 3 weeks ago : 2021-01-12 20:43:39 +0000 
 * [CHEW-MAGNA](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/CHEW-MAGNA) : 7 weeks ago : 2020-12-12 22:10:26 +0000 
 * [BOSTON-GRAND-SLUICE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/BOSTON-GRAND-SLUICE) : 2 months ago : 2020-11-16 23:16:55 +0000 
 * [FERRIBY-SLUICE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/FERRIBY-SLUICE) : 3 months ago : 2020-11-10 17:41:42 +0000 
