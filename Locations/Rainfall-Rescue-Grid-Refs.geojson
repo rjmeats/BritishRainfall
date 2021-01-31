@@ -7377,27 +7377,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          0.238,
-          50.749
-        ]
-      },
-      "properties": {
-        "marker-symbol": "circle-stroked",
-        "marker-size": "small",
-        "marker-color": "66ff33",
-        "name": "BEACHY-HEAD",
-        "county": "Sussex",
-        "gridref": "TV592969",
-        "latitude": "50.749",
-        "longitude": "0.238",
-        "elevation (ft)": "506"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -4.488,
           57.454
         ]
@@ -11233,7 +11212,7 @@
         "gridref": "SP720550",
         "latitude": "52.189",
         "longitude": "-0.948",
-        "elevation (ft)": "320"
+        "elevation (ft)": "300"
       }
     },
     {
@@ -27537,6 +27516,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -3.421,
+          53.176
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "DENBIGH-MENTAL-HOSPITAL",
+        "county": "Denbighshire",
+        "gridref": "SJ051653",
+        "latitude": "53.176",
+        "longitude": "-3.421",
+        "elevation (ft)": "316"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -2.655,
           55.456
         ]
@@ -31751,6 +31751,27 @@
         "latitude": "52.680",
         "longitude": "0.937",
         "elevation (ft)": "160"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.938,
+          52.683
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "EAST-DERHAM-MIX",
+        "county": "Norfolk",
+        "gridref": "TF986135",
+        "latitude": "52.683",
+        "longitude": "0.938",
+        "elevation (ft)": "161"
       }
     },
     {
@@ -57357,6 +57378,48 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -3.506,
+          53.25
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "LLANEFYDD-GLASCOED-RES",
+        "county": "Denbighshire",
+        "gridref": "SH996736",
+        "latitude": "53.250",
+        "longitude": "-3.506",
+        "elevation (ft)": "360"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.547,
+          53.228
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "LLANEFYDD-PLAS-UCHAF-RES",
+        "county": "Denbighshire",
+        "gridref": "SH968712",
+        "latitude": "53.228",
+        "longitude": "-3.547",
+        "elevation (ft)": "485"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -4.168,
           51.679
         ]
@@ -57651,6 +57714,48 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -3.691,
+          53.191
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "LLANGERNIEW-HAFODUNOS",
+        "county": "Denbighshire",
+        "gridref": "SH871673",
+        "latitude": "53.191",
+        "longitude": "-3.691",
+        "elevation (ft)": "512"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.214,
+          52.981
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "LLANGOLLEN-PLAS-BERWYN",
+        "county": "Denbighshire",
+        "gridref": "SJ186433",
+        "latitude": "52.981",
+        "longitude": "-3.214",
+        "elevation (ft)": "440"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -3.206,
           52.973
         ]
@@ -57735,6 +57840,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -3.315,
+          53.185
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "LLANGWYFAN-HOSPITAL",
+        "county": "Denbighshire",
+        "gridref": "SJ122661",
+        "latitude": "53.185",
+        "longitude": "-3.315",
+        "elevation (ft)": "460"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -4.328,
           53.303
         ]
@@ -57749,6 +57875,27 @@
         "latitude": "53.303",
         "longitude": "-4.328",
         "elevation (ft)": "239"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.295,
+          53.151
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "LLANGYNHAFAL-PLAS-DRAW",
+        "county": "Denbighshire",
+        "gridref": "SJ135623",
+        "latitude": "53.151",
+        "longitude": "-3.295",
+        "elevation (ft)": "425"
       }
     },
     {
@@ -57882,6 +58029,48 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -3.538,
+          53.223
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "LLANNEFYDD-DOLWEN-RES-EAST",
+        "county": "Denbighshire",
+        "gridref": "SH974706",
+        "latitude": "53.223",
+        "longitude": "-3.538",
+        "elevation (ft)": "570"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.541,
+          53.219
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "LLANNEFYDD-DOLWEN-RES-SOUTH",
+        "county": "Denbighshire",
+        "gridref": "SH972702",
+        "latitude": "53.219",
+        "longitude": "-3.541",
+        "elevation (ft)": "600"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -4.1,
           51.772
         ]
@@ -57917,6 +58106,69 @@
         "latitude": "53.255",
         "longitude": "-4.179",
         "elevation (ft)": "318"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.159,
+          52.881
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "LLANSILIN-PENYGWELY-RES",
+        "county": "Denbighshire",
+        "gridref": "SJ221321",
+        "latitude": "52.881",
+        "longitude": "-3.159",
+        "elevation (ft)": "1095"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.161,
+          52.883
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "LLANSILIN-PENYGWELY-RES",
+        "county": "Denbighshire",
+        "gridref": "SJ220324",
+        "latitude": "52.883",
+        "longitude": "-3.161",
+        "elevation (ft)": "1115"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.158,
+          52.88
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "LLANSILIN-PENYGWELY-RES",
+        "county": "Denbighshire",
+        "gridref": "SJ222320",
+        "latitude": "52.880",
+        "longitude": "-3.158",
+        "elevation (ft)": "1055"
       }
     },
     {
@@ -76502,27 +76754,6 @@
         "latitude": "51.333",
         "longitude": "1.401",
         "elevation (ft)": "155"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          1.422,
-          51.332
-        ]
-      },
-      "properties": {
-        "marker-symbol": "circle-stroked",
-        "marker-size": "small",
-        "marker-color": "66ff33",
-        "name": "RAMSGATE-SOUTHWOOD-WW",
-        "county": "Kent-stayed-Kent",
-        "gridref": "TR385648",
-        "latitude": "51.332",
-        "longitude": "1.422",
-        "elevation (ft)": "80"
       }
     },
     {

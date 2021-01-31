@@ -1,9 +1,9 @@
-Generation time: Saturday 30/01/2021 10:39:52 GMT
+Generation time: Sunday 31/01/2021 20:55:40 GMT
 
 
 [MO-2020] indicates a location which contributed to the [Met Office 2020 UK Climate Report](https://www.metoffice.gov.uk/research/climate/maps-and-data/about/state-of-climate):
 
-5129 locations under [https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA):
+5132 locations under [https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA):
 
 * [ABBEY-CWMHIR-THE-HALL](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/ABBEY-CWMHIR-THE-HALL)
 * [ABBEY-LEIX-BLANDSFORT](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/ABBEY-LEIX-BLANDSFORT)
@@ -1401,12 +1401,14 @@ Generation time: Saturday 30/01/2021 10:39:52 GMT
 * [DARWEN-BOLD-VENTURE-PARK](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/DARWEN-BOLD-VENTURE-PARK)
 * [DARWEN-DAISY-GREEN](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/DARWEN-DAISY-GREEN)
 * [DARWEN-EARNSDALE-RES](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/DARWEN-EARNSDALE-RES)
+* [DARWEN-GILLIBRAND-OBSERVATORY](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/DARWEN-GILLIBRAND-OBSERVATORY)
 * [DARWEN-HODDLESDEN](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/DARWEN-HODDLESDEN)
 * [DARWEN-PICKUP](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/DARWEN-PICKUP)
 * [DARWEN-SUNNYHURST-HEY-RES](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/DARWEN-SUNNYHURST-HEY-RES)
 * [DATCHET-RIDING-COURT](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/DATCHET-RIDING-COURT)
 * [DAVENTRY-FAWSLEY](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/DAVENTRY-FAWSLEY)
 * [DAVENTRY-TUNNEL-END](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/DAVENTRY-TUNNEL-END)
+* [DAVENTRY-WATERLOO](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/DAVENTRY-WATERLOO)
 * [DAVIDSONS-MAINS-BROOMFIELD](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/DAVIDSONS-MAINS-BROOMFIELD)
 * [DAWLISH-CHARLTON-VILLA](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/DAWLISH-CHARLTON-VILLA)
 * [DAWLISH-LUSCOMBE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/DAWLISH-LUSCOMBE)
@@ -2907,14 +2909,15 @@ Generation time: Saturday 30/01/2021 10:39:52 GMT
 * [LLANGURIG-DERNOL](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/LLANGURIG-DERNOL)
 * [LLANGURIG-ESGAIR-CLOCHFAN](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/LLANGURIG-ESGAIR-CLOCHFAN)
 * [LLANGURIG-MANOD](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/LLANGURIG-MANOD)
+* [LLANGWYFAN-HOSPITAL](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/LLANGWYFAN-HOSPITAL)
 * [LLANGWYLLOG-TRESCAWEN](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/LLANGWYLLOG-TRESCAWEN)
 * [LLANGYBI-CEFN](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/LLANGYBI-CEFN)
 * [LLANGYNHAFAL-PLAS-DRAW](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/LLANGYNHAFAL-PLAS-DRAW)
 * [LLANIDLOES-EAST-MIX](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/LLANIDLOES-EAST-MIX)
 * [LLANIDLOES-LLIDIARTYWAEN-SCHOOL](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/LLANIDLOES-LLIDIARTYWAEN-SCHOOL)
 * [LLANIDLOES-YSTRAD-OLWYN-FAWR](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/LLANIDLOES-YSTRAD-OLWYN-FAWR)
-* [LLANNEFYDD-DOLWEN-RES-S](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/LLANNEFYDD-DOLWEN-RES-S)
-* [LLANNEFYDD-EAST](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/LLANNEFYDD-EAST)
+* [LLANNEFYDD-DOLWEN-RES-EAST](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/LLANNEFYDD-DOLWEN-RES-EAST)
+* [LLANNEFYDD-DOLWEN-RES-SOUTH](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/LLANNEFYDD-DOLWEN-RES-SOUTH)
 * [LLANNON-RES](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/LLANNON-RES)
 * [LLANSADRWN-TREFFOS](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/LLANSADRWN-TREFFOS)
 * [LLANSAINTFRAED-IN-ELVEL](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/LLANSAINTFRAED-IN-ELVEL)
