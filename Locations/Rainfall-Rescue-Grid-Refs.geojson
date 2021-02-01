@@ -28861,6 +28861,27 @@
         "type": "Point",
         "coordinates": [
           -0.334,
+          51.248
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "DORKING-THE-DENBIES",
+        "county": "Surrey-stayed-Surrey",
+        "gridref": "TQ163511",
+        "latitude": "51.248",
+        "longitude": "-0.334",
+        "elevation (ft)": "180"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.334,
           51.232
         ]
       },
@@ -46803,7 +46824,7 @@
         "marker-size": "small",
         "marker-color": "66ff33",
         "name": "HIGHGATE-NURSERIES",
-        "county": "Middlesex-became-London",
+        "county": "Middlesex-stayed-Middlesex",
         "gridref": "TQ282870",
         "latitude": "51.567",
         "longitude": "-0.152",
@@ -60899,6 +60920,27 @@
         "latitude": "52.366",
         "longitude": "-2.724",
         "elevation (ft)": "270"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.714,
+          52.374
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "LUDLOW-OBS-MARSTON",
+        "county": "Shropshire",
+        "gridref": "SO515753",
+        "latitude": "52.374",
+        "longitude": "-2.714",
+        "elevation (ft)": "400"
       }
     },
     {
