@@ -1,11 +1,13 @@
-Generation time: Monday 01/02/2021 17:28:59 GMT
+Generation time: Tuesday 02/02/2021 17:52:26 GMT
 
 95 locations under [https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA) which contributed to the [Met Office 2020 UK Climate Report](https://www.metoffice.gov.uk/research/climate/maps-and-data/about/state-of-climate):
 
-* [KEW-OBSERVATORY](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/KEW-OBSERVATORY) : 7 hours ago : 2021-02-01 10:25:45 +0000 
-* [HYTHE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/HYTHE) : 24 hours ago : 2021-01-31 17:23:56 +0000 
-* [IPSWICH-BELSTEAD-HALL](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/IPSWICH-BELSTEAD-HALL) : 6 days ago : 2021-01-26 13:27:41 +0000 
-* [BOSLEY-RES](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/BOSLEY-RES) : 8 days ago : 2021-01-24 19:40:26 +0000 
+* [LOCH-KATRINE-TUNNEL-HILL-TOP](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/LOCH-KATRINE-TUNNEL-HILL-TOP) : 8 hours ago : 2021-02-02 09:38:44 +0000 
+* [TRESCO-ABBEY](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/TRESCO-ABBEY) : 8 hours ago : 2021-02-02 09:38:44 +0000 
+* [KEW-OBSERVATORY](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/KEW-OBSERVATORY) : 31 hours ago : 2021-02-01 10:25:45 +0000 
+* [HYTHE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/HYTHE) : 2 days ago : 2021-01-31 17:23:56 +0000 
+* [IPSWICH-BELSTEAD-HALL](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/IPSWICH-BELSTEAD-HALL) : 7 days ago : 2021-01-26 13:27:41 +0000 
+* [BOSLEY-RES](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/BOSLEY-RES) : 9 days ago : 2021-01-24 19:40:26 +0000 
 * [WHITTLESEA-MERE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/WHITTLESEA-MERE) : 3 weeks ago : 2021-01-12 20:43:39 +0000 
 * [CHEW-MAGNA](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/CHEW-MAGNA) : 7 weeks ago : 2020-12-12 22:10:26 +0000 
 * [BOSTON-GRAND-SLUICE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/BOSTON-GRAND-SLUICE) : 3 months ago : 2020-11-16 23:16:55 +0000 
@@ -65,7 +67,6 @@ Generation time: Monday 01/02/2021 17:28:59 GMT
 * [LEEDS-WOODHOUSE-MOOR](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/LEEDS-WOODHOUSE-MOOR) : 7 months ago : 2020-07-08 14:36:05 +0100 
 * [LOCH-DHU](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/LOCH-DHU) : 7 months ago : 2020-07-08 14:36:05 +0100 
 * [LOCH-DRUNKIE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/LOCH-DRUNKIE) : 7 months ago : 2020-07-08 14:36:05 +0100 
-* [LOCH-KATRINE-TUNNEL-HILL-TOP](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/LOCH-KATRINE-TUNNEL-HILL-TOP) : 7 months ago : 2020-07-08 14:36:05 +0100 
 * [LONDONDERRY-CREGGAN-RES](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/LONDONDERRY-CREGGAN-RES) : 7 months ago : 2020-07-08 14:36:05 +0100 
 * [MARCH](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/MARCH) : 7 months ago : 2020-07-08 14:36:05 +0100 
 * [MARLBOROUGH-COLLEGE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/MARLBOROUGH-COLLEGE) : 7 months ago : 2020-07-08 14:36:05 +0100 
@@ -92,7 +93,6 @@ Generation time: Monday 01/02/2021 17:28:59 GMT
 * [STOURHEAD](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/STOURHEAD) : 7 months ago : 2020-07-08 14:36:05 +0100 
 * [TEYNHAM-NEW-GARDENS](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/TEYNHAM-NEW-GARDENS) : 7 months ago : 2020-07-08 14:36:05 +0100 
 * [THORNTON-RESERVOIR-LEICESTER](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/THORNTON-RESERVOIR-LEICESTER) : 7 months ago : 2020-07-08 14:36:05 +0100 
-* [TRESCO-ABBEY](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/TRESCO-ABBEY) : 7 months ago : 2020-07-08 14:36:05 +0100 
 * [WALTHAM-ABBEY-GUNPOWDER-FACTORY](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/WALTHAM-ABBEY-GUNPOWDER-FACTORY) : 7 months ago : 2020-07-08 14:36:05 +0100 
 * [WARE-RED-HOUSE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/WARE-RED-HOUSE) : 7 months ago : 2020-07-08 14:36:05 +0100 
 * [WEST-HAM-ABBEY-MILLS](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/WEST-HAM-ABBEY-MILLS) : 7 months ago : 2020-07-08 14:36:05 +0100 

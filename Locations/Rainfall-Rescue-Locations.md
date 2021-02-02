@@ -1,9 +1,9 @@
-Generation time: Monday 01/02/2021 17:28:59 GMT
+Generation time: Tuesday 02/02/2021 17:52:26 GMT
 
 
 [MO-2020] indicates a location which contributed to the [Met Office 2020 UK Climate Report](https://www.metoffice.gov.uk/research/climate/maps-and-data/about/state-of-climate):
 
-5146 locations under [https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA):
+5151 locations under [https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA):
 
 * [ABBEY-CWMHIR-THE-HALL](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/ABBEY-CWMHIR-THE-HALL)
 * [ABBEY-LEIX-BLANDSFORT](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/ABBEY-LEIX-BLANDSFORT)
@@ -46,6 +46,7 @@ Generation time: Monday 01/02/2021 17:28:59 GMT
 * [ABERNETHY-MIX](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/ABERNETHY-MIX)
 * [ABERPORTH](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/ABERPORTH)
 * [ABERSOCH](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/ABERSOCH)
+* [ABERSOCH-GROESLAN](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/ABERSOCH-GROESLAN)
 * [ABERSYCHAN-GLANSYCHAN](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/ABERSYCHAN-GLANSYCHAN)
 * [ABERSYCHAN-THE-HAWTHORNS](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/ABERSYCHAN-THE-HAWTHORNS)
 * [ABERTILLERY-THE-PARK](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/ABERTILLERY-THE-PARK)
@@ -2708,6 +2709,7 @@ Generation time: Monday 01/02/2021 17:28:59 GMT
 * [LANCASTER-ESCOWBECK](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/LANCASTER-ESCOWBECK)
 * [LANCASTER-GREG-OBSERVATORY](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/LANCASTER-GREG-OBSERVATORY)
 * [LANCASTER-HEST-BANK](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/LANCASTER-HEST-BANK)
+* [LANCASTER-SOUTH-ROAD](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/LANCASTER-SOUTH-ROAD)
 * [LANCASTER-WRAY](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/LANCASTER-WRAY)
 * [LANDFORD-NORTHLANDS](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/LANDFORD-NORTHLANDS)
 * [LANGBANK-EAST-BANK](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/LANGBANK-EAST-BANK)
@@ -3234,6 +3236,7 @@ Generation time: Monday 01/02/2021 17:28:59 GMT
 * [MICKLETON-LIME-KILN](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/MICKLETON-LIME-KILN)
 * [MIDDLESBOROUGH-ALBERT-PARK](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/MIDDLESBOROUGH-ALBERT-PARK)
 * [MIDDLESBOROUGH-SOUTHFIELD-VILLAS](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/MIDDLESBOROUGH-SOUTHFIELD-VILLAS)
+* [MIDDLESBROUGH-DORMAN-MUS](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/MIDDLESBROUGH-DORMAN-MUS)
 * [MIDDLETON-IN-CHIRBURY](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/MIDDLETON-IN-CHIRBURY)
 * [MIDDLETON-IN-TEESDALE-NEWBIGGIN](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/MIDDLETON-IN-TEESDALE-NEWBIGGIN)
 * [MIDDLETON-ON-THE-WOLDS](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/MIDDLETON-ON-THE-WOLDS)
@@ -3549,6 +3552,7 @@ Generation time: Monday 01/02/2021 17:28:59 GMT
 * [NOTTINGHAM-WILFORD-HILL-RES](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/NOTTINGHAM-WILFORD-HILL-RES)
 * [NUN-MONKTON](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/NUN-MONKTON)
 * [NUNEATON-PUMPING-STATION](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/NUNEATON-PUMPING-STATION)
+* [NUNTHORPE-THE-BOX](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/NUNTHORPE-THE-BOX)
 * [NUTFIELD-HOLMESDALE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/NUTFIELD-HOLMESDALE)
 * [NUTFIELD-PRIORY](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/NUTFIELD-PRIORY)
 * [OAKHAM-GREETHAM](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/OAKHAM-GREETHAM)
@@ -3837,6 +3841,7 @@ Generation time: Monday 01/02/2021 17:28:59 GMT
 * [PULHAM-ST-MARY-HILL-HOUSE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/PULHAM-ST-MARY-HILL-HOUSE)
 * [PURLEY-PUMPING-STATION](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/PURLEY-PUMPING-STATION)
 * [PWLL-BRWYN-FAWNOG](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/PWLL-BRWYN-FAWNOG)
+* [PWLLHELI-WEST-END](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/PWLLHELI-WEST-END)
 * [QUANTOCKSHEAD-ST-AUDRIES](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/QUANTOCKSHEAD-ST-AUDRIES)
 * [QUEDGELEY-HOUSE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/QUEDGELEY-HOUSE)
 * [QUEENSTOWN](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/QUEENSTOWN)
