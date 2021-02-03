@@ -1,4 +1,4 @@
-Generation time: Tuesday 02/02/2021 17:52:26 GMT
+Generation time: Wednesday 03/02/2021 17:33:33 GMT
 
 
 [MO-2020] indicates a location which contributed to the [Met Office 2020 UK Climate Report](https://www.metoffice.gov.uk/research/climate/maps-and-data/about/state-of-climate):
@@ -4306,8 +4306,8 @@ Generation time: Tuesday 02/02/2021 17:52:26 GMT
 * [ST-ALBANS-COUNTY-MUSEUM](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/ST-ALBANS-COUNTY-MUSEUM)
 * [ST-ALBANS-GORHAMBURY](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/ST-ALBANS-GORHAMBURY) [MO-2020]
 * [ST-ALBANS-HILL-END-HOSPITAL](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/ST-ALBANS-HILL-END-HOSPITAL)
+* [ST-ANDREWS](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/ST-ANDREWS)
 * [ST-ANDREWS-CASTLE-CLIFF](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/ST-ANDREWS-CASTLE-CLIFF)
-* [ST-ANDREWS-MIX](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/ST-ANDREWS-MIX)
 * [ST-ANDREWS-WW](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/ST-ANDREWS-WW)
 * [ST-ANNES-ON-THE-SEA](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/ST-ANNES-ON-THE-SEA)
 * [ST-ASAPH-BRYNBELLA](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/ST-ASAPH-BRYNBELLA)
