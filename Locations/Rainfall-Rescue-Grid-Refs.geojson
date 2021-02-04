@@ -20124,6 +20124,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -3.518,
+          52.825
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "CEFN-GWYNTOG-BERFEDD",
+        "county": "Montgomeryshire",
+        "gridref": "SH978264",
+        "latitude": "52.825",
+        "longitude": "-3.518",
+        "elevation (ft)": "1800"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -1.513,
           51.897
         ]
@@ -23505,6 +23526,69 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -3.685,
+          52.487
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "CLYWEDOG-CWM-BIGA",
+        "county": "Montgomeryshire",
+        "gridref": "SN857890",
+        "latitude": "52.487",
+        "longitude": "-3.685",
+        "elevation (ft)": "1015"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.647,
+          52.529
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "CLYWEDOG-DOL-BACHOG",
+        "county": "Montgomeryshire",
+        "gridref": "SN884936",
+        "latitude": "52.529",
+        "longitude": "-3.647",
+        "elevation (ft)": "1030"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.682,
+          52.5
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "CLYWEDOG-HAFOD-CADWGAN",
+        "county": "Montgomeryshire",
+        "gridref": "SN859905",
+        "latitude": "52.500",
+        "longitude": "-3.682",
+        "elevation (ft)": "1150"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -0.407,
           51.315
         ]
@@ -26459,6 +26543,48 @@
         "latitude": "56.258",
         "longitude": "-3.025",
         "elevation (ft)": "505"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.091,
+          56.294
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "CUPAR-RANKEILLOUR",
+        "county": "Fife",
+        "gridref": "NO326118",
+        "latitude": "56.294",
+        "longitude": "-3.091",
+        "elevation (ft)": "240"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.087,
+          56.309
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "CUPAR-RANKEILLOUR",
+        "county": "Fife",
+        "gridref": "NO328135",
+        "latitude": "56.309",
+        "longitude": "-3.087",
+        "elevation (ft)": "240"
       }
     },
     {
@@ -31044,6 +31170,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -3.462,
+          56.072
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "DUNFERMLINE",
+        "county": "Fife",
+        "gridref": "NT090875",
+        "latitude": "56.072",
+        "longitude": "-3.462",
+        "elevation (ft)": "300"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -3.501,
           56.099
         ]
@@ -31058,6 +31205,48 @@
         "latitude": "56.099",
         "longitude": "-3.501",
         "elevation (ft)": "458"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.367,
+          56.052
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "DUNFERMLINE-FORDELL-HOUSE",
+        "county": "Fife",
+        "gridref": "NT1495485215",
+        "latitude": "56.052",
+        "longitude": "-3.367",
+        "elevation (ft)": "230"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.501,
+          56.058
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "DUNFERMLINE-KEAVIL",
+        "county": "Fife",
+        "gridref": "NT066860",
+        "latitude": "56.058",
+        "longitude": "-3.501",
+        "elevation (ft)": "150"
       }
     },
     {
@@ -43035,6 +43224,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -3.636,
+          52.454
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "HAFREN-NURSERY",
+        "county": "Montgomeryshire",
+        "gridref": "SN889853",
+        "latitude": "52.454",
+        "longitude": "-3.636",
+        "elevation (ft)": "800"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -4.925,
           55.978
         ]
@@ -47349,7 +47559,7 @@
         "marker-size": "small",
         "marker-color": "66ff33",
         "name": "HIGHGATE-NURSERIES",
-        "county": "Middlesex-stayed-Middlesex",
+        "county": "Middlesex-became-London",
         "gridref": "TQ282870",
         "latitude": "51.567",
         "longitude": "-0.152",
@@ -52191,6 +52401,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -3.059,
+          56.379
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "KILMANY-MOUNTQUHANIE",
+        "county": "Fife",
+        "gridref": "NO347212",
+        "latitude": "56.379",
+        "longitude": "-3.059",
+        "elevation (ft)": "350"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -4.515,
           55.607
         ]
@@ -52478,6 +52709,27 @@
         "latitude": "58.257",
         "longitude": "-3.941",
         "elevation (ft)": "390"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.711,
+          56.074
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "KINCARDINE-TULLIALLAN",
+        "county": "Fife",
+        "gridref": "NS936881",
+        "latitude": "56.074",
+        "longitude": "-3.711",
+        "elevation (ft)": "90"
       }
     },
     {
@@ -59268,6 +59520,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -3.555,
+          53.121
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "LLYN-BRAN",
+        "county": "Denbighshire",
+        "gridref": "SH960593",
+        "latitude": "53.121",
+        "longitude": "-3.555",
+        "elevation (ft)": "1428"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -3.746,
           51.883
         ]
@@ -60801,6 +61074,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -0.062,
+          51.567
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "LONDON-UPPER-CLAPTON-HADHAM-HOUSE",
+        "county": "Middlesex-became-London",
+        "gridref": "TQ344871",
+        "latitude": "51.567",
+        "longitude": "-0.062",
+        "elevation (ft)": "98"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -7.316,
           55.01
         ]
@@ -62229,6 +62523,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -2.501,
+          53.384
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "LYMM-STATHAM-LODGE",
+        "county": "Cheshire",
+        "gridref": "SJ668876",
+        "latitude": "53.384",
+        "longitude": "-2.501",
+        "elevation (ft)": "42"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -0.656,
           52.629
         ]
@@ -62306,6 +62621,27 @@
         "latitude": "53.256",
         "longitude": "-2.123",
         "elevation (ft)": "450"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.126,
+          53.26
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "MACCLESFIELD-TOWN-HALL",
+        "county": "Cheshire",
+        "gridref": "SJ917737",
+        "latitude": "53.260",
+        "longitude": "-2.126",
+        "elevation (ft)": "500"
       }
     },
     {
@@ -68102,6 +68438,27 @@
         "latitude": "57.583",
         "longitude": "-3.894",
         "elevation (ft)": "59"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.575,
+          52.824
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "NANT-NADROEDD-FAWR",
+        "county": "Montgomeryshire",
+        "gridref": "SH940263",
+        "latitude": "52.824",
+        "longitude": "-3.575",
+        "elevation (ft)": "1499"
       }
     },
     {
@@ -75606,6 +75963,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -3.606,
+          53.085
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "PENTRE-VOELAS-NANT-HEILYN",
+        "county": "Denbighshire",
+        "gridref": "SH925554",
+        "latitude": "53.085",
+        "longitude": "-3.606",
+        "elevation (ft)": "1225"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -5.538,
           50.117
         ]
@@ -81163,6 +81541,48 @@
         "gridref": "SD918083",
         "latitude": "53.571",
         "longitude": "-2.125",
+        "elevation (ft)": "500"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.099,
+          52.971
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "RUABON-TREVOR-HALL",
+        "county": "Denbighshire",
+        "gridref": "SJ263421",
+        "latitude": "52.971",
+        "longitude": "-3.099",
+        "elevation (ft)": "410"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.109,
+          52.972
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "RUABON-TREVOR-HALL",
+        "county": "Denbighshire",
+        "gridref": "SJ256422",
+        "latitude": "52.972",
+        "longitude": "-3.109",
         "elevation (ft)": "500"
       }
     },
@@ -96753,6 +97173,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -3.715,
+          53.048
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "VOELAS",
+        "county": "Denbighshire",
+        "gridref": "SH851515",
+        "latitude": "53.048",
+        "longitude": "-3.715",
+        "elevation (ft)": "640"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -2.95,
           52.016
         ]
@@ -103914,6 +104355,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -3.054,
+          53.074
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "WREXHAM-BRYMBO",
+        "county": "Denbighshire",
+        "gridref": "SJ295535",
+        "latitude": "53.074",
+        "longitude": "-3.054",
+        "elevation (ft)": "632"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -3.091,
           53.026
         ]
@@ -103949,6 +104411,90 @@
         "latitude": "53.023",
         "longitude": "-3.090",
         "elevation (ft)": "918"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.03,
+          53.072
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "WREXHAM-GWERSYLLT",
+        "county": "Denbighshire",
+        "gridref": "SJ311532",
+        "latitude": "53.072",
+        "longitude": "-3.030",
+        "elevation (ft)": "450"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.006,
+          53.069
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "WREXHAM-GWERSYLLT",
+        "county": "Denbighshire",
+        "gridref": "SJ327529",
+        "latitude": "53.069",
+        "longitude": "-3.006",
+        "elevation (ft)": "283"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.047,
+          53.041
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "WREXHAM-PLAS-POWER",
+        "county": "Denbighshire",
+        "gridref": "SJ299498",
+        "latitude": "53.041",
+        "longitude": "-3.047",
+        "elevation (ft)": "472"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.047,
+          53.06
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "WREXHAM-PLAS-POWER",
+        "county": "Denbighshire",
+        "gridref": "SJ299519",
+        "latitude": "53.060",
+        "longitude": "-3.047",
+        "elevation (ft)": "517"
       }
     },
     {
