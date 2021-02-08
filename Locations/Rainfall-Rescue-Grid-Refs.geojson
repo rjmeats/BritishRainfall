@@ -22455,6 +22455,48 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -3.254,
+          53.171
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "CILCAIN-RES",
+        "county": "Flintshire",
+        "gridref": "SJ163645",
+        "latitude": "53.171",
+        "longitude": "-3.254",
+        "elevation (ft)": "785"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.267,
+          53.166
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "CILCAIN-RES",
+        "county": "Flintshire",
+        "gridref": "SJ154640",
+        "latitude": "53.166",
+        "longitude": "-3.267",
+        "elevation (ft)": "900"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -1.999,
           51.71
         ]
@@ -27159,27 +27201,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -4.246,
-          56.935
-        ]
-      },
-      "properties": {
-        "marker-symbol": "circle-stroked",
-        "marker-size": "small",
-        "marker-color": "66ff33",
-        "name": "DALWHINNIE",
-        "county": "Inverness",
-        "gridref": "NN6344284867",
-        "latitude": "56.935",
-        "longitude": "-4.246",
-        "elevation (ft)": "1175"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -4.248,
           56.888
         ]
@@ -27194,6 +27215,27 @@
         "latitude": "56.888",
         "longitude": "-4.248",
         "elevation (ft)": "1375"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.246,
+          56.935
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "DALWHINNIE-STATION",
+        "county": "Inverness",
+        "gridref": "NN6344284867",
+        "latitude": "56.935",
+        "longitude": "-4.246",
+        "elevation (ft)": "1175"
       }
     },
     {
@@ -48369,6 +48411,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -3.183,
+          53.275
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "HOLYWELL-BAGILLT",
+        "county": "Flintshire",
+        "gridref": "SJ212760",
+        "latitude": "53.275",
+        "longitude": "-3.183",
+        "elevation (ft)": "20"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -3.219,
           53.272
         ]
@@ -67690,6 +67753,27 @@
         "type": "Point",
         "coordinates": [
           -2.018,
+          53.445
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "MOTTRAM-HILL-END",
+        "county": "Cheshire",
+        "gridref": "SJ989943",
+        "latitude": "53.445",
+        "longitude": "-2.018",
+        "elevation (ft)": "680"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.018,
           53.44
         ]
       },
@@ -68844,6 +68928,90 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -3.044,
+          53.298
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "NESTON",
+        "county": "Cheshire",
+        "gridref": "SJ305784",
+        "latitude": "53.298",
+        "longitude": "-3.044",
+        "elevation (ft)": "215"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.053,
+          53.29
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "NESTON",
+        "county": "Cheshire",
+        "gridref": "SJ299775",
+        "latitude": "53.290",
+        "longitude": "-3.053",
+        "elevation (ft)": "145"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.064,
+          53.29
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "NESTON",
+        "county": "Cheshire",
+        "gridref": "SJ292775",
+        "latitude": "53.290",
+        "longitude": "-3.064",
+        "elevation (ft)": "97"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.067,
+          53.29
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "NESTON",
+        "county": "Cheshire",
+        "gridref": "SJ290775",
+        "latitude": "53.290",
+        "longitude": "-3.067",
+        "elevation (ft)": "111"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -4.397,
           55.734
         ]
@@ -69089,6 +69257,48 @@
         "latitude": "52.277",
         "longitude": "-3.123",
         "elevation (ft)": "950"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.123,
+          52.231
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "NEW-RADNOR-HARPTON-COURT-GDNS",
+        "county": "Radnorshire",
+        "gridref": "SO234598",
+        "latitude": "52.231",
+        "longitude": "-3.123",
+        "elevation (ft)": "700"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.151,
+          52.239
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "NEW-RADNOR-MAES-Y-FED",
+        "county": "Radnorshire",
+        "gridref": "SO215607",
+        "latitude": "52.239",
+        "longitude": "-3.151",
+        "elevation (ft)": "750"
       }
     },
     {
@@ -71406,6 +71616,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -2.159,
+          53.405
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "NORTHENDEN-WYTHENSHAWE-HALL",
+        "county": "Cheshire",
+        "gridref": "SJ895898",
+        "latitude": "53.405",
+        "longitude": "-2.159",
+        "elevation (ft)": "114"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -1.963,
           52.396
         ]
@@ -71525,6 +71756,48 @@
         "latitude": "53.197",
         "longitude": "-3.127",
         "elevation (ft)": "418"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.52,
+          53.256
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "NORTHWICH-HIGHFIELD",
+        "county": "Cheshire",
+        "gridref": "SJ654734",
+        "latitude": "53.256",
+        "longitude": "-2.520",
+        "elevation (ft)": "115"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.517,
+          53.252
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "NORTHWICH-HUNTS-LOCK",
+        "county": "Cheshire",
+        "gridref": "SJ656729",
+        "latitude": "53.252",
+        "longitude": "-2.517",
+        "elevation (ft)": "47"
       }
     },
     {
@@ -77538,8 +77811,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -0.019,
-          51.497
+          -0.009,
+          51.499
         ]
       },
       "properties": {
@@ -77548,9 +77821,9 @@
         "marker-color": "66ff33",
         "name": "POPLAR-ISLAND-GDNS",
         "county": "Middlesex-became-London",
-        "gridref": "TQ376794",
-        "latitude": "51.497",
-        "longitude": "-0.019",
+        "gridref": "TQ383797",
+        "latitude": "51.499",
+        "longitude": "-0.009",
         "elevation (ft)": "15"
       }
     },
@@ -78014,6 +78287,48 @@
         "latitude": "52.108",
         "longitude": "-0.165",
         "elevation (ft)": "119"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.061,
+          53.37
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "PRENTON-WW",
+        "county": "Cheshire",
+        "gridref": "SJ295864",
+        "latitude": "53.370",
+        "longitude": "-3.061",
+        "elevation (ft)": "91"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.004,
+          52.273
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "PRESTEIGN",
+        "county": "Radnorshire",
+        "gridref": "SO316644",
+        "latitude": "52.273",
+        "longitude": "-3.004",
+        "elevation (ft)": "550"
       }
     },
     {
@@ -88010,6 +88325,48 @@
         "latitude": "51.882",
         "longitude": "-5.269",
         "elevation (ft)": "216"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.484,
+          52.342
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "ST-HARMONS",
+        "county": "Radnorshire",
+        "gridref": "SN990726",
+        "latitude": "52.342",
+        "longitude": "-3.484",
+        "elevation (ft)": "918"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.365,
+          52.422
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "ST-HARMONS-PEN-ITHON",
+        "county": "Radnorshire",
+        "gridref": "SO073813",
+        "latitude": "52.422",
+        "longitude": "-3.365",
+        "elevation (ft)": "1200"
       }
     },
     {
@@ -104502,6 +104859,48 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -2.95,
+          53.104
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "WREXHAM-TREVALYN",
+        "county": "Denbighshire",
+        "gridref": "SJ365567",
+        "latitude": "53.104",
+        "longitude": "-2.950",
+        "elevation (ft)": "58"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.131,
+          53.072
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "WREXHAM-WW-NANTYFFRITH-RES",
+        "county": "Denbighshire",
+        "gridref": "SJ243534",
+        "latitude": "53.072",
+        "longitude": "-3.131",
+        "elevation (ft)": "1040"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -3.038,
           53.024
         ]
@@ -104516,6 +104915,69 @@
         "latitude": "53.024",
         "longitude": "-3.038",
         "elevation (ft)": "370"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.147,
+          53.058
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "WREXHAM-WW-PENDINAS-RES",
+        "county": "Denbighshire",
+        "gridref": "SJ232518",
+        "latitude": "53.058",
+        "longitude": "-3.147",
+        "elevation (ft)": "1249"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.084,
+          53.024
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "WREXHAM-WW-TY-MAWR-RES",
+        "county": "Denbighshire",
+        "gridref": "SJ274480",
+        "latitude": "53.024",
+        "longitude": "-3.084",
+        "elevation (ft)": "805"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.031,
+          52.976
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "WREXHAM-WYNNSTAY",
+        "county": "Denbighshire",
+        "gridref": "SJ309426",
+        "latitude": "52.976",
+        "longitude": "-3.031",
+        "elevation (ft)": "425"
       }
     },
     {
