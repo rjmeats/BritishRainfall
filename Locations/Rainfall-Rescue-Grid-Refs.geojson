@@ -90,6 +90,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -2.571,
+          50.648
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "ABBOTSBURY-NEW-BARN",
+        "county": "Dorset",
+        "gridref": "SY597833",
+        "latitude": "50.648",
+        "longitude": "-2.571",
+        "elevation (ft)": "111"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -3.615,
           50.505
         ]
@@ -762,7 +783,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -4.091,
+          -4.089,
           52.413
         ]
       },
@@ -774,7 +795,7 @@
         "county": "Cardiganshire",
         "gridref": "SN579815",
         "latitude": "52.413",
-        "longitude": "-4.091",
+        "longitude": "-4.089",
         "elevation (ft)": "59"
       }
     },
@@ -7755,6 +7776,132 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          0.255,
+          50.75
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "BEACHY-HEAD",
+        "county": "Sussex",
+        "gridref": "TV592969",
+        "latitude": "50.750",
+        "longitude": "0.255",
+        "elevation (ft)": "506"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.739,
+          50.81
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "BEAMINSTER-EAST-STREET",
+        "county": "Dorset",
+        "gridref": "ST480014",
+        "latitude": "50.810",
+        "longitude": "-2.739",
+        "elevation (ft)": "200"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.741,
+          50.81
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "BEAMINSTER-EAST-STREET",
+        "county": "Dorset",
+        "gridref": "ST479014",
+        "latitude": "50.810",
+        "longitude": "-2.741",
+        "elevation (ft)": "200"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.736,
+          50.809
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "BEAMINSTER-EAST-STREET",
+        "county": "Dorset",
+        "gridref": "ST482012",
+        "latitude": "50.809",
+        "longitude": "-2.736",
+        "elevation (ft)": "185"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.737,
+          50.807
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "BEAMINSTER-EAST-STREET",
+        "county": "Dorset",
+        "gridref": "ST482011",
+        "latitude": "50.807",
+        "longitude": "-2.737",
+        "elevation (ft)": "200"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.745,
+          50.81
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "BEAMINSTER-VICARAGE",
+        "county": "Dorset",
+        "gridref": "ST476014",
+        "latitude": "50.810",
+        "longitude": "-2.745",
+        "elevation (ft)": "216"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -4.488,
           57.454
         ]
@@ -8903,6 +9050,27 @@
         "latitude": "50.754",
         "longitude": "-2.220",
         "elevation (ft)": "200"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.167,
+          50.75
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "BERE-REGIS-BLOXWORTH-RECTORY",
+        "county": "Dorset",
+        "gridref": "SY883945",
+        "latitude": "50.750",
+        "longitude": "-2.167",
+        "elevation (ft)": "205"
       }
     },
     {
@@ -11598,6 +11766,69 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -2.183,
+          50.86
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "BLANDFORD-BRYANSTON-GARDENS",
+        "county": "Dorset",
+        "gridref": "ST872067",
+        "latitude": "50.860",
+        "longitude": "-2.183",
+        "elevation (ft)": "270"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.105,
+          50.836
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "BLANDFORD-TARRANT-KEYNSTON",
+        "county": "Dorset",
+        "gridref": "ST927040",
+        "latitude": "50.836",
+        "longitude": "-2.105",
+        "elevation (ft)": "100"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.233,
+          50.81
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "BLANDFORD-WHATCOMBE",
+        "county": "Dorset",
+        "gridref": "ST837012",
+        "latitude": "50.810",
+        "longitude": "-2.233",
+        "elevation (ft)": "270"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -2.841,
           54.49
         ]
@@ -12090,7 +12321,7 @@
         "marker-size": "small",
         "marker-color": "66ff33",
         "name": "BOLTON-HEATON-RES",
-        "county": "[CHOICE] Lancashire, Yorkshire West Riding",
+        "county": "Lancashire",
         "gridref": "SD681098",
         "latitude": "53.584",
         "longitude": "-2.482",
@@ -12111,7 +12342,7 @@
         "marker-size": "small",
         "marker-color": "66ff33",
         "name": "BOLTON-HEATON-RES",
-        "county": "[CHOICE] Lancashire, Yorkshire West Riding",
+        "county": "Lancashire",
         "gridref": "SD687096",
         "latitude": "53.582",
         "longitude": "-2.474",
@@ -13299,6 +13530,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -2.499,
+          50.727
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "BRADFORD-PEVERELL-HOUSE",
+        "county": "Dorset",
+        "gridref": "SY649921",
+        "latitude": "50.727",
+        "longitude": "-2.499",
+        "elevation (ft)": "370"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -1.844,
           53.768
         ]
@@ -13733,6 +13985,27 @@
         "latitude": "53.933",
         "longitude": "-0.357",
         "elevation (ft)": "11"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.938,
+          50.755
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "BRANKSOME-ALDERNEY-RES",
+        "county": "Dorset",
+        "gridref": "SZ045950",
+        "latitude": "50.755",
+        "longitude": "-1.938",
+        "elevation (ft)": "228"
       }
     },
     {
@@ -14342,6 +14615,69 @@
         "latitude": "54.085",
         "longitude": "-0.211",
         "elevation (ft)": "57"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.757,
+          50.736
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "BRIDPORT-CONEYGAR",
+        "county": "Dorset",
+        "gridref": "SY467931",
+        "latitude": "50.736",
+        "longitude": "-2.757",
+        "elevation (ft)": "110"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.754,
+          50.736
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "BRIDPORT-CONEYGAR",
+        "county": "Dorset",
+        "gridref": "SY469932",
+        "latitude": "50.736",
+        "longitude": "-2.754",
+        "elevation (ft)": "110"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.743,
+          50.742
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "BRIDPORT-DORSET",
+        "county": "Dorset",
+        "gridref": "SY476939",
+        "latitude": "50.742",
+        "longitude": "-2.743",
+        "elevation (ft)": "63"
       }
     },
     {
@@ -15119,6 +15455,27 @@
         "latitude": "51.358",
         "longitude": "1.437",
         "elevation (ft)": "127"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.855,
+          50.823
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "BROADWINDSOR-BLACKDOWN",
+        "county": "Dorset",
+        "gridref": "ST399030",
+        "latitude": "50.823",
+        "longitude": "-2.855",
+        "elevation (ft)": "515"
       }
     },
     {
@@ -20565,6 +20922,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -2.485,
+          50.838
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "CERNE-ABBAS-MINTERNE-RECT",
+        "county": "Dorset",
+        "gridref": "ST659044",
+        "latitude": "50.838",
+        "longitude": "-2.485",
+        "elevation (ft)": "566"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -1.513,
           51.897
         ]
@@ -20579,6 +20957,27 @@
         "latitude": "51.897",
         "longitude": "-1.513",
         "elevation (ft)": "420"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.976,
+          50.861
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "CHALBURY-WIMBORNE-MINSTER",
+        "county": "Dorset",
+        "gridref": "SU018068",
+        "latitude": "50.861",
+        "longitude": "-1.976",
+        "elevation (ft)": "338"
       }
     },
     {
@@ -20999,6 +21398,27 @@
         "latitude": "52.950",
         "longitude": "-1.963",
         "elevation (ft)": "647"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.727,
+          50.849
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "CHEDINGTON-COURT",
+        "county": "Dorset",
+        "gridref": "ST489057",
+        "latitude": "50.849",
+        "longitude": "-2.727",
+        "elevation (ft)": "605"
       }
     },
     {
@@ -22259,6 +22679,27 @@
         "latitude": "54.038",
         "longitude": "-4.837",
         "elevation (ft)": "5"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.5,
+          50.615
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "CHICKERELL-MONTEVIDEO",
+        "county": "Dorset",
+        "gridref": "SY647796",
+        "latitude": "50.615",
+        "longitude": "-2.500",
+        "elevation (ft)": "150"
       }
     },
     {
@@ -24744,8 +25185,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -3.723,
-          53.471
+          -3.716,
+          53.291
         ]
       },
       "properties": {
@@ -24754,9 +25195,9 @@
         "marker-color": "66ff33",
         "name": "COLWYN-BAY-EIRIAS-PARK",
         "county": "Denbighshire",
-        "gridref": "SH857985",
-        "latitude": "53.471",
-        "longitude": "-3.723",
+        "gridref": "SH857785",
+        "latitude": "53.291",
+        "longitude": "-3.716",
         "elevation (ft)": "118"
       }
     },
@@ -27797,7 +28238,7 @@
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
         "marker-color": "66ff33",
-        "name": "DANBY-BOLTON-HALL",
+        "name": "DANBY-BOTTON-HALL",
         "county": "Yorkshire North Riding",
         "gridref": "NZ696040",
         "latitude": "54.427",
@@ -29840,6 +30281,48 @@
         "latitude": "53.469",
         "longitude": "-1.149",
         "elevation (ft)": "190"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.411,
+          50.72
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "DORCHESTER-STINSFORD",
+        "county": "Dorset",
+        "gridref": "SY711912",
+        "latitude": "50.720",
+        "longitude": "-2.411",
+        "elevation (ft)": "207"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.436,
+          50.714
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "DORCHESTER-WOLLASTON-HOUSE",
+        "county": "Dorset",
+        "gridref": "SY693906",
+        "latitude": "50.714",
+        "longitude": "-2.436",
+        "elevation (ft)": "200"
       }
     },
     {
@@ -37946,6 +38429,27 @@
         "latitude": "54.507",
         "longitude": "-1.736",
         "elevation (ft)": "351"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.912,
+          50.843
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "FORDE-ABBEY",
+        "county": "Dorset",
+        "gridref": "ST359052",
+        "latitude": "50.843",
+        "longitude": "-2.912",
+        "elevation (ft)": "200"
       }
     },
     {
@@ -49050,7 +49554,7 @@
         "marker-size": "small",
         "marker-color": "66ff33",
         "name": "HIGHGATE-NURSERIES",
-        "county": "Middlesex-stayed-Middlesex",
+        "county": "Middlesex-became-London",
         "gridref": "TQ282870",
         "latitude": "51.567",
         "longitude": "-0.152",
@@ -49685,6 +50189,48 @@
         "latitude": "52.908",
         "longitude": "1.062",
         "elevation (ft)": "50"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.436,
+          50.896
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "HOLWELL-WESTROW",
+        "county": "Dorset",
+        "gridref": "ST694108",
+        "latitude": "50.896",
+        "longitude": "-2.436",
+        "elevation (ft)": "252"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.429,
+          50.895
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "HOLWELL-WESTROW",
+        "county": "Dorset",
+        "gridref": "ST699107",
+        "latitude": "50.895",
+        "longitude": "-2.429",
+        "elevation (ft)": "265"
       }
     },
     {
@@ -59415,6 +59961,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -2.586,
+          50.699
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "LITTLE-BREDY",
+        "county": "Dorset",
+        "gridref": "SY587890",
+        "latitude": "50.699",
+        "longitude": "-2.586",
+        "elevation (ft)": "348"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -3.918,
           56.016
         ]
@@ -60311,6 +60878,27 @@
         "latitude": "51.998",
         "longitude": "-3.800",
         "elevation (ft)": "220"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.477,
+          52.919
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "LLANDRILLO-CROGEN",
+        "county": "Merionethshire",
+        "gridref": "SJ008367",
+        "latitude": "52.919",
+        "longitude": "-3.477",
+        "elevation (ft)": "530"
       }
     },
     {
@@ -64623,6 +65211,48 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -2.94,
+          50.721
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "LYME-REGIS",
+        "county": "Dorset",
+        "gridref": "SY337916",
+        "latitude": "50.721",
+        "longitude": "-2.940",
+        "elevation (ft)": "19"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.94,
+          50.731
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "LYME-REGIS-HORN-BRIDGE",
+        "county": "Dorset",
+        "gridref": "SY337927",
+        "latitude": "50.731",
+        "longitude": "-2.940",
+        "elevation (ft)": "85"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -2.972,
           50.717
         ]
@@ -64910,6 +65540,27 @@
         "latitude": "51.147",
         "longitude": "-2.283",
         "elevation (ft)": "620"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.58,
+          50.79
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "MAIDEN-NEWTON-CATTISTOCK-LODGE",
+        "county": "Dorset",
+        "gridref": "SY592991",
+        "latitude": "50.790",
+        "longitude": "-2.580",
+        "elevation (ft)": "350"
       }
     },
     {
@@ -68760,6 +69411,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -2.486,
+          50.835
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "MINTERNE",
+        "county": "Dorset",
+        "gridref": "ST659040",
+        "latitude": "50.835",
+        "longitude": "-2.486",
+        "elevation (ft)": "800"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -1.758,
           52.528
         ]
@@ -71210,6 +71882,27 @@
         "latitude": "55.734",
         "longitude": "-4.397",
         "elevation (ft)": "700"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.755,
+          50.792
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "NETHERBURY-BEAMINSTER",
+        "county": "Dorset",
+        "gridref": "SY469994",
+        "latitude": "50.792",
+        "longitude": "-2.755",
+        "elevation (ft)": "170"
       }
     },
     {
@@ -80121,6 +80814,153 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -1.963,
+          50.723
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "POOLE",
+        "county": "Dorset",
+        "gridref": "SZ027915",
+        "latitude": "50.723",
+        "longitude": "-1.963",
+        "elevation (ft)": "18"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.973,
+          50.721
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "POOLE-PARKSTONE",
+        "county": "Dorset",
+        "gridref": "SZ199913",
+        "latitude": "50.721",
+        "longitude": "-1.973",
+        "elevation (ft)": "56"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.939,
+          50.729
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "POOLE-PARKSTONE",
+        "county": "Dorset",
+        "gridref": "SZ044920",
+        "latitude": "50.729",
+        "longitude": "-1.939",
+        "elevation (ft)": "198"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.938,
+          50.719
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "POOLE-PARKSTONE",
+        "county": "Dorset",
+        "gridref": "SZ045910",
+        "latitude": "50.719",
+        "longitude": "-1.938",
+        "elevation (ft)": "170"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.949,
+          50.73
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "POOLE-PARKSTONE",
+        "county": "Dorset",
+        "gridref": "SZ036923",
+        "latitude": "50.730",
+        "longitude": "-1.949",
+        "elevation (ft)": "198"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.932,
+          50.724
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "POOLE-PARKSTONE",
+        "county": "Dorset",
+        "gridref": "SZ049916",
+        "latitude": "50.724",
+        "longitude": "-1.932",
+        "elevation (ft)": "160"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.988,
+          50.716
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "POOLE-WEST-STREET",
+        "county": "Dorset",
+        "gridref": "SZ009907",
+        "latitude": "50.716",
+        "longitude": "-1.988",
+        "elevation (ft)": "5"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -5.598,
           57.775
         ]
@@ -80407,6 +81247,48 @@
         "gridref": "SY677684",
         "latitude": "50.514",
         "longitude": "-2.456",
+        "elevation (ft)": "23"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.431,
+          50.566
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "PORTLAND-BREAKWATER",
+        "county": "Dorset",
+        "gridref": "SY695741",
+        "latitude": "50.566",
+        "longitude": "-2.431",
+        "elevation (ft)": "52"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.428,
+          50.565
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "PORTLAND-HM-BREAKWATER",
+        "county": "Dorset",
+        "gridref": "SY698740",
+        "latitude": "50.565",
+        "longitude": "-2.428",
         "elevation (ft)": "23"
       }
     },
@@ -94380,6 +95262,48 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -2.31,
+          50.925
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "STURMINSTER-NEWTON-RIVERSIDE",
+        "county": "Dorset",
+        "gridref": "ST783140",
+        "latitude": "50.925",
+        "longitude": "-2.310",
+        "elevation (ft)": "200"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.304,
+          50.924
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "STURMINSTER-NEWTON-RIVERSIDE",
+        "county": "Dorset",
+        "gridref": "ST787138",
+        "latitude": "50.924",
+        "longitude": "-2.304",
+        "elevation (ft)": "200"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           1.137,
           51.982
         ]
@@ -95045,6 +95969,27 @@
         "latitude": "50.614",
         "longitude": "-1.959",
         "elevation (ft)": "40"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.955,
+          50.607
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "SWANAGE-VICTORIA-HOTEL",
+        "county": "Dorset",
+        "gridref": "SZ033786",
+        "latitude": "50.607",
+        "longitude": "-1.955",
+        "elevation (ft)": "50"
       }
     },
     {
@@ -97565,6 +98510,48 @@
         "latitude": "52.681",
         "longitude": "-0.490",
         "elevation (ft)": "161"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.295,
+          50.75
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "TOLPUDDLE",
+        "county": "Dorset",
+        "gridref": "SY792945",
+        "latitude": "50.750",
+        "longitude": "-2.295",
+        "elevation (ft)": "100"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.298,
+          50.749
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "TOLPUDDLE",
+        "county": "Dorset",
+        "gridref": "SY790944",
+        "latitude": "50.749",
+        "longitude": "-2.298",
+        "elevation (ft)": "150"
       }
     },
     {
@@ -101499,6 +102486,69 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -2.092,
+          50.652
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "WAREHAM-FURZEBROOK",
+        "county": "Dorset",
+        "gridref": "SY932835",
+        "latitude": "50.652",
+        "longitude": "-2.092",
+        "elevation (ft)": "160"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.112,
+          50.684
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "WAREHAM-SOUTH-STREET",
+        "county": "Dorset",
+        "gridref": "SY922871",
+        "latitude": "50.684",
+        "longitude": "-2.112",
+        "elevation (ft)": "18"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.163,
+          50.7
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "WAREHAM-TRIGON",
+        "county": "Dorset",
+        "gridref": "SY886889",
+        "latitude": "50.700",
+        "longitude": "-2.163",
+        "elevation (ft)": "60"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -0.745,
           51.452
         ]
@@ -103536,6 +104586,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -2.25,
+          50.626
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "WEST-LULWORTH-VICARAGE",
+        "county": "Dorset",
+        "gridref": "SY824807",
+        "latitude": "50.626",
+        "longitude": "-2.250",
+        "elevation (ft)": "128"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -0.397,
           51.404
         ]
@@ -104138,6 +105209,27 @@
         "latitude": "51.099",
         "longitude": "-0.706",
         "elevation (ft)": "562"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.39,
+          50.645
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "WEYMOUTH-OSMINGTON-LODGE",
+        "county": "Dorset",
+        "gridref": "SY725828",
+        "latitude": "50.645",
+        "longitude": "-2.390",
+        "elevation (ft)": "242"
       }
     },
     {
@@ -105293,6 +106385,48 @@
         "latitude": "51.432",
         "longitude": "-0.192",
         "elevation (ft)": "55"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.99,
+          50.802
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "WIMBORNE-CODFORD-HOUSE",
+        "county": "Dorset",
+        "gridref": "SU008003",
+        "latitude": "50.802",
+        "longitude": "-1.990",
+        "elevation (ft)": "69"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.042,
+          50.785
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "WIMBORNE-CORFE-MULLEN-WW",
+        "county": "Dorset",
+        "gridref": "SY971984",
+        "latitude": "50.785",
+        "longitude": "-2.042",
+        "elevation (ft)": "81"
       }
     },
     {
@@ -108275,6 +109409,27 @@
         "latitude": "52.600",
         "longitude": "1.178",
         "elevation (ft)": "163"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.604,
+          50.754
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "WYNFORD-HOUSE",
+        "county": "Dorset",
+        "gridref": "SY575951",
+        "latitude": "50.754",
+        "longitude": "-2.604",
+        "elevation (ft)": "410"
       }
     },
     {
