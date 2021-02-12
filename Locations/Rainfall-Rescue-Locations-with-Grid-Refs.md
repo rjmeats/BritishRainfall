@@ -1,4 +1,4 @@
-Generation time: Friday 12/02/2021 08:49:32 GMT
+Generation time: Friday 12/02/2021 19:17:23 GMT
 
 ## Locations A-K
 
@@ -673,6 +673,7 @@ Generation time: Friday 12/02/2021 08:49:32 GMT
 |[BIRMINGHAM-ERDINGTON](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/BIRMINGHAM-ERDINGTON)|BIRMINGHAM-ERDINGTON.csv|SP102917|52.523|-1.851|472|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=52.523&lon=-1.851&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/52.523,-1.851,16)  |
 ||BIRMINGHAM-ERDINGTON-2.csv|SP102917|52.523|-1.851|442|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=52.523&lon=-1.851&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/52.523,-1.851,16)  |
 |[BIRMINGHAM-PHIL-INST](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/BIRMINGHAM-PHIL-INST)|BIRMINGHAM-PHIL-INST.csv|SP070869|52.480|-1.897|490|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=52.480&lon=-1.897&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/52.480,-1.897,16)  |
+|[BIRMINGHAM-SELLY-OAK-LODGE-HILL](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/BIRMINGHAM-SELLY-OAK-LODGE-HILL)|||||||
 |[BIRMINGHAM-SHELDON-RECTORY](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/BIRMINGHAM-SHELDON-RECTORY)|BIRMINGHAM-SHELDON-RECTORY.csv|SP151838|52.452|-1.779|323|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=52.452&lon=-1.779&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/52.452,-1.779,16)  |
 |[BIRMINGHAM-SPARKHILL](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/BIRMINGHAM-SPARKHILL)|BIRMINGHAM-SPARKHILL.csv|SP102837|52.451|-1.851|426|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=52.451&lon=-1.851&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/52.451,-1.851,16)  |
 |[BIRMINGHAM-THE-CRESCENT](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/BIRMINGHAM-THE-CRESCENT)|BIRMINGHAM-THE-CRESCENT.csv|SP061869|52.480|-1.912|495|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=52.480&lon=-1.912&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/52.480,-1.912,16)  |
@@ -2497,6 +2498,8 @@ Generation time: Friday 12/02/2021 08:49:32 GMT
 |[FELINDRE-UPPER-LLIW-RES](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/FELINDRE-UPPER-LLIW-RES)|||||||
 |[FELIXKIRK-MOUNT-ST-JOHN](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/FELIXKIRK-MOUNT-ST-JOHN)|||||||
 |[FELIXKIRK-THIRLBY](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/FELIXKIRK-THIRLBY)|||||||
+|[FELIXSTOWE-AIRFIELD](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/FELIXSTOWE-AIRFIELD)|||||||
+|[FELIXSTOWE-WEST-VIEW](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/FELIXSTOWE-WEST-VIEW)|||||||
 |[FELSTED-SCHOOL](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/FELSTED-SCHOOL)|FELSTED-SCHOOL.csv|TL679205|51.858|0.437|248|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=51.858&lon=0.437&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/51.858,0.437,16)  |
 |[FELTHORPE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/FELTHORPE)|FELTHORPE.csv|TG165185|52.721|1.206|75|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=52.721&lon=1.206&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/52.721,1.206,16)  |
 |[FERMOY-GAS-WORKS](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/FERMOY-GAS-WORKS)|FERMOY-GAS-WORKS.csv|IW8180498489|52.138|-8.267|75|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=52.138&lon=-8.267&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/52.138,-8.267,16) [OSM](https://www.openstreetmap.org/#map=16/52.138/-8.267) [GGL](https://www.google.co.uk/maps/@52.138,-8.267,16z)|
@@ -2518,6 +2521,7 @@ Generation time: Friday 12/02/2021 08:49:32 GMT
 |[FEWSTON-BLUBBERHOUSES](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/FEWSTON-BLUBBERHOUSES)|FEWSTON-BLUBBERHOUSES.csv|SE166553|53.993|-1.748|575|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=53.993&lon=-1.748&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/53.993,-1.748,16)  |
 |[FEWSTON-NORTH](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/FEWSTON-NORTH)|FEWSTON-NORTH.csv|SE187543|53.984|-1.716|525|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=53.984&lon=-1.716&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/53.984,-1.716,16)  |
 |[FEWSTON-SOUTH](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/FEWSTON-SOUTH)|FEWSTON-SOUTH.csv|SE195541|53.983|-1.704|525|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=53.983&lon=-1.704&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/53.983,-1.704,16)  |
+|[FEWSTON-SPINKSBURN](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/FEWSTON-SPINKSBURN)|||||||
 |[FEWSTON-SWINSTY-EAST](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/FEWSTON-SWINSTY-EAST)|FEWSTON-SWINSTY-EAST.csv|SE197525|53.968|-1.701|460|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=53.968&lon=-1.701&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/53.968,-1.701,16)  |
 |[FEWSTON-SWINSTY-WEST](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/FEWSTON-SWINSTY-WEST)|FEWSTON-SWINSTY-WEST.csv|SE193527|53.970|-1.707|425|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=53.970&lon=-1.707&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/53.970,-1.707,16)  |
 |[FEWSTON-TIMBLE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/FEWSTON-TIMBLE)|FEWSTON-TIMBLE.csv|SE178528|53.971|-1.730|720|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=53.971&lon=-1.730&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/53.971,-1.730,16)  |

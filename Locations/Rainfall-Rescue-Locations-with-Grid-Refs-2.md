@@ -1,4 +1,4 @@
-Generation time: Friday 12/02/2021 08:49:32 GMT
+Generation time: Friday 12/02/2021 19:17:23 GMT
 
 ## Locations L-Z
 
@@ -1983,6 +1983,7 @@ Generation time: Friday 12/02/2021 08:49:32 GMT
 |[SANDY-RECTORY](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/SANDY-RECTORY)|SANDY-RECTORY.csv|TL174490|52.127|-0.286|120|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=52.127&lon=-0.286&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/52.127,-0.286,16)  |
 |[SANDY-SEWAGE-WORKS](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/SANDY-SEWAGE-WORKS)|SANDY-SEWAGE-WORKS.csv|TL164502|52.138|-0.301|72|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=52.138&lon=-0.301&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/52.138,-0.301,16)  |
 |[SANDY-THE-LODGE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/SANDY-THE-LODGE)|SANDY-THE-LODGE.csv|TL189478|52.116|-0.265|200|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=52.116&lon=-0.265&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/52.116,-0.265,16)  |
+|[SANTON-VICARAGE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/SANTON-VICARAGE)|||||||
 |[SARK-PARSONAGE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/SARK-PARSONAGE)|||||||
 |[SARK-VALLEE-DU-CREUX](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/SARK-VALLEE-DU-CREUX)|||||||
 |[SARNESFIELD-GRANGE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/SARNESFIELD-GRANGE)|SARNESFIELD-GRANGE.csv|SO368509|52.153|-2.925|400|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=52.153&lon=-2.925&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/52.153,-2.925,16)  |
@@ -1991,6 +1992,7 @@ Generation time: Friday 12/02/2021 08:49:32 GMT
 |[SAXLINGHAM-NETHERGATE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/SAXLINGHAM-NETHERGATE)|SAXLINGHAM-NETHERGATE.csv|TM231971|52.526|1.287|83|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=52.526&lon=1.287&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/52.526,1.287,16)  |
 |[SCAFELL-PIKE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/SCAFELL-PIKE)|SCAFELL-PIKE.csv|NY215071|54.454|-3.212|3200|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=54.454&lon=-3.212&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/54.454,-3.212,16)  |
 ||SCAFELL-PIKE-2.csv|NY215071|54.454|-3.212|3200|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=54.454&lon=-3.212&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/54.454,-3.212,16)  |
+|[SCALDWELL](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/SCALDWELL)|||||||
 |[SCALPAY](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/SCALPAY)|SCALPAY.csv|NG630283|57.284|-5.934|4|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=57.284&lon=-5.934&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/57.284,-5.934,16)  |
 |[SCARBOROUGH-MIX](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/SCARBOROUGH-MIX)|SCARBOROUGH-MIX.csv|TA037882|54.279|-0.409|100|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=54.279&lon=-0.409&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/54.279,-0.409,16)  |
 ||SCARBOROUGH-MIX-2.csv|TA042883|54.280|-0.401|102|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=54.280&lon=-0.401&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/54.280,-0.401,16)  |

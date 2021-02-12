@@ -1,9 +1,9 @@
-Generation time: Friday 12/02/2021 08:49:32 GMT
+Generation time: Friday 12/02/2021 19:17:23 GMT
 
 
 [MO-2020] indicates a location which contributed to the [Met Office 2020 UK Climate Report](https://www.metoffice.gov.uk/research/climate/maps-and-data/about/state-of-climate):
 
-5348 locations under [https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA):
+5354 locations under [https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA):
 
 * [ABBEY-CWMHIR-THE-HALL](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/ABBEY-CWMHIR-THE-HALL)
 * [ABBEY-LEIX-BLANDSFORT](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/ABBEY-LEIX-BLANDSFORT)
@@ -515,6 +515,7 @@ Generation time: Friday 12/02/2021 08:49:32 GMT
 * [BIRMINGHAM-EDGBASTON](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/BIRMINGHAM-EDGBASTON)
 * [BIRMINGHAM-ERDINGTON](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/BIRMINGHAM-ERDINGTON)
 * [BIRMINGHAM-PHIL-INST](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/BIRMINGHAM-PHIL-INST)
+* [BIRMINGHAM-SELLY-OAK-LODGE-HILL](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/BIRMINGHAM-SELLY-OAK-LODGE-HILL)
 * [BIRMINGHAM-SHELDON-RECTORY](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/BIRMINGHAM-SHELDON-RECTORY)
 * [BIRMINGHAM-SPARKHILL](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/BIRMINGHAM-SPARKHILL)
 * [BIRMINGHAM-THE-CRESCENT](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/BIRMINGHAM-THE-CRESCENT)
@@ -1881,6 +1882,8 @@ Generation time: Friday 12/02/2021 08:49:32 GMT
 * [FELINDRE-UPPER-LLIW-RES](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/FELINDRE-UPPER-LLIW-RES)
 * [FELIXKIRK-MOUNT-ST-JOHN](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/FELIXKIRK-MOUNT-ST-JOHN)
 * [FELIXKIRK-THIRLBY](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/FELIXKIRK-THIRLBY)
+* [FELIXSTOWE-AIRFIELD](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/FELIXSTOWE-AIRFIELD)
+* [FELIXSTOWE-WEST-VIEW](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/FELIXSTOWE-WEST-VIEW)
 * [FELSTED-SCHOOL](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/FELSTED-SCHOOL) [MO-2020]
 * [FELTHORPE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/FELTHORPE)
 * [FERMOY-GAS-WORKS](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/FERMOY-GAS-WORKS)
@@ -1898,6 +1901,7 @@ Generation time: Friday 12/02/2021 08:49:32 GMT
 * [FEWSTON-BLUBBERHOUSES](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/FEWSTON-BLUBBERHOUSES)
 * [FEWSTON-NORTH](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/FEWSTON-NORTH)
 * [FEWSTON-SOUTH](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/FEWSTON-SOUTH)
+* [FEWSTON-SPINKSBURN](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/FEWSTON-SPINKSBURN)
 * [FEWSTON-SWINSTY-EAST](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/FEWSTON-SWINSTY-EAST)
 * [FEWSTON-SWINSTY-WEST](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/FEWSTON-SWINSTY-WEST)
 * [FEWSTON-TIMBLE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/FEWSTON-TIMBLE)
@@ -4218,6 +4222,7 @@ Generation time: Friday 12/02/2021 08:49:32 GMT
 * [SANDY-RECTORY](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/SANDY-RECTORY)
 * [SANDY-SEWAGE-WORKS](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/SANDY-SEWAGE-WORKS)
 * [SANDY-THE-LODGE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/SANDY-THE-LODGE)
+* [SANTON-VICARAGE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/SANTON-VICARAGE)
 * [SARK-PARSONAGE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/SARK-PARSONAGE)
 * [SARK-VALLEE-DU-CREUX](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/SARK-VALLEE-DU-CREUX)
 * [SARNESFIELD-GRANGE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/SARNESFIELD-GRANGE)
@@ -4225,6 +4230,7 @@ Generation time: Friday 12/02/2021 08:49:32 GMT
 * [SAWBRIDGEWORTH-PUMPING-STATION](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/SAWBRIDGEWORTH-PUMPING-STATION)
 * [SAXLINGHAM-NETHERGATE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/SAXLINGHAM-NETHERGATE)
 * [SCAFELL-PIKE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/SCAFELL-PIKE)
+* [SCALDWELL](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/SCALDWELL)
 * [SCALPAY](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/SCALPAY)
 * [SCARBOROUGH-MIX](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/SCARBOROUGH-MIX)
 * [SCARBOROUGH-OSGODBY](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/SCARBOROUGH-OSGODBY)
