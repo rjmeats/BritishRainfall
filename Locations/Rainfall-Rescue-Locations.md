@@ -1,9 +1,9 @@
-Generation time: Friday 12/02/2021 19:17:23 GMT
+Generation time: Monday 15/02/2021 09:34:06 GMT
 
 
 [MO-2020] indicates a location which contributed to the [Met Office 2020 UK Climate Report](https://www.metoffice.gov.uk/research/climate/maps-and-data/about/state-of-climate):
 
-5354 locations under [https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA):
+5353 locations under [https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA):
 
 * [ABBEY-CWMHIR-THE-HALL](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/ABBEY-CWMHIR-THE-HALL)
 * [ABBEY-LEIX-BLANDSFORT](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/ABBEY-LEIX-BLANDSFORT)
@@ -1550,7 +1550,7 @@ Generation time: Friday 12/02/2021 19:17:23 GMT
 * [DONCASTER-MAGDALENS](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/DONCASTER-MAGDALENS)
 * [DONCASTER-PUMPING-STATION](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/DONCASTER-PUMPING-STATION)
 * [DONCASTER-WADWORTH-HALL](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/DONCASTER-WADWORTH-HALL)
-* [DONEGAL-REVELIN-HOUSE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/DONEGAL-REVELIN-HOUSE)
+* [DONEGAL-REVLIN-HOUSE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/DONEGAL-REVLIN-HOUSE)
 * [DORCHESTER-STINSFORD](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/DORCHESTER-STINSFORD)
 * [DORCHESTER-WOLLASTON-HOUSE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/DORCHESTER-WOLLASTON-HOUSE)
 * [DORCHESTER-WW](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/DORCHESTER-WW)
@@ -2702,6 +2702,7 @@ Generation time: Friday 12/02/2021 19:17:23 GMT
 * [KILLANTRINGAN](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/KILLANTRINGAN)
 * [KILLARNEY-MENTAL-HOSPITAL](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/KILLARNEY-MENTAL-HOSPITAL)
 * [KILLARNEY-WOODLAWN](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/KILLARNEY-WOODLAWN)
+* [KILLEARN-ACHNAGOWAN](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/KILLEARN-ACHNAGOWAN)
 * [KILLEARN-OLD-BALLIKINRAIN](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/KILLEARN-OLD-BALLIKINRAIN)
 * [KILLESHANDRA-CASTLE-HAMILTON](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/KILLESHANDRA-CASTLE-HAMILTON)
 * [KILLIN](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/KILLIN)
@@ -5302,9 +5303,7 @@ Generation time: Friday 12/02/2021 19:17:23 GMT
 * [WREXHAM-GWERSYLLT](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/WREXHAM-GWERSYLLT)
 * [WREXHAM-PLAS-POWER](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/WREXHAM-PLAS-POWER)
 * [WREXHAM-TREVALYN](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/WREXHAM-TREVALYN)
-* [WREXHAM-WW-NANTYFFRITH-RES](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/WREXHAM-WW-NANTYFFRITH-RES)
 * [WREXHAM-WW-PACK-SADDLE-RES](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/WREXHAM-WW-PACK-SADDLE-RES)
-* [WREXHAM-WW-PENDINAS-RES](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/WREXHAM-WW-PENDINAS-RES)
 * [WREXHAM-WW-TY-MAWR-RES](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/WREXHAM-WW-TY-MAWR-RES)
 * [WREXHAM-WYNNSTAY](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/WREXHAM-WYNNSTAY)
 * [WRINGTON-BARLEY-WOOD](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/WRINGTON-BARLEY-WOOD)
