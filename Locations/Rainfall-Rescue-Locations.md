@@ -1,9 +1,9 @@
-Generation time: Monday 15/02/2021 09:34:06 GMT
+Generation time: Monday 15/02/2021 17:18:26 GMT
 
 
 [MO-2020] indicates a location which contributed to the [Met Office 2020 UK Climate Report](https://www.metoffice.gov.uk/research/climate/maps-and-data/about/state-of-climate):
 
-5353 locations under [https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA):
+5355 locations under [https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA):
 
 * [ABBEY-CWMHIR-THE-HALL](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/ABBEY-CWMHIR-THE-HALL)
 * [ABBEY-LEIX-BLANDSFORT](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/ABBEY-LEIX-BLANDSFORT)
@@ -4447,6 +4447,8 @@ Generation time: Monday 15/02/2021 09:34:06 GMT
 * [SOUTHEND-WW](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/SOUTHEND-WW)
 * [SOUTHFLEET-KENT-WW](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/SOUTHFLEET-KENT-WW)
 * [SOUTHGATE-THE-LAWNS](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/SOUTHGATE-THE-LAWNS)
+* [SOUTHMINSTER](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/SOUTHMINSTER)
+* [SOUTHMINSTER-NEW-MOOR](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/SOUTHMINSTER-NEW-MOOR)
 * [SOUTHPORT-BIRKDALE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/SOUTHPORT-BIRKDALE)
 * [SOUTHPORT-HESKETH-PARK](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/SOUTHPORT-HESKETH-PARK)
 * [SOUTHPORT-LORD-STREET-STATION](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/SOUTHPORT-LORD-STREET-STATION)
