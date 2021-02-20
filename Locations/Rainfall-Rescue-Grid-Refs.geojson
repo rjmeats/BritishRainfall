@@ -31233,6 +31233,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -8.124,
+          54.652
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "DONEGAL-REVLIN-HOUSE",
+        "county": "Donegal",
+        "gridref": "IG920782",
+        "latitude": "54.652",
+        "longitude": "-8.124",
+        "elevation (ft)": "203"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -2.411,
           50.72
         ]
@@ -50814,7 +50835,7 @@
         "marker-size": "small",
         "marker-color": "66ff33",
         "name": "HIGHGATE-NURSERIES",
-        "county": "Middlesex-became-London",
+        "county": "Middlesex-stayed-Middlesex",
         "gridref": "TQ282870",
         "latitude": "51.567",
         "longitude": "-0.152",
@@ -73653,6 +73674,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -3.07,
+          53.291
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "NESTON",
+        "county": "Cheshire",
+        "gridref": "SJ288776",
+        "latitude": "53.291",
+        "longitude": "-3.070",
+        "elevation (ft)": "100"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -4.397,
           55.734
         ]
@@ -85910,6 +85952,48 @@
         "latitude": "53.314",
         "longitude": "-3.501",
         "elevation (ft)": "17"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.494,
+          53.324
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "RHYL-SEWAGE-WORKS",
+        "county": "Flintshire",
+        "gridref": "SJ006818",
+        "latitude": "53.324",
+        "longitude": "-3.494",
+        "elevation (ft)": "21"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.485,
+          53.324
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "RHYL-SEWAGE-WORKS",
+        "county": "Flintshire",
+        "gridref": "SJ012818",
+        "latitude": "53.324",
+        "longitude": "-3.485",
+        "elevation (ft)": "21"
       }
     },
     {
