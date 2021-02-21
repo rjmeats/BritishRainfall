@@ -1,4 +1,4 @@
-Generation time: Saturday 20/02/2021 09:23:15 GMT
+Generation time: Sunday 21/02/2021 12:31:37 GMT
 
 ## Locations L-Z
 
@@ -426,7 +426,7 @@ Generation time: Saturday 20/02/2021 09:23:15 GMT
 |[LOCH-LEVEN-SLUICE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/LOCH-LEVEN-SLUICE)|LOCH-LEVEN-SLUICE.csv|NT171993|56.180|-3.337|360|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=56.180&lon=-3.337&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/56.180,-3.337,16)  |
 ||LOCH-LEVEN-SLUICE-2.csv|NT171993|56.180|-3.337|360|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=56.180&lon=-3.337&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/56.180,-3.337,16)  |
 |[LOCH-LOCHY-INVERGLOY](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/LOCH-LOCHY-INVERGLOY)|LOCH-LOCHY-INVERGLOY.csv|NN225883|56.952|-4.920|200|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=56.952&lon=-4.920&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/56.952,-4.920,16)  |
-|[LOCH-LOMOND-ARDLUI](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/LOCH-LOMOND-ARDLUI)|||||||
+|[LOCH-LOMOND-ARDLUI](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/LOCH-LOMOND-ARDLUI)|LOCH-LOMOND-ARDLUI.csv|NN317157|56.304|-4.721|50|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=56.304&lon=-4.721&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/56.304,-4.721,16)  |
 |[LOCH-MORE-ACHFARY](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/LOCH-MORE-ACHFARY)|LOCH-MORE-ACHFARY.csv|NC299412|58.326|-4.906|160|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=58.326&lon=-4.906&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/58.326,-4.906,16)  |
 ||LOCH-MORE-ACHFARY-2.csv|NC292396|58.312|-4.917|137|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=58.312&lon=-4.917&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/58.312,-4.917,16)  |
 ||LOCH-MORE-ACHFARY-3.csv|NC299412|58.326|-4.906|150|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=58.326&lon=-4.906&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/58.326,-4.906,16)  |
@@ -739,8 +739,8 @@ Generation time: Saturday 20/02/2021 09:23:15 GMT
 |[MARYPORT-NETHERHALL](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/MARYPORT-NETHERHALL)|MARYPORT-NETHERHALL.csv|NY042366|54.715|-3.489|27|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=54.715&lon=-3.489&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/54.715,-3.489,16)  |
 |[MASBOROUGH-PARSONAGE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/POOR-LOCATIONS/MASBOROUGH-PARSONAGE)|||||||
 |[MASHAM-MOOR-BREARY-BANK](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/MASHAM-MOOR-BREARY-BANK)|MASHAM-MOOR-BREARY-BANK.csv|SE160803|54.218|-1.756|600|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=54.218&lon=-1.756&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/54.218,-1.756,16)  |
-|[MASHAM-MOOR-HIGH-SOUR-MINE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/MASHAM-MOOR-HIGH-SOUR-MINE)|MASHAM-MOOR-HIGH-SOUR-MINE.csv|SE143790|54.207|-1.782|884|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=54.207&lon=-1.782&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/54.207,-1.782,16)  |
-||MASHAM-MOOR-HIGH-SOUR-MINE-2.csv|SE143790|54.207|-1.782|884|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=54.207&lon=-1.782&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/54.207,-1.782,16)  |
+|[MASHAM-MOOR-HIGH-SOUR-MIRE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/MASHAM-MOOR-HIGH-SOUR-MIRE)|MASHAM-MOOR-HIGH-SOUR-MIRE.csv|SE143790|54.207|-1.782|884|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=54.207&lon=-1.782&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/54.207,-1.782,16)  |
+||MASHAM-MOOR-HIGH-SOUR-MIRE-2.csv|SE143790|54.207|-1.782|884|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=54.207&lon=-1.782&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/54.207,-1.782,16)  |
 |[MASHAM-MOOR-LEIGHTON-HEALEY](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/MASHAM-MOOR-LEIGHTON-HEALEY)|MASHAM-MOOR-LEIGHTON-HEALEY.csv|SE161792|54.208|-1.755|636|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=54.208&lon=-1.755&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/54.208,-1.755,16)  |
 ||MASHAM-MOOR-LEIGHTON-HEALEY-2.csv|SE179805|54.220|-1.727|542|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=54.220&lon=-1.727&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/54.220,-1.727,16)  |
 ||MASHAM-MOOR-LEIGHTON-HEALEY-3.csv|SE161790|54.206|-1.755|634|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=54.206&lon=-1.755&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/54.206,-1.755,16)  |

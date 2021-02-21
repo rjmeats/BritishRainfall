@@ -1854,6 +1854,111 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -2.211,
+          49.707
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "ALDERNEY-AIRPORT",
+        "county": "Alderney",
+        "gridref": "WA569065",
+        "latitude": "49.707",
+        "longitude": "-2.211",
+        "elevation (ft)": "288"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.202,
+          49.722
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "ALDERNEY-HARBOUR",
+        "county": "Alderney",
+        "gridref": "WA575079",
+        "latitude": "49.722",
+        "longitude": "-2.202",
+        "elevation (ft)": "48"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.207,
+          49.713
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "ALDERNEY-ST-ANNE",
+        "county": "Alderney",
+        "gridref": "WA571070",
+        "latitude": "49.713",
+        "longitude": "-2.207",
+        "elevation (ft)": "245"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.208,
+          49.714
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "ALDERNEY-ST-ANNE",
+        "county": "Alderney",
+        "gridref": "WA571071",
+        "latitude": "49.714",
+        "longitude": "-2.208",
+        "elevation (ft)": "205"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.204,
+          49.716
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "ALDERNEY-ST-ANNE",
+        "county": "Alderney",
+        "gridref": "WA574073",
+        "latitude": "49.716",
+        "longitude": "-2.204",
+        "elevation (ft)": "215"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           0.961,
           52.072
         ]
@@ -2295,6 +2400,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -1.173,
+          51.089
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "ALRESFORD-ARLE-BURY",
+        "county": "Hampshire",
+        "gridref": "SU580325",
+        "latitude": "51.089",
+        "longitude": "-1.173",
+        "elevation (ft)": "238"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -1.199,
           51.082
         ]
@@ -2309,6 +2435,27 @@
         "latitude": "51.082",
         "longitude": "-1.199",
         "elevation (ft)": "221"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.189,
+          51.131
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "ALRESFORD-SWARRATON-RECTORY",
+        "county": "Hampshire",
+        "gridref": "SU568371",
+        "latitude": "51.131",
+        "longitude": "-1.189",
+        "elevation (ft)": "310"
       }
     },
     {
@@ -2477,6 +2624,27 @@
         "latitude": "58.388",
         "longitude": "-3.707",
         "elevation (ft)": "500"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.969,
+          51.147
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "ALTON-ASHDELL",
+        "county": "Hampshire",
+        "gridref": "SU721391",
+        "latitude": "51.147",
+        "longitude": "-0.969",
+        "elevation (ft)": "396"
       }
     },
     {
@@ -4332,6 +4500,48 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -3.823,
+          50.576
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "ASHBURTON-WIDECOMBE-VIC",
+        "county": "Devon",
+        "gridref": "SX718767",
+        "latitude": "50.576",
+        "longitude": "-3.823",
+        "elevation (ft)": "810"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.551,
+          50.616
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "ASHCOMBE-THORNS-RES",
+        "county": "Devon",
+        "gridref": "SX903806",
+        "latitude": "50.616",
+        "longitude": "-3.551",
+        "elevation (ft)": "550"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           0.863,
           51.157
         ]
@@ -4808,6 +5018,27 @@
         "latitude": "51.298",
         "longitude": "-2.896",
         "elevation (ft)": "120"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.993,
+          50.781
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "AXMINSTER-LEA-COMBE-HOUSE",
+        "county": "Devon",
+        "gridref": "SY300983",
+        "latitude": "50.781",
+        "longitude": "-2.993",
+        "elevation (ft)": "170"
       }
     },
     {
@@ -33031,6 +33262,27 @@
         "gridref": "NO454312",
         "latitude": "56.470",
         "longitude": "-2.887",
+        "elevation (ft)": "60"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.885,
+          56.467
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "DUNDEE-BROUGHTY-FERRY-DOUGLAS-HOUSE",
+        "county": "Angus (Forfar)",
+        "gridref": "NO456309",
+        "latitude": "56.467",
+        "longitude": "-2.885",
         "elevation (ft)": "60"
       }
     },
@@ -64245,6 +64497,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -4.721,
+          56.304
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "LOCH-LOMOND-ARDLUI",
+        "county": "Dunbartonshire",
+        "gridref": "NN317157",
+        "latitude": "56.304",
+        "longitude": "-4.721",
+        "elevation (ft)": "50"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -4.906,
           58.326
         ]
@@ -69062,7 +69335,7 @@
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
         "marker-color": "66ff33",
-        "name": "MASHAM-MOOR-HIGH-SOUR-MINE",
+        "name": "MASHAM-MOOR-HIGH-SOUR-MIRE",
         "county": "Yorkshire North Riding",
         "gridref": "SE143790",
         "latitude": "54.207",

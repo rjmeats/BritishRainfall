@@ -1,9 +1,9 @@
-Generation time: Saturday 20/02/2021 09:23:15 GMT
+Generation time: Sunday 21/02/2021 12:31:37 GMT
 
 
 [MO-2020] indicates a location which contributed to the [Met Office 2020 UK Climate Report](https://www.metoffice.gov.uk/research/climate/maps-and-data/about/state-of-climate):
 
-5414 locations under [https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA):
+5423 locations under [https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA):
 
 * [ABBEY-CWMHIR-THE-HALL](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/ABBEY-CWMHIR-THE-HALL)
 * [ABBEY-LEIX-BLANDSFORT](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/ABBEY-LEIX-BLANDSFORT)
@@ -72,6 +72,7 @@ Generation time: Saturday 20/02/2021 09:23:15 GMT
 * [ACKLETON-MIX](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/ACKLETON-MIX)
 * [ACKLINGTON-AIRFIELD](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/ACKLINGTON-AIRFIELD)
 * [ACKLINGTON-BROOMHILL-COLLIERY](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/ACKLINGTON-BROOMHILL-COLLIERY)
+* [ACKWORTH-NOSTELL-PRIORY](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/ACKWORTH-NOSTELL-PRIORY)
 * [ACKWORTH-SCHOOL](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/ACKWORTH-SCHOOL)
 * [ACKWORTH-VILLA](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/ACKWORTH-VILLA)
 * [ACLE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/ACLE)
@@ -213,6 +214,7 @@ Generation time: Saturday 20/02/2021 09:23:15 GMT
 * [ARMAGH-OBSERVATORY](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/ARMAGH-OBSERVATORY) [MO-2020]
 * [ARMBOTH](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/ARMBOTH)
 * [ARMBOTH-FELLS-THE-PEWITTS](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/ARMBOTH-FELLS-THE-PEWITTS)
+* [ARNCLIFFE-AMERDALE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/ARNCLIFFE-AMERDALE)
 * [ARNCLIFFE-VICARAGE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/ARNCLIFFE-VICARAGE)
 * [ARNFIELD-RES](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/ARNFIELD-RES) [MO-2020]
 * [ARRAN-BRODICK](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/ARRAN-BRODICK)
@@ -349,6 +351,8 @@ Generation time: Saturday 20/02/2021 09:23:15 GMT
 * [BARNFIELD-EXETER](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/BARNFIELD-EXETER)
 * [BARNINGHAM-PARK](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/BARNINGHAM-PARK)
 * [BARNINGHAM-THE-BEECHES](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/BARNINGHAM-THE-BEECHES)
+* [BARNOLDSWICK-GREENBERFIELD](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/BARNOLDSWICK-GREENBERFIELD)
+* [BARNOLDSWICK-RAINHALL-ROAD](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/BARNOLDSWICK-RAINHALL-ROAD)
 * [BARNSLEY](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/BARNSLEY)
 * [BARNSLEY-BURNTWOOD-HALL](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/BARNSLEY-BURNTWOOD-HALL)
 * [BARNSLEY-CAWTHORNE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/BARNSLEY-CAWTHORNE)
@@ -401,6 +405,7 @@ Generation time: Saturday 20/02/2021 09:23:15 GMT
 * [BATHEASTON](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/BATHEASTON)
 * [BATHEASTON-RES](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/BATHEASTON-RES) [MO-2020]
 * [BATHGATE-NORTHBANK-FILTERS](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/BATHGATE-NORTHBANK-FILTERS)
+* [BATLEY-CORPORATION-WW](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/BATLEY-CORPORATION-WW)
 * [BATLEY-STAINCLIFFE-RES](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/BATLEY-STAINCLIFFE-RES)
 * [BATTERSEA-PARK](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/BATTERSEA-PARK)
 * [BATTERSEA-ST-JOHNS-COLLEGE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/BATTERSEA-ST-JOHNS-COLLEGE)
@@ -628,6 +633,7 @@ Generation time: Saturday 20/02/2021 09:23:15 GMT
 * [BOGNOR-REGIS-ALBERT-ROAD](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/BOGNOR-REGIS-ALBERT-ROAD)
 * [BOGNOR-REGIS-WATERLOO-SQUARE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/BOGNOR-REGIS-WATERLOO-SQUARE)
 * [BOLLINGTON-SPONDS-HILL](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/BOLLINGTON-SPONDS-HILL)
+* [BOLSTERSTONE-WALDERSHAIGH](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/BOLSTERSTONE-WALDERSHAIGH)
 * [BOLTBY-EAST](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/BOLTBY-EAST)
 * [BOLTBY-HIGH-PARADISE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/BOLTBY-HIGH-PARADISE)
 * [BOLTON-ABBEY-ESTATE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/BOLTON-ABBEY-ESTATE)
@@ -657,6 +663,7 @@ Generation time: Saturday 20/02/2021 09:23:15 GMT
 * [BOLVENTOR-VICARAGE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/BOLVENTOR-VICARAGE)
 * [BONESS-GRANGE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/BONESS-GRANGE)
 * [BOOKHAM-LODGE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/BOOKHAM-LODGE)
+* [BOROUGHBRIDGE-ALDBOROUGH](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/BOROUGHBRIDGE-ALDBOROUGH)
 * [BORROWDALE-GRANGE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/BORROWDALE-GRANGE)
 * [BORROWDALE-SEATHWAITE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/BORROWDALE-SEATHWAITE)
 * [BORROWDALE-STOCKLEY-BRIDGE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/BORROWDALE-STOCKLEY-BRIDGE)
@@ -879,6 +886,7 @@ Generation time: Saturday 20/02/2021 09:23:15 GMT
 * [BURNLEY-WW-SWINDEN-LOWER](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/BURNLEY-WW-SWINDEN-LOWER)
 * [BURNLEY-WW-SWINDEN-UPPER](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/BURNLEY-WW-SWINDEN-UPPER)
 * [BURNLEY-YORKSHIRE-STREET](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/BURNLEY-YORKSHIRE-STREET)
+* [BURNSALL-RECTORY](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/BURNSALL-RECTORY)
 * [BURNSALL-SANDBED-BECK](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/BURNSALL-SANDBED-BECK)
 * [BURNSIDE-NEWCASTLE-WW](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/BURNSIDE-NEWCASTLE-WW)
 * [BURRINGTON-LINKS](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/BURRINGTON-LINKS)
@@ -1504,6 +1512,7 @@ Generation time: Saturday 20/02/2021 09:23:15 GMT
 * [DENNY-BUCKIEBURN-RES](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/DENNY-BUCKIEBURN-RES)
 * [DENSHAW-NEW-YEARS-BRIDGE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/DENSHAW-NEW-YEARS-BRIDGE)
 * [DENSHAW-OX-HEY](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/DENSHAW-OX-HEY)
+* [DENSHAW-READY-CON-DEAN](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/DENSHAW-READY-CON-DEAN)
 * [DENTON-RES](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/DENTON-RES)
 * [DEPTFORD-KENT-WW](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/DEPTFORD-KENT-WW)
 * [DEPTFORD-PUMPING-STATION](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/DEPTFORD-PUMPING-STATION)
@@ -3341,7 +3350,7 @@ Generation time: Saturday 20/02/2021 09:23:15 GMT
 * [MARYLEBONE-REGENTS-PARK](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/MARYLEBONE-REGENTS-PARK)
 * [MARYPORT-NETHERHALL](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/MARYPORT-NETHERHALL)
 * [MASHAM-MOOR-BREARY-BANK](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/MASHAM-MOOR-BREARY-BANK)
-* [MASHAM-MOOR-HIGH-SOUR-MINE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/MASHAM-MOOR-HIGH-SOUR-MINE)
+* [MASHAM-MOOR-HIGH-SOUR-MIRE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/MASHAM-MOOR-HIGH-SOUR-MIRE)
 * [MASHAM-MOOR-LEIGHTON-HEALEY](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/MASHAM-MOOR-LEIGHTON-HEALEY)
 * [MASHAM-MOOR-LOW-HOUSES](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/MASHAM-MOOR-LOW-HOUSES)
 * [MASHAM-MOOR-ROUNDHILL](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/MASHAM-MOOR-ROUNDHILL)

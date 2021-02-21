@@ -1,17 +1,17 @@
-Generation time: Saturday 20/02/2021 09:23:15 GMT
+Generation time: Sunday 21/02/2021 12:31:37 GMT
 
 95 locations under [https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA) which contributed to the [Met Office 2020 UK Climate Report](https://www.metoffice.gov.uk/research/climate/maps-and-data/about/state-of-climate):
 
-* [ABERDEEN-OBSERVATORY](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/ABERDEEN-OBSERVATORY) : 5 days ago : 2021-02-15 00:06:14 +0000 
-* [CHATSWORTH-GDNS](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/CHATSWORTH-GDNS) : 10 days ago : 2021-02-09 23:51:08 +0000 
-* [IPSWICH-BELSTEAD-HALL](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/IPSWICH-BELSTEAD-HALL) : 10 days ago : 2021-02-09 23:51:08 +0000 
-* [MONEYDIG](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/MONEYDIG) : 10 days ago : 2021-02-09 23:51:08 +0000 
-* [ARMAGH-OBSERVATORY](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/ARMAGH-OBSERVATORY) : 2 weeks ago : 2021-02-03 14:21:24 +0000 
-* [CAPE-WRATH](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/CAPE-WRATH) : 2 weeks ago : 2021-02-03 14:21:24 +0000 
-* [CHEW-MAGNA](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/CHEW-MAGNA) : 2 weeks ago : 2021-02-03 14:21:24 +0000 
-* [ISLE-OF-MAY](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/ISLE-OF-MAY) : 2 weeks ago : 2021-02-03 14:21:24 +0000 
-* [LOCH-LEVEN-SLUICE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/LOCH-LEVEN-SLUICE) : 2 weeks ago : 2021-02-03 14:21:24 +0000 
-* [THORNTON-RESERVOIR-LEICESTER](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/THORNTON-RESERVOIR-LEICESTER) : 2 weeks ago : 2021-02-03 14:21:24 +0000 
+* [ABERDEEN-OBSERVATORY](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/ABERDEEN-OBSERVATORY) : 7 days ago : 2021-02-15 00:06:14 +0000 
+* [CHATSWORTH-GDNS](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/CHATSWORTH-GDNS) : 12 days ago : 2021-02-09 23:51:08 +0000 
+* [IPSWICH-BELSTEAD-HALL](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/IPSWICH-BELSTEAD-HALL) : 12 days ago : 2021-02-09 23:51:08 +0000 
+* [MONEYDIG](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/MONEYDIG) : 12 days ago : 2021-02-09 23:51:08 +0000 
+* [ARMAGH-OBSERVATORY](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/ARMAGH-OBSERVATORY) : 3 weeks ago : 2021-02-03 14:21:24 +0000 
+* [CAPE-WRATH](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/CAPE-WRATH) : 3 weeks ago : 2021-02-03 14:21:24 +0000 
+* [CHEW-MAGNA](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/CHEW-MAGNA) : 3 weeks ago : 2021-02-03 14:21:24 +0000 
+* [ISLE-OF-MAY](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/ISLE-OF-MAY) : 3 weeks ago : 2021-02-03 14:21:24 +0000 
+* [LOCH-LEVEN-SLUICE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/LOCH-LEVEN-SLUICE) : 3 weeks ago : 2021-02-03 14:21:24 +0000 
+* [THORNTON-RESERVOIR-LEICESTER](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/THORNTON-RESERVOIR-LEICESTER) : 3 weeks ago : 2021-02-03 14:21:24 +0000 
 * [LOCH-KATRINE-TUNNEL-HILL-TOP](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/LOCH-KATRINE-TUNNEL-HILL-TOP) : 3 weeks ago : 2021-02-02 09:38:44 +0000 
 * [TRESCO-ABBEY](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/TRESCO-ABBEY) : 3 weeks ago : 2021-02-02 09:38:44 +0000 
 * [KEW-OBSERVATORY](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/KEW-OBSERVATORY) : 3 weeks ago : 2021-02-01 10:25:45 +0000 
