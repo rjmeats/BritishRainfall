@@ -1,4 +1,4 @@
-Generation time: Monday 22/02/2021 08:26:57 GMT
+Generation time: Monday 22/02/2021 19:39:29 GMT
 
 
 [MO-2020] indicates a location which contributed to the [Met Office 2020 UK Climate Report](https://www.metoffice.gov.uk/research/climate/maps-and-data/about/state-of-climate):
@@ -348,7 +348,6 @@ Generation time: Monday 22/02/2021 08:26:57 GMT
 * [BARNARD-CASTLE-COUNTY-SCHOOL](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/BARNARD-CASTLE-COUNTY-SCHOOL)
 * [BARNET-GAS-WORKS](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/BARNET-GAS-WORKS)
 * [BARNETBY-RAILWAY-STATION](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/BARNETBY-RAILWAY-STATION)
-* [BARNFIELD-EXETER](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/BARNFIELD-EXETER)
 * [BARNINGHAM-PARK](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/BARNINGHAM-PARK)
 * [BARNINGHAM-THE-BEECHES](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/BARNINGHAM-THE-BEECHES)
 * [BARNOLDSWICK-GREENBERFIELD](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/BARNOLDSWICK-GREENBERFIELD)
@@ -1554,9 +1553,9 @@ Generation time: Monday 22/02/2021 08:26:57 GMT
 * [DISTINGTON-GILGARRAN](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/DISTINGTON-GILGARRAN)
 * [DITCHEAT](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/DITCHEAT)
 * [DITCHINGHAM](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/DITCHINGHAM)
-* [DOLGELLEY-BRONYGADER](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/DOLGELLEY-BRONYGADER)
 * [DOLGELLY-BORTHWNOG](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/DOLGELLY-BORTHWNOG)
 * [DOLGELLY-BRITHDIR](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/DOLGELLY-BRITHDIR)
+* [DOLGELLY-BRONYGADER](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/DOLGELLY-BRONYGADER)
 * [DOLGELLY-BRYNTIRION](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/DOLGELLY-BRYNTIRION)
 * [DOLGELLY-DOLRHYD](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/DOLGELLY-DOLRHYD)
 * [DOLGELLY-SCHOOLS](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/DOLGELLY-SCHOOLS)
@@ -1850,6 +1849,7 @@ Generation time: Monday 22/02/2021 08:26:57 GMT
 * [EWHURST-CONEYHURST](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/EWHURST-CONEYHURST) [MO-2020]
 * [EWHURST-DOWNHURST-LODGE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/EWHURST-DOWNHURST-LODGE)
 * [EWHURST-WOOLPIT](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/EWHURST-WOOLPIT)
+* [EXETER-BARNFIELD](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/EXETER-BARNFIELD)
 * [EXETER-BRAMPFORD-SPEKE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/EXETER-BRAMPFORD-SPEKE)
 * [EXETER-MANSTON-TERRACE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/EXETER-MANSTON-TERRACE)
 * [EXETER-PENLEONARD](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/EXETER-PENLEONARD)

@@ -1,13 +1,13 @@
-Generation time: Monday 22/02/2021 08:26:57 GMT
+Generation time: Monday 22/02/2021 19:39:29 GMT
 
 95 locations under [https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA) which contributed to the [Met Office 2020 UK Climate Report](https://www.metoffice.gov.uk/research/climate/maps-and-data/about/state-of-climate):
 
-* [ABERDEEN-OBSERVATORY](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/ABERDEEN-OBSERVATORY) : 9 hours ago : 2021-02-21 23:15:01 +0000 
-* [GREENOCK-WW-DARNDAFF-MOOR](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/GREENOCK-WW-DARNDAFF-MOOR) : 9 hours ago : 2021-02-21 23:15:01 +0000 
-* [LOCH-LEVEN-SLUICE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/LOCH-LEVEN-SLUICE) : 9 hours ago : 2021-02-21 23:15:01 +0000 
-* [CHATSWORTH-GDNS](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/CHATSWORTH-GDNS) : 12 days ago : 2021-02-09 23:51:08 +0000 
-* [IPSWICH-BELSTEAD-HALL](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/IPSWICH-BELSTEAD-HALL) : 12 days ago : 2021-02-09 23:51:08 +0000 
-* [MONEYDIG](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/MONEYDIG) : 12 days ago : 2021-02-09 23:51:08 +0000 
+* [ABERDEEN-OBSERVATORY](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/ABERDEEN-OBSERVATORY) : 6 hours ago : 2021-02-22 12:32:28 +0000 
+* [GREENOCK-WW-DARNDAFF-MOOR](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/GREENOCK-WW-DARNDAFF-MOOR) : 19 hours ago : 2021-02-21 23:15:01 +0000 
+* [LOCH-LEVEN-SLUICE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/LOCH-LEVEN-SLUICE) : 20 hours ago : 2021-02-21 23:15:01 +0000 
+* [CHATSWORTH-GDNS](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/CHATSWORTH-GDNS) : 13 days ago : 2021-02-09 23:51:08 +0000 
+* [IPSWICH-BELSTEAD-HALL](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/IPSWICH-BELSTEAD-HALL) : 13 days ago : 2021-02-09 23:51:08 +0000 
+* [MONEYDIG](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/MONEYDIG) : 13 days ago : 2021-02-09 23:51:08 +0000 
 * [ARMAGH-OBSERVATORY](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/ARMAGH-OBSERVATORY) : 3 weeks ago : 2021-02-03 14:21:24 +0000 
 * [CAPE-WRATH](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/CAPE-WRATH) : 3 weeks ago : 2021-02-03 14:21:24 +0000 
 * [CHEW-MAGNA](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/CHEW-MAGNA) : 3 weeks ago : 2021-02-03 14:21:24 +0000 
