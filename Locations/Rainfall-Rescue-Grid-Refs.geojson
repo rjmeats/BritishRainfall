@@ -531,6 +531,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -3.021,
+          51.826
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "ABERGAVENNY-DYNE-HOUSE",
+        "county": "Monmouthshire",
+        "gridref": "SO297146",
+        "latitude": "51.826",
+        "longitude": "-3.021",
+        "elevation (ft)": "220"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -3.01,
           51.823
         ]
@@ -552,6 +573,69 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -3.011,
+          51.813
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "ABERGAVENNY-PLAS-DERWEN",
+        "county": "Monmouthshire",
+        "gridref": "SO304132",
+        "latitude": "51.813",
+        "longitude": "-3.011",
+        "elevation (ft)": "200"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.013,
+          51.825
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "ABERGAVENNY-RICHMOND-ROAD",
+        "county": "Monmouthshire",
+        "gridref": "SO303145",
+        "latitude": "51.825",
+        "longitude": "-3.013",
+        "elevation (ft)": "207"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.01,
+          51.827
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "ABERGAVENNY-RICHMOND-ROAD",
+        "county": "Monmouthshire",
+        "gridref": "SO305147",
+        "latitude": "51.827",
+        "longitude": "-3.010",
+        "elevation (ft)": "256"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -3.03,
           51.833
         ]
@@ -566,6 +650,27 @@
         "latitude": "51.833",
         "longitude": "-3.030",
         "elevation (ft)": "310"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.062,
+          51.82
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "ABERGAVENNY-TY-CLYD",
+        "county": "Monmouthshire",
+        "gridref": "SO269140",
+        "latitude": "51.820",
+        "longitude": "-3.062",
+        "elevation (ft)": "272"
       }
     },
     {
@@ -3023,6 +3128,27 @@
         "latitude": "53.395",
         "longitude": "-4.351",
         "elevation (ft)": "178"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.085,
+          54.201
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "AMPLEFORTH-ABBEY",
+        "county": "Yorkshire North Riding",
+        "gridref": "SE598788",
+        "latitude": "54.201",
+        "longitude": "-1.085",
+        "elevation (ft)": "350"
       }
     },
     {
@@ -12935,6 +13061,48 @@
         "latitude": "53.320",
         "longitude": "-2.046",
         "elevation (ft)": "1279"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.229,
+          54.292
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "BOLTBY-HIGH-PARADISE",
+        "county": "Yorkshire North Riding",
+        "gridref": "SE503888",
+        "latitude": "54.292",
+        "longitude": "-1.229",
+        "elevation (ft)": "1050"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.235,
+          54.3
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "BOLTBY-HIGH-PARADISE",
+        "county": "Yorkshire North Riding",
+        "gridref": "SE499897",
+        "latitude": "54.300",
+        "longitude": "-1.235",
+        "elevation (ft)": "1144"
       }
     },
     {
@@ -25059,6 +25227,48 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -2.602,
+          51.463
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "CLIFTON-PEMBROKE-ROAD",
+        "county": "Gloucestershire",
+        "gridref": "ST582739",
+        "latitude": "51.463",
+        "longitude": "-2.602",
+        "elevation (ft)": "257"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.615,
+          51.462
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "CLIFTON-PEMBROKE-ROAD",
+        "county": "Gloucestershire",
+        "gridref": "ST573738",
+        "latitude": "51.462",
+        "longitude": "-2.615",
+        "elevation (ft)": "195"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -2.617,
           51.462
         ]
@@ -29294,6 +29504,27 @@
         "latitude": "54.427",
         "longitude": "-0.929",
         "elevation (ft)": "720"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.897,
+          54.465
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "DANBY-LODGE",
+        "county": "Yorkshire North Riding",
+        "gridref": "NZ716083",
+        "latitude": "54.465",
+        "longitude": "-0.897",
+        "elevation (ft)": "500"
       }
     },
     {
@@ -36105,6 +36336,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -0.764,
+          54.436
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "EGTON-BRIDGE-BRIDGEHOLME",
+        "county": "Yorkshire North Riding",
+        "gridref": "NZ803052",
+        "latitude": "54.436",
+        "longitude": "-0.764",
+        "elevation (ft)": "150"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -3.243,
           57.473
         ]
@@ -40907,6 +41159,27 @@
         "latitude": "51.473",
         "longitude": "-0.215",
         "elevation (ft)": "15"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.539,
+          54.433
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "FYLINGDALES-VICARAGE",
+        "county": "Yorkshire North Riding",
+        "gridref": "NZ949052",
+        "latitude": "54.433",
+        "longitude": "-0.539",
+        "elevation (ft)": "120"
       }
     },
     {
@@ -51087,7 +51360,7 @@
         "marker-size": "small",
         "marker-color": "66ff33",
         "name": "HIGHGATE-NURSERIES",
-        "county": "Middlesex-stayed-Middlesex",
+        "county": "Middlesex-became-London",
         "gridref": "TQ282870",
         "latitude": "51.567",
         "longitude": "-0.152",
@@ -55880,6 +56153,27 @@
         "latitude": "55.782",
         "longitude": "-4.722",
         "elevation (ft)": "898"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.06,
+          54.477
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "KILDALE-HALL",
+        "county": "Yorkshire North Riding",
+        "gridref": "NZ610095",
+        "latitude": "54.477",
+        "longitude": "-1.060",
+        "elevation (ft)": "600"
       }
     },
     {
@@ -66219,6 +66513,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -0.265,
+          51.015
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "LOWER-BEEDING-THE-WARREN",
+        "county": "Sussex",
+        "gridref": "TQ218254",
+        "latitude": "51.015",
+        "longitude": "-0.265",
+        "elevation (ft)": "300"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -1.995,
           53.491
         ]
@@ -67584,6 +67899,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -0.732,
+          51.504
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "MAIDENHEAD-KIMBER-COTTAGE",
+        "county": "Berkshire",
+        "gridref": "SU881791",
+        "latitude": "51.504",
+        "longitude": "-0.732",
+        "elevation (ft)": "92"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -0.733,
           51.522
         ]
@@ -67619,6 +67955,27 @@
         "latitude": "51.519",
         "longitude": "-0.753",
         "elevation (ft)": "130"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.771,
+          51.49
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "MAIDENHEAD-WHITE-WALTHAM",
+        "county": "Berkshire",
+        "gridref": "SU854775",
+        "latitude": "51.490",
+        "longitude": "-0.771",
+        "elevation (ft)": "100"
       }
     },
     {
@@ -78735,6 +79092,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -1.284,
+          54.363
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "OSMOTHERLEY-OAKDALE-WW",
+        "county": "Yorkshire North Riding",
+        "gridref": "SE466966",
+        "latitude": "54.363",
+        "longitude": "-1.284",
+        "elevation (ft)": "600"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           0.858,
           51.297
         ]
@@ -84405,6 +84783,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -2.937,
+          53.125
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "PULFORD-HALL",
+        "county": "Cheshire",
+        "gridref": "SJ374591",
+        "latitude": "53.125",
+        "longitude": "-2.937",
+        "elevation (ft)": "60"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           1.247,
           52.42
         ]
@@ -84797,27 +85196,6 @@
         "latitude": "51.333",
         "longitude": "1.401",
         "elevation (ft)": "155"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          1.422,
-          51.332
-        ]
-      },
-      "properties": {
-        "marker-symbol": "circle-stroked",
-        "marker-size": "small",
-        "marker-color": "66ff33",
-        "name": "RAMSGATE-SOUTHWOOD-WW",
-        "county": "Kent-stayed-Kent",
-        "gridref": "TR385648",
-        "latitude": "51.332",
-        "longitude": "1.422",
-        "elevation (ft)": "80"
       }
     },
     {
@@ -87786,6 +88164,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -2.829,
+          53.173
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "ROWTON-HOLLY-BANK",
+        "county": "Cheshire",
+        "gridref": "SJ447643",
+        "latitude": "53.173",
+        "longitude": "-2.829",
+        "elevation (ft)": "123"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -0.117,
           51.511
         ]
@@ -88976,6 +89375,48 @@
         "latitude": "59.277",
         "longitude": "-2.375",
         "elevation (ft)": "27"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.356,
+          53.126
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "SANDBACH-MALKINS-BANK",
+        "county": "Cheshire",
+        "gridref": "SJ763588",
+        "latitude": "53.126",
+        "longitude": "-2.356",
+        "elevation (ft)": "200"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.353,
+          53.128
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "SANDBACH-MALKINS-BANK",
+        "county": "Cheshire",
+        "gridref": "SJ765590",
+        "latitude": "53.128",
+        "longitude": "-2.353",
+        "elevation (ft)": "230"
       }
     },
     {
@@ -91944,6 +92385,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -2.205,
+          53.236
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "SIDDINGTON-THORNYCROFT-HALL",
+        "county": "Cheshire",
+        "gridref": "SJ864710",
+        "latitude": "53.236",
+        "longitude": "-2.205",
+        "elevation (ft)": "377"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -6.005,
           54.122
         ]
@@ -94779,6 +95241,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -3.38,
+          53.242
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "ST-ASAPH-BRYNBELLA",
+        "county": "Flintshire",
+        "gridref": "SJ080726",
+        "latitude": "53.242",
+        "longitude": "-3.380",
+        "elevation (ft)": "280"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -4.791,
           50.336
         ]
@@ -94835,6 +95318,27 @@
         "latitude": "54.493",
         "longitude": "-3.584",
         "elevation (ft)": "60"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.381,
+          53.257
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "ST-BEUNOS-COLLEGE",
+        "county": "Flintshire",
+        "gridref": "SJ080742",
+        "latitude": "53.257",
+        "longitude": "-3.381",
+        "elevation (ft)": "490"
       }
     },
     {
@@ -95829,6 +96333,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -2.056,
+          53.481
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "STALYBRIDGE-MARKET-GROUND-YARD",
+        "county": "Cheshire",
+        "gridref": "SJ964983",
+        "latitude": "53.481",
+        "longitude": "-2.056",
+        "elevation (ft)": "373"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -1.646,
           55.467
         ]
@@ -96305,6 +96830,27 @@
         "latitude": "50.889",
         "longitude": "-0.331",
         "elevation (ft)": "80"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.944,
+          56.122
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "STIRLING",
+        "county": "Stirlingshire",
+        "gridref": "NS793938",
+        "latitude": "56.122",
+        "longitude": "-3.944",
+        "elevation (ft)": "233"
       }
     },
     {
@@ -98111,6 +98657,27 @@
         "latitude": "51.423",
         "longitude": "-0.139",
         "elevation (ft)": "113"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.145,
+          51.52
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "STREATLEY-READING",
+        "county": "Berkshire",
+        "gridref": "SU594805",
+        "latitude": "51.520",
+        "longitude": "-1.145",
+        "elevation (ft)": "150"
       }
     },
     {
@@ -100862,6 +101429,27 @@
         "latitude": "54.486",
         "longitude": "-3.187",
         "elevation (ft)": "1077"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.522,
+          53.373
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "THELWALL-HIGHFIELDS",
+        "county": "Cheshire",
+        "gridref": "SJ654864",
+        "latitude": "53.373",
+        "longitude": "-2.522",
+        "elevation (ft)": "118"
       }
     },
     {
@@ -108359,6 +108947,90 @@
         "latitude": "54.693",
         "longitude": "-1.212",
         "elevation (ft)": "35"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.178,
+          53.363
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "WEST-KIRBY-HILBRE",
+        "county": "Cheshire",
+        "gridref": "SJ217858",
+        "latitude": "53.363",
+        "longitude": "-3.178",
+        "elevation (ft)": "25"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.18,
+          53.366
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "WEST-KIRBY-HILBRE",
+        "county": "Cheshire",
+        "gridref": "SJ216861",
+        "latitude": "53.366",
+        "longitude": "-3.180",
+        "elevation (ft)": "30"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.178,
+          53.371
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "WEST-KIRBY-ST-ANDREWS-VIC",
+        "county": "Cheshire",
+        "gridref": "SJ217867",
+        "latitude": "53.371",
+        "longitude": "-3.178",
+        "elevation (ft)": "50"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.186,
+          53.375
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "WEST-KIRBY-ST-ANDREWS-VIC",
+        "county": "Cheshire",
+        "gridref": "SJ212871",
+        "latitude": "53.375",
+        "longitude": "-3.186",
+        "elevation (ft)": "25"
       }
     },
     {

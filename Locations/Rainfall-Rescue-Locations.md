@@ -1,9 +1,9 @@
-Generation time: Sunday 21/02/2021 12:31:37 GMT
+Generation time: Monday 22/02/2021 08:26:57 GMT
 
 
 [MO-2020] indicates a location which contributed to the [Met Office 2020 UK Climate Report](https://www.metoffice.gov.uk/research/climate/maps-and-data/about/state-of-climate):
 
-5423 locations under [https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA):
+5424 locations under [https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA):
 
 * [ABBEY-CWMHIR-THE-HALL](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/ABBEY-CWMHIR-THE-HALL)
 * [ABBEY-LEIX-BLANDSFORT](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/ABBEY-LEIX-BLANDSFORT)
@@ -32,7 +32,7 @@ Generation time: Sunday 21/02/2021 12:31:37 GMT
 * [ABERFELDY-HRS](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/ABERFELDY-HRS)
 * [ABERFORD-LOTHERTON-HALL](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/ABERFORD-LOTHERTON-HALL)
 * [ABERFOYLE-THE-INN](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/ABERFOYLE-THE-INN)
-* [ABERGAVENNY-DRYNE-HOUSE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/ABERGAVENNY-DRYNE-HOUSE)
+* [ABERGAVENNY-DYNE-HOUSE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/ABERGAVENNY-DYNE-HOUSE)
 * [ABERGAVENNY-LARCHFIELD](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/ABERGAVENNY-LARCHFIELD) [MO-2020]
 * [ABERGAVENNY-PLAS-DERWEN](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/ABERGAVENNY-PLAS-DERWEN)
 * [ABERGAVENNY-RICHMOND-ROAD](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/ABERGAVENNY-RICHMOND-ROAD)
@@ -2889,6 +2889,7 @@ Generation time: Sunday 21/02/2021 12:31:37 GMT
 * [LARGS-MIDDLETON-FILTERS](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/LARGS-MIDDLETON-FILTERS)
 * [LARGS-STEVENSON-INST](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/LARGS-STEVENSON-INST)
 * [LARNE-SALLAGH-SPRINGS](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/LARNE-SALLAGH-SPRINGS)
+* [LARTINGTON-FILTERS](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/LARTINGTON-FILTERS)
 * [LAUNCESTON-ALTARNUN](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/LAUNCESTON-ALTARNUN)
 * [LAUNCESTON-HEXWORTHY](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/LAUNCESTON-HEXWORTHY)
 * [LAUNCESTON-LANDUE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/LAUNCESTON-LANDUE)
