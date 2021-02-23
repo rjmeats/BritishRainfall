@@ -1,4 +1,4 @@
-Generation time: Monday 22/02/2021 19:39:30 GMT
+Generation time: Tuesday 23/02/2021 12:43:54 GMT
 
 ## Locations L-Z
 
@@ -70,7 +70,7 @@ Generation time: Monday 22/02/2021 19:39:30 GMT
 ||LANCASTER-CATON-2.csv|SD542644|54.080|-2.700|170|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=54.080&lon=-2.700&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/54.080,-2.700,16)  |
 ||LANCASTER-CATON-3.csv|SD549652|54.081|-2.691|250|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=54.081&lon=-2.691&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/54.081,-2.691,16)  |
 ||LANCASTER-CATON-4.csv|SD549650|54.080|-2.690|250|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=54.080&lon=-2.690&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/54.080,-2.690,16)  |
-|[LANCASTER-ELLEL](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/LANCASTER-ELLEL)|LANCASTER-ELLEL.csv||||||
+|[LANCASTER-ELLEL](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/LANCASTER-ELLEL)|LANCASTER-ELLEL.csv|SD481537|53.978|-2.792|125|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=53.978&lon=-2.792&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/53.978,-2.792,16)  |
 |[LANCASTER-ESCOWBECK](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/LANCASTER-ESCOWBECK)|LANCASTER-ESCOWBECK.csv|SD525641|54.071|-2.727|150|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=54.071&lon=-2.727&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/54.071,-2.727,16)  |
 |[LANCASTER-GREG-OBSERVATORY](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/LANCASTER-GREG-OBSERVATORY)|LANCASTER-GREG-OBSERVATORY.csv|SD487612|54.044|-2.785|312|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=54.044&lon=-2.785&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/54.044,-2.785,16)  |
 |[LANCASTER-HEST-BANK](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/LANCASTER-HEST-BANK)|LANCASTER-HEST-BANK.csv|SD473664|54.092|-2.807|58|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=54.092&lon=-2.807&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/54.092,-2.807,16)  |
@@ -827,7 +827,7 @@ Generation time: Monday 22/02/2021 19:39:30 GMT
 |[MICKLETON-LIME-KILN](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/MICKLETON-LIME-KILN)|MICKLETON-LIME-KILN.csv|NY919212|54.586|-2.127|1175|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=54.586&lon=-2.127&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/54.586,-2.127,16)  |
 ||MICKLETON-LIME-KILN-2.csv|NY919212|54.586|-2.127|1175|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=54.586&lon=-2.127&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/54.586,-2.127,16)  |
 |[MIDDLESBOROUGH-ALBERT-PARK](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/MIDDLESBOROUGH-ALBERT-PARK)|MIDDLESBOROUGH-ALBERT-PARK.csv|NZ494189|54.563|-1.238|30|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=54.563&lon=-1.238&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/54.563,-1.238,16)  |
-|[MIDDLESBOROUGH-SOUTHFIELD-VILLAS](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/MIDDLESBOROUGH-SOUTHFIELD-VILLAS)|MIDDLESBOROUGH-SOUTHFIELD-VILLAS.csv||||||
+|[MIDDLESBOROUGH-SOUTHFIELD-VILLAS](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/MIDDLESBOROUGH-SOUTHFIELD-VILLAS)|MIDDLESBOROUGH-SOUTHFIELD-VILLAS.csv|NZ495197|54.571|-1.236|21|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=54.571&lon=-1.236&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/54.571,-1.236,16)  |
 |[MIDDLESBROUGH-DORMAN-MUS](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/MIDDLESBROUGH-DORMAN-MUS)|MIDDLESBROUGH-DORMAN-MUS.csv|NZ492191|54.565|-1.241|25|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=54.565&lon=-1.241&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/54.565,-1.241,16)  |
 |[MIDDLETON-IN-CHIRBURY](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/MIDDLETON-IN-CHIRBURY)|MIDDLETON-IN-CHIRBURY.csv|SO297997|52.591|-3.039|702|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=52.591&lon=-3.039&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/52.591,-3.039,16)  |
 |[MIDDLETON-IN-TEESDALE-NEWBIGGIN](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/MIDDLETON-IN-TEESDALE-NEWBIGGIN)|MIDDLETON-IN-TEESDALE-NEWBIGGIN.csv|NY915276|54.643|-2.133|1000|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=54.643&lon=-2.133&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/54.643,-2.133,16)  |
@@ -925,7 +925,7 @@ Generation time: Monday 22/02/2021 19:39:30 GMT
 ||MOORFOOT-HILLS-GLADHOUSE-RES-2.csv|NT299544|55.778|-3.119|915|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=55.778&lon=-3.119&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/55.778,-3.119,16)  |
 |[MOORFOOT-HILLS-ROSEBERY](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/MOORFOOT-HILLS-ROSEBERY)|MOORFOOT-HILLS-ROSEBERY.csv|NT308570|55.801|-3.105|750|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=55.801&lon=-3.105&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/55.801,-3.105,16)  |
 ||MOORFOOT-HILLS-ROSEBERY-2.csv|NT308570|55.801|-3.105|750|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=55.801&lon=-3.105&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/55.801,-3.105,16)  |
-|[MOREBATH-MANOR](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/MOREBATH-MANOR)|MOREBATH-MANOR.csv||||||
+|[MOREBATH-MANOR](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/MOREBATH-MANOR)|MOREBATH-MANOR.csv|SS958257|51.021|-3.487|600|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=51.021&lon=-3.487&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/51.021,-3.487,16)  |
 |[MORECAMBE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/MORECAMBE)|MORECAMBE.csv|SD431645|54.073|-2.871|24|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=54.073&lon=-2.871&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/54.073,-2.871,16)  |
 |[MORETON-IN-MARSH-FROGMORE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/MORETON-IN-MARSH-FROGMORE)|MORETON-IN-MARSH-FROGMORE.csv|SP209308|51.975|-1.697|425|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=51.975&lon=-1.697&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/51.975,-1.697,16)  |
 |[MORETONHAMPSTEAD-BLACKINGSTONE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/MORETONHAMPSTEAD-BLACKINGSTONE)|||||||

@@ -10296,6 +10296,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -4.135,
+          51.028
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "BIDEFORD-HORWOOD",
+        "county": "Devon",
+        "gridref": "SS503275",
+        "latitude": "51.028",
+        "longitude": "-4.135",
+        "elevation (ft)": "288"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -4.215,
           51.038
         ]
@@ -16260,6 +16281,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -3.439,
+          50.752
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "BROADCLYST-BROCKHILL",
+        "county": "Devon",
+        "gridref": "SX986956",
+        "latitude": "50.752",
+        "longitude": "-3.439",
+        "elevation (ft)": "80"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -8.635,
           52.801
         ]
@@ -17282,6 +17324,48 @@
         "latitude": "50.828",
         "longitude": "-4.547",
         "elevation (ft)": "16"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.349,
+          50.637
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "BUDLEIGH-SALTERTON-KNOWLE-HOUSE",
+        "county": "Devon",
+        "gridref": "SY047828",
+        "latitude": "50.637",
+        "longitude": "-3.349",
+        "elevation (ft)": "230"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.361,
+          50.647
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "BUDLEIGH-SALTERTON-SQUABMOOR",
+        "county": "Devon",
+        "gridref": "SY039839",
+        "latitude": "50.647",
+        "longitude": "-3.361",
+        "elevation (ft)": "267"
       }
     },
     {
@@ -22007,6 +22091,27 @@
         "latitude": "51.897",
         "longitude": "-1.513",
         "elevation (ft)": "420"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.842,
+          50.673
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "CHAGFORD",
+        "county": "Devon",
+        "gridref": "SX699875",
+        "latitude": "50.673",
+        "longitude": "-3.842",
+        "elevation (ft)": "600"
       }
     },
     {
@@ -26970,6 +27075,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -3.744,
+          50.805
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "COPPLESTONE-COPLESTONE-HOUSE",
+        "county": "Devon",
+        "gridref": "SS771020",
+        "latitude": "50.805",
+        "longitude": "-3.744",
+        "elevation (ft)": "315"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -2.0,
           54.971
         ]
@@ -28076,6 +28202,27 @@
         "latitude": "52.085",
         "longitude": "-2.775",
         "elevation (ft)": "226"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.659,
+          50.794
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "CREDITON-OKEFIELD",
+        "county": "Devon",
+        "gridref": "SS832007",
+        "latitude": "50.794",
+        "longitude": "-3.659",
+        "elevation (ft)": "325"
       }
     },
     {
@@ -30246,6 +30393,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -3.862,
+          50.666
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "DARTMOOR-SANATORIUM-CHAGFORD",
+        "county": "Devon",
+        "gridref": "SX684867",
+        "latitude": "50.666",
+        "longitude": "-3.862",
+        "elevation (ft)": "750"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -7.073,
           54.1
         ]
@@ -31373,6 +31541,27 @@
         "latitude": "50.382",
         "longitude": "-4.160",
         "elevation (ft)": "201"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.171,
+          50.377
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "DEVONPORT-STOKE",
+        "county": "Devon",
+        "gridref": "SX457552",
+        "latitude": "50.377",
+        "longitude": "-4.171",
+        "elevation (ft)": "145"
       }
     },
     {
@@ -38499,6 +38688,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -3.522,
+          50.687
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "EXMINSTER-TROOD-HOUSE",
+        "county": "Devon",
+        "gridref": "SX926886",
+        "latitude": "50.687",
+        "longitude": "-3.522",
+        "elevation (ft)": "75"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -3.377,
           50.629
         ]
@@ -45618,6 +45828,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -4.143,
+          50.953
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "GREAT-TORRINGTON",
+        "county": "Devon",
+        "gridref": "SS495192",
+        "latitude": "50.953",
+        "longitude": "-4.143",
+        "elevation (ft)": "323"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -1.953,
           53.538
         ]
@@ -49146,6 +49377,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -4.475,
+          50.986
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "HARTLAND-FOSFELLE",
+        "county": "Devon",
+        "gridref": "SS264237",
+        "latitude": "50.986",
+        "longitude": "-4.475",
+        "elevation (ft)": "480"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -1.25,
           54.701
         ]
@@ -50910,6 +51162,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -3.655,
+          50.611
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "HENNOCK-HAZELWOOD",
+        "county": "Devon",
+        "gridref": "SX830804",
+        "latitude": "50.611",
+        "longitude": "-3.655",
+        "elevation (ft)": "650"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -2.761,
           52.037
         ]
@@ -51176,6 +51449,48 @@
         "latitude": "52.060",
         "longitude": "-2.719",
         "elevation (ft)": "188"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.453,
+          49.47
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "HERM",
+        "county": "Herm",
+        "gridref": "WV396798",
+        "latitude": "49.470",
+        "longitude": "-2.453",
+        "elevation (ft)": "20"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.453,
+          49.469
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "HERM",
+        "county": "Herm",
+        "gridref": "WV396797",
+        "latitude": "49.469",
+        "longitude": "-2.453",
+        "elevation (ft)": "20"
       }
     },
     {
@@ -52394,6 +52709,27 @@
         "latitude": "53.549",
         "longitude": "-1.774",
         "elevation (ft)": "930"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.352,
+          50.811
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "HOLSWORTHY-BODMEYRIC",
+        "county": "Devon",
+        "gridref": "SS343040",
+        "latitude": "50.811",
+        "longitude": "-4.352",
+        "elevation (ft)": "476"
       }
     },
     {
@@ -55250,6 +55586,48 @@
         "latitude": "51.476",
         "longitude": "-0.343",
         "elevation (ft)": "69"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.922,
+          50.395
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "IVYBRIDGE-FILHAM-HOUSE",
+        "county": "Devon",
+        "gridref": "SX634567",
+        "latitude": "50.395",
+        "longitude": "-3.922",
+        "elevation (ft)": "300"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.902,
+          50.383
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "IVYBRIDGE-FILHAM-HOUSE",
+        "county": "Devon",
+        "gridref": "SX648554",
+        "latitude": "50.383",
+        "longitude": "-3.902",
+        "elevation (ft)": "162"
       }
     },
     {
@@ -59576,6 +59954,27 @@
         "latitude": "54.080",
         "longitude": "-2.690",
         "elevation (ft)": "250"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.792,
+          53.978
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "LANCASTER-ELLEL",
+        "county": "Lancashire",
+        "gridref": "SD481537",
+        "latitude": "53.978",
+        "longitude": "-2.792",
+        "elevation (ft)": "125"
       }
     },
     {
@@ -71637,6 +72036,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -1.236,
+          54.571
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "MIDDLESBOROUGH-SOUTHFIELD-VILLAS",
+        "county": "Yorkshire North Riding",
+        "gridref": "NZ495197",
+        "latitude": "54.571",
+        "longitude": "-1.236",
+        "elevation (ft)": "21"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -1.241,
           54.565
         ]
@@ -73247,6 +73667,27 @@
         "latitude": "55.801",
         "longitude": "-3.105",
         "elevation (ft)": "750"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.487,
+          51.021
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "MOREBATH-MANOR",
+        "county": "Devon",
+        "gridref": "SS958257",
+        "latitude": "51.021",
+        "longitude": "-3.487",
+        "elevation (ft)": "600"
       }
     },
     {
