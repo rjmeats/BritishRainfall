@@ -1,4 +1,4 @@
-Generation time: Tuesday 23/02/2021 18:56:58 GMT
+Generation time: Wednesday 24/02/2021 08:37:34 GMT
 
 ## Locations L-Z
 
@@ -1639,7 +1639,7 @@ Generation time: Tuesday 23/02/2021 18:56:58 GMT
 ||PONTESBURY-SOMERVILLE-2.csv|SJ402056|52.645|-2.885|355|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=52.645&lon=-2.885&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/52.645,-2.885,16)  |
 |[POOLE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/POOLE)|POOLE.csv|SZ027915|50.723|-1.963|18|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=50.723&lon=-1.963&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/50.723,-1.963,16)  |
 ||POOLE-2.csv|SZ027915|50.723|-1.963|18|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=50.723&lon=-1.963&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/50.723,-1.963,16)  |
-|[POOLE-PARKSTONE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/POOLE-PARKSTONE)|POOLE-PARKSTONE.csv|SZ199913|50.721|-1.973|56|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=50.721&lon=-1.973&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/50.721,-1.973,16)  |
+|[POOLE-PARKSTONE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/POOLE-PARKSTONE)|POOLE-PARKSTONE.csv|SZ019913|50.721|-1.973|56|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=50.721&lon=-1.973&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/50.721,-1.973,16)  |
 ||POOLE-PARKSTONE-2.csv|SZ044920|50.729|-1.939|198|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=50.729&lon=-1.939&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/50.729,-1.939,16)  |
 ||POOLE-PARKSTONE-3.csv|SZ044920|50.729|-1.939|198|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=50.729&lon=-1.939&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/50.729,-1.939,16)  |
 ||POOLE-PARKSTONE-4.csv|SZ045910|50.719|-1.938|170|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=50.719&lon=-1.938&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/50.719,-1.938,16)  |
@@ -1736,7 +1736,7 @@ Generation time: Tuesday 23/02/2021 18:56:58 GMT
 |[RAMSGATE-ARCHER-HOUSE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/RAMSGATE-ARCHER-HOUSE)|RAMSGATE-ARCHER-HOUSE.csv|TR386652|51.336|1.424|75|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=51.336&lon=1.424&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/51.336,1.424,16)  |
 |[RAMSGATE-SOUTHWOOD-WW](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/RAMSGATE-SOUTHWOOD-WW)|RAMSGATE-SOUTHWOOD-WW.csv|TR376643|51.329|1.410|98|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=51.329&lon=1.410&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/51.329,1.410,16)  |
 ||RAMSGATE-SOUTHWOOD-WW-2.csv|TR370648|51.333|1.401|155|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=51.333&lon=1.401&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/51.333,1.401,16)  |
-||RAMSGATE-SOUTHWOOD-WW-3.csv||||||
+||RAMSGATE-SOUTHWOOD-WW-3.csv|TR385648|51.332|1.422|80|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=51.332&lon=1.422&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/51.332,1.422,16)  |
 |[RAMSGILL](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/RAMSGILL)|RAMSGILL.csv|SE120709|54.134|-1.818|450|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=54.134&lon=-1.818&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/54.134,-1.818,16)  |
 |[RAMSGILL-HOLME-HOUSE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/RAMSGILL-HOLME-HOUSE)|RAMSGILL-HOLME-HOUSE.csv|SE128699|54.125|-1.806|464|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=54.125&lon=-1.806&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/54.125,-1.806,16)  |
 |[RAMSGILL-RAYGILL-HOUSE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/RAMSGILL-RAYGILL-HOUSE)|RAMSGILL-RAYGILL-HOUSE.csv|SE110704|54.129|-1.833|925|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=54.129&lon=-1.833&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/54.129,-1.833,16)  |
@@ -2307,7 +2307,7 @@ Generation time: Tuesday 23/02/2021 18:56:58 GMT
 |[SOUTH-CAIRN-STRANRAER](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/SOUTH-CAIRN-STRANRAER)|SOUTH-CAIRN-STRANRAER.csv|NW971695|54.979|-5.172|212|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=54.979&lon=-5.172&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/54.979,-5.172,16)  |
 |[SOUTH-FARNBOROUGH](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/SOUTH-FARNBOROUGH)|||||||
 |[SOUTH-KYME](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/SOUTH-KYME)|SOUTH-KYME.csv|TF170498|53.033|-0.257|9|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=53.033&lon=-0.257&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/53.033,-0.257,16)  |
-|[SOUTH-MILFORD](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/SOUTH-MILFORD)|SOUTH-MILFORD.csv||||||
+|[SOUTH-MILFORD](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/SOUTH-MILFORD)|SOUTH-MILFORD.csv|SE492314|53.777|-1.255|60|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=53.777&lon=-1.255&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/53.777,-1.255,16)  |
 |[SOUTH-MOLTON-EAST-STREET](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/SOUTH-MOLTON-EAST-STREET)|||||||
 |[SOUTH-MOLTON-ROSE-ASH](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/SOUTH-MOLTON-ROSE-ASH)|||||||
 |[SOUTH-PETHERTON](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/SOUTH-PETHERTON)|SOUTH-PETHERTON.csv|ST441160|50.941|-2.797|110|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=50.941&lon=-2.797&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/50.941,-2.797,16)  |

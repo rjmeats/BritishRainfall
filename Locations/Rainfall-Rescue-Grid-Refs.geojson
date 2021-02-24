@@ -4416,6 +4416,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -5.159,
+          55.585
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "ARRAN-BRODICK",
+        "county": "Bute",
+        "gridref": "NS010369",
+        "latitude": "55.585",
+        "longitude": "-5.159",
+        "elevation (ft)": "-999999"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -5.36,
           55.582
         ]
@@ -22119,8 +22140,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          50.653,
-          -3.819
+          -3.819,
+          50.653
         ]
       },
       "properties": {
@@ -22130,8 +22151,8 @@
         "name": "CHAGFORD-BATWORTHY",
         "county": "Devon",
         "gridref": "SX715852",
-        "latitude": "-3.819",
-        "longitude": "50.653",
+        "latitude": "50.653",
+        "longitude": "-3.819",
         "elevation (ft)": "1282"
       }
     },
@@ -32776,7 +32797,7 @@
         "marker-color": "66ff33",
         "name": "DOVER-WATERLOO-CRESCENT",
         "county": "Kent-stayed-Kent",
-        "gridref": "TR3094",
+        "gridref": "TR309420",
         "latitude": "51.131",
         "longitude": "1.299",
         "elevation (ft)": "231"
@@ -33430,7 +33451,7 @@
         "gridref": "IO157334",
         "latitude": "53.339",
         "longitude": "-6.262",
-        "elevation (ft)": "22"
+        "elevation (ft)": "66"
       }
     },
     {
@@ -45450,6 +45471,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -3.618,
+          57.326
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "GRANTOWN-ON-SPEY",
+        "county": "Moray (Elgin)",
+        "gridref": "NJ027273",
+        "latitude": "57.326",
+        "longitude": "-3.618",
+        "elevation (ft)": "-999999"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -3.598,
           57.316
         ]
@@ -52095,7 +52137,7 @@
         "marker-size": "small",
         "marker-color": "66ff33",
         "name": "HIGHGATE-NURSERIES",
-        "county": "Middlesex-stayed-Middlesex",
+        "county": "Middlesex-became-London",
         "gridref": "TQ282870",
         "latitude": "51.567",
         "longitude": "-0.152",
@@ -57861,8 +57903,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          50.494,
-          -3.566
+          -3.566,
+          50.494
         ]
       },
       "properties": {
@@ -57872,8 +57914,8 @@
         "name": "KINGSKERSWELL-FLUDER",
         "county": "Devon",
         "gridref": "SX890671",
-        "latitude": "-3.566",
-        "longitude": "50.494",
+        "latitude": "50.494",
+        "longitude": "-3.566",
         "elevation (ft)": "353"
       }
     },
@@ -84961,7 +85003,7 @@
         "marker-color": "66ff33",
         "name": "POOLE-PARKSTONE",
         "county": "Dorset",
-        "gridref": "SZ199913",
+        "gridref": "SZ019913",
         "latitude": "50.721",
         "longitude": "-1.973",
         "elevation (ft)": "56"
@@ -86393,6 +86435,27 @@
         "latitude": "51.333",
         "longitude": "1.401",
         "elevation (ft)": "155"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.422,
+          51.332
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "RAMSGATE-SOUTHWOOD-WW",
+        "county": "Kent-stayed-Kent",
+        "gridref": "TR385648",
+        "latitude": "51.332",
+        "longitude": "1.422",
+        "elevation (ft)": "80"
       }
     },
     {
@@ -95402,6 +95465,27 @@
         "latitude": "53.033",
         "longitude": "-0.257",
         "elevation (ft)": "9"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.255,
+          53.777
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "SOUTH-MILFORD",
+        "county": "Yorkshire West Riding",
+        "gridref": "SE492314",
+        "latitude": "53.777",
+        "longitude": "-1.255",
+        "elevation (ft)": "60"
       }
     },
     {
