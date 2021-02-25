@@ -6663,8 +6663,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -6.188,
-          54.335
+          -6.033,
+          54.25
         ]
       },
       "properties": {
@@ -6674,8 +6674,8 @@
         "name": "BANBRIDGE-BANN-RES",
         "county": "Down",
         "gridref": "IJ2824235232",
-        "latitude": "54.335",
-        "longitude": "-6.188",
+        "latitude": "54.250",
+        "longitude": "-6.033",
         "elevation (ft)": "440"
       }
     },
@@ -7650,7 +7650,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -3.227,
+          -3.23,
           54.105
         ]
       },
@@ -7662,7 +7662,7 @@
         "county": "Lancashire",
         "gridref": "SD190684",
         "latitude": "54.105",
-        "longitude": "-3.227",
+        "longitude": "-3.230",
         "elevation (ft)": "60"
       }
     },
@@ -52137,7 +52137,7 @@
         "marker-size": "small",
         "marker-color": "66ff33",
         "name": "HIGHGATE-NURSERIES",
-        "county": "Middlesex-became-London",
+        "county": "Middlesex-stayed-Middlesex",
         "gridref": "TQ282870",
         "latitude": "51.567",
         "longitude": "-0.152",
@@ -77706,8 +77706,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -0.195,
-          51.251
+          -0.18,
+          51.611
         ]
       },
       "properties": {
@@ -77716,9 +77716,9 @@
         "marker-color": "66ff33",
         "name": "NORTH-FINCHLEY",
         "county": "Middlesex-stayed-Middlesex",
-        "gridref": "TQ261518",
-        "latitude": "51.251",
-        "longitude": "-0.195",
+        "gridref": "TQ261918",
+        "latitude": "51.611",
+        "longitude": "-0.180",
         "elevation (ft)": "295"
       }
     },
@@ -111936,8 +111936,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -3.234,
-          52.312
+          -2.858,
+          52.315
         ]
       },
       "properties": {
@@ -111946,9 +111946,9 @@
         "marker-color": "66ff33",
         "name": "WIGMORE",
         "county": "Herefordshire",
-        "gridref": "SO160689",
-        "latitude": "52.312",
-        "longitude": "-3.234",
+        "gridref": "SO416689",
+        "latitude": "52.315",
+        "longitude": "-2.858",
         "elevation (ft)": "443"
       }
     },
