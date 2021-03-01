@@ -7660,7 +7660,7 @@
         "marker-color": "66ff33",
         "name": "BARROW-CAVENDISH-PARK",
         "county": "Lancashire",
-        "gridref": "SD190684",
+        "gridref": "SD197684",
         "latitude": "54.105",
         "longitude": "-3.230",
         "elevation (ft)": "60"
@@ -52137,7 +52137,7 @@
         "marker-size": "small",
         "marker-color": "66ff33",
         "name": "HIGHGATE-NURSERIES",
-        "county": "Middlesex-stayed-Middlesex",
+        "county": "Middlesex-became-London",
         "gridref": "TQ282870",
         "latitude": "51.567",
         "longitude": "-0.152",
@@ -79480,7 +79480,7 @@
         "marker-color": "66ff33",
         "name": "NOTTINGHAM-WEST-BRIDGFORD",
         "county": "Nottinghamshire",
-        "gridref": "SK596374",
+        "gridref": "SK586374",
         "latitude": "52.931",
         "longitude": "-1.129",
         "elevation (ft)": "78"

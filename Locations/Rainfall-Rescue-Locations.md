@@ -1,9 +1,9 @@
-Generation time: Sunday 28/02/2021 20:49:41 GMT
+Generation time: Monday 01/03/2021 08:50:10 GMT
 
 
 [MO-2020] indicates a location which contributed to the [Met Office 2020 UK Climate Report](https://www.metoffice.gov.uk/research/climate/maps-and-data/about/state-of-climate):
 
-5548 locations under [https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA):
+5563 locations under [https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA):
 
 * [ABBEY-CWMHIR-THE-HALL](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/ABBEY-CWMHIR-THE-HALL)
 * [ABBEY-LEIX-BLANDSFORT](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/ABBEY-LEIX-BLANDSFORT)
@@ -489,6 +489,7 @@ Generation time: Sunday 28/02/2021 20:49:41 GMT
 * [BETCHWORTH-BROCKHAM-LODGE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/BETCHWORTH-BROCKHAM-LODGE)
 * [BETHESDA-ST-ANNES-VICARAGE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/BETHESDA-ST-ANNES-VICARAGE)
 * [BETHNAL-GREEN-VICTORIA-PARK](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/BETHNAL-GREEN-VICTORIA-PARK)
+* [BETTWS-Y-COED-RHYDYCREUA](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/BETTWS-Y-COED-RHYDYCREUA)
 * [BETTYHILL](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/BETTYHILL)
 * [BEVERLEY-ALEXANDRA-TERRACE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/BEVERLEY-ALEXANDRA-TERRACE)
 * [BEVERLEY-BROADGATE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/BEVERLEY-BROADGATE)
@@ -1231,6 +1232,7 @@ Generation time: Sunday 28/02/2021 20:49:41 GMT
 * [CLAPHAM-YORKS-INGLEBOROUGH-HOUSE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/CLAPHAM-YORKS-INGLEBOROUGH-HOUSE)
 * [CLARBESTON-PENTRY-PARK](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/CLARBESTON-PENTRY-PARK)
 * [CLARE-STANSFIELD-CORDELL-HALL](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/CLARE-STANSFIELD-CORDELL-HALL)
+* [CLAWDD-NEWYDD](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/CLAWDD-NEWYDD)
 * [CLAYGATE-HERTSLETS](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/CLAYGATE-HERTSLETS)
 * [CLEADON-PUMPING-STATION](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/CLEADON-PUMPING-STATION)
 * [CLEATOR-MOOR-WW](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/CLEATOR-MOOR-WW)
@@ -1528,6 +1530,7 @@ Generation time: Sunday 28/02/2021 20:49:41 GMT
 * [DEGANWY-Y-BERLFA](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/DEGANWY-Y-BERLFA)
 * [DELAMERE-FOREST](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/DELAMERE-FOREST)
 * [DENBIGH-GARN](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/DENBIGH-GARN)
+* [DENBIGH-GROES-HALL](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/DENBIGH-GROES-HALL)
 * [DENBIGH-MENTAL-HOSPITAL](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/DENBIGH-MENTAL-HOSPITAL)
 * [DENHOLM-SPITAL-TOWER](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/DENHOLM-SPITAL-TOWER)
 * [DENNIS-STOURBRIDGE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/DENNIS-STOURBRIDGE)
@@ -2209,6 +2212,7 @@ Generation time: Sunday 28/02/2021 20:49:41 GMT
 * [GLOUCESTER-ASYLUM](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/GLOUCESTER-ASYLUM)
 * [GLOUCESTER-LLANTHONY-LOCK](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/GLOUCESTER-LLANTHONY-LOCK)
 * [GLOUCESTER-MAISEMORE-LOCK](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/GLOUCESTER-MAISEMORE-LOCK)
+* [GLYNCEIRIOG-PLAS-NANTHYR](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/GLYNCEIRIOG-PLAS-NANTHYR)
 * [GODLEY-RES](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/GODLEY-RES)
 * [GOGINAN](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/GOGINAN)
 * [GOLDINGTON-CASTLE-MILL-HOUSE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/GOLDINGTON-CASTLE-MILL-HOUSE)
@@ -2298,6 +2302,8 @@ Generation time: Sunday 28/02/2021 20:49:41 GMT
 * [GREENWICH-ROYAL-HOSPITAL-SCHOOLS](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/GREENWICH-ROYAL-HOSPITAL-SCHOOLS)
 * [GREENWICH-ROYAL-OBSERVATORY](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/GREENWICH-ROYAL-OBSERVATORY)
 * [GREENWICH-WESTCOMBE-PARK-ROAD](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/GREENWICH-WESTCOMBE-PARK-ROAD)
+* [GRESFORD-HORSLEY-HALL](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/GRESFORD-HORSLEY-HALL)
+* [GRESFORD-TREWYTHEN](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/GRESFORD-TREWYTHEN)
 * [GREYWELL-PUMPING-STATION](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/GREYWELL-PUMPING-STATION)
 * [GRIMSBURY-BANBURY](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/GRIMSBURY-BANBURY)
 * [GRIMSBY-AYLESBY](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/GRIMSBY-AYLESBY)
@@ -2315,6 +2321,7 @@ Generation time: Sunday 28/02/2021 20:49:41 GMT
 * [GUERNSEY-YORK-PLACE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/GUERNSEY-YORK-PLACE)
 * [GUILDEN-MORDEN-ROYSTON](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/GUILDEN-MORDEN-ROYSTON)
 * [GUILDFORD-BRIARFIELD](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/GUILDFORD-BRIARFIELD)
+* [GUILDFORD-CRAIGIE-MERROW](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/GUILDFORD-CRAIGIE-MERROW)
 * [GUILDFORD-CROSS-LANES](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/GUILDFORD-CROSS-LANES)
 * [GUILDFORD-PICCARDS-ROUGH](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/GUILDFORD-PICCARDS-ROUGH)
 * [GUILDFORD-RGS](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/GUILDFORD-RGS)
@@ -2323,6 +2330,7 @@ Generation time: Sunday 28/02/2021 20:49:41 GMT
 * [GULVAL-EXPERIMENTAL-STATION](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/GULVAL-EXPERIMENTAL-STATION)
 * [GWENNAP-TREVINCE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/GWENNAP-TREVINCE)
 * [GWYSANEY](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/GWYSANEY)
+* [GYFFYLLIOG-FACHLWYD-HALL](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/GYFFYLLIOG-FACHLWYD-HALL)
 * [HACKNEY-CLAPTON-POND](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/HACKNEY-CLAPTON-POND)
 * [HACKTHORN-HALL](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/HACKTHORN-HALL)
 * [HADDINGTON-ASYLUM](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/HADDINGTON-ASYLUM)
@@ -3181,6 +3189,7 @@ Generation time: Sunday 28/02/2021 20:49:41 GMT
 * [LLANIDLOES-YSTRAD-OLWYN-FAWR](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/LLANIDLOES-YSTRAD-OLWYN-FAWR)
 * [LLANNEFYDD-DOLWEN-RES-EAST](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/LLANNEFYDD-DOLWEN-RES-EAST)
 * [LLANNEFYDD-DOLWEN-RES-SOUTH](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/LLANNEFYDD-DOLWEN-RES-SOUTH)
+* [LLANNEFYDD-RHYL-WW-WEST](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/LLANNEFYDD-RHYL-WW-WEST)
 * [LLANNON-RES](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/LLANNON-RES)
 * [LLANSADRWN-TREFFOS](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/LLANSADRWN-TREFFOS)
 * [LLANSAINTFRAED-IN-ELVEL](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/LLANSAINTFRAED-IN-ELVEL)
@@ -4009,6 +4018,7 @@ Generation time: Sunday 28/02/2021 20:49:41 GMT
 * [PENTLAND-HILLS-MORTON](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/PENTLAND-HILLS-MORTON)
 * [PENTLAND-HILLS-SWANSTON](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/PENTLAND-HILLS-SWANSTON)
 * [PENTLAND-SKERRIES](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/PENTLAND-SKERRIES)
+* [PENTRE-CELYN-COUNCIL-SCHOOL](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/PENTRE-CELYN-COUNCIL-SCHOOL)
 * [PENTRE-VOELAS-NANT-HEILYN](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/PENTRE-VOELAS-NANT-HEILYN)
 * [PENZANCE-MORRAB](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/PENZANCE-MORRAB)
 * [PENZANCE-POLTAIR](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/PENZANCE-POLTAIR)
@@ -4181,6 +4191,7 @@ Generation time: Sunday 28/02/2021 20:49:41 GMT
 * [READING-FORBURY-GDNS](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/READING-FORBURY-GDNS) [MO-2020]
 * [READING-LEIGHTON-PARK](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/READING-LEIGHTON-PARK)
 * [READING-RUSSELL-ST](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/READING-RUSSELL-ST)
+* [READING-TILEHURST](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/READING-TILEHURST)
 * [READING-UNIVERSITY](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/READING-UNIVERSITY)
 * [READING-WW-BATH-ROAD](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/READING-WW-BATH-ROAD)
 * [REAY-THE-MANSE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/REAY-THE-MANSE)
@@ -4331,6 +4342,8 @@ Generation time: Sunday 28/02/2021 20:49:41 GMT
 * [RUMNEY-WITLA-COURT](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/RUMNEY-WITLA-COURT)
 * [RUNCORN-WESTON-POINT](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/RUNCORN-WESTON-POINT)
 * [RUSKEY](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/RUSKEY)
+* [RUTHIN-BWLCH-TUNNEL](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/RUTHIN-BWLCH-TUNNEL)
+* [RUTHIN-CORWEN-ROAD](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/RUTHIN-CORWEN-ROAD)
 * [RUTHWELL-COMLONGON](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/RUTHWELL-COMLONGON)
 * [RYAT-LYNN](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/RYAT-LYNN)
 * [RYDAL-THE-HALL](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/RYDAL-THE-HALL)
@@ -4644,6 +4657,7 @@ Generation time: Sunday 28/02/2021 20:49:41 GMT
 * [ST-ANDREWS-WW](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/ST-ANDREWS-WW)
 * [ST-ANNES-ON-THE-SEA](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/ST-ANNES-ON-THE-SEA)
 * [ST-ASAPH-BRYNBELLA](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/ST-ASAPH-BRYNBELLA)
+* [ST-ASAPH-WIGFAIR](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/ST-ASAPH-WIGFAIR)
 * [ST-AUSTELL-POLCARNE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/ST-AUSTELL-POLCARNE)
 * [ST-AUSTELL-TREVARNA](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/ST-AUSTELL-TREVARNA)
 * [ST-BEES-FERN-BANK](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/ST-BEES-FERN-BANK)
@@ -5496,6 +5510,7 @@ Generation time: Sunday 28/02/2021 20:49:41 GMT
 * [WREXHAM-GWERSYLLT](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/WREXHAM-GWERSYLLT)
 * [WREXHAM-PLAS-POWER](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/WREXHAM-PLAS-POWER)
 * [WREXHAM-TREVALYN](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/WREXHAM-TREVALYN)
+* [WREXHAM-WW-LLYNCYFYNWY](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/WREXHAM-WW-LLYNCYFYNWY)
 * [WREXHAM-WW-PACK-SADDLE-RES](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/WREXHAM-WW-PACK-SADDLE-RES)
 * [WREXHAM-WW-TY-MAWR-RES](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/WREXHAM-WW-TY-MAWR-RES)
 * [WREXHAM-WYNNSTAY](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/WREXHAM-WYNNSTAY)
