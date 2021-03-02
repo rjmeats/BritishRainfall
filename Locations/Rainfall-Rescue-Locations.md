@@ -1,9 +1,9 @@
-Generation time: Monday 01/03/2021 08:50:10 GMT
+Generation time: Tuesday 02/03/2021 19:04:11 GMT
 
 
 [MO-2020] indicates a location which contributed to the [Met Office 2020 UK Climate Report](https://www.metoffice.gov.uk/research/climate/maps-and-data/about/state-of-climate):
 
-5563 locations under [https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA):
+5562 locations under [https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA):
 
 * [ABBEY-CWMHIR-THE-HALL](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/ABBEY-CWMHIR-THE-HALL)
 * [ABBEY-LEIX-BLANDSFORT](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/ABBEY-LEIX-BLANDSFORT)
@@ -307,6 +307,7 @@ Generation time: Monday 01/03/2021 08:50:10 GMT
 * [BALLACHULISH](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/BALLACHULISH)
 * [BALLANTRAE-GLENDRISHAIG](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/BALLANTRAE-GLENDRISHAIG)
 * [BALLATER-IRRIGATION-FARM](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/BALLATER-IRRIGATION-FARM)
+* [BALLIMORE-OTTER-FERRY](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/BALLIMORE-OTTER-FERRY)
 * [BALLINASLOE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/BALLINASLOE)
 * [BALLINDEAN](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/BALLINDEAN)
 * [BALLINROBE-CRANMORE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/BALLINROBE-CRANMORE)
@@ -1737,7 +1738,7 @@ Generation time: Monday 01/03/2021 08:50:10 GMT
 * [DUNSTER-SCHOOLS](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/DUNSTER-SCHOOLS)
 * [DUNTOCHER-COCHNO-FILTERS](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/DUNTOCHER-COCHNO-FILTERS)
 * [DURHAM-HOUGHALL](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/DURHAM-HOUGHALL)
-* [DURHAM-OBSERVATORY](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/DURHAM-OBSERVATORY)
+* [DURHAM-UNIVERSITY-OBSERVATORY](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/DURHAM-UNIVERSITY-OBSERVATORY)
 * [DURHAM-USHAW-COLLEGE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/DURHAM-USHAW-COLLEGE)
 * [DUROR](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/DUROR)
 * [DURRIS-HOUSE-DRUMOAK](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/DURRIS-HOUSE-DRUMOAK)
@@ -1806,14 +1807,14 @@ Generation time: Monday 01/03/2021 08:50:10 GMT
 * [EDENBRIDGE-FALCONHURST](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/EDENBRIDGE-FALCONHURST)
 * [EDGEWORTHSTOWN](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/EDGEWORTHSTOWN)
 * [EDGWARE-MCC-DEPOT](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/EDGWARE-MCC-DEPOT)
-* [EDINBURGH-1M](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/EDINBURGH-1M)
 * [EDINBURGH-CANAAN](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/EDINBURGH-CANAAN)
 * [EDINBURGH-CHARLOTTE-SQUARE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/EDINBURGH-CHARLOTTE-SQUARE)
 * [EDINBURGH-CITY-OBSERVATORY](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/EDINBURGH-CITY-OBSERVATORY)
 * [EDINBURGH-CUMIN-PLACE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/EDINBURGH-CUMIN-PLACE)
-* [EDINBURGH-MIX](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/EDINBURGH-MIX)
+* [EDINBURGH-HADLEY](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/EDINBURGH-HADLEY)
 * [EDINBURGH-NAPIER-ROAD](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/EDINBURGH-NAPIER-ROAD)
 * [EDINBURGH-OLD-BOTANIC-GARDEN](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/EDINBURGH-OLD-BOTANIC-GARDEN)
+* [EDINBURGH-ONE-MILE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/EDINBURGH-ONE-MILE)
 * [EDINBURGH-PRINCES-GDNS](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/EDINBURGH-PRINCES-GDNS)
 * [EDINBURGH-ROYAL-BOTANIC-GDNS](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/EDINBURGH-ROYAL-BOTANIC-GDNS)
 * [EDINBURGH-ROYAL-OBSERVATORY](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/EDINBURGH-ROYAL-OBSERVATORY)
@@ -2817,7 +2818,6 @@ Generation time: Monday 01/03/2021 08:50:10 GMT
 * [KILBARCHAN-GLENTYAN](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/KILBARCHAN-GLENTYAN)
 * [KILBIRNIE-PUNDEAVON-RES](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/KILBIRNIE-PUNDEAVON-RES)
 * [KILDALE-HALL](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/KILDALE-HALL)
-* [KILFINNAN-BALLIMORE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/KILFINNAN-BALLIMORE)
 * [KILKEEL](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/KILKEEL)
 * [KILKENNY-CASTLE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/KILKENNY-CASTLE)
 * [KILLALOE-BALLINA](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/KILLALOE-BALLINA)
@@ -3894,7 +3894,6 @@ Generation time: Monday 01/03/2021 08:50:10 GMT
 * [OTFORD-BEECHY-LEES](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/OTFORD-BEECHY-LEES)
 * [OTLEY-SEWAGE-WORKS](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/OTLEY-SEWAGE-WORKS)
 * [OTLEY-THORNS](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/OTLEY-THORNS)
-* [OTTER-FERRY](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/OTTER-FERRY)
 * [OTTER-HOUSE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/OTTER-HOUSE)
 * [OTTERBOURNE-WW-SHAWFORD](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/OTTERBOURNE-WW-SHAWFORD)
 * [OTTERBURN-IN-CRAVEN](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/OTTERBURN-IN-CRAVEN)
@@ -5569,7 +5568,7 @@ Generation time: Monday 01/03/2021 08:50:10 GMT
 * [YSTRADFELLTE-RES](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/YSTRADFELLTE-RES)
 * [YSTRADYFODWG-FYNTYLA-HOSPITAL](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/YSTRADYFODWG-FYNTYLA-HOSPITAL)
 
-71 locations under [https://github.com/ed-hawkins/rainfall-rescue/tree/master/POOR-LOCATIONS](https://github.com/ed-hawkins/rainfall-rescue/tree/master/POOR-LOCATIONS):
+72 locations under [https://github.com/ed-hawkins/rainfall-rescue/tree/master/POOR-LOCATIONS](https://github.com/ed-hawkins/rainfall-rescue/tree/master/POOR-LOCATIONS):
 
 * [ABERDEEN](https://github.com/ed-hawkins/rainfall-rescue/tree/master/POOR-LOCATIONS/ABERDEEN)
 * [ABERDOVEY](https://github.com/ed-hawkins/rainfall-rescue/tree/master/POOR-LOCATIONS/ABERDOVEY)
@@ -5592,6 +5591,7 @@ Generation time: Monday 01/03/2021 08:50:10 GMT
 * [CULROSS-TULLIALLAN-FREE-CHURCH-MANSE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/POOR-LOCATIONS/CULROSS-TULLIALLAN-FREE-CHURCH-MANSE)
 * [DARTMOOR-POWDER-MILLS](https://github.com/ed-hawkins/rainfall-rescue/tree/master/POOR-LOCATIONS/DARTMOOR-POWDER-MILLS)
 * [DOBCROSS](https://github.com/ed-hawkins/rainfall-rescue/tree/master/POOR-LOCATIONS/DOBCROSS)
+* [EDINBURGH-MIX](https://github.com/ed-hawkins/rainfall-rescue/tree/master/POOR-LOCATIONS/EDINBURGH-MIX)
 * [EXETER-WHITSTONE-RECTORY](https://github.com/ed-hawkins/rainfall-rescue/tree/master/POOR-LOCATIONS/EXETER-WHITSTONE-RECTORY)
 * [HAMPSTEAD-BRANCH-HILL](https://github.com/ed-hawkins/rainfall-rescue/tree/master/POOR-LOCATIONS/HAMPSTEAD-BRANCH-HILL)
 * [HELMSDALE-STATION](https://github.com/ed-hawkins/rainfall-rescue/tree/master/POOR-LOCATIONS/HELMSDALE-STATION)
