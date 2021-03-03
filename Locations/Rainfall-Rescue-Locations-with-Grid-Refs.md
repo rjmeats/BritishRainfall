@@ -1,4 +1,4 @@
-Generation time: Wednesday 03/03/2021 17:53:14 GMT
+Generation time: Wednesday 03/03/2021 22:45:38 GMT
 
 ## Locations A-K
 
@@ -2404,7 +2404,7 @@ Generation time: Wednesday 03/03/2021 17:53:14 GMT
 |[EDINBURGH-MIX](https://github.com/ed-hawkins/rainfall-rescue/tree/master/POOR-LOCATIONS/EDINBURGH-MIX)|EDINBURGH-MIX.csv|NT262741|55.954|-3.183|355|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=55.954&lon=-3.183&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/55.954,-3.183,16)  |
 ||EDINBURGH-MIX-2.csv||||||
 ||EDINBURGH-MIX-3.csv|NT262741|55.954|-3.183|386|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=55.954&lon=-3.183&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/55.954,-3.183,16)  |
-||EDINBURGH-MIX-4.csv|NT262743|-3.184|-3.184|197|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=-3.184&lon=-3.184&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/-3.184,-3.184,16) [OSM](https://www.openstreetmap.org/#map=16/-3.184/-3.184) [GGL](https://www.google.co.uk/maps/@-3.184,-3.184,16z)|
+||EDINBURGH-MIX-4.csv|NT262743|55.956|-3.184|197|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=55.956&lon=-3.184&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/55.956,-3.184,16)  |
 ||EDINBURGH-MIX-5.csv|NT250743|55.956|-3.202|162|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=55.956&lon=-3.202&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/55.956,-3.202,16)  |
 |[EDINBURGH-NAPIER-ROAD](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/EDINBURGH-NAPIER-ROAD)|EDINBURGH-NAPIER-ROAD.csv|NT239720|55.935|-3.220|230|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=55.935&lon=-3.220&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/55.935,-3.220,16)  |
 |[EDINBURGH-OLD-BOTANIC-GARDEN](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/EDINBURGH-OLD-BOTANIC-GARDEN)|EDINBURGH-OLD-BOTANIC-GARDEN.csv|NT263747|55.960|-3.182|100|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=55.960&lon=-3.182&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/55.960,-3.182,16)  |
@@ -3417,7 +3417,7 @@ Generation time: Wednesday 03/03/2021 17:53:14 GMT
 ||HERM-2.csv|WV396797|49.469|-2.453|20|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=49.469&lon=-2.453&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/49.469,-2.453,16) [OSM](https://www.openstreetmap.org/#map=16/49.469/-2.453) [GGL](https://www.google.co.uk/maps/@49.469,-2.453,16z)|
 |[HERNE-BAY-WW](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/HERNE-BAY-WW)|HERNE-BAY-WW.csv|TR186679|51.368|1.139|122|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=51.368&lon=1.139&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/51.368,1.139,16)  |
 |[HERRINGFLEET-HOUSE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/HERRINGFLEET-HOUSE)|HERRINGFLEET-HOUSE.csv|TM463986|52.530|1.630|55|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=52.530&lon=1.630&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/52.530,1.630,16)  |
-|[HERTFORD](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/HERTFORD)|HERTFORD.csv|NaN|nan|nan|120|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=nan&lon=nan&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/nan,nan,16)  |
+|[HERTFORD](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/HERTFORD)|HERTFORD.csv|TL338134|51.803|-0.061|120|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=51.803&lon=-0.061&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/51.803,-0.061,16)  |
 ||HERTFORD-2.csv|TL323126|51.796|-0.083|120|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=51.796&lon=-0.083&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/51.796,-0.083,16)  |
 |[HERTFORD-HAILEYBURY-COLLEGE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/HERTFORD-HAILEYBURY-COLLEGE)|HERTFORD-HAILEYBURY-COLLEGE.csv|TL3589310711|51.779|-0.032|270|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=51.779&lon=-0.032&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/51.779,-0.032,16)  |
 |[HERTFORD-MARDEN-HILL-TEWIN](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/HERTFORD-MARDEN-HILL-TEWIN)|HERTFORD-MARDEN-HILL-TEWIN.csv|TL279140|51.810|-0.146|257|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=51.810&lon=-0.146&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/51.810,-0.146,16)  |

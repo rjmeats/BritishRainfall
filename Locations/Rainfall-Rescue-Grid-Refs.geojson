@@ -37555,7 +37555,7 @@
         "type": "Point",
         "coordinates": [
           -3.184,
-          -3.184
+          55.956
         ]
       },
       "properties": {
@@ -37565,7 +37565,7 @@
         "name": "EDINBURGH-MIX",
         "county": "Midlothian (Edinburgh)",
         "gridref": "NT262743",
-        "latitude": "-3.184",
+        "latitude": "55.956",
         "longitude": "-3.184",
         "elevation (ft)": "197"
       }
@@ -53192,6 +53192,27 @@
         "latitude": "52.530",
         "longitude": "1.630",
         "elevation (ft)": "55"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.061,
+          51.803
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "HERTFORD",
+        "county": "Hertfordshire",
+        "gridref": "TL338134",
+        "latitude": "51.803",
+        "longitude": "-0.061",
+        "elevation (ft)": "120"
       }
     },
     {
