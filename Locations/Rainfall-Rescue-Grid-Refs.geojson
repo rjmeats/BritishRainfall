@@ -2064,6 +2064,48 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -1.515,
+          53.076
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "ALDERWASLEY",
+        "county": "Derbyshire",
+        "gridref": "SK326533",
+        "latitude": "53.076",
+        "longitude": "-1.515",
+        "elevation (ft)": "541"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.516,
+          53.074
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "ALDERWASLEY",
+        "county": "Derbyshire",
+        "gridref": "SK325531",
+        "latitude": "53.074",
+        "longitude": "-1.516",
+        "elevation (ft)": "540"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           0.961,
           52.072
         ]
@@ -2568,6 +2610,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -1.172,
+          51.051
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "ALRESFORD-CHERITON-RECTORY",
+        "county": "Hampshire",
+        "gridref": "SU581283",
+        "latitude": "51.051",
+        "longitude": "-1.172",
+        "elevation (ft)": "240"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -1.199,
           51.082
         ]
@@ -2582,27 +2645,6 @@
         "latitude": "51.082",
         "longitude": "-1.199",
         "elevation (ft)": "221"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.172,
-          51.051
-        ]
-      },
-      "properties": {
-        "marker-symbol": "circle-stroked",
-        "marker-size": "small",
-        "marker-color": "66ff33",
-        "name": "ALRESFORD-OVINGTON-RECTORY",
-        "county": "Hampshire",
-        "gridref": "SU581283",
-        "latitude": "51.051",
-        "longitude": "-1.172",
-        "elevation (ft)": "240"
       }
     },
     {
@@ -4857,6 +4899,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -1.724,
+          53.01
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "ASHBOURNE-WW",
+        "county": "Derbyshire",
+        "gridref": "SK186459",
+        "latitude": "53.010",
+        "longitude": "-1.724",
+        "elevation (ft)": "582"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -3.773,
           50.526
         ]
@@ -4997,6 +5060,48 @@
         "latitude": "51.071",
         "longitude": "0.758",
         "elevation (ft)": "111"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.719,
+          53.366
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "ASHOPTON-WIN-HILL",
+        "county": "Derbyshire",
+        "gridref": "SK188855",
+        "latitude": "53.366",
+        "longitude": "-1.719",
+        "elevation (ft)": "1155"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.719,
+          53.365
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "ASHOPTON-WIN-HILL",
+        "county": "Derbyshire",
+        "gridref": "SK188854",
+        "latitude": "53.365",
+        "longitude": "-1.719",
+        "elevation (ft)": "1240"
       }
     },
     {
@@ -6782,6 +6887,48 @@
         "latitude": "55.608",
         "longitude": "-1.716",
         "elevation (ft)": "75"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.698,
+          53.343
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "BAMFORD-ENGINEERS-OFFICE",
+        "county": "Derbyshire",
+        "gridref": "SK202829",
+        "latitude": "53.343",
+        "longitude": "-1.698",
+        "elevation (ft)": "509"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.704,
+          53.362
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "BAMFORD-YORKSHIRE-BRIDGE-WEIR",
+        "county": "Derbyshire",
+        "gridref": "SK198850",
+        "latitude": "53.362",
+        "longitude": "-1.704",
+        "elevation (ft)": "560"
       }
     },
     {
@@ -9638,6 +9785,27 @@
         "latitude": "55.213",
         "longitude": "-2.302",
         "elevation (ft)": "849"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.486,
+          53.017
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "BELPER-HERBERT-STRUTT-SCHOOL",
+        "county": "Derbyshire",
+        "gridref": "SK346468",
+        "latitude": "53.017",
+        "longitude": "-1.486",
+        "elevation (ft)": "203"
       }
     },
     {
@@ -15707,6 +15875,27 @@
         "latitude": "54.438",
         "longitude": "-3.531",
         "elevation (ft)": "36"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.434,
+          52.969
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "BREADSALL-PRIORY",
+        "county": "Derbyshire",
+        "gridref": "SK381414",
+        "latitude": "52.969",
+        "longitude": "-1.434",
+        "elevation (ft)": "370"
       }
     },
     {
@@ -30806,6 +30995,27 @@
         "latitude": "54.461",
         "longitude": "-0.922",
         "elevation (ft)": "500"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.024,
+          52.578
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "DARLASTON-SEWAGE-WORKS",
+        "county": "Staffordshire",
+        "gridref": "SO985978",
+        "latitude": "52.578",
+        "longitude": "-2.024",
+        "elevation (ft)": "393"
       }
     },
     {
@@ -64028,6 +64238,48 @@
         "latitude": "52.721",
         "longitude": "-1.849",
         "elevation (ft)": "259"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.828,
+          52.68
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "LICHFIELD-ST-JOHN-STREET",
+        "county": "Staffordshire",
+        "gridref": "SK117092",
+        "latitude": "52.680",
+        "longitude": "-1.828",
+        "elevation (ft)": "269"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.821,
+          52.673
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "LICHFIELD-ST-JOHN-STREET",
+        "county": "Staffordshire",
+        "gridref": "SK122084",
+        "latitude": "52.673",
+        "longitude": "-1.821",
+        "elevation (ft)": "285"
       }
     },
     {
@@ -114869,6 +115121,27 @@
         "latitude": "54.387",
         "longitude": "-2.913",
         "elevation (ft)": "310"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.95,
+          53.502
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "WINDGATE-EDGE",
+        "county": "Cheshire",
+        "gridref": "SE034006",
+        "latitude": "53.502",
+        "longitude": "-1.950",
+        "elevation (ft)": "1700"
       }
     },
     {

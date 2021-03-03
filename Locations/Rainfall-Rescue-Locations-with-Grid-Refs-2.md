@@ -1,4 +1,4 @@
-Generation time: Tuesday 02/03/2021 19:04:12 GMT
+Generation time: Wednesday 03/03/2021 17:53:14 GMT
 
 ## Locations L-Z
 
@@ -219,7 +219,8 @@ Generation time: Tuesday 02/03/2021 19:04:12 GMT
 ||LIBERTON-THE-INCH-2.csv|NT277708|55.925|-3.159|150|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=55.925&lon=-3.159&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/55.925,-3.159,16)  |
 |[LICHFIELD-HANCH-RES](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/LICHFIELD-HANCH-RES)|LICHFIELD-HANCH-RES.csv|SK103137|52.721|-1.849|259|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=52.721&lon=-1.849&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/52.721,-1.849,16)  |
 |[LICHFIELD-MAPLE-HAYES](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/LICHFIELD-MAPLE-HAYES)|||||||
-|[LICHFIELD-ST-JOHN-STREET](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/LICHFIELD-ST-JOHN-STREET)|||||||
+|[LICHFIELD-ST-JOHN-STREET](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/LICHFIELD-ST-JOHN-STREET)|LICHFIELD-ST-JOHN-STREET.csv|SK117092|52.680|-1.828|269|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=52.680&lon=-1.828&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/52.680,-1.828,16)  |
+||LICHFIELD-ST-JOHN-STREET-2.csv|SK122084|52.673|-1.821|285|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=52.673&lon=-1.821&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/52.673,-1.821,16)  |
 |[LIFTON-KELLY-HOUSE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/LIFTON-KELLY-HOUSE)|||||||
 |[LIMAVADY](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/LIMAVADY)|LIMAVADY.csv|IC6760423288|55.053|-6.943|81|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=55.053&lon=-6.943&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/55.053,-6.943,16) [OSM](https://www.openstreetmap.org/#map=16/55.053/-6.943) [GGL](https://www.google.co.uk/maps/@55.053,-6.943,16z)|
 |[LIMAVADY-DRENAGH](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/LIMAVADY-DRENAGH)|LIMAVADY-DRENAGH.csv|NV852850|55.060|-6.932|80|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=55.060&lon=-6.932&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/55.060,-6.932,16) [OSM](https://www.openstreetmap.org/#map=16/55.060/-6.932) [GGL](https://www.google.co.uk/maps/@55.060,-6.932,16z)|
@@ -3408,7 +3409,7 @@ Generation time: Tuesday 02/03/2021 19:04:12 GMT
 ||WINDERMERE-HOLEHIRD-2.csv|NY411008|54.399|-2.909|483|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=54.399&lon=-2.909&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/54.399,-2.909,16)  |
 |[WINDERMERE-NURSERIES](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/WINDERMERE-NURSERIES)|WINDERMERE-NURSERIES.csv|SD410982|54.376|-2.910|350|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=54.376&lon=-2.910&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/54.376,-2.910,16)  |
 |[WINDERMERE-THE-WOOD](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/WINDERMERE-THE-WOOD)|WINDERMERE-THE-WOOD.csv|SD407994|54.387|-2.913|310|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=54.387&lon=-2.913&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/54.387,-2.913,16)  |
-|[WINDGATE-EDGE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/WINDGATE-EDGE)|||||||
+|[WINDGATE-EDGE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/WINDGATE-EDGE)|WINDGATE-EDGE.csv|SE034006|53.502|-1.950|1700|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=53.502&lon=-1.950&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/53.502,-1.950,16)  |
 |[WINDSOR-ROYAL-GARDENS](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/WINDSOR-ROYAL-GARDENS)|WINDSOR-ROYAL-GARDENS.csv|SU979754|51.469|-0.592|88|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=51.469&lon=-0.592&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/51.469,-0.592,16)  |
 |[WINGHAM-MARGATE-WW](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/WINGHAM-MARGATE-WW)|WINGHAM-MARGATE-WW.csv|TR243553|51.253|1.213|138|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=51.253&lon=1.213&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/51.253,1.213,16)  |
 |[WINKFIELD-RYEMEAD](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/WINKFIELD-RYEMEAD)|WINKFIELD-RYEMEAD.csv|SU905722|51.442|-0.699|220|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=51.442&lon=-0.699&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/51.442,-0.699,16)  |
