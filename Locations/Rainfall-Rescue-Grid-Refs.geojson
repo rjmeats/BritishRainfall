@@ -31275,6 +31275,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -4.007,
+          50.579
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "DARTMOOR-BLACK-DUNGHILL",
+        "county": "Devon",
+        "gridref": "SX579774",
+        "latitude": "50.579",
+        "longitude": "-4.007",
+        "elevation (ft)": "1590"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -3.986,
           50.573
         ]
@@ -53775,7 +53796,7 @@
         "marker-size": "small",
         "marker-color": "66ff33",
         "name": "HIGHGATE-NURSERIES",
-        "county": "Middlesex-became-London",
+        "county": "Middlesex-stayed-Middlesex",
         "gridref": "TQ282870",
         "latitude": "51.567",
         "longitude": "-0.152",
