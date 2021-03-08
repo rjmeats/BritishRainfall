@@ -26697,6 +26697,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -3.465,
+          56.125
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "CLEISH-HILLS-ROSCOBIE-RES",
+        "county": "Fife",
+        "gridref": "NT090934",
+        "latitude": "56.125",
+        "longitude": "-3.465",
+        "elevation (ft)": "660"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -2.461,
           52.382
         ]
@@ -30638,6 +30659,27 @@
         "latitude": "50.857",
         "longitude": "-3.394",
         "elevation (ft)": "202"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.642,
+          56.095
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "CULROSS-WEST-GRANGE",
+        "county": "Fife",
+        "gridref": "NS979903",
+        "latitude": "56.095",
+        "longitude": "-3.642",
+        "elevation (ft)": "116"
       }
     },
     {
@@ -54678,7 +54720,7 @@
         "marker-size": "small",
         "marker-color": "66ff33",
         "name": "HIGHGATE-NURSERIES",
-        "county": "Middlesex-became-London",
+        "county": "Middlesex-stayed-Middlesex",
         "gridref": "TQ282870",
         "latitude": "51.567",
         "longitude": "-0.152",
@@ -64077,7 +64119,28 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -1.535,
+          -1.551,
+          53.868
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "LEEDS-ECCUP-RES",
+        "county": "Yorkshire West Riding",
+        "gridref": "SE296414",
+        "latitude": "53.868",
+        "longitude": "-1.551",
+        "elevation (ft)": "400"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.533,
           53.873
         ]
       },
@@ -64087,10 +64150,73 @@
         "marker-color": "66ff33",
         "name": "LEEDS-ECCUP-RES",
         "county": "Yorkshire West Riding",
-        "gridref": "SE306419",
+        "gridref": "SE307420",
         "latitude": "53.873",
-        "longitude": "-1.535",
+        "longitude": "-1.533",
+        "elevation (ft)": "375"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.532,
+          53.873
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "LEEDS-ECCUP-RES",
+        "county": "Yorkshire West Riding",
+        "gridref": "SE308444",
+        "latitude": "53.873",
+        "longitude": "-1.532",
+        "elevation (ft)": "300"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.563,
+          53.892
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "LEEDS-ECCUP-RES",
+        "county": "Yorkshire West Riding",
+        "gridref": "SE288440",
+        "latitude": "53.892",
+        "longitude": "-1.563",
         "elevation (ft)": "343"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.55,
+          53.87
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "LEEDS-ECCUP-RES",
+        "county": "Yorkshire West Riding",
+        "gridref": "SE297416",
+        "latitude": "53.870",
+        "longitude": "-1.550",
+        "elevation (ft)": "340"
       }
     },
     {
@@ -70167,8 +70293,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -0.15,
-          51.571
+          -0.155,
+          51.567
         ]
       },
       "properties": {
@@ -70177,9 +70303,9 @@
         "marker-color": "66ff33",
         "name": "LONDON-HIGHGATE-HILL",
         "county": "Middlesex-became-London",
-        "gridref": "TQ283874",
-        "latitude": "51.571",
-        "longitude": "-0.150",
+        "gridref": "TQ280870",
+        "latitude": "51.567",
+        "longitude": "-0.155",
         "elevation (ft)": "400"
       }
     },
