@@ -1,4 +1,4 @@
-Generation time: Tuesday 09/03/2021 17:01:54 GMT
+Generation time: Tuesday 09/03/2021 22:12:46 GMT
 
 ## Locations P-Z
 
@@ -255,6 +255,8 @@ Generation time: Tuesday 09/03/2021 17:01:54 GMT
 ||PONTERWYD-2.csv|SN749807|52.410|-3.841|740|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=52.410&lon=-3.841&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/52.410,-3.841,16)  |
 |[PONTESBURY-SOMERVILLE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/PONTESBURY-SOMERVILLE)|PONTESBURY-SOMERVILLE.csv|SJ395061|52.649|-2.896|350|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=52.649&lon=-2.896&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/52.649,-2.896,16)  |
 ||PONTESBURY-SOMERVILLE-2.csv|SJ402056|52.645|-2.885|355|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=52.645&lon=-2.885&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/52.645,-2.885,16)  |
+|[PONTYPRIDD-LAN-WOOD-RES](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/PONTYPRIDD-LAN-WOOD-RES)|||||||
+|[PONTYPRIDD-MAESDERWEN-GRAIG](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/PONTYPRIDD-MAESDERWEN-GRAIG)|||||||
 |[POOLE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/POOLE)|POOLE.csv|SZ027915|50.723|-1.963|18|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=50.723&lon=-1.963&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/50.723,-1.963,16)  |
 ||POOLE-2.csv|SZ027915|50.723|-1.963|18|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=50.723&lon=-1.963&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/50.723,-1.963,16)  |
 |[POOLE-PARKSTONE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/POOLE-PARKSTONE)|POOLE-PARKSTONE.csv|SZ019913|50.721|-1.973|56|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=50.721&lon=-1.973&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/50.721,-1.973,16)  |
@@ -2061,6 +2063,7 @@ Generation time: Tuesday 09/03/2021 17:01:54 GMT
 |[WICK-NOSSHEAD](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/WICK-NOSSHEAD)|WICK-NOSSHEAD.csv|ND389550|58.479|-3.049|129|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=58.479&lon=-3.049&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/58.479,-3.049,16)  |
 |[WICK-PULTENEY-HOUSE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/WICK-PULTENEY-HOUSE)|WICK-PULTENEY-HOUSE.csv|ND371502|58.436|-3.077|70|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=58.436&lon=-3.077&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/58.436,-3.077,16)  |
 |[WICKFORD-RUNWELL-HALL](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/WICKFORD-RUNWELL-HALL)|WICKFORD-RUNWELL-HALL.csv|TQ767950|51.626|0.551|75|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=51.626&lon=0.551&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/51.626,0.551,16)  |
+|[WICKHAM-THE-CROFT](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/WICKHAM-THE-CROFT)|||||||
 |[WICKWAR-RECTORY](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/WICKWAR-RECTORY)|WICKWAR-RECTORY.csv|ST722888|51.597|-2.403|260|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=51.597&lon=-2.403&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/51.597,-2.403,16)  |
 |[WIGAN-WW-BILLINGE-HIGHER-END](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/WIGAN-WW-BILLINGE-HIGHER-END)|WIGAN-WW-BILLINGE-HIGHER-END.csv|SD525030|53.522|-2.718|374|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=53.522&lon=-2.718&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/53.522,-2.718,16)  |
 ||WIGAN-WW-BILLINGE-HIGHER-END-2.csv|SD525030|53.522|-2.718|374|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=53.522&lon=-2.718&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/53.522,-2.718,16)  |

@@ -1,4 +1,4 @@
-Generation time: Tuesday 09/03/2021 17:01:54 GMT
+Generation time: Tuesday 09/03/2021 22:12:46 GMT
 
 ## Locations A-G
 
@@ -1306,6 +1306,7 @@ Generation time: Tuesday 09/03/2021 17:01:54 GMT
 |[CALNE-COMPTON-BASSETT-GDNS](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/CALNE-COMPTON-BASSETT-GDNS)|CALNE-COMPTON-BASSETT-GDNS.csv|SU029716|51.443|-1.959|385|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=51.443&lon=-1.959&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/51.443,-1.959,16)  |
 |[CALNE-HIGH-STREET](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/CALNE-HIGH-STREET)|CALNE-HIGH-STREET.csv|ST997711|51.439|-2.006|244|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=51.439&lon=-2.006&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/51.439,-2.006,16)  |
 ||CALNE-HIGH-STREET-2.csv|ST994710|51.438|-2.010|250|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=51.438&lon=-2.010&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/51.438,-2.010,16)  |
+|[CALSHOT](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/CALSHOT)|||||||
 |[CAMBERWELL-NUNHEAD-RES](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/CAMBERWELL-NUNHEAD-RES)|CAMBERWELL-NUNHEAD-RES.csv|TQ352754|51.461|-0.055|175|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=51.461&lon=-0.055&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/51.461,-0.055,16)  |
 |[CAMBRIDGE-BARROW-ROAD](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/CAMBRIDGE-BARROW-ROAD)|CAMBRIDGE-BARROW-ROAD.csv|TL462563|52.186|0.137|45|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=52.186&lon=0.137&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/52.186,0.137,16)  |
 ||CAMBRIDGE-BARROW-ROAD-2.csv|TL453565|52.188|0.124|47|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=52.188&lon=0.124&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/52.188,0.124,16)  |
@@ -1908,6 +1909,7 @@ Generation time: Tuesday 09/03/2021 17:01:54 GMT
 ||CROMER-HOWARDS-HILL-2.csv|TG209421|52.931|1.285|178|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=52.931&lon=1.285&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/52.931,1.285,16)  |
 ||CROMER-HOWARDS-HILL-3.csv|TG209421|52.931|1.285|178|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=52.931&lon=1.285&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/52.931,1.285,16)  |
 |[CROMER-NORTHREPPS](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/CROMER-NORTHREPPS)|CROMER-NORTHREPPS.csv|TG231399|52.910|1.316|226|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=52.910&lon=1.316&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/52.910,1.316,16)  |
+|[CRONDALL-WARREN-CORNER](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/CRONDALL-WARREN-CORNER)|||||||
 |[CROOKSTON-PAISLEY](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/CROOKSTON-PAISLEY)|CROOKSTON-PAISLEY.csv|NS5216662846|55.836|-4.362|50|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=55.836&lon=-4.362&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/55.836,-4.362,16)  |
 |[CROPSTON-BRADGATE-RES](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/CROPSTON-BRADGATE-RES)|CROPSTON-BRADGATE-RES.csv|SK549114|52.698|-1.189|246|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=52.698&lon=-1.189&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/52.698,-1.189,16)  |
 |[CROPWELL-BISHOP-GROVE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/CROPWELL-BISHOP-GROVE)|CROPWELL-BISHOP-GROVE.csv|SK677375|52.931|-0.994|160|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=52.931&lon=-0.994&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/52.931,-0.994,16)  |
@@ -3054,6 +3056,7 @@ Generation time: Tuesday 09/03/2021 17:01:54 GMT
 |[GLOUCESTER-LLANTHONY-LOCK](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/GLOUCESTER-LLANTHONY-LOCK)|GLOUCESTER-LLANTHONY-LOCK.csv|SO822183|51.863|-2.260|39|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=51.863&lon=-2.260&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/51.863,-2.260,16)  |
 |[GLOUCESTER-MAISEMORE-LOCK](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/GLOUCESTER-MAISEMORE-LOCK)|GLOUCESTER-MAISEMORE-LOCK.csv|SO818216|51.893|-2.266|39|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=51.893&lon=-2.266&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/51.893,-2.266,16)  |
 |[GLYNCEIRIOG-PLAS-NANTHYR](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/GLYNCEIRIOG-PLAS-NANTHYR)|||||||
+|[GLYNCORRWG-COLLIERY](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/GLYNCORRWG-COLLIERY)|||||||
 |[GODLEY-RES](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/GODLEY-RES)|GODLEY-RES.csv|SJ967954|53.455|-2.051|500|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=53.455&lon=-2.051&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/53.455,-2.051,16)  |
 ||GODLEY-RES-2.csv|SJ967954|53.455|-2.051|488|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=53.455&lon=-2.051&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/53.455,-2.051,16)  |
 |[GOGINAN](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/GOGINAN)|GOGINAN.csv|SN688817|52.418|-3.930|290|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=52.418&lon=-3.930&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/52.418,-3.930,16)  |
