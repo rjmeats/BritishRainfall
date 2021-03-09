@@ -1476,6 +1476,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -1.387,
+          53.652
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "ACKWORTH-NOSTELL-PRIORY",
+        "county": "Yorkshire West Riding",
+        "gridref": "SE406174",
+        "latitude": "53.652",
+        "longitude": "-1.387",
+        "elevation (ft)": "210"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -1.334,
           53.649
         ]
@@ -6957,6 +6978,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -5.498,
+          54.536
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "BALLYWALTER-PARK",
+        "county": "Down",
+        "gridref": "IJ620682",
+        "latitude": "54.536",
+        "longitude": "-5.498",
+        "elevation (ft)": "50"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -3.233,
           57.039
         ]
@@ -7811,6 +7853,27 @@
         "latitude": "54.541",
         "longitude": "-1.912",
         "elevation (ft)": "540"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.171,
+          51.651
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "BARNET-GAS-WORKS",
+        "county": "Hertfordshire",
+        "gridref": "TQ266963",
+        "latitude": "51.651",
+        "longitude": "-0.171",
+        "elevation (ft)": "212"
       }
     },
     {
@@ -10751,6 +10814,27 @@
         "latitude": "54.194",
         "longitude": "-6.390",
         "elevation (ft)": "260"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.288,
+          51.235
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "BETCHWORTH-BROCKHAM-LODGE",
+        "county": "Surrey-stayed-Surrey",
+        "gridref": "TQ196498",
+        "latitude": "51.235",
+        "longitude": "-0.288",
+        "elevation (ft)": "154"
       }
     },
     {
@@ -14013,6 +14097,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -0.668,
+          50.787
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "BOGNOR-BERSTED-LODGE",
+        "county": "Sussex",
+        "gridref": "SZ940994",
+        "latitude": "50.787",
+        "longitude": "-0.668",
+        "elevation (ft)": "9"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -0.676,
           50.792
         ]
@@ -15903,6 +16008,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          0.898,
+          51.73
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "BRADWELL-ON-SEA-DOWN-HALL",
+        "county": "Essex",
+        "gridref": "TM002074",
+        "latitude": "51.730",
+        "longitude": "0.898",
+        "elevation (ft)": "20"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -3.399,
           57.006
         ]
@@ -16379,6 +16505,27 @@
         "latitude": "56.834",
         "longitude": "-2.660",
         "elevation (ft)": "250"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.58,
+          50.931
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "BREDE-PUMPING-STATION",
+        "county": "Sussex",
+        "gridref": "TQ814178",
+        "latitude": "50.931",
+        "longitude": "0.580",
+        "elevation (ft)": "26"
       }
     },
     {
@@ -17681,27 +17828,6 @@
         "latitude": "50.823",
         "longitude": "-2.855",
         "elevation (ft)": "515"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -0.288,
-          51.235
-        ]
-      },
-      "properties": {
-        "marker-symbol": "circle-stroked",
-        "marker-size": "small",
-        "marker-color": "66ff33",
-        "name": "BROCKHAM-NORTH-LODGE",
-        "county": "Surrey-stayed-Surrey",
-        "gridref": "TQ196498",
-        "latitude": "51.235",
-        "longitude": "-0.288",
-        "elevation (ft)": "160"
       }
     },
     {
@@ -19928,6 +20054,27 @@
         "latitude": "55.793",
         "longitude": "-5.017",
         "elevation (ft)": "100"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.034,
+          55.733
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "BUTE-PLAN-FARM",
+        "county": "Bute",
+        "gridref": "NS096530",
+        "latitude": "55.733",
+        "longitude": "-5.034",
+        "elevation (ft)": "-999999"
       }
     },
     {
@@ -22245,6 +22392,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -2.745,
+          56.236
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "CARNBEE-OVENSTONE",
+        "county": "Fife",
+        "gridref": "NO5389305112",
+        "latitude": "56.236",
+        "longitude": "-2.745",
+        "elevation (ft)": "168"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -3.54,
           52.563
         ]
@@ -23043,6 +23211,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -6.86,
+          54.496
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "CASTLECAULFIELD-PARKANAUR",
+        "county": "Tyrone",
+        "gridref": "IH739614",
+        "latitude": "54.496",
+        "longitude": "-6.860",
+        "elevation (ft)": "250"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -7.202,
           52.806
         ]
@@ -23414,6 +23603,27 @@
         "latitude": "52.825",
         "longitude": "-3.518",
         "elevation (ft)": "1800"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.969,
+          56.292
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "CERES-CASTLEBANK",
+        "county": "Fife",
+        "gridref": "NO401115",
+        "latitude": "56.292",
+        "longitude": "-2.969",
+        "elevation (ft)": "280"
       }
     },
     {
@@ -26697,6 +26907,48 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -3.46,
+          56.149
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "CLEISH-HILLS-LOCH-GLOW-RES",
+        "county": "Fife",
+        "gridref": "NT094961",
+        "latitude": "56.149",
+        "longitude": "-3.460",
+        "elevation (ft)": "900"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.516,
+          56.137
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "CLEISH-HILLS-OUTH",
+        "county": "Fife",
+        "gridref": "NT059948",
+        "latitude": "56.137",
+        "longitude": "-3.516",
+        "elevation (ft)": "890"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -3.465,
           56.125
         ]
@@ -27509,6 +27761,27 @@
         "latitude": "52.500",
         "longitude": "-3.682",
         "elevation (ft)": "1150"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.559,
+          55.815
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "COBBINSHAW-RES",
+        "county": "Midlothian (Edinburgh)",
+        "gridref": "NT024591",
+        "latitude": "55.815",
+        "longitude": "-3.559",
+        "elevation (ft)": "863"
       }
     },
     {
@@ -29756,6 +30029,27 @@
         "latitude": "51.116",
         "longitude": "-0.078",
         "elevation (ft)": "430"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.186,
+          51.111
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "CRAWLEY-THE-BEECHES",
+        "county": "Sussex",
+        "gridref": "TQ271362",
+        "latitude": "51.111",
+        "longitude": "-0.186",
+        "elevation (ft)": "220"
       }
     },
     {
@@ -32360,6 +32654,27 @@
         "latitude": "52.281",
         "longitude": "-1.157",
         "elevation (ft)": "394"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.166,
+          52.258
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "DAVENTRY-WATERLOO",
+        "county": "Northamptonshire",
+        "gridref": "SP570625",
+        "latitude": "52.258",
+        "longitude": "-1.166",
+        "elevation (ft)": "436"
       }
     },
     {
@@ -41460,6 +41775,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          0.784,
+          51.249
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "FAVERSHAM-OTTERDEN-RECTORY-CHARING",
+        "county": "Kent-stayed-Kent",
+        "gridref": "TQ944537",
+        "latitude": "51.249",
+        "longitude": "0.784",
+        "elevation (ft)": "507"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           0.886,
           51.299
         ]
@@ -41558,6 +41894,48 @@
         "latitude": "51.713",
         "longitude": "-3.957",
         "elevation (ft)": "46"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.325,
+          51.947
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "FELIXSTOWE-AIRFIELD",
+        "county": "Suffolk",
+        "gridref": "TM286328",
+        "latitude": "51.947",
+        "longitude": "1.325",
+        "elevation (ft)": "10"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.349,
+          51.962
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "FELIXSTOWE-WEST-VIEW",
+        "county": "Suffolk",
+        "gridref": "TM302346",
+        "latitude": "51.962",
+        "longitude": "1.349",
+        "elevation (ft)": "70"
       }
     },
     {
@@ -43889,6 +44267,27 @@
         "latitude": "51.473",
         "longitude": "-0.215",
         "elevation (ft)": "15"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.863,
+          50.868
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "FUNTINGTON",
+        "county": "Sussex",
+        "gridref": "SU801082",
+        "latitude": "50.868",
+        "longitude": "-0.863",
+        "elevation (ft)": "95"
       }
     },
     {
@@ -50259,6 +50658,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -0.836,
+          52.562
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "HALLATON-HALL",
+        "county": "Leicestershire",
+        "gridref": "SP790966",
+        "latitude": "52.562",
+        "longitude": "-0.836",
+        "elevation (ft)": "366"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           0.437,
           51.352
         ]
@@ -50315,6 +50735,27 @@
         "latitude": "55.079",
         "longitude": "-2.044",
         "elevation (ft)": "470"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.62,
+          51.938
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "HALSTEAD-ATTWOODS",
+        "county": "Essex",
+        "gridref": "TL802298",
+        "latitude": "51.938",
+        "longitude": "0.620",
+        "elevation (ft)": "200"
       }
     },
     {
@@ -52527,6 +52968,48 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          0.454,
+          52.125
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "HAVERHILL-GREAT-THURLOW",
+        "county": "Suffolk",
+        "gridref": "TL680502",
+        "latitude": "52.125",
+        "longitude": "0.454",
+        "elevation (ft)": "241"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.448,
+          52.125
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "HAVERHILL-GREAT-THURLOW",
+        "county": "Suffolk",
+        "gridref": "TL677502",
+        "latitude": "52.125",
+        "longitude": "0.448",
+        "elevation (ft)": "241"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           0.191,
           51.615
         ]
@@ -52541,6 +53024,27 @@
         "latitude": "51.615",
         "longitude": "0.191",
         "elevation (ft)": "360"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.175,
+          51.608
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "HAVERING-GRANGE",
+        "county": "Essex",
+        "gridref": "TQ507922",
+        "latitude": "51.608",
+        "longitude": "0.175",
+        "elevation (ft)": "255"
       }
     },
     {
@@ -53612,6 +54116,27 @@
         "latitude": "51.735",
         "longitude": "-0.464",
         "elevation (ft)": "260"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.35,
+          53.614
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "HEMSWORTH-HALL",
+        "county": "Yorkshire West Riding",
+        "gridref": "SE431133",
+        "latitude": "53.614",
+        "longitude": "-1.350",
+        "elevation (ft)": "250"
       }
     },
     {
@@ -55719,6 +56244,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -1.788,
+          53.607
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "HONLEY-NORTHGATE-HOUSE",
+        "county": "Yorkshire West Riding",
+        "gridref": "SE141123",
+        "latitude": "53.607",
+        "longitude": "-1.788",
+        "elevation (ft)": "350"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -2.975,
           53.293
         ]
@@ -55733,6 +56279,27 @@
         "latitude": "53.293",
         "longitude": "-2.975",
         "elevation (ft)": "97"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.558,
+          53.655
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "HORBURY-ADDINGFORD-HOSPITAL",
+        "county": "Yorkshire West Riding",
+        "gridref": "SE293177",
+        "latitude": "53.655",
+        "longitude": "-1.558",
+        "elevation (ft)": "169"
       }
     },
     {
@@ -56384,6 +56951,48 @@
         "latitude": "53.634",
         "longitude": "-1.849",
         "elevation (ft)": "400"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.83,
+          53.656
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "HUDDERSFIELD-OAKES",
+        "county": "Yorkshire West Riding",
+        "gridref": "SE113177",
+        "latitude": "53.656",
+        "longitude": "-1.830",
+        "elevation (ft)": "762"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.755,
+          53.645
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "HUDDERSFIELD-RAVENSKNOWLE",
+        "county": "Yorkshire West Riding",
+        "gridref": "SE163165",
+        "latitude": "53.645",
+        "longitude": "-1.755",
+        "elevation (ft)": "325"
       }
     },
     {
@@ -57147,6 +57756,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -1.825,
+          53.924
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "ILKLEY-BROOK-STREET",
+        "county": "Yorkshire West Riding",
+        "gridref": "SE116476",
+        "latitude": "53.924",
+        "longitude": "-1.825",
+        "elevation (ft)": "312"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -1.813,
           53.954
         ]
@@ -57315,6 +57945,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -1.673,
+          53.549
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "INGBIRCHWORTH",
+        "county": "Yorkshire West Riding",
+        "gridref": "SE217058",
+        "latitude": "53.549",
+        "longitude": "-1.673",
+        "elevation (ft)": "800"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -1.102,
           54.45
         ]
@@ -57371,6 +58022,27 @@
         "latitude": "54.444",
         "longitude": "-1.096",
         "elevation (ft)": "440"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.448,
+          54.212
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "INGLETON-KINGSDALE-HEAD",
+        "county": "Yorkshire West Riding",
+        "gridref": "SD709797",
+        "latitude": "54.212",
+        "longitude": "-2.448",
+        "elevation (ft)": "994"
       }
     },
     {
@@ -57959,6 +58631,27 @@
         "latitude": "55.584",
         "longitude": "-4.662",
         "elevation (ft)": "12"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.057,
+          50.947
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "ISFIELD-PLACE",
+        "county": "Sussex",
+        "gridref": "TQ4462818456",
+        "latitude": "50.947",
+        "longitude": "0.057",
+        "elevation (ft)": "51"
       }
     },
     {
@@ -61830,6 +62523,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -1.48,
+          54.011
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "KNARESBOROUGH-CONYNGHAM-HALL",
+        "county": "Yorkshire West Riding",
+        "gridref": "SE342573",
+        "latitude": "54.011",
+        "longitude": "-1.480",
+        "elevation (ft)": "200"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -1.47,
           54.039
         ]
@@ -63405,6 +64119,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -1.687,
+          53.473
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "LANGSETT-MOOR-PIKE-LOWE",
+        "county": "Yorkshire West Riding",
+        "gridref": "SK209974",
+        "latitude": "53.473",
+        "longitude": "-1.687",
+        "elevation (ft)": "1358"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -1.717,
           53.504
         ]
@@ -64161,8 +64896,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -1.532,
-          53.873
+          -1.527,
+          53.895
         ]
       },
       "properties": {
@@ -64171,9 +64906,9 @@
         "marker-color": "66ff33",
         "name": "LEEDS-ECCUP-RES",
         "county": "Yorkshire West Riding",
-        "gridref": "SE308444",
-        "latitude": "53.873",
-        "longitude": "-1.532",
+        "gridref": "SE312444",
+        "latitude": "53.895",
+        "longitude": "-1.527",
         "elevation (ft)": "300"
       }
     },
@@ -65435,6 +66170,27 @@
         "latitude": "55.909",
         "longitude": "-3.164",
         "elevation (ft)": "407"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.165,
+          55.922
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "LIBERTON-COLLEGE-FARM",
+        "county": "Midlothian (Edinburgh)",
+        "gridref": "NT273705",
+        "latitude": "55.922",
+        "longitude": "-3.165",
+        "elevation (ft)": "190"
       }
     },
     {
@@ -72792,6 +73548,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          0.503,
+          51.266
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "MAIDSTONE-FANT-ROAD",
+        "county": "Kent-stayed-Kent",
+        "gridref": "TQ747549",
+        "latitude": "51.266",
+        "longitude": "0.503",
+        "elevation (ft)": "60"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           0.466,
           51.22
         ]
@@ -72806,6 +73583,27 @@
         "latitude": "51.220",
         "longitude": "0.466",
         "elevation (ft)": "80"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.443,
+          51.305
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "MAIDSTONE-LARKFIELD",
+        "county": "Kent-stayed-Kent",
+        "gridref": "TQ704590",
+        "latitude": "51.305",
+        "longitude": "0.443",
+        "elevation (ft)": "95"
       }
     },
     {
@@ -73359,6 +74157,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -2.167,
+          53.417
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "MANCHESTER-HANSON",
+        "county": "Lancashire",
+        "gridref": "SJ890911",
+        "latitude": "53.417",
+        "longitude": "-2.167",
+        "elevation (ft)": "262"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -2.256,
           53.48
         ]
@@ -73562,6 +74381,27 @@
         "latitude": "53.459",
         "longitude": "-2.230",
         "elevation (ft)": "125"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.044,
+          51.551
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "MANOR-PARK-ALBANY-ROAD",
+        "county": "Essex",
+        "gridref": "TQ418855",
+        "latitude": "51.551",
+        "longitude": "0.044",
+        "elevation (ft)": "40"
       }
     },
     {
@@ -75606,6 +76446,69 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -0.207,
+          51.412
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "MERTON-PARK-MOSTYN-ROAD",
+        "county": "Surrey-stayed-Surrey",
+        "gridref": "TQ248696",
+        "latitude": "51.412",
+        "longitude": "-0.207",
+        "elevation (ft)": "52"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.205,
+          51.406
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "MERTON-PARK-MOSTYN-ROAD",
+        "county": "Surrey-stayed-Surrey",
+        "gridref": "TQ249690",
+        "latitude": "51.406",
+        "longitude": "-0.205",
+        "elevation (ft)": "54"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.205,
+          51.405
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "MERTON-PARK-MOSTYN-ROAD",
+        "county": "Surrey-stayed-Surrey",
+        "gridref": "TQ249688",
+        "latitude": "51.405",
+        "longitude": "-0.205",
+        "elevation (ft)": "54"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -1.261,
           53.498
         ]
@@ -76110,6 +77013,48 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          0.504,
+          52.344
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "MILDENHALL",
+        "county": "Suffolk",
+        "gridref": "TL707747",
+        "latitude": "52.344",
+        "longitude": "0.504",
+        "elevation (ft)": "50"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.538,
+          52.354
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "MILDENHALL",
+        "county": "Suffolk",
+        "gridref": "TL729759",
+        "latitude": "52.354",
+        "longitude": "0.538",
+        "elevation (ft)": "33"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -0.051,
           51.522
         ]
@@ -76124,6 +77069,27 @@
         "latitude": "51.522",
         "longitude": "-0.051",
         "elevation (ft)": "50"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.702,
+          55.087
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "MILFORD-THE-MANSE",
+        "county": "Donegal",
+        "gridref": "IC1910026700",
+        "latitude": "55.087",
+        "longitude": "-7.702",
+        "elevation (ft)": "150"
       }
     },
     {
@@ -80268,6 +81234,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          0.394,
+          52.257
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "NEWMARKET-SEWAGE-OUTFALL",
+        "county": "Suffolk",
+        "gridref": "TL635648",
+        "latitude": "52.257",
+        "longitude": "0.394",
+        "elevation (ft)": "81"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -2.385,
           52.757
         ]
@@ -81185,6 +82172,27 @@
         "latitude": "54.183",
         "longitude": "-1.937",
         "elevation (ft)": "1150"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.389,
+          50.886
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "NINFIELD-HAZARDS-GREEN-PUMPING-STATION",
+        "county": "Sussex",
+        "gridref": "TQ6816212299",
+        "latitude": "50.886",
+        "longitude": "0.389",
+        "elevation (ft)": "74"
       }
     },
     {
@@ -84440,6 +85448,27 @@
         "latitude": "53.911",
         "longitude": "-1.664",
         "elevation (ft)": "172"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.693,
+          53.905
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "OTLEY-THORNS",
+        "county": "Yorkshire West Riding",
+        "gridref": "SE203455",
+        "latitude": "53.905",
+        "longitude": "-1.693",
+        "elevation (ft)": "206"
       }
     },
     {
@@ -92511,6 +93540,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -1.657,
+          54.131
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "RIPON-WW-LUMLEY-MOOR",
+        "county": "Yorkshire West Riding",
+        "gridref": "SE225706",
+        "latitude": "54.131",
+        "longitude": "-1.657",
+        "elevation (ft)": "572"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -1.941,
           53.675
         ]
@@ -92945,6 +93995,27 @@
         "latitude": "53.642",
         "longitude": "-2.575",
         "elevation (ft)": "629"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.89,
+          52.157
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "ROADE-COUNCIL-SCHOOL",
+        "county": "Northamptonshire",
+        "gridref": "SP760516",
+        "latitude": "52.157",
+        "longitude": "-0.890",
+        "elevation (ft)": "371"
       }
     },
     {
@@ -95892,6 +96963,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -0.874,
+          52.343
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "SCALDWELL",
+        "county": "Northamptonshire",
+        "gridref": "SP768722",
+        "latitude": "52.343",
+        "longitude": "-0.874",
+        "elevation (ft)": "404"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -5.934,
           57.284
         ]
@@ -97404,6 +98496,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -1.528,
+          53.37
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "SHEFFIELD-RANMOOR",
+        "county": "Yorkshire West Riding",
+        "gridref": "SK315860",
+        "latitude": "53.370",
+        "longitude": "-1.528",
+        "elevation (ft)": "610"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -1.608,
           53.368
         ]
@@ -97418,6 +98531,27 @@
         "latitude": "53.368",
         "longitude": "-1.608",
         "elevation (ft)": "1110"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.54,
+          53.367
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "SHEFFIELD-STUMPERLOW-HALL",
+        "county": "Yorkshire West Riding",
+        "gridref": "SK307857",
+        "latitude": "53.367",
+        "longitude": "-1.540",
+        "elevation (ft)": "700"
       }
     },
     {
@@ -98559,6 +99693,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          0.1,
+          51.422
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "SIDCUP-FOOTS-CRAY",
+        "county": "Kent-stayed-Kent",
+        "gridref": "TQ461713",
+        "latitude": "51.422",
+        "longitude": "0.100",
+        "elevation (ft)": "231"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -2.205,
           53.236
         ]
@@ -98615,6 +99770,27 @@
         "latitude": "54.872",
         "longitude": "-3.387",
         "elevation (ft)": "28"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.938,
+          53.916
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "SILSDEN-BOLTON-ROAD",
+        "county": "Yorkshire West Riding",
+        "gridref": "SE042466",
+        "latitude": "53.916",
+        "longitude": "-1.938",
+        "elevation (ft)": "432"
       }
     },
     {
@@ -100974,6 +102150,48 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          0.808,
+          51.662
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "SOUTHMINSTER",
+        "county": "Essex",
+        "gridref": "TQ943996",
+        "latitude": "51.662",
+        "longitude": "0.808",
+        "elevation (ft)": "85"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.841,
+          51.666
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "SOUTHMINSTER-NEW-MOOR",
+        "county": "Essex",
+        "gridref": "TL966002",
+        "latitude": "51.666",
+        "longitude": "0.841",
+        "elevation (ft)": "72"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -3.013,
           53.634
         ]
@@ -103116,6 +104334,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -1.995,
+          53.595
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "STANDEDGE-CASTLESHAW-CUDWORTH",
+        "county": "Yorkshire West Riding",
+        "gridref": "SE004109",
+        "latitude": "53.595",
+        "longitude": "-1.995",
+        "elevation (ft)": "1410"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -1.964,
           53.583
         ]
@@ -104789,6 +106028,27 @@
         "latitude": "53.308",
         "longitude": "-6.624",
         "elevation (ft)": "240"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.558,
+          54.375
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "STRANGFORD",
+        "county": "Down",
+        "gridref": "IJ5868050130",
+        "latitude": "54.375",
+        "longitude": "-5.558",
+        "elevation (ft)": "30"
       }
     },
     {
@@ -109269,6 +110529,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -2.084,
+          51.068
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "TISBURY-THE-ACADEMY",
+        "county": "Wiltshire",
+        "gridref": "ST942299",
+        "latitude": "51.068",
+        "longitude": "-2.084",
+        "elevation (ft)": "380"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -2.215,
           56.883
         ]
@@ -110907,6 +112188,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          0.182,
+          51.188
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "TUNBRIDGE-PENSHURST-PARK",
+        "county": "Kent-stayed-Kent",
+        "gridref": "TQ526454",
+        "latitude": "51.188",
+        "longitude": "0.182",
+        "elevation (ft)": "265"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           0.183,
           51.174
         ]
@@ -110942,6 +112244,27 @@
         "latitude": "51.133",
         "longitude": "0.254",
         "elevation (ft)": "418"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.269,
+          51.13
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "TUNBRIDGE-WELLS-CALVERLEY-PARK",
+        "county": "Kent-stayed-Kent",
+        "gridref": "TQ588392",
+        "latitude": "51.130",
+        "longitude": "0.269",
+        "elevation (ft)": "356"
       }
     },
     {
@@ -111110,6 +112433,27 @@
         "latitude": "51.448",
         "longitude": "-0.345",
         "elevation (ft)": "37"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.221,
+          51.9
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "TWIGWORTH-GLOUCESTER",
+        "county": "Gloucestershire",
+        "gridref": "SO849224",
+        "latitude": "51.900",
+        "longitude": "-2.221",
+        "elevation (ft)": "50"
       }
     },
     {
@@ -112818,6 +114162,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -1.491,
+          53.698
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "WAKEFIELD-STANLEY-GRANGE",
+        "county": "Yorkshire West Riding",
+        "gridref": "SE337225",
+        "latitude": "53.698",
+        "longitude": "-1.491",
+        "elevation (ft)": "235"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -1.451,
           53.642
         ]
@@ -112853,6 +114218,69 @@
         "latitude": "53.648",
         "longitude": "-1.467",
         "elevation (ft)": "137"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.519,
+          53.613
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "WAKEFIELD-WOOLLEY",
+        "county": "Yorkshire West Riding",
+        "gridref": "SE319130",
+        "latitude": "53.613",
+        "longitude": "-1.519",
+        "elevation (ft)": "400"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.509,
+          53.611
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "WAKEFIELD-WOOLLEY",
+        "county": "Yorkshire West Riding",
+        "gridref": "SE326128",
+        "latitude": "53.611",
+        "longitude": "-1.509",
+        "elevation (ft)": "318"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.513,
+          53.614
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "WAKEFIELD-WOOLLEY",
+        "county": "Yorkshire West Riding",
+        "gridref": "SE323132",
+        "latitude": "53.614",
+        "longitude": "-1.513",
+        "elevation (ft)": "400"
       }
     },
     {
@@ -113448,6 +114876,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -0.251,
+          51.282
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "WALTON-ON-THE-HILL-WALTON-MANOR",
+        "county": "Surrey-stayed-Surrey",
+        "gridref": "TQ221551",
+        "latitude": "51.282",
+        "longitude": "-0.251",
+        "elevation (ft)": "600"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -0.226,
           51.467
         ]
@@ -113490,6 +114939,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -0.187,
+          51.451
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "WANDSWORTH-ST-ANNS-HILL",
+        "county": "Surrey-became-London",
+        "gridref": "TQ261740",
+        "latitude": "51.451",
+        "longitude": "-0.187",
+        "elevation (ft)": "58"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -0.122,
           51.443
         ]
@@ -113504,6 +114974,27 @@
         "latitude": "51.443",
         "longitude": "-0.122",
         "elevation (ft)": "202"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.617,
+          52.354
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "WANGFORD-FORD-HOUSE",
+        "county": "Suffolk",
+        "gridref": "TM464790",
+        "latitude": "52.354",
+        "longitude": "1.617",
+        "elevation (ft)": "25"
       }
     },
     {
@@ -113903,6 +115394,27 @@
         "latitude": "51.452",
         "longitude": "-0.745",
         "elevation (ft)": "220"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.298,
+          54.429
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "WARINGSTOWN-THE-FORGE",
+        "county": "Down",
+        "gridref": "IJ105547",
+        "latitude": "54.429",
+        "longitude": "-6.298",
+        "elevation (ft)": "184"
       }
     },
     {
@@ -118782,6 +120294,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -2.234,
+          50.8
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "WINTERBORNE-WHITCHURCH-VIC",
+        "county": "Dorset",
+        "gridref": "ST836001",
+        "latitude": "50.800",
+        "longitude": "-2.234",
+        "elevation (ft)": "240"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -2.102,
           54.052
         ]
@@ -120672,6 +122205,69 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -0.368,
+          50.811
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "WORTHING-MIX",
+        "county": "Sussex",
+        "gridref": "TQ151025",
+        "latitude": "50.811",
+        "longitude": "-0.368",
+        "elevation (ft)": "12"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.369,
+          50.811
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "WORTHING-MIX",
+        "county": "Sussex",
+        "gridref": "TQ150025",
+        "latitude": "50.811",
+        "longitude": "-0.369",
+        "elevation (ft)": "18"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.37,
+          50.815
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "WORTHING-MIX",
+        "county": "Sussex",
+        "gridref": "TQ149030",
+        "latitude": "50.815",
+        "longitude": "-0.370",
+        "elevation (ft)": "25"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -1.164,
           51.27
         ]
@@ -121105,6 +122701,27 @@
         "gridref": "ST462633",
         "latitude": "51.366",
         "longitude": "-2.774",
+        "elevation (ft)": "100"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.428,
+          51.729
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "WRITTLE-THE-HOUSE",
+        "county": "Essex",
+        "gridref": "TL678061",
+        "latitude": "51.729",
+        "longitude": "0.428",
         "elevation (ft)": "100"
       }
     },
@@ -121883,6 +123500,27 @@
         "latitude": "55.895",
         "longitude": "-2.733",
         "elevation (ft)": "420"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.114,
+          53.966
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "YORK-ACOMB-LANDING",
+        "county": "Yorkshire West Riding",
+        "gridref": "SE582526",
+        "latitude": "53.966",
+        "longitude": "-1.114",
+        "elevation (ft)": "40"
       }
     },
     {
