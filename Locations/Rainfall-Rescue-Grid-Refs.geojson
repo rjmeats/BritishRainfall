@@ -5193,6 +5193,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -3.774,
+          50.519
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "ASHBURTON-HELE-HOUSE",
+        "county": "Devon",
+        "gridref": "SX743703",
+        "latitude": "50.519",
+        "longitude": "-3.774",
+        "elevation (ft)": "350"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -3.812,
           50.576
         ]
@@ -8147,6 +8168,27 @@
         "latitude": "51.078",
         "longitude": "-4.060",
         "elevation (ft)": "25"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.066,
+          51.089
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "BARNSTAPLE-PILTON",
+        "county": "Devon",
+        "gridref": "SS554341",
+        "latitude": "51.089",
+        "longitude": "-4.066",
+        "elevation (ft)": "87"
       }
     },
     {
@@ -11255,6 +11297,27 @@
         "latitude": "50.979",
         "longitude": "-4.239",
         "elevation (ft)": "260"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.136,
+          51.014
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "BIDEFORD-WEBBERY",
+        "county": "Devon",
+        "gridref": "SS502259",
+        "latitude": "51.014",
+        "longitude": "-4.136",
+        "elevation (ft)": "350"
       }
     },
     {
@@ -15987,6 +16050,48 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -3.428,
+          50.825
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "BRADNINCH-BOWLEY-CLOSE",
+        "county": "Devon",
+        "gridref": "SS995037",
+        "latitude": "50.825",
+        "longitude": "-3.428",
+        "elevation (ft)": "300"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.43,
+          50.823
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "BRADNINCH-BOWLEY-CLOSE",
+        "county": "Devon",
+        "gridref": "SS993035",
+        "latitude": "50.823",
+        "longitude": "-3.430",
+        "elevation (ft)": "300"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           0.876,
           51.711
         ]
@@ -18528,6 +18633,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -3.782,
+          50.48
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "BUCKFASTLEIGH-BOSSEL-PARK",
+        "county": "Devon",
+        "gridref": "SX736659",
+        "latitude": "50.480",
+        "longitude": "-3.782",
+        "elevation (ft)": "175"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           0.033,
           51.632
         ]
@@ -18626,6 +18752,27 @@
         "latitude": "51.999",
         "longitude": "-0.991",
         "elevation (ft)": "269"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.252,
+          50.963
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "BUCKLAND-BREWER-THE-COTTAGE",
+        "county": "Devon",
+        "gridref": "SS419206",
+        "latitude": "50.963",
+        "longitude": "-4.252",
+        "elevation (ft)": "469"
       }
     },
     {
@@ -18752,6 +18899,27 @@
         "latitude": "50.637",
         "longitude": "-3.349",
         "elevation (ft)": "230"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.333,
+          50.632
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "BUDLEIGH-SALTERTON-RAVENSHAW",
+        "county": "Devon",
+        "gridref": "SY058822",
+        "latitude": "50.632",
+        "longitude": "-3.333",
+        "elevation (ft)": "50"
       }
     },
     {
@@ -23757,6 +23925,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -3.881,
+          50.649
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "CHAGFORD-THORNWORTHY",
+        "county": "Devon",
+        "gridref": "SX671850",
+        "latitude": "50.649",
+        "longitude": "-3.881",
+        "elevation (ft)": "1150"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -3.896,
           50.645
         ]
@@ -23792,6 +23981,48 @@
         "latitude": "50.646",
         "longitude": "-3.891",
         "elevation (ft)": "1160"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.907,
+          50.625
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "CHAGFORD-WHITE-RIDGE",
+        "county": "Devon",
+        "gridref": "SX652822",
+        "latitude": "50.625",
+        "longitude": "-3.907",
+        "elevation (ft)": "1640"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.908,
+          50.625
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "CHAGFORD-WHITE-RIDGE",
+        "county": "Devon",
+        "gridref": "SX650824",
+        "latitude": "50.625",
+        "longitude": "-3.908",
+        "elevation (ft)": "1610"
       }
     },
     {
@@ -27474,6 +27705,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -4.41,
+          51.0
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "CLOVELLY-COURT",
+        "county": "Devon",
+        "gridref": "SS310250",
+        "latitude": "51.000",
+        "longitude": "-4.410",
+        "elevation (ft)": "360"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -1.067,
           53.267
         ]
@@ -29826,6 +30078,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -4.129,
+          50.49
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "CRAPSTONE-BUCKLAND-MONACHORUM",
+        "county": "Devon",
+        "gridref": "SX490677",
+        "latitude": "50.490",
+        "longitude": "-4.129",
+        "elevation (ft)": "410"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -5.242,
           56.126
         ]
@@ -32157,6 +32430,90 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -3.977,
+          50.578
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "DARTMOOR-BEARDOWN",
+        "county": "Devon",
+        "gridref": "SX600772",
+        "latitude": "50.578",
+        "longitude": "-3.977",
+        "elevation (ft)": "1550"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.976,
+          50.582
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "DARTMOOR-BEARDOWN",
+        "county": "Devon",
+        "gridref": "SX601776",
+        "latitude": "50.582",
+        "longitude": "-3.976",
+        "elevation (ft)": "1550"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.975,
+          50.58
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "DARTMOOR-BEARDOWN",
+        "county": "Devon",
+        "gridref": "SX603775",
+        "latitude": "50.580",
+        "longitude": "-3.975",
+        "elevation (ft)": "1582"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.97,
+          50.573
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "DARTMOOR-BEARDOWN",
+        "county": "Devon",
+        "gridref": "SX605767",
+        "latitude": "50.573",
+        "longitude": "-3.970",
+        "elevation (ft)": "1560"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -4.007,
           50.579
         ]
@@ -32199,6 +32556,90 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -3.996,
+          50.589
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "DARTMOOR-COWSIC-HEAD",
+        "county": "Devon",
+        "gridref": "SX587784",
+        "latitude": "50.589",
+        "longitude": "-3.996",
+        "elevation (ft)": "1580"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.992,
+          50.59
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "DARTMOOR-COWSIC-HEAD",
+        "county": "Devon",
+        "gridref": "SX590786",
+        "latitude": "50.590",
+        "longitude": "-3.992",
+        "elevation (ft)": "1465"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.993,
+          50.524
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "DARTMOOR-CRAMBER-TOR",
+        "county": "Devon",
+        "gridref": "SX588712",
+        "latitude": "50.524",
+        "longitude": "-3.993",
+        "elevation (ft)": "1435"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.976,
+          50.654
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "DARTMOOR-CRANMERE-POOL",
+        "county": "Devon",
+        "gridref": "SX604857",
+        "latitude": "50.654",
+        "longitude": "-3.976",
+        "elevation (ft)": "1850"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -4.004,
           50.501
         ]
@@ -32213,6 +32654,132 @@
         "latitude": "50.501",
         "longitude": "-4.004",
         "elevation (ft)": "807"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.985,
+          50.599
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "DARTMOOR-DEVILS-TOR",
+        "county": "Devon",
+        "gridref": "SX596796",
+        "latitude": "50.599",
+        "longitude": "-3.985",
+        "elevation (ft)": "1785"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.991,
+          50.598
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "DARTMOOR-DEVILS-TOR",
+        "county": "Devon",
+        "gridref": "SX591795",
+        "latitude": "50.598",
+        "longitude": "-3.991",
+        "elevation (ft)": "1570"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.95,
+          50.517
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "DARTMOOR-FOX-TOR",
+        "county": "Devon",
+        "gridref": "SX618704",
+        "latitude": "50.517",
+        "longitude": "-3.950",
+        "elevation (ft)": "1160"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.003,
+          50.549
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "DARTMOOR-HESSARY-TOR",
+        "county": "Devon",
+        "gridref": "SX581740",
+        "latitude": "50.549",
+        "longitude": "-4.003",
+        "elevation (ft)": "1596"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.007,
+          50.55
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "DARTMOOR-HESSARY-TOR",
+        "county": "Devon",
+        "gridref": "SX578741",
+        "latitude": "50.550",
+        "longitude": "-4.007",
+        "elevation (ft)": "1625"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.998,
+          50.545
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "DARTMOOR-HESSARY-TOR",
+        "county": "Devon",
+        "gridref": "SX585735",
+        "latitude": "50.545",
+        "longitude": "-3.998",
+        "elevation (ft)": "1401"
       }
     },
     {
@@ -32255,6 +32822,27 @@
         "latitude": "50.448",
         "longitude": "-4.011",
         "elevation (ft)": "900"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.03,
+          50.527
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "DARTMOOR-LEEDEN-TOR",
+        "county": "Devon",
+        "gridref": "SX562717",
+        "latitude": "50.527",
+        "longitude": "-4.030",
+        "elevation (ft)": "1270"
       }
     },
     {
@@ -32402,6 +32990,153 @@
         "latitude": "50.666",
         "longitude": "-3.862",
         "elevation (ft)": "750"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.983,
+          50.511
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "DARTMOOR-SIWARDS-CROSS",
+        "county": "Devon",
+        "gridref": "SX594697",
+        "latitude": "50.511",
+        "longitude": "-3.983",
+        "elevation (ft)": "1200"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.983,
+          50.513
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "DARTMOOR-SIWARDS-CROSS",
+        "county": "Devon",
+        "gridref": "SX595699",
+        "latitude": "50.513",
+        "longitude": "-3.983",
+        "elevation (ft)": "1074"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.96,
+          50.53
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "DARTMOOR-STRANE-VALLEY",
+        "county": "Devon",
+        "gridref": "SX611719",
+        "latitude": "50.530",
+        "longitude": "-3.960",
+        "elevation (ft)": "1180"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.923,
+          50.532
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "DARTMOOR-SWINCOMBE",
+        "county": "Devon",
+        "gridref": "SX638720",
+        "latitude": "50.532",
+        "longitude": "-3.923",
+        "elevation (ft)": "1120"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.927,
+          50.53
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "DARTMOOR-SWINCOMBE",
+        "county": "Devon",
+        "gridref": "SX633719",
+        "latitude": "50.530",
+        "longitude": "-3.927",
+        "elevation (ft)": "1047"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.958,
+          50.59
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "DARTMOOR-WHITE-TOR",
+        "county": "Devon",
+        "gridref": "SX615785",
+        "latitude": "50.590",
+        "longitude": "-3.958",
+        "elevation (ft)": "1640"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.969,
+          50.588
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "DARTMOOR-WHITE-TOR",
+        "county": "Devon",
+        "gridref": "SX606784",
+        "latitude": "50.588",
+        "longitude": "-3.969",
+        "elevation (ft)": "1439"
       }
     },
     {
@@ -34019,6 +34754,27 @@
         "latitude": "56.164",
         "longitude": "-3.676",
         "elevation (ft)": "174"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.031,
+          50.891
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "DOLTON-HILLIERS",
+        "county": "Devon",
+        "gridref": "SS572121",
+        "latitude": "50.891",
+        "longitude": "-4.031",
+        "elevation (ft)": "380"
       }
     },
     {
@@ -37505,6 +38261,69 @@
         "latitude": "51.218",
         "longitude": "-0.177",
         "elevation (ft)": "196"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.616,
+          51.025
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "EAST-ANSTEY-SOAMES",
+        "county": "Devon",
+        "gridref": "SS867263",
+        "latitude": "51.025",
+        "longitude": "-3.616",
+        "elevation (ft)": "740"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.617,
+          51.036
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "EAST-ANSTEY-SOAMES",
+        "county": "Devon",
+        "gridref": "SS867275",
+        "latitude": "51.036",
+        "longitude": "-3.617",
+        "elevation (ft)": "850"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.617,
+          51.027
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "EAST-ANSTEY-SOAMES",
+        "county": "Devon",
+        "gridref": "SS866265",
+        "latitude": "51.027",
+        "longitude": "-3.617",
+        "elevation (ft)": "780"
       }
     },
     {
@@ -52170,6 +52989,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -4.501,
+          50.997
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "HARTLAND-ABBEY",
+        "county": "Devon",
+        "gridref": "SS246249",
+        "latitude": "50.997",
+        "longitude": "-4.501",
+        "elevation (ft)": "222"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -4.475,
           50.986
         ]
@@ -52793,6 +53633,27 @@
         "latitude": "51.802",
         "longitude": "-0.241",
         "elevation (ft)": "250"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.083,
+          50.884
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "HATHERLEIGH-HEANTON-SATCHVILLE",
+        "county": "Devon",
+        "gridref": "SS535115",
+        "latitude": "50.884",
+        "longitude": "-4.083",
+        "elevation (ft)": "332"
       }
     },
     {
@@ -55250,6 +56111,27 @@
         "latitude": "51.567",
         "longitude": "-0.152",
         "elevation (ft)": "366"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.629,
+          50.536
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "HIGHWEEK-NEWTON-BUSHEL",
+        "county": "Devon",
+        "gridref": "SX846719",
+        "latitude": "50.536",
+        "longitude": "-3.629",
+        "elevation (ft)": "300"
       }
     },
     {
@@ -78441,6 +79323,90 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -3.713,
+          50.657
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "MORETONHAMPSTEAD-BLACKINGSTONE",
+        "county": "Devon",
+        "gridref": "SX790855",
+        "latitude": "50.657",
+        "longitude": "-3.713",
+        "elevation (ft)": "1090"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.712,
+          50.654
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "MORETONHAMPSTEAD-BLACKINGSTONE",
+        "county": "Devon",
+        "gridref": "SX790851",
+        "latitude": "50.654",
+        "longitude": "-3.712",
+        "elevation (ft)": "1158"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.69,
+          50.633
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "MORETONHAMPSTEAD-MARDON",
+        "county": "Devon",
+        "gridref": "SX805827",
+        "latitude": "50.633",
+        "longitude": "-3.690",
+        "elevation (ft)": "835"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.759,
+          50.662
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "MORETONHAMPSTEAD-RECTORY",
+        "county": "Devon",
+        "gridref": "SX757862",
+        "latitude": "50.662",
+        "longitude": "-3.759",
+        "elevation (ft)": "600"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -2.624,
           54.596
         ]
@@ -84678,6 +85644,48 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -4.002,
+          50.745
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "OKEHAMPTON-UPLANDS",
+        "county": "Devon",
+        "gridref": "SX588958",
+        "latitude": "50.745",
+        "longitude": "-4.002",
+        "elevation (ft)": "521"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.002,
+          50.732
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "OKEHAMPTON-UPLANDS",
+        "county": "Devon",
+        "gridref": "SX587943",
+        "latitude": "50.732",
+        "longitude": "-4.002",
+        "elevation (ft)": "700"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -2.038,
           57.519
         ]
@@ -89403,6 +90411,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -4.179,
+          50.453
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "PLYMOUTH-BERE-FERRERS",
+        "county": "Devon",
+        "gridref": "SX453637",
+        "latitude": "50.453",
+        "longitude": "-4.179",
+        "elevation (ft)": "100"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -4.138,
           50.376
         ]
@@ -91160,6 +92189,48 @@
         "latitude": "52.787",
         "longitude": "-1.143",
         "elevation (ft)": "209"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.991,
+          50.544
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "PRINCETOWN-DUCHY-HOTEL",
+        "county": "Devon",
+        "gridref": "SX590734",
+        "latitude": "50.544",
+        "longitude": "-3.991",
+        "elevation (ft)": "1375"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.891,
+          50.539
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "PRINCETOWN-HUCCABY-HOUSE",
+        "county": "Devon",
+        "gridref": "SX660728",
+        "latitude": "50.539",
+        "longitude": "-3.891",
+        "elevation (ft)": "900"
       }
     },
     {
@@ -96200,6 +97271,27 @@
         "latitude": "52.207",
         "longitude": "-0.755",
         "elevation (ft)": "370"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.708,
+          50.213
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "SALCOMBE-PRAWLE-POINT",
+        "county": "Devon",
+        "gridref": "SX782361",
+        "latitude": "50.213",
+        "longitude": "-3.708",
+        "elevation (ft)": "350"
       }
     },
     {
@@ -111047,6 +112139,27 @@
         "latitude": "50.464",
         "longitude": "-3.539",
         "elevation (ft)": "27"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.517,
+          50.461
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "TORQUAY-WOODFIELD",
+        "county": "Devon",
+        "gridref": "SX924634",
+        "latitude": "50.461",
+        "longitude": "-3.517",
+        "elevation (ft)": "120"
       }
     },
     {

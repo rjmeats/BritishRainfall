@@ -1,4 +1,4 @@
-Generation time: Tuesday 09/03/2021 11:30:27 GMT
+Generation time: Tuesday 09/03/2021 17:01:54 GMT
 
 ## Locations P-Z
 
@@ -220,7 +220,7 @@ Generation time: Tuesday 09/03/2021 11:30:27 GMT
 ||PLAISTOW-2.csv|TQ405826|51.525|0.024|43|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=51.525&lon=0.024&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/51.525,0.024,16)  |
 |[PLAS-CADNANT](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/PLAS-CADNANT)|PLAS-CADNANT.csv|SH557731|53.235|-4.163|156|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=53.235&lon=-4.163&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/53.235,-4.163,16)  |
 |[PLAS-CWRT-HYR](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/PLAS-CWRT-HYR)|PLAS-CWRT-HYR.csv|SN387170|51.828|-4.342|200|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=51.828&lon=-4.342&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/51.828,-4.342,16)  |
-|[PLYMOUTH-BERE-FERRERS](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/PLYMOUTH-BERE-FERRERS)|||||||
+|[PLYMOUTH-BERE-FERRERS](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/PLYMOUTH-BERE-FERRERS)|PLYMOUTH-BERE-FERRERS.csv|SX453637|50.453|-4.179|100|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=50.453&lon=-4.179&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/50.453,-4.179,16)  |
 |[PLYMOUTH-DRAKES-RES](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/PLYMOUTH-DRAKES-RES)|PLYMOUTH-DRAKES-RES.csv|SX481551|50.376|-4.138|140|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=50.376&lon=-4.138&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/50.376,-4.138,16)  |
 ||PLYMOUTH-DRAKES-RES-2.csv|SX481551|50.376|-4.138|149|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=50.376&lon=-4.138&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/50.376,-4.138,16)  |
 |[PLYMOUTH-FREEDOM-FIELDS](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/PLYMOUTH-FREEDOM-FIELDS)|PLYMOUTH-FREEDOM-FIELDS.csv|SX488551|50.376|-4.128|208|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=50.376&lon=-4.128&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/50.376,-4.128,16)  |
@@ -329,8 +329,9 @@ Generation time: Tuesday 09/03/2021 11:30:27 GMT
 ||PRESTWICH-RES-2.csv|SD812032|53.525|-2.285|357|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=53.525&lon=-2.285&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/53.525,-2.285,16)  |
 |[PRESTWICK-LADYKIRK-FILTERS](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/PRESTWICK-LADYKIRK-FILTERS)|||||||
 |[PRESTWOLD-HALL](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/PRESTWOLD-HALL)|PRESTWOLD-HALL.csv|SK579214|52.787|-1.143|209|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=52.787&lon=-1.143&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/52.787,-1.143,16)  |
-|[PRINCETOWN-DUCHY-HOTEL](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/PRINCETOWN-DUCHY-HOTEL)|||||||
-|[PRINCETOWN-HUCCABY-HOUSE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/PRINCETOWN-HUCCABY-HOUSE)|||||||
+|[PRINCETOWN-DUCHY-HOTEL](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/PRINCETOWN-DUCHY-HOTEL)|PRINCETOWN-DUCHY-HOTEL.csv|SX590734|50.544|-3.991|1375|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=50.544&lon=-3.991&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/50.544,-3.991,16)  |
+||PRINCETOWN-DUCHY-HOTEL-2.csv|SX590734|50.544|-3.991|1375|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=50.544&lon=-3.991&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/50.544,-3.991,16)  |
+|[PRINCETOWN-HUCCABY-HOUSE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/PRINCETOWN-HUCCABY-HOUSE)|PRINCETOWN-HUCCABY-HOUSE.csv|SX660728|50.539|-3.891|900|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=50.539&lon=-3.891&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/50.539,-3.891,16)  |
 |[PROBUS-LAMELLYN](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/PROBUS-LAMELLYN)|PROBUS-LAMELLYN.csv|SW894482|50.296|-4.958|240|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=50.296&lon=-4.958&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/50.296,-4.958,16)  |
 |[PUCKLECHURCH](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/PUCKLECHURCH)|PUCKLECHURCH.csv|ST700766|51.488|-2.433|374|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=51.488&lon=-2.433&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/51.488,-2.433,16)  |
 |[PUDDLETOWN-VICARAGE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/PUDDLETOWN-VICARAGE)|PUDDLETOWN-VICARAGE.csv|SY759943|50.748|-2.343|200|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=50.748&lon=-2.343&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/50.748,-2.343,16)  |
@@ -647,7 +648,7 @@ Generation time: Tuesday 09/03/2021 11:30:27 GMT
 |[SAFFRON-WALDEN-NEWPORT](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/SAFFRON-WALDEN-NEWPORT)|SAFFRON-WALDEN-NEWPORT.csv|TL520341|51.985|0.212|208|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=51.985&lon=0.212&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/51.985,0.212,16)  |
 |[SALCEY-FOREST](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/SALCEY-FOREST)|SALCEY-FOREST.csv|SP852573|52.207|-0.755|370|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=52.207&lon=-0.755&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/52.207,-0.755,16)  |
 |[SALCOMBE-FAIRHAVEN](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/SALCOMBE-FAIRHAVEN)|||||||
-|[SALCOMBE-PRAWLE-POINT](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/SALCOMBE-PRAWLE-POINT)|||||||
+|[SALCOMBE-PRAWLE-POINT](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/SALCOMBE-PRAWLE-POINT)|SALCOMBE-PRAWLE-POINT.csv|SX782361|50.213|-3.708|350|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=50.213&lon=-3.708&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/50.213,-3.708,16)  |
 |[SALCOMBE-SANDHILLS](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/SALCOMBE-SANDHILLS)|||||||
 |[SALCOMBE-SHADYCOMBE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/SALCOMBE-SHADYCOMBE)|||||||
 |[SALHOUSE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/SALHOUSE)|SALHOUSE.csv|TG312147|52.681|1.419|50|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=52.681&lon=1.419&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/52.681,1.419,16)  |
@@ -1584,7 +1585,7 @@ Generation time: Tuesday 09/03/2021 11:30:27 GMT
 |[TORQUAY-ABBEY-PARK](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/TORQUAY-ABBEY-PARK)|TORQUAY-ABBEY-PARK.csv|SX918635|50.461|-3.526|12|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=50.461&lon=-3.526&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/50.461,-3.526,16)  |
 ||TORQUAY-ABBEY-PARK-2.csv|SX909638|50.464|-3.539|27|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=50.464&lon=-3.539&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/50.464,-3.539,16)  |
 |[TORQUAY-LAMORNA](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/TORQUAY-LAMORNA)|||||||
-|[TORQUAY-WOODFIELD](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/TORQUAY-WOODFIELD)|||||||
+|[TORQUAY-WOODFIELD](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/TORQUAY-WOODFIELD)|TORQUAY-WOODFIELD.csv|SX924634|50.461|-3.517|120|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=50.461&lon=-3.517&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/50.461,-3.517,16)  |
 |[TORRINGTON-ENFIELD](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/TORRINGTON-ENFIELD)|||||||
 |[TORRINGTON-LITTLE-SILVER](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/TORRINGTON-LITTLE-SILVER)|||||||
 |[TORSIDE-RES](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/TORSIDE-RES)|TORSIDE-RES.csv|SK055983|53.482|-1.918|669|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=53.482&lon=-1.918&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/53.482,-1.918,16)  |
