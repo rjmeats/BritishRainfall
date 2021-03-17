@@ -35349,6 +35349,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -4.48,
+          54.157
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "DOUGLAS-DERBY-SQUARE",
+        "county": "Isle of Man",
+        "gridref": "SC381763",
+        "latitude": "54.157",
+        "longitude": "-4.480",
+        "elevation (ft)": "78"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -4.466,
           54.143
         ]
