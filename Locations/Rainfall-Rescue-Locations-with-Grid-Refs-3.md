@@ -1,4 +1,4 @@
-Generation time: Wednesday 17/03/2021 09:08:10 GMT
+Generation time: Wednesday 17/03/2021 17:38:46 GMT
 
 ## Locations P-Z
 
@@ -389,6 +389,23 @@ Generation time: Wednesday 17/03/2021 09:08:10 GMT
 |[RAWTENSTALL-CLOUGHBOTTOM-RES](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/RAWTENSTALL-CLOUGHBOTTOM-RES)|RAWTENSTALL-CLOUGHBOTTOM-RES.csv|SD845266|53.736|-2.236|1025|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=53.736&lon=-2.236&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/53.736,-2.236,16)  |
 |[RAWTENSTALL-CLOWBRIDGE-RES](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/RAWTENSTALL-CLOWBRIDGE-RES)|RAWTENSTALL-CLOWBRIDGE-RES.csv|SD824281|53.749|-2.268|930|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=53.749&lon=-2.268&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/53.749,-2.268,16)  |
 ||RAWTENSTALL-CLOWBRIDGE-RES-2.csv|SD828278|53.746|-2.262|930|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=53.746&lon=-2.262&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/53.746,-2.262,16)  |
+|[READING](https://github.com/ed-hawkins/rainfall-rescue/tree/master/COMPOSITE-SERIES/READING)|CAVERSHAM-ST-PETERS-HILL-2.csv|SU706752|51.471|-0.985|200|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=51.471&lon=-0.985&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/51.471,-0.985,16)  |
+||CAVERSHAM-ST-PETERS-HILL.csv|SU707751|51.470|-0.984|220|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=51.470&lon=-0.984&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/51.470,-0.984,16)  |
+||READING-ATHENAEUM.csv|SU714735|51.457|-0.973|143|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=51.457&lon=-0.973&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/51.457,-0.973,16)  |
+||READING-CAVERSHAM-LOCK-2.csv|SU720740|51.460|-0.965||[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=51.460&lon=-0.965&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/51.460,-0.965,16)  |
+||READING-CAVERSHAM-LOCK.csv|SU720740|51.460|-0.965||[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=51.460&lon=-0.965&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/51.460,-0.965,16)  |
+||READING-EARLEY-2.csv|SU738738|51.458|-0.939|141|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=51.458&lon=-0.939&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/51.458,-0.939,16)  |
+||READING-EARLEY.csv|SU741736|51.457|-0.935|150|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=51.457&lon=-0.935&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/51.457,-0.935,16)  |
+||READING-ENGLEFIELD.csv|SU625720|51.444|-1.102|184|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=51.444&lon=-1.102&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/51.444,-1.102,16)  |
+||READING-FORBURY-GDNS.csv|SU718736|51.457|-0.968|145|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=51.457&lon=-0.968&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/51.457,-0.968,16)  |
+||READING-RUSSELL-ST.csv|SU707732|51.453|-0.983|154|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=51.453&lon=-0.983&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/51.453,-0.983,16)  |
+||READING-UNIVERSITY-2.csv|SU739719|51.441|-0.938|234|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=51.441&lon=-0.938&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/51.441,-0.938,16)  |
+||READING-UNIVERSITY.csv|SU722729|51.451|-0.961|148|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=51.451&lon=-0.961&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/51.451,-0.961,16)  |
+||READING-WW-BATH-ROAD-2.csv|SU702728|51.450|-0.991|217|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=51.450&lon=-0.991&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/51.450,-0.991,16)  |
+||READING-WW-BATH-ROAD.csv|SU702728|51.450|-0.991|217|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=51.450&lon=-0.991&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/51.450,-0.991,16)  |
+||STRATFIELD-TURGIS.csv|SU695604|51.339|-1.004|200|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=51.339&lon=-1.004&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/51.339,-1.004,16)  |
+||STRATHFIELDSAYE-2.csv|SU694613|51.347|-1.005|164|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=51.347&lon=-1.005&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/51.347,-1.005,16)  |
+||STRATHFIELDSAYE.csv|SU700620|51.353|-0.996|166|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=51.353&lon=-0.996&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/51.353,-0.996,16)  |
 |[READING-ATHENAEUM](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/READING-ATHENAEUM)|READING-ATHENAEUM.csv|SU714735|51.457|-0.973|143|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=51.457&lon=-0.973&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/51.457,-0.973,16)  |
 |[READING-CALCOT-PLACE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/READING-CALCOT-PLACE)|||||||
 |[READING-CAVERSHAM-LOCK](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/READING-CAVERSHAM-LOCK)|READING-CAVERSHAM-LOCK.csv|SU720740|51.460|-0.965||[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=51.460&lon=-0.965&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/51.460,-0.965,16)  |
@@ -402,6 +419,7 @@ Generation time: Wednesday 17/03/2021 09:08:10 GMT
 |[READING-RUSSELL-ST](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/READING-RUSSELL-ST)|READING-RUSSELL-ST.csv|SU707732|51.453|-0.983|154|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=51.453&lon=-0.983&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/51.453,-0.983,16)  |
 |[READING-TILEHURST](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/READING-TILEHURST)|||||||
 |[READING-UNIVERSITY](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/READING-UNIVERSITY)|READING-UNIVERSITY.csv|SU722729|51.451|-0.961|148|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=51.451&lon=-0.961&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/51.451,-0.961,16)  |
+||READING-UNIVERSITY-2.csv|SU739719|51.441|-0.938|234|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=51.441&lon=-0.938&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/51.441,-0.938,16)  |
 |[READING-WW-BATH-ROAD](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/READING-WW-BATH-ROAD)|READING-WW-BATH-ROAD.csv|SU702728|51.450|-0.991|217|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=51.450&lon=-0.991&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/51.450,-0.991,16)  |
 ||READING-WW-BATH-ROAD-2.csv|SU702728|51.450|-0.991|217|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=51.450&lon=-0.991&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/51.450,-0.991,16)  |
 |[REAY-THE-MANSE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/REAY-THE-MANSE)|REAY-THE-MANSE.csv|NC950646|58.557|-3.805|100|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=58.557&lon=-3.805&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/58.557,-3.805,16)  |

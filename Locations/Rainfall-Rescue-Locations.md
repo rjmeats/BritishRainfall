@@ -1,9 +1,9 @@
-Generation time: Wednesday 17/03/2021 09:08:10 GMT
+Generation time: Wednesday 17/03/2021 17:38:45 GMT
 
 
 [MO-2020] indicates a location which contributed to the [Met Office 2020 UK Climate Report](https://www.metoffice.gov.uk/research/climate/maps-and-data/about/state-of-climate):
 
-5845 locations under [https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA):
+5848 locations under [https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA):
 
 * [ABBEY-CWMHIR-THE-HALL](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/ABBEY-CWMHIR-THE-HALL)
 * [ABBEY-LEIX-BLANDSFORT](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/ABBEY-LEIX-BLANDSFORT)
@@ -96,6 +96,7 @@ Generation time: Wednesday 17/03/2021 09:08:10 GMT
 * [AIRDRIE-BROOMKNOLL-STREET](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/AIRDRIE-BROOMKNOLL-STREET)
 * [AIRDRIE-FORRESTBURN-RES](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/AIRDRIE-FORRESTBURN-RES)
 * [AIRDRIE-HILLEND](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/AIRDRIE-HILLEND)
+* [AISHOLT-TIMBERCOMBE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/AISHOLT-TIMBERCOMBE)
 * [AISLABY-PARK-HALL](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/AISLABY-PARK-HALL)
 * [AITNACH](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/AITNACH)
 * [ALCESTER-COOKHILL](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/ALCESTER-COOKHILL)
@@ -1059,6 +1060,7 @@ Generation time: Wednesday 17/03/2021 09:08:10 GMT
 * [CARGEN-DUMFRIES](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/CARGEN-DUMFRIES)
 * [CARLESGILL](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/CARLESGILL)
 * [CARLESGILL-HILL-TOP](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/CARLESGILL-HILL-TOP)
+* [CARLETON-HALL-SAXMUNDHAM](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/CARLETON-HALL-SAXMUNDHAM)
 * [CARLISLE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/CARLISLE)
 * [CARLISLE-ABBEY-STREET](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/CARLISLE-ABBEY-STREET)
 * [CARLISLE-ATHENAEUM](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/CARLISLE-ATHENAEUM)
@@ -1076,6 +1078,7 @@ Generation time: Wednesday 17/03/2021 09:08:10 GMT
 * [CARLISLE-STANWIX](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/CARLISLE-STANWIX)
 * [CARLISLE-WREAY-VICARAGE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/CARLISLE-WREAY-VICARAGE)
 * [CARLOW-BROWNES-HILL](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/CARLOW-BROWNES-HILL)
+* [CARLTON-HALL-CAMBRIDGE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/CARLTON-HALL-CAMBRIDGE)
 * [CARLTON-LE-MOORLAND](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/CARLTON-LE-MOORLAND)
 * [CARLUKE-COLDSTREAM-RES](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/CARLUKE-COLDSTREAM-RES)
 * [CARMARTHEN-ASYLUM](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/CARMARTHEN-ASYLUM)
@@ -2860,7 +2863,7 @@ Generation time: Wednesday 17/03/2021 09:08:10 GMT
 * [INNERLEITHEN-LEITHEN-LODGE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/INNERLEITHEN-LEITHEN-LODGE)
 * [INSTOW](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/INSTOW)
 * [INVERARAY-CASTLE-GDNS](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/INVERARAY-CASTLE-GDNS)
-* [INVERBROOM](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/INVERBROOM)
+* [INVERBROOM-GLACKOUR](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/INVERBROOM-GLACKOUR)
 * [INVERBROOM-HOUSE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/INVERBROOM-HOUSE)
 * [INVERESK](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/INVERESK)
 * [INVERGARRY](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/INVERGARRY)
@@ -5929,9 +5932,10 @@ Generation time: Wednesday 17/03/2021 09:08:10 GMT
 * [WREXHAM-WW-NANTYFFRITH-RES](https://github.com/ed-hawkins/rainfall-rescue/tree/master/POOR-LOCATIONS/WREXHAM-WW-NANTYFFRITH-RES)
 * [WREXHAM-WW-PENDINAS-RES](https://github.com/ed-hawkins/rainfall-rescue/tree/master/POOR-LOCATIONS/WREXHAM-WW-PENDINAS-RES)
 
-3 locations under [https://github.com/ed-hawkins/rainfall-rescue/tree/master/COMPOSITE-SERIES](https://github.com/ed-hawkins/rainfall-rescue/tree/master/COMPOSITE-SERIES):
+4 locations under [https://github.com/ed-hawkins/rainfall-rescue/tree/master/COMPOSITE-SERIES](https://github.com/ed-hawkins/rainfall-rescue/tree/master/COMPOSITE-SERIES):
 
 * [BUTE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/COMPOSITE-SERIES/BUTE)
 * [GLASGOW](https://github.com/ed-hawkins/rainfall-rescue/tree/master/COMPOSITE-SERIES/GLASGOW)
 * [OXFORD](https://github.com/ed-hawkins/rainfall-rescue/tree/master/COMPOSITE-SERIES/OXFORD)
+* [READING](https://github.com/ed-hawkins/rainfall-rescue/tree/master/COMPOSITE-SERIES/READING)
 
