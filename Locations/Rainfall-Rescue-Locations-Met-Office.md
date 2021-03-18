@@ -1,4 +1,4 @@
-Generation time: Wednesday 17/03/2021 17:38:46 GMT
+Generation time: Thursday 18/03/2021 07:51:39 GMT
 
 95 locations under [https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA) which contributed to the [Met Office 2020 UK Climate Report](https://www.metoffice.gov.uk/research/climate/maps-and-data/about/state-of-climate):
 
@@ -16,7 +16,7 @@ Generation time: Wednesday 17/03/2021 17:38:46 GMT
 * [LOCH-KATRINE-TUNNEL-HILL-TOP](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/LOCH-KATRINE-TUNNEL-HILL-TOP) : 6 weeks ago : 2021-02-02 09:38:44 +0000 
 * [TRESCO-ABBEY](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/TRESCO-ABBEY) : 6 weeks ago : 2021-02-02 09:38:44 +0000 
 * [KEW-OBSERVATORY](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/KEW-OBSERVATORY) : 6 weeks ago : 2021-02-01 10:25:45 +0000 
-* [HYTHE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/HYTHE) : 6 weeks ago : 2021-01-31 17:23:56 +0000 
+* [HYTHE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/HYTHE) : 7 weeks ago : 2021-01-31 17:23:56 +0000 
 * [BOSLEY-RES](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/BOSLEY-RES) : 7 weeks ago : 2021-01-24 19:40:26 +0000 
 * [WHITTLESEA-MERE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/WHITTLESEA-MERE) : 9 weeks ago : 2021-01-12 20:43:39 +0000 
 * [BOSTON-GRAND-SLUICE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/BOSTON-GRAND-SLUICE) : 4 months ago : 2020-11-16 23:16:55 +0000 

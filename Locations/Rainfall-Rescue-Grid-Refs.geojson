@@ -5634,6 +5634,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -4.63,
+          55.916
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "AUCHENDORES-RES-PORT-GLASGOW-WW",
+        "county": "Renfrewshire",
+        "gridref": "NS3572572350",
+        "latitude": "55.916",
+        "longitude": "-4.630",
+        "elevation (ft)": "321"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -4.065,
           55.792
         ]
@@ -6677,6 +6698,27 @@
         "latitude": "57.223",
         "longitude": "-2.676",
         "elevation (ft)": "400"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.09,
+          56.192
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "BALFOUR",
+        "county": "Fife",
+        "gridref": "NO325004",
+        "latitude": "56.192",
+        "longitude": "-3.090",
+        "elevation (ft)": "127"
       }
     },
     {
@@ -8546,6 +8588,90 @@
         "latitude": "56.500",
         "longitude": "-2.754",
         "elevation (ft)": "35"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.228,
+          51.42
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "BARRY-WW-BIGLIS",
+        "county": "Glamorgan",
+        "gridref": "ST147697",
+        "latitude": "51.420",
+        "longitude": "-3.228",
+        "elevation (ft)": "20"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.216,
+          51.442
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "BARRY-WW-DINAS-POWYS-RES",
+        "county": "Glamorgan",
+        "gridref": "ST156722",
+        "latitude": "51.442",
+        "longitude": "-3.216",
+        "elevation (ft)": "165"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.268,
+          51.423
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "BARRY-WW-MERTHYR-DYFAN-RES",
+        "county": "Glamorgan",
+        "gridref": "ST119701",
+        "latitude": "51.423",
+        "longitude": "-3.268",
+        "elevation (ft)": "300"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.263,
+          51.423
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "BARRY-WW-PENCOEDTRE",
+        "county": "Glamorgan",
+        "gridref": "ST123701",
+        "latitude": "51.423",
+        "longitude": "-3.263",
+        "elevation (ft)": "200"
       }
     },
     {
@@ -17688,6 +17814,48 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -3.819,
+          51.634
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "BRITON-FERRY-BRYNSIRIOL",
+        "county": "Glamorgan",
+        "gridref": "SS742944",
+        "latitude": "51.634",
+        "longitude": "-3.819",
+        "elevation (ft)": "33"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.805,
+          51.631
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "BRITON-FERRY-CEFN-COURT",
+        "county": "Glamorgan",
+        "gridref": "SS752940",
+        "latitude": "51.631",
+        "longitude": "-3.805",
+        "elevation (ft)": "503"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -3.525,
           50.392
         ]
@@ -21300,6 +21468,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -2.848,
+          56.293
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "CAMERON-WW",
+        "county": "Fife",
+        "gridref": "NO476115",
+        "latitude": "56.293",
+        "longitude": "-2.848",
+        "elevation (ft)": "478"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -3.516,
           54.66
         ]
@@ -21658,6 +21847,27 @@
         "type": "Point",
         "coordinates": [
           -3.182,
+          51.482
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "CARDIFF-CASTLE",
+        "county": "Glamorgan",
+        "gridref": "ST180766",
+        "latitude": "51.482",
+        "longitude": "-3.182",
+        "elevation (ft)": "38"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.182,
           51.498
         ]
       },
@@ -21804,6 +22014,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -3.161,
+          51.507
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "CARDIFF-PENYLAN",
+        "county": "Glamorgan",
+        "gridref": "ST195793",
+        "latitude": "51.507",
+        "longitude": "-3.161",
+        "elevation (ft)": "202"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -3.24,
           51.504
         ]
@@ -21818,6 +22049,48 @@
         "latitude": "51.504",
         "longitude": "-3.240",
         "elevation (ft)": "150"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.175,
+          51.505
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "CARDIFF-ROATH-PARK",
+        "county": "Glamorgan",
+        "gridref": "ST185791",
+        "latitude": "51.505",
+        "longitude": "-3.175",
+        "elevation (ft)": "51"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.27,
+          51.488
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "CARDIFF-ST-FAGANS",
+        "county": "Glamorgan",
+        "gridref": "ST119773",
+        "latitude": "51.488",
+        "longitude": "-3.270",
+        "elevation (ft)": "100"
       }
     },
     {
@@ -24996,6 +25269,48 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -2.754,
+          51.637
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "CHEPSTOW-SHIRENEWTON-HALL",
+        "county": "Monmouthshire",
+        "gridref": "ST479934",
+        "latitude": "51.637",
+        "longitude": "-2.754",
+        "elevation (ft)": "520"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.682,
+          51.643
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "CHEPSTOW-THE-MOUNT",
+        "county": "Monmouthshire",
+        "gridref": "ST529940",
+        "latitude": "51.643",
+        "longitude": "-2.682",
+        "elevation (ft)": "200"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -0.498,
           51.399
         ]
@@ -25248,8 +25563,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -2.91,
-          53.194
+          -1.44,
+          53.236
         ]
       },
       "properties": {
@@ -25258,10 +25573,10 @@
         "marker-color": "66ff33",
         "name": "CHESTER-SEWAGE-WORKS",
         "county": "Cheshire",
-        "gridref": "SJ393667",
-        "latitude": "53.194",
-        "longitude": "-2.910",
-        "elevation (ft)": "16"
+        "gridref": "SK375711",
+        "latitude": "53.236",
+        "longitude": "-1.440",
+        "elevation (ft)": "279"
       }
     },
     {
@@ -25367,6 +25682,27 @@
         "latitude": "53.247",
         "longitude": "-1.499",
         "elevation (ft)": "475"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.401,
+          53.247
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "CHESTERFIELD-TAPTON-GROVE",
+        "county": "Derbyshire",
+        "gridref": "SK401724",
+        "latitude": "53.247",
+        "longitude": "-1.401",
+        "elevation (ft)": "400"
       }
     },
     {
@@ -28202,6 +28538,69 @@
         "latitude": "52.160",
         "longitude": "0.795",
         "elevation (ft)": "270"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.38,
+          53.033
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "CODNOR-CROSS-HILL",
+        "county": "Derbyshire",
+        "gridref": "SK417486",
+        "latitude": "53.033",
+        "longitude": "-1.380",
+        "elevation (ft)": "372"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.381,
+          53.032
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "CODNOR-CROSS-HILL",
+        "county": "Derbyshire",
+        "gridref": "SK416485",
+        "latitude": "53.032",
+        "longitude": "-1.381",
+        "elevation (ft)": "394"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.342,
+          53.061
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "CODNOR-PARK",
+        "county": "Derbyshire",
+        "gridref": "SK442517",
+        "latitude": "53.061",
+        "longitude": "-1.342",
+        "elevation (ft)": "243"
       }
     },
     {
@@ -31478,6 +31877,27 @@
         "latitude": "52.864",
         "longitude": "-3.564",
         "elevation (ft)": "957"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.433,
+          51.687
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "CWMAMAN-COLLIERY",
+        "county": "Glamorgan",
+        "gridref": "ST009996",
+        "latitude": "51.687",
+        "longitude": "-3.433",
+        "elevation (ft)": "711"
       }
     },
     {
@@ -36315,6 +36735,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -4.428,
+          55.806
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "DUCHALLAW",
+        "county": "Renfrewshire",
+        "gridref": "NS4790059640",
+        "latitude": "55.806",
+        "longitude": "-4.428",
+        "elevation (ft)": "600"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -4.631,
           56.203
         ]
@@ -37995,6 +38436,111 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -4.322,
+          55.714
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "EAGLESHAM-DUNWAN-RES-FOUR",
+        "county": "Renfrewshire",
+        "gridref": "NS542492",
+        "latitude": "55.714",
+        "longitude": "-4.322",
+        "elevation (ft)": "841"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.308,
+          55.71
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "EAGLESHAM-DUNWAN-RES-THREE",
+        "county": "Renfrewshire",
+        "gridref": "NS551487",
+        "latitude": "55.710",
+        "longitude": "-4.308",
+        "elevation (ft)": "822"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.304,
+          55.719
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "EAGLESHAM-DUNWAN-RES-TWO",
+        "county": "Renfrewshire",
+        "gridref": "NS554497",
+        "latitude": "55.719",
+        "longitude": "-4.304",
+        "elevation (ft)": "820"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.302,
+          55.719
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "EAGLESHAM-DUNWAN-RES-TWO",
+        "county": "Renfrewshire",
+        "gridref": "NS555497",
+        "latitude": "55.719",
+        "longitude": "-4.302",
+        "elevation (ft)": "820"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.284,
+          55.737
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "EAGLESHAM-PICKETLAW-RES",
+        "county": "Renfrewshire",
+        "gridref": "NS567516",
+        "latitude": "55.737",
+        "longitude": "-4.284",
+        "elevation (ft)": "690"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -0.309,
           51.517
         ]
@@ -39045,6 +39591,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -3.202,
+          51.781
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "EBBW-VALE-IRON-WORKS",
+        "county": "Monmouthshire",
+        "gridref": "SO172098",
+        "latitude": "51.781",
+        "longitude": "-3.202",
+        "elevation (ft)": "930"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -3.227,
           51.817
         ]
@@ -39059,6 +39626,27 @@
         "latitude": "51.817",
         "longitude": "-3.227",
         "elevation (ft)": "1413"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.214,
+          51.808
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "EBBW-VALE-WW-CARNO-S",
+        "county": "Monmouthshire",
+        "gridref": "SO164128",
+        "latitude": "51.808",
+        "longitude": "-3.214",
+        "elevation (ft)": "1262"
       }
     },
     {
@@ -42720,6 +43308,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -3.971,
+          51.714
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "FELINDRE-BLAENANT-DDU",
+        "county": "Glamorgan",
+        "gridref": "SN639035",
+        "latitude": "51.714",
+        "longitude": "-3.971",
+        "elevation (ft)": "346"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -3.957,
           51.713
         ]
@@ -42734,6 +43343,27 @@
         "latitude": "51.713",
         "longitude": "-3.957",
         "elevation (ft)": "46"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.939,
+          51.735
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "FELINDRE-UPPER-LLIW-RES",
+        "county": "Glamorgan",
+        "gridref": "SN662058",
+        "latitude": "51.735",
+        "longitude": "-3.939",
+        "elevation (ft)": "599"
       }
     },
     {
@@ -44715,6 +45345,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -9.151,
+          52.604
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "FOYNES",
+        "county": "Limerick",
+        "gridref": "IR221509",
+        "latitude": "52.604",
+        "longitude": "-9.151",
+        "elevation (ft)": "104"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -2.487,
           51.532
         ]
@@ -45023,6 +45674,27 @@
         "latitude": "51.231",
         "longitude": "-2.351",
         "elevation (ft)": "270"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.589,
+          53.043
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "FULBECK-HALL",
+        "county": "Lincolnshire",
+        "gridref": "SK947504",
+        "latitude": "53.043",
+        "longitude": "-0.589",
+        "elevation (ft)": "180"
       }
     },
     {
@@ -46689,6 +47361,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -4.277,
+          55.825
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "GLASGOW-LANGSIDE",
+        "county": "Renfrewshire",
+        "gridref": "NS5743161462",
+        "latitude": "55.825",
+        "longitude": "-4.277",
+        "elevation (ft)": "170"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -4.24,
           55.859
         ]
@@ -46745,6 +47438,27 @@
         "latitude": "55.878",
         "longitude": "-4.299",
         "elevation (ft)": "182"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.286,
+          55.879
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "GLASGOW-OSO",
+        "county": "Lanarkshire",
+        "gridref": "NS5707167404",
+        "latitude": "55.879",
+        "longitude": "-4.286",
+        "elevation (ft)": "166"
       }
     },
     {
@@ -48642,6 +49356,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -4.164,
+          51.571
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "GOWER-PENRICE-CASTLE",
+        "county": "Glamorgan",
+        "gridref": "SS501880",
+        "latitude": "51.571",
+        "longitude": "-4.164",
+        "elevation (ft)": "30"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -2.908,
           54.194
         ]
@@ -50273,6 +51008,27 @@
         "latitude": "54.513",
         "longitude": "-2.998",
         "elevation (ft)": "1750"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.055,
+          51.913
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "GRWYNE-FAWR-COED-DIAS",
+        "county": "Monmouthshire",
+        "gridref": "SO275244",
+        "latitude": "51.913",
+        "longitude": "-3.055",
+        "elevation (ft)": "900"
       }
     },
     {
@@ -56127,7 +56883,7 @@
         "marker-size": "small",
         "marker-color": "66ff33",
         "name": "HIGHGATE-NURSERIES",
-        "county": "Middlesex-became-London",
+        "county": "Middlesex-stayed-Middlesex",
         "gridref": "TQ282870",
         "latitude": "51.567",
         "longitude": "-0.152",
@@ -58799,6 +59555,27 @@
         "latitude": "50.936",
         "longitude": "-2.884",
         "elevation (ft)": "136"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.175,
+          53.617
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "IMMINGHAM-COMPRESSOR-STN",
+        "county": "Lincolnshire",
+        "gridref": "TA208149",
+        "latitude": "53.617",
+        "longitude": "-0.175",
+        "elevation (ft)": "13"
       }
     },
     {
@@ -61592,6 +62369,27 @@
         "latitude": "52.050",
         "longitude": "-9.503",
         "elevation (ft)": "96"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.366,
+          56.037
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "KILLEARN-ACHNAGOWAN",
+        "county": "Stirlingshire",
+        "gridref": "NS527852",
+        "latitude": "56.037",
+        "longitude": "-4.366",
+        "elevation (ft)": "332"
       }
     },
     {
@@ -64707,6 +65505,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -4.581,
+          55.922
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "LANGBANK-EAST-BANK",
+        "county": "Renfrewshire",
+        "gridref": "NS3882972861",
+        "latitude": "55.922",
+        "longitude": "-4.581",
+        "elevation (ft)": "150"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -3.113,
           54.444
         ]
@@ -67395,6 +68214,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -0.546,
+          53.242
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "LINCOLN-BURTON-ROAD",
+        "county": "Lincolnshire",
+        "gridref": "SK971727",
+        "latitude": "53.242",
+        "longitude": "-0.546",
+        "elevation (ft)": "250"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -0.533,
           53.235
         ]
@@ -67556,6 +68396,90 @@
         "latitude": "53.218",
         "longitude": "-0.546",
         "elevation (ft)": "25"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.549,
+          53.213
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "LINCOLN-ST-CATHERINES",
+        "county": "Lincolnshire",
+        "gridref": "SK970694",
+        "latitude": "53.213",
+        "longitude": "-0.549",
+        "elevation (ft)": "33"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.582,
+          53.201
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "LINCOLN-SWALLOWBECK",
+        "county": "Lincolnshire",
+        "gridref": "SK948680",
+        "latitude": "53.201",
+        "longitude": "-0.582",
+        "elevation (ft)": "34"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.56,
+          53.188
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "LINCOLN-SWALLOWBECK",
+        "county": "Lincolnshire",
+        "gridref": "SK963666",
+        "latitude": "53.188",
+        "longitude": "-0.560",
+        "elevation (ft)": "34"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.536,
+          53.233
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "LINCOLN-THE-CLOSE",
+        "county": "Lincolnshire",
+        "gridref": "SK978717",
+        "latitude": "53.233",
+        "longitude": "-0.536",
+        "elevation (ft)": "185"
       }
     },
     {
@@ -70293,6 +71217,69 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -2.875,
+          51.83
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "LLANTILIO",
+        "county": "Monmouthshire",
+        "gridref": "SO398150",
+        "latitude": "51.830",
+        "longitude": "-2.875",
+        "elevation (ft)": "207"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.875,
+          51.829
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "LLANTILIO",
+        "county": "Monmouthshire",
+        "gridref": "SO398148",
+        "latitude": "51.829",
+        "longitude": "-2.875",
+        "elevation (ft)": "210"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.398,
+          51.511
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "LLANTRISANT-TALYGARN",
+        "county": "Glamorgan",
+        "gridref": "ST031800",
+        "latitude": "51.511",
+        "longitude": "-3.398",
+        "elevation (ft)": "250"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -3.672,
           52.857
         ]
@@ -71721,6 +72708,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -4.642,
+          55.792
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "LOCHWINNOCH-GARTHLAND",
+        "county": "Renfrewshire",
+        "gridref": "NS3442958614",
+        "latitude": "55.792",
+        "longitude": "-4.642",
+        "elevation (ft)": "150"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -3.335,
           55.084
         ]
@@ -72239,6 +73247,69 @@
         "latitude": "51.024",
         "longitude": "-2.757",
         "elevation (ft)": "60"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.148,
+          52.74
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "LONG-SUTTON-TYDD-GATE",
+        "county": "Lincolnshire",
+        "gridref": "TF451180",
+        "latitude": "52.740",
+        "longitude": "0.148",
+        "elevation (ft)": "23"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.123,
+          52.785
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "LONG-SUTTON-TYDD-GATE",
+        "county": "Lincolnshire",
+        "gridref": "TF433229",
+        "latitude": "52.785",
+        "longitude": "0.123",
+        "elevation (ft)": "18"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.119,
+          52.785
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "LONG-SUTTON-TYDD-GATE",
+        "county": "Lincolnshire",
+        "gridref": "TF430229",
+        "latitude": "52.785",
+        "longitude": "0.119",
+        "elevation (ft)": "13"
       }
     },
     {
@@ -72785,6 +73856,27 @@
         "latitude": "51.015",
         "longitude": "-0.265",
         "elevation (ft)": "300"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.176,
+          51.42
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "LOWER-PENARTH",
+        "county": "Glamorgan",
+        "gridref": "ST183697",
+        "latitude": "51.420",
+        "longitude": "-3.176",
+        "elevation (ft)": "66"
       }
     },
     {
@@ -74192,6 +75284,27 @@
         "latitude": "52.161",
         "longitude": "-3.823",
         "elevation (ft)": "910"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.665,
+          51.602
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "MAESTEG-ISOLATION-HOSPITAL",
+        "county": "Glamorgan",
+        "gridref": "SS848905",
+        "latitude": "51.602",
+        "longitude": "-3.665",
+        "elevation (ft)": "675"
       }
     },
     {
@@ -76656,6 +77769,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -4.334,
+          55.772
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "MEARNS-NEWTON-RENFREW",
+        "county": "Renfrewshire",
+        "gridref": "NS5369655673",
+        "latitude": "55.772",
+        "longitude": "-4.334",
+        "elevation (ft)": "360"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -2.834,
           54.528
         ]
@@ -77342,6 +78476,27 @@
         "latitude": "51.760",
         "longitude": "-3.372",
         "elevation (ft)": "936"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.375,
+          51.746
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "MERTHYR-TYDVIL-THE-HOLLIES",
+        "county": "Glamorgan",
+        "gridref": "SO052061",
+        "latitude": "51.746",
+        "longitude": "-3.375",
+        "elevation (ft)": "550"
       }
     },
     {
@@ -78756,6 +79911,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -3.182,
+          53.189
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "MOLD-BRYN-ALYN",
+        "county": "Flintshire",
+        "gridref": "SJ211664",
+        "latitude": "53.189",
+        "longitude": "-3.182",
+        "elevation (ft)": "483"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -3.115,
           53.189
         ]
@@ -78896,6 +80072,27 @@
         "latitude": "51.810",
         "longitude": "-2.716",
         "elevation (ft)": "60"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.789,
+          51.824
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "MONMOUTH-THE-HENDRE",
+        "county": "Monmouthshire",
+        "gridref": "SO457142",
+        "latitude": "51.824",
+        "longitude": "-2.789",
+        "elevation (ft)": "176"
       }
     },
     {
@@ -81066,6 +82263,69 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -3.783,
+          51.652
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "NEATH-CIMLA-RES",
+        "county": "Glamorgan",
+        "gridref": "SS767962",
+        "latitude": "51.652",
+        "longitude": "-3.783",
+        "elevation (ft)": "360"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.783,
+          51.667
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "NEATH-FAIRY-LAND",
+        "county": "Glamorgan",
+        "gridref": "SS768980",
+        "latitude": "51.667",
+        "longitude": "-3.783",
+        "elevation (ft)": "175"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.826,
+          51.673
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "NEATH-GLYNFELIN",
+        "county": "Glamorgan",
+        "gridref": "SS738987",
+        "latitude": "51.673",
+        "longitude": "-3.826",
+        "elevation (ft)": "180"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -3.788,
           51.663
         ]
@@ -82557,6 +83817,48 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -2.994,
+          51.586
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "NEWPORT-WW-FRIAR-ST-YARD",
+        "county": "Monmouthshire",
+        "gridref": "ST312879",
+        "latitude": "51.586",
+        "longitude": "-2.994",
+        "elevation (ft)": "32"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.828,
+          51.632
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "NEWPORT-WW-LLANVACHES",
+        "county": "Monmouthshire",
+        "gridref": "ST428929",
+        "latitude": "51.632",
+        "longitude": "-2.828",
+        "elevation (ft)": "456"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -3.037,
           51.596
         ]
@@ -83810,6 +85112,27 @@
         "latitude": "51.736",
         "longitude": "0.148",
         "elevation (ft)": "250"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.283,
+          53.382
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "NORTH-WILLINGHAM-HOUSE",
+        "county": "Lincolnshire",
+        "gridref": "TF143886",
+        "latitude": "53.382",
+        "longitude": "-0.283",
+        "elevation (ft)": "125"
       }
     },
     {
@@ -85665,6 +86988,48 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -3.544,
+          51.613
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "OGMORE-VALE",
+        "county": "Glamorgan",
+        "gridref": "SS931916",
+        "latitude": "51.613",
+        "longitude": "-3.544",
+        "elevation (ft)": "580"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.542,
+          51.631
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "OGMORE-VALE",
+        "county": "Glamorgan",
+        "gridref": "SS934936",
+        "latitude": "51.631",
+        "longitude": "-3.542",
+        "elevation (ft)": "834"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -4.002,
           50.745
         ]
@@ -87072,6 +88437,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -4.017,
+          51.574
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "OYSTERMOUTH-NEWTON",
+        "county": "Glamorgan",
+        "gridref": "SS603881",
+        "latitude": "51.574",
+        "longitude": "-4.017",
+        "elevation (ft)": "279"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -2.296,
           53.802
         ]
@@ -88227,6 +89613,69 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -3.171,
+          51.441
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "PENARTH",
+        "county": "Glamorgan",
+        "gridref": "ST187720",
+        "latitude": "51.441",
+        "longitude": "-3.171",
+        "elevation (ft)": "160"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.176,
+          51.437
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "PENARTH",
+        "county": "Glamorgan",
+        "gridref": "ST183715",
+        "latitude": "51.437",
+        "longitude": "-3.176",
+        "elevation (ft)": "148"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.171,
+          51.436
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "PENARTH",
+        "county": "Glamorgan",
+        "gridref": "ST187714",
+        "latitude": "51.436",
+        "longitude": "-3.171",
+        "elevation (ft)": "122"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -5.007,
           50.269
         ]
@@ -88451,6 +89900,27 @@
         "latitude": "52.702",
         "longitude": "-2.118",
         "elevation (ft)": "324"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.127,
+          51.577
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "PENMAEN-CEFN-MOR",
+        "county": "Glamorgan",
+        "gridref": "SS527886",
+        "latitude": "51.577",
+        "longitude": "-4.127",
+        "elevation (ft)": "300"
       }
     },
     {
@@ -91328,6 +92798,48 @@
         "latitude": "54.546",
         "longitude": "-0.774",
         "elevation (ft)": "350"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.706,
+          51.563
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "PORT-TALBOT-MARGAM",
+        "county": "Glamorgan",
+        "gridref": "SS818863",
+        "latitude": "51.563",
+        "longitude": "-3.706",
+        "elevation (ft)": "530"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.718,
+          51.554
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "PORT-TALBOT-MARGAM",
+        "county": "Glamorgan",
+        "gridref": "SS810853",
+        "latitude": "51.554",
+        "longitude": "-3.718",
+        "elevation (ft)": "180"
       }
     },
     {
@@ -94310,6 +95822,27 @@
         "latitude": "53.324",
         "longitude": "-3.485",
         "elevation (ft)": "21"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.308,
+          51.784
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "RHYMNEY-BRIDGE-RES",
+        "county": "Glamorgan",
+        "gridref": "SO099102",
+        "latitude": "51.784",
+        "longitude": "-3.308",
+        "elevation (ft)": "1150"
       }
     },
     {
@@ -105909,6 +107442,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -3.943,
+          56.12
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "STIRLING-SAUCHIE-HOUSE",
+        "county": "Stirlingshire",
+        "gridref": "NS793936",
+        "latitude": "56.120",
+        "longitude": "-3.943",
+        "elevation (ft)": "151"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -4.019,
           56.102
         ]
@@ -105986,6 +107540,27 @@
         "latitude": "56.101",
         "longitude": "-4.040",
         "elevation (ft)": "758"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.946,
+          56.115
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "STIRLING-VICTORIA-PLACE",
+        "county": "Stirlingshire",
+        "gridref": "NS791931",
+        "latitude": "56.115",
+        "longitude": "-3.946",
+        "elevation (ft)": "100"
       }
     },
     {
@@ -108387,6 +109962,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -0.452,
+          53.272
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "SUDBROOKE-MANOR-LINCOLN",
+        "county": "Lincolnshire",
+        "gridref": "TF033761",
+        "latitude": "53.272",
+        "longitude": "-0.452",
+        "elevation (ft)": "55"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           0.728,
           52.036
         ]
@@ -109052,6 +110648,48 @@
         "latitude": "51.936",
         "longitude": "-0.839",
         "elevation (ft)": "411"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.943,
+          51.616
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "SWANSEA-SOUTH-DOCK-LOCK",
+        "county": "Glamorgan",
+        "gridref": "SS656926",
+        "latitude": "51.616",
+        "longitude": "-3.943",
+        "elevation (ft)": "30"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.963,
+          51.613
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "SWANSEA-VICTORIA-PARK",
+        "county": "Glamorgan",
+        "gridref": "SS642923",
+        "latitude": "51.613",
+        "longitude": "-3.963",
+        "elevation (ft)": "32"
       }
     },
     {
@@ -112797,6 +114435,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -3.306,
+          51.669
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "TREHARRIS-SERVICE-RES",
+        "county": "Glamorgan",
+        "gridref": "ST098975",
+        "latitude": "51.669",
+        "longitude": "-3.306",
+        "elevation (ft)": "765"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -3.542,
           51.675
         ]
@@ -112811,6 +114470,48 @@
         "latitude": "51.675",
         "longitude": "-3.542",
         "elevation (ft)": "670"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.546,
+          51.682
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "TREHERBERT-TYN-Y-WAUN",
+        "county": "Glamorgan",
+        "gridref": "SS932993",
+        "latitude": "51.682",
+        "longitude": "-3.546",
+        "elevation (ft)": "801"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.546,
+          51.683
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "TREHERBERT-TYN-Y-WAUN",
+        "county": "Glamorgan",
+        "gridref": "SS932994",
+        "latitude": "51.683",
+        "longitude": "-3.546",
+        "elevation (ft)": "801"
       }
     },
     {
@@ -123969,6 +125670,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -0.023,
+          52.956
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "WYBERTON-TYTTON-HALL",
+        "county": "Lincolnshire",
+        "gridref": "TF329417",
+        "latitude": "52.956",
+        "longitude": "-0.023",
+        "elevation (ft)": "10"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           0.939,
           51.183
         ]
@@ -124991,6 +126713,27 @@
         "latitude": "51.764",
         "longitude": "-3.785",
         "elevation (ft)": "240"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.455,
+          51.643
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "YSTRADYFODWG-FYNTYLA-HOSPITAL",
+        "county": "Glamorgan",
+        "gridref": "SS994948",
+        "latitude": "51.643",
+        "longitude": "-3.455",
+        "elevation (ft)": "590"
       }
     }
   ]
