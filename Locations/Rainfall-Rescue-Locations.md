@@ -1,9 +1,9 @@
-Generation time: Wednesday 24/03/2021 17:58:07 GMT
+Generation time: Friday 26/03/2021 23:06:59 GMT
 
 
 [MO-2020] indicates a location which contributed to the [Met Office 2020 UK Climate Report](https://www.metoffice.gov.uk/research/climate/maps-and-data/about/state-of-climate):
 
-5920 locations under [https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA):
+5921 locations under [https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA):
 
 * [ABBEY-CWMHIR-THE-HALL](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/ABBEY-CWMHIR-THE-HALL)
 * [ABBEY-LEIX-BLANDSFORT](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/ABBEY-LEIX-BLANDSFORT)
@@ -111,6 +111,7 @@ Generation time: Wednesday 24/03/2021 17:58:07 GMT
 * [ALDERSHOT](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/ALDERSHOT)
 * [ALDERSHOT-BOURLEY-WW](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/ALDERSHOT-BOURLEY-WW)
 * [ALDERSHOT-CAMP](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/ALDERSHOT-CAMP)
+* [ALDERSHOT-SEWAGE-WORKS](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/ALDERSHOT-SEWAGE-WORKS)
 * [ALDERSHOT-WW](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/ALDERSHOT-WW)
 * [ALDERWASLEY](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/ALDERWASLEY)
 * [ALDHAM](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/ALDHAM)
@@ -1033,7 +1034,7 @@ Generation time: Wednesday 24/03/2021 17:58:07 GMT
 * [CAMPBELTOWN-SOUTH-PARK](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/CAMPBELTOWN-SOUTH-PARK)
 * [CANNINGTON-ASHFORD-WW](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/CANNINGTON-ASHFORD-WW)
 * [CANNINGTON-SOMERSET-FARM-INSTITUTE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/CANNINGTON-SOMERSET-FARM-INSTITUTE)
-* [CANNOCK-LONGFORD-LANE-SEWAGE-WORKS](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/CANNOCK-LONGFORD-LANE-SEWAGE-WORKS)
+* [CANNOCK-LONGFORD-ROAD-SEWAGE-WORKS](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/CANNOCK-LONGFORD-ROAD-SEWAGE-WORKS)
 * [CANON-FROME-VIC](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/CANON-FROME-VIC)
 * [CANONBIE-BYREBURNFOOT](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/CANONBIE-BYREBURNFOOT)
 * [CANONBIE-IRVINE-HOUSE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/CANONBIE-IRVINE-HOUSE)
@@ -2445,11 +2446,11 @@ Generation time: Wednesday 24/03/2021 17:58:07 GMT
 * [GREENFIELD-YEOMAN-HEY](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/GREENFIELD-YEOMAN-HEY)
 * [GREENOCK-INFIRMARY](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/GREENOCK-INFIRMARY)
 * [GREENOCK-MIX](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/GREENOCK-MIX)
-* [GREENOCK-SHAWS-WW-EVERTON-COTTAGE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/GREENOCK-SHAWS-WW-EVERTON-COTTAGE)
 * [GREENOCK-WW-COMPENSATION-RES](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/GREENOCK-WW-COMPENSATION-RES)
 * [GREENOCK-WW-CREUCH-HILL](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/GREENOCK-WW-CREUCH-HILL)
 * [GREENOCK-WW-DARNDAFF-MOOR](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/GREENOCK-WW-DARNDAFF-MOOR) [MO-2020]
 * [GREENOCK-WW-DUCHAL-MOOR](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/GREENOCK-WW-DUCHAL-MOOR)
+* [GREENOCK-WW-EVERTON-COTTAGE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/GREENOCK-WW-EVERTON-COTTAGE)
 * [GREENOCK-WW-GREEN-WATER](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/GREENOCK-WW-GREEN-WATER) [MO-2020]
 * [GREENOCK-WW-GRYFE-RES](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/GREENOCK-WW-GRYFE-RES) [MO-2020]
 * [GREENOCK-WW-HOLE-GLEN](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/GREENOCK-WW-HOLE-GLEN) [MO-2020]
