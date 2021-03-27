@@ -11619,6 +11619,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -4.107,
+          50.448
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "BICKLEIGH-ROBOROUGH-RES",
+        "county": "Devon",
+        "gridref": "SX504630",
+        "latitude": "50.448",
+        "longitude": "-4.107",
+        "elevation (ft)": "548"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -3.275,
           51.158
         ]
@@ -57231,6 +57252,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -3.207,
+          52.028
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "HAY-GWERNYFED-PARK",
+        "county": "Brecknockshire",
+        "gridref": "SO173373",
+        "latitude": "52.028",
+        "longitude": "-3.207",
+        "elevation (ft)": "375"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -2.245,
           54.969
         ]
@@ -72288,6 +72330,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -3.376,
+          52.235
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "LLANDRINDOD-WELLS-THE-COMMON",
+        "county": "Radnorshire",
+        "gridref": "SO061605",
+        "latitude": "52.235",
+        "longitude": "-3.376",
+        "elevation (ft)": "772"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -3.836,
           53.326
         ]
@@ -72806,6 +72869,27 @@
         "latitude": "53.030",
         "longitude": "-3.513",
         "elevation (ft)": "898"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.203,
+          52.215
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "LLANFIHANGEL-NANT-MELAN",
+        "county": "Radnorshire",
+        "gridref": "SO179581",
+        "latitude": "52.215",
+        "longitude": "-3.203",
+        "elevation (ft)": "985"
       }
     },
     {
@@ -93183,6 +93267,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -3.273,
+          53.067
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "PENTRE-CELYN-COUNCIL-SCHOOL",
+        "county": "Denbighshire",
+        "gridref": "SJ148529",
+        "latitude": "53.067",
+        "longitude": "-3.273",
+        "elevation (ft)": "400"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -3.606,
           53.085
         ]
@@ -95955,6 +96060,48 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -3.086,
+          52.26
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "PRESTEIGN-EVANCOYD",
+        "county": "Radnorshire",
+        "gridref": "SO260630",
+        "latitude": "52.260",
+        "longitude": "-3.086",
+        "elevation (ft)": "744"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.022,
+          52.295
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "PRESTEIGN-NORTON-MANOR-GDNS",
+        "county": "Radnorshire",
+        "gridref": "SO304668",
+        "latitude": "52.295",
+        "longitude": "-3.022",
+        "elevation (ft)": "650"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -2.71,
           53.765
         ]
@@ -96220,7 +96367,7 @@
         "gridref": "SX590734",
         "latitude": "50.544",
         "longitude": "-3.991",
-        "elevation (ft)": "1375"
+        "elevation (ft)": "1370"
       }
     },
     {
@@ -98048,6 +98195,27 @@
         "latitude": "52.303",
         "longitude": "-3.511",
         "elevation (ft)": "757"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.512,
+          52.302
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "RHAYADER-VICARAGE",
+        "county": "Radnorshire",
+        "gridref": "SN970682",
+        "latitude": "52.302",
+        "longitude": "-3.512",
+        "elevation (ft)": "720"
       }
     },
     {
@@ -100946,6 +101114,48 @@
         "latitude": "53.822",
         "longitude": "-7.920",
         "elevation (ft)": "136"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.25,
+          53.113
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "RUTHIN-BWLCH-TUNNEL",
+        "county": "Denbighshire",
+        "gridref": "SJ164580",
+        "latitude": "53.113",
+        "longitude": "-3.250",
+        "elevation (ft)": "908"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.308,
+          53.09
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "RUTHIN-CORWEN-ROAD",
+        "county": "Denbighshire",
+        "gridref": "SJ125556",
+        "latitude": "53.090",
+        "longitude": "-3.308",
+        "elevation (ft)": "234"
       }
     },
     {
@@ -108254,6 +108464,27 @@
         "latitude": "53.242",
         "longitude": "-3.380",
         "elevation (ft)": "280"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.459,
+          53.229
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "ST-ASAPH-WIGFAIR",
+        "county": "Denbighshire",
+        "gridref": "SJ027712",
+        "latitude": "53.229",
+        "longitude": "-3.459",
+        "elevation (ft)": "250"
       }
     },
     {
@@ -128120,6 +128351,48 @@
         "latitude": "53.104",
         "longitude": "-2.950",
         "elevation (ft)": "58"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.166,
+          53.086
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "WREXHAM-WW-LLYNCYFYNWY",
+        "county": "Denbighshire",
+        "gridref": "SJ220549",
+        "latitude": "53.086",
+        "longitude": "-3.166",
+        "elevation (ft)": "1216"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.161,
+          53.082
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "WREXHAM-WW-LLYNCYFYNWY",
+        "county": "Denbighshire",
+        "gridref": "SJ223545",
+        "latitude": "53.082",
+        "longitude": "-3.161",
+        "elevation (ft)": "1131"
       }
     },
     {
