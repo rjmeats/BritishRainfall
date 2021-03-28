@@ -1,4 +1,4 @@
-Generation time: Saturday 27/03/2021 19:58:22 GMT
+Generation time: Sunday 28/03/2021 09:56:41 BST
 
 ## Locations A-G
 
@@ -1549,6 +1549,7 @@ Generation time: Saturday 27/03/2021 19:58:22 GMT
 ||CATRINE-2.csv|NS535258|55.504|-4.321|340|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=55.504&lon=-4.321&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/55.504,-4.321,16)  |
 ||CATRINE-3.csv|NS535258|55.504|-4.321|340|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=55.504&lon=-4.321&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/55.504,-4.321,16)  |
 |[CATTERICK-TUNSTALL](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/CATTERICK-TUNSTALL)|CATTERICK-TUNSTALL.csv|SE218959|54.359|-1.666|350|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=54.359&lon=-1.666&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/54.359,-1.666,16)  |
+|[CATWORTH](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/CATWORTH)|||||||
 |[CAVERSHAM-ST-PETERS-HILL](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/CAVERSHAM-ST-PETERS-HILL)|CAVERSHAM-ST-PETERS-HILL.csv|SU707751|51.470|-0.984|220|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=51.470&lon=-0.984&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/51.470,-0.984,16)  |
 ||CAVERSHAM-ST-PETERS-HILL-2.csv|SU706752|51.471|-0.985|200|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=51.471&lon=-0.985&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/51.471,-0.985,16)  |
 |[CAWDALE-BECK-HOWE-GRAIN](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/CAWDALE-BECK-HOWE-GRAIN)|CAWDALE-BECK-HOWE-GRAIN.csv|NY478176|54.551|-2.809|1642|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=54.551&lon=-2.809&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/54.551,-2.809,16)  |
@@ -1877,6 +1878,7 @@ Generation time: Saturday 27/03/2021 19:58:22 GMT
 |[CONGLETON-BUGLAWTON-VICARAGE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/CONGLETON-BUGLAWTON-VICARAGE)|CONGLETON-BUGLAWTON-VICARAGE.csv|SJ868635|53.168|-2.199|352|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=53.168&lon=-2.199&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/53.168,-2.199,16)  |
 ||CONGLETON-BUGLAWTON-VICARAGE-2.csv|SJ868635|53.168|-2.199|352|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=53.168&lon=-2.199&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/53.168,-2.199,16)  |
 |[CONGLETON-SEWAGE-WORKS](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/CONGLETON-SEWAGE-WORKS)|CONGLETON-SEWAGE-WORKS.csv|SJ853635|53.168|-2.221|247|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=53.168&lon=-2.221&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/53.168,-2.221,16)  |
+|[CONINGTON-CASTLE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/CONINGTON-CASTLE)|||||||
 |[CONINGTON-CONINGTON-HALL](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/CONINGTON-CONINGTON-HALL)|||||||
 |[CONISBROUGH-FIRSBY-RES](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/CONISBROUGH-FIRSBY-RES)|CONISBROUGH-FIRSBY-RES.csv|SK495958|53.457|-1.256|189|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=53.457&lon=-1.256&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/53.457,-1.256,16)  |
 |[CONISTON-MONK](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/CONISTON-MONK)|CONISTON-MONK.csv|SD318982|54.375|-3.051|267|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=54.375&lon=-3.051&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/54.375,-3.051,16)  |
