@@ -27138,8 +27138,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -1.44,
-          53.236
+          -2.91,
+          53.194
         ]
       },
       "properties": {
@@ -27148,10 +27148,10 @@
         "marker-color": "66ff33",
         "name": "CHESTER-SEWAGE-WORKS",
         "county": "Cheshire",
-        "gridref": "SK375711",
-        "latitude": "53.236",
-        "longitude": "-1.440",
-        "elevation (ft)": "279"
+        "gridref": "SJ393667",
+        "latitude": "53.194",
+        "longitude": "-2.910",
+        "elevation (ft)": "16"
       }
     },
     {
@@ -27215,6 +27215,27 @@
         "latitude": "53.239",
         "longitude": "-1.425",
         "elevation (ft)": "250"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.44,
+          53.236
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "CHESTERFIELD-GAS-WORKS",
+        "county": "Derbyshire",
+        "gridref": "SK375711",
+        "latitude": "53.236",
+        "longitude": "-1.440",
+        "elevation (ft)": "279"
       }
     },
     {
@@ -120329,6 +120350,27 @@
         "latitude": "51.766",
         "longitude": "-3.242",
         "elevation (ft)": "550"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.244,
+          51.783
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "TREDEGAR-SIRHOWY-IRON-WORKS",
+        "county": "Monmouthshire",
+        "gridref": "SO143101",
+        "latitude": "51.783",
+        "longitude": "-3.244",
+        "elevation (ft)": "1088"
       }
     },
     {

@@ -1,4 +1,4 @@
-Generation time: Tuesday 30/03/2021 17:59:28 BST
+Generation time: Thursday 01/04/2021 08:47:42 BST
 
 ## Locations H-O
 
@@ -1882,7 +1882,7 @@ Generation time: Tuesday 30/03/2021 17:59:28 BST
 |[MONEYDIG](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/MONEYDIG)|MONEYDIG.csv|NW052761|54.993|-6.610|112|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=54.993&lon=-6.610&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/54.993,-6.610,16) [OSM](https://www.openstreetmap.org/#map=16/54.993/-6.610) [GGL](https://www.google.co.uk/maps/@54.993,-6.610,16z)|
 |[MONIAIVE-GLENCROSH](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/MONIAIVE-GLENCROSH)|MONIAIVE-GLENCROSH.csv|NX762891|55.181|-3.946|350|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=55.181&lon=-3.946&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/55.181,-3.946,16)  |
 |[MONIKIE-FALLAWS](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/MONIKIE-FALLAWS)|||||||
-|[MONMOUTH](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/MONMOUTH)|MONMOUTH.csv|SO506126|51.810|-2.716|60|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=51.810&lon=-2.716&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/51.810,-2.716,16)  |
+|[MONMOUTH](https://github.com/ed-hawkins/rainfall-rescue/tree/master/POOR-LOCATIONS/MONMOUTH)|MONMOUTH.csv|SO506126|51.810|-2.716|60|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=51.810&lon=-2.716&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/51.810,-2.716,16)  |
 |[MONMOUTH-CORNWALL-HOUSE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/MONMOUTH-CORNWALL-HOUSE)|||||||
 |[MONMOUTH-DINGESTOW-COURT](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/MONMOUTH-DINGESTOW-COURT)|||||||
 |[MONMOUTH-PENTWYN](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/MONMOUTH-PENTWYN)|MONMOUTH-PENTWYN.csv|SO481149|51.830|-2.755|191|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=51.830&lon=-2.755&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/51.830,-2.755,16)  |

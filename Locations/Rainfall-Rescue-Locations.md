@@ -1,9 +1,9 @@
-Generation time: Tuesday 30/03/2021 17:59:27 BST
+Generation time: Thursday 01/04/2021 08:47:42 BST
 
 
 [MO-2020] indicates a location which contributed to the [Met Office 2020 UK Climate Report](https://www.metoffice.gov.uk/research/climate/maps-and-data/about/state-of-climate):
 
-6075 locations under [https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA):
+6074 locations under [https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA):
 
 * [ABBEY-CWMHIR-THE-HALL](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/ABBEY-CWMHIR-THE-HALL)
 * [ABBEY-LEIX-BLANDSFORT](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/ABBEY-LEIX-BLANDSFORT)
@@ -803,7 +803,7 @@ Generation time: Tuesday 30/03/2021 17:59:27 BST
 * [BRANKSOME-BOURNE-VALLEY](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/BRANKSOME-BOURNE-VALLEY)
 * [BRANT-RIGG](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/BRANT-RIGG)
 * [BRANXHOLM](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/BRANXHOLM)
-* [BRAUNTON-PRESTON-HOUSE-SANTON](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/BRAUNTON-PRESTON-HOUSE-SANTON)
+* [BRAUNTON-PRESTON-HOUSE-SAUNTON](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/BRAUNTON-PRESTON-HOUSE-SAUNTON)
 * [BRAY-FASSAROE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/BRAY-FASSAROE)
 * [BRAYSTONES](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/BRAYSTONES)
 * [BREADSALL-PRIORY](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/BREADSALL-PRIORY)
@@ -3914,7 +3914,6 @@ Generation time: Tuesday 30/03/2021 17:59:27 BST
 * [MONEYDIG](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/MONEYDIG) [MO-2020]
 * [MONIAIVE-GLENCROSH](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/MONIAIVE-GLENCROSH)
 * [MONIKIE-FALLAWS](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/MONIKIE-FALLAWS)
-* [MONMOUTH](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/MONMOUTH)
 * [MONMOUTH-CORNWALL-HOUSE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/MONMOUTH-CORNWALL-HOUSE)
 * [MONMOUTH-DINGESTOW-COURT](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/MONMOUTH-DINGESTOW-COURT)
 * [MONMOUTH-PENTWYN](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/MONMOUTH-PENTWYN)
@@ -6081,7 +6080,7 @@ Generation time: Tuesday 30/03/2021 17:59:27 BST
 * [YSTRADFELLTE-RES](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/YSTRADFELLTE-RES)
 * [YSTRADYFODWG-FYNTYLA-HOSPITAL](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/YSTRADYFODWG-FYNTYLA-HOSPITAL)
 
-83 locations under [https://github.com/ed-hawkins/rainfall-rescue/tree/master/POOR-LOCATIONS](https://github.com/ed-hawkins/rainfall-rescue/tree/master/POOR-LOCATIONS):
+84 locations under [https://github.com/ed-hawkins/rainfall-rescue/tree/master/POOR-LOCATIONS](https://github.com/ed-hawkins/rainfall-rescue/tree/master/POOR-LOCATIONS):
 
 * [ABERDEEN](https://github.com/ed-hawkins/rainfall-rescue/tree/master/POOR-LOCATIONS/ABERDEEN)
 * [ABERDOVEY](https://github.com/ed-hawkins/rainfall-rescue/tree/master/POOR-LOCATIONS/ABERDOVEY)
@@ -6139,6 +6138,7 @@ Generation time: Tuesday 30/03/2021 17:59:27 BST
 * [MARKET-LAVINGTON-NR-DEVIZES](https://github.com/ed-hawkins/rainfall-rescue/tree/master/POOR-LOCATIONS/MARKET-LAVINGTON-NR-DEVIZES)
 * [MASBOROUGH-PARSONAGE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/POOR-LOCATIONS/MASBOROUGH-PARSONAGE)
 * [MIDHURST](https://github.com/ed-hawkins/rainfall-rescue/tree/master/POOR-LOCATIONS/MIDHURST)
+* [MONMOUTH](https://github.com/ed-hawkins/rainfall-rescue/tree/master/POOR-LOCATIONS/MONMOUTH)
 * [NORTHAMPTON](https://github.com/ed-hawkins/rainfall-rescue/tree/master/POOR-LOCATIONS/NORTHAMPTON)
 * [NORWICH-BETHEL-ST](https://github.com/ed-hawkins/rainfall-rescue/tree/master/POOR-LOCATIONS/NORWICH-BETHEL-ST)
 * [OAKHAM-WING-RECTORY](https://github.com/ed-hawkins/rainfall-rescue/tree/master/POOR-LOCATIONS/OAKHAM-WING-RECTORY)
