@@ -1959,6 +1959,48 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -3.98,
+          55.863
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "AIRDRIE-BROOMKNOLL-STREET",
+        "county": "Lanarkshire",
+        "gridref": "NS762651",
+        "latitude": "55.863",
+        "longitude": "-3.980",
+        "elevation (ft)": "402"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.801,
+          55.864
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "AIRDRIE-FORRESTBURN-RES",
+        "county": "Lanarkshire",
+        "gridref": "NS874649",
+        "latitude": "55.864",
+        "longitude": "-3.801",
+        "elevation (ft)": "720"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -3.879,
           55.887
         ]
@@ -12053,6 +12095,27 @@
         "latitude": "53.400",
         "longitude": "-3.074",
         "elevation (ft)": "182"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.515,
+          55.631
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "BIGGAR-CAMBUS-WALLACE",
+        "county": "Lanarkshire",
+        "gridref": "NT047385",
+        "latitude": "55.631",
+        "longitude": "-3.515",
+        "elevation (ft)": "748"
       }
     },
     {
@@ -40746,6 +40809,69 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -5.274,
+          56.647
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "DUROR",
+        "county": "Argyll",
+        "gridref": "NM9939355328",
+        "latitude": "56.647",
+        "longitude": "-5.274",
+        "elevation (ft)": "120"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.266,
+          56.644
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "DUROR",
+        "county": "Argyll",
+        "gridref": "NM9982554970",
+        "latitude": "56.644",
+        "longitude": "-5.266",
+        "elevation (ft)": "45"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.297,
+          56.649
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "DUROR",
+        "county": "Argyll",
+        "gridref": "NM980557",
+        "latitude": "56.649",
+        "longitude": "-5.297",
+        "elevation (ft)": "40"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -2.333,
           57.062
         ]
@@ -51351,6 +51477,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -6.894,
+          54.854
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "GLENEDRA-ALTAGARRAN-MOUNTAIN",
+        "county": "Londonderry",
+        "gridref": "IC711012",
+        "latitude": "54.854",
+        "longitude": "-6.894",
+        "elevation (ft)": "1230"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -6.917,
           54.836
         ]
@@ -58722,6 +58869,111 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -2.794,
+          55.414
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "HAWICK-MIX",
+        "county": "Roxburghshire",
+        "gridref": "NT498136",
+        "latitude": "55.414",
+        "longitude": "-2.794",
+        "elevation (ft)": "387"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.788,
+          55.419
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "HAWICK-MIX",
+        "county": "Roxburghshire",
+        "gridref": "NT502142",
+        "latitude": "55.419",
+        "longitude": "-2.788",
+        "elevation (ft)": "381"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.79,
+          55.427
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "HAWICK-MIX",
+        "county": "Roxburghshire",
+        "gridref": "NT501151",
+        "latitude": "55.427",
+        "longitude": "-2.790",
+        "elevation (ft)": "420"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.793,
+          55.425
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "HAWICK-MIX",
+        "county": "Roxburghshire",
+        "gridref": "NT499149",
+        "latitude": "55.425",
+        "longitude": "-2.793",
+        "elevation (ft)": "448"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.79,
+          55.42
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "HAWICK-MIX",
+        "county": "Roxburghshire",
+        "gridref": "NT501143",
+        "latitude": "55.420",
+        "longitude": "-2.790",
+        "elevation (ft)": "440"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -2.785,
           55.434
         ]
@@ -60852,7 +61104,7 @@
         "marker-size": "small",
         "marker-color": "66ff33",
         "name": "HIGHGATE-NURSERIES",
-        "county": "Middlesex-stayed-Middlesex",
+        "county": "Middlesex-became-London",
         "gridref": "TQ282870",
         "latitude": "51.567",
         "longitude": "-0.152",
@@ -64749,6 +65001,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -2.575,
+          55.507
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "JEDBURGH-ANCRUM-BRIDGE",
+        "county": "Roxburghshire",
+        "gridref": "NT638238",
+        "latitude": "55.507",
+        "longitude": "-2.575",
+        "elevation (ft)": "229"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -2.497,
           55.511
         ]
@@ -65120,6 +65393,48 @@
         "latitude": "55.603",
         "longitude": "-2.467",
         "elevation (ft)": "193"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.339,
+          55.587
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "KELSO-LEMPITLAW",
+        "county": "Roxburghshire",
+        "gridref": "NT787327",
+        "latitude": "55.587",
+        "longitude": "-2.339",
+        "elevation (ft)": "635"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.452,
+          55.59
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "KELSO-SPRINGWOOD-NURSERIES",
+        "county": "Roxburghshire",
+        "gridref": "NT716330",
+        "latitude": "55.590",
+        "longitude": "-2.452",
+        "elevation (ft)": "200"
       }
     },
     {
@@ -69705,6 +70020,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -3.011,
+          55.159
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "LANGHOLM",
+        "county": "Dumfriesshire",
+        "gridref": "NY357854",
+        "latitude": "55.159",
+        "longitude": "-3.011",
+        "elevation (ft)": "290"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -2.974,
           55.213
         ]
@@ -69824,6 +70160,27 @@
         "latitude": "55.129",
         "longitude": "-3.093",
         "elevation (ft)": "450"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.085,
+          53.24
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "LANGLEY-BOTTOMS-RES",
+        "county": "Cheshire",
+        "gridref": "SJ944715",
+        "latitude": "53.240",
+        "longitude": "-2.085",
+        "elevation (ft)": "659"
       }
     },
     {
@@ -72330,6 +72687,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -2.768,
+          55.512
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "LILLIESLEAF-RIDDELL",
+        "county": "Roxburghshire",
+        "gridref": "NT516245",
+        "latitude": "55.512",
+        "longitude": "-2.768",
+        "elevation (ft)": "550"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -6.943,
           55.053
         ]
@@ -72911,6 +73289,27 @@
         "latitude": "51.916",
         "longitude": "-0.674",
         "elevation (ft)": "300"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.356,
+          55.532
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "LINTON-CLIFTON-PARK",
+        "county": "Roxburghshire",
+        "gridref": "NT776265",
+        "latitude": "55.532",
+        "longitude": "-2.356",
+        "elevation (ft)": "250"
       }
     },
     {
@@ -79680,6 +80079,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -2.112,
+          53.257
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "MACCLESFIELD-LEADBEATERS-RES",
+        "county": "Cheshire",
+        "gridref": "SJ926733",
+        "latitude": "53.257",
+        "longitude": "-2.112",
+        "elevation (ft)": "579"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -2.123,
           53.256
         ]
@@ -79694,6 +80114,27 @@
         "latitude": "53.256",
         "longitude": "-2.123",
         "elevation (ft)": "450"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.097,
+          53.274
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "MACCLESFIELD-SWANSCOE-PARK",
+        "county": "Cheshire",
+        "gridref": "SJ936752",
+        "latitude": "53.274",
+        "longitude": "-2.097",
+        "elevation (ft)": "676"
       }
     },
     {
@@ -80975,6 +81416,27 @@
         "latitude": "53.533",
         "longitude": "-2.297",
         "elevation (ft)": "295"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.293,
+          53.427
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "MANCHESTER-SALE",
+        "county": "Cheshire",
+        "gridref": "SJ806923",
+        "latitude": "53.427",
+        "longitude": "-2.293",
+        "elevation (ft)": "80"
       }
     },
     {
@@ -82676,6 +83138,27 @@
         "latitude": "55.590",
         "longitude": "-2.727",
         "elevation (ft)": "480"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.716,
+          55.55
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "MELROSE-BOWDEN-KIPPILAW",
+        "county": "Roxburghshire",
+        "gridref": "NT549287",
+        "latitude": "55.550",
+        "longitude": "-2.716",
+        "elevation (ft)": "500"
       }
     },
     {
@@ -87723,6 +88206,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -3.061,
+          55.873
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "NEWBATTLE-PUBLIC-SCHOOL",
+        "county": "Midlothian (Edinburgh)",
+        "gridref": "NT337649",
+        "latitude": "55.873",
+        "longitude": "-3.061",
+        "elevation (ft)": "300"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -1.333,
           51.408
         ]
@@ -89585,6 +90089,27 @@
         "latitude": "53.640",
         "longitude": "-0.666",
         "elevation (ft)": "185"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.412,
+          53.702
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "NORMANTON-HAW-HILL-PARK",
+        "county": "Yorkshire West Riding",
+        "gridref": "SE389230",
+        "latitude": "53.702",
+        "longitude": "-1.412",
+        "elevation (ft)": "136"
       }
     },
     {
@@ -94422,6 +94947,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -1.97,
+          52.614
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "PELSALL-GOSCOTE-SEWAGE-WKS",
+        "county": "Staffordshire",
+        "gridref": "SK021018",
+        "latitude": "52.614",
+        "longitude": "-1.970",
+        "elevation (ft)": "435"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -4.295,
           51.695
         ]
@@ -97509,6 +98055,48 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -1.141,
+          53.713
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "PONTEFRACT-ROALL-WW",
+        "county": "Yorkshire West Riding",
+        "gridref": "SE568244",
+        "latitude": "53.713",
+        "longitude": "-1.141",
+        "elevation (ft)": "42"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.314,
+          53.684
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "PONTEFRACT-THE-KINGS-SCHOOL",
+        "county": "Yorkshire West Riding",
+        "gridref": "SE454211",
+        "latitude": "53.684",
+        "longitude": "-1.314",
+        "elevation (ft)": "225"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -3.839,
           52.412
         ]
@@ -98874,6 +99462,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -2.266,
+          53.535
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "PRESTWICH-HEATON-PARK",
+        "county": "Lancashire",
+        "gridref": "SD825043",
+        "latitude": "53.535",
+        "longitude": "-2.266",
+        "elevation (ft)": "312"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -2.285,
           53.525
         ]
@@ -99329,6 +99938,27 @@
         "latitude": "52.130",
         "longitude": "-1.459",
         "elevation (ft)": "530"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.081,
+          53.273
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "RAINOW-THE-CLOUGH",
+        "county": "Cheshire",
+        "gridref": "SJ947751",
+        "latitude": "53.273",
+        "longitude": "-2.081",
+        "elevation (ft)": "815"
       }
     },
     {
@@ -99812,6 +100442,48 @@
         "latitude": "52.327",
         "longitude": "-1.001",
         "elevation (ft)": "370"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.458,
+          54.446
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "RAVENSTONEDALE",
+        "county": "Westmorland",
+        "gridref": "NY704057",
+        "latitude": "54.446",
+        "longitude": "-2.458",
+        "elevation (ft)": "800"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.687,
+          53.854
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "RAWDON-MICKLEFIELD-HOUSE",
+        "county": "Yorkshire West Riding",
+        "gridref": "SE207398",
+        "latitude": "53.854",
+        "longitude": "-1.687",
+        "elevation (ft)": "579"
       }
     },
     {
@@ -101730,6 +102402,48 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -2.017,
+          53.646
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "RISHWORTH-GREEN-WITHENS-RES",
+        "county": "Yorkshire West Riding",
+        "gridref": "SD990166",
+        "latitude": "53.646",
+        "longitude": "-2.017",
+        "elevation (ft)": "1205"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.976,
+          53.648
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "RISHWORTH-PIKE-END",
+        "county": "Yorkshire West Riding",
+        "gridref": "SE017168",
+        "latitude": "53.648",
+        "longitude": "-1.976",
+        "elevation (ft)": "1225"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -1.927,
           53.656
         ]
@@ -102101,6 +102815,27 @@
         "latitude": "52.157",
         "longitude": "-0.890",
         "elevation (ft)": "371"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.833,
+          52.972
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "ROCESTER-DOVE-LEYS",
+        "county": "Staffordshire",
+        "gridref": "SK113416",
+        "latitude": "52.972",
+        "longitude": "-1.833",
+        "elevation (ft)": "350"
       }
     },
     {
@@ -102843,6 +103578,48 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -1.333,
+          53.444
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "ROTHERHAM-ALDWARKE-SEWAGE-WKS",
+        "county": "Yorkshire West Riding",
+        "gridref": "SK444943",
+        "latitude": "53.444",
+        "longitude": "-1.333",
+        "elevation (ft)": "71"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.389,
+          53.432
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "ROTHERHAM-KIMBERWORTH-SCH",
+        "county": "Yorkshire West Riding",
+        "gridref": "SK407930",
+        "latitude": "53.432",
+        "longitude": "-1.389",
+        "elevation (ft)": "285"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -1.348,
           53.419
         ]
@@ -103193,6 +103970,27 @@
         "latitude": "52.419",
         "longitude": "-0.806",
         "elevation (ft)": "300"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.433,
+          53.749
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "ROTHWELL-LEMONROYD-SEWAGE-WKS",
+        "county": "Yorkshire West Riding",
+        "gridref": "SE375282",
+        "latitude": "53.749",
+        "longitude": "-1.433",
+        "elevation (ft)": "64"
       }
     },
     {
@@ -105930,6 +106728,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -2.536,
+          54.32
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "SEDBERGH-CEMETERY",
+        "county": "Yorkshire West Riding",
+        "gridref": "SD652917",
+        "latitude": "54.320",
+        "longitude": "-2.536",
+        "elevation (ft)": "374"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -2.52,
           54.323
         ]
@@ -107043,6 +107862,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -1.82,
+          52.625
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "SHENSTONE-LITTLE-HAY",
+        "county": "Staffordshire",
+        "gridref": "SK123030",
+        "latitude": "52.625",
+        "longitude": "-1.820",
+        "elevation (ft)": "298"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -2.531,
           51.188
         ]
@@ -107393,6 +108233,27 @@
         "latitude": "51.412",
         "longitude": "-0.946",
         "elevation (ft)": "200"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.771,
+          53.825
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "SHIPLEY-CRAGG-END",
+        "county": "Yorkshire West Riding",
+        "gridref": "SE152365",
+        "latitude": "53.825",
+        "longitude": "-1.771",
+        "elevation (ft)": "304"
       }
     },
     {
@@ -109059,6 +109920,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -2.532,
+          53.973
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "SLAIDBURN-FOOTHOLME",
+        "county": "Yorkshire West Riding",
+        "gridref": "SD652531",
+        "latitude": "53.973",
+        "longitude": "-2.532",
+        "elevation (ft)": "565"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -2.558,
           53.948
         ]
@@ -109451,6 +110333,27 @@
         "latitude": "51.503",
         "longitude": "-0.591",
         "elevation (ft)": "78"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.556,
+          55.622
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "SMAILHOLM-SANDYKNOWE",
+        "county": "Roxburghshire",
+        "gridref": "NT651366",
+        "latitude": "55.622",
+        "longitude": "-2.556",
+        "elevation (ft)": "500"
       }
     },
     {
@@ -110697,6 +111600,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -1.921,
+          53.704
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "SOWERBY-BRIDGE-HAUGH-END",
+        "county": "Yorkshire West Riding",
+        "gridref": "SE053231",
+        "latitude": "53.704",
+        "longitude": "-1.921",
+        "elevation (ft)": "450"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -1.995,
           53.667
         ]
@@ -110711,6 +111635,27 @@
         "latitude": "53.667",
         "longitude": "-1.995",
         "elevation (ft)": "935"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.042,
+          53.669
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "SOYLAND-MOOR-BYRON-EDGE",
+        "county": "Yorkshire West Riding",
+        "gridref": "SD973192",
+        "latitude": "53.669",
+        "longitude": "-2.042",
+        "elevation (ft)": "1251"
       }
     },
     {
@@ -110753,6 +111698,48 @@
         "latitude": "53.674",
         "longitude": "-2.005",
         "elevation (ft)": "1225"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.03,
+          53.656
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "SOYLAND-MOOR-RISHWORTH-DRAIN",
+        "county": "Yorkshire West Riding",
+        "gridref": "SD981177",
+        "latitude": "53.656",
+        "longitude": "-2.030",
+        "elevation (ft)": "1290"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.965,
+          53.667
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "SOYLAND-MOOR-STANSFIELD-HEY",
+        "county": "Yorkshire West Riding",
+        "gridref": "SE024189",
+        "latitude": "53.667",
+        "longitude": "-1.965",
+        "elevation (ft)": "700"
       }
     },
     {
@@ -111467,6 +112454,27 @@
         "latitude": "55.585",
         "longitude": "-2.668",
         "elevation (ft)": "320"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.628,
+          55.573
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "ST-BOSWELLS-THE-FENS",
+        "county": "Roxburghshire",
+        "gridref": "NT605312",
+        "latitude": "55.573",
+        "longitude": "-2.628",
+        "elevation (ft)": "260"
       }
     },
     {
@@ -112349,6 +113357,69 @@
         "latitude": "52.804",
         "longitude": "-2.110",
         "elevation (ft)": "247"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.116,
+          52.805
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "STAFFORD-TIPPING-STREET",
+        "county": "Staffordshire",
+        "gridref": "SJ923231",
+        "latitude": "52.805",
+        "longitude": "-2.116",
+        "elevation (ft)": "258"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.122,
+          52.788
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "STAFFORD-TIPPING-STREET",
+        "county": "Staffordshire",
+        "gridref": "SJ919212",
+        "latitude": "52.788",
+        "longitude": "-2.122",
+        "elevation (ft)": "273"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.136,
+          52.808
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "STAFFORD-WEST-BANK-DOXEY",
+        "county": "Staffordshire",
+        "gridref": "SJ909234",
+        "latitude": "52.808",
+        "longitude": "-2.136",
+        "elevation (ft)": "250"
       }
     },
     {
@@ -114540,7 +115611,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -1.004,
+          -1.003,
           51.339
         ]
       },
@@ -114550,9 +115621,9 @@
         "marker-color": "66ff33",
         "name": "STRATFIELD-TURGIS",
         "county": "Hampshire",
-        "gridref": "SU695604",
+        "gridref": "SU695603",
         "latitude": "51.339",
-        "longitude": "-1.004",
+        "longitude": "-1.003",
         "elevation (ft)": "200"
       }
     },
@@ -114574,6 +115645,27 @@
         "gridref": "SU705596",
         "latitude": "51.331",
         "longitude": "-0.989",
+        "elevation (ft)": "200"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.004,
+          51.339
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "STRATFIELD-TURGIS",
+        "county": "Hampshire",
+        "gridref": "SU695604",
+        "latitude": "51.339",
+        "longitude": "-1.004",
         "elevation (ft)": "200"
       }
     },
@@ -117249,6 +118341,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -1.712,
+          52.635
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "TAMWORTH-SEWAGE-PUMPING-STATION",
+        "county": "Staffordshire",
+        "gridref": "SK196042",
+        "latitude": "52.635",
+        "longitude": "-1.712",
+        "elevation (ft)": "182"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -3.961,
           52.957
         ]
@@ -117893,6 +119006,27 @@
         "latitude": "54.128",
         "longitude": "-0.973",
         "elevation (ft)": "300"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.941,
+          55.335
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "TEVIOTHEAD-MANSE",
+        "county": "Roxburghshire",
+        "gridref": "NT404050",
+        "latitude": "55.335",
+        "longitude": "-2.941",
+        "elevation (ft)": "550"
       }
     },
     {
@@ -119286,6 +120420,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -2.856,
+          55.415
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "TODSHAWHAUGH",
+        "county": "Roxburghshire",
+        "gridref": "NT459138",
+        "latitude": "55.415",
+        "longitude": "-2.856",
+        "elevation (ft)": "450"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -0.49,
           52.681
         ]
@@ -119531,6 +120686,27 @@
         "latitude": "51.698",
         "longitude": "-1.185",
         "elevation (ft)": "289"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.008,
+          54.438
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "TOP-OF-LOUGHRIGG",
+        "county": "Westmorland",
+        "gridref": "NY347052",
+        "latitude": "54.438",
+        "longitude": "-3.008",
+        "elevation (ft)": "1050"
       }
     },
     {
@@ -123129,6 +124305,48 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -1.502,
+          53.686
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "WAKEFIELD-SEWAGE-WORKS",
+        "county": "Yorkshire West Riding",
+        "gridref": "SE330212",
+        "latitude": "53.686",
+        "longitude": "-1.502",
+        "elevation (ft)": "174"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.478,
+          53.678
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "WAKEFIELD-SEWAGE-WORKS",
+        "county": "Yorkshire West Riding",
+        "gridref": "SE346203",
+        "latitude": "53.678",
+        "longitude": "-1.478",
+        "elevation (ft)": "78"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -1.491,
           53.698
         ]
@@ -123605,6 +124823,27 @@
         "latitude": "53.692",
         "longitude": "-2.045",
         "elevation (ft)": "1250"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.071,
+          53.69
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "WALSDEN-WARLAND-RES",
+        "county": "Yorkshire West Riding",
+        "gridref": "SD954215",
+        "latitude": "53.690",
+        "longitude": "-2.071",
+        "elevation (ft)": "1245"
       }
     },
     {
@@ -125117,6 +126356,27 @@
         "latitude": "53.495",
         "longitude": "-1.346",
         "elevation (ft)": "250"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.362,
+          53.501
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "WATH-UPON-DEARNE-WEST-MELTON",
+        "county": "Yorkshire West Riding",
+        "gridref": "SE424007",
+        "latitude": "53.501",
+        "longitude": "-1.362",
+        "elevation (ft)": "172"
       }
     },
     {
@@ -127371,6 +128631,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -1.441,
+          53.938
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "WETHERBY-STOCKELD-PARK",
+        "county": "Yorkshire West Riding",
+        "gridref": "SE368492",
+        "latitude": "53.938",
+        "longitude": "-1.441",
+        "elevation (ft)": "200"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -0.452,
           51.361
         ]
@@ -128099,6 +129380,27 @@
         "latitude": "51.793",
         "longitude": "0.584",
         "elevation (ft)": "130"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.804,
+          55.184
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "WHITHAUGH-LIDDESDALE",
+        "county": "Roxburghshire",
+        "gridref": "NY489880",
+        "latitude": "55.184",
+        "longitude": "-2.804",
+        "elevation (ft)": "400"
       }
     },
     {
@@ -129954,6 +131256,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -1.727,
+          53.519
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "WOGDEN-FOOT-CAT-CLOUGH",
+        "county": "Yorkshire West Riding",
+        "gridref": "SE182025",
+        "latitude": "53.519",
+        "longitude": "-1.727",
+        "elevation (ft)": "889"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -0.571,
           51.323
         ]
@@ -130262,6 +131585,90 @@
         "latitude": "52.576",
         "longitude": "-2.137",
         "elevation (ft)": "525"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.208,
+          52.563
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "WOLVERHAMPTON-DIMMINGSDALE-WW",
+        "county": "Staffordshire",
+        "gridref": "SO860962",
+        "latitude": "52.563",
+        "longitude": "-2.208",
+        "elevation (ft)": "323"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.21,
+          52.623
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "WOLVERHAMPTON-TETTENHALL",
+        "county": "Staffordshire",
+        "gridref": "SJ859028",
+        "latitude": "52.623",
+        "longitude": "-2.210",
+        "elevation (ft)": "480"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.162,
+          52.601
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "WOLVERHAMPTON-TETTENHALL",
+        "county": "Staffordshire",
+        "gridref": "SJ891004",
+        "latitude": "52.601",
+        "longitude": "-2.162",
+        "elevation (ft)": "454"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.179,
+          52.59
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "WOLVERHAMPTON-TETTENHALL",
+        "county": "Staffordshire",
+        "gridref": "SO880992",
+        "latitude": "52.590",
+        "longitude": "-2.179",
+        "elevation (ft)": "486"
       }
     },
     {
@@ -130661,6 +132068,27 @@
         "latitude": "53.496",
         "longitude": "-1.831",
         "elevation (ft)": "878"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.379,
+          53.354
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "WOODHOUSE-COISLEY-HILL-WORKS",
+        "county": "Yorkshire West Riding",
+        "gridref": "SK414843",
+        "latitude": "53.354",
+        "longitude": "-1.379",
+        "elevation (ft)": "243"
       }
     },
     {
@@ -132852,6 +134280,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -2.322,
+          55.563
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "YETHOLM-OLD-GRADEN",
+        "county": "Roxburghshire",
+        "gridref": "NT798300",
+        "latitude": "55.563",
+        "longitude": "-2.322",
+        "elevation (ft)": "500"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -1.114,
           53.966
         ]
@@ -132999,6 +134448,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -1.141,
+          53.914
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "YORK-COPMANTHORPE-VICARAGE",
+        "county": "Yorkshire West Riding",
+        "gridref": "SE565468",
+        "latitude": "53.914",
+        "longitude": "-1.141",
+        "elevation (ft)": "53"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -0.974,
           53.971
         ]
@@ -133013,6 +134483,27 @@
         "latitude": "53.971",
         "longitude": "-0.974",
         "elevation (ft)": "110"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.091,
+          53.93
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "YORK-MIDDLETHORPE-HALL",
+        "county": "Yorkshire West Riding",
+        "gridref": "SE598486",
+        "latitude": "53.930",
+        "longitude": "-1.091",
+        "elevation (ft)": "48"
       }
     },
     {

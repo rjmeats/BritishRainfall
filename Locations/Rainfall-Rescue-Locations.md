@@ -1,4 +1,4 @@
-Generation time: Saturday 03/04/2021 09:36:53 BST
+Generation time: Monday 05/04/2021 09:25:35 BST
 
 
 [MO-2020] indicates a location which contributed to the [Met Office 2020 UK Climate Report](https://www.metoffice.gov.uk/research/climate/maps-and-data/about/state-of-climate):
@@ -5949,9 +5949,9 @@ Generation time: Saturday 03/04/2021 09:36:53 BST
 * [WOLSINGHAM-STANHOPE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/WOLSINGHAM-STANHOPE)
 * [WOLVERHAMPTON](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/WOLVERHAMPTON)
 * [WOLVERHAMPTON-DIMMINGSDALE-WW](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/WOLVERHAMPTON-DIMMINGSDALE-WW)
+* [WOLVERHAMPTON-TETTENHALL](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/WOLVERHAMPTON-TETTENHALL)
 * [WOLVERHAMPTON-TOWN-HALL](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/WOLVERHAMPTON-TOWN-HALL)
 * [WOLVERHAMPTON-WEST-PARK](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/WOLVERHAMPTON-WEST-PARK)
-* [WOLVERHAMPTON-WW-TETTENHALL](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/WOLVERHAMPTON-WW-TETTENHALL)
 * [WOLVERTON-ST-GEORGES-VICARAGE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/WOLVERTON-ST-GEORGES-VICARAGE)
 * [WOLVERTON-THE-SCHOOL-HOUSE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/WOLVERTON-THE-SCHOOL-HOUSE)
 * [WOMBOURNE-THE-BRATCH](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/WOMBOURNE-THE-BRATCH)
