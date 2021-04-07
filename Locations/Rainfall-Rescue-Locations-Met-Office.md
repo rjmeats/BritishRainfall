@@ -1,11 +1,12 @@
-Generation time: Tuesday 06/04/2021 08:13:42 BST
+Generation time: Wednesday 07/04/2021 08:20:09 BST
 
 95 locations under [https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA) which contributed to the [Met Office 2020 UK Climate Report](https://www.metoffice.gov.uk/research/climate/maps-and-data/about/state-of-climate):
 
-* [KEW-OBSERVATORY](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/KEW-OBSERVATORY) : 5 days ago : 2021-04-01 00:40:09 +0100 
-* [ARMAGH-OBSERVATORY](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/ARMAGH-OBSERVATORY) : 11 days ago : 2021-03-26 15:46:06 +0000 
-* [IPSWICH-BELSTEAD-HALL](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/IPSWICH-BELSTEAD-HALL) : 11 days ago : 2021-03-26 15:46:06 +0000 
-* [TRESCO-ABBEY](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/TRESCO-ABBEY) : 11 days ago : 2021-03-26 15:46:06 +0000 
+* [SPRINKLING-TARN](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/SPRINKLING-TARN) : 8 hours ago : 2021-04-06 23:41:52 +0100 
+* [KEW-OBSERVATORY](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/KEW-OBSERVATORY) : 6 days ago : 2021-04-01 00:40:09 +0100 
+* [ARMAGH-OBSERVATORY](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/ARMAGH-OBSERVATORY) : 12 days ago : 2021-03-26 15:46:06 +0000 
+* [IPSWICH-BELSTEAD-HALL](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/IPSWICH-BELSTEAD-HALL) : 12 days ago : 2021-03-26 15:46:06 +0000 
+* [TRESCO-ABBEY](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/TRESCO-ABBEY) : 12 days ago : 2021-03-26 15:46:06 +0000 
 * [GREENOCK-WW-DARNDAFF-MOOR](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/GREENOCK-WW-DARNDAFF-MOOR) : 6 weeks ago : 2021-02-23 22:48:45 +0000 
 * [ABERDEEN-OBSERVATORY](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/ABERDEEN-OBSERVATORY) : 6 weeks ago : 2021-02-22 12:32:28 +0000 
 * [LOCH-LEVEN-SLUICE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/LOCH-LEVEN-SLUICE) : 6 weeks ago : 2021-02-21 23:15:01 +0000 
@@ -89,7 +90,6 @@ Generation time: Tuesday 06/04/2021 08:13:42 BST
 * [SHIFNAL-HAUGHTON-HALL](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/SHIFNAL-HAUGHTON-HALL) : 9 months ago : 2020-07-08 14:36:05 +0100 
 * [SKIPTON-CHELKER-RES](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/SKIPTON-CHELKER-RES) : 9 months ago : 2020-07-08 14:36:05 +0100 
 * [SLAIDBURN-LANGDEN-BROOK](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/SLAIDBURN-LANGDEN-BROOK) : 9 months ago : 2020-07-08 14:36:05 +0100 
-* [SPRINKLING-TARN](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/SPRINKLING-TARN) : 9 months ago : 2020-07-08 14:36:05 +0100 
 * [ST-ALBANS-GORHAMBURY](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/ST-ALBANS-GORHAMBURY) : 9 months ago : 2020-07-08 14:36:05 +0100 
 * [STOURHEAD](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/STOURHEAD) : 9 months ago : 2020-07-08 14:36:05 +0100 
 * [TEYNHAM-NEW-GARDENS](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/TEYNHAM-NEW-GARDENS) : 9 months ago : 2020-07-08 14:36:05 +0100 

@@ -1,9 +1,9 @@
-Generation time: Tuesday 06/04/2021 08:13:42 BST
+Generation time: Wednesday 07/04/2021 08:20:09 BST
 
 
 [MO-2020] indicates a location which contributed to the [Met Office 2020 UK Climate Report](https://www.metoffice.gov.uk/research/climate/maps-and-data/about/state-of-climate):
 
-6095 locations under [https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA):
+6096 locations under [https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA):
 
 * [ABBEY-CWMHIR-THE-HALL](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/ABBEY-CWMHIR-THE-HALL)
 * [ABBEY-LEIX-BLANDSFORT](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/ABBEY-LEIX-BLANDSFORT)
@@ -1832,6 +1832,7 @@ Generation time: Tuesday 06/04/2021 08:13:42 BST
 * [DUDDON-VALLEY-SEATHWAITE-FARM](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/DUDDON-VALLEY-SEATHWAITE-FARM)
 * [DUDLEY-SHAVERS-END](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/DUDLEY-SHAVERS-END)
 * [DUDLEY-TRINDLE-HOUSE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/DUDLEY-TRINDLE-HOUSE)
+* [DUFFIELD-CASTLE-HILL-HOUSE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/DUFFIELD-CASTLE-HILL-HOUSE)
 * [DUFFIELD-KIRKSTYLES](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/DUFFIELD-KIRKSTYLES)
 * [DUFFTOWN-MIX](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/DUFFTOWN-MIX)
 * [DUFFUS-HOUSE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/DUFFUS-HOUSE)
