@@ -468,6 +468,69 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -3.835,
+          56.652
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "ABERFELDY-BLACKHILL",
+        "county": "Perthshire",
+        "gridref": "NN8757352664",
+        "latitude": "56.652",
+        "longitude": "-3.835",
+        "elevation (ft)": "823"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.919,
+          56.61
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "ABERFELDY-BOLFRACKS",
+        "county": "Perthshire",
+        "gridref": "NN8231648134",
+        "latitude": "56.610",
+        "longitude": "-3.919",
+        "elevation (ft)": "360"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.908,
+          56.614
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "ABERFELDY-BOLFRACKS",
+        "county": "Perthshire",
+        "gridref": "NN8299948502",
+        "latitude": "56.614",
+        "longitude": "-3.908",
+        "elevation (ft)": "350"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -3.871,
           56.619
         ]
@@ -6194,6 +6257,27 @@
         "latitude": "55.916",
         "longitude": "-4.630",
         "elevation (ft)": "321"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.611,
+          55.764
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "AUCHENGRAY-LANARK",
+        "county": "Lanarkshire",
+        "gridref": "NS9903453478",
+        "latitude": "55.764",
+        "longitude": "-3.611",
+        "elevation (ft)": "650"
       }
     },
     {
@@ -14916,6 +15000,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -4.236,
+          56.182
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "BLAIRHOYLE",
+        "county": "Perthshire",
+        "gridref": "NN6127801049",
+        "latitude": "56.182",
+        "longitude": "-4.236",
+        "elevation (ft)": "100"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -1.085,
           52.147
         ]
@@ -21482,6 +21587,27 @@
         "latitude": "53.330",
         "longitude": "-1.622",
         "elevation (ft)": "1225"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.614,
+          53.318
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "BURBAGE-LOWER-BURBAGE",
+        "county": "Derbyshire",
+        "gridref": "SK258802",
+        "latitude": "53.318",
+        "longitude": "-1.614",
+        "elevation (ft)": "924"
       }
     },
     {
@@ -33249,6 +33375,69 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -3.266,
+          56.549
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "COUPAR-ANGUS-PUBLIC-SCHOOL",
+        "county": "Perthshire",
+        "gridref": "NO2226140350",
+        "latitude": "56.549",
+        "longitude": "-3.266",
+        "elevation (ft)": "183"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.269,
+          56.545
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "COUPAR-ANGUS-STATION",
+        "county": "Perthshire",
+        "gridref": "NO2205339930",
+        "latitude": "56.545",
+        "longitude": "-3.269",
+        "elevation (ft)": "183"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.263,
+          56.547
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "COUPAR-ANGUS-STATION",
+        "county": "Perthshire",
+        "gridref": "NO2244240125",
+        "latitude": "56.547",
+        "longitude": "-3.263",
+        "elevation (ft)": "183"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -1.506,
           52.413
         ]
@@ -41334,6 +41523,48 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -3.969,
+          56.187
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "DUNBLANE",
+        "county": "Perthshire",
+        "gridref": "NN7787701067",
+        "latitude": "56.187",
+        "longitude": "-3.969",
+        "elevation (ft)": "250"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.964,
+          56.188
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "DUNBLANE",
+        "county": "Perthshire",
+        "gridref": "NN782012",
+        "latitude": "56.188",
+        "longitude": "-3.964",
+        "elevation (ft)": "185"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -3.948,
           56.197
         ]
@@ -43216,7 +43447,7 @@
         "gridref": "TQ168814",
         "latitude": "51.519",
         "longitude": "-0.318",
-        "elevation (ft)": "156"
+        "elevation (ft)": "-999999"
       }
     },
     {
@@ -52331,6 +52562,27 @@
         "latitude": "55.900",
         "longitude": "-3.127",
         "elevation (ft)": "240"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.134,
+          55.636
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "GILMOURTON-AVONDALE",
+        "county": "Lanarkshire",
+        "gridref": "NS6574640114",
+        "latitude": "55.636",
+        "longitude": "-4.134",
+        "elevation (ft)": "600"
       }
     },
     {
@@ -61767,6 +62019,69 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -1.89,
+          53.386
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "HAYFIELD-CLUTHER-ROCKS",
+        "county": "Derbyshire",
+        "gridref": "SK074877",
+        "latitude": "53.386",
+        "longitude": "-1.890",
+        "elevation (ft)": "1830"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.902,
+          53.361
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "HAYFIELD-DIMPUS-CLOUGH",
+        "county": "Derbyshire",
+        "gridref": "SK066849",
+        "latitude": "53.361",
+        "longitude": "-1.902",
+        "elevation (ft)": "1450"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.904,
+          53.363
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "HAYFIELD-DIMPUS-CLOUGH",
+        "county": "Derbyshire",
+        "gridref": "SK065851",
+        "latitude": "53.363",
+        "longitude": "-1.904",
+        "elevation (ft)": "1250"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -1.916,
           53.402
         ]
@@ -61872,6 +62187,48 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -1.886,
+          53.394
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "HAYFIELD-SANDY-HEYS",
+        "county": "Derbyshire",
+        "gridref": "SK077886",
+        "latitude": "53.394",
+        "longitude": "-1.886",
+        "elevation (ft)": "1500"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.889,
+          53.401
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "HAYFIELD-SANDY-HEYS",
+        "county": "Derbyshire",
+        "gridref": "SK075894",
+        "latitude": "53.401",
+        "longitude": "-1.889",
+        "elevation (ft)": "2040"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -1.916,
           53.378
         ]
@@ -61970,6 +62327,27 @@
         "latitude": "52.079",
         "longitude": "-1.047",
         "elevation (ft)": "441"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.504,
+          53.01
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "HAZELWOOD-CHEVIN",
+        "county": "Derbyshire",
+        "gridref": "SK334460",
+        "latitude": "53.010",
+        "longitude": "-1.504",
+        "elevation (ft)": "503"
       }
     },
     {
@@ -64406,6 +64784,27 @@
         "latitude": "53.546",
         "longitude": "-1.788",
         "elevation (ft)": "830"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.589,
+          53.29
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "HOLMESFIELD-BARBROOK-RES",
+        "county": "Derbyshire",
+        "gridref": "SK275771",
+        "latitude": "53.290",
+        "longitude": "-1.589",
+        "elevation (ft)": "1080"
       }
     },
     {
@@ -71042,6 +71441,27 @@
         "latitude": "54.169",
         "longitude": "-1.742",
         "elevation (ft)": "1118"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.917,
+          54.276
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "KIRKBY-MOORSIDE-RAVENSWYKE",
+        "county": "Yorkshire North Riding",
+        "gridref": "SE706873",
+        "latitude": "54.276",
+        "longitude": "-0.917",
+        "elevation (ft)": "260"
       }
     },
     {
@@ -85195,7 +85615,7 @@
         "gridref": "NO327036",
         "latitude": "56.220",
         "longitude": "-3.087",
-        "elevation (ft)": "-999999"
+        "elevation (ft)": "293"
       }
     },
     {
@@ -85749,6 +86169,48 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -1.564,
+          53.122
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "MATLOCK-BATH-LOWER-TOWER",
+        "county": "Derbyshire",
+        "gridref": "SK293584",
+        "latitude": "53.122",
+        "longitude": "-1.564",
+        "elevation (ft)": "500"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.551,
+          53.144
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "MATLOCK-ROCKSIDE",
+        "county": "Derbyshire",
+        "gridref": "SK301609",
+        "latitude": "53.144",
+        "longitude": "-1.551",
+        "elevation (ft)": "637"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -2.986,
           54.594
         ]
@@ -86057,6 +86519,48 @@
         "latitude": "56.582",
         "longitude": "-3.163",
         "elevation (ft)": "203"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.429,
+          52.825
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "MELBOURNE-THE-GRANGE",
+        "county": "Derbyshire",
+        "gridref": "SK386254",
+        "latitude": "52.825",
+        "longitude": "-1.429",
+        "elevation (ft)": "180"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.424,
+          52.82
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "MELBOURNE-VICARAGE",
+        "county": "Derbyshire",
+        "gridref": "SK389249",
+        "latitude": "52.820",
+        "longitude": "-1.424",
+        "elevation (ft)": "180"
       }
     },
     {
@@ -96669,6 +97173,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -3.28,
+          50.751
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "OTTERY-ST-MARY-BROAD-STREET",
+        "county": "Devon",
+        "gridref": "SY098954",
+        "latitude": "50.751",
+        "longitude": "-3.280",
+        "elevation (ft)": "170"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -6.345,
           52.529
         ]
@@ -100841,6 +101366,27 @@
         "latitude": "50.368",
         "longitude": "-4.154",
         "elevation (ft)": "30"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.133,
+          50.373
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "PLYMOUTH-NAVIGATION-SCHOOL",
+        "county": "Devon",
+        "gridref": "SX484547",
+        "latitude": "50.373",
+        "longitude": "-4.133",
+        "elevation (ft)": "75"
       }
     },
     {
@@ -108513,6 +109059,48 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -3.78,
+          50.232
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "SALCOMBE-FAIRHAVEN",
+        "county": "Devon",
+        "gridref": "SX731383",
+        "latitude": "50.232",
+        "longitude": "-3.780",
+        "elevation (ft)": "150"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.784,
+          50.234
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "SALCOMBE-FAIRHAVEN",
+        "county": "Devon",
+        "gridref": "SX728386",
+        "latitude": "50.234",
+        "longitude": "-3.784",
+        "elevation (ft)": "210"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -3.708,
           50.213
         ]
@@ -108527,6 +109115,69 @@
         "latitude": "50.213",
         "longitude": "-3.708",
         "elevation (ft)": "350"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.779,
+          50.23
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "SALCOMBE-SANDHILLS",
+        "county": "Devon",
+        "gridref": "SX732381",
+        "latitude": "50.230",
+        "longitude": "-3.779",
+        "elevation (ft)": "118"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.781,
+          50.228
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "SALCOMBE-SHADYCOMBE",
+        "county": "Devon",
+        "gridref": "SX730379",
+        "latitude": "50.228",
+        "longitude": "-3.781",
+        "elevation (ft)": "61"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.77,
+          50.24
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "SALCOMBE-SHADYCOMBE",
+        "county": "Devon",
+        "gridref": "SX738392",
+        "latitude": "50.240",
+        "longitude": "-3.770",
+        "elevation (ft)": "20"
       }
     },
     {
@@ -109178,6 +109829,27 @@
         "latitude": "54.109",
         "longitude": "-4.585",
         "elevation (ft)": "250"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.359,
+          49.432
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "SARK-PARSONAGE",
+        "county": "Sark",
+        "gridref": "WV465757",
+        "latitude": "49.432",
+        "longitude": "-2.359",
+        "elevation (ft)": "340"
       }
     },
     {
@@ -110676,6 +111348,48 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -4.022,
+          50.495
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "SHEEPSTOR",
+        "county": "Devon",
+        "gridref": "SX566680",
+        "latitude": "50.495",
+        "longitude": "-4.022",
+        "elevation (ft)": "1160"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.017,
+          50.497
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "SHEEPSTOR",
+        "county": "Devon",
+        "gridref": "SX570683",
+        "latitude": "50.497",
+        "longitude": "-4.017",
+        "elevation (ft)": "1024"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -4.041,
           50.494
         ]
@@ -110732,6 +111446,27 @@
         "latitude": "50.496",
         "longitude": "-4.034",
         "elevation (ft)": "760"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.032,
+          50.49
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "SHEEPSTOR-VICARAGE",
+        "county": "Devon",
+        "gridref": "SX559676",
+        "latitude": "50.490",
+        "longitude": "-4.032",
+        "elevation (ft)": "730"
       }
     },
     {
@@ -112041,6 +112776,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -3.227,
+          50.726
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "SIDBURY-MANOR-HOUSE",
+        "county": "Devon",
+        "gridref": "SY134926",
+        "latitude": "50.726",
+        "longitude": "-3.227",
+        "elevation (ft)": "350"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -2.822,
           51.312
         ]
@@ -112097,6 +112853,27 @@
         "latitude": "53.236",
         "longitude": "-2.205",
         "elevation (ft)": "377"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.241,
+          50.679
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "SIDMOUTH-UDC",
+        "county": "Devon",
+        "gridref": "SY124873",
+        "latitude": "50.679",
+        "longitude": "-3.241",
+        "elevation (ft)": "25"
       }
     },
     {
@@ -112265,6 +113042,27 @@
         "latitude": "52.010",
         "longitude": "-0.412",
         "elevation (ft)": "195"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.454,
+          50.79
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "SILVERTON-KILLERTON",
+        "county": "Devon",
+        "gridref": "SS975000",
+        "latitude": "50.790",
+        "longitude": "-3.454",
+        "elevation (ft)": "159"
       }
     },
     {
@@ -114099,6 +114897,69 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -3.853,
+          50.44
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "SOUTH-BRENT-BADWORTHY",
+        "county": "Devon",
+        "gridref": "SX685617",
+        "latitude": "50.440",
+        "longitude": "-3.853",
+        "elevation (ft)": "550"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.847,
+          50.427
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "SOUTH-BRENT-BEECHFIELD",
+        "county": "Devon",
+        "gridref": "SX688602",
+        "latitude": "50.427",
+        "longitude": "-3.847",
+        "elevation (ft)": "500"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.847,
+          50.426
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "SOUTH-BRENT-BEECHFIELD",
+        "county": "Devon",
+        "gridref": "SX689600",
+        "latitude": "50.426",
+        "longitude": "-3.847",
+        "elevation (ft)": "450"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -5.172,
           54.979
         ]
@@ -114197,6 +115058,27 @@
         "latitude": "50.961",
         "longitude": "-3.752",
         "elevation (ft)": "580"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.728,
+          50.982
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "SOUTH-MOLTON-ROSE-ASH",
+        "county": "Devon",
+        "gridref": "SS788217",
+        "latitude": "50.982",
+        "longitude": "-3.728",
+        "elevation (ft)": "766"
       }
     },
     {
@@ -122184,6 +123066,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -3.489,
+          50.556
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "TEIGNMOUTH-BONNICLIFF",
+        "county": "Devon",
+        "gridref": "SX946740",
+        "latitude": "50.556",
+        "longitude": "-3.489",
+        "elevation (ft)": "260"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -3.496,
           50.545
         ]
@@ -122205,6 +123108,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -3.505,
+          50.561
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "TEIGNMOUTH-HAZELDOWN-RES",
+        "county": "Devon",
+        "gridref": "SX935745",
+        "latitude": "50.561",
+        "longitude": "-3.505",
+        "elevation (ft)": "425"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -3.504,
           50.55
         ]
@@ -122219,6 +123143,27 @@
         "latitude": "50.550",
         "longitude": "-3.504",
         "elevation (ft)": "132"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.515,
+          50.532
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "TEIGNMOUTH-SHALDON-RES",
+        "county": "Devon",
+        "gridref": "SX927713",
+        "latitude": "50.532",
+        "longitude": "-3.515",
+        "elevation (ft)": "223"
       }
     },
     {
@@ -123927,6 +124872,153 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -3.501,
+          50.906
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "TIVERTON-BROOMHILL",
+        "county": "Devon",
+        "gridref": "SS945128",
+        "latitude": "50.906",
+        "longitude": "-3.501",
+        "elevation (ft)": "380"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.484,
+          50.967
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "TIVERTON-COVE",
+        "county": "Devon",
+        "gridref": "SS959196",
+        "latitude": "50.967",
+        "longitude": "-3.484",
+        "elevation (ft)": "450"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.417,
+          50.905
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "TIVERTON-HALBERTON",
+        "county": "Devon",
+        "gridref": "ST004126",
+        "latitude": "50.905",
+        "longitude": "-3.417",
+        "elevation (ft)": "240"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.491,
+          50.93
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "TIVERTON-HAYNE",
+        "county": "Devon",
+        "gridref": "SS952155",
+        "latitude": "50.930",
+        "longitude": "-3.491",
+        "elevation (ft)": "400"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.497,
+          50.932
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "TIVERTON-LYTHECOURT",
+        "county": "Devon",
+        "gridref": "SS948157",
+        "latitude": "50.932",
+        "longitude": "-3.497",
+        "elevation (ft)": "230"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.49,
+          50.903
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "TIVERTON-ST-PETER-STREET",
+        "county": "Devon",
+        "gridref": "SS953125",
+        "latitude": "50.903",
+        "longitude": "-3.490",
+        "elevation (ft)": "230"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.49,
+          50.905
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "TIVERTON-ST-PETER-STREET",
+        "county": "Devon",
+        "gridref": "SS953127",
+        "latitude": "50.905",
+        "longitude": "-3.490",
+        "elevation (ft)": "270"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -2.215,
           56.883
         ]
@@ -124305,6 +125397,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -3.911,
+          50.39
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "TORHILL-IVYBRIDGE",
+        "county": "Devon",
+        "gridref": "SX642562",
+        "latitude": "50.390",
+        "longitude": "-3.911",
+        "elevation (ft)": "270"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -0.746,
           53.3
         ]
@@ -124473,6 +125586,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -3.532,
+          50.472
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "TORQUAY-LAMORNA",
+        "county": "Devon",
+        "gridref": "SX913647",
+        "latitude": "50.472",
+        "longitude": "-3.532",
+        "elevation (ft)": "200"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -3.517,
           50.461
         ]
@@ -124487,6 +125621,111 @@
         "latitude": "50.461",
         "longitude": "-3.517",
         "elevation (ft)": "120"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.152,
+          50.952
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "TORRINGTON-ENFIELD",
+        "county": "Devon",
+        "gridref": "SS489191",
+        "latitude": "50.952",
+        "longitude": "-4.152",
+        "elevation (ft)": "336"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.154,
+          50.952
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "TORRINGTON-ENFIELD",
+        "county": "Devon",
+        "gridref": "SS487191",
+        "latitude": "50.952",
+        "longitude": "-4.154",
+        "elevation (ft)": "336"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.147,
+          50.95
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "TORRINGTON-ENFIELD",
+        "county": "Devon",
+        "gridref": "SS492189",
+        "latitude": "50.950",
+        "longitude": "-4.147",
+        "elevation (ft)": "273"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.15,
+          50.953
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "TORRINGTON-ENFIELD",
+        "county": "Devon",
+        "gridref": "SS490193",
+        "latitude": "50.953",
+        "longitude": "-4.150",
+        "elevation (ft)": "300"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.115,
+          50.955
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "TORRINGTON-LITTLE-SILVER",
+        "county": "Devon",
+        "gridref": "SS515194",
+        "latitude": "50.955",
+        "longitude": "-4.115",
+        "elevation (ft)": "395"
       }
     },
     {
@@ -131424,6 +132663,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -3.904,
+          51.066
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "WEST-BUCKLAND-SCHOOL",
+        "county": "Devon",
+        "gridref": "SS667314",
+        "latitude": "51.066",
+        "longitude": "-3.904",
+        "elevation (ft)": "650"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -1.972,
           54.28
         ]
@@ -132215,6 +133475,27 @@
         "latitude": "59.331",
         "longitude": "-3.070",
         "elevation (ft)": "190"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.223,
+          51.045
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "WESTWARD-HO-GOLF-CLUB",
+        "county": "Devon",
+        "gridref": "SS443297",
+        "latitude": "51.045",
+        "longitude": "-4.223",
+        "elevation (ft)": "10"
       }
     },
     {
@@ -134777,6 +136058,48 @@
         "latitude": "51.801",
         "longitude": "0.661",
         "elevation (ft)": "50"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.707,
+          50.913
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "WITHERIDGE",
+        "county": "Devon",
+        "gridref": "SS801140",
+        "latitude": "50.913",
+        "longitude": "-3.707",
+        "elevation (ft)": "600"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.703,
+          50.918
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "WITHERIDGE",
+        "county": "Devon",
+        "gridref": "SS804145",
+        "latitude": "50.918",
+        "longitude": "-3.703",
+        "elevation (ft)": "600"
       }
     },
     {
