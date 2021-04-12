@@ -1,9 +1,9 @@
-Generation time: Saturday 10/04/2021 09:10:35 BST
+Generation time: Monday 12/04/2021 09:01:15 BST
 
 
 [MO-2020] indicates a location which contributed to the [Met Office 2020 UK Climate Report](https://www.metoffice.gov.uk/research/climate/maps-and-data/about/state-of-climate):
 
-6096 locations under [https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA):
+6100 locations under [https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA):
 
 * [ABBEY-CWMHIR-THE-HALL](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/ABBEY-CWMHIR-THE-HALL)
 * [ABBEY-LEIX-BLANDSFORT](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/ABBEY-LEIX-BLANDSFORT)
@@ -812,7 +812,9 @@ Generation time: Saturday 10/04/2021 09:10:35 BST
 * [BRECHFA](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/BRECHFA)
 * [BRECHIN-STRACATHRO-GDNS](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/BRECHIN-STRACATHRO-GDNS)
 * [BRECHIN-THE-BURN](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/BRECHIN-THE-BURN)
+* [BRECON-CANTREFF-RECTORY](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/BRECON-CANTREFF-RECTORY)
 * [BRECON-FFRWDGRECH](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/BRECON-FFRWDGRECH)
+* [BRECON-LLANDEFAELOG-FACH-RECT](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/BRECON-LLANDEFAELOG-FACH-RECT)
 * [BRECON-TAIRBULL-SCHOOL](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/BRECON-TAIRBULL-SCHOOL)
 * [BREDE-PUMPING-STATION](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/BREDE-PUMPING-STATION)
 * [BRENTWOOD-SAWYERS-HALL-FARM](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/BRENTWOOD-SAWYERS-HALL-FARM)
@@ -936,6 +938,7 @@ Generation time: Saturday 10/04/2021 09:10:35 BST
 * [BUILTH-LLANWRTYD-WELLS](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/BUILTH-LLANWRTYD-WELLS)
 * [BUILTH-PENCERRIG](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/BUILTH-PENCERRIG)
 * [BUILTH-WELLS-ST-JOHNS-VICARAGE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/BUILTH-WELLS-ST-JOHNS-VICARAGE)
+* [BUILTH-WELLS-TYN-Y-BERLLAN](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/BUILTH-WELLS-TYN-Y-BERLLAN)
 * [BULWELL-BESTWOOD](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/BULWELL-BESTWOOD)
 * [BULWELL-HALL-PARK](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/BULWELL-HALL-PARK)
 * [BULWELL-SPRINGFIELD](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/BULWELL-SPRINGFIELD)
@@ -1087,7 +1090,7 @@ Generation time: Saturday 10/04/2021 09:10:35 BST
 * [CARDIFF-WW-CEFN-GOUGARN](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/CARDIFF-WW-CEFN-GOUGARN)
 * [CARDIFF-WW-GARW-NANT](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/CARDIFF-WW-GARW-NANT)
 * [CARDIFF-WW-LLWYNON-RES](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/CARDIFF-WW-LLWYNON-RES)
-* [CARDIFF-WW-NANT-GWINELL](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/CARDIFF-WW-NANT-GWINELL)
+* [CARDIFF-WW-NANT-GWINEU](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/CARDIFF-WW-NANT-GWINEU)
 * [CARDIFF-WW-NANT-PENIG](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/CARDIFF-WW-NANT-PENIG)
 * [CARDIFF-WW-STOREY-ARMS](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/CARDIFF-WW-STOREY-ARMS)
 * [CARDIGAN-COUNTY-SCHOOL](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/CARDIGAN-COUNTY-SCHOOL)
@@ -3522,6 +3525,7 @@ Generation time: Saturday 10/04/2021 09:10:35 BST
 * [LLANTRISANT-TALYGARN](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/LLANTRISANT-TALYGARN)
 * [LLANUWCHLLYN-PLAS-DEON](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/LLANUWCHLLYN-PLAS-DEON)
 * [LLANWRDA-DOLAUCOTHY](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/LLANWRDA-DOLAUCOTHY)
+* [LLANWRTYD-WELLS-LLANDULAS](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/LLANWRTYD-WELLS-LLANDULAS)
 * [LLANYBYTHER-SANATORIUM](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/LLANYBYTHER-SANATORIUM)
 * [LLANYMYNECH-PENTREHEYLIN-HALL](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/LLANYMYNECH-PENTREHEYLIN-HALL)
 * [LLIGWY](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/LLIGWY)
@@ -5161,7 +5165,6 @@ Generation time: Saturday 10/04/2021 09:10:35 BST
 * [STAMFORD](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/STAMFORD)
 * [STAMFORD-BARN-HILL-HOUSE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/STAMFORD-BARN-HILL-HOUSE)
 * [STAMFORDHAM](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/STAMFORDHAM)
-* [STANCLIFFE-HALL](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/STANCLIFFE-HALL)
 * [STANDEDGE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/STANDEDGE)
 * [STANDEDGE-CASTLE-SHAW-BROADHEAD](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/STANDEDGE-CASTLE-SHAW-BROADHEAD)
 * [STANDEDGE-CASTLESHAW-CUDWORTH](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/STANDEDGE-CASTLESHAW-CUDWORTH)
@@ -6100,9 +6103,10 @@ Generation time: Saturday 10/04/2021 09:10:35 BST
 * [YSTALYFERA-MIX](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/YSTALYFERA-MIX)
 * [YSTALYFERA-WERN-HOUSE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/YSTALYFERA-WERN-HOUSE)
 * [YSTRADFELLTE-RES](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/YSTRADFELLTE-RES)
+* [YSTRADGYNLAIS-YNISCEDWYN-HO](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/YSTRADGYNLAIS-YNISCEDWYN-HO)
 * [YSTRADYFODWG-FYNTYLA-HOSPITAL](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/YSTRADYFODWG-FYNTYLA-HOSPITAL)
 
-84 locations under [https://github.com/ed-hawkins/rainfall-rescue/tree/master/POOR-LOCATIONS](https://github.com/ed-hawkins/rainfall-rescue/tree/master/POOR-LOCATIONS):
+85 locations under [https://github.com/ed-hawkins/rainfall-rescue/tree/master/POOR-LOCATIONS](https://github.com/ed-hawkins/rainfall-rescue/tree/master/POOR-LOCATIONS):
 
 * [ABERDEEN](https://github.com/ed-hawkins/rainfall-rescue/tree/master/POOR-LOCATIONS/ABERDEEN)
 * [ABERDOVEY](https://github.com/ed-hawkins/rainfall-rescue/tree/master/POOR-LOCATIONS/ABERDOVEY)
@@ -6178,6 +6182,7 @@ Generation time: Saturday 10/04/2021 09:10:35 BST
 * [SNOWDON-GLASLYN](https://github.com/ed-hawkins/rainfall-rescue/tree/master/POOR-LOCATIONS/SNOWDON-GLASLYN)
 * [SNOWDON-PEN-Y-GWRYD](https://github.com/ed-hawkins/rainfall-rescue/tree/master/POOR-LOCATIONS/SNOWDON-PEN-Y-GWRYD)
 * [SOUTHGATE-THE-LAWNS-MODERN](https://github.com/ed-hawkins/rainfall-rescue/tree/master/POOR-LOCATIONS/SOUTHGATE-THE-LAWNS-MODERN)
+* [STANCLIFFE-HALL](https://github.com/ed-hawkins/rainfall-rescue/tree/master/POOR-LOCATIONS/STANCLIFFE-HALL)
 * [STOCKTON-ON-TEES](https://github.com/ed-hawkins/rainfall-rescue/tree/master/POOR-LOCATIONS/STOCKTON-ON-TEES)
 * [STROUD](https://github.com/ed-hawkins/rainfall-rescue/tree/master/POOR-LOCATIONS/STROUD)
 * [TORQUAY](https://github.com/ed-hawkins/rainfall-rescue/tree/master/POOR-LOCATIONS/TORQUAY)

@@ -2190,6 +2190,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -3.137,
+          51.093
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "AISHOLT-TIMBERCOMBE",
+        "county": "Somerset",
+        "gridref": "ST205332",
+        "latitude": "51.093",
+        "longitude": "-3.137",
+        "elevation (ft)": "700"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -0.673,
           54.466
         ]
@@ -2876,6 +2897,48 @@
         "latitude": "54.829",
         "longitude": "-2.232",
         "elevation (ft)": "1353"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.803,
+          56.11
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "ALLOA-CLACKMANNAN",
+        "county": "Clackmannanshire",
+        "gridref": "NS8796692323",
+        "latitude": "56.110",
+        "longitude": "-3.803",
+        "elevation (ft)": "3"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.793,
+          56.115
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "ALLOA-CLACKMANNAN",
+        "county": "Clackmannanshire",
+        "gridref": "NS8862592859",
+        "latitude": "56.115",
+        "longitude": "-3.793",
+        "elevation (ft)": "61"
       }
     },
     {
@@ -3611,6 +3674,27 @@
         "latitude": "53.386",
         "longitude": "-2.355",
         "elevation (ft)": "150"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.776,
+          56.157
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "ALVA-HOUSE",
+        "county": "Clackmannanshire",
+        "gridref": "NS898974",
+        "latitude": "56.157",
+        "longitude": "-3.776",
+        "elevation (ft)": "180"
       }
     },
     {
@@ -14286,6 +14370,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -1.251,
+          50.963
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "BISHOPS-WALTHAM-WINTERSHILL-HALL",
+        "county": "Hampshire",
+        "gridref": "SU527184",
+        "latitude": "50.963",
+        "longitude": "-1.251",
+        "elevation (ft)": "253"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -1.386,
           54.909
         ]
@@ -14363,6 +14468,90 @@
         "latitude": "60.320",
         "longitude": "-1.442",
         "elevation (ft)": "25"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.099,
+          51.951
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "BLACK-MOUNTAINS-BLAEN-Y-CWM",
+        "county": "Brecknockshire",
+        "gridref": "SO250286",
+        "latitude": "51.951",
+        "longitude": "-3.099",
+        "elevation (ft)": "1289"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.099,
+          51.959
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "BLACK-MOUNTAINS-BLAEN-Y-CWM",
+        "county": "Brecknockshire",
+        "gridref": "SO246295",
+        "latitude": "51.959",
+        "longitude": "-3.099",
+        "elevation (ft)": "1423"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.118,
+          51.969
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "BLACK-MOUNTAINS-THE-DAM-GRWYNE-FAWR",
+        "county": "Brecknockshire",
+        "gridref": "SO233307",
+        "latitude": "51.969",
+        "longitude": "-3.118",
+        "elevation (ft)": "1787"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.119,
+          51.976
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "BLACK-MOUNTAINS-THE-DAM-GRWYNE-FAWR",
+        "county": "Brecknockshire",
+        "gridref": "SO232314",
+        "latitude": "51.976",
+        "longitude": "-3.119",
+        "elevation (ft)": "2150"
       }
     },
     {
@@ -14846,6 +15035,48 @@
         "latitude": "51.776",
         "longitude": "-3.091",
         "elevation (ft)": "1144"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.081,
+          51.769
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "BLAENAVON-GAS-WORKS",
+        "county": "Monmouthshire",
+        "gridref": "SO255084",
+        "latitude": "51.769",
+        "longitude": "-3.081",
+        "elevation (ft)": "980"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.078,
+          51.771
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "BLAENAVON-GAS-WORKS",
+        "county": "Monmouthshire",
+        "gridref": "SO257086",
+        "latitude": "51.771",
+        "longitude": "-3.078",
+        "elevation (ft)": "1030"
       }
     },
     {
@@ -18948,6 +19179,48 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -3.414,
+          51.933
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "BRECON-FFRWDGRECH",
+        "county": "Brecknockshire",
+        "gridref": "SO029270",
+        "latitude": "51.933",
+        "longitude": "-3.414",
+        "elevation (ft)": "570"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.461,
+          51.924
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "BRECON-TAIRBULL-SCHOOL",
+        "county": "Brecknockshire",
+        "gridref": "SN996261",
+        "latitude": "51.924",
+        "longitude": "-3.461",
+        "elevation (ft)": "660"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           0.58,
           50.931
         ]
@@ -21363,6 +21636,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -3.646,
+          52.109
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "BUILTH-LLANWRTYD-WELLS",
+        "county": "Brecknockshire",
+        "gridref": "SN874469",
+        "latitude": "52.109",
+        "longitude": "-3.646",
+        "elevation (ft)": "680"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -3.404,
           52.174
         ]
@@ -23127,6 +23421,48 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -1.922,
+          53.273
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "BUXTON-LIGHTWOOD",
+        "county": "Derbyshire",
+        "gridref": "SK053751",
+        "latitude": "53.273",
+        "longitude": "-1.922",
+        "elevation (ft)": "1300"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.92,
+          53.272
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "BUXTON-LIGHTWOOD",
+        "county": "Derbyshire",
+        "gridref": "SK054750",
+        "latitude": "53.272",
+        "longitude": "-1.920",
+        "elevation (ft)": "1191"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -1.954,
           53.238
         ]
@@ -24723,6 +25059,216 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -3.472,
+          51.859
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "CARDIFF-WW-BEACONS-RES",
+        "county": "Brecknockshire",
+        "gridref": "SN987188",
+        "latitude": "51.859",
+        "longitude": "-3.472",
+        "elevation (ft)": "1340"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.472,
+          51.862
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "CARDIFF-WW-BEACONS-RES",
+        "county": "Brecknockshire",
+        "gridref": "SN987192",
+        "latitude": "51.862",
+        "longitude": "-3.472",
+        "elevation (ft)": "1357"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.455,
+          51.863
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "CARDIFF-WW-BEACONS-RES",
+        "county": "Brecknockshire",
+        "gridref": "SN999193",
+        "latitude": "51.863",
+        "longitude": "-3.455",
+        "elevation (ft)": "2350"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.46,
+          51.827
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "CARDIFF-WW-CANTREF-RES",
+        "county": "Brecknockshire",
+        "gridref": "SN995153",
+        "latitude": "51.827",
+        "longitude": "-3.460",
+        "elevation (ft)": "1080"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.47,
+          51.828
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "CARDIFF-WW-CEFN-GOUGARN",
+        "county": "Brecknockshire",
+        "gridref": "SN988154",
+        "latitude": "51.828",
+        "longitude": "-3.470",
+        "elevation (ft)": "1300"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.473,
+          51.824
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "CARDIFF-WW-CEFN-GOUGARN",
+        "county": "Brecknockshire",
+        "gridref": "SN986150",
+        "latitude": "51.824",
+        "longitude": "-3.473",
+        "elevation (ft)": "1362"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.461,
+          51.808
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "CARDIFF-WW-GARW-NANT",
+        "county": "Brecknockshire",
+        "gridref": "SN994132",
+        "latitude": "51.808",
+        "longitude": "-3.461",
+        "elevation (ft)": "1100"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.434,
+          51.792
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "CARDIFF-WW-LLWYNON-RES",
+        "county": "Brecknockshire",
+        "gridref": "SO012113",
+        "latitude": "51.792",
+        "longitude": "-3.434",
+        "elevation (ft)": "860"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.434,
+          51.793
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "CARDIFF-WW-LLWYNON-RES",
+        "county": "Brecknockshire",
+        "gridref": "SO012115",
+        "latitude": "51.793",
+        "longitude": "-3.434",
+        "elevation (ft)": "860"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.427,
+          51.809
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "CARDIFF-WW-NANT-GWINEU",
+        "county": "Brecknockshire",
+        "gridref": "SO017132",
+        "latitude": "51.809",
+        "longitude": "-3.427",
+        "elevation (ft)": "1275"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -3.487,
           51.861
         ]
@@ -24737,6 +25283,48 @@
         "latitude": "51.861",
         "longitude": "-3.487",
         "elevation (ft)": "2000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.466,
+          51.876
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "CARDIFF-WW-STOREY-ARMS",
+        "county": "Brecknockshire",
+        "gridref": "SN992207",
+        "latitude": "51.876",
+        "longitude": "-3.466",
+        "elevation (ft)": "1675"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.474,
+          51.869
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "CARDIFF-WW-STOREY-ARMS",
+        "county": "Brecknockshire",
+        "gridref": "SN986200",
+        "latitude": "51.869",
+        "longitude": "-3.474",
+        "elevation (ft)": "1430"
       }
     },
     {
@@ -24905,6 +25493,27 @@
         "latitude": "55.174",
         "longitude": "-3.071",
         "elevation (ft)": "1164"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.488,
+          52.225
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "CARLETON-HALL-SAXMUNDHAM",
+        "county": "Suffolk",
+        "gridref": "TM383643",
+        "latitude": "52.225",
+        "longitude": "1.488",
+        "elevation (ft)": "50"
       }
     },
     {
@@ -25269,6 +25878,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          0.406,
+          52.156
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "CARLTON-HALL-CAMBRIDGE",
+        "county": "Cambridgeshire",
+        "gridref": "TL647536",
+        "latitude": "52.156",
+        "longitude": "0.406",
+        "elevation (ft)": "290"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -0.649,
           53.112
         ]
@@ -25619,6 +26249,27 @@
         "latitude": "56.500",
         "longitude": "-2.719",
         "elevation (ft)": "19"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.496,
+          55.588
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "CARRADALE-SADDELL-MANOR",
+        "county": "Argyll",
+        "gridref": "NR798382",
+        "latitude": "55.588",
+        "longitude": "-5.496",
+        "elevation (ft)": "25"
       }
     },
     {
@@ -27341,6 +27992,27 @@
         "latitude": "51.855",
         "longitude": "-1.498",
         "elevation (ft)": "420"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.458,
+          50.738
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "CHARMINSTER-BROOKLANDS",
+        "county": "Dorset",
+        "gridref": "SY678933",
+        "latitude": "50.738",
+        "longitude": "-2.458",
+        "elevation (ft)": "200"
       }
     },
     {
@@ -32073,6 +32745,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          0.073,
+          51.083
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "COLEMANS-HATCH-HOLLY-HILL",
+        "county": "Sussex",
+        "gridref": "TQ4532933548",
+        "latitude": "51.083",
+        "longitude": "0.073",
+        "elevation (ft)": "355"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -6.679,
           55.132
         ]
@@ -34236,6 +34929,48 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -3.608,
+          51.906
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "CRAY-POST-OFFICE",
+        "county": "Brecknockshire",
+        "gridref": "SN895243",
+        "latitude": "51.906",
+        "longitude": "-3.608",
+        "elevation (ft)": "930"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.606,
+          51.904
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "CRAY-POST-OFFICE",
+        "county": "Brecknockshire",
+        "gridref": "SN896241",
+        "latitude": "51.904",
+        "longitude": "-3.606",
+        "elevation (ft)": "940"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -2.809,
           52.088
         ]
@@ -34502,6 +35237,48 @@
         "latitude": "51.868",
         "longitude": "-3.144",
         "elevation (ft)": "393"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.182,
+          51.873
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "CRICKHOWELL-PENMYARTH",
+        "county": "Brecknockshire",
+        "gridref": "SO187200",
+        "latitude": "51.873",
+        "longitude": "-3.182",
+        "elevation (ft)": "330"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.128,
+          51.926
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "CRICKHOWELL-TAL-Y-MAES",
+        "county": "Brecknockshire",
+        "gridref": "SO225259",
+        "latitude": "51.926",
+        "longitude": "-3.128",
+        "elevation (ft)": "1250"
       }
     },
     {
@@ -39381,6 +40158,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -3.66,
+          56.149
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "DOLLAR-DOLLARBEG",
+        "county": "Clackmannanshire",
+        "gridref": "NS970964",
+        "latitude": "56.149",
+        "longitude": "-3.660",
+        "elevation (ft)": "265"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -4.031,
           50.891
         ]
@@ -43056,6 +43854,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -4.745,
+          58.561
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "DURNESS",
+        "county": "Sutherland",
+        "gridref": "NC404669",
+        "latitude": "58.561",
+        "longitude": "-4.745",
+        "elevation (ft)": "100"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -5.274,
           56.647
         ]
@@ -44442,6 +45261,48 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -3.216,
+          51.815
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "EBBW-VALE-WW-CARNO-E",
+        "county": "Brecknockshire",
+        "gridref": "SO163136",
+        "latitude": "51.815",
+        "longitude": "-3.216",
+        "elevation (ft)": "1391"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.222,
+          51.819
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "EBBW-VALE-WW-CARNO-N",
+        "county": "Brecknockshire",
+        "gridref": "SO159141",
+        "latitude": "51.819",
+        "longitude": "-3.222",
+        "elevation (ft)": "1491"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -3.214,
           51.808
         ]
@@ -44456,6 +45317,48 @@
         "latitude": "51.808",
         "longitude": "-3.214",
         "elevation (ft)": "1262"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.226,
+          51.811
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "EBBW-VALE-WW-CARNO-W",
+        "county": "Brecknockshire",
+        "gridref": "SO156132",
+        "latitude": "51.811",
+        "longitude": "-3.226",
+        "elevation (ft)": "1412"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.233,
+          51.821
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "EBBW-VALE-WW-LLANGYNIDR-NW2",
+        "county": "Brecknockshire",
+        "gridref": "SO151143",
+        "latitude": "51.821",
+        "longitude": "-3.233",
+        "elevation (ft)": "1471"
       }
     },
     {
@@ -53892,6 +54795,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -3.671,
+          56.221
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "GLENDEVON-BACKHILL",
+        "county": "Clackmannanshire",
+        "gridref": "NN965044",
+        "latitude": "56.221",
+        "longitude": "-3.671",
+        "elevation (ft)": "1067"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -3.731,
           56.22
         ]
@@ -53906,6 +54830,69 @@
         "latitude": "56.220",
         "longitude": "-3.731",
         "elevation (ft)": "1262"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.753,
+          56.212
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "GLENDEVON-BROICH-BURN",
+        "county": "Clackmannanshire",
+        "gridref": "NN914035",
+        "latitude": "56.212",
+        "longitude": "-3.753",
+        "elevation (ft)": "1333"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.773,
+          56.212
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "GLENDEVON-BURNFOOT-HILL",
+        "county": "Clackmannanshire",
+        "gridref": "NN901036",
+        "latitude": "56.212",
+        "longitude": "-3.773",
+        "elevation (ft)": "1721"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.762,
+          56.213
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "GLENDEVON-BURNFOOT-HILL",
+        "county": "Clackmannanshire",
+        "gridref": "NN908037",
+        "latitude": "56.213",
+        "longitude": "-3.762",
+        "elevation (ft)": "1250"
       }
     },
     {
@@ -78693,6 +79680,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -3.545,
+          51.994
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "LLANFIHANGEL-NANT-BRAN-CWMCYNOG",
+        "county": "Brecknockshire",
+        "gridref": "SN940340",
+        "latitude": "51.994",
+        "longitude": "-3.545",
+        "elevation (ft)": "790"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -3.203,
           52.215
         ]
@@ -78777,6 +79785,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -3.345,
+          51.923
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "LLANFYNACH-TY-MAWR",
+        "county": "Brecknockshire",
+        "gridref": "SO076258",
+        "latitude": "51.923",
+        "longitude": "-3.345",
+        "elevation (ft)": "450"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -4.417,
           53.179
         ]
@@ -78791,6 +79820,27 @@
         "latitude": "53.179",
         "longitude": "-4.417",
         "elevation (ft)": "100"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.541,
+          52.118
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "LLANGAMMARCH-WELLS",
+        "county": "Brecknockshire",
+        "gridref": "SN946477",
+        "latitude": "52.118",
+        "longitude": "-3.541",
+        "elevation (ft)": "450"
       }
     },
     {
@@ -87072,6 +88122,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -3.858,
+          56.154
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "MENSTRIE-LIPNEY-FILTERS",
+        "county": "Clackmannanshire",
+        "gridref": "NS847973",
+        "latitude": "56.154",
+        "longitude": "-3.858",
+        "elevation (ft)": "328"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -4.247,
           56.151
         ]
@@ -87107,6 +88178,27 @@
         "latitude": "51.086",
         "longitude": "-2.240",
         "elevation (ft)": "426"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.481,
+          52.026
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "MERTHYR-CYNOG",
+        "county": "Brecknockshire",
+        "gridref": "SN985374",
+        "latitude": "52.026",
+        "longitude": "-3.481",
+        "elevation (ft)": "1050"
       }
     },
     {
@@ -87296,6 +88388,27 @@
         "latitude": "51.261",
         "longitude": "-0.320",
         "elevation (ft)": "179"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.548,
+          52.903
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "MICKLEOVER",
+        "county": "Derbyshire",
+        "gridref": "SK305341",
+        "latitude": "52.903",
+        "longitude": "-1.548",
+        "elevation (ft)": "310"
       }
     },
     {
@@ -105237,6 +106350,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -1.552,
+          52.84
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "REPTON-THE-CROFT",
+        "county": "Derbyshire",
+        "gridref": "SK303270",
+        "latitude": "52.840",
+        "longitude": "-1.552",
+        "elevation (ft)": "170"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -0.942,
           53.32
         ]
@@ -109248,6 +110382,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -1.787,
+          51.075
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "SALISBURY-ATHERTON-HOUSE",
+        "county": "Wiltshire",
+        "gridref": "SU150307",
+        "latitude": "51.075",
+        "longitude": "-1.787",
+        "elevation (ft)": "250"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -1.793,
           51.068
         ]
@@ -110375,6 +111530,27 @@
         "latitude": "55.449",
         "longitude": "-4.641",
         "elevation (ft)": "15"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.12,
+          50.777
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "SEAFORD-NEWLANDS",
+        "county": "Sussex",
+        "gridref": "TV496996",
+        "latitude": "50.777",
+        "longitude": "0.120",
+        "elevation (ft)": "150"
       }
     },
     {
@@ -116052,6 +117228,48 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -4.916,
+          56.84
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "SPEAN-BRIDGE-THE-COUR",
+        "county": "Inverness",
+        "gridref": "NN222758",
+        "latitude": "56.840",
+        "longitude": "-4.916",
+        "elevation (ft)": "1850"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.906,
+          56.845
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "SPEAN-BRIDGE-THE-COUR",
+        "county": "Inverness",
+        "gridref": "NN2287476333",
+        "latitude": "56.845",
+        "longitude": "-4.906",
+        "elevation (ft)": "710"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           0.219,
           51.15
         ]
@@ -116213,6 +117431,27 @@
         "latitude": "53.967",
         "longitude": "-1.436",
         "elevation (ft)": "184"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.423,
+          52.912
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "SPONDON-DERBY-SEWAGE-WORKS",
+        "county": "Derbyshire",
+        "gridref": "SK389351",
+        "latitude": "52.912",
+        "longitude": "-1.423",
+        "elevation (ft)": "135"
       }
     },
     {
@@ -117893,6 +119132,27 @@
         "latitude": "55.042",
         "longitude": "-1.883",
         "elevation (ft)": "422"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.602,
+          53.172
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "STANCLIFFE-HALL",
+        "county": "Derbyshire",
+        "gridref": "SK267639",
+        "latitude": "53.172",
+        "longitude": "-1.602",
+        "elevation (ft)": "530"
       }
     },
     {
@@ -120042,6 +121302,48 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -4.53,
+          57.964
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "STRATH-OYKELL-ROSEHALL",
+        "county": "Sutherland",
+        "gridref": "NC504000",
+        "latitude": "57.964",
+        "longitude": "-4.530",
+        "elevation (ft)": "250"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.594,
+          57.983
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "STRATH-OYKELL-ROSEHALL",
+        "county": "Sutherland",
+        "gridref": "NC467023",
+        "latitude": "57.983",
+        "longitude": "-4.594",
+        "elevation (ft)": "250"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -3.685,
           56.649
         ]
@@ -121008,6 +122310,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -1.213,
+          53.185
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "STUFFYNWOOD-HALL-MANSFIELD",
+        "county": "Derbyshire",
+        "gridref": "SK527656",
+        "latitude": "53.185",
+        "longitude": "-1.213",
+        "elevation (ft)": "389"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -2.077,
           50.791
         ]
@@ -121148,6 +122471,27 @@
         "latitude": "52.036",
         "longitude": "0.728",
         "elevation (ft)": "93"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.767,
+          52.885
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "SUDBURY-HALL",
+        "county": "Derbyshire",
+        "gridref": "SK158320",
+        "latitude": "52.885",
+        "longitude": "-1.767",
+        "elevation (ft)": "225"
       }
     },
     {
@@ -125838,6 +127182,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -1.541,
+          53.312
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "TOTLEY-HALL",
+        "county": "Derbyshire",
+        "gridref": "SK307795",
+        "latitude": "53.312",
+        "longitude": "-1.541",
+        "elevation (ft)": "640"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -3.65,
           50.437
         ]
@@ -126566,6 +127931,27 @@
         "latitude": "51.683",
         "longitude": "-3.546",
         "elevation (ft)": "801"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.285,
+          52.899
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "TRENT-COLLEGE",
+        "county": "Derbyshire",
+        "gridref": "SK482338",
+        "latitude": "52.899",
+        "longitude": "-1.285",
+        "elevation (ft)": "1912"
       }
     },
     {
@@ -133160,6 +134546,48 @@
         "latitude": "51.484",
         "longitude": "-2.618",
         "elevation (ft)": "243"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.782,
+          53.437
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "WESTEND-MOOR-BLACKLOW-COTE",
+        "county": "Derbyshire",
+        "gridref": "SK146934",
+        "latitude": "53.437",
+        "longitude": "-1.782",
+        "elevation (ft)": "970"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.783,
+          53.439
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "WESTEND-MOOR-BLACKLOW-COTE",
+        "county": "Derbyshire",
+        "gridref": "SK145936",
+        "latitude": "53.439",
+        "longitude": "-1.783",
+        "elevation (ft)": "970"
       }
     },
     {
