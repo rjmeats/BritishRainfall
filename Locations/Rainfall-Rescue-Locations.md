@@ -1,9 +1,9 @@
-Generation time: Monday 12/04/2021 09:01:15 BST
+Generation time: Monday 12/04/2021 19:45:22 BST
 
 
 [MO-2020] indicates a location which contributed to the [Met Office 2020 UK Climate Report](https://www.metoffice.gov.uk/research/climate/maps-and-data/about/state-of-climate):
 
-6100 locations under [https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA):
+6099 locations under [https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA):
 
 * [ABBEY-CWMHIR-THE-HALL](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/ABBEY-CWMHIR-THE-HALL)
 * [ABBEY-LEIX-BLANDSFORT](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/ABBEY-LEIX-BLANDSFORT)
@@ -5370,7 +5370,6 @@ Generation time: Monday 12/04/2021 09:01:15 BST
 * [TALGARTH-DAN-Y-GARTH](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/TALGARTH-DAN-Y-GARTH)
 * [TALGARTH-PONTIVAL-SANATORIUM](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/TALGARTH-PONTIVAL-SANATORIUM)
 * [TALYBONT-ASHFORD](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/TALYBONT-ASHFORD)
-* [TALYBONT-CUI](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/TALYBONT-CUI)
 * [TALYBONT-FFYNONWEN](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/TALYBONT-FFYNONWEN)
 * [TALYBONT-LLETTY-EVAN-LEN](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/TALYBONT-LLETTY-EVAN-LEN)
 * [TALYBONT-PWLL-IFOR](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/TALYBONT-PWLL-IFOR)
@@ -5534,7 +5533,7 @@ Generation time: Monday 12/04/2021 09:01:15 BST
 * [TRAWSFYNYDD-CWM-PRYSOR](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/TRAWSFYNYDD-CWM-PRYSOR)
 * [TRAWSFYNYDD-DARN-GAE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/TRAWSFYNYDD-DARN-GAE)
 * [TRAWSFYNYDD-TYN-TWLL](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/TRAWSFYNYDD-TYN-TWLL)
-* [TRECASTLE-BLAENAU-LYDFER](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/TRECASTLE-BLAENAU-LYDFER)
+* [TRECASTLE-BLAENAU-HYDFER](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/TRECASTLE-BLAENAU-HYDFER)
 * [TRECASTLE-LLYWEL-VIC](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/TRECASTLE-LLYWEL-VIC)
 * [TREDEGAR-BEDWELLTY-HOUSE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/TREDEGAR-BEDWELLTY-HOUSE)
 * [TREDEGAR-EBBW-VALE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/TREDEGAR-EBBW-VALE)
@@ -6106,7 +6105,7 @@ Generation time: Monday 12/04/2021 09:01:15 BST
 * [YSTRADGYNLAIS-YNISCEDWYN-HO](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/YSTRADGYNLAIS-YNISCEDWYN-HO)
 * [YSTRADYFODWG-FYNTYLA-HOSPITAL](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/YSTRADYFODWG-FYNTYLA-HOSPITAL)
 
-85 locations under [https://github.com/ed-hawkins/rainfall-rescue/tree/master/POOR-LOCATIONS](https://github.com/ed-hawkins/rainfall-rescue/tree/master/POOR-LOCATIONS):
+86 locations under [https://github.com/ed-hawkins/rainfall-rescue/tree/master/POOR-LOCATIONS](https://github.com/ed-hawkins/rainfall-rescue/tree/master/POOR-LOCATIONS):
 
 * [ABERDEEN](https://github.com/ed-hawkins/rainfall-rescue/tree/master/POOR-LOCATIONS/ABERDEEN)
 * [ABERDOVEY](https://github.com/ed-hawkins/rainfall-rescue/tree/master/POOR-LOCATIONS/ABERDOVEY)
@@ -6185,6 +6184,7 @@ Generation time: Monday 12/04/2021 09:01:15 BST
 * [STANCLIFFE-HALL](https://github.com/ed-hawkins/rainfall-rescue/tree/master/POOR-LOCATIONS/STANCLIFFE-HALL)
 * [STOCKTON-ON-TEES](https://github.com/ed-hawkins/rainfall-rescue/tree/master/POOR-LOCATIONS/STOCKTON-ON-TEES)
 * [STROUD](https://github.com/ed-hawkins/rainfall-rescue/tree/master/POOR-LOCATIONS/STROUD)
+* [TALYBONT-CUI](https://github.com/ed-hawkins/rainfall-rescue/tree/master/POOR-LOCATIONS/TALYBONT-CUI)
 * [TORQUAY](https://github.com/ed-hawkins/rainfall-rescue/tree/master/POOR-LOCATIONS/TORQUAY)
 * [UPPER-USK-FOUR](https://github.com/ed-hawkins/rainfall-rescue/tree/master/POOR-LOCATIONS/UPPER-USK-FOUR)
 * [UPPER-USK-THREE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/POOR-LOCATIONS/UPPER-USK-THREE)
