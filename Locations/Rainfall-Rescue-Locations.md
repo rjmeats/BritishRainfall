@@ -1,4 +1,4 @@
-Generation time: Monday 12/04/2021 19:45:22 BST
+Generation time: Saturday 17/04/2021 08:14:02 BST
 
 
 [MO-2020] indicates a location which contributed to the [Met Office 2020 UK Climate Report](https://www.metoffice.gov.uk/research/climate/maps-and-data/about/state-of-climate):
@@ -455,11 +455,11 @@ Generation time: Monday 12/04/2021 19:45:22 BST
 * [BAWTRY-HALL-THE-GDNS](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/BAWTRY-HALL-THE-GDNS)
 * [BAYFORDBURY](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/BAYFORDBURY)
 * [BEACHY-HEAD](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/BEACHY-HEAD)
+* [BEACON-FELL-BARNSFOLD](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/BEACON-FELL-BARNSFOLD)
 * [BEADLAM-GRANGE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/BEADLAM-GRANGE)
 * [BEAMINSTER-EAST-STREET](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/BEAMINSTER-EAST-STREET)
 * [BEAMINSTER-VICARAGE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/BEAMINSTER-VICARAGE)
 * [BEAMSLEY-OVERDALE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/BEAMSLEY-OVERDALE)
-* [BEATON-FELL-BARNSFOLD](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/BEATON-FELL-BARNSFOLD)
 * [BEAULEY-BEAUFORT-CASTLE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/BEAULEY-BEAUFORT-CASTLE)
 * [BEAUMARIS-FRYARS](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/BEAUMARIS-FRYARS)
 * [BECCLES-RAVENINGHAM-HALL](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/BECCLES-RAVENINGHAM-HALL)

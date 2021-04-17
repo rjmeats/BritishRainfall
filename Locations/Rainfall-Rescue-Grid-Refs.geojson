@@ -10632,6 +10632,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -2.646,
+          53.868
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "BEACON-FELL-BARNSFOLD",
+        "county": "Lancashire",
+        "gridref": "SD576415",
+        "latitude": "53.868",
+        "longitude": "-2.646",
+        "elevation (ft)": "506"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -1.018,
           54.249
         ]
@@ -10772,27 +10793,6 @@
         "latitude": "53.972",
         "longitude": "-1.884",
         "elevation (ft)": "420"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -2.646,
-          53.868
-        ]
-      },
-      "properties": {
-        "marker-symbol": "circle-stroked",
-        "marker-size": "small",
-        "marker-color": "66ff33",
-        "name": "BEATON-FELL-BARNSFOLD",
-        "county": "Lancashire",
-        "gridref": "SD576415",
-        "latitude": "53.868",
-        "longitude": "-2.646",
-        "elevation (ft)": "506"
       }
     },
     {
@@ -21909,6 +21909,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -3.653,
+          52.111
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "BUILTH-LLANWRTYD-WELLS",
+        "county": "Brecknockshire",
+        "gridref": "SN869471",
+        "latitude": "52.111",
+        "longitude": "-3.653",
+        "elevation (ft)": "800"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -3.646,
           52.109
         ]
@@ -27740,6 +27761,27 @@
         "latitude": "54.359",
         "longitude": "-1.666",
         "elevation (ft)": "350"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.404,
+          52.348
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "CATWORTH",
+        "county": "Huntingdonshire",
+        "gridref": "TL088734",
+        "latitude": "52.348",
+        "longitude": "-0.404",
+        "elevation (ft)": "210"
       }
     },
     {
@@ -33725,6 +33767,27 @@
         "latitude": "53.168",
         "longitude": "-2.221",
         "elevation (ft)": "247"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.263,
+          52.458
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "CONINGTON-CASTLE",
+        "county": "Huntingdonshire",
+        "gridref": "TL181859",
+        "latitude": "52.458",
+        "longitude": "-0.263",
+        "elevation (ft)": "25"
       }
     },
     {
@@ -64938,6 +65001,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -0.093,
+          52.32
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "HEMINGFORD-GREY",
+        "county": "Huntingdonshire",
+        "gridref": "TL301708",
+        "latitude": "52.320",
+        "longitude": "-0.093",
+        "elevation (ft)": "20"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -1.35,
           53.614
         ]
@@ -66081,7 +66165,7 @@
         "marker-size": "small",
         "marker-color": "66ff33",
         "name": "HIGHGATE-NURSERIES",
-        "county": "Middlesex-stayed-Middlesex",
+        "county": "Middlesex-became-London",
         "gridref": "TQ282870",
         "latitude": "51.567",
         "longitude": "-0.152",
@@ -120231,6 +120315,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -4.253,
+          50.447
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "ST-MELLION-ELLBRIDGE",
+        "county": "Cornwall",
+        "gridref": "SX401632",
+        "latitude": "50.447",
+        "longitude": "-4.253",
+        "elevation (ft)": "200"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -4.241,
           50.46
         ]
@@ -120266,6 +120371,27 @@
         "latitude": "50.459",
         "longitude": "-4.241",
         "elevation (ft)": "150"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.272,
+          50.467
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "ST-MELLION-RECTORY",
+        "county": "Cornwall",
+        "gridref": "SX388655",
+        "latitude": "50.467",
+        "longitude": "-4.272",
+        "elevation (ft)": "400"
       }
     },
     {
@@ -120370,6 +120496,27 @@
         "gridref": "SW930779",
         "latitude": "50.564",
         "longitude": "-4.924",
+        "elevation (ft)": "100"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.226,
+          52.261
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "ST-NEOTS-GREAT-PAXTON",
+        "county": "Huntingdonshire",
+        "gridref": "TL211640",
+        "latitude": "52.261",
+        "longitude": "-0.226",
         "elevation (ft)": "100"
       }
     },
@@ -122667,6 +122814,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          0.943,
+          52.228
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "STOWMARKET-WETHERDEN-RECTORY",
+        "county": "Suffolk",
+        "gridref": "TM011630",
+        "latitude": "52.228",
+        "longitude": "0.943",
+        "elevation (ft)": "185"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -7.43,
           54.858
         ]
@@ -123612,6 +123780,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -2.74,
+          51.116
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "STREET-OVERLEIGH-HOUSE",
+        "county": "Somerset",
+        "gridref": "ST483354",
+        "latitude": "51.116",
+        "longitude": "-2.740",
+        "elevation (ft)": "100"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -2.734,
           51.12
         ]
@@ -123990,6 +124179,48 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -2.167,
+          51.744
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "STROUD-LYPIATT-PARK",
+        "county": "Gloucestershire",
+        "gridref": "SO886050",
+        "latitude": "51.744",
+        "longitude": "-2.167",
+        "elevation (ft)": "720"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.168,
+          51.754
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "STROUD-LYPIATT-PARK",
+        "county": "Gloucestershire",
+        "gridref": "SO885061",
+        "latitude": "51.754",
+        "longitude": "-2.168",
+        "elevation (ft)": "820"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -2.248,
           51.734
         ]
@@ -124298,6 +124529,69 @@
         "latitude": "52.885",
         "longitude": "-1.767",
         "elevation (ft)": "225"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.734,
+          52.038
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "SUDBURY-NEWTON-ROAD",
+        "county": "Suffolk",
+        "gridref": "TL876413",
+        "latitude": "52.038",
+        "longitude": "0.734",
+        "elevation (ft)": "130"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.727,
+          52.044
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "SUDBURY-NEWTON-ROAD",
+        "county": "Suffolk",
+        "gridref": "TL871419",
+        "latitude": "52.044",
+        "longitude": "0.727",
+        "elevation (ft)": "101"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.725,
+          52.03
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "SUDBURY-NEWTON-ROAD",
+        "county": "Suffolk",
+        "gridref": "TL870403",
+        "latitude": "52.030",
+        "longitude": "0.725",
+        "elevation (ft)": "110"
       }
     },
     {
@@ -124830,6 +125124,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          0.293,
+          52.251
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "SWAFFHAM-PRIOR-VICARAGE",
+        "county": "Cambridgeshire",
+        "gridref": "TL566639",
+        "latitude": "52.251",
+        "longitude": "0.293",
+        "elevation (ft)": "44"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -2.102,
           54.378
         ]
@@ -125159,6 +125474,27 @@
         "latitude": "51.415",
         "longitude": "-2.352",
         "elevation (ft)": "227"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.461,
+          51.976
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "SWERFORD",
+        "county": "Oxfordshire",
+        "gridref": "SP371310",
+        "latitude": "51.976",
+        "longitude": "-1.461",
+        "elevation (ft)": "500"
       }
     },
     {
