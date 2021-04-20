@@ -1,9 +1,9 @@
-Generation time: Tuesday 20/04/2021 08:51:16 BST
+Generation time: Wednesday 21/04/2021 00:03:21 BST
 
 
 [MO-2020] indicates a location which contributed to the [Met Office 2020 UK Climate Report](https://www.metoffice.gov.uk/research/climate/maps-and-data/about/state-of-climate):
 
-6098 locations under [https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA):
+6101 locations under [https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA):
 
 * [ABBEY-CWMHIR-THE-HALL](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/ABBEY-CWMHIR-THE-HALL)
 * [ABBEY-LEIX-BLANDSFORT](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/ABBEY-LEIX-BLANDSFORT)
@@ -869,6 +869,7 @@ Generation time: Tuesday 20/04/2021 08:51:16 BST
 * [BRISTOL-MIX](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/BRISTOL-MIX)
 * [BRISTOL-OVER-COURT-PARK](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/BRISTOL-OVER-COURT-PARK)
 * [BRISTOL-SMALL-STREET](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/BRISTOL-SMALL-STREET)
+* [BRISTOL-ST-JAMES-SQUARE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/BRISTOL-ST-JAMES-SQUARE)
 * [BRISTOL-STAPLETON-RECTORY](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/BRISTOL-STAPLETON-RECTORY)
 * [BRITON-FERRY-BRYNSIRIOL](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/BRITON-FERRY-BRYNSIRIOL)
 * [BRITON-FERRY-CEFN-COURT](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/BRITON-FERRY-CEFN-COURT)
@@ -2163,6 +2164,7 @@ Generation time: Tuesday 20/04/2021 08:51:16 BST
 * [FELTHORPE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/FELTHORPE)
 * [FENWICK-AMLAIRD-FILTERS](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/FENWICK-AMLAIRD-FILTERS)
 * [FENWICK-HARESHAW-LODGE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/FENWICK-HARESHAW-LODGE)
+* [FERMOY](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/FERMOY)
 * [FERMOY-GAS-WORKS](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/FERMOY-GAS-WORKS)
 * [FERNEUX-PELHAM-THE-BREWERY](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/FERNEUX-PELHAM-THE-BREWERY)
 * [FERNHURST-BLACKDOWN-HOUSE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/FERNHURST-BLACKDOWN-HOUSE)
@@ -5638,6 +5640,7 @@ Generation time: Tuesday 20/04/2021 08:51:16 BST
 * [URMSTON-SEWAGE-WORKS](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/URMSTON-SEWAGE-WORKS)
 * [USHENISH-SOUTH-UIST](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/USHENISH-SOUTH-UIST)
 * [USK-AGRIC-INST](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/USK-AGRIC-INST)
+* [UTTOXETER](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/UTTOXETER)
 * [UTTOXETER-BROOK-HOUSE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/UTTOXETER-BROOK-HOUSE)
 * [UXBRIDGE-HAREFIELD-PARK](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/UXBRIDGE-HAREFIELD-PARK)
 * [VALENTIA-MIX](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/VALENTIA-MIX)
