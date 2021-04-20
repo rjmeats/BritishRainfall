@@ -1,9 +1,9 @@
-Generation time: Monday 19/04/2021 17:41:03 BST
+Generation time: Tuesday 20/04/2021 08:51:16 BST
 
 
 [MO-2020] indicates a location which contributed to the [Met Office 2020 UK Climate Report](https://www.metoffice.gov.uk/research/climate/maps-and-data/about/state-of-climate):
 
-6099 locations under [https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA):
+6098 locations under [https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA):
 
 * [ABBEY-CWMHIR-THE-HALL](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/ABBEY-CWMHIR-THE-HALL)
 * [ABBEY-LEIX-BLANDSFORT](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/ABBEY-LEIX-BLANDSFORT)
@@ -1464,7 +1464,6 @@ Generation time: Monday 19/04/2021 17:41:03 BST
 * [COTTINGHAM-DUNSWELL-PUMPING-STATION](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/COTTINGHAM-DUNSWELL-PUMPING-STATION)
 * [COTTINGHAM-WW](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/COTTINGHAM-WW)
 * [COULTER-RES](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/COULTER-RES)
-* [COULTER-WATERHEAD](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/COULTER-WATERHEAD)
 * [COUNTESTHORPE-WIGSTON-SEWAGE-FARM](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/COUNTESTHORPE-WIGSTON-SEWAGE-FARM)
 * [COUPAR-ANGUS-PUBLIC-SCHOOL](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/COUPAR-ANGUS-PUBLIC-SCHOOL)
 * [COUPAR-ANGUS-STATION](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/COUPAR-ANGUS-STATION)
