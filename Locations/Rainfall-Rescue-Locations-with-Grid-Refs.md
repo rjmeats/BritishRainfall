@@ -1,4 +1,4 @@
-Generation time: Wednesday 21/04/2021 17:37:07 BST
+Generation time: Wednesday 21/04/2021 20:58:36 BST
 
 ## Locations A-G
 
@@ -1403,11 +1403,11 @@ Generation time: Wednesday 21/04/2021 17:37:07 BST
 ||ROTHESAY-MIX-2.csv|NS095650|55.841|-5.043|95|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=55.841&lon=-5.043&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/55.841,-5.043,16)  |
 ||ROTHESAY-MIX-3.csv|NS106649|55.840|-5.026|200|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=55.840&lon=-5.026&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/55.840,-5.026,16)  |
 ||ROTHESAY-MIX.csv|NS078639|55.830|-5.069|116|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=55.830&lon=-5.069&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/55.830,-5.069,16)  |
-||ROTHESAY-NUMBER-ONE.csv||nan|nan||[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=nan&lon=nan&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/nan,nan,16) [OSM](https://www.openstreetmap.org/#map=16/nan/nan) [GGL](https://www.google.co.uk/maps/@nan,nan,16z)|
+||ROTHESAY-NUMBER-ONE.csv||||||
 ||ROTHESAY-NUMBER-TWO.csv|NS086633|55.825|-5.056|119|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=55.825&lon=-5.056&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/55.825,-5.056,16)  |
 |[BUTE-MOUNTSTUART](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/BUTE-MOUNTSTUART)|BUTE-MOUNTSTUART.csv|NS109596|55.793|-5.017|100|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=55.793&lon=-5.017&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/55.793,-5.017,16)  |
 ||BUTE-MOUNTSTUART-2.csv|NS109596|55.793|-5.017|100|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=55.793&lon=-5.017&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/55.793,-5.017,16)  |
-||BUTE-MOUNTSTUART-DUPLICATE.csv||nan|nan||[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=nan&lon=nan&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/nan,nan,16) [OSM](https://www.openstreetmap.org/#map=16/nan/nan) [GGL](https://www.google.co.uk/maps/@nan,nan,16z)|
+||BUTE-MOUNTSTUART-DUPLICATE.csv||||||
 |[BUTE-PLAN-FARM](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/BUTE-PLAN-FARM)|BUTE-PLAN-FARM.csv|NS096530|55.733|-5.034|70|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=55.733&lon=-5.034&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/55.733,-5.034,16)  |
 |[BUTE-PORT-BANNATYNE-ETTRICKDALE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/BUTE-PORT-BANNATYNE-ETTRICKDALE)|BUTE-PORT-BANNATYNE-ETTRICKDALE.csv|NS067681|55.867|-5.091|190|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=55.867&lon=-5.091&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/55.867,-5.091,16)  |
 ||BUTE-PORT-BANNATYNE-ETTRICKDALE-2.csv|NS067681|55.867|-5.091|160|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=55.867&lon=-5.091&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/55.867,-5.091,16)  |
@@ -2772,7 +2772,7 @@ Generation time: Wednesday 21/04/2021 17:37:07 BST
 |[EDINBURGH-CUMIN-PLACE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/EDINBURGH-CUMIN-PLACE)|EDINBURGH-CUMIN-PLACE.csv|NT260719|55.934|-3.186|274|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=55.934&lon=-3.186&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/55.934,-3.186,16)  |
 |[EDINBURGH-HADLEY](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/EDINBURGH-HADLEY)|EDINBURGH-HADLEY.csv|NT262741|55.954|-3.183|300|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=55.954&lon=-3.183&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/55.954,-3.183,16)  |
 |[EDINBURGH-MIX](https://github.com/ed-hawkins/rainfall-rescue/tree/master/POOR-LOCATIONS/EDINBURGH-MIX) [POOR]|EDINBURGH-MIX.csv|NT262741|55.954|-3.183|355|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=55.954&lon=-3.183&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/55.954,-3.183,16)  |
-||EDINBURGH-MIX-2.csv||nan|nan||[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=nan&lon=nan&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/nan,nan,16) [OSM](https://www.openstreetmap.org/#map=16/nan/nan) [GGL](https://www.google.co.uk/maps/@nan,nan,16z)|
+||EDINBURGH-MIX-2.csv||||||
 ||EDINBURGH-MIX-3.csv|NT262741|55.954|-3.183|386|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=55.954&lon=-3.183&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/55.954,-3.183,16)  |
 ||EDINBURGH-MIX-4.csv|NT262743|55.956|-3.184|197|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=55.956&lon=-3.184&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/55.956,-3.184,16)  |
 ||EDINBURGH-MIX-5.csv|NT250743|55.956|-3.202|162|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=55.956&lon=-3.202&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/55.956,-3.202,16)  |

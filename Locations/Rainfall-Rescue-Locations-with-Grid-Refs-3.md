@@ -1,4 +1,4 @@
-Generation time: Wednesday 21/04/2021 17:37:07 BST
+Generation time: Wednesday 21/04/2021 20:58:36 BST
 
 ## Locations P-Z
 
@@ -2423,7 +2423,7 @@ Generation time: Wednesday 21/04/2021 17:37:07 BST
 |[WOOTON-BASSETT-THE-LIME-KILN](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/WOOTON-BASSETT-THE-LIME-KILN)|WOOTON-BASSETT-THE-LIME-KILN.csv|SU070830|51.546|-1.900|422|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=51.546&lon=-1.900&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/51.546,-1.900,16)  |
 |[WOOTTON-FERNHILL](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/WOOTTON-FERNHILL)|WOOTTON-FERNHILL.csv|SZ540916|50.722|-1.236|118|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=50.722&lon=-1.236&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/50.722,-1.236,16)  |
 ||WOOTTON-FERNHILL-2.csv|SZ548919|50.724|-1.225|12|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=50.724&lon=-1.225&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/50.724,-1.225,16)  |
-|[WORCESTER-BALL](https://github.com/ed-hawkins/rainfall-rescue/tree/master/UNKNOWN-NGR/WORCESTER-BALL) [UNKN]|WORCESTER-BALL.csv||nan|nan|125|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=nan&lon=nan&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/nan,nan,16) [OSM](https://www.openstreetmap.org/#map=16/nan/nan) [GGL](https://www.google.co.uk/maps/@nan,nan,16z)|
+|[WORCESTER-BALL](https://github.com/ed-hawkins/rainfall-rescue/tree/master/UNKNOWN-NGR/WORCESTER-BALL) [UNKN]|WORCESTER-BALL.csv||||125||
 |[WORCESTER-BEVERE-LOCK](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/WORCESTER-BEVERE-LOCK)|WORCESTER-BEVERE-LOCK.csv|SO836593|52.232|-2.244|52|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=52.232&lon=-2.244&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/52.232,-2.244,16)  |
 |[WORCESTER-DIGLIS-LOCK](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/WORCESTER-DIGLIS-LOCK)|WORCESTER-DIGLIS-LOCK.csv|SO847533|52.178|-2.225|49|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=52.178&lon=-2.225&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/52.178,-2.225,16)  |
 |[WORCESTER-GAS-WORKS](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/WORCESTER-GAS-WORKS)|WORCESTER-GAS-WORKS.csv|SO855553|52.196|-2.214|85|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=52.196&lon=-2.214&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/52.196,-2.214,16)  |
