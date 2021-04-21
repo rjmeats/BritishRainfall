@@ -2749,7 +2749,7 @@
         "gridref": "NJ553161",
         "latitude": "57.234",
         "longitude": "-2.742",
-        "elevation (ft)": "420"
+        "elevation (ft)": "480"
       }
     },
     {
@@ -6445,7 +6445,7 @@
         "gridref": "NC241247",
         "latitude": "58.176",
         "longitude": "-4.992",
-        "elevation (ft)": "200"
+        "elevation (ft)": "430"
       }
     },
     {
@@ -12250,7 +12250,7 @@
         "type": "Point",
         "coordinates": [
           -5.119,
-          56.813
+          56.814
         ]
       },
       "properties": {
@@ -12259,8 +12259,8 @@
         "marker-color": "66ff33",
         "name": "BEN-NEVIS",
         "county": "Inverness",
-        "gridref": "NN097733",
-        "latitude": "56.813",
+        "gridref": "NN0972573463",
+        "latitude": "56.814",
         "longitude": "-5.119",
         "elevation (ft)": "25"
       }
@@ -15756,6 +15756,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -3.385,
+          56.588
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "BLAIRGOWRIE-KINLOCH-MANSE",
+        "county": "Perthshire",
+        "gridref": "NO1503544864",
+        "latitude": "56.588",
+        "longitude": "-3.385",
+        "elevation (ft)": "280"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -4.236,
           56.182
         ]
@@ -18843,6 +18864,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -3.923,
+          56.238
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "BRACO-NETHER-CAMBUSHINNIE",
+        "county": "Perthshire",
+        "gridref": "NN809067",
+        "latitude": "56.238",
+        "longitude": "-3.923",
+        "elevation (ft)": "380"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -1.816,
           53.772
         ]
@@ -19767,6 +19809,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -4.225,
+          51.118
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "BRAUNTON-PRESTON-HOUSE-SAUNTON",
+        "county": "Devon",
+        "gridref": "SS444378",
+        "latitude": "51.118",
+        "longitude": "-4.225",
+        "elevation (ft)": "120"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -6.15,
           53.192
         ]
@@ -19914,6 +19977,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -3.375,
+          51.919
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "BRECON-CANTREFF-RECTORY",
+        "county": "Brecknockshire",
+        "gridref": "SO055254",
+        "latitude": "51.919",
+        "longitude": "-3.375",
+        "elevation (ft)": "630"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -3.414,
           51.933
         ]
@@ -19928,6 +20012,27 @@
         "latitude": "51.933",
         "longitude": "-3.414",
         "elevation (ft)": "570"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.409,
+          51.983
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "BRECON-LLANDEFAELOG-FACH-RECT",
+        "county": "Brecknockshire",
+        "gridref": "SO033325",
+        "latitude": "51.983",
+        "longitude": "-3.409",
+        "elevation (ft)": "660"
       }
     },
     {
@@ -20557,7 +20662,7 @@
         "gridref": "SE987061",
         "latitude": "53.542",
         "longitude": "-0.512",
-        "elevation (ft)": "134"
+        "elevation (ft)": "13"
       }
     },
     {
@@ -20579,6 +20684,48 @@
         "latitude": "53.554",
         "longitude": "-0.484",
         "elevation (ft)": "22"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.395,
+          50.641
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "BRIGHSTONE-RECTORY",
+        "county": "Isle of Wight",
+        "gridref": "SZ428825",
+        "latitude": "50.641",
+        "longitude": "-1.395",
+        "elevation (ft)": "100"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.396,
+          50.644
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "BRIGHSTONE-RECTORY",
+        "county": "Isle of Wight",
+        "gridref": "SZ428828",
+        "latitude": "50.644",
+        "longitude": "-1.396",
+        "elevation (ft)": "140"
       }
     },
     {
@@ -22763,6 +22910,27 @@
         "latitude": "52.177",
         "longitude": "-3.424",
         "elevation (ft)": "550"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.404,
+          52.148
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "BUILTH-WELLS-TYN-Y-BERLLAN",
+        "county": "Brecknockshire",
+        "gridref": "SO040509",
+        "latitude": "52.148",
+        "longitude": "-3.404",
+        "elevation (ft)": "425"
       }
     },
     {
@@ -25933,7 +26101,7 @@
         "gridref": "NS526794",
         "latitude": "55.985",
         "longitude": "-4.363",
-        "elevation (ft)": "150"
+        "elevation (ft)": "480"
       }
     },
     {
@@ -27592,7 +27760,7 @@
         "gridref": "NH896229",
         "latitude": "57.283",
         "longitude": "-3.833",
-        "elevation (ft)": "-999999"
+        "elevation (ft)": "900"
       }
     },
     {
@@ -28748,6 +28916,27 @@
         "latitude": "54.551",
         "longitude": "-2.809",
         "elevation (ft)": "1642"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.941,
+          57.506
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "CAWDOR-AUCHINDOUNE",
+        "county": "Nairnshire",
+        "gridref": "NH838479",
+        "latitude": "57.506",
+        "longitude": "-3.941",
+        "elevation (ft)": "425"
       }
     },
     {
@@ -34719,6 +34908,69 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -3.063,
+          50.728
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "COLYTON-COLYFORD",
+        "county": "Devon",
+        "gridref": "SY250925",
+        "latitude": "50.728",
+        "longitude": "-3.063",
+        "elevation (ft)": "50"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.062,
+          50.728
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "COLYTON-COLYFORD",
+        "county": "Devon",
+        "gridref": "SY251925",
+        "latitude": "50.728",
+        "longitude": "-3.062",
+        "elevation (ft)": "20"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.072,
+          50.726
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "COLYTON-COLYFORD",
+        "county": "Devon",
+        "gridref": "SY244923",
+        "latitude": "50.726",
+        "longitude": "-3.072",
+        "elevation (ft)": "100"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -3.466,
           55.812
         ]
@@ -34817,6 +35069,27 @@
         "latitude": "51.313",
         "longitude": "-2.654",
         "elevation (ft)": "276"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.057,
+          56.389
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "COMRIE-DUNIRA",
+        "county": "Perthshire",
+        "gridref": "NN731238",
+        "latitude": "56.389",
+        "longitude": "-4.057",
+        "elevation (ft)": "270"
       }
     },
     {
@@ -35993,6 +36266,27 @@
         "latitude": "51.404",
         "longitude": "-3.371",
         "elevation (ft)": "100"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.306,
+          50.754
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "COWES-WW-BROADFIELDS",
+        "county": "Isle of Wight",
+        "gridref": "SZ490952",
+        "latitude": "50.754",
+        "longitude": "-1.306",
+        "elevation (ft)": "161"
       }
     },
     {
@@ -38415,6 +38709,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -4.26,
+          56.828
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "DALNASPIDAL-LUIDHEARNAIDH",
+        "county": "Perthshire",
+        "gridref": "NN622730",
+        "latitude": "56.828",
+        "longitude": "-4.260",
+        "elevation (ft)": "1710"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -4.223,
           56.832
         ]
@@ -39080,6 +39395,27 @@
         "latitude": "53.162",
         "longitude": "-1.592",
         "elevation (ft)": "361"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.588,
+          53.164
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "DARLEY-HALL",
+        "county": "Derbyshire",
+        "gridref": "SK276630",
+        "latitude": "53.164",
+        "longitude": "-1.588",
+        "elevation (ft)": "400"
       }
     },
     {
@@ -44106,6 +44442,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -3.892,
+          57.432
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "DRYNACHAN-LODGE",
+        "county": "Nairnshire",
+        "gridref": "NH865395",
+        "latitude": "57.432",
+        "longitude": "-3.892",
+        "elevation (ft)": "755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -6.17,
           53.294
         ]
@@ -45366,6 +45723,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -3.767,
+          57.438
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "DUNEARN-LODGE-DAVA",
+        "county": "Nairnshire",
+        "gridref": "NH9404640030",
+        "latitude": "57.438",
+        "longitude": "-3.767",
+        "elevation (ft)": "750"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -7.976,
           55.18
         ]
@@ -45828,6 +46206,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -3.547,
+          56.589
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "DUNKELD-CARDNEY",
+        "county": "Perthshire",
+        "gridref": "NO051452",
+        "latitude": "56.589",
+        "longitude": "-3.547",
+        "elevation (ft)": "350"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -3.578,
           56.557
         ]
@@ -45862,7 +46261,7 @@
         "gridref": "NO016421",
         "latitude": "56.560",
         "longitude": "-3.601",
-        "elevation (ft)": "460"
+        "elevation (ft)": "170"
       }
     },
     {
@@ -47109,6 +47508,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -1.279,
+          50.762
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "EAST-COWES-SPRING-HILL",
+        "county": "Isle of Wight",
+        "gridref": "SZ509960",
+        "latitude": "50.762",
+        "longitude": "-1.279",
+        "elevation (ft)": "123"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           0.937,
           52.68
         ]
@@ -47606,6 +48026,27 @@
         "latitude": "50.762",
         "longitude": "0.285",
         "elevation (ft)": "39"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.96,
+          53.312
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "EASTHAM-HOUSE",
+        "county": "Cheshire",
+        "gridref": "SJ361798",
+        "latitude": "53.312",
+        "longitude": "-2.960",
+        "elevation (ft)": "100"
       }
     },
     {
@@ -51309,6 +51750,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -3.532,
+          50.723
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "EXETER-HIGH-ST",
+        "county": "Devon",
+        "gridref": "SX919926",
+        "latitude": "50.723",
+        "longitude": "-3.532",
+        "elevation (ft)": "192"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -3.513,
           50.72
         ]
@@ -52401,8 +52863,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -3.913,
-          57.783
+          -3.954,
+          57.771
         ]
       },
       "properties": {
@@ -52411,9 +52873,30 @@
         "marker-color": "66ff33",
         "name": "FEARN-LOWER-PITKERRIE",
         "county": "Ross and Cromarty",
-        "gridref": "NH863786",
-        "latitude": "57.783",
-        "longitude": "-3.913",
+        "gridref": "NH8385677353",
+        "latitude": "57.771",
+        "longitude": "-3.954",
+        "elevation (ft)": "40"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.94,
+          57.775
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "FEARN-LOWER-PITKERRIE",
+        "county": "Ross and Cromarty",
+        "gridref": "NH8471977849",
+        "latitude": "57.775",
+        "longitude": "-3.940",
         "elevation (ft)": "50"
       }
     },
@@ -52435,7 +52918,7 @@
         "gridref": "NH866800",
         "latitude": "57.795",
         "longitude": "-3.909",
-        "elevation (ft)": "50"
+        "elevation (ft)": "95"
       }
     },
     {
@@ -55089,6 +55572,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -1.518,
+          50.683
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "FRESHWATER-PUMPING-STATION",
+        "county": "Isle of Wight",
+        "gridref": "SZ341871",
+        "latitude": "50.683",
+        "longitude": "-1.518",
+        "elevation (ft)": "10"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -0.71,
           51.308
         ]
@@ -56979,6 +57483,69 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -4.44,
+          55.884
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "GLASGOW-AIRPORT",
+        "county": "Renfrewshire",
+        "gridref": "NS4748068382",
+        "latitude": "55.884",
+        "longitude": "-4.440",
+        "elevation (ft)": "20"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.397,
+          55.865
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "GLASGOW-AIRPORT",
+        "county": "Renfrewshire",
+        "gridref": "NS5011266094",
+        "latitude": "55.865",
+        "longitude": "-4.397",
+        "elevation (ft)": "36"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.427,
+          55.868
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "GLASGOW-AIRPORT",
+        "county": "Renfrewshire",
+        "gridref": "NS4822066531",
+        "latitude": "55.868",
+        "longitude": "-4.427",
+        "elevation (ft)": "19"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -4.212,
           55.865
         ]
@@ -57476,6 +58043,27 @@
         "latitude": "51.149",
         "longitude": "-2.706",
         "elevation (ft)": "245"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.918,
+          56.481
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "GLEN-ALMOND-AUCHNAFREE",
+        "county": "Perthshire",
+        "gridref": "NN8196133699",
+        "latitude": "56.481",
+        "longitude": "-3.918",
+        "elevation (ft)": "1040"
       }
     },
     {
@@ -58295,6 +58883,48 @@
         "latitude": "55.216",
         "longitude": "-4.850",
         "elevation (ft)": "266"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.732,
+          56.264
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "GLENEAGLES-HOUSE",
+        "county": "Perthshire",
+        "gridref": "NN9284509340",
+        "latitude": "56.264",
+        "longitude": "-3.732",
+        "elevation (ft)": "447"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.727,
+          56.259
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "GLENEAGLES-HOUSE",
+        "county": "Perthshire",
+        "gridref": "NN9308408707",
+        "latitude": "56.259",
+        "longitude": "-3.727",
+        "elevation (ft)": "425"
       }
     },
     {
@@ -69126,7 +69756,7 @@
         "marker-size": "small",
         "marker-color": "66ff33",
         "name": "HIGHGATE-NURSERIES",
-        "county": "Middlesex-stayed-Middlesex",
+        "county": "Middlesex-became-London",
         "gridref": "TQ282870",
         "latitude": "51.567",
         "longitude": "-0.152",
@@ -69908,6 +70538,48 @@
         "latitude": "53.575",
         "longitude": "-1.828",
         "elevation (ft)": "1075"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.832,
+          50.514
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "HOLNE-ASHBURTON",
+        "county": "Devon",
+        "gridref": "SX701698",
+        "latitude": "50.514",
+        "longitude": "-3.832",
+        "elevation (ft)": "650"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.827,
+          50.51
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "HOLNE-ASHBURTON",
+        "county": "Devon",
+        "gridref": "SX705693",
+        "latitude": "50.510",
+        "longitude": "-3.827",
+        "elevation (ft)": "620"
       }
     },
     {
@@ -73065,6 +73737,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -4.321,
+          56.217
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "INVERTROSSACHS",
+        "county": "Perthshire",
+        "gridref": "NN5614605144",
+        "latitude": "56.217",
+        "longitude": "-4.321",
+        "elevation (ft)": "395"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -2.438,
           57.27
         ]
@@ -73604,6 +74297,27 @@
         "latitude": "56.186",
         "longitude": "-2.559",
         "elevation (ft)": "180"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.242,
+          50.585
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "ISLE-OF-WIGHT-ST-LAWRENCE",
+        "county": "Isle of Wight",
+        "gridref": "SZ537764",
+        "latitude": "50.585",
+        "longitude": "-1.242",
+        "elevation (ft)": "75"
       }
     },
     {
@@ -77580,8 +78294,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -3.158,
-          56.744
+          -3.138,
+          56.749
         ]
       },
       "properties": {
@@ -77590,9 +78304,9 @@
         "marker-color": "66ff33",
         "name": "KIRRIEMUIR-GLENDYE",
         "county": "Angus (Forfar)",
-        "gridref": "NO293620",
-        "latitude": "56.744",
-        "longitude": "-3.158",
+        "gridref": "NO3050062558",
+        "latitude": "56.749",
+        "longitude": "-3.138",
         "elevation (ft)": "1409"
       }
     },
@@ -81654,6 +82368,48 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -3.779,
+          57.543
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "LETHEN",
+        "county": "Nairnshire",
+        "gridref": "NH9361451697",
+        "latitude": "57.543",
+        "longitude": "-3.779",
+        "elevation (ft)": "300"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.776,
+          57.543
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "LETHEN",
+        "county": "Nairnshire",
+        "gridref": "NH9380351703",
+        "latitude": "57.543",
+        "longitude": "-3.776",
+        "elevation (ft)": "300"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -7.804,
           54.932
         ]
@@ -85174,7 +85930,7 @@
         "gridref": "SN946477",
         "latitude": "52.118",
         "longitude": "-3.541",
-        "elevation (ft)": "450"
+        "elevation (ft)": "551"
       }
     },
     {
@@ -85889,6 +86645,90 @@
         "latitude": "52.045",
         "longitude": "-3.954",
         "elevation (ft)": "450"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.636,
+          52.06
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "LLANWRTYD-WELLS-LLANDULAS",
+        "county": "Brecknockshire",
+        "gridref": "SN879414",
+        "latitude": "52.060",
+        "longitude": "-3.636",
+        "elevation (ft)": "790"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.638,
+          52.059
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "LLANWRTYD-WELLS-LLANDULAS",
+        "county": "Brecknockshire",
+        "gridref": "SN878413",
+        "latitude": "52.059",
+        "longitude": "-3.638",
+        "elevation (ft)": "780"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.635,
+          52.061
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "LLANWRTYD-WELLS-LLANDULAS",
+        "county": "Brecknockshire",
+        "gridref": "SN880416",
+        "latitude": "52.061",
+        "longitude": "-3.635",
+        "elevation (ft)": "780"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.638,
+          52.064
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "LLANWRTYD-WELLS-LLANDULAS",
+        "county": "Brecknockshire",
+        "gridref": "SN878419",
+        "latitude": "52.064",
+        "longitude": "-3.638",
+        "elevation (ft)": "840"
       }
     },
     {
@@ -90075,6 +90915,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -3.83,
+          51.231
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "LYNMOUTH-ROCK-HOUSE",
+        "county": "Devon",
+        "gridref": "SS723495",
+        "latitude": "51.231",
+        "longitude": "-3.830",
+        "elevation (ft)": "22"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -3.865,
           51.227
         ]
@@ -92293,7 +93154,7 @@
         "gridref": "SE963453",
         "latitude": "53.895",
         "longitude": "-0.536",
-        "elevation (ft)": "150"
+        "elevation (ft)": "120"
       }
     },
     {
@@ -95640,7 +96501,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -0.593,
+          -0.693,
           51.704
         ]
       },
@@ -95652,7 +96513,7 @@
         "county": "Buckinghamshire",
         "gridref": "SP904014",
         "latitude": "51.704",
-        "longitude": "-0.593",
+        "longitude": "-0.693",
         "elevation (ft)": "600"
       }
     },
@@ -97803,6 +98664,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -3.478,
+          56.529
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "MURTHLY-DOUGLASFIELD",
+        "county": "Perthshire",
+        "gridref": "NO0919538399",
+        "latitude": "56.529",
+        "longitude": "-3.478",
+        "elevation (ft)": "237"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -0.146,
           51.594
         ]
@@ -98006,6 +98888,69 @@
         "latitude": "57.583",
         "longitude": "-3.894",
         "elevation (ft)": "59"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.886,
+          57.574
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "NAIRN-BALBLAIR",
+        "county": "Nairnshire",
+        "gridref": "NH873553",
+        "latitude": "57.574",
+        "longitude": "-3.886",
+        "elevation (ft)": "80"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.873,
+          57.571
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "NAIRN-FIRHALL",
+        "county": "Nairnshire",
+        "gridref": "NH881550",
+        "latitude": "57.571",
+        "longitude": "-3.873",
+        "elevation (ft)": "55"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.905,
+          57.585
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "NAIRN-GOLF-COURSE",
+        "county": "Nairnshire",
+        "gridref": "NH862566",
+        "latitude": "57.585",
+        "longitude": "-3.905",
+        "elevation (ft)": "20"
       }
     },
     {
@@ -100106,6 +101051,48 @@
         "latitude": "56.435",
         "longitude": "-2.939",
         "elevation (ft)": "100"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.304,
+          50.696
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "NEWPORT-THE-MALL",
+        "county": "Isle of Wight",
+        "gridref": "SZ492886",
+        "latitude": "50.696",
+        "longitude": "-1.304",
+        "elevation (ft)": "48"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.308,
+          50.696
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "NEWPORT-THE-MALL",
+        "county": "Isle of Wight",
+        "gridref": "SZ490887",
+        "latitude": "50.696",
+        "longitude": "-1.308",
+        "elevation (ft)": "60"
       }
     },
     {
@@ -103760,6 +104747,27 @@
         "latitude": "51.631",
         "longitude": "-3.542",
         "elevation (ft)": "834"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0,
+          50.736
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "OKEHAMPTON-GRAMMAR-SCHOOL",
+        "county": "Devon",
+        "gridref": "SX589948",
+        "latitude": "50.736",
+        "longitude": "-4.000",
+        "elevation (ft)": "520"
       }
     },
     {
@@ -108212,6 +109220,27 @@
         "latitude": "57.507",
         "longitude": "-1.842",
         "elevation (ft)": "133"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.793,
+          57.491
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "PETERHEAD-HM-PRISON",
+        "county": "Aberdeenshire",
+        "gridref": "NK125446",
+        "latitude": "57.491",
+        "longitude": "-1.793",
+        "elevation (ft)": "110"
       }
     },
     {
@@ -116724,6 +117753,153 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -1.172,
+          50.721
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "RYDE-PERIVALE",
+        "county": "Isle of Wight",
+        "gridref": "SZ585916",
+        "latitude": "50.721",
+        "longitude": "-1.172",
+        "elevation (ft)": "193"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.16,
+          50.733
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "RYDE-PIER-STREET",
+        "county": "Isle of Wight",
+        "gridref": "SZ593929",
+        "latitude": "50.733",
+        "longitude": "-1.160",
+        "elevation (ft)": "17"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.151,
+          50.73
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "RYDE-PIER-STREET",
+        "county": "Isle of Wight",
+        "gridref": "SZ600926",
+        "latitude": "50.730",
+        "longitude": "-1.151",
+        "elevation (ft)": "13"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.161,
+          50.733
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "RYDE-PIER-STREET",
+        "county": "Isle of Wight",
+        "gridref": "SZ593928",
+        "latitude": "50.733",
+        "longitude": "-1.161",
+        "elevation (ft)": "35"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.149,
+          50.726
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "RYDE-ST-JOHNS-PARK",
+        "county": "Isle of Wight",
+        "gridref": "SZ601921",
+        "latitude": "50.726",
+        "longitude": "-1.149",
+        "elevation (ft)": "70"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.149,
+          50.724
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "RYDE-ST-JOHNS-PARK",
+        "county": "Isle of Wight",
+        "gridref": "SZ601919",
+        "latitude": "50.724",
+        "longitude": "-1.149",
+        "elevation (ft)": "135"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.167,
+          50.724
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "RYDE-WEST-STREET",
+        "county": "Isle of Wight",
+        "gridref": "SZ588918",
+        "latitude": "50.724",
+        "longitude": "-1.167",
+        "elevation (ft)": "170"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -0.469,
           52.684
         ]
@@ -117543,8 +118719,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          1.141,
-          51.024
+          1.129,
+          51.074
         ]
       },
       "properties": {
@@ -117553,9 +118729,9 @@
         "marker-color": "66ff33",
         "name": "SANDGATE",
         "county": "Kent-stayed-Kent",
-        "gridref": "TR201352",
-        "latitude": "51.024",
-        "longitude": "1.141",
+        "gridref": "TR193352",
+        "latitude": "51.074",
+        "longitude": "1.129",
         "elevation (ft)": "52"
       }
     },
@@ -117641,6 +118817,69 @@
         "latitude": "51.359",
         "longitude": "-0.825",
         "elevation (ft)": "263"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.153,
+          50.654
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "SANDOWN-SANDHAM-GDNS",
+        "county": "Isle of Wight",
+        "gridref": "SZ600842",
+        "latitude": "50.654",
+        "longitude": "-1.153",
+        "elevation (ft)": "15"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.149,
+          50.656
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "SANDOWN-SANDHAM-GDNS",
+        "county": "Isle of Wight",
+        "gridref": "SZ602844",
+        "latitude": "50.656",
+        "longitude": "-1.149",
+        "elevation (ft)": "25"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.146,
+          50.658
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "SANDOWN-SANDHAM-GDNS",
+        "county": "Isle of Wight",
+        "gridref": "SZ604845",
+        "latitude": "50.658",
+        "longitude": "-1.146",
+        "elevation (ft)": "13"
       }
     },
     {
@@ -119216,6 +120455,90 @@
         "latitude": "51.918",
         "longitude": "0.485",
         "elevation (ft)": "262"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.175,
+          50.636
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "SHANKLIN-MIX",
+        "county": "Isle of Wight",
+        "gridref": "SZ584820",
+        "latitude": "50.636",
+        "longitude": "-1.175",
+        "elevation (ft)": "150"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.179,
+          50.627
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "SHANKLIN-MIX",
+        "county": "Isle of Wight",
+        "gridref": "SZ581811",
+        "latitude": "50.627",
+        "longitude": "-1.179",
+        "elevation (ft)": "199"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.18,
+          50.627
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "SHANKLIN-MIX",
+        "county": "Isle of Wight",
+        "gridref": "SZ581810",
+        "latitude": "50.627",
+        "longitude": "-1.180",
+        "elevation (ft)": "180"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.18,
+          50.624
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "SHANKLIN-MIX",
+        "county": "Isle of Wight",
+        "gridref": "SZ581808",
+        "latitude": "50.624",
+        "longitude": "-1.180",
+        "elevation (ft)": "180"
       }
     },
     {
@@ -120896,6 +122219,69 @@
         "latitude": "53.236",
         "longitude": "-2.205",
         "elevation (ft)": "377"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.241,
+          50.68
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "SIDMOUTH-MIX",
+        "county": "Devon",
+        "gridref": "SY124874",
+        "latitude": "50.680",
+        "longitude": "-3.241",
+        "elevation (ft)": "32"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.238,
+          50.68
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "SIDMOUTH-MIX",
+        "county": "Devon",
+        "gridref": "SY126874",
+        "latitude": "50.680",
+        "longitude": "-3.238",
+        "elevation (ft)": "50"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.238,
+          50.681
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "SIDMOUTH-MIX",
+        "county": "Devon",
+        "gridref": "SY126875",
+        "latitude": "50.681",
+        "longitude": "-3.238",
+        "elevation (ft)": "30"
       }
     },
     {
@@ -123129,6 +124515,48 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -3.836,
+          51.023
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "SOUTH-MOLTON",
+        "county": "Devon",
+        "gridref": "SS713264",
+        "latitude": "51.023",
+        "longitude": "-3.836",
+        "elevation (ft)": "515"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.83,
+          51.018
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "SOUTH-MOLTON",
+        "county": "Devon",
+        "gridref": "SS717259",
+        "latitude": "51.018",
+        "longitude": "-3.830",
+        "elevation (ft)": "450"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -3.834,
           51.018
         ]
@@ -125145,6 +126573,48 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -1.288,
+          50.579
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "ST-CATHERINES-POINT-LIGHTHOUSE",
+        "county": "Isle of Wight",
+        "gridref": "SZ504757",
+        "latitude": "50.579",
+        "longitude": "-1.288",
+        "elevation (ft)": "150"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.298,
+          50.576
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "ST-CATHERINES-POINT-LIGHTHOUSE",
+        "county": "Isle of Wight",
+        "gridref": "SZ498753",
+        "latitude": "50.576",
+        "longitude": "-1.298",
+        "elevation (ft)": "51"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -5.269,
           51.882
         ]
@@ -126783,6 +128253,69 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -3.451,
+          50.623
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "STARCROSS",
+        "county": "Devon",
+        "gridref": "SX974813",
+        "latitude": "50.623",
+        "longitude": "-3.451",
+        "elevation (ft)": "12"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.455,
+          50.63
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "STARCROSS",
+        "county": "Devon",
+        "gridref": "SX972821",
+        "latitude": "50.630",
+        "longitude": "-3.455",
+        "elevation (ft)": "29"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.449,
+          50.616
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "STARCROSS-COFTON-VICARAGE",
+        "county": "Devon",
+        "gridref": "SX975805",
+        "latitude": "50.616",
+        "longitude": "-3.449",
+        "elevation (ft)": "60"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -2.916,
           52.098
         ]
@@ -127720,27 +129253,6 @@
         "gridref": "NS708479",
         "latitude": "55.707",
         "longitude": "-4.058",
-        "elevation (ft)": "775"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -4.853,
-          55.691
-        ]
-      },
-      "properties": {
-        "marker-symbol": "circle-stroked",
-        "marker-size": "small",
-        "marker-color": "66ff33",
-        "name": "STONEHOUSE-GLASSFORD-FILTERS",
-        "county": "Lanarkshire",
-        "gridref": "NS208479",
-        "latitude": "55.691",
-        "longitude": "-4.853",
         "elevation (ft)": "775"
       }
     },
@@ -128813,6 +130325,48 @@
         "latitude": "56.649",
         "longitude": "-3.685",
         "elevation (ft)": "313"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.989,
+          55.613
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "STRATHAVEN-DEANSIDE-RES",
+        "county": "Lanarkshire",
+        "gridref": "NS748373",
+        "latitude": "55.613",
+        "longitude": "-3.989",
+        "elevation (ft)": "1010"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.989,
+          55.612
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "STRATHAVEN-DEANSIDE-RES",
+        "county": "Lanarkshire",
+        "gridref": "NS748372",
+        "latitude": "55.612",
+        "longitude": "-3.989",
+        "elevation (ft)": "1002"
       }
     },
     {
@@ -131466,7 +133020,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -3.425,
+          -3.407,
           51.864
         ]
       },
@@ -131476,9 +133030,9 @@
         "marker-color": "66ff33",
         "name": "TAFF-FECHAN-NEUADD-RES",
         "county": "Brecknockshire",
-        "gridref": "SO020193",
+        "gridref": "SO032193",
         "latitude": "51.864",
-        "longitude": "-3.425",
+        "longitude": "-3.407",
         "elevation (ft)": "1700"
       }
     },
@@ -131626,7 +133180,7 @@
         "gridref": "SO026190",
         "latitude": "51.861",
         "longitude": "-3.416",
-        "elevation (ft)": "1492"
+        "elevation (ft)": "1843"
       }
     },
     {
@@ -131697,27 +133251,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -3.425,
-          51.863
-        ]
-      },
-      "properties": {
-        "marker-symbol": "circle-stroked",
-        "marker-size": "small",
-        "marker-color": "66ff33",
-        "name": "TAFF-FECHAN-NEUADD-RES",
-        "county": "Brecknockshire",
-        "gridref": "SO020192",
-        "latitude": "51.863",
-        "longitude": "-3.425",
-        "elevation (ft)": "1993"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -3.427,
           51.868
         ]
@@ -131732,6 +133265,27 @@
         "latitude": "51.868",
         "longitude": "-3.427",
         "elevation (ft)": "1925"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.425,
+          51.863
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "TAFF-FECHAN-NEUADD-RES",
+        "county": "Brecknockshire",
+        "gridref": "SO020192",
+        "latitude": "51.863",
+        "longitude": "-3.425",
+        "elevation (ft)": "1993"
       }
     },
     {
@@ -133335,6 +134889,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -1.556,
+          50.668
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "THE-NEEDLES-GOLF-CLUB",
+        "county": "Isle of Wight",
+        "gridref": "SZ315855",
+        "latitude": "50.668",
+        "longitude": "-1.556",
+        "elevation (ft)": "280"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -3.19,
           54.486
         ]
@@ -134133,8 +135708,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -3.376,
-          58.672
+          -3.377,
+          58.671
         ]
       },
       "properties": {
@@ -134143,9 +135718,9 @@
         "marker-color": "66ff33",
         "name": "THURSO-DUNNET-HEAD",
         "county": "Caithness",
-        "gridref": "ND203768",
-        "latitude": "58.672",
-        "longitude": "-3.376",
+        "gridref": "ND2026476718",
+        "latitude": "58.671",
+        "longitude": "-3.377",
         "elevation (ft)": "331"
       }
     },
@@ -137401,7 +138976,7 @@
         "gridref": "NS196072",
         "latitude": "55.326",
         "longitude": "-4.845",
-        "elevation (ft)": "96"
+        "elevation (ft)": "30"
       }
     },
     {
@@ -139019,6 +140594,48 @@
         "latitude": "50.597",
         "longitude": "-1.204",
         "elevation (ft)": "150"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.215,
+          50.597
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "VENTNOR-CEMETERY",
+        "county": "Isle of Wight",
+        "gridref": "SZ556777",
+        "latitude": "50.597",
+        "longitude": "-1.215",
+        "elevation (ft)": "443"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.201,
+          50.595
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "VENTNOR-FLINT-COTTAGE",
+        "county": "Isle of Wight",
+        "gridref": "SZ566775",
+        "latitude": "50.595",
+        "longitude": "-1.201",
+        "elevation (ft)": "99"
       }
     },
     {
@@ -142932,6 +144549,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -1.312,
+          50.767
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "WEST-COWES-HOLMWOOD",
+        "county": "Isle of Wight",
+        "gridref": "SZ485966",
+        "latitude": "50.767",
+        "longitude": "-1.312",
+        "elevation (ft)": "40"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -1.704,
           54.986
         ]
@@ -144298,7 +145936,7 @@
         "type": "Point",
         "coordinates": [
           -0.571,
-          54.48
+          54.479
         ]
       },
       "properties": {
@@ -144307,8 +145945,8 @@
         "marker-color": "66ff33",
         "name": "WHITBY-HAWSKER-GARDEN",
         "county": "Yorkshire North Riding",
-        "gridref": "NZ927103",
-        "latitude": "54.480",
+        "gridref": "NZ927102",
+        "latitude": "54.479",
         "longitude": "-0.571",
         "elevation (ft)": "198"
       }
@@ -144906,7 +146544,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -3.049,
+          -3.052,
           58.479
         ]
       },
@@ -144916,9 +146554,9 @@
         "marker-color": "66ff33",
         "name": "WICK-NOSSHEAD",
         "county": "Caithness",
-        "gridref": "ND389550",
+        "gridref": "ND3875254979",
         "latitude": "58.479",
-        "longitude": "-3.049",
+        "longitude": "-3.052",
         "elevation (ft)": "129"
       }
     },
@@ -147460,7 +149098,7 @@
         "gridref": "TF197633",
         "latitude": "53.153",
         "longitude": "-0.211",
-        "elevation (ft)": "72"
+        "elevation (ft)": "38"
       }
     },
     {
@@ -147902,6 +149540,48 @@
         "latitude": "51.546",
         "longitude": "-1.900",
         "elevation (ft)": "422"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.236,
+          50.722
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "WOOTTON-FERNHILL",
+        "county": "Isle of Wight",
+        "gridref": "SZ540916",
+        "latitude": "50.722",
+        "longitude": "-1.236",
+        "elevation (ft)": "118"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.225,
+          50.724
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "WOOTTON-FERNHILL",
+        "county": "Isle of Wight",
+        "gridref": "SZ548919",
+        "latitude": "50.724",
+        "longitude": "-1.225",
+        "elevation (ft)": "12"
       }
     },
     {
@@ -150275,6 +151955,27 @@
         "latitude": "51.843",
         "longitude": "-3.533",
         "elevation (ft)": "1147"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.775,
+          51.772
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "YSTRADGYNLAIS-YNISCEDWYN-HO",
+        "county": "Brecknockshire",
+        "gridref": "SN776096",
+        "latitude": "51.772",
+        "longitude": "-3.775",
+        "elevation (ft)": "232"
       }
     },
     {
