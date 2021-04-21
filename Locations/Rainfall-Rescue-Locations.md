@@ -1,9 +1,9 @@
-Generation time: Wednesday 21/04/2021 08:57:31 BST
+Generation time: Wednesday 21/04/2021 17:37:07 BST
 
 
 [MO-2020] indicates a location which contributed to the [Met Office 2020 UK Climate Report](https://www.metoffice.gov.uk/research/climate/maps-and-data/about/state-of-climate):
 
-6101 locations under [https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA):
+6097 locations under [https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA):
 
 * [ABBEY-CWMHIR-THE-HALL](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/ABBEY-CWMHIR-THE-HALL)
 * [ABBEY-LEIX-BLANDSFORT](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/ABBEY-LEIX-BLANDSFORT)
@@ -862,11 +862,11 @@ Generation time: Wednesday 21/04/2021 08:57:31 BST
 * [BRIMPTON-STONEHOUSE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/BRIMPTON-STONEHOUSE)
 * [BRINDLE-WHITEHOLME](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/BRINDLE-WHITEHOLME)
 * [BRISLINGTON-THE-BEECHES](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/BRISLINGTON-THE-BEECHES)
+* [BRISTOL](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/BRISTOL)
 * [BRISTOL-DOCKS](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/BRISTOL-DOCKS)
 * [BRISTOL-FILTON](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/BRISTOL-FILTON)
 * [BRISTOL-HOPEWELL-HILL](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/BRISTOL-HOPEWELL-HILL)
 * [BRISTOL-INSTITUTION](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/BRISTOL-INSTITUTION)
-* [BRISTOL-MIX](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/BRISTOL-MIX)
 * [BRISTOL-OVER-COURT-PARK](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/BRISTOL-OVER-COURT-PARK)
 * [BRISTOL-SMALL-STREET](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/BRISTOL-SMALL-STREET)
 * [BRISTOL-ST-JAMES-SQUARE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/BRISTOL-ST-JAMES-SQUARE)
@@ -1602,7 +1602,6 @@ Generation time: Wednesday 21/04/2021 08:57:31 BST
 * [DALRY-WW-FILTERS](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/DALRY-WW-FILTERS)
 * [DALRY-WW-THIRDPART](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/DALRY-WW-THIRDPART)
 * [DALTON-KIRKWOOD](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/DALTON-KIRKWOOD)
-* [DALTON-LANCASHIRE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/DALTON-LANCASHIRE)
 * [DALTON-PARSONAGE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/DALTON-PARSONAGE)
 * [DALWHINNIE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/DALWHINNIE)
 * [DALWHINNIE-DRUMOCHTER-LODGE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/DALWHINNIE-DRUMOCHTER-LODGE)
@@ -2535,7 +2534,6 @@ Generation time: Wednesday 21/04/2021 08:57:31 BST
 * [GREENOCK-WW-SHIELHILL](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/GREENOCK-WW-SHIELHILL) [MO-2020]
 * [GREENOCK-WW-SPANGO-BURN](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/GREENOCK-WW-SPANGO-BURN) [MO-2020]
 * [GREENORE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/GREENORE)
-* [GREENWICH-BELVILLE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/GREENWICH-BELVILLE)
 * [GREENWICH-CROOMS-HILL](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/GREENWICH-CROOMS-HILL)
 * [GREENWICH-ROYAL-HOSPITAL-SCHOOLS](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/GREENWICH-ROYAL-HOSPITAL-SCHOOLS)
 * [GREENWICH-ROYAL-OBSERVATORY](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/GREENWICH-ROYAL-OBSERVATORY)
@@ -2944,7 +2942,6 @@ Generation time: Wednesday 21/04/2021 08:57:31 BST
 * [HULL-WW-ROSEDALE-SEVENTEEN-A](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/HULL-WW-ROSEDALE-SEVENTEEN-A)
 * [HULL-WW-ROSEDALE-SIXTEEN](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/HULL-WW-ROSEDALE-SIXTEEN)
 * [HUNCOAT-BURNLEY-ROAD-RES](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/HUNCOAT-BURNLEY-ROAD-RES)
-* [HUNGERFORD](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/HUNGERFORD)
 * [HUNGERFORD-DENFORD-PARK](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/HUNGERFORD-DENFORD-PARK)
 * [HUNMANBY-HOLLY-BANK](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/HUNMANBY-HOLLY-BANK)
 * [HUNMANBY-WOLD-NEWTON](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/HUNMANBY-WOLD-NEWTON)
@@ -6008,7 +6005,6 @@ Generation time: Wednesday 21/04/2021 08:57:31 BST
 * [WOOPLAW-HOUSE-GALASHIELS](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/WOOPLAW-HOUSE-GALASHIELS)
 * [WOOTON-BASSETT-THE-LIME-KILN](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/WOOTON-BASSETT-THE-LIME-KILN)
 * [WOOTTON-FERNHILL](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/WOOTTON-FERNHILL)
-* [WORCESTER-BALL](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/WORCESTER-BALL)
 * [WORCESTER-BEVERE-LOCK](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/WORCESTER-BEVERE-LOCK)
 * [WORCESTER-DIGLIS-LOCK](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/WORCESTER-DIGLIS-LOCK)
 * [WORCESTER-GAS-WORKS](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/WORCESTER-GAS-WORKS)
@@ -6202,4 +6198,11 @@ Generation time: Wednesday 21/04/2021 08:57:31 BST
 * [GLASGOW](https://github.com/ed-hawkins/rainfall-rescue/tree/master/COMPOSITE-SERIES/GLASGOW)
 * [OXFORD](https://github.com/ed-hawkins/rainfall-rescue/tree/master/COMPOSITE-SERIES/OXFORD)
 * [READING](https://github.com/ed-hawkins/rainfall-rescue/tree/master/COMPOSITE-SERIES/READING)
+
+4 locations under [https://github.com/ed-hawkins/rainfall-rescue/tree/master/UNKNOWN-NGR](https://github.com/ed-hawkins/rainfall-rescue/tree/master/UNKNOWN-NGR):
+
+* [DALTON-LANCASHIRE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/UNKNOWN-NGR/DALTON-LANCASHIRE)
+* [HUNGERFORD-AYLESBURY](https://github.com/ed-hawkins/rainfall-rescue/tree/master/UNKNOWN-NGR/HUNGERFORD-AYLESBURY)
+* [NORTH-SHIELDS](https://github.com/ed-hawkins/rainfall-rescue/tree/master/UNKNOWN-NGR/NORTH-SHIELDS)
+* [WORCESTER-BALL](https://github.com/ed-hawkins/rainfall-rescue/tree/master/UNKNOWN-NGR/WORCESTER-BALL)
 
