@@ -1,21 +1,21 @@
-Generation time: Wednesday 21/04/2021 17:37:07 BST
+Generation time: Saturday 24/04/2021 08:44:29 BST
 
 95 locations under [https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA) which contributed to the [Met Office 2020 UK Climate Report](https://www.metoffice.gov.uk/research/climate/maps-and-data/about/state-of-climate):
 
-* [SPRINKLING-TARN](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/SPRINKLING-TARN) : 5 hours ago : 2021-04-21 12:19:25 +0100 
-* [ARMAGH-OBSERVATORY](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/ARMAGH-OBSERVATORY) : 17 hours ago : 2021-04-20 23:54:20 +0100 
-* [ABERGAVENNY-LARCHFIELD](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/ABERGAVENNY-LARCHFIELD) : 22 hours ago : 2021-04-20 18:40:30 +0100 
-* [BRAEMAR-BANK](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/BRAEMAR-BANK) : 22 hours ago : 2021-04-20 18:40:30 +0100 
-* [BRIGHTON-WW-LEWES-ROAD](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/BRIGHTON-WW-LEWES-ROAD) : 22 hours ago : 2021-04-20 18:40:30 +0100 
-* [KENSINGTON-HOLLAND-HOUSE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/KENSINGTON-HOLLAND-HOUSE) : 23 hours ago : 2021-04-20 18:40:30 +0100 
-* [MARCH](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/MARCH) : 23 hours ago : 2021-04-20 18:40:30 +0100 
-* [HAREWOOD-ARTHINGTON](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/HAREWOOD-ARTHINGTON) : 5 days ago : 2021-04-16 22:28:30 +0100 
-* [TRESCO-ABBEY](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/TRESCO-ABBEY) : 5 days ago : 2021-04-16 22:28:30 +0100 
-* [IPSWICH-BELSTEAD-HALL](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/IPSWICH-BELSTEAD-HALL) : 9 days ago : 2021-04-12 13:49:59 +0100 
+* [SPRINKLING-TARN](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/SPRINKLING-TARN) : 3 days ago : 2021-04-21 12:19:25 +0100 
+* [ARMAGH-OBSERVATORY](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/ARMAGH-OBSERVATORY) : 3 days ago : 2021-04-20 23:54:20 +0100 
+* [ABERGAVENNY-LARCHFIELD](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/ABERGAVENNY-LARCHFIELD) : 4 days ago : 2021-04-20 18:40:30 +0100 
+* [BRAEMAR-BANK](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/BRAEMAR-BANK) : 4 days ago : 2021-04-20 18:40:30 +0100 
+* [BRIGHTON-WW-LEWES-ROAD](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/BRIGHTON-WW-LEWES-ROAD) : 4 days ago : 2021-04-20 18:40:30 +0100 
+* [KENSINGTON-HOLLAND-HOUSE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/KENSINGTON-HOLLAND-HOUSE) : 4 days ago : 2021-04-20 18:40:30 +0100 
+* [MARCH](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/MARCH) : 4 days ago : 2021-04-20 18:40:30 +0100 
+* [HAREWOOD-ARTHINGTON](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/HAREWOOD-ARTHINGTON) : 7 days ago : 2021-04-16 22:28:30 +0100 
+* [TRESCO-ABBEY](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/TRESCO-ABBEY) : 7 days ago : 2021-04-16 22:28:30 +0100 
+* [IPSWICH-BELSTEAD-HALL](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/IPSWICH-BELSTEAD-HALL) : 12 days ago : 2021-04-12 13:49:59 +0100 
 * [KEW-OBSERVATORY](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/KEW-OBSERVATORY) : 3 weeks ago : 2021-04-01 00:40:09 +0100 
 * [GREENOCK-WW-DARNDAFF-MOOR](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/GREENOCK-WW-DARNDAFF-MOOR) : 8 weeks ago : 2021-02-23 22:48:45 +0000 
-* [ABERDEEN-OBSERVATORY](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/ABERDEEN-OBSERVATORY) : 8 weeks ago : 2021-02-22 12:32:28 +0000 
-* [LOCH-LEVEN-SLUICE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/LOCH-LEVEN-SLUICE) : 8 weeks ago : 2021-02-21 23:15:01 +0000 
+* [ABERDEEN-OBSERVATORY](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/ABERDEEN-OBSERVATORY) : 9 weeks ago : 2021-02-22 12:32:28 +0000 
+* [LOCH-LEVEN-SLUICE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/LOCH-LEVEN-SLUICE) : 9 weeks ago : 2021-02-21 23:15:01 +0000 
 * [CHATSWORTH-GDNS](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/CHATSWORTH-GDNS) : 2 months ago : 2021-02-09 23:51:08 +0000 
 * [MONEYDIG](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/MONEYDIG) : 2 months ago : 2021-02-09 23:51:08 +0000 
 * [CAPE-WRATH](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/CAPE-WRATH) : 3 months ago : 2021-02-03 14:21:24 +0000 
@@ -27,8 +27,8 @@ Generation time: Wednesday 21/04/2021 17:37:07 BST
 * [BOSLEY-RES](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/BOSLEY-RES) : 3 months ago : 2021-01-24 19:40:26 +0000 
 * [WHITTLESEA-MERE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/WHITTLESEA-MERE) : 3 months ago : 2021-01-12 20:43:39 +0000 
 * [BOSTON-GRAND-SLUICE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/BOSTON-GRAND-SLUICE) : 5 months ago : 2020-11-16 23:16:55 +0000 
-* [FERRIBY-SLUICE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/FERRIBY-SLUICE) : 5 months ago : 2020-11-10 17:41:42 +0000 
-* [READING-ENGLEFIELD](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/READING-ENGLEFIELD) : 5 months ago : 2020-11-10 17:41:42 +0000 
+* [FERRIBY-SLUICE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/FERRIBY-SLUICE) : 6 months ago : 2020-11-10 17:41:42 +0000 
+* [READING-ENGLEFIELD](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/READING-ENGLEFIELD) : 6 months ago : 2020-11-10 17:41:42 +0000 
 * [GREENOCK-WW-LOCH-THOM](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/GREENOCK-WW-LOCH-THOM) : 6 months ago : 2020-10-12 23:15:37 +0100 
 * [SEAFORDE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/SEAFORDE) : 6 months ago : 2020-10-12 23:15:37 +0100 
 * [STORNOWAY-LIGHTHOUSE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/STORNOWAY-LIGHTHOUSE) : 6 months ago : 2020-10-12 23:15:37 +0100 

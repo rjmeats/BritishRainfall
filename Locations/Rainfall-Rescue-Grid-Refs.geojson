@@ -20733,6 +20733,69 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -1.419,
+          50.65
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "BRIGHSTONE-PITT-PLACE",
+        "county": "Isle of Wight",
+        "gridref": "SZ412835",
+        "latitude": "50.650",
+        "longitude": "-1.419",
+        "elevation (ft)": "190"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.414,
+          50.649
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "BRIGHSTONE-PITT-PLACE",
+        "county": "Isle of Wight",
+        "gridref": "SZ415834",
+        "latitude": "50.649",
+        "longitude": "-1.414",
+        "elevation (ft)": "220"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.42,
+          50.65
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "BRIGHSTONE-PITT-PLACE",
+        "county": "Isle of Wight",
+        "gridref": "SZ411835",
+        "latitude": "50.650",
+        "longitude": "-1.420",
+        "elevation (ft)": "170"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -1.395,
           50.641
         ]
@@ -36434,6 +36497,69 @@
         "latitude": "51.404",
         "longitude": "-3.371",
         "elevation (ft)": "100"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.298,
+          50.758
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "COWES-STEPHENSON-ROAD",
+        "county": "Isle of Wight",
+        "gridref": "SZ496956",
+        "latitude": "50.758",
+        "longitude": "-1.298",
+        "elevation (ft)": "72"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.298,
+          50.755
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "COWES-STEPHENSON-ROAD",
+        "county": "Isle of Wight",
+        "gridref": "SZ495952",
+        "latitude": "50.755",
+        "longitude": "-1.298",
+        "elevation (ft)": "82"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.306,
+          50.756
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "COWES-STEPHENSON-ROAD",
+        "county": "Isle of Wight",
+        "gridref": "SZ490954",
+        "latitude": "50.756",
+        "longitude": "-1.306",
+        "elevation (ft)": "160"
       }
     },
     {
@@ -53419,7 +53545,7 @@
         "marker-color": "66ff33",
         "name": "FERMOY",
         "county": "Cork",
-        "gridref": "W8117798856",
+        "gridref": "IW8117798856",
         "latitude": "52.142",
         "longitude": "-8.275",
         "elevation (ft)": "114"
@@ -62726,6 +62852,27 @@
         "latitude": "51.913",
         "longitude": "-3.055",
         "elevation (ft)": "900"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.545,
+          49.456
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "GUERNSEY-GRANGE-ROAD",
+        "county": "Guernsey",
+        "gridref": "WV329782",
+        "latitude": "49.456",
+        "longitude": "-2.545",
+        "elevation (ft)": "195"
       }
     },
     {
@@ -74682,6 +74829,69 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -1.546,
+          50.679
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "ISLE-OF-WIGHT-TOTLAND-BAY",
+        "county": "Isle of Wight",
+        "gridref": "SZ321866",
+        "latitude": "50.679",
+        "longitude": "-1.546",
+        "elevation (ft)": "85"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.545,
+          50.678
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "ISLE-OF-WIGHT-TOTLAND-BAY",
+        "county": "Isle of Wight",
+        "gridref": "SZ322865",
+        "latitude": "50.678",
+        "longitude": "-1.545",
+        "elevation (ft)": "145"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.544,
+          50.679
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "ISLE-OF-WIGHT-TOTLAND-BAY",
+        "county": "Isle of Wight",
+        "gridref": "SZ323867",
+        "latitude": "50.679",
+        "longitude": "-1.544",
+        "elevation (ft)": "100"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -2.893,
           50.977
         ]
@@ -74955,6 +75165,48 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -2.048,
+          49.17
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "JERSEY-LA-ROQUE-SANDHURST",
+        "county": "Jersey",
+        "gridref": "WV694467",
+        "latitude": "49.170",
+        "longitude": "-2.048",
+        "elevation (ft)": "30"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.045,
+          49.171
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "JERSEY-LA-ROQUE-SANDHURST",
+        "county": "Jersey",
+        "gridref": "WV696470",
+        "latitude": "49.171",
+        "longitude": "-2.045",
+        "elevation (ft)": "30"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -2.132,
           49.205
         ]
@@ -74976,6 +75228,111 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -2.17,
+          49.189
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "JERSEY-ST-AUBINS",
+        "county": "Jersey",
+        "gridref": "WV604488",
+        "latitude": "49.189",
+        "longitude": "-2.170",
+        "elevation (ft)": "140"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.173,
+          49.184
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "JERSEY-ST-AUBINS",
+        "county": "Jersey",
+        "gridref": "WV603482",
+        "latitude": "49.184",
+        "longitude": "-2.173",
+        "elevation (ft)": "270"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.17,
+          49.188
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "JERSEY-ST-AUBINS",
+        "county": "Jersey",
+        "gridref": "WV604486",
+        "latitude": "49.188",
+        "longitude": "-2.170",
+        "elevation (ft)": "35"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.174,
+          49.194
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "JERSEY-ST-AUBINS-BELLE-VUE",
+        "county": "Jersey",
+        "gridref": "WV603493",
+        "latitude": "49.194",
+        "longitude": "-2.174",
+        "elevation (ft)": "220"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.222,
+          49.187
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "JERSEY-ST-BRELADE",
+        "county": "Jersey",
+        "gridref": "WV567486",
+        "latitude": "49.187",
+        "longitude": "-2.222",
+        "elevation (ft)": "194"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -2.096,
           49.191
         ]
@@ -74990,6 +75347,27 @@
         "latitude": "49.191",
         "longitude": "-2.096",
         "elevation (ft)": "180"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.199,
+          49.225
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "JERSEY-ST-OUENS-MANOR",
+        "county": "Jersey",
+        "gridref": "WV583528",
+        "latitude": "49.225",
+        "longitude": "-2.199",
+        "elevation (ft)": "280"
       }
     },
     {
@@ -93343,7 +93721,7 @@
         "gridref": "TQ465239",
         "latitude": "50.996",
         "longitude": "0.086",
-        "elevation (ft)": "250"
+        "elevation (ft)": "182"
       }
     },
     {
@@ -93638,27 +94016,6 @@
         "latitude": "52.489",
         "longitude": "-0.920",
         "elevation (ft)": "348"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -0.69,
-          52.735
-        ]
-      },
-      "properties": {
-        "marker-symbol": "circle-stroked",
-        "marker-size": "small",
-        "marker-color": "66ff33",
-        "name": "MARKET-OVERTON",
-        "county": "Rutland",
-        "gridref": "SK885160",
-        "latitude": "52.735",
-        "longitude": "-0.690",
-        "elevation (ft)": "475"
       }
     },
     {
@@ -96262,7 +96619,7 @@
         "gridref": "SU849184",
         "latitude": "50.959",
         "longitude": "-0.793",
-        "elevation (ft)": "160"
+        "elevation (ft)": "276"
       }
     },
     {
@@ -119496,6 +119853,48 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -1.159,
+          50.652
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "SANDOWN-BELGRAVE-HOUSE",
+        "county": "Isle of Wight",
+        "gridref": "SZ595839",
+        "latitude": "50.652",
+        "longitude": "-1.159",
+        "elevation (ft)": "105"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.165,
+          50.65
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "SANDOWN-BELGRAVE-HOUSE",
+        "county": "Isle of Wight",
+        "gridref": "SZ591837",
+        "latitude": "50.650",
+        "longitude": "-1.165",
+        "elevation (ft)": "105"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -1.153,
           50.654
         ]
@@ -119741,6 +120140,48 @@
         "latitude": "49.432",
         "longitude": "-2.359",
         "elevation (ft)": "340"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.352,
+          49.432
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "SARK-VALLEE-DU-CREUX",
+        "county": "Sark",
+        "gridref": "WV469756",
+        "latitude": "49.432",
+        "longitude": "-2.352",
+        "elevation (ft)": "300"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.346,
+          49.436
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "SARK-VALLEE-DU-CREUX",
+        "county": "Sark",
+        "gridref": "WV474761",
+        "latitude": "49.436",
+        "longitude": "-2.346",
+        "elevation (ft)": "215"
       }
     },
     {
@@ -141182,6 +141623,27 @@
         "latitude": "51.711",
         "longitude": "-2.916",
         "elevation (ft)": "70"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.869,
+          52.903
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "UTTOXETER",
+        "county": "Staffordshire",
+        "gridref": "SK089340",
+        "latitude": "52.903",
+        "longitude": "-1.869",
+        "elevation (ft)": "295"
       }
     },
     {

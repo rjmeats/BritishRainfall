@@ -1,9 +1,9 @@
-Generation time: Wednesday 21/04/2021 17:37:07 BST
+Generation time: Saturday 24/04/2021 08:44:29 BST
 
 
 [MO-2020] indicates a location which contributed to the [Met Office 2020 UK Climate Report](https://www.metoffice.gov.uk/research/climate/maps-and-data/about/state-of-climate):
 
-6097 locations under [https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA):
+6095 locations under [https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA):
 
 * [ABBEY-CWMHIR-THE-HALL](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/ABBEY-CWMHIR-THE-HALL)
 * [ABBEY-LEIX-BLANDSFORT](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/ABBEY-LEIX-BLANDSFORT)
@@ -2550,7 +2550,6 @@ Generation time: Wednesday 21/04/2021 17:37:07 BST
 * [GRIMWITH-TRUNLA-HILL](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/GRIMWITH-TRUNLA-HILL)
 * [GRISEDALE-RUTHWAITE-LODGE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/GRISEDALE-RUTHWAITE-LODGE)
 * [GRWYNE-FAWR-COED-DIAS](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/GRWYNE-FAWR-COED-DIAS)
-* [GUERNSEY-COBO-CASTEL](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/GUERNSEY-COBO-CASTEL)
 * [GUERNSEY-GRANGE-ROAD](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/GUERNSEY-GRANGE-ROAD)
 * [GUERNSEY-HAUT-NEZ](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/GUERNSEY-HAUT-NEZ)
 * [GUERNSEY-ST-MARTINS-LES-BLANCHES](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/GUERNSEY-ST-MARTINS-LES-BLANCHES)
@@ -4770,7 +4769,6 @@ Generation time: Wednesday 21/04/2021 17:37:07 BST
 * [RYAT-LYNN](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/RYAT-LYNN)
 * [RYDAL-THE-HALL](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/RYDAL-THE-HALL)
 * [RYDAL-THE-STEPPING-STONES](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/RYDAL-THE-STEPPING-STONES)
-* [RYDE-CLIFTON-HOUSE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/RYDE-CLIFTON-HOUSE)
 * [RYDE-ESPLANADE-GDNS](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/RYDE-ESPLANADE-GDNS)
 * [RYDE-PERIVALE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/RYDE-PERIVALE)
 * [RYDE-PIER-STREET](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/RYDE-PIER-STREET)
@@ -6103,7 +6101,7 @@ Generation time: Wednesday 21/04/2021 17:37:07 BST
 * [YSTRADGYNLAIS-YNISCEDWYN-HO](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/YSTRADGYNLAIS-YNISCEDWYN-HO)
 * [YSTRADYFODWG-FYNTYLA-HOSPITAL](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/YSTRADYFODWG-FYNTYLA-HOSPITAL)
 
-86 locations under [https://github.com/ed-hawkins/rainfall-rescue/tree/master/POOR-LOCATIONS](https://github.com/ed-hawkins/rainfall-rescue/tree/master/POOR-LOCATIONS):
+88 locations under [https://github.com/ed-hawkins/rainfall-rescue/tree/master/POOR-LOCATIONS](https://github.com/ed-hawkins/rainfall-rescue/tree/master/POOR-LOCATIONS):
 
 * [ABERDEEN](https://github.com/ed-hawkins/rainfall-rescue/tree/master/POOR-LOCATIONS/ABERDEEN)
 * [ABERDOVEY](https://github.com/ed-hawkins/rainfall-rescue/tree/master/POOR-LOCATIONS/ABERDOVEY)
@@ -6135,6 +6133,7 @@ Generation time: Wednesday 21/04/2021 17:37:07 BST
 * [DOBCROSS](https://github.com/ed-hawkins/rainfall-rescue/tree/master/POOR-LOCATIONS/DOBCROSS)
 * [EDINBURGH-MIX](https://github.com/ed-hawkins/rainfall-rescue/tree/master/POOR-LOCATIONS/EDINBURGH-MIX)
 * [EXETER-WHITSTONE-RECTORY](https://github.com/ed-hawkins/rainfall-rescue/tree/master/POOR-LOCATIONS/EXETER-WHITSTONE-RECTORY)
+* [GUERNSEY-COBO-CASTEL](https://github.com/ed-hawkins/rainfall-rescue/tree/master/POOR-LOCATIONS/GUERNSEY-COBO-CASTEL)
 * [HAMPSTEAD-BRANCH-HILL](https://github.com/ed-hawkins/rainfall-rescue/tree/master/POOR-LOCATIONS/HAMPSTEAD-BRANCH-HILL)
 * [HAMPSTEAD-THE-GROVE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/POOR-LOCATIONS/HAMPSTEAD-THE-GROVE)
 * [HELMSDALE-STATION](https://github.com/ed-hawkins/rainfall-rescue/tree/master/POOR-LOCATIONS/HELMSDALE-STATION)
@@ -6172,6 +6171,7 @@ Generation time: Wednesday 21/04/2021 17:37:07 BST
 * [ROCHDALE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/POOR-LOCATIONS/ROCHDALE)
 * [ROTHIEMAY](https://github.com/ed-hawkins/rainfall-rescue/tree/master/POOR-LOCATIONS/ROTHIEMAY)
 * [ROW-GARELOCH](https://github.com/ed-hawkins/rainfall-rescue/tree/master/POOR-LOCATIONS/ROW-GARELOCH)
+* [RYDE-CLIFTON-HOUSE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/POOR-LOCATIONS/RYDE-CLIFTON-HOUSE)
 * [SELATYN](https://github.com/ed-hawkins/rainfall-rescue/tree/master/POOR-LOCATIONS/SELATYN)
 * [SELSIDE-LOWBRIDGE-HOUSE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/POOR-LOCATIONS/SELSIDE-LOWBRIDGE-HOUSE)
 * [SLEAFORD-ASWARBY-RECTORY](https://github.com/ed-hawkins/rainfall-rescue/tree/master/POOR-LOCATIONS/SLEAFORD-ASWARBY-RECTORY)
