@@ -1,4 +1,4 @@
-Generation time: Saturday 24/04/2021 08:44:29 BST
+Generation time: Monday 26/04/2021 17:14:07 BST
 
 
 [MO-2020] indicates a location which contributed to the [Met Office 2020 UK Climate Report](https://www.metoffice.gov.uk/research/climate/maps-and-data/about/state-of-climate):
@@ -2296,7 +2296,7 @@ Generation time: Saturday 24/04/2021 08:44:29 BST
 * [GARELOCHEAD-AIKENSHAW](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/GARELOCHEAD-AIKENSHAW)
 * [GARELOCHHEAD-ARDDARROCH](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/GARELOCHHEAD-ARDDARROCH)
 * [GARFORTH-MANOR-FARM](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/GARFORTH-MANOR-FARM)
-* [GARGRAVE-BANKS-HILL-BANK](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/GARGRAVE-BANKS-HILL-BANK)
+* [GARGRAVE-BANKS-HILL-BANK-NEWTON](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/GARGRAVE-BANKS-HILL-BANK-NEWTON)
 * [GARGRAVE-GREAT-SCARNBER](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/GARGRAVE-GREAT-SCARNBER)
 * [GARGRAVE-RAY-BRIDGE-HILL](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/GARGRAVE-RAY-BRIDGE-HILL)
 * [GARGUNNOCK](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/GARGUNNOCK)
