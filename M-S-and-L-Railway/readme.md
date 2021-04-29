@@ -9,8 +9,8 @@ Contents of this folder:
 * **MSLR_GaugeInfo.xlsx** is an Excel spreadsheet listing each gauge and a few summary details, for example its period of operation and a grid reference.
 * **MSLR_GaugeSheetIndex.csv** identifies the Met Office PDF document and page number for each MS&LR rainfall sheet. It has one row per sheet for each gauge (with each sheet covering a decade of monthly rainfall figures).
 * [**1840s.md**](1840s.md) which describes how a few of the MS&LR rain gauges had roots in gauges being used in the 1840s.
-* **Portfolio.md** which lists some railways and canals owned by MS&LR
-* **RainGaugeLocations.md** describes an attempt to assign grid references to the MS&LR rain gauge locations.
+* [**Portfolio.md**](Portfolio.md) which lists some railways and canals owned by MS&LR
+* [**RainGaugeLocations.md**](RainGaugeLocations.md) describes an attempt to assign grid references to the MS&LR rain gauge locations.
 * the **RainfallSheets** folder contains a PDF file for each MS&LR rain gauge location showing the combined set of rainfall sheets for that location, extracted from the Met Office archive.
 
 The transcribed rainfall sheets for the MS&LR gauges (and many others) are available on the Rainfall Rescue GitHub site is at [https://github.com/ed-hawkins/rainfall-rescue](https://github.com/ed-hawkins/rainfall-rescue).
