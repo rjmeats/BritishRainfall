@@ -6,7 +6,7 @@ A summary of the transport-related items that MS&LR (and later The Great Central
 
 MS&LR was created by the amalgamation of three existing railway companies:
 
-* the [Sheffield, Ashton under Lyne and Manchester Railway](https://en.wikipedia.org/wiki/Sheffield,_Ashton-under-Lyne_and_Manchester_Railway) SA&MR
+* the [Sheffield, Ashton under Lyne and Manchester Railway](https://en.wikipedia.org/wiki/Sheffield,_Ashton-under-Lyne_and_Manchester_Railway) (SA&MR)
 * the [Great Grimsby and Sheffield Junction Railway](https://en.wikipedia.org/wiki/Great_Grimsby_and_Sheffield_Junction_Railway)
 * the [Sheffield and Lincolnshire Junction Railway](https://en.wikipedia.org/wiki/Sheffield_and_Lincolnshire_Junction_Railway)
 
@@ -15,7 +15,7 @@ It came into being at the start of 1847.
 ## Railways
 
 |Railway|Notes|
-|-------|-----|
+|:------|:----|
 |[Macclesfield, Bollington and Marple Railway](https://en.wikipedia.org/wiki/Macclesfield,_Bollington_and_Marple_Railway)| A joint railway with the North Staffordshire Railway Company, opened in 1869.|
 |[Woodhead Line](https://en.wikipedia.org/wiki/Woodhead_line)|Manchester to Sheffield via Mottram, [the Woodhead Tunnel](https://en.wikipedia.org/wiki/Woodhead_Tunnel), Dunford Bridge and Penistone.|
 |[South Yorkshire Railway](https://en.wikipedia.org/wiki/South_Yorkshire_Railway)| Swinton to Doncaster; Rotherham to Barnsley|
