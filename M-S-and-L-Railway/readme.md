@@ -15,4 +15,4 @@ Contents of this folder:
 
 The transcribed rainfall sheets for the MS&LR gauges (and many others) are available on the Rainfall Rescue GitHub site is at [https://github.com/ed-hawkins/rainfall-rescue](https://github.com/ed-hawkins/rainfall-rescue).
 
-Samuel Homersham, the MS&LR Civil Engineer, produced this [1848 report](https://books.google.co.uk/books?id=2RUHAAAAQAAJ) (downloadable as a PDF from Google books). It uses data from the early rain gauges to make its case for Manchester getting its clean water supplies from the rain falling on MS&LR moorland. See **1840s.md** for more on this.
+Samuel Homersham, the MS&LR Civil Engineer, produced this [1848 report](https://books.google.co.uk/books?id=2RUHAAAAQAAJ) (downloadable as a PDF from Google books). It uses data from the early rain gauges to make its case for Manchester getting its clean water supplies from the rain falling on MS&LR moorland. See [**1840s.md**](1840s.md) for more on this.
