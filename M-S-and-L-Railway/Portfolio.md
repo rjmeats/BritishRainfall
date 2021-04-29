@@ -70,9 +70,9 @@ Both were the location of an MS&LR rain gauge.
 [Colonel George Morland Hutton](https://archive.org/details/visitationengla00britgoog/page/n111/mode/2up) lived at Gate Burton just south of Gainsborough, and was a director of the Great Central Railway. Gate Burton is the location of one of the MS&LR rain gauges.
 
 
-Another rain gauge location that seems likely to be private homes, but where the detailed location and family-to-MS&LR link has not been established:
+Another rain gauge location that seems likely to be at a private home, but where the detailed location and family-to-MS&LR link has not been established:
 
-* Edge End in Sheffield ?
+* The Edge / Edge End in Sheffield, in the Brincliffe Edge area
 
 [Edward Montagu-Stuart-Wortley-Mackenzie, 1st Earl of Wharncliffe](https://en.wikipedia.org/wiki/Edward_Montagu-Stuart-Wortley-Mackenzie,_1st_Earl_of_Wharncliffe) was Chairman of MS&LR when it became the Great Central Railway in 1897. He owned [Wortley Hall](https://en.wikipedia.org/wiki/Wortley_Hall), near Wortley Station on the Woodhead line. The 'Wortley' MS&LR rain gauge could be at either the station or at Wortley Hall.
 
