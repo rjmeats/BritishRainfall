@@ -25,7 +25,7 @@ Another location-type consideration is that the rain gauge needs to be located s
 
 ## Key MS&LR Corporate Events ##
 
-The operational dates of the MS&LR rain gauges cover the period 1840 - 1922. During that time their were various important events in the complicated corporate history of MS&LR. Where the operational dates of particular gauges tie in with the dates of important events in MS&LR history, this can help to group the gauges into related sets.
+The operational dates of the MS&LR rain gauges cover the period 1840 - 1922. During that time there were various important events in the complicated corporate history of MS&LR. Where the operational dates of particular gauges tie in with the dates of important events in MS&LR history, this can help to group the gauges into related sets.
 
 The key MS&LR corporate events in relation to this are:
 
@@ -57,7 +57,7 @@ Compared to other rainfall sheets, the MS&LR rainfall sheets have relatively few
 
 Aspects of the MS&LR rainfall sheets which can provide information which is used in locating a rain gauge:
 - the *location name*; in some cases this is reasonably explicit (e.g. 'Station' or 'Reservoir' is in the name) but often it is just the name of a town or area
-- the *altitude*; in some cases this can help to differentiate railway-based and canal-based locations, although in most towns which have both, they are at similar altitudes
+- the *elevation*; in some cases this can help to differentiate railway-based and canal-based locations, although in most towns which have both, they are at similar elevations
 - the dates of operation; the MS&LR rain gauges often form sets with very similar start dates. This seems likely to indicate that the gauges in a set have related locations, e.g. by belonging to the same railway or canal. The dates can also tie in to some of the MS&LR corporate events or to dates when particular railway stations were in operation, allowing some location possibilities to be ruled in or out.
 - occasionally there are contemporary notes written on the rainfall sheet which provide useful information about the gauge location
 
@@ -65,13 +65,13 @@ Aspects of the MS&LR rainfall sheets which can provide information which is used
 
 The grid references assigned to MS&LR are often approximate, even when the location type has been determined with some confidence:
 
-* in 10 cases, the rain gauge was marked on the old OS Map, making grid reference assignment straight-forward and accurate
+* in 11 cases, the rain gauge was marked on the old OS Map, making grid reference assignment straight-forward and accurate
 * for railway-based locations, the location was normally taken to be at a specific railway station, so a grid reference based on the station has been used. But in at least two cases (Mottram and Penistone Hazlehead), the rainfall sheets indicate that the gauge was in a field/meadow rather than within the station itself, and this may be true but not mentioned at other station locations too. 
-* for canal-based locations, the confidence in the gird reference assigned varies quite a lot:
+* for canal-based locations, the confidence in the grid reference assigned varies quite a lot:
   * a few gauges are shown on the map
-  * sometimes the location name indicates a specific canal feature (lock or aqueduct) that can give a fairly accurate grid reference, especially in combination with the altitude value
+  * sometimes the location name indicates a specific canal feature (lock or aqueduct) that can give a fairly accurate grid reference, especially in combination with the elevation value
   * but otherwise the grid reference assigned would be an arbitrarily selected canal feature in the vicinity, such as a lock or a basin, so the grid reference is really just indicative
-* for the private residence rain gauges, the rain gauge at Mottram Hill End is shown on the map, but for the others the grid reference is based on somewhere within the residence grounds at the appropriate altitude.
+* for the private residence rain gauges, the rain gauge at Mottram Hill End is shown on the map, but for the others the grid reference is based on somewhere within the residence grounds at the appropriate elevation.
 
 The actual grid references selected for each location are listed in the 'Location Summary' sheet of the [MSLR_GaugeInfo spreadsheet](MSLR_GaugeInfo.xlsx). The sheet also has a link to an old OS Map showing the location.
 
@@ -118,31 +118,32 @@ For most of the rain gauges assigned to these canal groupings, there is a clear 
 * **Marple Top Lock** and **Marple Aqueduct** are part of the canal infrastructure near the town of Marple, (where the Macclesfield Canal joins the Peak Forest Canal).
 * the [Peak Forest Tramway](http://www.pittdixon.go-plus.net/pft/$pft.htm), was used to transport limestone in wagons to the Peak Forest Canal. The Tramway included the gravity-driven ['Inclined Plane'](http://www.pittdixon.go-plus.net/pft/inclined-plane.htm) just outside the town of Chapel-en-le-Frith. The **Chapel-en-le-Frith** rain gauge is actually at the top of the Inclined Plane - some of the rainfall sheets mention this, and the gauge position is [marked](https://maps.nls.uk/geo/explore/#zoom=18&lat=53.31986&lon=-1.89976&layers=168&b=1) on an old OS map.
 
-* **Bosley Reservoir** provides water for the Macclesfield Canal, with **Bosley Minns** forming part of the catchment area of the reservoir. The Bosley Reservoir rain gauge is shown on the old OS Map.
+* **Bosley Reservoir** provides water for the Macclesfield Canal, with **Bosley Minns** forming part of the catchment area of the reservoir. Both rain gauges are shown on the old OS Map.
 
 * **Ashton Waterhouses** was a set of four locks on the Hollinwood branch of the Ashton Canal.
 
 For the remaining rain gauges assigned to these canal groupings, a little more explanation is needed, as plausible railway alternatives exist:
 
 * for the **Macclesfield** gauge:
-  * the rainfall sheets make no reference to whether this was a railway or canal site; they give an unchanging altitude of 539 ft
+  * the rainfall sheets make no reference to whether this was a railway or canal site; they give an unchanging elevation of 539 ft
   * MS&LR did not open a railway to Macclesfield until the 1860s, and had no station there until 1869, with the Central Station opening in 1873; but rain gauge operation began a lot earlier than this, in 1855
-  * 539 ft is a good fit for the altitude of the Macclesfield Canal, which runs along the hillside on the eastern side of Macclesfield, whereas the Central Station altitude is about 100 ft lower
+  * 539 ft is a good fit for the elevation of the Macclesfield Canal, which runs along the hillside on the eastern side of Macclesfield, whereas the Central Station elevation is about 100 ft lower
   * .. and so a canal-based location for the rain gauge seems likely
   * the canal in Macclesfield has no locks or basins as obvious places for the rain gauge grid reference, so a spot at Richmond Hill bridge over the canal has arbitrarily been chosen to provide an indicative grid reference 
 
 * for the **Manchester Fairfield** gauge:
-  * the MS&LR railway and MS&LR's Ashton canal both run through the Fairfield area, at a similar altitude
+  * the MS&LR railway and MS&LR's Ashton canal both run through the Fairfield area, at a similar elevation
   * Fairfield Station might be a location for the rain gauge; the current station was opened by MS&LR in 1892, with a station further to the west being used before then
   * Fairfield Lock on the Ashton Canal, by Fairfield junction where the Hollinwood Branch of the canal splits off, might be a possible canal-based location
-  * the main rainfall sheets make no reference to whether this was a railway or canal site; they give an altitude of 312 ft throughout, with no indication of the gauge having been moved
-  * one 1840 rainfall sheet does refer to the Ashton & Peak Forest Canal, quoting a very slightly different altitude (320 ft)
+  * the main rainfall sheets make no reference to whether this was a railway or canal site; they give an elevation of 312 ft throughout, with no indication of the gauge having been moved
+  * one 1840 rainfall sheet does refer to the Ashton & Peak Forest Canal, quoting a very slightly different elevation (320 ft)
   * with nothing conclusive either way, the canal-based location has been chosen to provide the grid reference for this rain gauge. (If the early railway station location was chosen instead, it would fit easily into the 'Woodhead Railway' group of gauges listed later.)
   
   for the **Manchester Piccadilly** gauge:
   * the MS&LR railway and MS&LR's Ashton Canal both terminate in the Piccadilly area of Manchester (i.e. close to the street called *Piccadilly*)
   * the MS&LR station in the area was called *Manchester Store Street* initially, and renamed *Manchester London Road* in 1847. This station only became known as *Manchester Piccadilly* in 1960, so the location 'Manchester Piccadilly' on the rainfall sheets is not referring to the railway station
   * the rain gauge location seems likely to be near the Ashton Canal basin and wharfs, at the point where the Ashton and Rochdale Canals meet, near Dulcie Street and the London Road Goods Station, just off Piccadilly.
+  * you can zoom in to [this old map](https://maps.nls.uk/view/102344087) to see where the Ashton Canal originaly ran in the Piccadilly area.
   
 ## 'Woodhead Railway' Rain Gauge Locations
 
@@ -162,10 +163,10 @@ A set of MS&LR rain gauges are located at their stations along the Woodhead line
 * **Wortley**
 * **Sheffield Victoria Station**
 
-Of these, only *Wortley* has a plausible non-railway location option. Wortley Hall, close to Wortley Station and at a similar altitude, was owned by the [Earl of Warncliffe](https://www.wikiwand.com/en/Earl_of_Wharncliffe) who was chairman of MS&LR, and so this might fit into the 'Private Residence' group of gauges, especially as this rain gauge has a much later operational start date.
+Of these, only *Wortley* has a plausible non-railway location option. Wortley Hall, close to Wortley Station and at a similar elevation, was owned by the [Earl of Warncliffe](https://www.wikiwand.com/en/Earl_of_Wharncliffe) who was chairman of MS&LR, and so this might fit into the 'Private Residence' group of gauges, especially as this rain gauge has a much later operational start date.
 
 A few other notes on some of these locations:
-* the early rainfall sheets for *Mottram Station* refer to it as *Mottram Matley's Field* instead. The 1890s sheet says the gauge moved 125 yards to the station in 1897, and records an altitude which is 50 ft higher. The original position of the gauge, in the field, is shown on the old OS Map, and is used as the grid reference for this location.
+* the early rainfall sheets for *Mottram Station* refer to it as *Mottram Matley's Field* instead. The 1890s sheet says the gauge moved 125 yards to the station in 1897, and records an elevation which is 50 ft higher. The original position of the gauge, in the field, is shown on the old OS Map, and is used as the grid reference for this location.
 * the 1920s *Penistone* rainfall sheet has a note saying the gauge is on the corner of a platform of the goods station, west of the passenger station. The goods station was the original Penistone passenger station, replaced in 1875.
 * the 1920s *Penistone Hazlehead* rainfall sheet has a note saying the gauge is in a small enclosed meadow. This is presumably close to Hazlehead Bridge station.
 
@@ -182,16 +183,16 @@ A set of MS&LR rain gauges are located on the route of the canal, and all have r
 * the Chesterfield Canal runs through a set of locks at **[Killamarsh] Norwood** just before entering the Norwood Tunnel. There are no MS&LR railway lines near to Norwood.
 
 For the other two locations, **Retford** and **Worksop**, there is a possibility of these being railway-related rather than canal-based, as the MS&LR Sheffield to Gainsborough line runs through these towns. There's no clear evidence one way or the other:
-* Retford and Worksop start recording rainfall in exactly the same month (may 1855) as Chesterfield and Stockwith, which are almost certainly canal-based locations
+* Retford and Worksop start recording rainfall in exactly the same month (May 1855) as Chesterfield and Stockwith, which are almost certainly canal-based locations
 * neither Retford's nor Worksops's rainfall sheets included 'Station' in their initial location name
 * but 'Station' has been retrospectively (time unknown) added to the Worksop sheets, without explanation
-* there's no significant altitude difference between the canal and railway locations
+* there's no significant elevation difference between the canal and railway locations
 
 In the absence of clear 'railway' indicators, Retford and Worksop are both being treated as canal-based rain gauge locations. (If one or both was to be treated as being a railway-based location, then a separate group of rain gauge(s) for the Sheffield to Gainsborough line would be in order.)
 
 A few other notes on the location of the Chesterfield Canal rain gauges:
-* Chesterfield's rain gauge shows some small changes in altitude during the 1890s and 1900s, around the time MS&LR were extending their railway network to Chesterfield and opening a station there. Chesterfield's 1920s rainfall sheet notes that the rain gauge is at the northern end of the platform near the signal box. Taken together, it seems likely that the Chesterfield rain gauge was moved from its initial canal-based location to the newly-built railway station in the 1890s or 1900s.
-* the Killamarsh Norwood rainfall sheets show a change in altitude from 1902. The initial altitude and the new altitude are both compatible with the Chesterfield Canal in the Norwood area - perhaps the gauge was moved to a different lock ?
+* Chesterfield's rain gauge shows some small changes in elevation during the 1890s and 1900s, around the time MS&LR were extending their railway network to Chesterfield and opening a station there. Chesterfield's 1920s rainfall sheet notes that the rain gauge is at the northern end of the platform near the signal box. Taken together, it seems likely that the Chesterfield rain gauge was moved from its initial canal-based location to the newly-built railway station in the 1890s or 1900s.
+* the Killamarsh Norwood rainfall sheets show a change in elevation from 1902. The initial elevation and the new elevation are both compatible with the Chesterfield Canal in the Norwood area - perhaps the gauge was moved to a different lock ?
 
 ## 'Lincolnshire Railways' Rain Gauge Locations
 
@@ -222,7 +223,7 @@ A few of the MS&LR rain gauge locations were located at private residences rathe
 * **Penistone Carlcotes** - John Chapman also owned Carlecotes, between Dunford Bridge and Hazlehead. So it seems he had two houses near the Woodhead line, one on each side of the Woodhead Tunnel.
 
 
-**Sheffield Brincliffe Edge** also seems to belong to this set given its start date and lack of any obvious links to MS&LR railway and canal systems. The early rainfall sheets just refer to this location as *Sheffield, The Edge* which is likely to indicate a property called *Edge End* on a track called *The Edge* near Brincliffe Edge. But owner of the property and his or her links to MS&LR have not been determined however.
+**Sheffield Brincliffe Edge** also seems to belong to this set given its start date and lack of any obvious links to MS&LR railway and canal systems. The early rainfall sheets just refer to this location as *Sheffield, The Edge* which is likely to indicate a property called *Edge End* on a track called *The Edge* near Brincliffe Edge. But the owner of the property and his or her links to MS&LR have not been determined.
 
 ## 'South Yorkshire Waterways' Rain Gauge Locations
 
@@ -236,7 +237,7 @@ in 1864, MS&LR leased and then in 187 bought a set of South Yorkshire waterways.
 
 In 1895, MS&LR were forced to sell them all to the [Sheffield and South Yorkshire Navigation Company](https://en.wikipedia.org/wiki/Sheffield_and_South_Yorkshire_Navigation).
 
-Several MS&LR rain gauges are closely linked to locations on these waterways. All but one of the locations comes into operation in April 1867, and most of them have a small change in altitude recorded in the mid 1890s, which may reflect the gauges being relocated from canal-type locations to nearby MS&LR railway locations after the waterways were sold.
+Several MS&LR rain gauges are closely linked to locations on these waterways. All but one of the locations comes into operation in April 1867, and most of them have a small change in elevation recorded in the mid 1890s, which may reflect the gauges being relocated from canal-type locations to nearby MS&LR railway locations after the waterways were sold.
 
 The locations concerned were:
 
@@ -248,9 +249,9 @@ The locations concerned were:
 * **Sheffield Tinsley Locks** - a set of 7 locks on the Sheffield and Tinsley Canal at the edge of Sheffield
 * **Crowle Keadby** - the Stainforth and Keadby Canal joins the River Trent at Keadby
 
-The Rotherham rain gauge only operated for three years 1867-69, with its rainfall sheet reporting that the gauge was moved because it was in the way of a new railway line. The Sheffield Tinsley Locks rain gauge started operating in 1870 - conceivably this was the new location for the Rotherham rain gauge, explaining why the Sheffield location started reporting after the other locations in this set.
+The Rotherham rain gauge only operated for three years 1867-69, with its rainfall sheet reporting that the gauge was moved because it was in the way of a new railway line. The Sheffield Tinsley Locks rain gauge started operating in 1870 - perhaps this was the new location for the Rotherham rain gauge, explaining why the Sheffield location started reporting after the other locations in this set.
 
-Most of the rain gauges report a change of altitude, usually in the mid-1890s, tying in with the date when the waterways becoming independent of MS&LR. Rain gauge readings continue for nearly 30 years after this, still in the name of MS&LR (and its successor GCR), implying that gauges at waterways sites had probably been relocated to a nearby MS&LR railway site. There were MS&LR railway lines close to the various waterways (often running parallel to them), but not necessarily stations.
+Most of the rain gauges report a change of elevation, usually in the mid-1890s, tying in with the date when the waterways became independent of MS&LR. Rain gauge readings continue for nearly 30 years after this, still in the name of MS&LR (and its successor GCR), implying that gauges at waterways sites had probably been relocated to a nearby MS&LR railway site. There were MS&LR railway lines close to the various waterways (often running parallel to them), but not necessarily stations.
 
 ## 'Cheshire Lines Railway' Rain Gauge Locations
 
@@ -267,7 +268,7 @@ In 1889, after a period of expansion, MS&LR started to operate rain gauges at lo
 * **Warrington Central Station**
 
 A couple of locations are less clear:
-* **Hawarden** - this rain gauge cannot be located at Hawarden Station (in North Wales) or anywhere nearby. The rainfall sheets give the altitude of the gauge as just 35 ft, where Hawarden Station and the town of Hawarden is at around 250 ft. *Hawarden Bridge* railway bridge across the River Dee (2-3 miles from Hawarden itself) seems a possible site for the gauge at about the right altitude.
+* **Hawarden** - this rain gauge cannot be located at Hawarden Station (in North Wales) or anywhere nearby. The rainfall sheets give the elevation of the gauge as just 35 ft, where Hawarden Station and the town of Hawarden is at around 250 ft. *Hawarden Bridge* railway bridge across the River Dee (2-3 miles from Hawarden itself) seems a possible site for the gauge at about the right elevation.
 * **Oldham Honeywell Lane** - the only connection to MS&LR at this site is its bridge over the [Oldham, Ashton and Guide Bridge Railway](https://en.wikipedia.org/wiki/Oldham,_Ashton_and_Guide_Bridge_Railway), which was another MS&LR joint venture railway. The bridge or nearby sidings may be the location of this rain gauge.
 
 ## Other Rain Gauge Locations
