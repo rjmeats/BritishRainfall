@@ -7,17 +7,12 @@ The rainfall sheets for these gauges can be accessed on the [Met Office Archive 
 Contents of this folder:
 
 * **MSLR_GaugeInfo.xlsx** is an Excel spreadsheet listing each gauge and a few summary details, for example its period of operation and a grid reference.
-* **MSLR_GaugeSheetIndex_1860-1922.csv** identifies the Met Office PDF document and page number for each MS&LR rainfall sheet between 1860 and the end of 1922. It has one row per sheet for each gauge (with each sheet covering a decade of monthly rainfall figures).
-* **MSLR_GaugeSheetIndex_1850s.csv** as above, but covering the MS&LR rainfall sheets for the 1850s decade.
-* **MSLR_GaugeSheetIndex_1840s.csv** as above, but covering the MS&LR rainfall sheets for the 1840s decade.
-* **MSLR_GaugeSheetIndex.csv** combines the SheetIndex files for 1840a, 1850s and 1860-1922 into one file
+* **MSLR_GaugeSheetIndex.csv** identifies the Met Office PDF document and page number for each MS&LR rainfall sheet. It has one row per sheet for each gauge (with each sheet covering a decade of monthly rainfall figures).
 * **1840s.md** which describes how a few of the MS&LR rain gauges had roots in gauges being used in the 1840s.
 * **Portfolio.md** which lists some railways and canals owned by MS&LR
-* **RainGaugeLocations.md** describes an attempt to assign grid references have been assigned to the MS&LR rain gauge locations.
+* **RainGaugeLocations.md** describes an attempt to assign grid references to the MS&LR rain gauge locations.
 * the **RainfallSheets** folder contains a PDF file for each MS&LR rain gauge location showing the combined set of rainfall sheets for that location, extracted from the Met Office archive.
 
-The transcribed rainfall sheets for the MS&LR gauges (and many others) are becoming available on the Rainfall Rescue GitHub site is at [https://github.com/ed-hawkins/rainfall-rescue](https://github.com/ed-hawkins/rainfall-rescue).
+The transcribed rainfall sheets for the MS&LR gauges (and many others) are available on the Rainfall Rescue GitHub site is at [https://github.com/ed-hawkins/rainfall-rescue](https://github.com/ed-hawkins/rainfall-rescue).
 
-The Met Office archive also holds rainfall sheets covering MS&LR gauges for the 1850s, and also some related sheets for the 1840s. 
-
-The MS&LR Civil Engineer produced this [1848 report](https://books.google.co.uk/books?id=2RUHAAAAQAAJ) (downloadable as a PDF from Google books). It uses data from the early rain gauges to make its case for Manchester getting its clean water supplies from the rain falling on MS&LR moorland. See **1840s.md** for more on this.
+Samuel Homersham, the MS&LR Civil Engineer, produced this [1848 report](https://books.google.co.uk/books?id=2RUHAAAAQAAJ) (downloadable as a PDF from Google books). It uses data from the early rain gauges to make its case for Manchester getting its clean water supplies from the rain falling on MS&LR moorland. See **1840s.md** for more on this.
