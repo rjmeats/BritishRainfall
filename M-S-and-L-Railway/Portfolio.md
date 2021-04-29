@@ -32,8 +32,8 @@ It came into being at the start of 1847.
 
 ## Canals
 
-| Canal | Selected points on the route |Other|
-|-----|-----|------|
+|Canal|Selected points on the route|Notes|
+|:----|:----|:-----|
 |[Macclesfield Canal](https://en.wikipedia.org/wiki/Macclesfield_Canal)|Bosley Locks, Macclesfield, Bollington, Marple Junction (with Peak Forest Canal). | Reservoirs at Bosley and Sutton. Bought by SA&MR in 1846. |
 |[Peak Forest Canal](https://en.wikipedia.org/wiki/Peak_Forest_Canal)|Whaley Bridge, Marple Junction (with Macclesfield Canal), Marple Locks, Marple Aqueduct, Ashton-under-Lyne (links to the Ashton Canal)|
 |[Ashton Canal](https://en.wikipedia.org/wiki/Ashton_Canal)|Ashton, Fairfield Locks, junction with the Stockport Branch Canal, Piccadilly Basin (junction with Rochdale Canal)|
@@ -41,10 +41,10 @@ It came into being at the start of 1847.
 |[Hollinwood Branch Canal](https://en.wikipedia.org/wiki/Hollinwood_Branch_Canal)|Fairfield locks to Hollinwood via Waterhouses (now known as Daisy Nook)|A branch of the Ashton Canal|
 |[Chesterfield Canal](https://en.wikipedia.org/wiki/Chesterfield_Canal)|Chesterfield, Norwood Locks and Tunnel, Worksop, Retford, West Stockwith||
 
-The [South Yorkshire Railway and River Dun Company](https://en.wikipedia.org/wiki/South_Yorkshire_Railway) owned several canals. The company was leased to MS&LR in 1864, and transferred permanently to it in 1874. However in 1895 these canals separated out again into the [Sheffield and South Yorkshire Navigation](https://en.wikipedia.org/wiki/Sheffield_and_South_Yorkshire_Navigation), independent of MS&LR. Canals which were part of the MS&LR netword between 184 and 1895 included:
+The [South Yorkshire Railway and River Dun Company](https://en.wikipedia.org/wiki/South_Yorkshire_Railway) owned several canals. The company was leased to MS&LR in 1864, and transferred permanently to it in 1874. However in 1895 these canals separated out again into the [Sheffield and South Yorkshire Navigation](https://en.wikipedia.org/wiki/Sheffield_and_South_Yorkshire_Navigation), independent of MS&LR. Canals which were part of the MS&LR netword between 1864 and 1895 included:
 
-| Canal | Selected points on the route |Other|
-|-----|-----|------|
+|Canal| Selected points on the route |Notes|
+|:----|:----|:-----|
 |[Dearne and Dove Canal](https://en.wikipedia.org/wiki/Dearne_and_Dove_Canal)|Elsecar Locks, Worsborough reservoir, Barnsley||
 |[Stainforth and Kealby Canal](https://en.wikipedia.org/wiki/Stainforth_and_Keadby_Canal)|Keadby Lock, where the canal joins the River Trent||
 |[Sheffield and Tinsley Canal](https://en.wikipedia.org/wiki/Sheffield_%26_Tinsley_Canal)|Connects Sheffield to the River Don||
@@ -52,8 +52,8 @@ The [South Yorkshire Railway and River Dun Company](https://en.wikipedia.org/wik
 
 ## Other Assets
 
-| Asset | Location | Notes |
-|-----|-----|-----|
+|Asset|Location|Notes|
+|:----|:----|:----|
 |The Humber Ferry|New Holland to Hull|Inherited from the the Great Grimsby and Sheffield Junction Railway|
 |Grimsby Docks|Grimsby|Inherited from the the Great Grimsby and Sheffield Junction Railway|
 |The [Peak Forest Tramway](https://en.wikipedia.org/wiki/Peak_Forest_Tramway)|Bugsworth, Chapel-en-le-Frith, Dove Holes|Part of the Peak Forest Canal system. It was a horse- and gravity-powered industrial railway.
@@ -61,16 +61,16 @@ The [South Yorkshire Railway and River Dun Company](https://en.wikipedia.org/wik
 
 ## Private Homes
 
-[John Chapman](https://en.wikipedia.org/wiki/John_Chapman_(Grimsby_MP)), a chairman and directory of MS&LR owned homes at each end of the Woodhead Tunnel:
+[John Chapman](https://en.wikipedia.org/wiki/John_Chapman_(Grimsby_MP)), a chairman and director of MS&LR owned homes at each end of the Woodhead Tunnel:
 * Mottram Hill End House
 * Carlecotes Hall
 
-Both of these are the location of an MS&LR rain gauge. 
+Both were the location of an MS&LR rain gauge. 
 
 [Colonel George Morland Hutton](https://archive.org/details/visitationengla00britgoog/page/n111/mode/2up) lived at Gate Burton just south of Gainsborough, and was a director of the Great Central Railway. Gate Burton is the location of one of the MS&LR rain gauges.
 
 
-Another rain gauge location that seem likely to be private homes, but where the family-to-MS&LR link has not been established:
+Another rain gauge location that seems likely to be private homes, but where the detailed location and family-to-MS&LR link has not been established:
 
 * Edge End in Sheffield ?
 
