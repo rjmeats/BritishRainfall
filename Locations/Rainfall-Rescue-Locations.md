@@ -1,9 +1,9 @@
-Generation time: Monday 26/04/2021 17:14:07 BST
+Generation time: Tuesday 04/05/2021 17:45:55 BST
 
 
 [MO-2020] indicates a location which contributed to the [Met Office 2020 UK Climate Report](https://www.metoffice.gov.uk/research/climate/maps-and-data/about/state-of-climate):
 
-6095 locations under [https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA):
+6099 locations under [https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA):
 
 * [ABBEY-CWMHIR-THE-HALL](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/ABBEY-CWMHIR-THE-HALL)
 * [ABBEY-LEIX-BLANDSFORT](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/ABBEY-LEIX-BLANDSFORT)
@@ -18,8 +18,10 @@ Generation time: Monday 26/04/2021 17:14:07 BST
 * [ABERDARE-MARDY](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/ABERDARE-MARDY)
 * [ABERDARE-NANTHIR-RES](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/ABERDARE-NANTHIR-RES)
 * [ABERDEEN-BANCHORY](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/ABERDEEN-BANCHORY)
+* [ABERDEEN-BRAEMAR-PLACE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/ABERDEEN-BRAEMAR-PLACE)
 * [ABERDEEN-CRANFORD](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/ABERDEEN-CRANFORD)
 * [ABERDEEN-GORDONS-HOSPITAL](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/ABERDEEN-GORDONS-HOSPITAL)
+* [ABERDEEN-GRAMMAR-SCHOOL](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/ABERDEEN-GRAMMAR-SCHOOL)
 * [ABERDEEN-MANNOFIELD-RES](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/ABERDEEN-MANNOFIELD-RES)
 * [ABERDEEN-MARISCHAL-COLLEGE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/ABERDEEN-MARISCHAL-COLLEGE)
 * [ABERDEEN-OBSERVATORY](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/ABERDEEN-OBSERVATORY) [MO-2020]
@@ -169,6 +171,7 @@ Generation time: Monday 26/04/2021 17:14:07 BST
 * [AMBLESIDE-MIX](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/AMBLESIDE-MIX)
 * [AMBLESIDE-NOOK-COTTAGE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/AMBLESIDE-NOOK-COTTAGE)
 * [AMBLESIDE-SKELWITH-BRIDGE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/AMBLESIDE-SKELWITH-BRIDGE)
+* [AMBLESIDE-SKELWITH-FOLD](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/AMBLESIDE-SKELWITH-FOLD)
 * [AMBLESIDE-THE-NURSERIES](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/AMBLESIDE-THE-NURSERIES)
 * [AMBLESIDE-WANSFELL](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/AMBLESIDE-WANSFELL)
 * [AMBLESIDE-WHITE-CRAGGS](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/AMBLESIDE-WHITE-CRAGGS)
@@ -4960,6 +4963,7 @@ Generation time: Monday 26/04/2021 17:14:07 BST
 * [SITTINGBOURNE-SHARSTED-COURT](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/SITTINGBOURNE-SHARSTED-COURT)
 * [SKEGNESS-MARINE-GDNS](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/SKEGNESS-MARINE-GDNS)
 * [SKELMORLIE-MIX](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/SKELMORLIE-MIX)
+* [SKENE-KINMUNDY](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/SKENE-KINMUNDY)
 * [SKERRAY-BORGIE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/SKERRAY-BORGIE)
 * [SKIDDAW](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/SKIDDAW)
 * [SKIDDAW-FOREST](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/SKIDDAW-FOREST)
