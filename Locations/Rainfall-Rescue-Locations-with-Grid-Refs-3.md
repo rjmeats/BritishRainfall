@@ -1,4 +1,4 @@
-Generation time: Wednesday 05/05/2021 17:34:29 BST
+Generation time: Wednesday 05/05/2021 22:20:11 BST
 
 ## Locations P-Z
 
@@ -483,7 +483,7 @@ Generation time: Wednesday 05/05/2021 17:34:29 BST
 ||RHONDDA-CASTELL-NOS-RES-2.csv|SN963002|51.691|-3.502|1100|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=51.691&lon=-3.502&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/51.691,-3.502,16)  |
 |[RHONDDA-LLUEST-WEN-FILTER](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/RHONDDA-LLUEST-WEN-FILTER)|RHONDDA-LLUEST-WEN-FILTER.csv|SN958014|51.702|-3.509|1225|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=51.702&lon=-3.509&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/51.702,-3.509,16)  |
 ||RHONDDA-LLUEST-WEN-FILTER-2.csv|SN958013|51.701|-3.509|1200|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=51.701&lon=-3.509&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/51.701,-3.509,16)  |
-||RHONDDA-LLUEST-WEN-FILTER-3.csv|SN956015|51.702|-3.512||[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=51.702&lon=-3.512&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/51.702,-3.512,16)  |
+||RHONDDA-LLUEST-WEN-FILTER-3.csv|SN956015|51.702|-3.512|1200|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=51.702&lon=-3.512&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/51.702,-3.512,16)  |
 |[RHONDDA-LLUEST-WEN-RES](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/RHONDDA-LLUEST-WEN-RES)|RHONDDA-LLUEST-WEN-RES.csv|SN950015|51.702|-3.521|1280|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=51.702&lon=-3.521&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/51.702,-3.521,16)  |
 |[RHONDDA-WW-LLYN-FAWR-RES](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/RHONDDA-WW-LLYN-FAWR-RES)|RHONDDA-WW-LLYN-FAWR-RES.csv|SN918033|51.718|-3.568|1220|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=51.718&lon=-3.568&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/51.718,-3.568,16)  |
 ||RHONDDA-WW-LLYN-FAWR-RES-2.csv|SN918033|51.718|-3.568|1220|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=51.718&lon=-3.568&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/51.718,-3.568,16)  |
@@ -546,7 +546,7 @@ Generation time: Wednesday 05/05/2021 17:34:29 BST
 |[RIVINGTON-HIGHER-HILL](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/RIVINGTON-HIGHER-HILL)|RIVINGTON-HIGHER-HILL.csv|SD640130|53.612|-2.546|733|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=53.612&lon=-2.546&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/53.612,-2.546,16)  |
 ||RIVINGTON-HIGHER-HILL-2.csv|SD640130|53.612|-2.546|733|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=53.612&lon=-2.546&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/53.612,-2.546,16)  |
 |[RIVINGTON-HURST-HILL](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/RIVINGTON-HURST-HILL)|RIVINGTON-HURST-HILL.csv|SD629179|53.656|-2.563|1029|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=53.656&lon=-2.563&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/53.656,-2.563,16)  |
-|[RIVINGTON-LOWER-KNOLL](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/RIVINGTON-LOWER-KNOLL)|RIVINGTON-LOWER-KNOLL.csv|SD643129|53.611|-2.541|742|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=53.611&lon=-2.541&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/53.611,-2.541,16)  |
+|[RIVINGTON-LOWER-KNOLL](https://github.com/ed-hawkins/rainfall-rescue/tree/master/POOR-LOCATIONS/RIVINGTON-LOWER-KNOLL) [POOR]|RIVINGTON-LOWER-KNOLL.csv|SD643129|53.611|-2.541|742|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=53.611&lon=-2.541&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/53.611,-2.541,16)  |
 |[RIVINGTON-STONESHOUSE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/RIVINGTON-STONESHOUSE)|RIVINGTON-STONESHOUSE.csv|SD621162|53.641|-2.575|623|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=53.641&lon=-2.575&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/53.641,-2.575,16)  |
 ||RIVINGTON-STONESHOUSE-2.csv|SD621163|53.642|-2.575|629|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=53.642&lon=-2.575&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/53.642,-2.575,16)  |
 ||RIVINGTON-STONESHOUSE-3.csv|SD621162|53.641|-2.575|629|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=53.641&lon=-2.575&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/53.641,-2.575,16)  |
@@ -657,7 +657,7 @@ Generation time: Wednesday 05/05/2021 17:34:29 BST
 ||RUGBY-2.csv|SP507748|52.369|-1.256|390|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=52.369&lon=-1.256&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/52.369,-1.256,16)  |
 ||RUGBY-3.csv|SP511745|52.367|-1.250|330|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=52.367&lon=-1.250&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/52.367,-1.250,16)  |
 |[RUGBY-BILTON-GRANGE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/RUGBY-BILTON-GRANGE)|RUGBY-BILTON-GRANGE.csv|SP492717|52.341|-1.279|400|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=52.341&lon=-1.279&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/52.341,-1.279,16)  |
-||RUGBY-BILTON-GRANGE-2.csv|SP493744|52.365|-1.277|400|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=52.365&lon=-1.277&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/52.365,-1.277,16)  |
+||RUGBY-BILTON-GRANGE-2.csv|SP492717|52.341|-1.279|400|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=52.341&lon=-1.279&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/52.341,-1.279,16)  |
 |[RUGBY-WATFORD-COURT](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/RUGBY-WATFORD-COURT)|RUGBY-WATFORD-COURT.csv|SP602690|52.316|-1.118|380|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=52.316&lon=-1.118&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/52.316,-1.118,16)  |
 |[RUGELEY-BEAU-DESERT](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/RUGELEY-BEAU-DESERT)|RUGELEY-BEAU-DESERT.csv|SK054133|52.717|-1.921|600|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=52.717&lon=-1.921&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/52.717,-1.921,16)  |
 ||RUGELEY-BEAU-DESERT-2.csv|SK052131|52.716|-1.924|680|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=52.716&lon=-1.924&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/52.716,-1.924,16)  |

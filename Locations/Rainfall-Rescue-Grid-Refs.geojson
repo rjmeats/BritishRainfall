@@ -115981,7 +115981,7 @@
         "gridref": "SN956015",
         "latitude": "51.702",
         "longitude": "-3.512",
-        "elevation (ft)": "-999999"
+        "elevation (ft)": "1200"
       }
     },
     {
@@ -118942,27 +118942,6 @@
         "gridref": "SP492717",
         "latitude": "52.341",
         "longitude": "-1.279",
-        "elevation (ft)": "400"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.277,
-          52.365
-        ]
-      },
-      "properties": {
-        "marker-symbol": "circle-stroked",
-        "marker-size": "small",
-        "marker-color": "66ff33",
-        "name": "RUGBY-BILTON-GRANGE",
-        "county": "Warwickshire",
-        "gridref": "SP493744",
-        "latitude": "52.365",
-        "longitude": "-1.277",
         "elevation (ft)": "400"
       }
     },

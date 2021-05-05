@@ -1,4 +1,4 @@
-Generation time: Wednesday 05/05/2021 17:34:29 BST
+Generation time: Wednesday 05/05/2021 22:20:11 BST
 
 ## Locations A-G
 
@@ -1518,7 +1518,7 @@ Generation time: Wednesday 05/05/2021 17:34:29 BST
 |[CARDIFF-CATHAY](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/CARDIFF-CATHAY)|CARDIFF-CATHAY.csv|ST180783|51.498|-3.182|92|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=51.498&lon=-3.182&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/51.498,-3.182,16)  |
 |[CARDIFF-COGAN-PUMPING-STATION](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/CARDIFF-COGAN-PUMPING-STATION)|CARDIFF-COGAN-PUMPING-STATION.csv|ST171729|51.449|-3.194|122|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=51.449&lon=-3.194&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/51.449,-3.194,16)  |
 |[CARDIFF-ELY-PUMPING-STATION](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/CARDIFF-ELY-PUMPING-STATION)|CARDIFF-ELY-PUMPING-STATION.csv|ST141765|51.481|-3.238|53|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=51.481&lon=-3.238&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/51.481,-3.238,16)  |
-|[CARDIFF-FAIRWATER](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/CARDIFF-FAIRWATER)|CARDIFF-FAIRWATER.csv|ST139776|51.491|-3.240|59|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=51.491&lon=-3.240&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/51.491,-3.240,16)  |
+|[CARDIFF-FAIRWATER](https://github.com/ed-hawkins/rainfall-rescue/tree/master/POOR-LOCATIONS/CARDIFF-FAIRWATER) [POOR]|CARDIFF-FAIRWATER.csv|ST139776|51.491|-3.240|59|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=51.491&lon=-3.240&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/51.491,-3.240,16)  |
 |[CARDIFF-HEATH-FILTERS](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/CARDIFF-HEATH-FILTERS)|CARDIFF-HEATH-FILTERS.csv|ST181799|51.512|-3.182|132|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=51.512&lon=-3.182&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/51.512,-3.182,16)  |
 |[CARDIFF-LISVANE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/CARDIFF-LISVANE)|CARDIFF-LISVANE.csv|ST190822|51.533|-3.169|150|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=51.533&lon=-3.169&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/51.533,-3.169,16)  |
 |[CARDIFF-LLANISHEN-RES](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/CARDIFF-LLANISHEN-RES)|CARDIFF-LLANISHEN-RES.csv|ST188815|51.527|-3.172|155|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=51.527&lon=-3.172&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/51.527,-3.172,16)  |

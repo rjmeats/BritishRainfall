@@ -1,9 +1,9 @@
-Generation time: Wednesday 05/05/2021 17:34:29 BST
+Generation time: Wednesday 05/05/2021 22:20:10 BST
 
 
 [MO-2020] indicates a location which contributed to the [Met Office 2020 UK Climate Report](https://www.metoffice.gov.uk/research/climate/maps-and-data/about/state-of-climate):
 
-6099 locations under [https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA):
+6097 locations under [https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA):
 
 * [ABBEY-CWMHIR-THE-HALL](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/ABBEY-CWMHIR-THE-HALL)
 * [ABBEY-LEIX-BLANDSFORT](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/ABBEY-LEIX-BLANDSFORT)
@@ -1081,7 +1081,6 @@ Generation time: Wednesday 05/05/2021 17:34:29 BST
 * [CARDIFF-CATHAY](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/CARDIFF-CATHAY)
 * [CARDIFF-COGAN-PUMPING-STATION](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/CARDIFF-COGAN-PUMPING-STATION)
 * [CARDIFF-ELY-PUMPING-STATION](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/CARDIFF-ELY-PUMPING-STATION)
-* [CARDIFF-FAIRWATER](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/CARDIFF-FAIRWATER)
 * [CARDIFF-HEATH-FILTERS](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/CARDIFF-HEATH-FILTERS)
 * [CARDIFF-LISVANE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/CARDIFF-LISVANE)
 * [CARDIFF-LLANISHEN-RES](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/CARDIFF-LLANISHEN-RES)
@@ -4682,7 +4681,6 @@ Generation time: Wednesday 05/05/2021 17:34:29 BST
 * [RIVINGTON-GREAT-HILL](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/RIVINGTON-GREAT-HILL)
 * [RIVINGTON-HIGHER-HILL](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/RIVINGTON-HIGHER-HILL)
 * [RIVINGTON-HURST-HILL](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/RIVINGTON-HURST-HILL)
-* [RIVINGTON-LOWER-KNOLL](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/RIVINGTON-LOWER-KNOLL)
 * [RIVINGTON-STONESHOUSE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/RIVINGTON-STONESHOUSE)
 * [ROADE-COUNCIL-SCHOOL](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/ROADE-COUNCIL-SCHOOL)
 * [ROCESTER-DOVE-LEYS](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/ROCESTER-DOVE-LEYS)
@@ -6105,7 +6103,7 @@ Generation time: Wednesday 05/05/2021 17:34:29 BST
 * [YSTRADGYNLAIS-YNISCEDWYN-HO](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/YSTRADGYNLAIS-YNISCEDWYN-HO)
 * [YSTRADYFODWG-FYNTYLA-HOSPITAL](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/YSTRADYFODWG-FYNTYLA-HOSPITAL)
 
-88 locations under [https://github.com/ed-hawkins/rainfall-rescue/tree/master/POOR-LOCATIONS](https://github.com/ed-hawkins/rainfall-rescue/tree/master/POOR-LOCATIONS):
+90 locations under [https://github.com/ed-hawkins/rainfall-rescue/tree/master/POOR-LOCATIONS](https://github.com/ed-hawkins/rainfall-rescue/tree/master/POOR-LOCATIONS):
 
 * [ABERDEEN](https://github.com/ed-hawkins/rainfall-rescue/tree/master/POOR-LOCATIONS/ABERDEEN)
 * [ABERDOVEY](https://github.com/ed-hawkins/rainfall-rescue/tree/master/POOR-LOCATIONS/ABERDOVEY)
@@ -6123,6 +6121,7 @@ Generation time: Wednesday 05/05/2021 17:34:29 BST
 * [BOWDEN-CHESHIRE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/POOR-LOCATIONS/BOWDEN-CHESHIRE)
 * [BRIGHTON-CLIFTON-TERRACE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/POOR-LOCATIONS/BRIGHTON-CLIFTON-TERRACE)
 * [CAMBRIDGE-MIX](https://github.com/ed-hawkins/rainfall-rescue/tree/master/POOR-LOCATIONS/CAMBRIDGE-MIX)
+* [CARDIFF-FAIRWATER](https://github.com/ed-hawkins/rainfall-rescue/tree/master/POOR-LOCATIONS/CARDIFF-FAIRWATER)
 * [CARDIFF-MIX](https://github.com/ed-hawkins/rainfall-rescue/tree/master/POOR-LOCATIONS/CARDIFF-MIX)
 * [CARDIFF-SPRING-BANK-HOUSE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/POOR-LOCATIONS/CARDIFF-SPRING-BANK-HOUSE)
 * [CARDIFF-TOWN-HALL](https://github.com/ed-hawkins/rainfall-rescue/tree/master/POOR-LOCATIONS/CARDIFF-TOWN-HALL)
@@ -6172,6 +6171,7 @@ Generation time: Wednesday 05/05/2021 17:34:29 BST
 * [PENZANCE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/POOR-LOCATIONS/PENZANCE)
 * [RHAYADER-RHYDOLDOG](https://github.com/ed-hawkins/rainfall-rescue/tree/master/POOR-LOCATIONS/RHAYADER-RHYDOLDOG)
 * [RIVINGTON](https://github.com/ed-hawkins/rainfall-rescue/tree/master/POOR-LOCATIONS/RIVINGTON)
+* [RIVINGTON-LOWER-KNOLL](https://github.com/ed-hawkins/rainfall-rescue/tree/master/POOR-LOCATIONS/RIVINGTON-LOWER-KNOLL)
 * [ROCHDALE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/POOR-LOCATIONS/ROCHDALE)
 * [ROTHIEMAY](https://github.com/ed-hawkins/rainfall-rescue/tree/master/POOR-LOCATIONS/ROTHIEMAY)
 * [ROW-GARELOCH](https://github.com/ed-hawkins/rainfall-rescue/tree/master/POOR-LOCATIONS/ROW-GARELOCH)
