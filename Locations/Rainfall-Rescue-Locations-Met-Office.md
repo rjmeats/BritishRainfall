@@ -1,9 +1,10 @@
-Generation time: Wednesday 05/05/2021 08:22:01 BST
+Generation time: Wednesday 05/05/2021 17:34:29 BST
 
 95 locations under [https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA) which contributed to the [Met Office 2020 UK Climate Report](https://www.metoffice.gov.uk/research/climate/maps-and-data/about/state-of-climate):
 
-* [FERRIBY-SLUICE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/FERRIBY-SLUICE) : 32 hours ago : 2021-05-03 23:36:54 +0100 
-* [MELTHAM-GRANGE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/MELTHAM-GRANGE) : 32 hours ago : 2021-05-03 23:36:54 +0100 
+* [TRESCO-ABBEY](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/TRESCO-ABBEY) : 8 hours ago : 2021-05-05 09:23:23 +0100 
+* [FERRIBY-SLUICE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/FERRIBY-SLUICE) : 2 days ago : 2021-05-03 23:36:54 +0100 
+* [MELTHAM-GRANGE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/MELTHAM-GRANGE) : 2 days ago : 2021-05-03 23:36:54 +0100 
 * [SPRINKLING-TARN](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/SPRINKLING-TARN) : 2 weeks ago : 2021-04-21 12:19:25 +0100 
 * [ARMAGH-OBSERVATORY](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/ARMAGH-OBSERVATORY) : 2 weeks ago : 2021-04-20 23:54:20 +0100 
 * [ABERGAVENNY-LARCHFIELD](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/ABERGAVENNY-LARCHFIELD) : 2 weeks ago : 2021-04-20 18:40:30 +0100 
@@ -12,7 +13,6 @@ Generation time: Wednesday 05/05/2021 08:22:01 BST
 * [KENSINGTON-HOLLAND-HOUSE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/KENSINGTON-HOLLAND-HOUSE) : 2 weeks ago : 2021-04-20 18:40:30 +0100 
 * [MARCH](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/MARCH) : 2 weeks ago : 2021-04-20 18:40:30 +0100 
 * [HAREWOOD-ARTHINGTON](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/HAREWOOD-ARTHINGTON) : 3 weeks ago : 2021-04-16 22:28:30 +0100 
-* [TRESCO-ABBEY](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/TRESCO-ABBEY) : 3 weeks ago : 2021-04-16 22:28:30 +0100 
 * [IPSWICH-BELSTEAD-HALL](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/IPSWICH-BELSTEAD-HALL) : 3 weeks ago : 2021-04-12 13:49:59 +0100 
 * [KEW-OBSERVATORY](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/KEW-OBSERVATORY) : 5 weeks ago : 2021-04-01 00:40:09 +0100 
 * [GREENOCK-WW-DARNDAFF-MOOR](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/GREENOCK-WW-DARNDAFF-MOOR) : 2 months ago : 2021-02-23 22:48:45 +0000 

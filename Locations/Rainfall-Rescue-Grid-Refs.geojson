@@ -40809,7 +40809,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -3.983,
+          -3.986,
           50.513
         ]
       },
@@ -40819,9 +40819,9 @@
         "marker-color": "66ff33",
         "name": "DARTMOOR-SIWARDS-CROSS",
         "county": "Devon",
-        "gridref": "SX595699",
+        "gridref": "SX592699",
         "latitude": "50.513",
-        "longitude": "-3.983",
+        "longitude": "-3.986",
         "elevation (ft)": "1074"
       }
     },
@@ -70659,7 +70659,7 @@
         "marker-size": "small",
         "marker-color": "66ff33",
         "name": "HIGHGATE-NURSERIES",
-        "county": "Middlesex-stayed-Middlesex",
+        "county": "Middlesex-became-London",
         "gridref": "TQ282870",
         "latitude": "51.567",
         "longitude": "-0.152",
@@ -75691,7 +75691,7 @@
         "type": "Point",
         "coordinates": [
           -2.17,
-          49.189
+          49.19
         ]
       },
       "properties": {
@@ -75701,9 +75701,9 @@
         "name": "JERSEY-ST-AUBINS",
         "county": "Jersey",
         "gridref": "WV604488",
-        "latitude": "49.189",
+        "latitude": "49.190",
         "longitude": "-2.170",
-        "elevation (ft)": "140"
+        "elevation (ft)": "110"
       }
     },
     {
@@ -75745,7 +75745,7 @@
         "gridref": "WV604486",
         "latitude": "49.188",
         "longitude": "-2.170",
-        "elevation (ft)": "35"
+        "elevation (ft)": "30"
       }
     },
     {
