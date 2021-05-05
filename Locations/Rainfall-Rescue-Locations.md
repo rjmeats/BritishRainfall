@@ -1,4 +1,4 @@
-Generation time: Tuesday 04/05/2021 17:45:55 BST
+Generation time: Wednesday 05/05/2021 08:22:01 BST
 
 
 [MO-2020] indicates a location which contributed to the [Met Office 2020 UK Climate Report](https://www.metoffice.gov.uk/research/climate/maps-and-data/about/state-of-climate):
@@ -5167,7 +5167,7 @@ Generation time: Tuesday 04/05/2021 17:45:55 BST
 * [STAMFORDHAM](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/STAMFORDHAM)
 * [STANDEDGE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/STANDEDGE)
 * [STANDEDGE-CASTLE-SHAW-BROADHEAD](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/STANDEDGE-CASTLE-SHAW-BROADHEAD)
-* [STANDEDGE-CASTLESHAW-CUDWORTH](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/STANDEDGE-CASTLESHAW-CUDWORTH)
+* [STANDEDGE-CASTLE-SHAW-CUDWORTH](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/STANDEDGE-CASTLE-SHAW-CUDWORTH)
 * [STANDEDGE-REDBROOK](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/STANDEDGE-REDBROOK)
 * [STANDISH-WIGAN](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/STANDISH-WIGAN)
 * [STANDON-HATTON-WW](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/STANDON-HATTON-WW)

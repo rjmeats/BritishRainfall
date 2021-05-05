@@ -1,10 +1,10 @@
-Generation time: Tuesday 04/05/2021 17:45:55 BST
+Generation time: Wednesday 05/05/2021 08:22:01 BST
 
 95 locations under [https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA) which contributed to the [Met Office 2020 UK Climate Report](https://www.metoffice.gov.uk/research/climate/maps-and-data/about/state-of-climate):
 
-* [FERRIBY-SLUICE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/FERRIBY-SLUICE) : 18 hours ago : 2021-05-03 23:36:54 +0100 
-* [MELTHAM-GRANGE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/MELTHAM-GRANGE) : 18 hours ago : 2021-05-03 23:36:54 +0100 
-* [SPRINKLING-TARN](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/SPRINKLING-TARN) : 13 days ago : 2021-04-21 12:19:25 +0100 
+* [FERRIBY-SLUICE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/FERRIBY-SLUICE) : 32 hours ago : 2021-05-03 23:36:54 +0100 
+* [MELTHAM-GRANGE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/MELTHAM-GRANGE) : 32 hours ago : 2021-05-03 23:36:54 +0100 
+* [SPRINKLING-TARN](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/SPRINKLING-TARN) : 2 weeks ago : 2021-04-21 12:19:25 +0100 
 * [ARMAGH-OBSERVATORY](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/ARMAGH-OBSERVATORY) : 2 weeks ago : 2021-04-20 23:54:20 +0100 
 * [ABERGAVENNY-LARCHFIELD](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/ABERGAVENNY-LARCHFIELD) : 2 weeks ago : 2021-04-20 18:40:30 +0100 
 * [BRAEMAR-BANK](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/BRAEMAR-BANK) : 2 weeks ago : 2021-04-20 18:40:30 +0100 

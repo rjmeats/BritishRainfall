@@ -4227,6 +4227,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -3.002,
+          54.416
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "AMBLESIDE-SKELWITH-FOLD",
+        "county": "Lancashire",
+        "gridref": "NY351028",
+        "latitude": "54.416",
+        "longitude": "-3.002",
+        "elevation (ft)": "333"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -2.958,
           54.415
         ]
@@ -18612,8 +18633,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -1.754,
-          51.886
+          -1.762,
+          51.884
         ]
       },
       "properties": {
@@ -18622,9 +18643,9 @@
         "marker-color": "66ff33",
         "name": "BOURTON-ON-THE-WATER-CHARDWAR",
         "county": "Gloucestershire",
-        "gridref": "SP170209",
-        "latitude": "51.886",
-        "longitude": "-1.754",
+        "gridref": "SP164206",
+        "latitude": "51.884",
+        "longitude": "-1.762",
         "elevation (ft)": "434"
       }
     },
@@ -44358,6 +44379,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -2.34,
+          53.894
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "DOWNHAM-HALL",
+        "county": "Lancashire",
+        "gridref": "SD777442",
+        "latitude": "53.894",
+        "longitude": "-2.340",
+        "elevation (ft)": "447"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           0.37,
           52.603
         ]
@@ -63300,6 +63342,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -2.544,
+          49.46
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "GUERNSEY-YORK-PLACE",
+        "county": "Guernsey",
+        "gridref": "WV330786",
+        "latitude": "49.460",
+        "longitude": "-2.544",
+        "elevation (ft)": "204"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -0.136,
           52.081
         ]
@@ -70596,7 +70659,7 @@
         "marker-size": "small",
         "marker-color": "66ff33",
         "name": "HIGHGATE-NURSERIES",
-        "county": "Middlesex-became-London",
+        "county": "Middlesex-stayed-Middlesex",
         "gridref": "TQ282870",
         "latitude": "51.567",
         "longitude": "-0.152",
@@ -85699,7 +85762,7 @@
         "gridref": "SJ371886",
         "latitude": "53.390",
         "longitude": "-2.947",
-        "elevation (ft)": "-999999"
+        "elevation (ft)": "150"
       }
     },
     {
@@ -91587,7 +91650,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -2.722,
+          -2.715,
           52.372
         ]
       },
@@ -91599,7 +91662,7 @@
         "county": "Shropshire",
         "gridref": "SO514751",
         "latitude": "52.372",
-        "longitude": "-2.722",
+        "longitude": "-2.715",
         "elevation (ft)": "350"
       }
     },
@@ -100575,8 +100638,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -0.463,
-          51.734
+          -0.452,
+          51.729
         ]
       },
       "properties": {
@@ -100585,9 +100648,9 @@
         "marker-color": "66ff33",
         "name": "NASH-MILLS-HEMEL-HEMPSTEAD",
         "county": "Hertfordshire",
-        "gridref": "TL062050",
-        "latitude": "51.734",
-        "longitude": "-0.463",
+        "gridref": "TL069044",
+        "latitude": "51.729",
+        "longitude": "-0.452",
         "elevation (ft)": "237"
       }
     },
@@ -117607,7 +117670,7 @@
         "type": "Point",
         "coordinates": [
           -5.959,
-          57.58
+          57.578
         ]
       },
       "properties": {
@@ -117616,10 +117679,10 @@
         "marker-color": "66ff33",
         "name": "RONA-LIGHTHOUSE",
         "county": "Inverness",
-        "gridref": "NG634614",
-        "latitude": "57.580",
+        "gridref": "NG6339661134",
+        "latitude": "57.578",
         "longitude": "-5.959",
-        "elevation (ft)": "212"
+        "elevation (ft)": "190"
       }
     },
     {
@@ -126594,6 +126657,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -1.442,
+          50.914
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "SOUTHAMPTON-ELING",
+        "county": "Hampshire",
+        "gridref": "SU393128",
+        "latitude": "50.914",
+        "longitude": "-1.442",
+        "elevation (ft)": "10"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -1.34,
           50.867
         ]
@@ -127552,7 +127636,7 @@
         "gridref": "NN222758",
         "latitude": "56.840",
         "longitude": "-4.916",
-        "elevation (ft)": "1850"
+        "elevation (ft)": "1050"
       }
     },
     {
@@ -129668,7 +129752,7 @@
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
         "marker-color": "66ff33",
-        "name": "STANDEDGE-CASTLESHAW-CUDWORTH",
+        "name": "STANDEDGE-CASTLE-SHAW-CUDWORTH",
         "county": "Yorkshire West Riding",
         "gridref": "SE004109",
         "latitude": "53.595",
@@ -142155,8 +142239,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -7.195,
-          57.298
+          -7.194,
+          57.299
         ]
       },
       "properties": {
@@ -142165,9 +142249,9 @@
         "marker-color": "66ff33",
         "name": "USHENISH-SOUTH-UIST",
         "county": "Inverness",
-        "gridref": "NF872350",
-        "latitude": "57.298",
-        "longitude": "-7.195",
+        "gridref": "NF8729835063",
+        "latitude": "57.299",
+        "longitude": "-7.194",
         "elevation (ft)": "157"
       }
     },
