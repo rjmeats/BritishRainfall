@@ -23107,7 +23107,7 @@
         "type": "Point",
         "coordinates": [
           -3.408,
-          52.175
+          52.166
         ]
       },
       "properties": {
@@ -23116,8 +23116,8 @@
         "marker-color": "66ff33",
         "name": "BUILTH-CEFNDYRYS",
         "county": "Radnorshire",
-        "gridref": "SO038539",
-        "latitude": "52.175",
+        "gridref": "SO038529",
+        "latitude": "52.166",
         "longitude": "-3.408",
         "elevation (ft)": "740"
       }
@@ -26495,7 +26495,7 @@
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
         "marker-color": "66ff33",
-        "name": "CARDIFF-FAIRWATER",
+        "name": "CARDIFF-FAIRWATER-HOUSE",
         "county": "Glamorgan",
         "gridref": "ST139776",
         "latitude": "51.491",
@@ -30288,7 +30288,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -0.161,
+          -0.164,
           51.485
         ]
       },
@@ -30298,9 +30298,9 @@
         "marker-color": "66ff33",
         "name": "CHELSEA-PHYSIC-GDNS",
         "county": "Middlesex-became-London",
-        "gridref": "TQ278778",
+        "gridref": "TQ276778",
         "latitude": "51.485",
-        "longitude": "-0.161",
+        "longitude": "-0.164",
         "elevation (ft)": "20"
       }
     },
@@ -47773,7 +47773,7 @@
         "gridref": "TQ171813",
         "latitude": "51.518",
         "longitude": "-0.314",
-        "elevation (ft)": "193"
+        "elevation (ft)": "156"
       }
     },
     {
@@ -48944,7 +48944,7 @@
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
         "marker-color": "66ff33",
-        "name": "EBBW-VALE-WW-LLANGYNIDR-NW2",
+        "name": "EBBW-VALE-WW-LLANGYNIDR-NW-TWO",
         "county": "Brecknockshire",
         "gridref": "SO151143",
         "latitude": "51.821",
@@ -65644,7 +65644,7 @@
         "gridref": "TQ052904",
         "latitude": "51.603",
         "longitude": "-0.482",
-        "elevation (ft)": "190"
+        "elevation (ft)": "290"
       }
     },
     {
@@ -70482,7 +70482,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -0.748,
+          -0.741,
           51.627
         ]
       },
@@ -70492,10 +70492,10 @@
         "marker-color": "66ff33",
         "name": "HIGH-WYCOMBE-EASTON-ST",
         "county": "Buckinghamshire",
-        "gridref": "SU867928",
+        "gridref": "SU872927",
         "latitude": "51.627",
-        "longitude": "-0.748",
-        "elevation (ft)": "-999999"
+        "longitude": "-0.741",
+        "elevation (ft)": "215"
       }
     },
     {
@@ -70659,7 +70659,7 @@
         "marker-size": "small",
         "marker-color": "66ff33",
         "name": "HIGHGATE-NURSERIES",
-        "county": "Middlesex-became-London",
+        "county": "Middlesex-stayed-Middlesex",
         "gridref": "TQ282870",
         "latitude": "51.567",
         "longitude": "-0.152",
@@ -75724,7 +75724,7 @@
         "gridref": "WV603482",
         "latitude": "49.184",
         "longitude": "-2.173",
-        "elevation (ft)": "270"
+        "elevation (ft)": "225"
       }
     },
     {
@@ -111201,8 +111201,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -0.396,
-          51.612
+          -0.4,
+          51.611
         ]
       },
       "properties": {
@@ -111211,10 +111211,10 @@
         "marker-color": "66ff33",
         "name": "PINNER-HILL",
         "county": "Middlesex-stayed-Middlesex",
-        "gridref": "TQ111915",
-        "latitude": "51.612",
-        "longitude": "-0.396",
-        "elevation (ft)": "405"
+        "gridref": "TQ109915",
+        "latitude": "51.611",
+        "longitude": "-0.400",
+        "elevation (ft)": "410"
       }
     },
     {

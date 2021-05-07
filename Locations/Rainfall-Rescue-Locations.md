@@ -1,4 +1,4 @@
-Generation time: Wednesday 05/05/2021 22:20:10 BST
+Generation time: Friday 07/05/2021 22:10:12 BST
 
 
 [MO-2020] indicates a location which contributed to the [Met Office 2020 UK Climate Report](https://www.metoffice.gov.uk/research/climate/maps-and-data/about/state-of-climate):
@@ -1973,7 +1973,7 @@ Generation time: Wednesday 05/05/2021 22:20:10 BST
 * [EBBW-VALE-WW-CARNO-N](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/EBBW-VALE-WW-CARNO-N)
 * [EBBW-VALE-WW-CARNO-S](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/EBBW-VALE-WW-CARNO-S)
 * [EBBW-VALE-WW-CARNO-W](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/EBBW-VALE-WW-CARNO-W)
-* [EBBW-VALE-WW-LLANGYNIDR-NW2](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/EBBW-VALE-WW-LLANGYNIDR-NW2)
+* [EBBW-VALE-WW-LLANGYNIDR-NW-TWO](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/EBBW-VALE-WW-LLANGYNIDR-NW-TWO)
 * [ECCLES-WORSLEY-HALL](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/ECCLES-WORSLEY-HALL)
 * [ECCLESHALL-JOHNSON-HALL](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/ECCLESHALL-JOHNSON-HALL)
 * [ECCLESHALL-SUGNALL-HALL](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/ECCLESHALL-SUGNALL-HALL)
@@ -6121,7 +6121,7 @@ Generation time: Wednesday 05/05/2021 22:20:10 BST
 * [BOWDEN-CHESHIRE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/POOR-LOCATIONS/BOWDEN-CHESHIRE)
 * [BRIGHTON-CLIFTON-TERRACE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/POOR-LOCATIONS/BRIGHTON-CLIFTON-TERRACE)
 * [CAMBRIDGE-MIX](https://github.com/ed-hawkins/rainfall-rescue/tree/master/POOR-LOCATIONS/CAMBRIDGE-MIX)
-* [CARDIFF-FAIRWATER](https://github.com/ed-hawkins/rainfall-rescue/tree/master/POOR-LOCATIONS/CARDIFF-FAIRWATER)
+* [CARDIFF-FAIRWATER-HOUSE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/POOR-LOCATIONS/CARDIFF-FAIRWATER-HOUSE)
 * [CARDIFF-MIX](https://github.com/ed-hawkins/rainfall-rescue/tree/master/POOR-LOCATIONS/CARDIFF-MIX)
 * [CARDIFF-SPRING-BANK-HOUSE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/POOR-LOCATIONS/CARDIFF-SPRING-BANK-HOUSE)
 * [CARDIFF-TOWN-HALL](https://github.com/ed-hawkins/rainfall-rescue/tree/master/POOR-LOCATIONS/CARDIFF-TOWN-HALL)
