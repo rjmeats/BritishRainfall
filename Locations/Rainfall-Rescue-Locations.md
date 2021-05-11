@@ -1,4 +1,4 @@
-Generation time: Friday 07/05/2021 22:10:12 BST
+Generation time: Tuesday 11/05/2021 22:48:39 BST
 
 
 [MO-2020] indicates a location which contributed to the [Met Office 2020 UK Climate Report](https://www.metoffice.gov.uk/research/climate/maps-and-data/about/state-of-climate):
@@ -3612,6 +3612,7 @@ Generation time: Friday 07/05/2021 22:10:12 BST
 * [LONDONDERRY-CREGGAN-RES](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/LONDONDERRY-CREGGAN-RES) [MO-2020]
 * [LONDONDERRY-DUNRUADH](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/LONDONDERRY-DUNRUADH)
 * [LONDONDERRY-KNOCKAN](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/LONDONDERRY-KNOCKAN)
+* [LONDONDERRY-MOVILLE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/LONDONDERRY-MOVILLE)
 * [LONG-ASHTON-ESTATE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/LONG-ASHTON-ESTATE)
 * [LONG-ASHTON-RESEARCH-STATION](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/LONG-ASHTON-RESEARCH-STATION)
 * [LONG-COMPTON-WESTON-PARK](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/LONG-COMPTON-WESTON-PARK)
@@ -5255,7 +5256,6 @@ Generation time: Friday 07/05/2021 22:10:12 BST
 * [STRATFORD-ON-AVON-GUILD-STREET](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/STRATFORD-ON-AVON-GUILD-STREET)
 * [STRATFORD-ON-AVON-MILCOTE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/STRATFORD-ON-AVON-MILCOTE)
 * [STRATFORD-ON-AVON-SHOTTERY-HALL](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/STRATFORD-ON-AVON-SHOTTERY-HALL)
-* [STRATFORD-ON-AVON-VICARAGE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/STRATFORD-ON-AVON-VICARAGE)
 * [STRATFORD-SUB-CASTLE-MANOR-HOUSE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/STRATFORD-SUB-CASTLE-MANOR-HOUSE)
 * [STRATH-BRAN-GLENQUAICH-LODGE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/STRATH-BRAN-GLENQUAICH-LODGE)
 * [STRATH-OYKELL-ROSEHALL](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/STRATH-OYKELL-ROSEHALL)
@@ -6103,7 +6103,7 @@ Generation time: Friday 07/05/2021 22:10:12 BST
 * [YSTRADGYNLAIS-YNISCEDWYN-HO](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/YSTRADGYNLAIS-YNISCEDWYN-HO)
 * [YSTRADYFODWG-FYNTYLA-HOSPITAL](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/YSTRADYFODWG-FYNTYLA-HOSPITAL)
 
-90 locations under [https://github.com/ed-hawkins/rainfall-rescue/tree/master/POOR-LOCATIONS](https://github.com/ed-hawkins/rainfall-rescue/tree/master/POOR-LOCATIONS):
+91 locations under [https://github.com/ed-hawkins/rainfall-rescue/tree/master/POOR-LOCATIONS](https://github.com/ed-hawkins/rainfall-rescue/tree/master/POOR-LOCATIONS):
 
 * [ABERDEEN](https://github.com/ed-hawkins/rainfall-rescue/tree/master/POOR-LOCATIONS/ABERDEEN)
 * [ABERDOVEY](https://github.com/ed-hawkins/rainfall-rescue/tree/master/POOR-LOCATIONS/ABERDOVEY)
@@ -6185,6 +6185,7 @@ Generation time: Friday 07/05/2021 22:10:12 BST
 * [SOUTHGATE-THE-LAWNS-MODERN](https://github.com/ed-hawkins/rainfall-rescue/tree/master/POOR-LOCATIONS/SOUTHGATE-THE-LAWNS-MODERN)
 * [STANCLIFFE-HALL](https://github.com/ed-hawkins/rainfall-rescue/tree/master/POOR-LOCATIONS/STANCLIFFE-HALL)
 * [STOCKTON-ON-TEES](https://github.com/ed-hawkins/rainfall-rescue/tree/master/POOR-LOCATIONS/STOCKTON-ON-TEES)
+* [STRATFORD-ON-AVON-VICARAGE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/POOR-LOCATIONS/STRATFORD-ON-AVON-VICARAGE)
 * [STROUD](https://github.com/ed-hawkins/rainfall-rescue/tree/master/POOR-LOCATIONS/STROUD)
 * [TALYBONT-CUI](https://github.com/ed-hawkins/rainfall-rescue/tree/master/POOR-LOCATIONS/TALYBONT-CUI)
 * [TORQUAY](https://github.com/ed-hawkins/rainfall-rescue/tree/master/POOR-LOCATIONS/TORQUAY)

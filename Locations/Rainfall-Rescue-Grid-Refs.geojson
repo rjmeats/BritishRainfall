@@ -13425,7 +13425,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -3.074,
+          -3.075,
           53.4
         ]
       },
@@ -13435,10 +13435,10 @@
         "marker-color": "66ff33",
         "name": "BIDSTON-OBSERVATORY",
         "county": "Cheshire",
-        "gridref": "SJ287898",
+        "gridref": "SJ286898",
         "latitude": "53.400",
-        "longitude": "-3.074",
-        "elevation (ft)": "182"
+        "longitude": "-3.075",
+        "elevation (ft)": "198"
       }
     },
     {
@@ -24177,7 +24177,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -1.806,
+          -1.819,
           52.806
         ]
       },
@@ -24187,9 +24187,9 @@
         "marker-color": "66ff33",
         "name": "BURTON-HOAR-CROSS",
         "county": "Staffordshire",
-        "gridref": "SK132232",
+        "gridref": "SK123232",
         "latitude": "52.806",
-        "longitude": "-1.806",
+        "longitude": "-1.819",
         "elevation (ft)": "400"
       }
     },
@@ -47479,7 +47479,7 @@
         "gridref": "SJ058783",
         "latitude": "53.293",
         "longitude": "-3.415",
-        "elevation (ft)": "160"
+        "elevation (ft)": "260"
       }
     },
     {
@@ -51624,8 +51624,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -2.185,
-          53.019
+          -2.192,
+          53.022
         ]
       },
       "properties": {
@@ -51634,9 +51634,9 @@
         "marker-color": "66ff33",
         "name": "ETRURIA",
         "county": "Staffordshire",
-        "gridref": "SJ877469",
-        "latitude": "53.019",
-        "longitude": "-2.185",
+        "gridref": "SJ872472",
+        "latitude": "53.022",
+        "longitude": "-2.192",
         "elevation (ft)": "440"
       }
     },
@@ -70659,7 +70659,7 @@
         "marker-size": "small",
         "marker-color": "66ff33",
         "name": "HIGHGATE-NURSERIES",
-        "county": "Middlesex-stayed-Middlesex",
+        "county": "Middlesex-became-London",
         "gridref": "TQ282870",
         "latitude": "51.567",
         "longitude": "-0.152",
@@ -91041,8 +91041,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -1.995,
-          53.491
+          -1.997,
+          53.49
         ]
       },
       "properties": {
@@ -91051,9 +91051,9 @@
         "marker-color": "66ff33",
         "name": "LOWER-SWINESHAW-RES",
         "county": "Lancashire",
-        "gridref": "SK004994",
-        "latitude": "53.491",
-        "longitude": "-1.995",
+        "gridref": "SK003992",
+        "latitude": "53.490",
+        "longitude": "-1.997",
         "elevation (ft)": "884"
       }
     },
@@ -100492,7 +100492,7 @@
         "type": "Point",
         "coordinates": [
           -2.592,
-          53.05
+          53.048
         ]
       },
       "properties": {
@@ -100501,8 +100501,8 @@
         "marker-color": "66ff33",
         "name": "NANTWICH-BADDILEY-WW",
         "county": "Cheshire",
-        "gridref": "SJ604505",
-        "latitude": "53.050",
+        "gridref": "SJ604502",
+        "latitude": "53.048",
         "longitude": "-2.592",
         "elevation (ft)": "230"
       }
@@ -104544,7 +104544,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -2.159,
+          -2.28,
           53.405
         ]
       },
@@ -104554,9 +104554,9 @@
         "marker-color": "66ff33",
         "name": "NORTHENDEN-WYTHENSHAWE-HALL",
         "county": "Cheshire",
-        "gridref": "SJ895898",
+        "gridref": "SJ815898",
         "latitude": "53.405",
-        "longitude": "-2.159",
+        "longitude": "-2.280",
         "elevation (ft)": "114"
       }
     },
@@ -104788,28 +104788,7 @@
         "gridref": "SJ643747",
         "latitude": "53.268",
         "longitude": "-2.537",
-        "elevation (ft)": "64"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -2.529,
-          53.256
-        ]
-      },
-      "properties": {
-        "marker-symbol": "circle-stroked",
-        "marker-size": "small",
-        "marker-color": "66ff33",
-        "name": "NORTHWICH-WINNINGTON",
-        "county": "Cheshire",
-        "gridref": "SJ648734",
-        "latitude": "53.256",
-        "longitude": "-2.529",
-        "elevation (ft)": "80"
+        "elevation (ft)": "56"
       }
     },
     {
@@ -132012,27 +131991,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -1.708,
-          52.19
-        ]
-      },
-      "properties": {
-        "marker-symbol": "circle-stroked",
-        "marker-size": "small",
-        "marker-color": "66ff33",
-        "name": "STRATFORD-ON-AVON-VICARAGE",
-        "county": "Warwickshire",
-        "gridref": "SP200547",
-        "latitude": "52.190",
-        "longitude": "-1.708",
-        "elevation (ft)": "134"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -1.816,
           51.096
         ]
@@ -150660,8 +150618,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -2.21,
-          52.623
+          -2.173,
+          52.599
         ]
       },
       "properties": {
@@ -150670,9 +150628,9 @@
         "marker-color": "66ff33",
         "name": "WOLVERHAMPTON-TETTENHALL",
         "county": "Staffordshire",
-        "gridref": "SJ859028",
-        "latitude": "52.623",
-        "longitude": "-2.210",
+        "gridref": "SJ884001",
+        "latitude": "52.599",
+        "longitude": "-2.173",
         "elevation (ft)": "480"
       }
     },
@@ -150723,6 +150681,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -2.21,
+          52.623
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "WOLVERHAMPTON-TETTENHALL",
+        "county": "Staffordshire",
+        "gridref": "SJ859028",
+        "latitude": "52.623",
+        "longitude": "-2.210",
+        "elevation (ft)": "468"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -2.133,
           52.586
         ]
@@ -150765,8 +150744,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -2.137,
-          52.588
+          -2.14,
+          52.589
         ]
       },
       "properties": {
@@ -150775,9 +150754,9 @@
         "marker-color": "66ff33",
         "name": "WOLVERHAMPTON-WEST-PARK",
         "county": "Staffordshire",
-        "gridref": "SO908989",
-        "latitude": "52.588",
-        "longitude": "-2.137",
+        "gridref": "SO906990",
+        "latitude": "52.589",
+        "longitude": "-2.140",
         "elevation (ft)": "432"
       }
     },
@@ -151101,8 +151080,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -1.881,
-          53.491
+          -1.884,
+          53.49
         ]
       },
       "properties": {
@@ -151111,9 +151090,9 @@
         "marker-color": "66ff33",
         "name": "WOODHEAD-RES",
         "county": "Cheshire",
-        "gridref": "SK080994",
-        "latitude": "53.491",
-        "longitude": "-1.881",
+        "gridref": "SK078993",
+        "latitude": "53.490",
+        "longitude": "-1.884",
         "elevation (ft)": "660"
       }
     },
