@@ -1,9 +1,9 @@
-Generation time: Tuesday 11/05/2021 22:48:39 BST
+Generation time: Thursday 13/05/2021 08:29:12 BST
 
 
 [MO-2020] indicates a location which contributed to the [Met Office 2020 UK Climate Report](https://www.metoffice.gov.uk/research/climate/maps-and-data/about/state-of-climate):
 
-6097 locations under [https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA):
+6095 locations under [https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA):
 
 * [ABBEY-CWMHIR-THE-HALL](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/ABBEY-CWMHIR-THE-HALL)
 * [ABBEY-LEIX-BLANDSFORT](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/ABBEY-LEIX-BLANDSFORT)
@@ -2530,7 +2530,6 @@ Generation time: Tuesday 11/05/2021 22:48:39 BST
 * [GREENOCK-WW-LARGS-ROAD](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/GREENOCK-WW-LARGS-ROAD)
 * [GREENOCK-WW-LOCH-THOM](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/GREENOCK-WW-LOCH-THOM) [MO-2020]
 * [GREENOCK-WW-MANSFIELD](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/GREENOCK-WW-MANSFIELD) [MO-2020]
-* [GREENOCK-WW-MIX](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/GREENOCK-WW-MIX)
 * [GREENOCK-WW-NEW-YETTS-DAM](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/GREENOCK-WW-NEW-YETTS-DAM) [MO-2020]
 * [GREENOCK-WW-PROSPECT-HILL](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/GREENOCK-WW-PROSPECT-HILL) [MO-2020]
 * [GREENOCK-WW-SHIELHILL](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/GREENOCK-WW-SHIELHILL) [MO-2020]
@@ -3598,7 +3597,6 @@ Generation time: Tuesday 11/05/2021 22:48:39 BST
 * [LOGIE-COLDSTONE-SCHOOL](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/LOGIE-COLDSTONE-SCHOOL)
 * [LONDON-BREWERY-CHISWELL-STREET](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/LONDON-BREWERY-CHISWELL-STREET)
 * [LONDON-CRANE-COURT](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/LONDON-CRANE-COURT)
-* [LONDON-DISTRICT](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/LONDON-DISTRICT)
 * [LONDON-GUILDHALL](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/LONDON-GUILDHALL)
 * [LONDON-HAMILTON-TERRACE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/LONDON-HAMILTON-TERRACE)
 * [LONDON-HIGH-HOLBORN](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/LONDON-HIGH-HOLBORN)
@@ -6103,7 +6101,7 @@ Generation time: Tuesday 11/05/2021 22:48:39 BST
 * [YSTRADGYNLAIS-YNISCEDWYN-HO](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/YSTRADGYNLAIS-YNISCEDWYN-HO)
 * [YSTRADYFODWG-FYNTYLA-HOSPITAL](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/YSTRADYFODWG-FYNTYLA-HOSPITAL)
 
-91 locations under [https://github.com/ed-hawkins/rainfall-rescue/tree/master/POOR-LOCATIONS](https://github.com/ed-hawkins/rainfall-rescue/tree/master/POOR-LOCATIONS):
+93 locations under [https://github.com/ed-hawkins/rainfall-rescue/tree/master/POOR-LOCATIONS](https://github.com/ed-hawkins/rainfall-rescue/tree/master/POOR-LOCATIONS):
 
 * [ABERDEEN](https://github.com/ed-hawkins/rainfall-rescue/tree/master/POOR-LOCATIONS/ABERDEEN)
 * [ABERDOVEY](https://github.com/ed-hawkins/rainfall-rescue/tree/master/POOR-LOCATIONS/ABERDOVEY)
@@ -6136,6 +6134,7 @@ Generation time: Tuesday 11/05/2021 22:48:39 BST
 * [DOBCROSS](https://github.com/ed-hawkins/rainfall-rescue/tree/master/POOR-LOCATIONS/DOBCROSS)
 * [EDINBURGH-MIX](https://github.com/ed-hawkins/rainfall-rescue/tree/master/POOR-LOCATIONS/EDINBURGH-MIX)
 * [EXETER-WHITSTONE-RECTORY](https://github.com/ed-hawkins/rainfall-rescue/tree/master/POOR-LOCATIONS/EXETER-WHITSTONE-RECTORY)
+* [GREENOCK-WW-MIX](https://github.com/ed-hawkins/rainfall-rescue/tree/master/POOR-LOCATIONS/GREENOCK-WW-MIX)
 * [GUERNSEY-COBO-CASTEL](https://github.com/ed-hawkins/rainfall-rescue/tree/master/POOR-LOCATIONS/GUERNSEY-COBO-CASTEL)
 * [HAMPSTEAD-BRANCH-HILL](https://github.com/ed-hawkins/rainfall-rescue/tree/master/POOR-LOCATIONS/HAMPSTEAD-BRANCH-HILL)
 * [HAMPSTEAD-THE-GROVE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/POOR-LOCATIONS/HAMPSTEAD-THE-GROVE)
@@ -6158,6 +6157,7 @@ Generation time: Tuesday 11/05/2021 22:48:39 BST
 * [LAKE-VYRNWY-PEN-Y-FFRIDD-COWNWY](https://github.com/ed-hawkins/rainfall-rescue/tree/master/POOR-LOCATIONS/LAKE-VYRNWY-PEN-Y-FFRIDD-COWNWY)
 * [LAKE-VYRNWY-RHIALGWM](https://github.com/ed-hawkins/rainfall-rescue/tree/master/POOR-LOCATIONS/LAKE-VYRNWY-RHIALGWM)
 * [LONDON](https://github.com/ed-hawkins/rainfall-rescue/tree/master/POOR-LOCATIONS/LONDON)
+* [LONDON-DISTRICT](https://github.com/ed-hawkins/rainfall-rescue/tree/master/POOR-LOCATIONS/LONDON-DISTRICT)
 * [LOUGH-ESKE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/POOR-LOCATIONS/LOUGH-ESKE)
 * [MAIDA-HILL-WARRINGTON-CRESCENT](https://github.com/ed-hawkins/rainfall-rescue/tree/master/POOR-LOCATIONS/MAIDA-HILL-WARRINGTON-CRESCENT)
 * [MARKET-LAVINGTON-NR-DEVIZES](https://github.com/ed-hawkins/rainfall-rescue/tree/master/POOR-LOCATIONS/MARKET-LAVINGTON-NR-DEVIZES)

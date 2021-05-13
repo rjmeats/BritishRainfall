@@ -70659,7 +70659,7 @@
         "marker-size": "small",
         "marker-color": "66ff33",
         "name": "HIGHGATE-NURSERIES",
-        "county": "Middlesex-became-London",
+        "county": "Middlesex-stayed-Middlesex",
         "gridref": "TQ282870",
         "latitude": "51.567",
         "longitude": "-0.152",
@@ -89928,27 +89928,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -0.134,
-          51.498
-        ]
-      },
-      "properties": {
-        "marker-symbol": "circle-stroked",
-        "marker-size": "small",
-        "marker-color": "66ff33",
-        "name": "LONDON-DISTRICT",
-        "county": "Middlesex-became-London",
-        "gridref": "TQ296792",
-        "latitude": "51.498",
-        "longitude": "-0.134",
-        "elevation (ft)": "18"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -0.093,
           51.515
         ]
@@ -90236,6 +90215,48 @@
         "latitude": "54.901",
         "longitude": "-6.993",
         "elevation (ft)": "300"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.323,
+          54.994
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "LONDONDERRY-MOVILLE",
+        "county": "Londonderry",
+        "gridref": "IC434165",
+        "latitude": "54.994",
+        "longitude": "-7.323",
+        "elevation (ft)": "90"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.034,
+          55.191
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "LONDONDERRY-MOVILLE",
+        "county": "Londonderry",
+        "gridref": "IC616386",
+        "latitude": "55.191",
+        "longitude": "-7.034",
+        "elevation (ft)": "100"
       }
     },
     {

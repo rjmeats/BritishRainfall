@@ -1,4 +1,4 @@
-Generation time: Tuesday 11/05/2021 22:48:39 BST
+Generation time: Thursday 13/05/2021 08:29:12 BST
 
 ## Locations A-G
 
@@ -3580,7 +3580,7 @@ Generation time: Tuesday 11/05/2021 22:48:39 BST
 |[GREENOCK-WW-LOCH-THOM](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/GREENOCK-WW-LOCH-THOM)|GREENOCK-WW-LOCH-THOM.csv|NS256724|55.913|-4.792|643|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=55.913&lon=-4.792&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/55.913,-4.792,16)  |
 ||GREENOCK-WW-LOCH-THOM-2.csv|NS256724|55.913|-4.792|643|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=55.913&lon=-4.792&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/55.913,-4.792,16)  |
 |[GREENOCK-WW-MANSFIELD](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/GREENOCK-WW-MANSFIELD)|GREENOCK-WW-MANSFIELD.csv|NS295714|55.905|-4.729|573|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=55.905&lon=-4.729&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/55.905,-4.729,16)  |
-|[GREENOCK-WW-MIX](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/GREENOCK-WW-MIX)|GREENOCK-WW-MIX.csv|NS2521773284|55.921|-4.799|687|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=55.921&lon=-4.799&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/55.921,-4.799,16)  |
+|[GREENOCK-WW-MIX](https://github.com/ed-hawkins/rainfall-rescue/tree/master/POOR-LOCATIONS/GREENOCK-WW-MIX) [POOR]|GREENOCK-WW-MIX.csv|NS2521773284|55.921|-4.799|687|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=55.921&lon=-4.799&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/55.921,-4.799,16)  |
 |[GREENOCK-WW-NEW-YETTS-DAM](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/GREENOCK-WW-NEW-YETTS-DAM)|GREENOCK-WW-NEW-YETTS-DAM.csv|NS264738|55.926|-4.780|800|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=55.926&lon=-4.780&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/55.926,-4.780,16)  |
 |[GREENOCK-WW-PROSPECT-HILL](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/GREENOCK-WW-PROSPECT-HILL)|GREENOCK-WW-PROSPECT-HILL.csv|NS268757|55.943|-4.775|200|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=55.943&lon=-4.775&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/55.943,-4.775,16)  |
 |[GREENOCK-WW-SHIELHILL](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/GREENOCK-WW-SHIELHILL)|GREENOCK-WW-SHIELHILL.csv|NS238727|55.915|-4.821|962|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=55.915&lon=-4.821&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/55.915,-4.821,16)  |
