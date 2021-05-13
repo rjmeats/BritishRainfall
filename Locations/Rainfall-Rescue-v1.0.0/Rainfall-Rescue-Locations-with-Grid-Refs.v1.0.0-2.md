@@ -1,4 +1,4 @@
-## Locations H-O
+## Locations H-O - Rainfall Rescue v1.0.0
 
 * for locations A-G, see [here](./Rainfall-Rescue-Locations-with-Grid-Refs.v1.0.0.md)
 * for locations P-Z, see [here](./Rainfall-Rescue-Locations-with-Grid-Refs.v1.0.0-3.md)
