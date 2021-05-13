@@ -1,0 +1,1 @@
+This folder contains files recording the state of [Rainfall Rescue](https://github.com/ed-hawkins/rainfall-rescue) work at the point when its [v1.0.0 release](https://github.com/ed-hawkins/rainfall-rescue/releases/tag/v1.0.0) was created (12th May 2021).
