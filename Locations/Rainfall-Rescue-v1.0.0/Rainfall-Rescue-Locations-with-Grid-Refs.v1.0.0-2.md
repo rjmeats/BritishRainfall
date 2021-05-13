@@ -1,7 +1,7 @@
-## Locations H-O - Rainfall Rescue v1.0.0
+## Rainfall Rescue v1.0.0 - Locations H-O
 
-* for locations A-G, see [here](./Rainfall-Rescue-Locations-with-Grid-Refs.v1.0.0.md)
-* for locations P-Z, see [here](./Rainfall-Rescue-Locations-with-Grid-Refs.v1.0.0-3.md)
+* for Rainfall Rescue v1.0.0 locations A-G, see [here](./Rainfall-Rescue-Locations-with-Grid-Refs.v1.0.0.md)
+* for Rainfall Rescue v1.0.0 locations P-Z, see [here](./Rainfall-Rescue-Locations-with-Grid-Refs.v1.0.0-3.md)
 
 |Location|CSV|Grid Reference|Lat.|Long.|Height (ft)|Map Links|
 |:----|:----|:----|----|----|----|----|
