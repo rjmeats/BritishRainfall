@@ -1,4 +1,4 @@
-Generation time: Thursday 24/06/2021 23:50:11 BST
+Generation time: Saturday 26/06/2021 10:20:02 BST
 
 Links to county-level charts summarising the annual rainfall figures for sites with 30 or more annual totals.
 
