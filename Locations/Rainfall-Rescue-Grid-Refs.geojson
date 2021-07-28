@@ -70659,7 +70659,7 @@
         "marker-size": "small",
         "marker-color": "66ff33",
         "name": "HIGHGATE-NURSERIES",
-        "county": "Middlesex-stayed-Middlesex",
+        "county": "Middlesex-became-London",
         "gridref": "TQ282870",
         "latitude": "51.567",
         "longitude": "-0.152",
@@ -132096,6 +132096,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -4.134,
+          55.61
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "STRATHAVEN-DUNGAVEL",
+        "county": "Lanarkshire",
+        "gridref": "NS657372",
+        "latitude": "55.610",
+        "longitude": "-4.134",
+        "elevation (ft)": "798"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -3.989,
           55.613
         ]
@@ -132104,7 +132125,7 @@
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
         "marker-color": "66ff33",
-        "name": "STRATHAVEN-DEANSIDE-RES",
+        "name": "STRATHAVEN-DUNSIDE-RES",
         "county": "Lanarkshire",
         "gridref": "NS748373",
         "latitude": "55.613",
@@ -132125,33 +132146,12 @@
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
         "marker-color": "66ff33",
-        "name": "STRATHAVEN-DEANSIDE-RES",
+        "name": "STRATHAVEN-DUNSIDE-RES",
         "county": "Lanarkshire",
         "gridref": "NS748372",
         "latitude": "55.612",
         "longitude": "-3.989",
         "elevation (ft)": "1002"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -4.134,
-          55.61
-        ]
-      },
-      "properties": {
-        "marker-symbol": "circle-stroked",
-        "marker-size": "small",
-        "marker-color": "66ff33",
-        "name": "STRATHAVEN-DUNGAVEL",
-        "county": "Lanarkshire",
-        "gridref": "NS657372",
-        "latitude": "55.610",
-        "longitude": "-4.134",
-        "elevation (ft)": "798"
       }
     },
     {
