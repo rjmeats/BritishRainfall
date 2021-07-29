@@ -30246,27 +30246,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          0.441,
-          51.75
-        ]
-      },
-      "properties": {
-        "marker-symbol": "circle-stroked",
-        "marker-size": "small",
-        "marker-color": "66ff33",
-        "name": "CHELMSFORD-WRITTLE-MELBOURNE",
-        "county": "Essex",
-        "gridref": "TL686085",
-        "latitude": "51.750",
-        "longitude": "0.441",
-        "elevation (ft)": "140"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           0.454,
           51.749
         ]
@@ -34858,7 +34837,7 @@
         "gridref": "NO459030",
         "latitude": "56.216",
         "longitude": "-2.874",
-        "elevation (ft)": "-999999"
+        "elevation (ft)": "130"
       }
     },
     {
@@ -41411,6 +41390,27 @@
         "latitude": "51.956",
         "longitude": "0.991",
         "elevation (ft)": "49"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.978,
+          51.956
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "DEDHAM-LOWER-PARK",
+        "county": "Essex",
+        "gridref": "TM047328",
+        "latitude": "51.956",
+        "longitude": "0.978",
+        "elevation (ft)": "45"
       }
     },
     {
@@ -48159,8 +48159,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          0.049,
-          51.528
+          0.054,
+          51.529
         ]
       },
       "properties": {
@@ -48169,9 +48169,9 @@
         "marker-color": "66ff33",
         "name": "EAST-HAM-SEWAGE-WORKS",
         "county": "Essex",
-        "gridref": "TQ422830",
-        "latitude": "51.528",
-        "longitude": "0.049",
+        "gridref": "TQ425831",
+        "latitude": "51.529",
+        "longitude": "0.054",
         "elevation (ft)": "15"
       }
     },
@@ -48180,8 +48180,29 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          0.071,
-          51.538
+          0.07,
+          51.529
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "EAST-HAM-SEWAGE-WORKS",
+        "county": "Essex",
+        "gridref": "TQ436831",
+        "latitude": "51.529",
+        "longitude": "0.070",
+        "elevation (ft)": "10"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.072,
+          51.536
         ]
       },
       "properties": {
@@ -48190,9 +48211,9 @@
         "marker-color": "66ff33",
         "name": "EAST-HAM-WELL",
         "county": "Essex",
-        "gridref": "TQ437842",
-        "latitude": "51.538",
-        "longitude": "0.071",
+        "gridref": "TQ437839",
+        "latitude": "51.536",
+        "longitude": "0.072",
         "elevation (ft)": "17"
       }
     },
@@ -53716,6 +53737,27 @@
         "gridref": "TL679205",
         "latitude": "51.858",
         "longitude": "0.437",
+        "elevation (ft)": "248"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.433,
+          51.858
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "FELSTED-SCHOOL",
+        "county": "Essex",
+        "gridref": "TL676205",
+        "latitude": "51.858",
+        "longitude": "0.433",
         "elevation (ft)": "248"
       }
     },
@@ -59394,27 +59436,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -3.773,
-          56.212
-        ]
-      },
-      "properties": {
-        "marker-symbol": "circle-stroked",
-        "marker-size": "small",
-        "marker-color": "66ff33",
-        "name": "GLENDEVON-BURNFOOT-HILL",
-        "county": "Clackmannanshire",
-        "gridref": "NN901036",
-        "latitude": "56.212",
-        "longitude": "-3.773",
-        "elevation (ft)": "1721"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -3.762,
           56.213
         ]
@@ -61788,8 +61809,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          0.35,
-          51.869
+          0.365,
+          51.87
         ]
       },
       "properties": {
@@ -61798,9 +61819,9 @@
         "marker-color": "66ff33",
         "name": "GREAT-DUNMOW",
         "county": "Essex",
-        "gridref": "TL619215",
-        "latitude": "51.869",
-        "longitude": "0.350",
+        "gridref": "TL629216",
+        "latitude": "51.870",
+        "longitude": "0.365",
         "elevation (ft)": "241"
       }
     },
