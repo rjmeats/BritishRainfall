@@ -5571,6 +5571,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -4.802,
+          55.678
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "ARDROSSAN-BUSBIE-RES",
+        "county": "Ayrshire",
+        "gridref": "NS239463",
+        "latitude": "55.678",
+        "longitude": "-4.802",
+        "elevation (ft)": "370"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -4.801,
           55.656
         ]
@@ -5585,6 +5606,27 @@
         "latitude": "55.656",
         "longitude": "-4.801",
         "elevation (ft)": "106"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.807,
+          55.661
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "ARDROSSAN-MILL-GLEN-FILTERS",
+        "county": "Ayrshire",
+        "gridref": "NS235444",
+        "latitude": "55.661",
+        "longitude": "-4.807",
+        "elevation (ft)": "167"
       }
     },
     {
@@ -16764,6 +16806,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -1.896,
+          52.801
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "BLITHFIELD-RES",
+        "county": "Staffordshire",
+        "gridref": "SK071226",
+        "latitude": "52.801",
+        "longitude": "-1.896",
+        "elevation (ft)": "273"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -1.761,
           52.011
         ]
@@ -23148,6 +23211,48 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -1.936,
+          52.649
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "BROWNHILLS",
+        "county": "Staffordshire",
+        "gridref": "SK044057",
+        "latitude": "52.649",
+        "longitude": "-1.936",
+        "elevation (ft)": "492"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.945,
+          52.65
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "BROWNHILLS",
+        "county": "Staffordshire",
+        "gridref": "SK038058",
+        "latitude": "52.650",
+        "longitude": "-1.945",
+        "elevation (ft)": "492"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -0.014,
           51.748
         ]
@@ -25052,6 +25157,27 @@
         "latitude": "52.782",
         "longitude": "-1.128",
         "elevation (ft)": "250"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.665,
+          52.813
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "BURTON-ON-TRENT-OUTWOODS",
+        "county": "Staffordshire",
+        "gridref": "SK227240",
+        "latitude": "52.813",
+        "longitude": "-1.665",
+        "elevation (ft)": "310"
       }
     },
     {
@@ -38793,6 +38919,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -2.37,
+          53.037
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "CREWE-BETLEY-HALL",
+        "county": "Staffordshire",
+        "gridref": "SJ753489",
+        "latitude": "53.037",
+        "longitude": "-2.370",
+        "elevation (ft)": "270"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -2.807,
           50.887
         ]
@@ -40662,6 +40809,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -4.783,
+          55.765
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "DALRY-CATBURN",
+        "county": "Ayrshire",
+        "gridref": "NS255559",
+        "latitude": "55.765",
+        "longitude": "-4.783",
+        "elevation (ft)": "1013"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -4.151,
           55.111
         ]
@@ -40788,6 +40956,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -4.768,
+          55.753
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "DALRY-HAINING",
+        "county": "Ayrshire",
+        "gridref": "NS264545",
+        "latitude": "55.753",
+        "longitude": "-4.768",
+        "elevation (ft)": "890"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -4.176,
           55.17
         ]
@@ -40851,6 +41040,48 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -4.766,
+          55.778
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "DALRY-ROUTDANE-BURN",
+        "county": "Ayrshire",
+        "gridref": "NS266573",
+        "latitude": "55.778",
+        "longitude": "-4.766",
+        "elevation (ft)": "1044"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.788,
+          55.79
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "DALRY-RYE-WATER",
+        "county": "Ayrshire",
+        "gridref": "NS253587",
+        "latitude": "55.790",
+        "longitude": "-4.788",
+        "elevation (ft)": "1032"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -4.795,
           55.737
         ]
@@ -40886,6 +41117,27 @@
         "latitude": "55.723",
         "longitude": "-4.796",
         "elevation (ft)": "704"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.769,
+          55.769
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "DALRY-WHITEHILL",
+        "county": "Ayrshire",
+        "gridref": "NS264563",
+        "latitude": "55.769",
+        "longitude": "-4.769",
+        "elevation (ft)": "628"
       }
     },
     {
@@ -48810,6 +49062,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -2.213,
+          57.187
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "DYCE-CRAIBSTONE",
+        "county": "Aberdeenshire",
+        "gridref": "NJ872107",
+        "latitude": "57.187",
+        "longitude": "-2.213",
+        "elevation (ft)": "300"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -3.699,
           52.523
         ]
@@ -51771,6 +52044,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -1.829,
+          52.987
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "ELLASTONE-VICARAGE",
+        "county": "Staffordshire",
+        "gridref": "SK116433",
+        "latitude": "52.987",
+        "longitude": "-1.829",
+        "elevation (ft)": "400"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -2.877,
           52.906
         ]
@@ -52793,6 +53087,27 @@
         "latitude": "53.801",
         "longitude": "-2.136",
         "elevation (ft)": "1308"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.261,
+          52.475
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "ENVILLE",
+        "county": "Staffordshire",
+        "gridref": "SO824864",
+        "latitude": "52.475",
+        "longitude": "-2.261",
+        "elevation (ft)": "325"
       }
     },
     {
@@ -59646,6 +59961,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -4.743,
+          55.235
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "GIRVAN-PENWHAPPLE-RES",
+        "county": "Ayrshire",
+        "gridref": "NX257969",
+        "latitude": "55.235",
+        "longitude": "-4.743",
+        "elevation (ft)": "662"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -4.82,
           55.173
         ]
@@ -60647,6 +60983,48 @@
         "latitude": "56.285",
         "longitude": "-4.606",
         "elevation (ft)": "380"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.311,
+          56.819
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "GLEN-ISLA-LINNS",
+        "county": "Angus (Forfar)",
+        "gridref": "NO201705",
+        "latitude": "56.819",
+        "longitude": "-3.311",
+        "elevation (ft)": "1370"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.03,
+          56.921
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "GLEN-LEE-STABLES",
+        "county": "Angus (Forfar)",
+        "gridref": "NO374815",
+        "latitude": "56.921",
+        "longitude": "-3.030",
+        "elevation (ft)": "1545"
       }
     },
     {
@@ -63356,6 +63734,27 @@
         "latitude": "52.881",
         "longitude": "-1.942",
         "elevation (ft)": "381"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.991,
+          52.898
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "GRATWICH-FRADSWELL",
+        "county": "Staffordshire",
+        "gridref": "SK007334",
+        "latitude": "52.898",
+        "longitude": "-1.991",
+        "elevation (ft)": "450"
       }
     },
     {
@@ -70902,6 +71301,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -1.929,
+          52.708
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "HEDNESFORD-GENTLESHAW",
+        "county": "Staffordshire",
+        "gridref": "SK049123",
+        "latitude": "52.708",
+        "longitude": "-1.929",
+        "elevation (ft)": "744"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -2.018,
           52.726
         ]
@@ -72633,7 +73053,7 @@
         "marker-size": "small",
         "marker-color": "66ff33",
         "name": "HIGHGATE-NURSERIES",
-        "county": "Middlesex-became-London",
+        "county": "Middlesex-stayed-Middlesex",
         "gridref": "TQ282870",
         "latitude": "51.567",
         "longitude": "-0.152",
@@ -81759,6 +82179,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -3.219,
+          56.716
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "KIRRIEMUIR-BACKWATER",
+        "county": "Angus (Forfar)",
+        "gridref": "NO255589",
+        "latitude": "56.716",
+        "longitude": "-3.219",
+        "elevation (ft)": "850"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -3.175,
           56.685
         ]
@@ -82046,6 +82487,69 @@
         "latitude": "56.743",
         "longitude": "-3.182",
         "elevation (ft)": "1142"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.211,
+          56.736
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "KIRRIEMUIR-MACRITCH",
+        "county": "Angus (Forfar)",
+        "gridref": "NO260611",
+        "latitude": "56.736",
+        "longitude": "-3.211",
+        "elevation (ft)": "1300"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.169,
+          56.702
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "KIRRIEMUIR-NEWTON",
+        "county": "Angus (Forfar)",
+        "gridref": "NO285573",
+        "latitude": "56.702",
+        "longitude": "-3.169",
+        "elevation (ft)": "735"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.175,
+          56.724
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "KIRRIEMUIR-WESTERTON",
+        "county": "Angus (Forfar)",
+        "gridref": "NO282598",
+        "latitude": "56.724",
+        "longitude": "-3.175",
+        "elevation (ft)": "900"
       }
     },
     {
@@ -85553,6 +86057,27 @@
         "latitude": "53.121",
         "longitude": "-2.075",
         "elevation (ft)": "500"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.016,
+          53.127
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "LEEK-TITTESWORTH",
+        "county": "Staffordshire",
+        "gridref": "SJ990589",
+        "latitude": "53.127",
+        "longitude": "-2.016",
+        "elevation (ft)": "657"
       }
     },
     {
@@ -91251,6 +91776,48 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -2.965,
+          56.902
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "LOCH-LEE-INCHGRUNDLE",
+        "county": "Angus (Forfar)",
+        "gridref": "NO413794",
+        "latitude": "56.902",
+        "longitude": "-2.965",
+        "elevation (ft)": "885"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.936,
+          56.911
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "LOCH-LEE-INVERMARK",
+        "county": "Angus (Forfar)",
+        "gridref": "NO431803",
+        "latitude": "56.911",
+        "longitude": "-2.936",
+        "elevation (ft)": "895"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -3.337,
           56.18
         ]
@@ -94695,6 +95262,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -2.122,
+          52.464
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "LYE-PUMPING-STATION",
+        "county": "Staffordshire",
+        "gridref": "SO918851",
+        "latitude": "52.464",
+        "longitude": "-2.122",
+        "elevation (ft)": "245"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -2.94,
           50.721
         ]
@@ -97985,6 +98573,27 @@
         "latitude": "54.594",
         "longitude": "-2.986",
         "elevation (ft)": "1400"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.387,
+          55.525
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "MAUCHLINE-HILLHEAD-TANK",
+        "county": "Ayrshire",
+        "gridref": "NS494283",
+        "latitude": "55.525",
+        "longitude": "-4.387",
+        "elevation (ft)": "564"
       }
     },
     {
@@ -116451,6 +117060,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -4.619,
+          55.501
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "PRESTWICK",
+        "county": "Ayrshire",
+        "gridref": "NS347261",
+        "latitude": "55.501",
+        "longitude": "-4.619",
+        "elevation (ft)": "30"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -4.554,
           55.51
         ]
@@ -122016,6 +122646,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -1.953,
+          52.753
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "RUGELEY-SLITTING-MILL",
+        "county": "Staffordshire",
+        "gridref": "SK033173",
+        "latitude": "52.753",
+        "longitude": "-1.953",
+        "elevation (ft)": "299"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -0.434,
           51.588
         ]
@@ -126797,6 +127448,27 @@
         "latitude": "52.800",
         "longitude": "-2.013",
         "elevation (ft)": "260"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.235,
+          52.726
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "SHUSHIONS-MANOR",
+        "county": "Staffordshire",
+        "gridref": "SJ842143",
+        "latitude": "52.726",
+        "longitude": "-2.235",
+        "elevation (ft)": "325"
       }
     },
     {
@@ -134126,6 +134798,69 @@
         "latitude": "51.280",
         "longitude": "-2.546",
         "elevation (ft)": "480"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.141,
+          52.911
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "STONE-ALLEYNES-GRAMMAR-SCHOOL",
+        "county": "Staffordshire",
+        "gridref": "SJ906348",
+        "latitude": "52.911",
+        "longitude": "-2.141",
+        "elevation (ft)": "415"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.103,
+          52.934
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "STONE-IDLEROCKS",
+        "county": "Staffordshire",
+        "gridref": "SJ932374",
+        "latitude": "52.934",
+        "longitude": "-2.103",
+        "elevation (ft)": "740"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.221,
+          52.891
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "STONE-MEECE-HOUSE",
+        "county": "Staffordshire",
+        "gridref": "SJ852326",
+        "latitude": "52.891",
+        "longitude": "-2.221",
+        "elevation (ft)": "331"
       }
     },
     {
@@ -152333,6 +153068,27 @@
         "latitude": "54.823",
         "longitude": "-3.166",
         "elevation (ft)": "124"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.034,
+          52.584
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "WILLENHALL-SEWAGE-WORKS",
+        "county": "Staffordshire",
+        "gridref": "SO978985",
+        "latitude": "52.584",
+        "longitude": "-2.034",
+        "elevation (ft)": "390"
       }
     },
     {
