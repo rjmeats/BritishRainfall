@@ -2526,6 +2526,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          1.579,
+          52.16
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "ALDEBURGH-COB-HOUSE",
+        "county": "Suffolk",
+        "gridref": "TM449573",
+        "latitude": "52.160",
+        "longitude": "1.579",
+        "elevation (ft)": "50"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -2.328,
           51.621
         ]
@@ -6516,6 +6537,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          0.871,
+          51.151
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "ASHFORD-ALBERT-ROAD",
+        "county": "Kent-stayed-Kent",
+        "gridref": "TR009430",
+        "latitude": "51.151",
+        "longitude": "0.871",
+        "elevation (ft)": "185"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           0.857,
           51.137
         ]
@@ -7328,6 +7370,27 @@
         "latitude": "51.846",
         "longitude": "-0.934",
         "elevation (ft)": "346"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.493,
+          51.301
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "AYLESFORD-FORSTAL-PUMPING-STATION",
+        "county": "Kent-stayed-Kent",
+        "gridref": "TQ739587",
+        "latitude": "51.301",
+        "longitude": "0.493",
+        "elevation (ft)": "20"
       }
     },
     {
@@ -11703,6 +11766,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          0.602,
+          51.273
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "BEARSTEAD-THURNHAM-PUMPING-STATION",
+        "county": "Kent-stayed-Kent",
+        "gridref": "TQ816559",
+        "latitude": "51.273",
+        "longitude": "0.602",
+        "elevation (ft)": "226"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -4.488,
           57.454
         ]
@@ -12242,6 +12326,48 @@
         "latitude": "51.421",
         "longitude": "-1.136",
         "elevation (ft)": "320"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.097,
+          50.698
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "BEER-WINDYRIDGE",
+        "county": "Devon",
+        "gridref": "SY226892",
+        "latitude": "50.698",
+        "longitude": "-3.097",
+        "elevation (ft)": "150"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.099,
+          50.699
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "BEER-WINDYRIDGE",
+        "county": "Devon",
+        "gridref": "SY231894",
+        "latitude": "50.699",
+        "longitude": "-3.099",
+        "elevation (ft)": "200"
       }
     },
     {
@@ -13026,6 +13152,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -1.116,
+          51.617
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "BENSON-LOCK",
+        "county": "Oxfordshire",
+        "gridref": "SU613913",
+        "latitude": "51.617",
+        "longitude": "-1.116",
+        "elevation (ft)": "141"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -1.103,
           51.622
         ]
@@ -13061,6 +13208,27 @@
         "latitude": "53.559",
         "longitude": "-1.139",
         "elevation (ft)": "23"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.015,
+          55.338
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "BENZIEN-CRAIG",
+        "county": "Dumfriesshire",
+        "gridref": "NS723067",
+        "latitude": "55.338",
+        "longitude": "-4.015",
+        "elevation (ft)": "990"
       }
     },
     {
@@ -16260,6 +16428,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -3.717,
+          55.165
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "BLACKWOOD-DUMFRIES",
+        "county": "Dumfriesshire",
+        "gridref": "NX907870",
+        "latitude": "55.165",
+        "longitude": "-3.717",
+        "elevation (ft)": "100"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -3.943,
           53.003
         ]
@@ -18332,6 +18521,27 @@
         "latitude": "51.305",
         "longitude": "-0.383",
         "elevation (ft)": "140"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.277,
+          51.654
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "BOREHAM-WOOD-FURZEHILL-ROAD",
+        "county": "Hertfordshire",
+        "gridref": "TQ193964",
+        "latitude": "51.654",
+        "longitude": "-0.277",
+        "elevation (ft)": "302"
       }
     },
     {
@@ -20691,6 +20901,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          0.637,
+          52.444
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "BRANDON-WW",
+        "county": "Suffolk",
+        "gridref": "TL793862",
+        "latitude": "52.444",
+        "longitude": "0.637",
+        "elevation (ft)": "82"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -1.938,
           50.755
         ]
@@ -22721,6 +22952,27 @@
         "latitude": "51.358",
         "longitude": "1.437",
         "elevation (ft)": "127"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.993,
+          50.744
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "BROADSTONE-SEWAGE-WORKS",
+        "county": "Dorset",
+        "gridref": "SZ006938",
+        "latitude": "50.744",
+        "longitude": "-1.993",
+        "elevation (ft)": "26"
       }
     },
     {
@@ -25500,6 +25752,48 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          0.701,
+          52.241
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "BURY-ST-EDMUNDS-BEECH-HILL",
+        "county": "Suffolk",
+        "gridref": "TL845637",
+        "latitude": "52.241",
+        "longitude": "0.701",
+        "elevation (ft)": "160"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.729,
+          52.257
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "BURY-ST-EDMUNDS-BEET-SUGAR-FACTORY",
+        "county": "Suffolk",
+        "gridref": "TL863656",
+        "latitude": "52.257",
+        "longitude": "0.729",
+        "elevation (ft)": "160"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           0.686,
           52.3
         ]
@@ -25535,6 +25829,27 @@
         "latitude": "52.286",
         "longitude": "0.674",
         "elevation (ft)": "91"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.784,
+          52.311
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "BURY-ST-EDMUNDS-TROSTON-HALL",
+        "county": "Suffolk",
+        "gridref": "TL899717",
+        "latitude": "52.311",
+        "longitude": "0.784",
+        "elevation (ft)": "130"
       }
     },
     {
@@ -26886,6 +27201,48 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -4.638,
+          50.619
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "CAMELFORD-ADVENT",
+        "county": "Cornwall",
+        "gridref": "SX135832",
+        "latitude": "50.619",
+        "longitude": "-4.638",
+        "elevation (ft)": "905"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.648,
+          50.619
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "CAMELFORD-ADVENT",
+        "county": "Cornwall",
+        "gridref": "SX127832",
+        "latitude": "50.619",
+        "longitude": "-4.648",
+        "elevation (ft)": "890"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -4.646,
           50.598
         ]
@@ -27257,6 +27614,27 @@
         "latitude": "58.625",
         "longitude": "-5.000",
         "elevation (ft)": "355"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.044,
+          52.004
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "CAPEL-ST-MARY-SCHOOL",
+        "county": "Suffolk",
+        "gridref": "TM0903238311",
+        "latitude": "52.004",
+        "longitude": "1.044",
+        "elevation (ft)": "156"
       }
     },
     {
@@ -30120,6 +30498,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          0.48,
+          52.545
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "CATSHOLM-PUMPING-STATION",
+        "county": "Norfolk",
+        "gridref": "TL683970",
+        "latitude": "52.545",
+        "longitude": "0.480",
+        "elevation (ft)": "5"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -1.666,
           54.359
         ]
@@ -30470,6 +30869,27 @@
         "latitude": "50.661",
         "longitude": "-3.897",
         "elevation (ft)": "1282"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.883,
+          50.631
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "CHAGFORD-HURSTON-RIDGE",
+        "county": "Devon",
+        "gridref": "SX669828",
+        "latitude": "50.631",
+        "longitude": "-3.883",
+        "elevation (ft)": "1350"
       }
     },
     {
@@ -33564,6 +33984,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -3.604,
+          50.602
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "CHUDLEIGH",
+        "county": "Devon",
+        "gridref": "SX866792",
+        "latitude": "50.602",
+        "longitude": "-3.604",
+        "elevation (ft)": "230"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -3.564,
           50.585
         ]
@@ -34229,6 +34670,27 @@
         "latitude": "51.862",
         "longitude": "-4.890",
         "elevation (ft)": "320"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.481,
+          52.1
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "CLARE-LITTLE-WRATTING",
+        "county": "Suffolk",
+        "gridref": "TL700475",
+        "latitude": "52.100",
+        "longitude": "0.481",
+        "elevation (ft)": "230"
       }
     },
     {
@@ -36399,6 +36861,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -1.086,
+          52.948
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "COLWICK-HOLME-SLUICES",
+        "county": "Nottinghamshire",
+        "gridref": "SK615393",
+        "latitude": "52.948",
+        "longitude": "-1.086",
+        "elevation (ft)": "75"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -3.751,
           53.306
         ]
@@ -37127,6 +37610,48 @@
         "latitude": "54.971",
         "longitude": "-2.000",
         "elevation (ft)": "200"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.677,
+          52.497
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "CORBY-STANION-LANE",
+        "county": "Northamptonshire",
+        "gridref": "SP8989389557",
+        "latitude": "52.497",
+        "longitude": "-0.677",
+        "elevation (ft)": "365"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.675,
+          52.487
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "CORBY-STANION-LANE",
+        "county": "Northamptonshire",
+        "gridref": "SP901885",
+        "latitude": "52.487",
+        "longitude": "-0.675",
+        "elevation (ft)": "319"
       }
     },
     {
@@ -40305,6 +40830,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -3.602,
+          55.316
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "DAER-WHITEHOLM",
+        "county": "Dumfriesshire",
+        "gridref": "NS984036",
+        "latitude": "55.316",
+        "longitude": "-3.602",
+        "elevation (ft)": "1400"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -3.773,
           54.872
         ]
@@ -41733,6 +42279,48 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          0.203,
+          51.444
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "DARTFORD-CHRISTCHURCH-ROAD",
+        "county": "Kent-stayed-Kent",
+        "gridref": "TQ532740",
+        "latitude": "51.444",
+        "longitude": "0.203",
+        "elevation (ft)": "100"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.234,
+          51.468
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "DARTFORD-SEWAGE-WORKS",
+        "county": "Kent-stayed-Kent",
+        "gridref": "TQ553767",
+        "latitude": "51.468",
+        "longitude": "0.234",
+        "elevation (ft)": "14"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           0.244,
           51.433
         ]
@@ -42510,6 +43098,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -3.576,
+          50.345
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "DARTMOUTH-DEANS-LODGE",
+        "county": "Devon",
+        "gridref": "SX879506",
+        "latitude": "50.345",
+        "longitude": "-3.576",
+        "elevation (ft)": "80"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -7.073,
           54.1
         ]
@@ -42818,6 +43427,48 @@
         "latitude": "50.582",
         "longitude": "-3.463",
         "elevation (ft)": "62"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.472,
+          50.562
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "DAWLISH-HOLCOMBE",
+        "county": "Devon",
+        "gridref": "SX958746",
+        "latitude": "50.562",
+        "longitude": "-3.472",
+        "elevation (ft)": "180"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.48,
+          50.566
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "DAWLISH-HOLCOMBE",
+        "county": "Devon",
+        "gridref": "SX953751",
+        "latitude": "50.566",
+        "longitude": "-3.480",
+        "elevation (ft)": "200"
       }
     },
     {
@@ -49818,6 +50469,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          0.486,
+          51.254
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "EAST-FARLEIGH-LOCK",
+        "county": "Kent-stayed-Kent",
+        "gridref": "TQ736535",
+        "latitude": "51.254",
+        "longitude": "0.486",
+        "elevation (ft)": "30"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -2.718,
           56.005
         ]
@@ -50343,6 +51015,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          0.902,
+          51.412
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "EASTCHURCH-BARNLAND",
+        "county": "Kent-stayed-Kent",
+        "gridref": "TR019721",
+        "latitude": "51.412",
+        "longitude": "0.902",
+        "elevation (ft)": "180"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -2.96,
           53.312
         ]
@@ -50735,6 +51428,27 @@
         "latitude": "51.821",
         "longitude": "-3.233",
         "elevation (ft)": "1471"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.245,
+          55.06
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "ECCLEFECHAN-BURNFOOT",
+        "county": "Dumfriesshire",
+        "gridref": "NY206747",
+        "latitude": "55.060",
+        "longitude": "-3.245",
+        "elevation (ft)": "160"
       }
     },
     {
@@ -51414,6 +52128,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -3.383,
+          55.444
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "EDINBURGH-WW-GARELET-DOD",
+        "county": "Peeblesshire",
+        "gridref": "NT126175",
+        "latitude": "55.444",
+        "longitude": "-3.383",
+        "elevation (ft)": "2200"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -3.318,
           55.445
         ]
@@ -52016,6 +52751,27 @@
         "latitude": "57.646",
         "longitude": "-3.320",
         "elevation (ft)": "90"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.897,
+          55.348
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "ELIOCK",
+        "county": "Dumfriesshire",
+        "gridref": "NS798076",
+        "latitude": "55.348",
+        "longitude": "-3.897",
+        "elevation (ft)": "470"
       }
     },
     {
@@ -53388,6 +54144,174 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -3.253,
+          55.263
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "ESKDALEMUIR-BLACKESKHEAD",
+        "county": "Dumfriesshire",
+        "gridref": "NY205973",
+        "latitude": "55.263",
+        "longitude": "-3.253",
+        "elevation (ft)": "797"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.262,
+          55.262
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "ESKDALEMUIR-CAIRN-KNOWE",
+        "county": "Dumfriesshire",
+        "gridref": "NY199971",
+        "latitude": "55.262",
+        "longitude": "-3.262",
+        "elevation (ft)": "1107"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.211,
+          55.251
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "ESKDALEMUIR-FAULDBRAE",
+        "county": "Dumfriesshire",
+        "gridref": "NY231959",
+        "latitude": "55.251",
+        "longitude": "-3.211",
+        "elevation (ft)": "930"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.271,
+          55.285
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "ESKDALEMUIR-GARWALDSHIELS",
+        "county": "Dumfriesshire",
+        "gridref": "NY194997",
+        "latitude": "55.285",
+        "longitude": "-3.271",
+        "elevation (ft)": "941"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.298,
+          55.306
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "ESKDALEMUIR-JOCKS-SHOULDER",
+        "county": "Dumfriesshire",
+        "gridref": "NT177021",
+        "latitude": "55.306",
+        "longitude": "-3.298",
+        "elevation (ft)": "1757"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.189,
+          55.289
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "ESKDALEMUIR-JOHNSTONE-HOUSE",
+        "county": "Dumfriesshire",
+        "gridref": "NT246001",
+        "latitude": "55.289",
+        "longitude": "-3.189",
+        "elevation (ft)": "650"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.248,
+          55.309
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "ESKDALEMUIR-KIDDAMHILL",
+        "county": "Dumfriesshire",
+        "gridref": "NT209024",
+        "latitude": "55.309",
+        "longitude": "-3.248",
+        "elevation (ft)": "905"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.234,
+          55.284
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "ESKDALEMUIR-MONKINSHAW-KNOWE",
+        "county": "Dumfriesshire",
+        "gridref": "NY217996",
+        "latitude": "55.284",
+        "longitude": "-3.234",
+        "elevation (ft)": "1054"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -3.207,
           55.312
         ]
@@ -53423,6 +54347,90 @@
         "latitude": "55.311",
         "longitude": "-3.208",
         "elevation (ft)": "778"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.286,
+          55.285
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "ESKDALEMUIR-PEAT-RIG",
+        "county": "Dumfriesshire",
+        "gridref": "NY184997",
+        "latitude": "55.285",
+        "longitude": "-3.286",
+        "elevation (ft)": "1251"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.264,
+          55.336
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "ESKDALEMUIR-PENGRAIN",
+        "county": "Dumfriesshire",
+        "gridref": "NT199054",
+        "latitude": "55.336",
+        "longitude": "-3.264",
+        "elevation (ft)": "1118"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.822,
+          55.206
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "ESKDALEMUIR-SANDYFORD",
+        "county": "Dumfriesshire",
+        "gridref": "NX205938",
+        "latitude": "55.206",
+        "longitude": "-4.822",
+        "elevation (ft)": "728"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.25,
+          55.298
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "ESKDALEMUIR-WHITE-HOLE",
+        "county": "Dumfriesshire",
+        "gridref": "NT207010",
+        "latitude": "55.298",
+        "longitude": "-3.250",
+        "elevation (ft)": "1300"
       }
     },
     {
@@ -53570,6 +54578,48 @@
         "latitude": "52.865",
         "longitude": "-1.594",
         "elevation (ft)": "201"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.043,
+          55.335
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "EUCHAN-BANK",
+        "county": "Dumfriesshire",
+        "gridref": "NS705064",
+        "latitude": "55.335",
+        "longitude": "-4.043",
+        "elevation (ft)": "1080"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.077,
+          55.328
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "EUCHANHEAD",
+        "county": "Dumfriesshire",
+        "gridref": "NS683057",
+        "latitude": "55.328",
+        "longitude": "-4.077",
+        "elevation (ft)": "1370"
       }
     },
     {
@@ -54480,6 +55530,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          0.204,
+          51.368
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "EYNSFORD-PUMPING-STATION",
+        "county": "Kent-stayed-Kent",
+        "gridref": "TQ535655",
+        "latitude": "51.368",
+        "longitude": "0.204",
+        "elevation (ft)": "131"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -1.355,
           51.773
         ]
@@ -54746,6 +55817,27 @@
         "latitude": "52.827",
         "longitude": "0.887",
         "elevation (ft)": "153"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.844,
+          52.832
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "FAKENHAM-WELLS-ROAD",
+        "county": "Norfolk",
+        "gridref": "TF917298",
+        "latitude": "52.832",
+        "longitude": "0.844",
+        "elevation (ft)": "120"
       }
     },
     {
@@ -55271,6 +56363,27 @@
         "latitude": "57.266",
         "longitude": "-4.380",
         "elevation (ft)": "700"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.877,
+          51.297
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "FAVERSHAM-BROGDALE",
+        "county": "Kent-stayed-Kent",
+        "gridref": "TR007593",
+        "latitude": "51.297",
+        "longitude": "0.877",
+        "elevation (ft)": "157"
       }
     },
     {
@@ -57084,6 +58197,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -3.567,
+          55.228
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "FOREST-OF-AE-CRAN-LOCH",
+        "county": "Dumfriesshire",
+        "gridref": "NY004938",
+        "latitude": "55.228",
+        "longitude": "-3.567",
+        "elevation (ft)": "1100"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -2.493,
           51.776
         ]
@@ -58043,6 +59177,27 @@
         "latitude": "52.604",
         "longitude": "-9.151",
         "elevation (ft)": "104"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.342,
+          52.212
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "FRAMLINGHAM-SEWAGE-WORKS",
+        "county": "Suffolk",
+        "gridref": "TM284624",
+        "latitude": "52.212",
+        "longitude": "1.342",
+        "elevation (ft)": "90"
       }
     },
     {
@@ -59618,6 +60773,48 @@
         "latitude": "54.920",
         "longitude": "-1.571",
         "elevation (ft)": "515"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.56,
+          52.745
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "GAYTON",
+        "county": "Norfolk",
+        "gridref": "TF729194",
+        "latitude": "52.745",
+        "longitude": "0.560",
+        "elevation (ft)": "100"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.564,
+          52.744
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "GAYTON",
+        "county": "Norfolk",
+        "gridref": "TF732194",
+        "latitude": "52.744",
+        "longitude": "0.564",
+        "elevation (ft)": "66"
       }
     },
     {
@@ -62712,6 +63909,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          0.968,
+          51.226
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "GODMERSHAM-PUMPING-STATION",
+        "county": "Kent-stayed-Kent",
+        "gridref": "TR073516",
+        "latitude": "51.226",
+        "longitude": "0.968",
+        "elevation (ft)": "87"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -3.93,
           52.418
         ]
@@ -63146,6 +64364,27 @@
         "latitude": "51.129",
         "longitude": "0.461",
         "elevation (ft)": "196"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.443,
+          51.105
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "GOUDHURST-PUMPING-STATION",
+        "county": "Kent-stayed-Kent",
+        "gridref": "TQ711368",
+        "latitude": "51.105",
+        "longitude": "0.443",
+        "elevation (ft)": "135"
       }
     },
     {
@@ -65484,6 +66723,48 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -3.619,
+          55.207
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "GUBHILL",
+        "county": "Dumfriesshire",
+        "gridref": "NX971915",
+        "latitude": "55.207",
+        "longitude": "-3.619",
+        "elevation (ft)": "560"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.616,
+          55.207
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "GUBHILL",
+        "county": "Dumfriesshire",
+        "gridref": "NX972915",
+        "latitude": "55.207",
+        "longitude": "-3.616",
+        "elevation (ft)": "520"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -2.545,
           49.456
         ]
@@ -66380,6 +67661,27 @@
         "latitude": "52.387",
         "longitude": "1.443",
         "elevation (ft)": "148"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.087,
+          55.085
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "HALF-MORTON-SOLWAY-BANK",
+        "county": "Dumfriesshire",
+        "gridref": "NY307773",
+        "latitude": "55.085",
+        "longitude": "-3.087",
+        "elevation (ft)": "460"
       }
     },
     {
@@ -68886,6 +70188,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          0.322,
+          51.373
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "HARTLEY-LONGFIELD",
+        "county": "Kent-stayed-Kent",
+        "gridref": "TQ617663",
+        "latitude": "51.373",
+        "longitude": "0.322",
+        "elevation (ft)": "270"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -0.9,
           51.306
         ]
@@ -69740,6 +71063,27 @@
         "latitude": "52.125",
         "longitude": "0.448",
         "elevation (ft)": "241"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.422,
+          52.081
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "HAVERHILL-WW",
+        "county": "Suffolk",
+        "gridref": "TL6604945244",
+        "latitude": "52.081",
+        "longitude": "0.422",
+        "elevation (ft)": "280"
       }
     },
     {
@@ -71112,6 +72456,48 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          0.604,
+          51.191
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "HEADCORN-KILDALE",
+        "county": "Kent-stayed-Kent",
+        "gridref": "TQ820467",
+        "latitude": "51.191",
+        "longitude": "0.604",
+        "elevation (ft)": "75"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.619,
+          51.188
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "HEADCORN-KILDALE",
+        "county": "Kent-stayed-Kent",
+        "gridref": "TQ831465",
+        "latitude": "51.188",
+        "longitude": "0.619",
+        "elevation (ft)": "110"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -1.575,
           53.82
         ]
@@ -72414,6 +73800,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          1.132,
+          51.36
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "HERNE-BAY-EDDINGTON",
+        "county": "Kent-stayed-Kent",
+        "gridref": "TR1813066929",
+        "latitude": "51.360",
+        "longitude": "1.132",
+        "elevation (ft)": "53"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           1.139,
           51.368
         ]
@@ -73053,7 +74460,7 @@
         "marker-size": "small",
         "marker-color": "66ff33",
         "name": "HIGHGATE-NURSERIES",
-        "county": "Middlesex-stayed-Middlesex",
+        "county": "Middlesex-became-London",
         "gridref": "TQ282870",
         "latitude": "51.567",
         "longitude": "-0.152",
@@ -73604,6 +75011,27 @@
         "latitude": "52.950",
         "longitude": "0.803",
         "elevation (ft)": "39"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.452,
+          52.043
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "HOLLESLEY-PUMPING-STATION",
+        "county": "Suffolk",
+        "gridref": "TM368439",
+        "latitude": "52.043",
+        "longitude": "1.452",
+        "elevation (ft)": "11"
       }
     },
     {
@@ -74262,6 +75690,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -3.179,
+          50.797
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "HONITON-COPPER-CASTLE",
+        "county": "Devon",
+        "gridref": "ST170004",
+        "latitude": "50.797",
+        "longitude": "-3.179",
+        "elevation (ft)": "520"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -3.265,
           50.788
         ]
@@ -74892,6 +76341,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          0.448,
+          51.131
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "HORSMONDEN-BROAD-FORD-HOUSE",
+        "county": "Kent-stayed-Kent",
+        "gridref": "TQ7135239661",
+        "latitude": "51.131",
+        "longitude": "0.448",
+        "elevation (ft)": "101"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -1.762,
           53.786
         ]
@@ -74927,6 +76397,27 @@
         "latitude": "54.150",
         "longitude": "-2.295",
         "elevation (ft)": "800"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.242,
+          51.394
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "HORTON-KIRBY-COURT-LODGE",
+        "county": "Kent-stayed-Kent",
+        "gridref": "TQ561685",
+        "latitude": "51.394",
+        "longitude": "0.242",
+        "elevation (ft)": "50"
       }
     },
     {
@@ -75116,6 +76607,27 @@
         "latitude": "53.390",
         "longitude": "-3.177",
         "elevation (ft)": "23"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.186,
+          53.018
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "HUCKNALL-FORGE-MILLS",
+        "county": "Nottinghamshire",
+        "gridref": "SK547471",
+        "latitude": "53.018",
+        "longitude": "-1.186",
+        "elevation (ft)": "200"
       }
     },
     {
@@ -79680,6 +81192,48 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          1.302,
+          52.194
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "KETTLEBURGH-HOME-FARM",
+        "county": "Suffolk",
+        "gridref": "TM258602",
+        "latitude": "52.194",
+        "longitude": "1.302",
+        "elevation (ft)": "110"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.732,
+          55.277
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "KETTLETON",
+        "county": "Dumfriesshire",
+        "gridref": "NX900994",
+        "latitude": "55.277",
+        "longitude": "-3.732",
+        "elevation (ft)": "640"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -0.554,
           52.627
         ]
@@ -80856,6 +82410,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -0.494,
+          52.553
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "KINGS-CLIFF-APETHORPE",
+        "county": "Northamptonshire",
+        "gridref": "TL022961",
+        "latitude": "52.553",
+        "longitude": "-0.494",
+        "elevation (ft)": "127"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           0.4,
           52.743
         ]
@@ -80870,6 +82445,27 @@
         "latitude": "52.743",
         "longitude": "0.400",
         "elevation (ft)": "0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.433,
+          52.719
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "KINGS-LYNN-NORTH-RUNCTON-LODGE",
+        "county": "Norfolk",
+        "gridref": "TF644163",
+        "latitude": "52.719",
+        "longitude": "0.433",
+        "elevation (ft)": "50"
       }
     },
     {
@@ -81878,6 +83474,27 @@
         "latitude": "54.482",
         "longitude": "-2.346",
         "elevation (ft)": "544"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.998,
+          55.388
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "KIRKCONNEL-FAULDHEAD",
+        "county": "Dumfriesshire",
+        "gridref": "NS735123",
+        "latitude": "55.388",
+        "longitude": "-3.998",
+        "elevation (ft)": "530"
       }
     },
     {
@@ -84363,6 +85980,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -3.033,
+          55.17
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "LANGHOLM-CRAIGCLENCH",
+        "county": "Dumfriesshire",
+        "gridref": "NY343867",
+        "latitude": "55.170",
+        "longitude": "-3.033",
+        "elevation (ft)": "490"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -3.0,
           55.152
         ]
@@ -84461,6 +86099,27 @@
         "latitude": "53.240",
         "longitude": "-2.085",
         "elevation (ft)": "659"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.577,
+          51.24
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "LANGLEY-RUMWOOD-COURT",
+        "county": "Kent-stayed-Kent",
+        "gridref": "TQ800521",
+        "latitude": "51.240",
+        "longitude": "0.577",
+        "elevation (ft)": "350"
       }
     },
     {
@@ -87191,6 +88850,27 @@
         "latitude": "52.673",
         "longitude": "-1.821",
         "elevation (ft)": "285"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.526,
+          52.189
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "LIDGATE",
+        "county": "Suffolk",
+        "gridref": "TL728575",
+        "latitude": "52.189",
+        "longitude": "0.526",
+        "elevation (ft)": "291"
       }
     },
     {
@@ -93645,6 +95325,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -3.847,
+          51.17
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "LONGSTONE-BARROW",
+        "county": "Devon",
+        "gridref": "SS709428",
+        "latitude": "51.170",
+        "longitude": "-3.847",
+        "elevation (ft)": "1550"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -2.089,
           52.974
         ]
@@ -95241,6 +96942,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          0.942,
+          50.943
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "LYDD-DENGE-PUMPING-STATION",
+        "county": "Kent-stayed-Kent",
+        "gridref": "TR068201",
+        "latitude": "50.943",
+        "longitude": "0.942",
+        "elevation (ft)": "14"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -2.593,
           51.717
         ]
@@ -96102,6 +97824,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          0.544,
+          51.306
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "MAIDSTONE-BOXLEY-WW",
+        "county": "Kent-stayed-Kent",
+        "gridref": "TQ774594",
+        "latitude": "51.306",
+        "longitude": "0.544",
+        "elevation (ft)": "319"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           0.521,
           51.277
         ]
@@ -96271,6 +98014,27 @@
         "type": "Point",
         "coordinates": [
           0.508,
+          51.274
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "MAIDSTONE-MOUNT-HOUSE",
+        "county": "Kent-stayed-Kent",
+        "gridref": "TQ750558",
+        "latitude": "51.274",
+        "longitude": "0.508",
+        "elevation (ft)": "160"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.508,
           51.275
         ]
       },
@@ -96305,6 +98069,27 @@
         "latitude": "51.268",
         "longitude": "0.486",
         "elevation (ft)": "247"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.563,
+          51.285
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "MAIDSTONE-WW-HOCKERS-LANE-PUMPING-STATION",
+        "county": "Kent-stayed-Kent",
+        "gridref": "TQ788571",
+        "latitude": "51.285",
+        "longitude": "0.563",
+        "elevation (ft)": "212"
       }
     },
     {
@@ -97467,6 +99252,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          0.538,
+          52.667
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "MARHAM-PUMPING-STATION",
+        "county": "Norfolk",
+        "gridref": "TF717107",
+        "latitude": "52.667",
+        "longitude": "0.538",
+        "elevation (ft)": "20"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -1.373,
           52.637
         ]
@@ -97635,6 +99441,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -0.931,
+          52.476
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "MARKET-HARBOROUGH-COVENTRY-ROAD",
+        "county": "Leicestershire",
+        "gridref": "SP727870",
+        "latitude": "52.476",
+        "longitude": "-0.931",
+        "elevation (ft)": "270"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -0.866,
           52.481
         ]
@@ -97649,6 +99476,27 @@
         "latitude": "52.481",
         "longitude": "-0.866",
         "elevation (ft)": "450"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.923,
+          52.485
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "MARKET-HARBOROUGH-GRAMMAR-SCHOOL",
+        "county": "Leicestershire",
+        "gridref": "SP732879",
+        "latitude": "52.485",
+        "longitude": "-0.923",
+        "elevation (ft)": "348"
       }
     },
     {
@@ -98874,6 +100722,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -3.103,
+          55.248
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "MEGDALE",
+        "county": "Dumfriesshire",
+        "gridref": "NY300954",
+        "latitude": "55.248",
+        "longitude": "-3.103",
+        "elevation (ft)": "543"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -3.246,
           52.718
         ]
@@ -99651,6 +101520,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          0.934,
+          51.122
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "MERSHAM",
+        "county": "Kent-stayed-Kent",
+        "gridref": "TR054400",
+        "latitude": "51.122",
+        "longitude": "0.934",
+        "elevation (ft)": "230"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -0.729,
           50.823
         ]
@@ -99874,7 +101764,7 @@
         "gridref": "NT647321",
         "latitude": "55.581",
         "longitude": "-2.562",
-        "elevation (ft)": "790"
+        "elevation (ft)": "250"
       }
     },
     {
@@ -100911,6 +102801,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          0.744,
+          51.35
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "MILTON-REGIS-SEWAGE-WORKS",
+        "county": "Kent-stayed-Kent",
+        "gridref": "TQ912648",
+        "latitude": "51.350",
+        "longitude": "0.744",
+        "elevation (ft)": "8"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -9.378,
           52.883
         ]
@@ -101534,6 +103445,27 @@
         "latitude": "54.993",
         "longitude": "-6.610",
         "elevation (ft)": "112"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.888,
+          55.182
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "MONIAIVE-DALMACALLAN",
+        "county": "Dumfriesshire",
+        "gridref": "NX799891",
+        "latitude": "55.182",
+        "longitude": "-3.888",
+        "elevation (ft)": "480"
       }
     },
     {
@@ -104754,6 +106686,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -0.804,
+          53.093
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "NEWARK-SEWAGE-WORKS",
+        "county": "Nottinghamshire",
+        "gridref": "SK802558",
+        "latitude": "53.093",
+        "longitude": "-0.804",
+        "elevation (ft)": "33"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -3.061,
           55.873
         ]
@@ -105503,6 +107456,27 @@
         "latitude": "52.257",
         "longitude": "0.394",
         "elevation (ft)": "81"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.832,
+          51.302
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "NEWNHAM-PUMPING-STATION",
+        "county": "Kent-stayed-Kent",
+        "gridref": "TQ975597",
+        "latitude": "51.302",
+        "longitude": "0.832",
+        "elevation (ft)": "107"
       }
     },
     {
@@ -106329,6 +108303,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -1.217,
+          52.681
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "NEWTON-LINFORD",
+        "county": "Leicestershire",
+        "gridref": "SK530095",
+        "latitude": "52.681",
+        "longitude": "-1.217",
+        "elevation (ft)": "388"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -4.49,
           54.967
         ]
@@ -107085,6 +109080,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -4.481,
+          50.562
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "NORTH-HILL-BASTREET",
+        "county": "Cornwall",
+        "gridref": "SX243765",
+        "latitude": "50.562",
+        "longitude": "-4.481",
+        "elevation (ft)": "765"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -0.217,
           51.718
         ]
@@ -107624,6 +109640,27 @@
         "latitude": "52.244",
         "longitude": "-0.960",
         "elevation (ft)": "399"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.878,
+          52.235
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "NORTHAMPTON-CLIFTONVILLE-NURSERIES",
+        "county": "Northamptonshire",
+        "gridref": "SP767602",
+        "latitude": "52.235",
+        "longitude": "-0.878",
+        "elevation (ft)": "235"
       }
     },
     {
@@ -108177,6 +110214,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -1.119,
+          52.286
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "NORTON-LOCK",
+        "county": "Northamptonshire",
+        "gridref": "SP602657",
+        "latitude": "52.286",
+        "longitude": "-1.119",
+        "elevation (ft)": "358"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           1.31,
           52.616
         ]
@@ -108660,6 +110718,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          1.271,
+          52.639
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "NORWICH-WW",
+        "county": "Norfolk",
+        "gridref": "TG214096",
+        "latitude": "52.639",
+        "longitude": "1.271",
+        "elevation (ft)": "34"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -1.249,
           53.065
         ]
@@ -108905,6 +110984,48 @@
         "latitude": "52.954",
         "longitude": "-1.164",
         "elevation (ft)": "247"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.125,
+          52.945
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "NOTTINGHAM-SNEINTON-PUMPING-STATION",
+        "county": "Nottinghamshire",
+        "gridref": "SK589390",
+        "latitude": "52.945",
+        "longitude": "-1.125",
+        "elevation (ft)": "85"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.12,
+          52.948
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "NOTTINGHAM-SNEINTON-PUMPING-STATION",
+        "county": "Nottinghamshire",
+        "gridref": "SK592393",
+        "latitude": "52.948",
+        "longitude": "-1.120",
+        "elevation (ft)": "83"
       }
     },
     {
@@ -110004,6 +112125,48 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -0.751,
+          52.346
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "ORLINGBURY-PUMPING-STATION",
+        "county": "Northamptonshire",
+        "gridref": "SP852727",
+        "latitude": "52.346",
+        "longitude": "-0.751",
+        "elevation (ft)": "286"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.763,
+          52.335
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "ORLINGBURY-RECTORY-FARM",
+        "county": "Northamptonshire",
+        "gridref": "SP844715",
+        "latitude": "52.335",
+        "longitude": "-0.763",
+        "elevation (ft)": "388"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -2.917,
           53.552
         ]
@@ -110627,6 +112790,27 @@
         "latitude": "50.751",
         "longitude": "-3.280",
         "elevation (ft)": "190"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.293,
+          50.75
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "OTTERY-ST-MARY-THE-KINGS-SCHOOL",
+        "county": "Devon",
+        "gridref": "SY088953",
+        "latitude": "50.750",
+        "longitude": "-3.293",
+        "elevation (ft)": "175"
       }
     },
     {
@@ -113301,6 +115485,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -5.09,
+          50.162
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "PENRYN-ASHFIELD",
+        "county": "Cornwall",
+        "gridref": "SW793336",
+        "latitude": "50.162",
+        "longitude": "-5.090",
+        "elevation (ft)": "95"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -2.58,
           51.341
         ]
@@ -113315,6 +115520,27 @@
         "latitude": "51.341",
         "longitude": "-2.580",
         "elevation (ft)": "280"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.176,
+          51.152
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "PENSHURST-SAINTS-HILL",
+        "county": "Kent-stayed-Kent",
+        "gridref": "TQ523415",
+        "latitude": "51.152",
+        "longitude": "0.176",
+        "elevation (ft)": "124"
       }
     },
     {
@@ -114750,6 +116976,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -0.89,
+          52.311
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "PITSFORD-RES",
+        "county": "Northamptonshire",
+        "gridref": "SP758687",
+        "latitude": "52.311",
+        "longitude": "-0.890",
+        "elevation (ft)": "332"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -2.726,
           56.214
         ]
@@ -115128,6 +117375,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -4.068,
+          50.396
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "PLYMPTON-LITTLE-WOODFORD",
+        "county": "Devon",
+        "gridref": "SX531571",
+        "latitude": "50.396",
+        "longitude": "-4.068",
+        "elevation (ft)": "80"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -4.047,
           50.387
         ]
@@ -115352,6 +117620,27 @@
         "latitude": "55.972",
         "longitude": "-3.686",
         "elevation (ft)": "320"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.064,
+          55.344
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "POLTALLAN-BURN",
+        "county": "Dumfriesshire",
+        "gridref": "NS692075",
+        "latitude": "55.344",
+        "longitude": "-4.064",
+        "elevation (ft)": "1550"
       }
     },
     {
@@ -120714,6 +123003,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -4.152,
+          50.456
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "ROBOROUGH-MARISTOW-GDNS",
+        "county": "Devon",
+        "gridref": "SX473640",
+        "latitude": "50.456",
+        "longitude": "-4.152",
+        "elevation (ft)": "60"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -1.833,
           52.972
         ]
@@ -123927,6 +126237,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -1.217,
+          51.713
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "SANDFORD-SEWAGE-WORKS",
+        "county": "Oxfordshire",
+        "gridref": "SP542019",
+        "latitude": "51.713",
+        "longitude": "-1.217",
+        "elevation (ft)": "210"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           1.146,
           51.074
         ]
@@ -125187,6 +127518,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -3.067,
+          50.764
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "SEATON-JUNCTION",
+        "county": "Devon",
+        "gridref": "SY248966",
+        "latitude": "50.764",
+        "longitude": "-3.067",
+        "elevation (ft)": "114"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -2.527,
           54.316
         ]
@@ -125586,6 +127938,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          0.175,
+          51.248
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "SEVENOAKS-BAYLEYS-HILL-RES",
+        "county": "Kent-stayed-Kent",
+        "gridref": "TQ519521",
+        "latitude": "51.248",
+        "longitude": "0.175",
+        "elevation (ft)": "696"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           0.13,
           51.3
         ]
@@ -125600,6 +127973,27 @@
         "latitude": "51.300",
         "longitude": "0.130",
         "elevation (ft)": "360"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.193,
+          51.292
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "SEVENOAKS-CRAMPTONS-ROAD-PUMPING-STATION",
+        "county": "Kent-stayed-Kent",
+        "gridref": "TQ530570",
+        "latitude": "51.292",
+        "longitude": "0.193",
+        "elevation (ft)": "222"
       }
     },
     {
@@ -126671,6 +129065,27 @@
         "latitude": "50.945",
         "longitude": "-2.501",
         "elevation (ft)": "195"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.526,
+          50.937
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "SHERBORNE-SEWAGE-DISPOSAL-WORKS",
+        "county": "Dorset",
+        "gridref": "ST631154",
+        "latitude": "50.937",
+        "longitude": "-2.526",
+        "elevation (ft)": "164"
       }
     },
     {
@@ -129030,6 +131445,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -3.652,
+          50.293
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "SLAPTON",
+        "county": "Devon",
+        "gridref": "SX824449",
+        "latitude": "50.293",
+        "longitude": "-3.652",
+        "elevation (ft)": "104"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -2.175,
           53.575
         ]
@@ -129807,6 +132243,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -4.057,
+          50.7
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "SOURTON-PREWLEY-TREATMENT-WORKS",
+        "county": "Devon",
+        "gridref": "SX548909",
+        "latitude": "50.700",
+        "longitude": "-4.057",
+        "elevation (ft)": "1057"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -3.853,
           50.44
         ]
@@ -130479,6 +132936,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          0.249,
+          51.17
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "SOUTHBOROUGH-GREAT-BOUNDS-RES",
+        "county": "Kent-stayed-Kent",
+        "gridref": "TQ573436",
+        "latitude": "51.170",
+        "longitude": "0.249",
+        "elevation (ft)": "478"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           0.736,
           51.54
         ]
@@ -130640,6 +133118,27 @@
         "latitude": "51.559",
         "longitude": "0.685",
         "elevation (ft)": "50"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.317,
+          51.412
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "SOUTHFLEET-HOOK-PLACE-FARM",
+        "county": "Kent-stayed-Kent",
+        "gridref": "TQ612706",
+        "latitude": "51.412",
+        "longitude": "0.317",
+        "elevation (ft)": "100"
       }
     },
     {
@@ -131270,6 +133769,27 @@
         "latitude": "52.748",
         "longitude": "-0.113",
         "elevation (ft)": "10"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.067,
+          52.726
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "SPARHAM-HALL",
+        "county": "Norfolk",
+        "gridref": "TG072187",
+        "latitude": "52.726",
+        "longitude": "1.067",
+        "elevation (ft)": "100"
       }
     },
     {
@@ -132110,6 +134630,27 @@
         "latitude": "55.573",
         "longitude": "-2.628",
         "elevation (ft)": "260"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.638,
+          50.559
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "ST-BREWARD-DE-LANK-FILTER-WORKS",
+        "county": "Cornwall",
+        "gridref": "SX132765",
+        "latitude": "50.559",
+        "longitude": "-4.638",
+        "elevation (ft)": "725"
       }
     },
     {
@@ -137661,6 +140202,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          0.134,
+          51.28
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "SUNDRIDGE-PUMPING-STATION",
+        "county": "Kent-stayed-Kent",
+        "gridref": "TQ489556",
+        "latitude": "51.280",
+        "longitude": "0.134",
+        "elevation (ft)": "270"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -0.647,
           51.398
         ]
@@ -143163,6 +145725,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -4.162,
+          50.952
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "TORRINGTON-TORRIDGE-VALE-SW",
+        "county": "Devon",
+        "gridref": "SS482191",
+        "latitude": "50.952",
+        "longitude": "-4.162",
+        "elevation (ft)": "54"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -1.918,
           53.482
         ]
@@ -144290,6 +146873,27 @@
         "latitude": "55.564",
         "longitude": "-4.618",
         "elevation (ft)": "203"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.352,
+          51.311
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "TROTTISCLIFFE-PUMPING-STATION",
+        "county": "Kent-stayed-Kent",
+        "gridref": "TQ640595",
+        "latitude": "51.311",
+        "longitude": "0.352",
+        "elevation (ft)": "250"
       }
     },
     {
@@ -145767,6 +148371,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -1.267,
+          52.702
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "ULVERSCROFT-CHITTERMAN-HOUSE",
+        "county": "Leicestershire",
+        "gridref": "SK496118",
+        "latitude": "52.702",
+        "longitude": "-1.267",
+        "elevation (ft)": "666"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -3.099,
           54.2
         ]
@@ -146229,6 +148854,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -0.662,
+          52.57
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "UPPINGHAM-SEATON-MILL",
+        "county": "Rutland",
+        "gridref": "SP908977",
+        "latitude": "52.570",
+        "longitude": "-0.662",
+        "elevation (ft)": "150"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -0.726,
           52.587
         ]
@@ -146621,6 +149267,48 @@
         "latitude": "51.547",
         "longitude": "0.463",
         "elevation (ft)": "43"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.853,
+          50.525
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "VENFORD-DAM",
+        "county": "Devon",
+        "gridref": "SX687711",
+        "latitude": "50.525",
+        "longitude": "-3.853",
+        "elevation (ft)": "950"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.858,
+          50.521
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "VENFORD-RES",
+        "county": "Devon",
+        "gridref": "SX684707",
+        "latitude": "50.521",
+        "longitude": "-3.858",
+        "elevation (ft)": "950"
       }
     },
     {
@@ -149148,6 +151836,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -1.04,
+          51.652
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "WATLINGTON-CUXHAM",
+        "county": "Oxfordshire",
+        "gridref": "SU665952",
+        "latitude": "51.652",
+        "longitude": "-1.040",
+        "elevation (ft)": "200"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -1.011,
           51.655
         ]
@@ -149204,6 +151913,27 @@
         "latitude": "58.483",
         "longitude": "-3.288",
         "elevation (ft)": "75"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.958,
+          52.124
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "WATTISHAM",
+        "county": "Suffolk",
+        "gridref": "TM026514",
+        "latitude": "52.124",
+        "longitude": "0.958",
+        "elevation (ft)": "292"
       }
     },
     {
@@ -150401,6 +153131,27 @@
         "latitude": "53.476",
         "longitude": "-1.409",
         "elevation (ft)": "360"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.359,
+          50.66
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "WERRINGTON-PARK",
+        "county": "Devon",
+        "gridref": "SX332872",
+        "latitude": "50.660",
+        "longitude": "-4.359",
+        "elevation (ft)": "320"
       }
     },
     {
@@ -153390,6 +156141,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -1.992,
+          50.808
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "WIMBORNE-WALSFORD-BRIDGE-PUMPING-STATION",
+        "county": "Dorset",
+        "gridref": "SU006009",
+        "latitude": "50.808",
+        "longitude": "-1.992",
+        "elevation (ft)": "70"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -0.049,
           52.142
         ]
@@ -154083,6 +156855,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -3.142,
+          55.13
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "WINTERHOPE",
+        "county": "Dumfriesshire",
+        "gridref": "NY273823",
+        "latitude": "55.130",
+        "longitude": "-3.142",
+        "elevation (ft)": "570"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           0.155,
           52.665
         ]
@@ -154181,6 +156974,27 @@
         "latitude": "52.728",
         "longitude": "0.115",
         "elevation (ft)": "9"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.932,
+          53.396
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "WISETON",
+        "county": "Nottinghamshire",
+        "gridref": "SK711893",
+        "latitude": "53.396",
+        "longitude": "-0.932",
+        "elevation (ft)": "21"
       }
     },
     {
@@ -157065,6 +159879,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          1.486,
+          52.745
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "WROXHAM-BARTON-HALL",
+        "county": "Norfolk",
+        "gridref": "TG354221",
+        "latitude": "52.745",
+        "longitude": "1.486",
+        "elevation (ft)": "25"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           1.431,
           52.707
         ]
@@ -157415,6 +160250,27 @@
         "latitude": "54.509",
         "longitude": "-3.045",
         "elevation (ft)": "574"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.42,
+          51.222
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "YALDING-ANCHOR-SLUICES",
+        "county": "Kent-stayed-Kent",
+        "gridref": "TQ691498",
+        "latitude": "51.222",
+        "longitude": "0.420",
+        "elevation (ft)": "38"
       }
     },
     {
