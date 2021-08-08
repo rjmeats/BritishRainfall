@@ -3639,6 +3639,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -2.336,
+          53.085
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "ALSAGER-RADWAY-GREEN",
+        "county": "Cheshire",
+        "gridref": "SJ776542",
+        "latitude": "53.085",
+        "longitude": "-2.336",
+        "elevation (ft)": "257"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -2.442,
           54.815
         ]
@@ -5970,6 +5991,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -1.952,
+          53.493
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "ARNFIELD-MOOR",
+        "county": "Cheshire",
+        "gridref": "SK033996",
+        "latitude": "53.493",
+        "longitude": "-1.952",
+        "elevation (ft)": "1290"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -1.985,
           53.471
         ]
@@ -7139,6 +7181,27 @@
         "latitude": "56.341",
         "longitude": "-3.691",
         "elevation (ft)": "133"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.514,
+          52.985
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "AUDLEM-NEWHOLME",
+        "county": "Cheshire",
+        "gridref": "SJ656432",
+        "latitude": "52.985",
+        "longitude": "-2.514",
+        "elevation (ft)": "214"
       }
     },
     {
@@ -26235,6 +26298,48 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -2.003,
+          53.285
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "BUXTON-EMBRIDGE",
+        "county": "Derbyshire",
+        "gridref": "SJ999764",
+        "latitude": "53.285",
+        "longitude": "-2.003",
+        "elevation (ft)": "1430"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.985,
+          53.257
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "BUXTON-GOYTSCLOUGH",
+        "county": "Derbyshire",
+        "gridref": "SK011733",
+        "latitude": "53.257",
+        "longitude": "-1.985",
+        "elevation (ft)": "1175"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -1.922,
           53.273
         ]
@@ -31569,6 +31674,48 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -2.2,
+          53.381
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "CHEADLE-HARTHILL",
+        "county": "Cheshire",
+        "gridref": "SJ868871",
+        "latitude": "53.381",
+        "longitude": "-2.200",
+        "elevation (ft)": "142"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.22,
+          53.394
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "CHEADLE-HARTHILL",
+        "county": "Cheshire",
+        "gridref": "SJ855886",
+        "latitude": "53.394",
+        "longitude": "-2.220",
+        "elevation (ft)": "196"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -1.982,
           52.951
         ]
@@ -31645,6 +31792,48 @@
         "gridref": "SJ812738",
         "latitude": "53.261",
         "longitude": "-2.283",
+        "elevation (ft)": "250"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.285,
+          53.27
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "CHELFORD-KNUTSFORD",
+        "county": "Cheshire",
+        "gridref": "SJ811748",
+        "latitude": "53.270",
+        "longitude": "-2.285",
+        "elevation (ft)": "260"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.298,
+          53.268
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "CHELFORD-SNELSON-HOUSE",
+        "county": "Cheshire",
+        "gridref": "SJ802746",
+        "latitude": "53.268",
+        "longitude": "-2.298",
         "elevation (ft)": "250"
       }
     },
@@ -32381,6 +32570,27 @@
         "latitude": "54.886",
         "longitude": "-1.568",
         "elevation (ft)": "205"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.879,
+          53.193
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "CHESTER-LEAD-WORKS",
+        "county": "Cheshire",
+        "gridref": "SJ414666",
+        "latitude": "53.193",
+        "longitude": "-2.879",
+        "elevation (ft)": "64"
       }
     },
     {
@@ -33704,6 +33914,48 @@
         "latitude": "51.342",
         "longitude": "-0.636",
         "elevation (ft)": "150"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.677,
+          53.053
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "CHOLMONDELEY-SCHOOL",
+        "county": "Cheshire",
+        "gridref": "SJ547509",
+        "latitude": "53.053",
+        "longitude": "-2.677",
+        "elevation (ft)": "300"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.668,
+          53.05
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "CHOLMONDELEY-SCHOOL",
+        "county": "Cheshire",
+        "gridref": "SJ553505",
+        "latitude": "53.050",
+        "longitude": "-2.668",
+        "elevation (ft)": "291"
       }
     },
     {
@@ -38751,6 +39003,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -2.376,
+          53.211
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "CRANAGE-HALL-HOSPITAL",
+        "county": "Cheshire",
+        "gridref": "SJ750683",
+        "latitude": "53.211",
+        "longitude": "-2.376",
+        "elevation (ft)": "179"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           0.55,
           51.109
         ]
@@ -39990,6 +40263,48 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -3.085,
+          53.35
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "CROSSHILL-RES",
+        "county": "Cheshire",
+        "gridref": "SJ279842",
+        "latitude": "53.350",
+        "longitude": "-3.085",
+        "elevation (ft)": "237"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.083,
+          53.35
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "CROSSHILL-RES",
+        "county": "Cheshire",
+        "gridref": "SJ280842",
+        "latitude": "53.350",
+        "longitude": "-3.083",
+        "elevation (ft)": "212"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -9.309,
           54.07
         ]
@@ -40130,6 +40445,48 @@
         "latitude": "53.490",
         "longitude": "-1.894",
         "elevation (ft)": "700"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.89,
+          53.519
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "CROWDEN-MEADOW-CLOUGH",
+        "county": "Cheshire",
+        "gridref": "SE074025",
+        "latitude": "53.519",
+        "longitude": "-1.890",
+        "elevation (ft)": "1425"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.914,
+          53.496
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "CROWDEN-SPAN-GUTTER",
+        "county": "Cheshire",
+        "gridref": "SK058999",
+        "latitude": "53.496",
+        "longitude": "-1.914",
+        "elevation (ft)": "1530"
       }
     },
     {
@@ -45072,6 +45429,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -2.039,
+          53.35
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "DISLEY-HIGHER-STONERIDGE",
+        "county": "Cheshire",
+        "gridref": "SJ975837",
+        "latitude": "53.350",
+        "longitude": "-2.039",
+        "elevation (ft)": "750"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -2.052,
           53.35
         ]
@@ -48971,6 +49349,27 @@
         "latitude": "54.449",
         "longitude": "-3.089",
         "elevation (ft)": "310"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.419,
+          53.385
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "DUNHAM-MASSEY-SEWAGE-WORKS",
+        "county": "Cheshire",
+        "gridref": "SJ722877",
+        "latitude": "53.385",
+        "longitude": "-2.419",
+        "elevation (ft)": "55"
       }
     },
     {
