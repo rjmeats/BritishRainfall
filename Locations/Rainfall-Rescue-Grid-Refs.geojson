@@ -2526,6 +2526,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -1.627,
+          51.479
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "ALDBOURNE-MANOR-HOUSE",
+        "county": "Wiltshire",
+        "gridref": "SU260756",
+        "latitude": "51.479",
+        "longitude": "-1.627",
+        "elevation (ft)": "435"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           1.579,
           52.16
         ]
@@ -5459,6 +5480,27 @@
         "latitude": "56.724",
         "longitude": "-5.280",
         "elevation (ft)": "60"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.099,
+          51.039
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "ARDINGLY-SHELL-BROOK-WW",
+        "county": "Sussex",
+        "gridref": "TQ334284",
+        "latitude": "51.039",
+        "longitude": "-0.099",
+        "elevation (ft)": "127"
       }
     },
     {
@@ -11493,6 +11535,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          0.48,
+          50.893
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "BATTLE-FOREWOOD-WW",
+        "county": "Sussex",
+        "gridref": "TQ745133",
+        "latitude": "50.893",
+        "longitude": "0.480",
+        "elevation (ft)": "50"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           0.502,
           50.94
         ]
@@ -17205,6 +17268,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -3.368,
+          55.703
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "BLYTH-BRIDGE-BLYTHBANK",
+        "county": "Peeblesshire",
+        "gridref": "NT141463",
+        "latitude": "55.703",
+        "longitude": "-3.368",
+        "elevation (ft)": "830"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -2.597,
           52.25
         ]
@@ -19851,6 +19935,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -2.039,
+          51.428
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "BOWOOD-HOUSE",
+        "county": "Wiltshire",
+        "gridref": "ST974699",
+        "latitude": "51.428",
+        "longitude": "-2.039",
+        "elevation (ft)": "306"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -0.314,
           51.247
         ]
@@ -22245,6 +22350,48 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -0.044,
+          50.825
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "BRIGHTON-WW-BALSDEAN-PUMPING-STATION",
+        "county": "Sussex",
+        "gridref": "TQ378046",
+        "latitude": "50.825",
+        "longitude": "-0.044",
+        "elevation (ft)": "188"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.051,
+          50.824
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "BRIGHTON-WW-BALSDEAN-RES",
+        "county": "Sussex",
+        "gridref": "TQ374045",
+        "latitude": "50.824",
+        "longitude": "-0.051",
+        "elevation (ft)": "399"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -0.095,
           50.86
         ]
@@ -23505,6 +23652,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -3.307,
+          55.524
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "BROUGHTON-DUN-LAW",
+        "county": "Peeblesshire",
+        "gridref": "NT176264",
+        "latitude": "55.524",
+        "longitude": "-3.307",
+        "elevation (ft)": "2500"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -3.47,
           54.687
         ]
@@ -23519,6 +23687,48 @@
         "latitude": "54.687",
         "longitude": "-3.470",
         "elevation (ft)": "410"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.392,
+          55.552
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "BROUGHTON-STANHOPE-FARM",
+        "county": "Peeblesshire",
+        "gridref": "NT123296",
+        "latitude": "55.552",
+        "longitude": "-3.392",
+        "elevation (ft)": "741"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.34,
+          55.532
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "BROUGHTON-STANHOPE-FARM",
+        "county": "Peeblesshire",
+        "gridref": "NT155273",
+        "latitude": "55.532",
+        "longitude": "-3.340",
+        "elevation (ft)": "1250"
       }
     },
     {
@@ -25661,6 +25871,27 @@
         "latitude": "52.462",
         "longitude": "-2.555",
         "elevation (ft)": "730"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.395,
+          51.012
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "BURWASH-CROWHURST-BRIDGE",
+        "county": "Sussex",
+        "gridref": "TQ681264",
+        "latitude": "51.012",
+        "longitude": "0.395",
+        "elevation (ft)": "97"
       }
     },
     {
@@ -33039,6 +33270,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -0.849,
+          50.867
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "CHICHESTER-FUNTINGTON-PUMPING-STATION",
+        "county": "Sussex",
+        "gridref": "SU811081",
+        "latitude": "50.867",
+        "longitude": "-0.849",
+        "elevation (ft)": "112"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -0.742,
           50.872
         ]
@@ -33354,6 +33606,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -0.878,
+          50.827
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "CHIDHAM-CHIDMERE",
+        "county": "Sussex",
+        "gridref": "SU791036",
+        "latitude": "50.827",
+        "longitude": "-0.878",
+        "elevation (ft)": "14"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -1.302,
           51.461
         ]
@@ -33473,6 +33746,27 @@
         "latitude": "51.615",
         "longitude": "-0.033",
         "elevation (ft)": "40"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.127,
+          51.476
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "CHIPPENHAM-HARDENHUISH-RES",
+        "county": "Wiltshire",
+        "gridref": "ST913752",
+        "latitude": "51.476",
+        "longitude": "-2.127",
+        "elevation (ft)": "345"
       }
     },
     {
@@ -35132,6 +35426,27 @@
         "latitude": "51.360",
         "longitude": "-0.343",
         "elevation (ft)": "106"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.145,
+          50.908
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "CLAYTON-PUMPING-STATION",
+        "county": "Sussex",
+        "gridref": "TQ305137",
+        "latitude": "50.908",
+        "longitude": "-0.145",
+        "elevation (ft)": "260"
       }
     },
     {
@@ -38688,6 +39003,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          0.29,
+          50.912
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "COWBEECH-PUMPING-STATION",
+        "county": "Sussex",
+        "gridref": "TQ611150",
+        "latitude": "50.912",
+        "longitude": "0.290",
+        "elevation (ft)": "100"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -3.427,
           51.493
         ]
@@ -39416,6 +39752,27 @@
         "latitude": "55.855",
         "longitude": "-3.224",
         "elevation (ft)": "587"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.189,
+          51.133
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "CRAWLEY-COUNTY-OAK-SW",
+        "county": "Sussex",
+        "gridref": "TQ268386",
+        "latitude": "51.133",
+        "longitude": "-0.189",
+        "elevation (ft)": "210"
       }
     },
     {
@@ -51078,6 +51435,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          0.15,
+          50.923
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "EAST-HOATHLY-HALLAND-PARK",
+        "county": "Sussex",
+        "gridref": "TQ512159",
+        "latitude": "50.923",
+        "longitude": "0.150",
+        "elevation (ft)": "140"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -0.011,
           53.148
         ]
@@ -52443,6 +52821,69 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -3.431,
+          55.42
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "EDINBURGH-WW-BALLAMAN-HILL",
+        "county": "Peeblesshire",
+        "gridref": "NT095149",
+        "latitude": "55.420",
+        "longitude": "-3.431",
+        "elevation (ft)": "1700"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.42,
+          55.461
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "EDINBURGH-WW-BRAWNS-DOD",
+        "county": "Peeblesshire",
+        "gridref": "NT103195",
+        "latitude": "55.461",
+        "longitude": "-3.420",
+        "elevation (ft)": "1550"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.412,
+          55.45
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "EDINBURGH-WW-FRUID-FARM",
+        "county": "Peeblesshire",
+        "gridref": "NT108182",
+        "latitude": "55.450",
+        "longitude": "-3.412",
+        "elevation (ft)": "1020"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -3.363,
           55.445
         ]
@@ -52548,6 +52989,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -3.449,
+          55.469
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "EDINBURGH-WW-HAWKSHAW",
+        "county": "Peeblesshire",
+        "gridref": "NT085204",
+        "latitude": "55.469",
+        "longitude": "-3.449",
+        "elevation (ft)": "1020"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -3.318,
           55.445
         ]
@@ -52632,6 +53094,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -3.403,
+          55.474
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "EDINBURGH-WW-NETHER-GARELET",
+        "county": "Peeblesshire",
+        "gridref": "NT114209",
+        "latitude": "55.474",
+        "longitude": "-3.403",
+        "elevation (ft)": "1550"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -3.429,
           55.497
         ]
@@ -52674,6 +53157,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -3.437,
+          55.455
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "EDINBURGH-WW-SHIEL-HOPE",
+        "county": "Peeblesshire",
+        "gridref": "NT092188",
+        "latitude": "55.455",
+        "longitude": "-3.437",
+        "elevation (ft)": "1300"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -3.37,
           55.47
         ]
@@ -52688,6 +53192,48 @@
         "latitude": "55.470",
         "longitude": "-3.370",
         "elevation (ft)": "966"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.442,
+          55.484
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "EDINBURGH-WW-THE-RIG",
+        "county": "Peeblesshire",
+        "gridref": "NT090221",
+        "latitude": "55.484",
+        "longitude": "-3.442",
+        "elevation (ft)": "1150"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.422,
+          55.472
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "EDINBURGH-WW-UPPER-MENZION",
+        "county": "Peeblesshire",
+        "gridref": "NT102207",
+        "latitude": "55.472",
+        "longitude": "-3.422",
+        "elevation (ft)": "1020"
       }
     },
     {
@@ -53850,6 +54396,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -0.921,
+          50.885
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "EMSWORTH-STANSTED-PARK",
+        "county": "Sussex",
+        "gridref": "SU760101",
+        "latitude": "50.885",
+        "longitude": "-0.921",
+        "elevation (ft)": "140"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -0.885,
           50.903
         ]
@@ -54837,6 +55404,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -3.161,
+          55.419
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "ETHICK-SCHOOL",
+        "county": "Selkirkshire",
+        "gridref": "NT266145",
+        "latitude": "55.419",
+        "longitude": "-3.161",
+        "elevation (ft)": "745"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -0.607,
           51.492
         ]
@@ -54893,6 +55481,27 @@
         "latitude": "53.022",
         "longitude": "-2.192",
         "elevation (ft)": "440"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.236,
+          55.398
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "ETTRICK-CROOK-COTTAGE",
+        "county": "Selkirkshire",
+        "gridref": "NT218123",
+        "latitude": "55.398",
+        "longitude": "-3.236",
+        "elevation (ft)": "-999999"
       }
     },
     {
@@ -57063,6 +57672,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -0.644,
+          50.794
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "FELPHAM-BOGNOR",
+        "county": "Sussex",
+        "gridref": "SU9565300207",
+        "latitude": "50.794",
+        "longitude": "-0.644",
+        "elevation (ft)": "8"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           0.437,
           51.858
         ]
@@ -57161,6 +57791,27 @@
         "latitude": "55.663",
         "longitude": "-4.378",
         "elevation (ft)": "600"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.313,
+          55.656
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "FENWICK-WHITELEEHILL",
+        "county": "Ayrshire",
+        "gridref": "NS546427",
+        "latitude": "55.656",
+        "longitude": "-4.313",
+        "elevation (ft)": "915"
       }
     },
     {
@@ -59814,6 +60465,48 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          0.19,
+          50.766
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "FRISTON",
+        "county": "Sussex",
+        "gridref": "TV545986",
+        "latitude": "50.766",
+        "longitude": "0.190",
+        "elevation (ft)": "104"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.201,
+          50.764
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "FRISTON-WATER-TOWER",
+        "county": "Sussex",
+        "gridref": "TV553984",
+        "latitude": "50.764",
+        "longitude": "0.201",
+        "elevation (ft)": "389"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           1.632,
           52.54
         ]
@@ -60297,6 +60990,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -2.954,
+          55.659
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "GALASHIELS-CADDON-HEAD",
+        "county": "Selkirkshire",
+        "gridref": "NT401410",
+        "latitude": "55.659",
+        "longitude": "-2.954",
+        "elevation (ft)": "1050"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -2.905,
           55.606
         ]
@@ -60311,6 +61025,69 @@
         "latitude": "55.606",
         "longitude": "-2.905",
         "elevation (ft)": "450"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.928,
+          55.653
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "GALASHIELS-CRAIG-HEAD",
+        "county": "Selkirkshire",
+        "gridref": "NT417403",
+        "latitude": "55.653",
+        "longitude": "-2.928",
+        "elevation (ft)": "900"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.896,
+          55.644
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "GALASHIELS-KNOWS-DEAN-RES",
+        "county": "Selkirkshire",
+        "gridref": "NT437393",
+        "latitude": "55.644",
+        "longitude": "-2.896",
+        "elevation (ft)": "892"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.775,
+          55.607
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "GALASHIELS-SEWAGE-WORKS",
+        "county": "Selkirkshire",
+        "gridref": "NT513351",
+        "latitude": "55.607",
+        "longitude": "-2.775",
+        "elevation (ft)": "316"
       }
     },
     {
@@ -69642,6 +70419,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -0.531,
+          50.949
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "HARDHAM-PUMPING-STATION",
+        "county": "Sussex",
+        "gridref": "TQ033176",
+        "latitude": "50.949",
+        "longitude": "-0.531",
+        "elevation (ft)": "30"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -0.482,
           51.603
         ]
@@ -72939,6 +73737,69 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          0.228,
+          50.971
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "HEATHERDEN-CROSS-IN-HAND",
+        "county": "Sussex",
+        "gridref": "TQ5649821476",
+        "latitude": "50.971",
+        "longitude": "0.228",
+        "elevation (ft)": "450"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.308,
+          50.955
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "HEATHFIELD-BIRCHFORD-FARM",
+        "county": "Sussex",
+        "gridref": "TQ622198",
+        "latitude": "50.955",
+        "longitude": "0.308",
+        "elevation (ft)": "358"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.226,
+          50.96
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "HEATHFIELD-CROSS-IN-HAND",
+        "county": "Sussex",
+        "gridref": "TQ564202",
+        "latitude": "50.960",
+        "longitude": "0.226",
+        "elevation (ft)": "305"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           0.283,
           50.966
         ]
@@ -73352,6 +74213,27 @@
         "latitude": "50.513",
         "longitude": "-4.736",
         "elevation (ft)": "340"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.24,
+          50.924
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "HELLINGLY-BURLOW",
+        "county": "Sussex",
+        "gridref": "TQ575162",
+        "latitude": "50.924",
+        "longitude": "0.240",
+        "elevation (ft)": "209"
       }
     },
     {
@@ -75438,6 +76320,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          0.552,
+          50.89
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "HOLLINGTON-BALDSLOW-RES",
+        "county": "Sussex",
+        "gridref": "TQ796132",
+        "latitude": "50.890",
+        "longitude": "0.552",
+        "elevation (ft)": "422"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -1.85,
           53.56
         ]
@@ -76754,6 +77657,48 @@
         "latitude": "51.131",
         "longitude": "0.448",
         "elevation (ft)": "101"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.006,
+          51.049
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "HORSTED-KEYNES-BIRCH-GROVE",
+        "county": "Sussex",
+        "gridref": "TQ399296",
+        "latitude": "51.049",
+        "longitude": "-0.006",
+        "elevation (ft)": "400"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.049,
+          51.031
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "HORSTED-KEYNES-HOLY-WELL-PUMPING-STATION",
+        "county": "Sussex",
+        "gridref": "TQ369276",
+        "latitude": "51.031",
+        "longitude": "-0.049",
+        "elevation (ft)": "124"
       }
     },
     {
@@ -83460,6 +84405,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -0.576,
+          51.042
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "KIRDFORD-HILLS-GREEN",
+        "county": "Sussex",
+        "gridref": "SU999279",
+        "latitude": "51.042",
+        "longitude": "-0.576",
+        "elevation (ft)": "150"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -2.597,
           54.202
         ]
@@ -86183,6 +87149,27 @@
         "latitude": "54.104",
         "longitude": "-2.610",
         "elevation (ft)": "165"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.301,
+          50.846
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "LANCING-COLLEGE",
+        "county": "Sussex",
+        "gridref": "TQ197065",
+        "latitude": "50.846",
+        "longitude": "-0.301",
+        "elevation (ft)": "120"
       }
     },
     {
@@ -89858,6 +90845,27 @@
         "latitude": "54.224",
         "longitude": "-2.903",
         "elevation (ft)": "300"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.788,
+          55.551
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "LINDEAN-RES",
+        "county": "Selkirkshire",
+        "gridref": "NT504289",
+        "latitude": "55.551",
+        "longitude": "-2.788",
+        "elevation (ft)": "860"
       }
     },
     {
@@ -93813,6 +94821,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -4.334,
+          55.697
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "LOCH-GOIN-RES",
+        "county": "Ayrshire",
+        "gridref": "NS534473",
+        "latitude": "55.697",
+        "longitude": "-4.334",
+        "elevation (ft)": "865"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -4.556,
           56.245
         ]
@@ -94268,6 +95297,27 @@
         "latitude": "57.032",
         "longitude": "-5.670",
         "elevation (ft)": "15"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.222,
+          55.451
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "LOCH-O-THE-LOWES-QUAVERBURN-COTTAGE",
+        "county": "Selkirkshire",
+        "gridref": "NT228181",
+        "latitude": "55.451",
+        "longitude": "-3.222",
+        "elevation (ft)": "845"
       }
     },
     {
@@ -98720,6 +99770,48 @@
         "latitude": "51.599",
         "longitude": "-2.061",
         "elevation (ft)": "300"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.079,
+          51.573
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "MALMESBURY-ELM-LEAZE",
+        "county": "Wiltshire",
+        "gridref": "ST946860",
+        "latitude": "51.573",
+        "longitude": "-2.079",
+        "elevation (ft)": "260"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.094,
+          51.575
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "MALMESBURY-ELM-LEAZE",
+        "county": "Wiltshire",
+        "gridref": "ST936862",
+        "latitude": "51.575",
+        "longitude": "-2.094",
+        "elevation (ft)": "260"
       }
     },
     {
@@ -104285,6 +105377,27 @@
         "latitude": "56.701",
         "longitude": "-2.438",
         "elevation (ft)": "20"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.374,
+          55.702
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "MOOR-FARM",
+        "county": "Ayrshire",
+        "gridref": "NS509480",
+        "latitude": "55.702",
+        "longitude": "-4.374",
+        "elevation (ft)": "810"
       }
     },
     {
@@ -116955,6 +118068,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -0.619,
+          50.936
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "PETWORTH-BARLAVINGTON-FARM",
+        "county": "Sussex",
+        "gridref": "SU971161",
+        "latitude": "50.936",
+        "longitude": "-0.619",
+        "elevation (ft)": "181"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -0.612,
           50.986
         ]
@@ -117011,6 +118145,27 @@
         "latitude": "50.811",
         "longitude": "0.352",
         "elevation (ft)": "20"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.356,
+          50.814
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "PEVENSEY-BAY",
+        "county": "Sussex",
+        "gridref": "TQ661043",
+        "latitude": "50.814",
+        "longitude": "0.356",
+        "elevation (ft)": "17"
       }
     },
     {
@@ -117494,6 +118649,69 @@
         "latitude": "51.828",
         "longitude": "-4.342",
         "elevation (ft)": "200"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.743,
+          50.971
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "PLAYDEN-HOUGHTON-COTTAGE",
+        "county": "Sussex",
+        "gridref": "TQ927227",
+        "latitude": "50.971",
+        "longitude": "0.743",
+        "elevation (ft)": "50"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.75,
+          50.97
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "PLAYDEN-SCOTS-FLOAT",
+        "county": "Sussex",
+        "gridref": "TQ932226",
+        "latitude": "50.970",
+        "longitude": "0.750",
+        "elevation (ft)": "14"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.069,
+          50.906
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "PLUMPTON-SCHOOL-OF-AGRICULTURE",
+        "county": "Sussex",
+        "gridref": "TQ359136",
+        "latitude": "50.906",
+        "longitude": "-0.069",
+        "elevation (ft)": "250"
       }
     },
     {
@@ -119769,6 +120987,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -4.602,
+          55.508
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "PRESTWICK-AIRPORT",
+        "county": "Ayrshire",
+        "gridref": "NS358269",
+        "latitude": "55.508",
+        "longitude": "-4.602",
+        "elevation (ft)": "30"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -4.554,
           55.51
         ]
@@ -119783,6 +121022,27 @@
         "latitude": "55.510",
         "longitude": "-4.554",
         "elevation (ft)": "185"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.593,
+          55.498
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "PRESTWICK-SHERWOOD-ROAD",
+        "county": "Ayrshire",
+        "gridref": "NS363258",
+        "latitude": "55.498",
+        "longitude": "-4.593",
+        "elevation (ft)": "50"
       }
     },
     {
@@ -125460,6 +126720,48 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -0.3,
+          51.115
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "RUSPER-THE-NUNNERY",
+        "county": "Sussex",
+        "gridref": "TQ191364",
+        "latitude": "51.115",
+        "longitude": "-0.300",
+        "elevation (ft)": "260"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.507,
+          50.812
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "RUSTINGTON-BRACONDALE-NURSERY",
+        "county": "Sussex",
+        "gridref": "TQ053025",
+        "latitude": "50.812",
+        "longitude": "-0.507",
+        "elevation (ft)": "30"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -3.25,
           53.113
         ]
@@ -125810,6 +127112,27 @@
         "latitude": "50.724",
         "longitude": "-1.167",
         "elevation (ft)": "170"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.73,
+          50.947
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "RYE-BREDE-SLUICE",
+        "county": "Sussex",
+        "gridref": "TQ919199",
+        "latitude": "50.947",
+        "longitude": "0.730",
+        "elevation (ft)": "18"
       }
     },
     {
@@ -128120,6 +129443,48 @@
         "latitude": "53.768",
         "longitude": "-1.114",
         "elevation (ft)": "173"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.821,
+          55.558
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "SELKIRK-BROOMHILL",
+        "county": "Selkirkshire",
+        "gridref": "NT483297",
+        "latitude": "55.558",
+        "longitude": "-2.821",
+        "elevation (ft)": "575"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.834,
+          55.548
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "SELKIRK-BYETHORN",
+        "county": "Selkirkshire",
+        "gridref": "NT475286",
+        "latitude": "55.548",
+        "longitude": "-2.834",
+        "elevation (ft)": "600"
       }
     },
     {
@@ -132600,6 +133965,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -4.258,
+          55.53
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "SORN-BLACKSIDE-WATER-TANK",
+        "county": "Ayrshire",
+        "gridref": "NS575285",
+        "latitude": "55.530",
+        "longitude": "-4.258",
+        "elevation (ft)": "840"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           1.617,
           52.409
         ]
@@ -137045,6 +138431,27 @@
         "latitude": "51.613",
         "longitude": "-1.314",
         "elevation (ft)": "300"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.485,
+          55.698
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "STEWARTON-FILTERS",
+        "county": "Ayrshire",
+        "gridref": "NS439478",
+        "latitude": "55.698",
+        "longitude": "-4.485",
+        "elevation (ft)": "515"
       }
     },
     {
@@ -141686,6 +143093,27 @@
         "latitude": "54.606",
         "longitude": "-5.871",
         "elevation (ft)": "60"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.563,
+          55.549
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "SYMINGTON",
+        "county": "Ayrshire",
+        "gridref": "NS384314",
+        "latitude": "55.549",
+        "longitude": "-4.563",
+        "elevation (ft)": "300"
       }
     },
     {
@@ -148371,6 +149799,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          0.189,
+          50.996
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "UCKFIELD-OLD-BOAT-COTTAGE",
+        "county": "Sussex",
+        "gridref": "TQ537241",
+        "latitude": "50.996",
+        "longitude": "0.189",
+        "elevation (ft)": "460"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           0.682,
           50.943
         ]
@@ -150345,6 +151794,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -2.961,
+          55.62
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "WALKERBURN-ELIBANK",
+        "county": "Selkirkshire",
+        "gridref": "NT396367",
+        "latitude": "55.620",
+        "longitude": "-2.961",
+        "elevation (ft)": "440"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -3.726,
           55.214
         ]
@@ -151752,6 +153222,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -0.411,
+          50.91
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "WASHINGTON",
+        "county": "Sussex",
+        "gridref": "TQ118135",
+        "latitude": "50.910",
+        "longitude": "-0.411",
+        "elevation (ft)": "75"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -1.512,
           54.899
         ]
@@ -152774,6 +154265,27 @@
         "latitude": "52.182",
         "longitude": "-1.080",
         "elevation (ft)": "500"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.007,
+          51.101
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "WEIR-WOOD-RES",
+        "county": "Sussex",
+        "gridref": "TQ406354",
+        "latitude": "51.101",
+        "longitude": "0.007",
+        "elevation (ft)": "225"
       }
     },
     {
@@ -153999,6 +155511,48 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -4.88,
+          55.725
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "WEST-KILBRIDE-HUNTERSTON",
+        "county": "Ayrshire",
+        "gridref": "NS192517",
+        "latitude": "55.725",
+        "longitude": "-4.880",
+        "elevation (ft)": "40"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.893,
+          55.721
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "WEST-KILBRIDE-HUNTERSTON",
+        "county": "Ayrshire",
+        "gridref": "NS184513",
+        "latitude": "55.721",
+        "longitude": "-4.893",
+        "elevation (ft)": "27"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -3.178,
           53.363
         ]
@@ -154076,6 +155630,27 @@
         "latitude": "53.375",
         "longitude": "-3.186",
         "elevation (ft)": "25"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.395,
+          55.784
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "WEST-LINTON-BADDINGSGILL-RES",
+        "county": "Peeblesshire",
+        "gridref": "NT126554",
+        "latitude": "55.784",
+        "longitude": "-3.395",
+        "elevation (ft)": "1100"
       }
     },
     {
@@ -160901,6 +162476,27 @@
         "latitude": "52.604",
         "longitude": "1.735",
         "elevation (ft)": "27"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.019,
+          55.539
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "YARROW-HOUSE",
+        "county": "Selkirkshire",
+        "gridref": "NT358277",
+        "latitude": "55.539",
+        "longitude": "-3.019",
+        "elevation (ft)": "630"
       }
     },
     {
