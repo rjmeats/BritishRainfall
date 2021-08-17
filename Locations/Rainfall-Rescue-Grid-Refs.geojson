@@ -1014,6 +1014,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -2.877,
+          55.997
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "ABERLADY-GOSFORD",
+        "county": "East Lothian (Haddington)",
+        "gridref": "NT454786",
+        "latitude": "55.997",
+        "longitude": "-2.877",
+        "elevation (ft)": "25"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -2.866,
           56.008
         ]
@@ -3275,6 +3296,27 @@
         "latitude": "56.296",
         "longitude": "-4.564",
         "elevation (ft)": "1250"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.821,
+          56.286
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "ALLT-ACHNOIC",
+        "county": "Dunbartonshire",
+        "gridref": "NN255140",
+        "latitude": "56.286",
+        "longitude": "-4.821",
+        "elevation (ft)": "1349"
       }
     },
     {
@@ -6033,6 +6075,48 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -2.794,
+          56.239
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "ARNCROACH-BELLISTON",
+        "county": "Fife",
+        "gridref": "NO5088005446",
+        "latitude": "56.239",
+        "longitude": "-2.794",
+        "elevation (ft)": "250"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.808,
+          56.24
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "ARNCROACH-BELLISTON",
+        "county": "Fife",
+        "gridref": "NO500056",
+        "latitude": "56.240",
+        "longitude": "-2.808",
+        "elevation (ft)": "270"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -1.952,
           53.493
         ]
@@ -8441,6 +8525,27 @@
         "latitude": "51.977",
         "longitude": "-0.195",
         "elevation (ft)": "270"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.365,
+          55.871
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "BALERNO-SHOTHEAD",
+        "county": "Midlothian (Edinburgh)",
+        "gridref": "NT147651",
+        "latitude": "55.871",
+        "longitude": "-3.365",
+        "elevation (ft)": "750"
       }
     },
     {
@@ -21187,7 +21292,7 @@
         "gridref": "TL409241",
         "latitude": "51.898",
         "longitude": "0.046",
-        "elevation (ft)": "270"
+        "elevation (ft)": "370"
       }
     },
     {
@@ -23540,6 +23645,48 @@
         "latitude": "52.204",
         "longitude": "-2.541",
         "elevation (ft)": "455"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.808,
+          50.994
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "BROOKLAND-POPLAR-HALL",
+        "county": "Kent-stayed-Kent",
+        "gridref": "TQ9712925349",
+        "latitude": "50.994",
+        "longitude": "0.808",
+        "elevation (ft)": "12"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.814,
+          50.996
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "BROOKLAND-POPLAR-HALL",
+        "county": "Kent-stayed-Kent",
+        "gridref": "TQ9755525661",
+        "latitude": "50.996",
+        "longitude": "0.814",
+        "elevation (ft)": "12"
       }
     },
     {
@@ -44127,6 +44274,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -3.28,
+          55.968
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "DAVIDSONS-MAINS-EASTER-PARK",
+        "county": "Midlothian (Edinburgh)",
+        "gridref": "NT202757",
+        "latitude": "55.968",
+        "longitude": "-3.280",
+        "elevation (ft)": "200"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -3.463,
           50.582
         ]
@@ -51540,6 +51708,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -2.653,
+          55.999
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "EAST-LINTON-SMEATON",
+        "county": "East Lothian (Haddington)",
+        "gridref": "NT594786",
+        "latitude": "55.999",
+        "longitude": "-2.653",
+        "elevation (ft)": "100"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -4.454,
           50.355
         ]
@@ -52044,6 +52233,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -2.649,
+          53.166
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "EATON-PUMPING-STATION",
+        "county": "Cheshire",
+        "gridref": "SJ567634",
+        "latitude": "53.166",
+        "longitude": "-2.649",
+        "elevation (ft)": "285"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -3.202,
           51.781
         ]
@@ -52422,6 +52632,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -4.626,
+          52.887
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "EDEYRN-TYDWEILIOG-CEFNAMWLCH",
+        "county": "Caernarfonshire",
+        "gridref": "SH234354",
+        "latitude": "52.887",
+        "longitude": "-4.626",
+        "elevation (ft)": "300"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -7.606,
           53.694
         ]
@@ -52569,6 +52800,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -3.243,
+          55.921
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "EDINBURGH-CRAIGLOCKHART",
+        "county": "Midlothian (Edinburgh)",
+        "gridref": "NT224705",
+        "latitude": "55.921",
+        "longitude": "-3.243",
+        "elevation (ft)": "295"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -3.186,
           55.934
         ]
@@ -52583,6 +52835,48 @@
         "latitude": "55.934",
         "longitude": "-3.186",
         "elevation (ft)": "274"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.31,
+          55.948
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "EDINBURGH-EAST-CRAIGS",
+        "county": "Midlothian (Edinburgh)",
+        "gridref": "NT183735",
+        "latitude": "55.948",
+        "longitude": "-3.310",
+        "elevation (ft)": "200"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.183,
+          55.931
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "EDINBURGH-FOUNTAINHALL-ROAD",
+        "county": "Midlothian (Edinburgh)",
+        "gridref": "NT262715",
+        "latitude": "55.931",
+        "longitude": "-3.183",
+        "elevation (ft)": "225"
       }
     },
     {
@@ -52709,6 +53003,27 @@
         "latitude": "55.943",
         "longitude": "-3.188",
         "elevation (ft)": "250"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.119,
+          55.943
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "EDINBURGH-PORTOBELLO",
+        "county": "Midlothian (Edinburgh)",
+        "gridref": "NT302728",
+        "latitude": "55.943",
+        "longitude": "-3.119",
+        "elevation (ft)": "100"
       }
     },
     {
@@ -56811,6 +57126,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -3.203,
+          55.902
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "FAIRMILEHEAD-WW",
+        "county": "Midlothian (Edinburgh)",
+        "gridref": "NT249683",
+        "latitude": "55.902",
+        "longitude": "-3.203",
+        "elevation (ft)": "590"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           0.887,
           52.827
         ]
@@ -59142,6 +59478,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -2.981,
+          55.869
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "FORD-THE-DOWERY-HOUSE",
+        "county": "Midlothian (Edinburgh)",
+        "gridref": "NT387644",
+        "latitude": "55.869",
+        "longitude": "-2.981",
+        "elevation (ft)": "420"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -2.912,
           50.843
         ]
@@ -60521,6 +60878,48 @@
         "latitude": "52.540",
         "longitude": "1.632",
         "elevation (ft)": "42"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.742,
+          53.273
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "FRODSHAM-FOXHILL",
+        "county": "Cheshire",
+        "gridref": "SJ506754",
+        "latitude": "53.273",
+        "longitude": "-2.742",
+        "elevation (ft)": "230"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.745,
+          53.274
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "FRODSHAM-FOXHILL",
+        "county": "Cheshire",
+        "gridref": "SJ504755",
+        "latitude": "53.274",
+        "longitude": "-2.745",
+        "elevation (ft)": "125"
       }
     },
     {
@@ -62159,6 +62558,27 @@
         "latitude": "58.513",
         "longitude": "-3.451",
         "elevation (ft)": "167"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.782,
+          55.882
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "GIFFORD-SKEDSBUSH",
+        "county": "East Lothian (Haddington)",
+        "gridref": "NT512657",
+        "latitude": "55.882",
+        "longitude": "-2.782",
+        "elevation (ft)": "600"
       }
     },
     {
@@ -65673,6 +66093,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -1.899,
+          53.532
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "GRAINS-MOSS",
+        "county": "Cheshire",
+        "gridref": "SE068039",
+        "latitude": "53.532",
+        "longitude": "-1.899",
+        "elevation (ft)": "1573"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -0.087,
           53.472
         ]
@@ -68235,6 +68676,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -2.839,
+          56.034
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "GULLANE-GOLF-CLUB",
+        "county": "East Lothian (Haddington)",
+        "gridref": "NT478827",
+        "latitude": "56.034",
+        "longitude": "-2.839",
+        "elevation (ft)": "97"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -5.519,
           50.132
         ]
@@ -68424,6 +68886,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -2.781,
+          55.953
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "HADDINGTON-NEILSON-PARK",
+        "county": "East Lothian (Haddington)",
+        "gridref": "NT513736",
+        "latitude": "55.953",
+        "longitude": "-2.781",
+        "elevation (ft)": "161"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -2.221,
           57.403
         ]
@@ -68438,6 +68921,27 @@
         "latitude": "57.403",
         "longitude": "-2.221",
         "elevation (ft)": "186"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.986,
+          53.467
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "HADFIELD-MILLBROOK",
+        "county": "Cheshire",
+        "gridref": "SK010967",
+        "latitude": "53.467",
+        "longitude": "-1.986",
+        "elevation (ft)": "442"
       }
     },
     {
@@ -76341,6 +76845,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -1.998,
+          53.482
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "HOLLINGWORTH-HALL-MOOR",
+        "county": "Cheshire",
+        "gridref": "SK002984",
+        "latitude": "53.482",
+        "longitude": "-1.998",
+        "elevation (ft)": "1194"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -1.85,
           53.56
         ]
@@ -78770,6 +79295,27 @@
         "latitude": "57.447",
         "longitude": "-2.786",
         "elevation (ft)": "405"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.567,
+          53.093
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "HURLESTON",
+        "county": "Cheshire",
+        "gridref": "SJ621552",
+        "latitude": "53.093",
+        "longitude": "-2.567",
+        "elevation (ft)": "200"
       }
     },
     {
@@ -86652,6 +87198,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -2.537,
+          55.862
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "LAMMERMUIR-HILLS-HUNGRY-SMOUT",
+        "county": "East Lothian (Haddington)",
+        "gridref": "NT665633",
+        "latitude": "55.862",
+        "longitude": "-2.537",
+        "elevation (ft)": "715"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -2.776,
           55.861
         ]
@@ -86729,6 +87296,27 @@
         "latitude": "55.846",
         "longitude": "-2.798",
         "elevation (ft)": "950"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.804,
+          55.865
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "LAMMERMUIR-HILLS-STOBSHIEL-FILTER-HOUSE",
+        "county": "East Lothian (Haddington)",
+        "gridref": "NT498638",
+        "latitude": "55.865",
+        "longitude": "-2.804",
+        "elevation (ft)": "650"
       }
     },
     {
@@ -87506,6 +88094,48 @@
         "latitude": "51.240",
         "longitude": "0.577",
         "elevation (ft)": "350"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.058,
+          53.237
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "LANGLEY-TRENTABANK-RES",
+        "county": "Cheshire",
+        "gridref": "SJ962711",
+        "latitude": "53.237",
+        "longitude": "-2.058",
+        "elevation (ft)": "864"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.051,
+          53.238
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "LANGLEY-TWELVE-ASHES",
+        "county": "Cheshire",
+        "gridref": "SJ967712",
+        "latitude": "53.238",
+        "longitude": "-2.051",
+        "elevation (ft)": "903"
       }
     },
     {
@@ -88325,6 +88955,27 @@
         "latitude": "51.699",
         "longitude": "-1.724",
         "elevation (ft)": "250"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.709,
+          51.731
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "LECHLADE-SOUTHROP",
+        "county": "Gloucestershire",
+        "gridref": "SP202036",
+        "latitude": "51.731",
+        "longitude": "-1.709",
+        "elevation (ft)": "284"
       }
     },
     {
@@ -94989,6 +95640,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -4.583,
+          56.014
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "LOCH-LOMOND-PARK",
+        "county": "Dunbartonshire",
+        "gridref": "NS391831",
+        "latitude": "56.014",
+        "longitude": "-4.583",
+        "elevation (ft)": "156"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -4.694,
           57.579
         ]
@@ -95612,6 +96284,90 @@
         "latitude": "56.233",
         "longitude": "-4.793",
         "elevation (ft)": "1250"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.803,
+          56.289
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "LOCH-SLOY-CAM-ALLT",
+        "county": "Dunbartonshire",
+        "gridref": "NN266143",
+        "latitude": "56.289",
+        "longitude": "-4.803",
+        "elevation (ft)": "1580"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.757,
+          56.256
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "LOCH-SLOY-MAIN-ADIT",
+        "county": "Dunbartonshire",
+        "gridref": "NN293105",
+        "latitude": "56.256",
+        "longitude": "-4.757",
+        "elevation (ft)": "700"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.769,
+          56.259
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "LOCH-SLOY-SLOY-DAM",
+        "county": "Dunbartonshire",
+        "gridref": "NN286108",
+        "latitude": "56.259",
+        "longitude": "-4.769",
+        "elevation (ft)": "966"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.71,
+          56.251
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "LOCH-SLOY-SLOY-POWER-STATION",
+        "county": "Dunbartonshire",
+        "gridref": "NN3217709815",
+        "latitude": "56.251",
+        "longitude": "-4.710",
+        "elevation (ft)": "40"
       }
     },
     {
@@ -96564,6 +97320,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -1.919,
+          53.521
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "LONG-RIDGE-MOSS-NEAR-BROADSLATE",
+        "county": "Cheshire",
+        "gridref": "SE055027",
+        "latitude": "53.521",
+        "longitude": "-1.919",
+        "elevation (ft)": "1663"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -0.93,
           51.215
         ]
@@ -96767,6 +97544,69 @@
         "latitude": "51.187",
         "longitude": "-2.275",
         "elevation (ft)": "350"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.921,
+          55.963
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "LONGNIDDRY-ST-GERMAINS",
+        "county": "East Lothian (Haddington)",
+        "gridref": "NT426748",
+        "latitude": "55.963",
+        "longitude": "-2.921",
+        "elevation (ft)": "150"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.904,
+          55.976
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "LONGNIDDRY-THIRLADENE",
+        "county": "East Lothian (Haddington)",
+        "gridref": "NT437763",
+        "latitude": "55.976",
+        "longitude": "-2.904",
+        "elevation (ft)": "50"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.804,
+          53.503
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "LONGSIDE-MOSS",
+        "county": "Cheshire",
+        "gridref": "SE131007",
+        "latitude": "53.503",
+        "longitude": "-1.804",
+        "elevation (ft)": "1418"
       }
     },
     {
@@ -99819,6 +100659,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -2.201,
+          51.583
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "MALMESBURY-PINKNEY-PARK",
+        "county": "Wiltshire",
+        "gridref": "ST862872",
+        "latitude": "51.583",
+        "longitude": "-2.201",
+        "elevation (ft)": "210"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -0.797,
           54.135
         ]
@@ -101016,6 +101877,48 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -1.981,
+          51.288
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "MARKET-LAVINGTON-SCHOOL-HOUSE",
+        "county": "Wiltshire",
+        "gridref": "SU0141454268",
+        "latitude": "51.288",
+        "longitude": "-1.981",
+        "elevation (ft)": "290"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.978,
+          51.288
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "MARKET-LAVINGTON-SCHOOL-HOUSE",
+        "county": "Wiltshire",
+        "gridref": "SU016543",
+        "latitude": "51.288",
+        "longitude": "-1.978",
+        "elevation (ft)": "304"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -0.684,
           52.737
         ]
@@ -101240,6 +102143,27 @@
         "latitude": "51.423",
         "longitude": "-1.701",
         "elevation (ft)": "456"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.744,
+          51.414
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "MARLBOROUGH-PRESHUTE-HOUSE",
+        "county": "Wiltshire",
+        "gridref": "SU179684",
+        "latitude": "51.414",
+        "longitude": "-1.744",
+        "elevation (ft)": "430"
       }
     },
     {
@@ -103452,6 +104376,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -3.516,
+          55.892
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "MID-CALDER-HOWDEN",
+        "county": "Midlothian (Edinburgh)",
+        "gridref": "NT053676",
+        "latitude": "55.892",
+        "longitude": "-3.516",
+        "elevation (ft)": "400"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -1.805,
           54.285
         ]
@@ -104285,6 +105230,27 @@
         "latitude": "50.585",
         "longitude": "-4.275",
         "elevation (ft)": "180"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.209,
+          55.86
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "MILTON-BRIDGE-BUSH",
+        "county": "Midlothian (Edinburgh)",
+        "gridref": "NT244636",
+        "latitude": "55.860",
+        "longitude": "-3.209",
+        "elevation (ft)": "605"
       }
     },
     {
@@ -105405,6 +106371,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -2.629,
+          53.352
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "MOORE-UPLANDS",
+        "county": "Cheshire",
+        "gridref": "SJ582841",
+        "latitude": "53.352",
+        "longitude": "-2.629",
+        "elevation (ft)": "119"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -3.121,
           55.724
         ]
@@ -106343,6 +107330,27 @@
         "latitude": "54.195",
         "longitude": "-6.032",
         "elevation (ft)": "938"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.236,
+          53.116
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "MOW-COP-PUMPING-STATION",
+        "county": "Cheshire",
+        "gridref": "SJ843577",
+        "latitude": "53.116",
+        "longitude": "-2.236",
+        "elevation (ft)": "460"
       }
     },
     {
@@ -110466,6 +111474,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -2.705,
+          56.052
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "NORTH-BERWICK-NETHERHEUGH",
+        "county": "East Lothian (Haddington)",
+        "gridref": "NT562846",
+        "latitude": "56.052",
+        "longitude": "-2.705",
+        "elevation (ft)": "120"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -2.721,
           56.048
         ]
@@ -111572,6 +112601,48 @@
         "latitude": "53.197",
         "longitude": "-3.127",
         "elevation (ft)": "418"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.635,
+          53.233
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "NORTHWICH-CRABTREE-GREEN",
+        "county": "Cheshire",
+        "gridref": "SJ577708",
+        "latitude": "53.233",
+        "longitude": "-2.635",
+        "elevation (ft)": "183"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.625,
+          53.235
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "NORTHWICH-CRABTREE-GREEN",
+        "county": "Cheshire",
+        "gridref": "SJ584711",
+        "latitude": "53.235",
+        "longitude": "-2.625",
+        "elevation (ft)": "163"
       }
     },
     {
@@ -113112,6 +114183,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -1.725,
+          51.485
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "OGBOURNE-WW",
+        "county": "Wiltshire",
+        "gridref": "SU192763",
+        "latitude": "51.485",
+        "longitude": "-1.725",
+        "elevation (ft)": "497"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -3.544,
           51.613
         ]
@@ -113777,6 +114869,48 @@
         "latitude": "53.529",
         "longitude": "-2.720",
         "elevation (ft)": "310"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.367,
+          51.513
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "ORSETT-HALL",
+        "county": "Essex",
+        "gridref": "TQ6436482043",
+        "latitude": "51.513",
+        "longitude": "0.367",
+        "elevation (ft)": "73"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.379,
+          51.516
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "ORSETT-HALL",
+        "county": "Essex",
+        "gridref": "TQ6513882365",
+        "latitude": "51.516",
+        "longitude": "0.379",
+        "elevation (ft)": "70"
       }
     },
     {
@@ -115506,6 +116640,48 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -3.613,
+          55.816
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "PATESHILL-RES",
+        "county": "Midlothian (Edinburgh)",
+        "gridref": "NS990593",
+        "latitude": "55.816",
+        "longitude": "-3.613",
+        "elevation (ft)": "900"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.613,
+          55.815
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "PATESHILL-RES",
+        "county": "Midlothian (Edinburgh)",
+        "gridref": "NS990592",
+        "latitude": "55.815",
+        "longitude": "-3.613",
+        "elevation (ft)": "900"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -4.488,
           55.387
         ]
@@ -116220,6 +117396,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -2.901,
+          55.918
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "PENCAITLAND-WINTON-CASTLE",
+        "county": "East Lothian (Haddington)",
+        "gridref": "NT438698",
+        "latitude": "55.918",
+        "longitude": "-2.901",
+        "elevation (ft)": "295"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -5.007,
           50.269
         ]
@@ -116339,6 +117536,27 @@
         "latitude": "52.629",
         "longitude": "-4.052",
         "elevation (ft)": "6"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.226,
+          55.826
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "PENICUIK",
+        "county": "Midlothian (Edinburgh)",
+        "gridref": "NT233599",
+        "latitude": "55.826",
+        "longitude": "-3.226",
+        "elevation (ft)": "620"
       }
     },
     {
@@ -118362,6 +119580,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -1.83,
+          53.5
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "PIKENAZE-MOOR-AUDERNSHAW-CLOUGH",
+        "county": "Cheshire",
+        "gridref": "SE114004",
+        "latitude": "53.500",
+        "longitude": "-1.830",
+        "elevation (ft)": "1148"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -7.314,
           52.354
         ]
@@ -120231,6 +121470,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -1.701,
+          51.128
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "PORTON-CDEE",
+        "county": "Wiltshire",
+        "gridref": "SU210366",
+        "latitude": "51.128",
+        "longitude": "-1.701",
+        "elevation (ft)": "363"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -2.711,
           51.583
         ]
@@ -120644,6 +121904,27 @@
         "latitude": "53.339",
         "longitude": "-3.389",
         "elevation (ft)": "30"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.156,
+          53.302
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "PRESTBURY-SEWAGE-WORKS",
+        "county": "Cheshire",
+        "gridref": "SJ897783",
+        "latitude": "53.302",
+        "longitude": "-2.156",
+        "elevation (ft)": "320"
       }
     },
     {
@@ -121316,6 +122597,48 @@
         "latitude": "51.337",
         "longitude": "-0.118",
         "elevation (ft)": "214"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.886,
+          51.584
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "PURTON-HARVEST-WATER",
+        "county": "Wiltshire",
+        "gridref": "SU0800087200",
+        "latitude": "51.584",
+        "longitude": "-1.886",
+        "elevation (ft)": "425"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.886,
+          51.576
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "PURTON-RESTROP-HOUSE",
+        "county": "Wiltshire",
+        "gridref": "SU080864",
+        "latitude": "51.576",
+        "longitude": "-1.886",
+        "elevation (ft)": "444"
       }
     },
     {
@@ -123983,6 +125306,27 @@
         "latitude": "50.990",
         "longitude": "-2.557",
         "elevation (ft)": "146"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.275,
+          53.362
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "RINGWAY-MANCHESTER-AIRPORT",
+        "county": "Cheshire",
+        "gridref": "SJ818850",
+        "latitude": "53.362",
+        "longitude": "-2.275",
+        "elevation (ft)": "248"
       }
     },
     {
@@ -137296,7 +138640,7 @@
         "gridref": "TM116141",
         "latitude": "51.786",
         "longitude": "1.066",
-        "elevation (ft)": "91"
+        "elevation (ft)": "30"
       }
     },
     {
@@ -148833,6 +150177,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -2.165,
+          51.303
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "TROWBRIDGE-ROOD-ASHTON",
+        "county": "Wiltshire",
+        "gridref": "ST886560",
+        "latitude": "51.303",
+        "longitude": "-2.165",
+        "elevation (ft)": "250"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -2.194,
           51.325
         ]
@@ -149372,6 +150737,27 @@
         "latitude": "55.326",
         "longitude": "-4.845",
         "elevation (ft)": "30"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.348,
+          55.951
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "TURNHOUSE-AIRFIELD",
+        "county": "Midlothian (Edinburgh)",
+        "gridref": "NT159739",
+        "latitude": "55.951",
+        "longitude": "-3.348",
+        "elevation (ft)": "114"
       }
     },
     {
@@ -153739,7 +155125,7 @@
         "gridref": "SU665952",
         "latitude": "51.652",
         "longitude": "-1.040",
-        "elevation (ft)": "200"
+        "elevation (ft)": "260"
       }
     },
     {
