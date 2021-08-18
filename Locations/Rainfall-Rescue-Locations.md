@@ -1,4 +1,4 @@
-Generation time: Wednesday 18/08/2021 07:53:37 BST
+Generation time: Wednesday 18/08/2021 23:07:14 BST
 
 
 [MO-2020] indicates a location which contributed to the [Met Office 2020 UK Climate Report](https://www.metoffice.gov.uk/research/climate/maps-and-data/about/state-of-climate):
@@ -6101,7 +6101,7 @@ Generation time: Wednesday 18/08/2021 07:53:37 BST
 * [YSTRADGYNLAIS-YNISCEDWYN-HO](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/YSTRADGYNLAIS-YNISCEDWYN-HO)
 * [YSTRADYFODWG-FYNTYLA-HOSPITAL](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/YSTRADYFODWG-FYNTYLA-HOSPITAL)
 
-1014 **rainfall-rescue-data-v2/DATA** locations under [https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/master/DATA](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/master/DATA):
+1013 **rainfall-rescue-data-v2/DATA** locations under [https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/master/DATA](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/master/DATA):
 
 * [ABBEY-ST-BATHANS-SCHOOL](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/master/DATA/ABBEY-ST-BATHANS-SCHOOL)
 * [ABBOTS-RIPTON-HALL](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/master/DATA/ABBOTS-RIPTON-HALL)
@@ -7031,8 +7031,7 @@ Generation time: Wednesday 18/08/2021 07:53:37 BST
 * [TAXAL-OLDFIELD](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/master/DATA/TAXAL-OLDFIELD)
 * [TEMPLE-GRAFTON-COURT](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/master/DATA/TEMPLE-GRAFTON-COURT)
 * [TEWKESBURY-BECKFORD](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/master/DATA/TEWKESBURY-BECKFORD)
-* [THELWALL-MASSEY-HALL](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/master/DATA/THELWALL-MASSEY-HALL)
-* [THELWALL-THE-CLOUGH](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/master/DATA/THELWALL-THE-CLOUGH)
+* [THELWALL-MIX](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/master/DATA/THELWALL-MIX)
 * [THIRLMERE-THE-NOOK](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/master/DATA/THIRLMERE-THE-NOOK)
 * [THIRSK-TOPCLIFFE-AIRFIELD](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/master/DATA/THIRSK-TOPCLIFFE-AIRFIELD)
 * [THORNEY-NORTH-HOUSE](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/master/DATA/THORNEY-NORTH-HOUSE)
