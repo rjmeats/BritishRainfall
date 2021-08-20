@@ -21825,6 +21825,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -0.257,
+          51.569
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "BRENT-RES",
+        "county": "Middlesex-stayed-Middlesex",
+        "gridref": "TQ209870",
+        "latitude": "51.569",
+        "longitude": "-0.257",
+        "elevation (ft)": "70"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           0.301,
           51.631
         ]
@@ -55677,6 +55698,48 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -0.119,
+          51.666
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "ENFIELD-HADLEY-ROAD-PUMPING-STATION",
+        "county": "Middlesex-stayed-Middlesex",
+        "gridref": "TQ302980",
+        "latitude": "51.666",
+        "longitude": "-0.119",
+        "elevation (ft)": "140"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.091,
+          51.644
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "ENFIELD-OLD-PARK",
+        "county": "Middlesex-stayed-Middlesex",
+        "gridref": "TQ322956",
+        "latitude": "51.644",
+        "longitude": "-0.091",
+        "elevation (ft)": "156"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -0.056,
           51.674
         ]
@@ -77253,7 +77316,7 @@
         "marker-size": "small",
         "marker-color": "66ff33",
         "name": "HIGHGATE-NURSERIES",
-        "county": "Middlesex-stayed-Middlesex",
+        "county": "Middlesex-became-London",
         "gridref": "TQ282870",
         "latitude": "51.567",
         "longitude": "-0.152",
@@ -147225,7 +147288,7 @@
         "marker-size": "small",
         "marker-color": "66ff33",
         "name": "TAXAL-BLACKHILL-GATE",
-        "county": "[CHOICE] Cheshire, Derbyshire",
+        "county": "Derbyshire",
         "gridref": "SJ997787",
         "latitude": "53.305",
         "longitude": "-2.006",
@@ -147246,7 +147309,7 @@
         "marker-size": "small",
         "marker-color": "66ff33",
         "name": "TAXAL-OLDFIELD",
-        "county": "[CHOICE] Cheshire, Derbyshire",
+        "county": "Derbyshire",
         "gridref": "SK012777",
         "latitude": "53.296",
         "longitude": "-1.983",
@@ -149002,7 +149065,7 @@
         "type": "Point",
         "coordinates": [
           -3.136,
-          -3.136
+          53.35
         ]
       },
       "properties": {
@@ -149012,7 +149075,7 @@
         "name": "THURSTASTON-DAWPOOL",
         "county": "Cheshire",
         "gridref": "SJ245843",
-        "latitude": "-3.136",
+        "latitude": "53.350",
         "longitude": "-3.136",
         "elevation (ft)": "200"
       }
@@ -150564,7 +150627,7 @@
         "marker-size": "small",
         "marker-color": "66ff33",
         "name": "TORSIDE-CLOUGH-EDGE",
-        "county": "[CHOICE] Cheshire, Derbyshire",
+        "county": "Derbyshire",
         "gridref": "SK066970",
         "latitude": "53.470",
         "longitude": "-1.902",
