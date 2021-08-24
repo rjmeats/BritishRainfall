@@ -1,4 +1,4 @@
-Generation time: Monday 23/08/2021 08:20:20 BST
+Generation time: Tuesday 24/08/2021 07:44:49 BST
 
 
 [MO-2020] indicates a location which contributed to the [Met Office 2020 UK Climate Report](https://www.metoffice.gov.uk/research/climate/maps-and-data/about/state-of-climate):
@@ -6329,7 +6329,7 @@ Generation time: Monday 23/08/2021 08:20:20 BST
 * [COLBRON-PENWYLLT](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/master/DATA/COLBRON-PENWYLLT)
 * [COLCHESTER-LAYER-DE-LA-HAYE](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/master/DATA/COLCHESTER-LAYER-DE-LA-HAYE)
 * [COLWICK-HOLME-SLUICES](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/master/DATA/COLWICK-HOLME-SLUICES)
-* [CONSETT-CROOKHALL-SEWAGE-WKS](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/master/DATA/CONSETT-CROOKHALL-SEWAGE-WKS)
+* [CONSETT-CROOKHALL-SEWAGE-WORKS](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/master/DATA/CONSETT-CROOKHALL-SEWAGE-WORKS)
 * [CORBY-STANION-LANE](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/master/DATA/CORBY-STANION-LANE)
 * [CORNHILL-PALLINSBURN](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/master/DATA/CORNHILL-PALLINSBURN)
 * [CORNWOOD-YEALM-HEAD-FIVE](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/master/DATA/CORNWOOD-YEALM-HEAD-FIVE)
@@ -6366,6 +6366,7 @@ Generation time: Monday 23/08/2021 08:20:20 BST
 * [DAER-CROOKBURN](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/master/DATA/DAER-CROOKBURN)
 * [DAER-GARLS-CRAIG](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/master/DATA/DAER-GARLS-CRAIG)
 * [DAER-KIRKHOPE](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/master/DATA/DAER-KIRKHOPE)
+* [DAER-KIRKHOPE-CLEUCH](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/master/DATA/DAER-KIRKHOPE-CLEUCH)
 * [DAER-THICK-CLEUCH](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/master/DATA/DAER-THICK-CLEUCH)
 * [DAER-WHITEBURN](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/master/DATA/DAER-WHITEBURN)
 * [DAER-WHITEHOLM](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/master/DATA/DAER-WHITEHOLM)
@@ -6434,10 +6435,10 @@ Generation time: Monday 23/08/2021 08:20:20 BST
 * [EDINBURGH-WW-SHIEL-HOPE](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/master/DATA/EDINBURGH-WW-SHIEL-HOPE)
 * [EDINBURGH-WW-THE-RIG](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/master/DATA/EDINBURGH-WW-THE-RIG)
 * [EDINBURGH-WW-UPPER-MENZION](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/master/DATA/EDINBURGH-WW-UPPER-MENZION)
-* [EDMONDBYER-HAREHOPE-BURN](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/master/DATA/EDMONDBYER-HAREHOPE-BURN)
 * [EDMONDBYERS-COMMON](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/master/DATA/EDMONDBYERS-COMMON)
 * [EDMONDBYERS-FARM](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/master/DATA/EDMONDBYERS-FARM)
 * [EDMONDBYERS-FELDON-BURN](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/master/DATA/EDMONDBYERS-FELDON-BURN)
+* [EDMONDBYERS-HAREHOPE-BURN](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/master/DATA/EDMONDBYERS-HAREHOPE-BURN)
 * [EDMONDBYERS-RIDDING](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/master/DATA/EDMONDBYERS-RIDDING)
 * [ELIOCK](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/master/DATA/ELIOCK)
 * [ELLASTONE-VICARAGE](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/master/DATA/ELLASTONE-VICARAGE)
@@ -6503,7 +6504,7 @@ Generation time: Monday 23/08/2021 08:20:20 BST
 * [FRISTON-WATER-TOWER](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/master/DATA/FRISTON-WATER-TOWER)
 * [FRODSHAM-FOXHILL](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/master/DATA/FRODSHAM-FOXHILL)
 * [FROME-SEWAGE-DISPOSAL-WORKS](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/master/DATA/FROME-SEWAGE-DISPOSAL-WORKS)
-* [FYFIELD](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/master/DATA/FYFIELD)
+* [FYFIELD-ESSEX](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/master/DATA/FYFIELD-ESSEX)
 * [GALASHIELS-CADDON-HEAD](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/master/DATA/GALASHIELS-CADDON-HEAD)
 * [GALASHIELS-CRAIG-HEAD](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/master/DATA/GALASHIELS-CRAIG-HEAD)
 * [GALASHIELS-KNOWS-DEAN-RES](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/master/DATA/GALASHIELS-KNOWS-DEAN-RES)
@@ -6697,7 +6698,6 @@ Generation time: Monday 23/08/2021 08:20:20 BST
 * [LANGFORD-TREATMENT-PLANT](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/master/DATA/LANGFORD-TREATMENT-PLANT)
 * [LANGHAM-WW](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/master/DATA/LANGHAM-WW)
 * [LANGHOLM-CRAIGCLENCH](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/master/DATA/LANGHOLM-CRAIGCLENCH)
-* [LANGLEY-RUMWOOD](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/master/DATA/LANGLEY-RUMWOOD)
 * [LANGLEY-RUMWOOD-COURT](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/master/DATA/LANGLEY-RUMWOOD-COURT)
 * [LANGLEY-TRENTABANK-RES](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/master/DATA/LANGLEY-TRENTABANK-RES)
 * [LANGLEY-TWELVE-ASHES](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/master/DATA/LANGLEY-TWELVE-ASHES)
