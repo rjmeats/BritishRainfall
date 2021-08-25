@@ -7440,6 +7440,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -4.75,
+          57.122
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "AUCHTERAWE-LON-MOR",
+        "county": "Inverness",
+        "gridref": "NH336068",
+        "latitude": "57.122",
+        "longitude": "-4.750",
+        "elevation (ft)": "525"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -2.514,
           52.985
         ]
@@ -28475,6 +28496,27 @@
         "latitude": "55.423",
         "longitude": "-5.606",
         "elevation (ft)": "20"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.801,
+          57.319
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "CANNICH-FASNAKYLE",
+        "county": "Inverness",
+        "gridref": "NH314288",
+        "latitude": "57.319",
+        "longitude": "-4.801",
+        "elevation (ft)": "264"
       }
     },
     {
@@ -62208,6 +62250,90 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -4.678,
+          57.131
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "FORT-AUGUSTUS-ARDACHIE",
+        "county": "Inverness",
+        "gridref": "NH380076",
+        "latitude": "57.131",
+        "longitude": "-4.678",
+        "elevation (ft)": "100"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.698,
+          57.145
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "FORT-AUGUSTUS-AUCHTERAWE",
+        "county": "Inverness",
+        "gridref": "NH368092",
+        "latitude": "57.145",
+        "longitude": "-4.698",
+        "elevation (ft)": "136"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.7,
+          57.143
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "FORT-AUGUSTUS-AUCHTERAWE",
+        "county": "Inverness",
+        "gridref": "NH367090",
+        "latitude": "57.143",
+        "longitude": "-4.700",
+        "elevation (ft)": "136"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.677,
+          57.145
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "FORT-AUGUSTUS-PUBLIC-SCHOOL",
+        "county": "Inverness",
+        "gridref": "NH3810009179",
+        "latitude": "57.145",
+        "longitude": "-4.677",
+        "elevation (ft)": "100"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -5.037,
           56.826
         ]
@@ -65715,6 +65841,48 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -4.866,
+          57.31
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "GLEN-AFFRIC-BENEVEAN-DAM",
+        "county": "Inverness",
+        "gridref": "NH275280",
+        "latitude": "57.310",
+        "longitude": "-4.866",
+        "elevation (ft)": "762"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.867,
+          57.307
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "GLEN-AFFRIC-BENEVEAN-DAM",
+        "county": "Inverness",
+        "gridref": "NH274277",
+        "latitude": "57.307",
+        "longitude": "-4.867",
+        "elevation (ft)": "656"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -3.918,
           56.481
         ]
@@ -65750,6 +65918,69 @@
         "latitude": "56.862",
         "longitude": "-3.916",
         "elevation (ft)": "1500"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.946,
+          57.339
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "GLEN-CANNICH-MULLARDOCH-DAM",
+        "county": "Inverness",
+        "gridref": "NH228314",
+        "latitude": "57.339",
+        "longitude": "-4.946",
+        "elevation (ft)": "672"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.954,
+          57.335
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "GLEN-CANNICH-MULLARDOCH-DAM",
+        "county": "Inverness",
+        "gridref": "NH223310",
+        "latitude": "57.335",
+        "longitude": "-4.954",
+        "elevation (ft)": "805"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.775,
+          57.104
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "GLEN-EINICH",
+        "county": "Inverness",
+        "gridref": "NH926029",
+        "latitude": "57.104",
+        "longitude": "-3.775",
+        "elevation (ft)": "1560"
       }
     },
     {
@@ -65904,6 +66135,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -5.132,
+          57.064
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "GLEN-GARRY-KINGIE-CAMP",
+        "county": "Inverness",
+        "gridref": "NH102014",
+        "latitude": "57.064",
+        "longitude": "-5.132",
+        "elevation (ft)": "480"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -3.165,
           57.093
         ]
@@ -65960,6 +66212,48 @@
         "latitude": "56.819",
         "longitude": "-3.311",
         "elevation (ft)": "1370"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.197,
+          57.035
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "GLEN-KINGIE-LOCHAN",
+        "county": "Inverness",
+        "gridref": "NN061983",
+        "latitude": "57.035",
+        "longitude": "-5.197",
+        "elevation (ft)": "470"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.197,
+          57.036
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "GLEN-KINGIE-LOCHAN",
+        "county": "Inverness",
+        "gridref": "NN061984",
+        "latitude": "57.036",
+        "longitude": "-5.197",
+        "elevation (ft)": "470"
       }
     },
     {
@@ -99126,6 +99420,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -5.781,
+          56.713
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "LOCH-SUNART-SALEN-CARNLIA",
+        "county": "Argyll",
+        "gridref": "NM687643",
+        "latitude": "56.713",
+        "longitude": "-5.781",
+        "elevation (ft)": "35"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -5.527,
           57.529
         ]
@@ -110564,6 +110879,27 @@
         "latitude": "56.473",
         "longitude": "-6.155",
         "elevation (ft)": "30"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.964,
+          56.538
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "MULL-WHITE-HOUSE-OF-AROS",
+        "county": "Argyll",
+        "gridref": "NM564455",
+        "latitude": "56.538",
+        "longitude": "-5.964",
+        "elevation (ft)": "20"
       }
     },
     {
