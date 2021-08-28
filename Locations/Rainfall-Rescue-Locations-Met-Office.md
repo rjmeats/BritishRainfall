@@ -1,9 +1,9 @@
-Generation time: Thursday 26/08/2021 20:34:07 BST
+Generation time: Saturday 28/08/2021 15:37:08 BST
 
 95 **rainfall-rescue/DATA** locations under [https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA) which contributed to the [Met Office 2020 UK Climate Report](https://www.metoffice.gov.uk/research/climate/maps-and-data/about/state-of-climate):
 
-* [TRESCO-ABBEY](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/TRESCO-ABBEY) : 3 days ago : 2021-08-23 17:25:42 +0100 
-* [FELSTED-SCHOOL](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/FELSTED-SCHOOL) : 8 days ago : 2021-08-18 14:26:06 +0100 
+* [TRESCO-ABBEY](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/TRESCO-ABBEY) : 5 days ago : 2021-08-23 17:25:42 +0100 
+* [FELSTED-SCHOOL](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/FELSTED-SCHOOL) : 10 days ago : 2021-08-18 14:26:06 +0100 
 * [IPSWICH-BELSTEAD-HALL](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/IPSWICH-BELSTEAD-HALL) : 4 weeks ago : 2021-07-31 21:04:11 +0100 
 * [MARCH](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/MARCH) : 4 weeks ago : 2021-07-31 21:04:11 +0100 
 * [WOODHEAD-RES](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/WOODHEAD-RES) : 4 weeks ago : 2021-07-31 21:04:11 +0100 
