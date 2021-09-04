@@ -1,4 +1,4 @@
-Generation time: Tuesday 13/07/2021 16:56:17 BST
+Generation time: Saturday 04/09/2021 15:48:51 BST
 
 Links to county-level charts showing a heatmap of the annual rainfall figures.
 
