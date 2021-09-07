@@ -1,4 +1,4 @@
-Generation time: Tuesday 07/09/2021 08:00:20 BST
+Generation time: Tuesday 07/09/2021 18:30:05 BST
 
 
 [MO-2020] indicates a location which contributed to the [Met Office 2020 UK Climate Report](https://www.metoffice.gov.uk/research/climate/maps-and-data/about/state-of-climate):
@@ -6471,7 +6471,7 @@ Generation time: Tuesday 07/09/2021 08:00:20 BST
 * [CREWE-BETLEY-HALL](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/master/DATA/CREWE-BETLEY-HALL)
 * [CREWE-ISOLATION-HOSPITAL](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/master/DATA/CREWE-ISOLATION-HOSPITAL)
 * [CREWE-WESTON-LANE](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/master/DATA/CREWE-WESTON-LANE)
-* [CRICKHOWELL-FFORDLAS-FARM](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/master/DATA/CRICKHOWELL-FFORDLAS-FARM)
+* [CRICKHOWELL-FFORDLAS-FAWR](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/master/DATA/CRICKHOWELL-FFORDLAS-FAWR)
 * [CROCKENHILL-WESTED-FARM](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/master/DATA/CROCKENHILL-WESTED-FARM)
 * [CROMER-THE-WARREN](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/master/DATA/CROMER-THE-WARREN)
 * [CROOK-HILL](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/master/DATA/CROOK-HILL)
@@ -7006,7 +7006,7 @@ Generation time: Tuesday 07/09/2021 08:00:20 BST
 * [LLANVIHANGEL-COURT](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/master/DATA/LLANVIHANGEL-COURT)
 * [LLANVIHANGEL-CRUCORNEY-DEPOT](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/master/DATA/LLANVIHANGEL-CRUCORNEY-DEPOT)
 * [LLANWRTYD-WELLS-ABERNANT](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/master/DATA/LLANWRTYD-WELLS-ABERNANT)
-* [LLANWRTYD-WELLS-BRYNOWEN](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/master/DATA/LLANWRTYD-WELLS-BRYNOWEN)
+* [LLANWRTYD-WELLS-BRYNONNEN](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/master/DATA/LLANWRTYD-WELLS-BRYNONNEN)
 * [LLANYSTUMDWY-TALARVOR](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/master/DATA/LLANYSTUMDWY-TALARVOR)
 * [LLYN-ALED](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/master/DATA/LLYN-ALED)
 * [LLYN-ALED-MOEL-Y-BRYNIAU](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/master/DATA/LLYN-ALED-MOEL-Y-BRYNIAU)
@@ -7632,7 +7632,7 @@ Generation time: Tuesday 07/09/2021 08:00:20 BST
 * [OXFORD](https://github.com/ed-hawkins/rainfall-rescue/tree/master/COMPOSITE-SERIES/OXFORD)
 * [READING](https://github.com/ed-hawkins/rainfall-rescue/tree/master/COMPOSITE-SERIES/READING)
 
-93 **rainfall-rescue/POOR-LOCATIONS** locations under [https://github.com/ed-hawkins/rainfall-rescue/tree/master/POOR-LOCATIONS](https://github.com/ed-hawkins/rainfall-rescue/tree/master/POOR-LOCATIONS):
+94 **rainfall-rescue/POOR-LOCATIONS** locations under [https://github.com/ed-hawkins/rainfall-rescue/tree/master/POOR-LOCATIONS](https://github.com/ed-hawkins/rainfall-rescue/tree/master/POOR-LOCATIONS):
 
 * [ABERDEEN](https://github.com/ed-hawkins/rainfall-rescue/tree/master/POOR-LOCATIONS/ABERDEEN)
 * [ABERDOVEY](https://github.com/ed-hawkins/rainfall-rescue/tree/master/POOR-LOCATIONS/ABERDOVEY)
@@ -7657,6 +7657,7 @@ Generation time: Tuesday 07/09/2021 08:00:20 BST
 * [CARDIFF-TREDEGARVILLE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/POOR-LOCATIONS/CARDIFF-TREDEGARVILLE)
 * [CARLISLE-ROSE-CASTLE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/POOR-LOCATIONS/CARLISLE-ROSE-CASTLE)
 * [CARRICK-ON-SUIR-DEER-PARK-LODGE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/POOR-LOCATIONS/CARRICK-ON-SUIR-DEER-PARK-LODGE)
+* [CLEISH-HILLS-BLAIRADAM](https://github.com/ed-hawkins/rainfall-rescue/tree/master/POOR-LOCATIONS/CLEISH-HILLS-BLAIRADAM)
 * [COBHAM-PYPORTS](https://github.com/ed-hawkins/rainfall-rescue/tree/master/POOR-LOCATIONS/COBHAM-PYPORTS)
 * [COLNEY-HATCH-ASYLUM](https://github.com/ed-hawkins/rainfall-rescue/tree/master/POOR-LOCATIONS/COLNEY-HATCH-ASYLUM)
 * [CROYDON](https://github.com/ed-hawkins/rainfall-rescue/tree/master/POOR-LOCATIONS/CROYDON)
