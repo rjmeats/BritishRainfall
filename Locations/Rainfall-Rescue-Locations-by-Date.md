@@ -1,10 +1,10 @@
-Generation time: Tuesday 14/09/2021 17:59:15 BST
+Generation time: Tuesday 14/09/2021 18:49:04 BST
 
 6095 **rainfall-rescue/DATA** locations under [https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA):
 
-* [DRINKSTONE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/DRINKSTONE) : 5 hours ago : 2021-09-14 12:33:51 +0100 
-* [DONCASTER](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/DONCASTER) : 20 hours ago : 2021-09-13 21:18:20 +0100 
-* [MORPETH-CRESSWELL](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/MORPETH-CRESSWELL) : 20 hours ago : 2021-09-13 21:18:20 +0100 
+* [DRINKSTONE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/DRINKSTONE) : 2 hours ago : 2021-09-14 16:13:13 +0100 
+* [DONCASTER](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/DONCASTER) : 21 hours ago : 2021-09-13 21:18:20 +0100 
+* [MORPETH-CRESSWELL](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/MORPETH-CRESSWELL) : 21 hours ago : 2021-09-13 21:18:20 +0100 
 * [HARROW-BESSBOROUGH](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/HARROW-BESSBOROUGH) : 5 days ago : 2021-09-09 22:43:05 +0100 
 * [HAYFIELD-TUNSTEAD-CLOUGH](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/HAYFIELD-TUNSTEAD-CLOUGH) : 7 days ago : 2021-09-07 15:21:30 +0100 
 * [ST-AUSTELL-TREVARNA](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/ST-AUSTELL-TREVARNA) : 7 days ago : 2021-09-07 15:21:30 +0100 
