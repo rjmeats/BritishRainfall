@@ -1,4 +1,4 @@
-Generation time: Thursday 09/09/2021 23:45:05 BST
+Generation time: Tuesday 14/09/2021 17:59:15 BST
 
 
 [MO-2020] indicates a location which contributed to the [Met Office 2020 UK Climate Report](https://www.metoffice.gov.uk/research/climate/maps-and-data/about/state-of-climate):
@@ -6101,7 +6101,7 @@ Generation time: Thursday 09/09/2021 23:45:05 BST
 * [YSTRADGYNLAIS-YNISCEDWYN-HO](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/YSTRADGYNLAIS-YNISCEDWYN-HO)
 * [YSTRADYFODWG-FYNTYLA-HOSPITAL](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/YSTRADYFODWG-FYNTYLA-HOSPITAL)
 
-1580 **rainfall-rescue-data-v2/DATA** locations under [https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/master/DATA](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/master/DATA):
+1581 **rainfall-rescue-data-v2/DATA** locations under [https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/master/DATA](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/master/DATA):
 
 * [ABBERLEY](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/master/DATA/ABBERLEY)
 * [ABBEY-ST-BATHANS-SCHOOL](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/master/DATA/ABBEY-ST-BATHANS-SCHOOL)
@@ -7666,6 +7666,7 @@ Generation time: Thursday 09/09/2021 23:45:05 BST
 * [WOOLSTHORPE-GRANGE-FARM](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/master/DATA/WOOLSTHORPE-GRANGE-FARM)
 * [WOOTTON-HOUSE](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/master/DATA/WOOTTON-HOUSE)
 * [WORCESTER-FORT-ROYAL-HILL](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/master/DATA/WORCESTER-FORT-ROYAL-HILL)
+* [WORCESTER-PARK-SEWAGE-WORKS](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/master/DATA/WORCESTER-PARK-SEWAGE-WORKS)
 * [WORCESTER-SAMUEL-SOUTHALL-SCHOOL](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/master/DATA/WORCESTER-SAMUEL-SOUTHALL-SCHOOL)
 * [WORKINGTON-COKE-OVENS](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/master/DATA/WORKINGTON-COKE-OVENS)
 * [WORMHILL-HARGATE-WALL](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/master/DATA/WORMHILL-HARGATE-WALL)
