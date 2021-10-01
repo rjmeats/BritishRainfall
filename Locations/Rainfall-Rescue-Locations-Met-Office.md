@@ -1,12 +1,13 @@
-Generation time: Tuesday 28/09/2021 17:44:04 BST
+Generation time: Friday 01/10/2021 08:10:51 BST
 
 95 **rainfall-rescue/DATA** locations under [https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA) which contributed to the [Met Office 2020 UK Climate Report](https://www.metoffice.gov.uk/research/climate/maps-and-data/about/state-of-climate):
 
-* [TRESCO-ABBEY](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/TRESCO-ABBEY) : 5 weeks ago : 2021-08-23 17:25:42 +0100 
+* [HAREWOOD-ARTHINGTON](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/HAREWOOD-ARTHINGTON) : 9 hours ago : 2021-09-30 22:39:26 +0100 
+* [TRESCO-ABBEY](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/TRESCO-ABBEY) : 6 weeks ago : 2021-08-23 17:25:42 +0100 
 * [FELSTED-SCHOOL](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/FELSTED-SCHOOL) : 6 weeks ago : 2021-08-18 14:26:06 +0100 
-* [IPSWICH-BELSTEAD-HALL](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/IPSWICH-BELSTEAD-HALL) : 8 weeks ago : 2021-07-31 21:04:11 +0100 
-* [MARCH](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/MARCH) : 8 weeks ago : 2021-07-31 21:04:11 +0100 
-* [WOODHEAD-RES](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/WOODHEAD-RES) : 8 weeks ago : 2021-07-31 21:04:11 +0100 
+* [IPSWICH-BELSTEAD-HALL](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/IPSWICH-BELSTEAD-HALL) : 9 weeks ago : 2021-07-31 21:04:11 +0100 
+* [MARCH](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/MARCH) : 9 weeks ago : 2021-07-31 21:04:11 +0100 
+* [WOODHEAD-RES](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/WOODHEAD-RES) : 9 weeks ago : 2021-07-31 21:04:11 +0100 
 * [GARSTANG-BARNACRE-RES](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/GARSTANG-BARNACRE-RES) : 5 months ago : 2021-05-11 23:18:10 +0100 
 * [HYTHE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/HYTHE) : 5 months ago : 2021-05-11 23:18:10 +0100 
 * [WALTHAM-ABBEY-GUNPOWDER-FACTORY](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/WALTHAM-ABBEY-GUNPOWDER-FACTORY) : 5 months ago : 2021-05-11 23:18:10 +0100 
@@ -70,7 +71,6 @@ Generation time: Tuesday 28/09/2021 17:44:04 BST
 * [GREENOCK-WW-HOLE-GLEN](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/GREENOCK-WW-HOLE-GLEN) : 5 months ago : 2021-05-07 14:08:39 +0100 
 * [GREENOCK-WW-PROSPECT-HILL](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/GREENOCK-WW-PROSPECT-HILL) : 5 months ago : 2021-05-07 14:08:39 +0100 
 * [GREENOCK-WW-SHIELHILL](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/GREENOCK-WW-SHIELHILL) : 5 months ago : 2021-05-07 14:08:39 +0100 
-* [HAREWOOD-ARTHINGTON](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/HAREWOOD-ARTHINGTON) : 5 months ago : 2021-05-07 14:08:39 +0100 
 * [HARTLEPOOL-HART-RES](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/HARTLEPOOL-HART-RES) : 5 months ago : 2021-05-07 14:08:39 +0100 
 * [HORSHAM-WIMBLEHURST](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/HORSHAM-WIMBLEHURST) : 5 months ago : 2021-05-07 14:08:39 +0100 
 * [ISLAY-EALLABUS](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/ISLAY-EALLABUS) : 5 months ago : 2021-05-07 14:08:39 +0100 
