@@ -1,4 +1,4 @@
-Generation time: Friday 01/10/2021 21:17:19 BST
+Generation time: Saturday 02/10/2021 08:36:56 BST
 
 
 [MO-2020] indicates a location which contributed to the [Met Office 2020 UK Climate Report](https://www.metoffice.gov.uk/research/climate/maps-and-data/about/state-of-climate):
@@ -6100,7 +6100,7 @@ Generation time: Friday 01/10/2021 21:17:19 BST
 * [YSTRADGYNLAIS-YNISCEDWYN-HO](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/YSTRADGYNLAIS-YNISCEDWYN-HO)
 * [YSTRADYFODWG-FYNTYLA-HOSPITAL](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/YSTRADYFODWG-FYNTYLA-HOSPITAL)
 
-1860 **rainfall-rescue-data-v2/DATA** locations under [https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/master/DATA](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/master/DATA):
+1859 **rainfall-rescue-data-v2/DATA** locations under [https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/master/DATA](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/master/DATA):
 
 * [ABBERLEY](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/master/DATA/ABBERLEY)
 * [ABBEY-ST-BATHANS-SCHOOL](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/master/DATA/ABBEY-ST-BATHANS-SCHOOL)
@@ -6168,7 +6168,7 @@ Generation time: Friday 01/10/2021 21:17:19 BST
 * [ARUNDEL-CASTLE](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/master/DATA/ARUNDEL-CASTLE)
 * [ARUNDEL-WEST-WALBERTON](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/master/DATA/ARUNDEL-WEST-WALBERTON)
 * [ASHBOURNE-VICARAGE](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/master/DATA/ASHBOURNE-VICARAGE)
-* [ASHBY-DE-LA-ZOUCH-COLE-ORTON](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/master/DATA/ASHBY-DE-LA-ZOUCH-COLE-ORTON)
+* [ASHBY-DE-LA-ZOUCH-COLEORTON](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/master/DATA/ASHBY-DE-LA-ZOUCH-COLEORTON)
 * [ASHCOTT-BRADLEY-COTTAGE](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/master/DATA/ASHCOTT-BRADLEY-COTTAGE)
 * [ASHFORD-ALBERT-ROAD](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/master/DATA/ASHFORD-ALBERT-ROAD)
 * [ASHOPTON-MOSCAR-FLAT](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/master/DATA/ASHOPTON-MOSCAR-FLAT)
@@ -6657,7 +6657,6 @@ Generation time: Friday 01/10/2021 21:17:19 BST
 * [DUNHOLME-FIELD-STATION](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/master/DATA/DUNHOLME-FIELD-STATION)
 * [DUNMANWAY-THE-RECTORY](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/master/DATA/DUNMANWAY-THE-RECTORY)
 * [DUNMURRY-LAGMORE](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/master/DATA/DUNMURRY-LAGMORE)
-* [DUNMURRY-SEWAGE-WKS](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/master/DATA/DUNMURRY-SEWAGE-WKS)
 * [DUNOON](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/master/DATA/DUNOON)
 * [DUNOON-GRAMMAR-SCHOOL](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/master/DATA/DUNOON-GRAMMAR-SCHOOL)
 * [DUNOON-REDHURST](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/master/DATA/DUNOON-REDHURST)
