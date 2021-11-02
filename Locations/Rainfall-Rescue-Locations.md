@@ -1,4 +1,4 @@
-Generation time: Saturday 02/10/2021 08:36:56 BST
+Generation time: Tuesday 02/11/2021 14:28:00 GMT
 
 
 [MO-2020] indicates a location which contributed to the [Met Office 2020 UK Climate Report](https://www.metoffice.gov.uk/research/climate/maps-and-data/about/state-of-climate):
@@ -6822,7 +6822,7 @@ Generation time: Saturday 02/10/2021 08:36:56 BST
 * [FRODSHAM-FOXHILL](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/master/DATA/FRODSHAM-FOXHILL)
 * [FROME-SEWAGE-DISPOSAL-WORKS](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/master/DATA/FROME-SEWAGE-DISPOSAL-WORKS)
 * [FYFIELD-ESSEX](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/master/DATA/FYFIELD-ESSEX)
-* [GAINSBOROUGH-NORTH-SANDFIELD](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/master/DATA/GAINSBOROUGH-NORTH-SANDFIELD)
+* [GAINSBOROUGH-NORTH-SANDSFIELD](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/master/DATA/GAINSBOROUGH-NORTH-SANDSFIELD)
 * [GALASHIELS-CADDON-HEAD](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/master/DATA/GALASHIELS-CADDON-HEAD)
 * [GALASHIELS-CRAIG-HEAD](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/master/DATA/GALASHIELS-CRAIG-HEAD)
 * [GALASHIELS-KNOWS-DEAN-RES](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/master/DATA/GALASHIELS-KNOWS-DEAN-RES)
@@ -7346,7 +7346,7 @@ Generation time: Saturday 02/10/2021 08:36:56 BST
 * [MARKET-LAVINGTON](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/master/DATA/MARKET-LAVINGTON)
 * [MARKET-LAVINGTON-SCHOOL-HOUSE](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/master/DATA/MARKET-LAVINGTON-SCHOOL-HOUSE)
 * [MARKET-RASEN-TEALBY](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/master/DATA/MARKET-RASEN-TEALBY)
-* [MARKET-WEIGHTON-HOLM-ON-THE-WOLD](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/master/DATA/MARKET-WEIGHTON-HOLM-ON-THE-WOLD)
+* [MARKET-WEIGHTON-HOLME-ON-THE-WOLDS](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/master/DATA/MARKET-WEIGHTON-HOLME-ON-THE-WOLDS)
 * [MARKET-WEIGHTON-HOUGHTON-HALL](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/master/DATA/MARKET-WEIGHTON-HOUGHTON-HALL)
 * [MARKINCH-ROTHES](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/master/DATA/MARKINCH-ROTHES)
 * [MARLBOROUGH-PRESHUTE-HOUSE](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/master/DATA/MARLBOROUGH-PRESHUTE-HOUSE)
@@ -7969,7 +7969,7 @@ Generation time: Saturday 02/10/2021 08:36:56 BST
 * [OXFORD](https://github.com/ed-hawkins/rainfall-rescue/tree/master/COMPOSITE-SERIES/OXFORD)
 * [READING](https://github.com/ed-hawkins/rainfall-rescue/tree/master/COMPOSITE-SERIES/READING)
 
-94 **rainfall-rescue/POOR-LOCATIONS** locations under [https://github.com/ed-hawkins/rainfall-rescue/tree/master/POOR-LOCATIONS](https://github.com/ed-hawkins/rainfall-rescue/tree/master/POOR-LOCATIONS):
+95 **rainfall-rescue/POOR-LOCATIONS** locations under [https://github.com/ed-hawkins/rainfall-rescue/tree/master/POOR-LOCATIONS](https://github.com/ed-hawkins/rainfall-rescue/tree/master/POOR-LOCATIONS):
 
 * [ABERDEEN](https://github.com/ed-hawkins/rainfall-rescue/tree/master/POOR-LOCATIONS/ABERDEEN)
 * [ABERDOVEY](https://github.com/ed-hawkins/rainfall-rescue/tree/master/POOR-LOCATIONS/ABERDOVEY)
@@ -8001,6 +8001,7 @@ Generation time: Saturday 02/10/2021 08:36:56 BST
 * [CULROSS-TULLIALLAN-FREE-CHURCH-MANSE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/POOR-LOCATIONS/CULROSS-TULLIALLAN-FREE-CHURCH-MANSE)
 * [DARTMOOR-POWDER-MILLS](https://github.com/ed-hawkins/rainfall-rescue/tree/master/POOR-LOCATIONS/DARTMOOR-POWDER-MILLS)
 * [DOBCROSS](https://github.com/ed-hawkins/rainfall-rescue/tree/master/POOR-LOCATIONS/DOBCROSS)
+* [DUNMURRY-SEWAGE-WKS](https://github.com/ed-hawkins/rainfall-rescue/tree/master/POOR-LOCATIONS/DUNMURRY-SEWAGE-WKS)
 * [EDINBURGH-MIX](https://github.com/ed-hawkins/rainfall-rescue/tree/master/POOR-LOCATIONS/EDINBURGH-MIX)
 * [EXETER-WHITSTONE-RECTORY](https://github.com/ed-hawkins/rainfall-rescue/tree/master/POOR-LOCATIONS/EXETER-WHITSTONE-RECTORY)
 * [GREENOCK-WW-MIX](https://github.com/ed-hawkins/rainfall-rescue/tree/master/POOR-LOCATIONS/GREENOCK-WW-MIX)
