@@ -1,9 +1,10 @@
-Generation time: Wednesday 03/11/2021 12:15:09 GMT
+Generation time: Tuesday 09/11/2021 22:56:56 GMT
 
 95 **rainfall-rescue/DATA** locations under [https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA) which contributed to the [Met Office 2020 UK Climate Report](https://www.metoffice.gov.uk/research/climate/maps-and-data/about/state-of-climate):
 
-* [HAREWOOD-ARTHINGTON](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/HAREWOOD-ARTHINGTON) : 2 days ago : 2021-11-01 10:11:07 +0000 
-* [TRESCO-ABBEY](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/TRESCO-ABBEY) : 2 months ago : 2021-08-23 17:25:42 +0100 
+* [GOOLE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/GOOLE) : 80 minutes ago : 2021-11-09 20:59:51 +0000 
+* [HAREWOOD-ARTHINGTON](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/HAREWOOD-ARTHINGTON) : 9 days ago : 2021-11-01 10:11:07 +0000 
+* [TRESCO-ABBEY](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/TRESCO-ABBEY) : 3 months ago : 2021-08-23 17:25:42 +0100 
 * [FELSTED-SCHOOL](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/FELSTED-SCHOOL) : 3 months ago : 2021-08-18 14:26:06 +0100 
 * [IPSWICH-BELSTEAD-HALL](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/IPSWICH-BELSTEAD-HALL) : 3 months ago : 2021-07-31 21:04:11 +0100 
 * [MARCH](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/MARCH) : 3 months ago : 2021-07-31 21:04:11 +0100 
@@ -64,7 +65,6 @@ Generation time: Wednesday 03/11/2021 12:15:09 GMT
 * [EAST-YELL-SHETLAND](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/EAST-YELL-SHETLAND) : 6 months ago : 2021-05-07 14:15:27 +0100 
 * [ESHER-SEWAGE-WORKS](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/ESHER-SEWAGE-WORKS) : 6 months ago : 2021-05-07 14:15:27 +0100 
 * [EWHURST-CONEYHURST](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/EWHURST-CONEYHURST) : 6 months ago : 2021-05-07 14:15:27 +0100 
-* [GOOLE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/GOOLE) : 6 months ago : 2021-05-07 14:08:39 +0100 
 * [GREENOCK-WW-DARNDAFF-MOOR](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/GREENOCK-WW-DARNDAFF-MOOR) : 6 months ago : 2021-05-07 14:08:39 +0100 
 * [GREENOCK-WW-GREEN-WATER](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/GREENOCK-WW-GREEN-WATER) : 6 months ago : 2021-05-07 14:08:39 +0100 
 * [GREENOCK-WW-GRYFE-RES](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/GREENOCK-WW-GRYFE-RES) : 6 months ago : 2021-05-07 14:08:39 +0100 
