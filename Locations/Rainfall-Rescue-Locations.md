@@ -1,9 +1,9 @@
-Generation time: Thursday 11/11/2021 00:05:24 GMT
+Generation time: Thursday 11/11/2021 12:03:22 GMT
 
 
 [MO-2020] indicates a location which contributed to the [Met Office 2020 UK Climate Report](https://www.metoffice.gov.uk/research/climate/maps-and-data/about/state-of-climate):
 
-6094 **rainfall-rescue/DATA** locations under [https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA):
+6093 **rainfall-rescue/DATA** locations under [https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA):
 
 * [ABBEY-CWMHIR-THE-HALL](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/ABBEY-CWMHIR-THE-HALL)
 * [ABBEY-LEIX-BLANDSFORT](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/ABBEY-LEIX-BLANDSFORT)
@@ -5161,7 +5161,6 @@ Generation time: Thursday 11/11/2021 00:05:24 GMT
 * [STAMFORD](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/STAMFORD)
 * [STAMFORD-BARN-HILL-HOUSE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/STAMFORD-BARN-HILL-HOUSE)
 * [STAMFORDHAM](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/STAMFORDHAM)
-* [STANDEDGE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/STANDEDGE)
 * [STANDEDGE-CASTLE-SHAW-BROADHEAD](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/STANDEDGE-CASTLE-SHAW-BROADHEAD)
 * [STANDEDGE-CASTLE-SHAW-CUDWORTH](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/STANDEDGE-CASTLE-SHAW-CUDWORTH)
 * [STANDEDGE-REDBROOK](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/STANDEDGE-REDBROOK)
@@ -6461,7 +6460,7 @@ Generation time: Thursday 11/11/2021 00:05:24 GMT
 * [CARSPHAIRN-LORG](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/master/DATA/CARSPHAIRN-LORG)
 * [CARSPHAIRN-MOORBROCK](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/master/DATA/CARSPHAIRN-MOORBROCK)
 * [CARTMEL-AYNSOME-FARM](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/master/DATA/CARTMEL-AYNSOME-FARM)
-* [CARTMEL-FELL-GHYLL-HEAD-RES-4](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/master/DATA/CARTMEL-FELL-GHYLL-HEAD-RES-4)
+* [CARTMEL-FELL-GHYLL-HEAD-RES](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/master/DATA/CARTMEL-FELL-GHYLL-HEAD-RES)
 * [CARTMEL-FELL-THE-SCHOOL-HOUSE](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/master/DATA/CARTMEL-FELL-THE-SCHOOL-HOUSE)
 * [CARTMEL-FELL-TOWER-WOOD](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/master/DATA/CARTMEL-FELL-TOWER-WOOD)
 * [CASTLE-DOBBS](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/master/DATA/CASTLE-DOBBS)
