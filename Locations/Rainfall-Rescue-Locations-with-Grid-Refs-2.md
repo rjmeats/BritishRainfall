@@ -1,4 +1,4 @@
-Generation time: Monday 15/11/2021 22:23:02 GMT
+Generation time: Tuesday 16/11/2021 21:42:40 GMT
 
 ## Locations E-L
 
@@ -2707,7 +2707,7 @@ Generation time: Monday 15/11/2021 22:23:02 GMT
 ||LEEDS-CHAPEL-ALLERTON-4.csv|SE305379|53.836|-1.538|450|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=53.836&lon=-1.538&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/53.836,-1.538,16)  |
 |[LEEDS-ECCUP-RES](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/LEEDS-ECCUP-RES)|LEEDS-ECCUP-RES.csv|SE296414|53.868|-1.551|400|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=53.868&lon=-1.551&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/53.868,-1.551,16)  |
 ||LEEDS-ECCUP-RES-2.csv|SE307420|53.873|-1.533|375|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=53.873&lon=-1.533&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/53.873,-1.533,16)  |
-||LEEDS-ECCUP-RES-3.csv|SE383560|53.999|-1.417|200|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=53.999&lon=-1.417&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/53.999,-1.417,16)  |
+||LEEDS-ECCUP-RES-3.csv|SE308442|53.893|-1.533|200|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=53.893&lon=-1.533&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/53.893,-1.533,16)  |
 ||LEEDS-ECCUP-RES-4.csv|SE298416|53.870|-1.548|343|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=53.870&lon=-1.548&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/53.870,-1.548,16)  |
 ||LEEDS-ECCUP-RES-5.csv|SE297416|53.870|-1.550|340|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=53.870&lon=-1.550&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/53.870,-1.550,16)  |
 |[LEEDS-ELMETE-HALL](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/LEEDS-ELMETE-HALL)|LEEDS-ELMETE-HALL.csv|SE338377|53.834|-1.488|400|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=53.834&lon=-1.488&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/53.834,-1.488,16)  |
@@ -3276,7 +3276,7 @@ Generation time: Monday 15/11/2021 22:23:02 GMT
 |[LONG-WITTENHAM-LOVEGROVES-COTTAGE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/LONG-WITTENHAM-LOVEGROVES-COTTAGE)|LONG-WITTENHAM-LOVEGROVES-COTTAGE.csv|SU543935|51.638|-1.217|165|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=51.638&lon=-1.217&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/51.638,-1.217,16)  |
 |[LONG-WITTENHAM-MANOR-HOUSE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/LONG-WITTENHAM-MANOR-HOUSE)|LONG-WITTENHAM-MANOR-HOUSE.csv|SU549940|51.642|-1.208|170|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=51.642&lon=-1.208&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/51.642,-1.208,16)  |
 |[LONG-WITTENHAM-WILLINGTON](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/master/DATA/LONG-WITTENHAM-WILLINGTON) [V2]|LONG-WITTENHAM-WILLINGTON.csv|SU551940|51.642|-1.205|167|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=51.642&lon=-1.205&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/51.642,-1.205,16)  |
-|[LONGBRIDGE-DEVERIL](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/master/DATA/LONGBRIDGE-DEVERIL) [V2]|||||||
+|[LONGBRIDGE-DEVERIL](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/master/DATA/LONGBRIDGE-DEVERIL) [V2]|LONGBRIDGE-DEVERIL.csv|ST867409|51.167|-2.192|383|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=51.167&lon=-2.192&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/51.167,-2.192,16)  |
 |[LONGFORD-CASTLE](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/master/DATA/LONGFORD-CASTLE) [V2]|LONGFORD-CASTLE.csv|SU171266|51.039|-1.757|136|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=51.039&lon=-1.757&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/51.039,-1.757,16)  |
 |[LONGFORD-PERRY-OAKS-DISPOSAL-WKS](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/master/DATA/LONGFORD-PERRY-OAKS-DISPOSAL-WKS) [V2]|LONGFORD-PERRY-OAKS-DISPOSAL-WKS.csv|TQ060759|51.472|-0.475|77|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=51.472&lon=-0.475&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/51.472,-0.475,16)  |
 |[LONGFORMACUS-RAWBURN](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/LONGFORMACUS-RAWBURN)|LONGFORMACUS-RAWBURN.csv|NT673561|55.798|-2.522|920|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=55.798&lon=-2.522&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/55.798,-2.522,16)  |
