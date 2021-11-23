@@ -1,8 +1,8 @@
-Generation time: Monday 22/11/2021 23:21:49 GMT
+Generation time: Tuesday 23/11/2021 19:34:42 GMT
 
 95 **rainfall-rescue/DATA** locations under [https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA) which contributed to the [Met Office 2020 UK Climate Report](https://www.metoffice.gov.uk/research/climate/maps-and-data/about/state-of-climate):
 
-* [GOOLE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/GOOLE) : 13 days ago : 2021-11-09 20:59:51 +0000 
+* [GOOLE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/GOOLE) : 2 weeks ago : 2021-11-09 20:59:51 +0000 
 * [HAREWOOD-ARTHINGTON](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/HAREWOOD-ARTHINGTON) : 3 weeks ago : 2021-11-01 10:11:07 +0000 
 * [TRESCO-ABBEY](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/TRESCO-ABBEY) : 3 months ago : 2021-08-23 17:25:42 +0100 
 * [FELSTED-SCHOOL](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/FELSTED-SCHOOL) : 3 months ago : 2021-08-18 14:26:06 +0100 

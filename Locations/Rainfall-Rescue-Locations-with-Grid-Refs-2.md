@@ -1,4 +1,4 @@
-Generation time: Monday 22/11/2021 23:21:49 GMT
+Generation time: Tuesday 23/11/2021 19:34:42 GMT
 
 ## Locations E-L
 
@@ -1565,7 +1565,7 @@ Generation time: Monday 22/11/2021 23:21:49 GMT
 |[HAVERING-ATTE-BOWER-FERNSIDE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/HAVERING-ATTE-BOWER-FERNSIDE)|HAVERING-ATTE-BOWER-FERNSIDE.csv|TQ518930|51.615|0.191|360|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=51.615&lon=0.191&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/51.615,0.191,16)  |
 |[HAVERING-GRANGE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/HAVERING-GRANGE)|HAVERING-GRANGE.csv|TQ507922|51.608|0.175|255|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=51.608&lon=0.175&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/51.608,0.175,16)  |
 |[HAVERLAND](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/HAVERLAND)|HAVERLAND.csv|TG152214|52.748|1.188|140|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=52.748&lon=1.188&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/52.748,1.188,16)  |
-|[HAVERTHWAITE](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/master/DATA/HAVERTHWAITE) [V2]|HAVERTHWAITE.csv|SD374962|54.357|-2.965|440|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=54.357&lon=-2.965&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/54.357,-2.965,16)  |
+|[HAVERTHWAITE](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/master/DATA/HAVERTHWAITE) [V2]|HAVERTHWAITE.csv|SD345839|54.247|-3.007|433|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=54.247&lon=-3.007&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/54.247,-3.007,16)  |
 |[HAVERTHWAITE-OUTWOOD](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/master/DATA/HAVERTHWAITE-OUTWOOD) [V2]|HAVERTHWAITE-OUTWOOD.csv|SD346836|54.244|-3.005|65|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=54.244&lon=-3.005&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/54.244,-3.005,16)  |
 |[HAWARDEN](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/HAWARDEN)|HAWARDEN.csv|SJ312658|53.185|-3.031|260|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=53.185&lon=-3.031&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/53.185,-3.031,16)  |
 ||HAWARDEN-2.csv|SJ313658|53.185|-3.030|245|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=53.185&lon=-3.030&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/53.185,-3.030,16)  |
@@ -1711,7 +1711,8 @@ Generation time: Monday 22/11/2021 23:21:49 GMT
 ||HELSTON-2.csv|SW659275|50.101|-5.275|135|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=50.101&lon=-5.275&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/50.101,-5.275,16)  |
 ||HELSTON-3.csv|SW659275|50.101|-5.275|115|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=50.101&lon=-5.275&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/50.101,-5.275,16)  |
 |[HELSTON-TENDERAH](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/HELSTON-TENDERAH)|HELSTON-TENDERAH.csv|SW661280|50.106|-5.272|210|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=50.106&lon=-5.272&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/50.106,-5.272,16)  |
-|[HELTONDALE-KIDMOOR](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/HELTONDALE-KIDMOOR)|HELTONDALE-KIDMOOR.csv|NY482197|54.570|-2.803|1025|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=54.570&lon=-2.803&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/54.570,-2.803,16)  |
+|[HELTONDALE-KIDMOOR](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/HELTONDALE-KIDMOOR)|HELTONDALE-KIDMOOR.csv|NY483196|54.569|-2.801|984|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=54.569&lon=-2.801&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/54.569,-2.801,16)  |
+||HELTONDALE-KIDMOOR-2.csv|NY483195|54.568|-2.801|1043|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=54.568&lon=-2.801&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/54.568,-2.801,16)  |
 |[HELVELLYN-BIRKSIDE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/HELVELLYN-BIRKSIDE)|HELVELLYN-BIRKSIDE.csv|NY337133|54.511|-3.026|1800|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=54.511&lon=-3.026&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/54.511,-3.026,16)  |
 ||HELVELLYN-BIRKSIDE-2.csv|NY337133|54.511|-3.026|1900|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=54.511&lon=-3.026&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/54.511,-3.026,16)  |
 ||HELVELLYN-BIRKSIDE-3.csv|NY337133|54.511|-3.026|1900|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=54.511&lon=-3.026&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/54.511,-3.026,16)  |

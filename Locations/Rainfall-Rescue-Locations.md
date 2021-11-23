@@ -1,4 +1,4 @@
-Generation time: Monday 22/11/2021 23:21:49 GMT
+Generation time: Tuesday 23/11/2021 19:34:42 GMT
 
 
 [MO-2020] indicates a location which contributed to the [Met Office 2020 UK Climate Report](https://www.metoffice.gov.uk/research/climate/maps-and-data/about/state-of-climate):
@@ -6099,7 +6099,7 @@ Generation time: Monday 22/11/2021 23:21:49 GMT
 * [YSTRADGYNLAIS-YNISCEDWYN-HO](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/YSTRADGYNLAIS-YNISCEDWYN-HO)
 * [YSTRADYFODWG-FYNTYLA-HOSPITAL](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/YSTRADYFODWG-FYNTYLA-HOSPITAL)
 
-2133 **rainfall-rescue-data-v2/DATA** locations under [https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/master/DATA](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/master/DATA):
+2134 **rainfall-rescue-data-v2/DATA** locations under [https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/master/DATA](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/master/DATA):
 
 * [ABBERLEY](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/master/DATA/ABBERLEY)
 * [ABBEY-ST-BATHANS-SCHOOL](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/master/DATA/ABBEY-ST-BATHANS-SCHOOL)
@@ -7619,6 +7619,7 @@ Generation time: Monday 22/11/2021 23:21:49 GMT
 * [NOKE-ORCHARD-COTTAGE](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/master/DATA/NOKE-ORCHARD-COTTAGE)
 * [NORTH-BERWICK-NETHERHEUGH](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/master/DATA/NORTH-BERWICK-NETHERHEUGH)
 * [NORTH-BOVEY-MANOR-HOUSE](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/master/DATA/NORTH-BOVEY-MANOR-HOUSE)
+* [NORTH-BRENTOR-LANGSTONE](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/master/DATA/NORTH-BRENTOR-LANGSTONE)
 * [NORTH-CAVE-THE-CROFT](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/master/DATA/NORTH-CAVE-THE-CROFT)
 * [NORTH-HILL-BASTREET](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/master/DATA/NORTH-HILL-BASTREET)
 * [NORTH-MIMMS-PUMPING-STATION](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/master/DATA/NORTH-MIMMS-PUMPING-STATION)
@@ -8242,7 +8243,7 @@ Generation time: Monday 22/11/2021 23:21:49 GMT
 * [OXFORD](https://github.com/ed-hawkins/rainfall-rescue/tree/master/COMPOSITE-SERIES/OXFORD)
 * [READING](https://github.com/ed-hawkins/rainfall-rescue/tree/master/COMPOSITE-SERIES/READING)
 
-95 **rainfall-rescue/POOR-LOCATIONS** locations under [https://github.com/ed-hawkins/rainfall-rescue/tree/master/POOR-LOCATIONS](https://github.com/ed-hawkins/rainfall-rescue/tree/master/POOR-LOCATIONS):
+94 **rainfall-rescue/POOR-LOCATIONS** locations under [https://github.com/ed-hawkins/rainfall-rescue/tree/master/POOR-LOCATIONS](https://github.com/ed-hawkins/rainfall-rescue/tree/master/POOR-LOCATIONS):
 
 * [ABERDEEN](https://github.com/ed-hawkins/rainfall-rescue/tree/master/POOR-LOCATIONS/ABERDEEN)
 * [ABERDOVEY](https://github.com/ed-hawkins/rainfall-rescue/tree/master/POOR-LOCATIONS/ABERDOVEY)
@@ -8307,7 +8308,6 @@ Generation time: Monday 22/11/2021 23:21:49 GMT
 * [MASBOROUGH-PARSONAGE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/POOR-LOCATIONS/MASBOROUGH-PARSONAGE)
 * [MIDHURST](https://github.com/ed-hawkins/rainfall-rescue/tree/master/POOR-LOCATIONS/MIDHURST)
 * [MONMOUTH](https://github.com/ed-hawkins/rainfall-rescue/tree/master/POOR-LOCATIONS/MONMOUTH)
-* [NORTH-BRENTOR-LANGSTONE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/POOR-LOCATIONS/NORTH-BRENTOR-LANGSTONE)
 * [NORTHAMPTON](https://github.com/ed-hawkins/rainfall-rescue/tree/master/POOR-LOCATIONS/NORTHAMPTON)
 * [NORWICH-BETHEL-ST](https://github.com/ed-hawkins/rainfall-rescue/tree/master/POOR-LOCATIONS/NORWICH-BETHEL-ST)
 * [OAKHAM-WING-RECTORY](https://github.com/ed-hawkins/rainfall-rescue/tree/master/POOR-LOCATIONS/OAKHAM-WING-RECTORY)

@@ -1,4 +1,4 @@
-Generation time: Monday 22/11/2021 23:21:49 GMT
+Generation time: Tuesday 23/11/2021 19:34:43 GMT
 
 ## Locations M-R
 
@@ -802,7 +802,7 @@ Generation time: Monday 22/11/2021 23:21:49 GMT
 |[NORTH-BERWICK-RES](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/NORTH-BERWICK-RES)|NORTH-BERWICK-RES.csv|NT552841|56.048|-2.721|150|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=56.048&lon=-2.721&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/56.048,-2.721,16)  |
 |[NORTH-BERWICK-SEACLIFFE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/NORTH-BERWICK-SEACLIFFE)|NORTH-BERWICK-SEACLIFFE.csv|NT605841|56.048|-2.636|80|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=56.048&lon=-2.636&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/56.048,-2.636,16)  |
 |[NORTH-BOVEY-MANOR-HOUSE](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/master/DATA/NORTH-BOVEY-MANOR-HOUSE) [V2]|NORTH-BOVEY-MANOR-HOUSE.csv|SX732844|50.646|-3.794|700|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=50.646&lon=-3.794&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/50.646,-3.794,16)  |
-|[NORTH-BRENTOR-LANGSTONE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/POOR-LOCATIONS/NORTH-BRENTOR-LANGSTONE) [POOR]|NORTH-BRENTOR-LANGSTONE.csv|SX480824|50.621|-4.150|750|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=50.621&lon=-4.150&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/50.621,-4.150,16)  |
+|[NORTH-BRENTOR-LANGSTONE](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/master/DATA/NORTH-BRENTOR-LANGSTONE) [V2]|NORTH-BRENTOR-LANGSTONE.csv|SX480824|50.621|-4.150|750|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=50.621&lon=-4.150&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/50.621,-4.150,16)  |
 |[NORTH-CADBURY-RECTORY](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/NORTH-CADBURY-RECTORY)|NORTH-CADBURY-RECTORY.csv|ST635272|51.043|-2.522|256|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=51.043&lon=-2.522&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/51.043,-2.522,16)  |
 |[NORTH-CAVE-THE-CROFT](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/master/DATA/NORTH-CAVE-THE-CROFT) [V2]|NORTH-CAVE-THE-CROFT.csv|SE893323|53.779|-0.646|35|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=53.779&lon=-0.646&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/53.779,-0.646,16)  |
 |[NORTH-ESK-RES](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/NORTH-ESK-RES)|NORTH-ESK-RES.csv|NT154578|55.806|-3.351|1150|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=55.806&lon=-3.351&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/55.806,-3.351,16)  |
