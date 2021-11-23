@@ -1,17 +1,17 @@
-Generation time: Sunday 21/11/2021 23:39:14 GMT
+Generation time: Monday 22/11/2021 23:21:49 GMT
 
 95 **rainfall-rescue/DATA** locations under [https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA) which contributed to the [Met Office 2020 UK Climate Report](https://www.metoffice.gov.uk/research/climate/maps-and-data/about/state-of-climate):
 
-* [GOOLE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/GOOLE) : 12 days ago : 2021-11-09 20:59:51 +0000 
+* [GOOLE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/GOOLE) : 13 days ago : 2021-11-09 20:59:51 +0000 
 * [HAREWOOD-ARTHINGTON](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/HAREWOOD-ARTHINGTON) : 3 weeks ago : 2021-11-01 10:11:07 +0000 
 * [TRESCO-ABBEY](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/TRESCO-ABBEY) : 3 months ago : 2021-08-23 17:25:42 +0100 
 * [FELSTED-SCHOOL](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/FELSTED-SCHOOL) : 3 months ago : 2021-08-18 14:26:06 +0100 
 * [IPSWICH-BELSTEAD-HALL](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/IPSWICH-BELSTEAD-HALL) : 4 months ago : 2021-07-31 21:04:11 +0100 
 * [MARCH](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/MARCH) : 4 months ago : 2021-07-31 21:04:11 +0100 
 * [WOODHEAD-RES](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/WOODHEAD-RES) : 4 months ago : 2021-07-31 21:04:11 +0100 
-* [GARSTANG-BARNACRE-RES](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/GARSTANG-BARNACRE-RES) : 6 months ago : 2021-05-11 23:18:10 +0100 
-* [HYTHE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/HYTHE) : 6 months ago : 2021-05-11 23:18:10 +0100 
-* [WALTHAM-ABBEY-GUNPOWDER-FACTORY](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/WALTHAM-ABBEY-GUNPOWDER-FACTORY) : 6 months ago : 2021-05-11 23:18:10 +0100 
+* [GARSTANG-BARNACRE-RES](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/GARSTANG-BARNACRE-RES) : 7 months ago : 2021-05-11 23:18:10 +0100 
+* [HYTHE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/HYTHE) : 7 months ago : 2021-05-11 23:18:10 +0100 
+* [WALTHAM-ABBEY-GUNPOWDER-FACTORY](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/WALTHAM-ABBEY-GUNPOWDER-FACTORY) : 7 months ago : 2021-05-11 23:18:10 +0100 
 * [CHEW-MAGNA](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/CHEW-MAGNA) : 7 months ago : 2021-05-11 11:25:43 +0100 
 * [CAPE-WRATH](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/CAPE-WRATH) : 7 months ago : 2021-05-10 23:34:27 +0100 
 * [CARRICKFERGUS-NORTH-WOODBURN](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/CARRICKFERGUS-NORTH-WOODBURN) : 7 months ago : 2021-05-10 23:34:27 +0100 
