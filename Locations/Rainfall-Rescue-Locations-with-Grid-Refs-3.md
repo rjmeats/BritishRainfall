@@ -1,4 +1,4 @@
-Generation time: Friday 26/11/2021 22:16:11 GMT
+Generation time: Wednesday 01/12/2021 17:39:46 GMT
 
 ## Locations M-R
 
@@ -881,6 +881,7 @@ Generation time: Friday 26/11/2021 22:16:11 GMT
 ||NORTHENDEN-WYTHENSHAWE-HALL-2.csv|SJ815898|53.405|-2.280|114|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=53.405&lon=-2.280&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/53.405,-2.280,16)  |
 |[NORTHFIELD-BARTLEY-RES](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/master/DATA/NORTHFIELD-BARTLEY-RES) [V2]|NORTHFIELD-BARTLEY-RES.csv|SP010812|52.429|-1.987|600|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=52.429&lon=-1.987&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/52.429,-1.987,16)  |
 ||NORTHFIELD-BARTLEY-RES-2.csv|SP010812|52.429|-1.987|599|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=52.429&lon=-1.987&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/52.429,-1.987,16)  |
+|[NORTHFIELD-FRANKLEY-LODGE-ROAD](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/master/DATA/NORTHFIELD-FRANKLEY-LODGE-ROAD) [V2]|||||||
 |[NORTHFIELD-WEST-HEATH-HOUSE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/NORTHFIELD-WEST-HEATH-HOUSE)|NORTHFIELD-WEST-HEATH-HOUSE.csv|SP026776|52.396|-1.963|590|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=52.396&lon=-1.963&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/52.396,-1.963,16)  |
 |[NORTHIAM-GREAT-DIXTER](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/NORTHIAM-GREAT-DIXTER)|NORTHIAM-GREAT-DIXTER.csv|TQ821251|50.996|0.594|209|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=50.996&lon=0.594&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/50.996,0.594,16)  |
 |[NORTHLEACH-LEYGORE-MANOR](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/NORTHLEACH-LEYGORE-MANOR)|NORTHLEACH-LEYGORE-MANOR.csv|SP116165|51.847|-1.833|650|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=51.847&lon=-1.833&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/51.847,-1.833,16)  |
@@ -1708,6 +1709,7 @@ Generation time: Friday 26/11/2021 22:16:11 GMT
 |[REDHILL-LONDON-ROAD](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/master/DATA/REDHILL-LONDON-ROAD) [V2]|REDHILL-LONDON-ROAD.csv|TQ277507|51.242|-0.171|284|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=51.242&lon=-0.171&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/51.242,-0.171,16)  |
 ||REDHILL-LONDON-ROAD-2.csv|TQ280512|51.246|-0.166|270|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=51.246&lon=-0.166&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/51.246,-0.166,16)  |
 |[REDHILL-OXFORD-ROAD](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/REDHILL-OXFORD-ROAD)|REDHILL-OXFORD-ROAD.csv|TQ273507|51.241|-0.178|300|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=51.241&lon=-0.178&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/51.241,-0.178,16)  |
+|[REDMARLEY-HASELDEN](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/master/DATA/REDMARLEY-HASELDEN) [V2]|||||||
 |[REDRUTH-GREEN-LANE-NURSERIES](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/REDRUTH-GREEN-LANE-NURSERIES)|REDRUTH-GREEN-LANE-NURSERIES.csv|SW698423|50.236|-5.229|270|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=50.236&lon=-5.229&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/50.236,-5.229,16)  |
 |[REDRUTH-TEHIDY](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/REDRUTH-TEHIDY)|REDRUTH-TEHIDY.csv|SW654434|50.244|-5.292|287|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=50.244&lon=-5.292&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/50.244,-5.292,16)  |
 |[REDRUTH-TOLVEAN](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/REDRUTH-TOLVEAN)|REDRUTH-TOLVEAN.csv|SW695419|50.232|-5.233|365|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=50.232&lon=-5.233&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/50.232,-5.233,16)  |

@@ -1,4 +1,4 @@
-Generation time: Friday 26/11/2021 22:16:11 GMT
+Generation time: Wednesday 01/12/2021 17:39:46 GMT
 
 
 [MO-2020] indicates a location which contributed to the [Met Office 2020 UK Climate Report](https://www.metoffice.gov.uk/research/climate/maps-and-data/about/state-of-climate):
@@ -6099,7 +6099,7 @@ Generation time: Friday 26/11/2021 22:16:11 GMT
 * [YSTRADGYNLAIS-YNISCEDWYN-HO](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/YSTRADGYNLAIS-YNISCEDWYN-HO)
 * [YSTRADYFODWG-FYNTYLA-HOSPITAL](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/YSTRADYFODWG-FYNTYLA-HOSPITAL)
 
-2334 **rainfall-rescue-data-v2/DATA** locations under [https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/master/DATA](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/master/DATA):
+2346 **rainfall-rescue-data-v2/DATA** locations under [https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/master/DATA](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/master/DATA):
 
 * [ABBERLEY](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/master/DATA/ABBERLEY)
 * [ABBEY-ST-BATHANS-SCHOOL](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/master/DATA/ABBEY-ST-BATHANS-SCHOOL)
@@ -6158,6 +6158,7 @@ Generation time: Friday 26/11/2021 22:16:11 GMT
 * [ALTON-WW](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/master/DATA/ALTON-WW)
 * [ALVECHURCH-BORDESLEY-HALL](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/master/DATA/ALVECHURCH-BORDESLEY-HALL)
 * [ALVECHURCH-FAIRFIELD](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/master/DATA/ALVECHURCH-FAIRFIELD)
+* [ALVECHURCH-UPLANDS](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/master/DATA/ALVECHURCH-UPLANDS)
 * [ALVERSTOKE-MONCKTON-HOUSE](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/master/DATA/ALVERSTOKE-MONCKTON-HOUSE)
 * [ALWEN-FILTER-HOUSE](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/master/DATA/ALWEN-FILTER-HOUSE)
 * [AMBLE](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/master/DATA/AMBLE)
@@ -6406,6 +6407,7 @@ Generation time: Friday 26/11/2021 22:16:11 GMT
 * [BROADSTAIRS-STONE-HOUSE](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/master/DATA/BROADSTAIRS-STONE-HOUSE)
 * [BROADSTONE-GRANGE-ROAD](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/master/DATA/BROADSTONE-GRANGE-ROAD)
 * [BROADSTONE-SEWAGE-WORKS](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/master/DATA/BROADSTONE-SEWAGE-WORKS)
+* [BROADWAY-FARNCOMBE](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/master/DATA/BROADWAY-FARNCOMBE)
 * [BROMLEY-BISHOPS-AVENUE](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/master/DATA/BROMLEY-BISHOPS-AVENUE)
 * [BROMLEY-FREELAND-ROAD](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/master/DATA/BROMLEY-FREELAND-ROAD)
 * [BROMLEY-HENVILLE-ROAD](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/master/DATA/BROMLEY-HENVILLE-ROAD)
@@ -6695,6 +6697,7 @@ Generation time: Friday 26/11/2021 22:16:11 GMT
 * [CROWDEN-SPAN-GUTTER](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/master/DATA/CROWDEN-SPAN-GUTTER)
 * [CROWLAND-BANK-HOUSE](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/master/DATA/CROWLAND-BANK-HOUSE)
 * [CROWLE](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/master/DATA/CROWLE)
+* [CROWLE-MANOR-HOUSE](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/master/DATA/CROWLE-MANOR-HOUSE)
 * [CROWLE-WHARF-ROAD](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/master/DATA/CROWLE-WHARF-ROAD)
 * [CROYDON-AIRPORT](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/master/DATA/CROYDON-AIRPORT)
 * [CROYDON-NORTHAMPTON-ROAD](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/master/DATA/CROYDON-NORTHAMPTON-ROAD)
@@ -6774,6 +6777,7 @@ Generation time: Friday 26/11/2021 22:16:11 GMT
 * [DOUNREAY](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/master/DATA/DOUNREAY)
 * [DOVER-ROYAL-MILITARY-SCHOOL](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/master/DATA/DOVER-ROYAL-MILITARY-SCHOOL)
 * [DOWLAIS-GARTH-FILTER-BEDS](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/master/DATA/DOWLAIS-GARTH-FILTER-BEDS)
+* [DOWLES-BEWDLEY](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/master/DATA/DOWLES-BEWDLEY)
 * [DOWNE-DOWNE-HOUSE](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/master/DATA/DOWNE-DOWNE-HOUSE)
 * [DRAYCOTT-CRESSWELL-PUMPING-STATION](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/master/DATA/DRAYCOTT-CRESSWELL-PUMPING-STATION)
 * [DRAYTON-ST-LEONARD-GUYS](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/master/DATA/DRAYTON-ST-LEONARD-GUYS)
@@ -6818,6 +6822,7 @@ Generation time: Friday 26/11/2021 22:16:11 GMT
 * [DYMCHURCH](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/master/DATA/DYMCHURCH)
 * [EARLS-BARTON-VICARAGE](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/master/DATA/EARLS-BARTON-VICARAGE)
 * [EARLS-COLNE-GRAMMAR-SCHOOL](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/master/DATA/EARLS-COLNE-GRAMMAR-SCHOOL)
+* [EARLS-CROOME-LEVANT-LODGE](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/master/DATA/EARLS-CROOME-LEVANT-LODGE)
 * [EARLSWOOD-FULFORD-HALL](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/master/DATA/EARLSWOOD-FULFORD-HALL)
 * [EASINGTON-MILL-HILL-RES](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/master/DATA/EASINGTON-MILL-HILL-RES)
 * [EASINGWOLD-MARTON-VICARAGE](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/master/DATA/EASINGWOLD-MARTON-VICARAGE)
@@ -7326,6 +7331,7 @@ Generation time: Friday 26/11/2021 22:16:11 GMT
 * [KELMSCOTT](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/master/DATA/KELMSCOTT)
 * [KELVEDON-HARBORO-HALL](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/master/DATA/KELVEDON-HARBORO-HALL)
 * [KEMNAY-MANSE](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/master/DATA/KEMNAY-MANSE)
+* [KEMPSEY-VICARAGE](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/master/DATA/KEMPSEY-VICARAGE)
 * [KENARDINGTON-THE-FIRS](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/master/DATA/KENARDINGTON-THE-FIRS)
 * [KENDAL-SCHOOL](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/master/DATA/KENDAL-SCHOOL)
 * [KENILWORTH-UDC-OFFICES](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/master/DATA/KENILWORTH-UDC-OFFICES)
@@ -7770,6 +7776,7 @@ Generation time: Friday 26/11/2021 22:16:11 GMT
 * [NORTHAMPTON-HARDINGSTONE](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/master/DATA/NORTHAMPTON-HARDINGSTONE)
 * [NORTHAMPTON-UPTON](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/master/DATA/NORTHAMPTON-UPTON)
 * [NORTHFIELD-BARTLEY-RES](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/master/DATA/NORTHFIELD-BARTLEY-RES)
+* [NORTHFIELD-FRANKLEY-LODGE-ROAD](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/master/DATA/NORTHFIELD-FRANKLEY-LODGE-ROAD)
 * [NORTHOLT-AIRPORT](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/master/DATA/NORTHOLT-AIRPORT)
 * [NORTHWICH-CRABTREE-GREEN](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/master/DATA/NORTHWICH-CRABTREE-GREEN)
 * [NORTON-CHANTREY-GRANGE](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/master/DATA/NORTON-CHANTREY-GRANGE)
@@ -7922,6 +7929,7 @@ Generation time: Friday 26/11/2021 22:16:11 GMT
 * [REDEWATER-GAME-PARK](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/master/DATA/REDEWATER-GAME-PARK)
 * [REDEWATER-LUMSDON](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/master/DATA/REDEWATER-LUMSDON)
 * [REDHILL-LONDON-ROAD](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/master/DATA/REDHILL-LONDON-ROAD)
+* [REDMARLEY-HASELDEN](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/master/DATA/REDMARLEY-HASELDEN)
 * [REDWICK-MIX](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/master/DATA/REDWICK-MIX)
 * [REEPHAM](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/master/DATA/REEPHAM)
 * [REIGATE-WRAY-LODGE](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/master/DATA/REIGATE-WRAY-LODGE)
@@ -8010,7 +8018,7 @@ Generation time: Friday 26/11/2021 22:16:11 GMT
 * [SHELFORD-STAPLEFORD-HOUSE](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/master/DATA/SHELFORD-STAPLEFORD-HOUSE)
 * [SHERBORNE-BARTON-GDNS](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/master/DATA/SHERBORNE-BARTON-GDNS)
 * [SHERBORNE-CASTLETON](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/master/DATA/SHERBORNE-CASTLETON)
-* [SHERBORNE-SEAFIELD-COTTAGE](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/master/DATA/SHERBORNE-SEAFIELD-COTTAGE)
+* [SHERBORNE-LEAFIELD-COTTAGE](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/master/DATA/SHERBORNE-LEAFIELD-COTTAGE)
 * [SHERBORNE-SEWAGE-DISPOSAL-WORKS](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/master/DATA/SHERBORNE-SEWAGE-DISPOSAL-WORKS)
 * [SHERE-MANOR-HOUSE](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/master/DATA/SHERE-MANOR-HOUSE)
 * [SHERINGHAM-HOUSE](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/master/DATA/SHERINGHAM-HOUSE)
@@ -8135,7 +8143,10 @@ Generation time: Friday 26/11/2021 22:16:11 GMT
 * [STONE-MEECE-HOUSE](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/master/DATA/STONE-MEECE-HOUSE)
 * [STORNOWAY-AIRPORT](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/master/DATA/STORNOWAY-AIRPORT)
 * [STORNOWAY-LEURBOST-SCHOOL](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/master/DATA/STORNOWAY-LEURBOST-SCHOOL)
+* [STOURBRIDGE-HAGLEY-RECTORY](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/master/DATA/STOURBRIDGE-HAGLEY-RECTORY)
 * [STOURBRIDGE-PUMPING-STATION](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/master/DATA/STOURBRIDGE-PUMPING-STATION)
+* [STOURPORT-ARELEY-COURT](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/master/DATA/STOURPORT-ARELEY-COURT)
+* [STOURPORT-HARTLEBURY](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/master/DATA/STOURPORT-HARTLEBURY)
 * [STOW-BRIDGE-CRABBS-ABBEY](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/master/DATA/STOW-BRIDGE-CRABBS-ABBEY)
 * [STRANRAER-FILTERS](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/master/DATA/STRANRAER-FILTERS)
 * [STRANRAER-PENWHINN](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/master/DATA/STRANRAER-PENWHINN)
@@ -8409,6 +8420,7 @@ Generation time: Friday 26/11/2021 22:16:11 GMT
 * [WORCESTER-FORT-ROYAL-HILL](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/master/DATA/WORCESTER-FORT-ROYAL-HILL)
 * [WORCESTER-PARK-SEWAGE-WORKS](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/master/DATA/WORCESTER-PARK-SEWAGE-WORKS)
 * [WORCESTER-SAMUEL-SOUTHALL-SCHOOL](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/master/DATA/WORCESTER-SAMUEL-SOUTHALL-SCHOOL)
+* [WORCESTER-ST-JOHNS](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/master/DATA/WORCESTER-ST-JOHNS)
 * [WORKINGTON-COKE-OVENS](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/master/DATA/WORKINGTON-COKE-OVENS)
 * [WORKSOP-BRACEBRIDGE-SEWAGE-WORKS](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/master/DATA/WORKSOP-BRACEBRIDGE-SEWAGE-WORKS)
 * [WORKSOP-CARLTON-ROAD](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/master/DATA/WORKSOP-CARLTON-ROAD)

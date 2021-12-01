@@ -1,4 +1,4 @@
-Generation time: Friday 26/11/2021 22:16:11 GMT
+Generation time: Wednesday 01/12/2021 17:39:46 GMT
 
 ## Locations A-D
 
@@ -300,6 +300,7 @@ Generation time: Friday 26/11/2021 22:16:11 GMT
 |[ALVA-HOUSE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/ALVA-HOUSE)|ALVA-HOUSE.csv|NS898974|56.157|-3.776|180|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=56.157&lon=-3.776&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/56.157,-3.776,16)  |
 |[ALVECHURCH-BORDESLEY-HALL](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/master/DATA/ALVECHURCH-BORDESLEY-HALL) [V2]|ALVECHURCH-BORDESLEY-HALL.csv|SP040708|52.336|-1.942|480|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=52.336&lon=-1.942&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/52.336,-1.942,16)  |
 |[ALVECHURCH-FAIRFIELD](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/master/DATA/ALVECHURCH-FAIRFIELD) [V2]|ALVECHURCH-FAIRFIELD.csv|SP032728|52.354|-1.954|400|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=52.354&lon=-1.954&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/52.354,-1.954,16)  |
+|[ALVECHURCH-UPLANDS](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/master/DATA/ALVECHURCH-UPLANDS) [V2]|||||||
 |[ALVERSTOKE-MONCKTON-HOUSE](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/master/DATA/ALVERSTOKE-MONCKTON-HOUSE) [V2]|ALVERSTOKE-MONCKTON-HOUSE.csv|SZ606981|50.780|-1.141|15|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=50.780&lon=-1.141&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/50.780,-1.141,16)  |
 |[ALVIE-MIX](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/ALVIE-MIX)|ALVIE-MIX.csv|NH863093|57.160|-3.881|720|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=57.160&lon=-3.881&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/57.160,-3.881,16)  |
 ||ALVIE-MIX-2.csv|NH838075|57.144|-3.921|800|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=57.144&lon=-3.921&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/57.144,-3.921,16)  |
@@ -1614,6 +1615,7 @@ Generation time: Friday 26/11/2021 22:16:11 GMT
 |[BROADSTAIRS-STONE-HOUSE](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/master/DATA/BROADSTAIRS-STONE-HOUSE) [V2]|||||||
 |[BROADSTONE-GRANGE-ROAD](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/master/DATA/BROADSTONE-GRANGE-ROAD) [V2]|||||||
 |[BROADSTONE-SEWAGE-WORKS](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/master/DATA/BROADSTONE-SEWAGE-WORKS) [V2]|BROADSTONE-SEWAGE-WORKS.csv|SZ006938|50.744|-1.993|26|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=50.744&lon=-1.993&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/50.744,-1.993,16)  |
+|[BROADWAY-FARNCOMBE](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/master/DATA/BROADWAY-FARNCOMBE) [V2]|||||||
 |[BROADWINDSOR-BLACKDOWN](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/BROADWINDSOR-BLACKDOWN)|BROADWINDSOR-BLACKDOWN.csv|ST399030|50.823|-2.855|515|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=50.823&lon=-2.855&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/50.823,-2.855,16)  |
 |[BROCKHAM-NORTH-LODGE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/BROCKHAM-NORTH-LODGE)|BROCKHAM-NORTH-LODGE.csv|TQ196498|51.235|-0.288|160|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=51.235&lon=-0.288&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/51.235,-0.288,16)  |
 |[BROCKLESBY-PARK](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/BROCKLESBY-PARK)|BROCKLESBY-PARK.csv|TA140113|53.586|-0.279|108|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=53.586&lon=-0.279&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/53.586,-0.279,16)  |
@@ -2867,6 +2869,7 @@ Generation time: Friday 26/11/2021 22:16:11 GMT
 |[CROWLAND-BANK-HOUSE](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/master/DATA/CROWLAND-BANK-HOUSE) [V2]|CROWLAND-BANK-HOUSE.csv|TF239107|52.680|-0.169|10|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=52.680&lon=-0.169&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/52.680,-0.169,16)  |
 |[CROWLE](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/master/DATA/CROWLE) [V2]|CROWLE.csv|SO919572|52.213|-2.120|289|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=52.213&lon=-2.120&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/52.213,-2.120,16)  |
 |[CROWLE-KEADBY](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/CROWLE-KEADBY)|CROWLE-KEADBY.csv|SE835114|53.593|-0.740|10|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=53.593&lon=-0.740&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/53.593,-0.740,16)  |
+|[CROWLE-MANOR-HOUSE](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/master/DATA/CROWLE-MANOR-HOUSE) [V2]|||||||
 |[CROWLE-PUMPING-STATION](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/CROWLE-PUMPING-STATION)|CROWLE-PUMPING-STATION.csv|SE749098|53.579|-0.870|11|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=53.579&lon=-0.870&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/53.579,-0.870,16)  |
 |[CROWLE-WHARF-ROAD](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/master/DATA/CROWLE-WHARF-ROAD) [V2]|CROWLE-WHARF-ROAD.csv|SE777119|53.598|-0.827|17|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=53.598&lon=-0.827&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/53.598,-0.827,16)  |
 |[CROYDE-BAGGY-POINT](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/CROYDE-BAGGY-POINT)|CROYDE-BAGGY-POINT.csv|SS429398|51.136|-4.246|40|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=51.136&lon=-4.246&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/51.136,-4.246,16)  |
@@ -3304,6 +3307,7 @@ Generation time: Friday 26/11/2021 22:16:11 GMT
 ||DOVERCOURT-2.csv|TM242301|51.924|1.259|11|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=51.924&lon=1.259&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/51.924,1.259,16)  |
 |[DOWLAIS-GARTH-FILTER-BEDS](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/master/DATA/DOWLAIS-GARTH-FILTER-BEDS) [V2]|DOWLAIS-GARTH-FILTER-BEDS.csv|SO066096|51.777|-3.355|1245|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=51.777&lon=-3.355&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/51.777,-3.355,16)  |
 |[DOWLAIS-GWERNLLWYN](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/DOWLAIS-GWERNLLWYN)|DOWLAIS-GWERNLLWYN.csv|SO062084|51.767|-3.361|1071|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=51.767&lon=-3.361&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/51.767,-3.361,16)  |
+|[DOWLES-BEWDLEY](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/master/DATA/DOWLES-BEWDLEY) [V2]|||||||
 |[DOWNDERRY-THE-WATCH-HOUSE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/DOWNDERRY-THE-WATCH-HOUSE)|DOWNDERRY-THE-WATCH-HOUSE.csv|SX314541|50.363|-4.372|100|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=50.363&lon=-4.372&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/50.363,-4.372,16)  |
 |[DOWNE-DOWNE-HOUSE](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/master/DATA/DOWNE-DOWNE-HOUSE) [V2]|||||||
 |[DOWNHAM-HALL](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/DOWNHAM-HALL)|DOWNHAM-HALL.csv|SD782443|53.895|-2.333|474|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=53.895&lon=-2.333&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/53.895,-2.333,16)  |
