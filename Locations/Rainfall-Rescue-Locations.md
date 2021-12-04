@@ -1,4 +1,4 @@
-Generation time: Friday 03/12/2021 18:17:08 GMT
+Generation time: Saturday 04/12/2021 14:24:31 GMT
 
 
 [MO-2020] indicates a location which contributed to the [Met Office 2020 UK Climate Report](https://www.metoffice.gov.uk/research/climate/maps-and-data/about/state-of-climate):
@@ -7569,7 +7569,7 @@ Generation time: Friday 03/12/2021 18:17:08 GMT
 * [LOCH-COULTER](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/master/DATA/LOCH-COULTER)
 * [LOCH-CRERAN-RUBHA-GARBH](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/master/DATA/LOCH-CRERAN-RUBHA-GARBH)
 * [LOCH-CUAICH](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/master/DATA/LOCH-CUAICH)
-* [LOCH-DUICH-DRUIM-SQUARE](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/master/DATA/LOCH-DUICH-DRUIM-SQUARE)
+* [LOCH-DUICH-DRUIM-SGURR](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/master/DATA/LOCH-DUICH-DRUIM-SGURR)
 * [LOCH-FADA-LOCH-GLEANN-NA-MUICE](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/master/DATA/LOCH-FADA-LOCH-GLEANN-NA-MUICE)
 * [LOCH-FANNICH-FANNICH-LODGE](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/master/DATA/LOCH-FANNICH-FANNICH-LODGE)
 * [LOCH-FANNICH-SOUTH](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/master/DATA/LOCH-FANNICH-SOUTH)
