@@ -1,4 +1,4 @@
-Generation time: Tuesday 07/12/2021 17:37:49 GMT
+Generation time: Thursday 09/12/2021 17:12:59 GMT
 
 
 [MO-2020] indicates a location which contributed to the [Met Office 2020 UK Climate Report](https://www.metoffice.gov.uk/research/climate/maps-and-data/about/state-of-climate):
@@ -8557,14 +8557,13 @@ Generation time: Tuesday 07/12/2021 17:37:49 GMT
 * [OXFORD](https://github.com/ed-hawkins/rainfall-rescue/tree/master/COMPOSITE-SERIES/OXFORD)
 * [READING](https://github.com/ed-hawkins/rainfall-rescue/tree/master/COMPOSITE-SERIES/READING)
 
-95 **rainfall-rescue/POOR-LOCATIONS** locations under [https://github.com/ed-hawkins/rainfall-rescue/tree/master/POOR-LOCATIONS](https://github.com/ed-hawkins/rainfall-rescue/tree/master/POOR-LOCATIONS):
+94 **rainfall-rescue/POOR-LOCATIONS** locations under [https://github.com/ed-hawkins/rainfall-rescue/tree/master/POOR-LOCATIONS](https://github.com/ed-hawkins/rainfall-rescue/tree/master/POOR-LOCATIONS):
 
 * [ABERDEEN](https://github.com/ed-hawkins/rainfall-rescue/tree/master/POOR-LOCATIONS/ABERDEEN)
 * [ABERDOVEY](https://github.com/ed-hawkins/rainfall-rescue/tree/master/POOR-LOCATIONS/ABERDOVEY)
 * [ALSTONE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/POOR-LOCATIONS/ALSTONE)
 * [ARBROATH-BA-REPORT](https://github.com/ed-hawkins/rainfall-rescue/tree/master/POOR-LOCATIONS/ARBROATH-BA-REPORT)
 * [AYLESBURY](https://github.com/ed-hawkins/rainfall-rescue/tree/master/POOR-LOCATIONS/AYLESBURY)
-* [BAMPTON](https://github.com/ed-hawkins/rainfall-rescue/tree/master/POOR-LOCATIONS/BAMPTON)
 * [BATHEASTON-BANNERDOWN-HOUSE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/POOR-LOCATIONS/BATHEASTON-BANNERDOWN-HOUSE)
 * [BEVERLEY](https://github.com/ed-hawkins/rainfall-rescue/tree/master/POOR-LOCATIONS/BEVERLEY)
 * [BIGGLESWADE-LANGFORD](https://github.com/ed-hawkins/rainfall-rescue/tree/master/POOR-LOCATIONS/BIGGLESWADE-LANGFORD)

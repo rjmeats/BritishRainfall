@@ -1,4 +1,4 @@
-Generation time: Tuesday 07/12/2021 17:37:49 GMT
+Generation time: Thursday 09/12/2021 17:12:59 GMT
 
 ## Locations A-D
 
@@ -655,7 +655,6 @@ Generation time: Tuesday 07/12/2021 17:37:49 GMT
 ||BAMFORD-FILTERS-2.csv|SK212830|53.343|-1.683|660|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=53.343&lon=-1.683&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/53.343,-1.683,16)  |
 |[BAMFORD-YORKSHIRE-BRIDGE-WEIR](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/BAMFORD-YORKSHIRE-BRIDGE-WEIR)|BAMFORD-YORKSHIRE-BRIDGE-WEIR.csv|SK198850|53.362|-1.704|560|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=53.362&lon=-1.704&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/53.362,-1.704,16)  |
 ||BAMFORD-YORKSHIRE-BRIDGE-WEIR-2.csv|SK198850|53.362|-1.704|560|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=53.362&lon=-1.704&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/53.362,-1.704,16)  |
-|[BAMPTON](https://github.com/ed-hawkins/rainfall-rescue/tree/master/POOR-LOCATIONS/BAMPTON) [POOR]|||||||
 |[BAMPTON-ATKINSONS-GRAIN](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/BAMPTON-ATKINSONS-GRAIN)|BAMPTON-ATKINSONS-GRAIN.csv|NY456164|54.540|-2.842|2175|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=54.540&lon=-2.842&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/54.540,-2.842,16)  |
 |[BAMPTON-CE-SCHOOL](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/master/DATA/BAMPTON-CE-SCHOOL) [V2]|BAMPTON-CE-SCHOOL.csv|SP312031|51.726|-1.550|233|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=51.726&lon=-1.550&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/51.726,-1.550,16)  |
 |[BAMPTON-HUNTSHAM](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/BAMPTON-HUNTSHAM)|BAMPTON-HUNTSHAM.csv|ST001205|50.975|-3.424|640|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=50.975&lon=-3.424&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/50.975,-3.424,16)  |
