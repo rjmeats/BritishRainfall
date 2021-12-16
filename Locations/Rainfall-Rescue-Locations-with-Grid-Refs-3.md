@@ -1,4 +1,4 @@
-Generation time: Thursday 16/12/2021 08:20:35 GMT
+Generation time: Thursday 16/12/2021 18:43:03 GMT
 
 ## Locations M-R
 
@@ -1950,7 +1950,7 @@ Generation time: Thursday 16/12/2021 08:20:35 GMT
 |[ROCHDALE-FIELDHEAD](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/ROCHDALE-FIELDHEAD)|ROCHDALE-FIELDHEAD.csv|SD899142|53.624|-2.154|473|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=53.624&lon=-2.154&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/53.624,-2.154,16)  |
 ||ROCHDALE-FIELDHEAD-2.csv|SD899142|53.624|-2.154|473|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=53.624&lon=-2.154&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/53.624,-2.154,16)  |
 |[ROCHDALE-HAMER-PASTURE-RES](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/ROCHDALE-HAMER-PASTURE-RES)|ROCHDALE-HAMER-PASTURE-RES.csv|SD897161|53.641|-2.157|760|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=53.641&lon=-2.157&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/53.641,-2.157,16)  |
-|[ROCHDALE-LORD-STREET](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/master/DATA/ROCHDALE-LORD-STREET) [V2]|||||||
+|[ROCHDALE-LORD-STREET](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/master/DATA/ROCHDALE-LORD-STREET) [V2]|ROCHDALE-LORD-STREET.csv|SD885108|53.594|-2.175|475|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=53.594&lon=-2.175&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/53.594,-2.175,16)  |
 |[ROCHDALE-MOSS-COTTAGE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/ROCHDALE-MOSS-COTTAGE)|ROCHDALE-MOSS-COTTAGE.csv|SD903123|53.608|-2.147|470|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=53.608&lon=-2.147&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/53.608,-2.147,16)  |
 ||ROCHDALE-MOSS-COTTAGE-2.csv|SD903123|53.608|-2.147|470|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=53.608&lon=-2.147&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/53.608,-2.147,16)  |
 |[ROCHDALE-NADEN-DEAN](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/ROCHDALE-NADEN-DEAN)|ROCHDALE-NADEN-DEAN.csv|SD856168|53.648|-2.219|948|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=53.648&lon=-2.219&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/53.648,-2.219,16)  |
