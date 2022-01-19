@@ -1,4 +1,4 @@
-Generation time: Saturday 15/01/2022 09:41:59 GMT
+Generation time: Wednesday 19/01/2022 17:11:39 GMT
 
 ## Locations A-C
 
@@ -1634,7 +1634,9 @@ Generation time: Saturday 15/01/2022 09:41:59 GMT
 ||BRIDGNORTH-CANTREYN-3.csv|SO711944|52.547|-2.428|290|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=52.547&lon=-2.428&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/52.547,-2.428,16)  |
 |[BRIDGNORTH-COTON-HALL](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/BRIDGNORTH-COTON-HALL)|BRIDGNORTH-COTON-HALL.csv|SO773863|52.474|-2.336|460|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=52.474&lon=-2.336&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/52.474,-2.336,16)  |
 ||BRIDGNORTH-COTON-HALL-2.csv|SO773863|52.474|-2.336|460|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=52.474&lon=-2.336&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/52.474,-2.336,16)  |
+|[BRIDGNORTH-HOOKFIELD-HOUSE](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/master/DATA/BRIDGNORTH-HOOKFIELD-HOUSE) [V2]|||||||
 |[BRIDGNORTH-MORVILLE-HALL](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/BRIDGNORTH-MORVILLE-HALL)|BRIDGNORTH-MORVILLE-HALL.csv|SO668940|52.543|-2.491|320|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=52.543&lon=-2.491&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/52.543,-2.491,16)  |
+|[BRIDGNORTH-SILVERDALE](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/master/DATA/BRIDGNORTH-SILVERDALE) [V2]|||||||
 |[BRIDGNORTH-STANMORE-HALL](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/BRIDGNORTH-STANMORE-HALL)|BRIDGNORTH-STANMORE-HALL.csv|SO742922|52.527|-2.382|296|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=52.527&lon=-2.382&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/52.527,-2.382,16)  |
 |[BRIDGWATER-ENMORE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/BRIDGWATER-ENMORE)|BRIDGWATER-ENMORE.csv|ST242351|51.110|-3.084|200|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=51.110&lon=-3.084&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/51.110,-3.084,16)  |
 ||BRIDGWATER-ENMORE-2.csv|ST242351|51.110|-3.084|200|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=51.110&lon=-3.084&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/51.110,-3.084,16)  |
@@ -1744,6 +1746,7 @@ Generation time: Saturday 15/01/2022 09:41:59 GMT
 ||BROCKLESBY-PARK-2.csv|TA140113|53.586|-0.279|108|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=53.586&lon=-0.279&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/53.586,-0.279,16)  |
 |[BROCKWORTH-THE-KIA](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/master/DATA/BROCKWORTH-THE-KIA) [V2]|BROCKWORTH-THE-KIA.csv|SO894161|51.843|-2.155|220|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=51.843&lon=-2.155&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/51.843,-2.155,16)  |
 |[BROMFIELD-OAKLY-PARK](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/BROMFIELD-OAKLY-PARK)|BROMFIELD-OAKLY-PARK.csv|SO491762|52.381|-2.749|300|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=52.381&lon=-2.749&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/52.381,-2.749,16)  |
+|[BROMFIELD-PRIOR-MALTON](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/master/DATA/BROMFIELD-PRIOR-MALTON) [V2]|||||||
 |[BROMLEY-BISHOPS-AVENUE](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/master/DATA/BROMLEY-BISHOPS-AVENUE) [V2]|BROMLEY-BISHOPS-AVENUE.csv|TQ411690|51.402|0.027|190|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=51.402&lon=0.027&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/51.402,0.027,16)  |
 |[BROMLEY-COMMON](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/BROMLEY-COMMON)|BROMLEY-COMMON.csv|TQ422659|51.375|0.042|250|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=51.375&lon=0.042&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/51.375,0.042,16)  |
 ||BROMLEY-COMMON-2.csv|TQ417674|51.388|0.035|240|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=51.388&lon=0.035&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/51.388,0.035,16)  |
@@ -2621,6 +2624,7 @@ Generation time: Saturday 15/01/2022 09:41:59 GMT
 ||CHURCH-STRETTON-PREEN-MANOR-2.csv|SO541982|52.580|-2.679|760|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=52.580&lon=-2.679&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/52.580,-2.679,16)  |
 ||CHURCH-STRETTON-PREEN-MANOR-3.csv|SO541982|52.580|-2.679|750|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=52.580&lon=-2.679&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/52.580,-2.679,16)  |
 |[CHURCH-STRETTON-SEWAGE-WORKS](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/CHURCH-STRETTON-SEWAGE-WORKS)|CHURCH-STRETTON-SEWAGE-WORKS.csv|SO438909|52.513|-2.830|582|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=52.513&lon=-2.830&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/52.513,-2.830,16)  |
+|[CHURCH-STRETTON-ST-MARGARETS](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/master/DATA/CHURCH-STRETTON-ST-MARGARETS) [V2]|||||||
 |[CHURCH-STRETTON-WOOLSTASTON](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/CHURCH-STRETTON-WOOLSTASTON)|CHURCH-STRETTON-WOOLSTASTON.csv|SO452984|52.581|-2.810|800|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=52.581&lon=-2.810&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/52.581,-2.810,16)  |
 ||CHURCH-STRETTON-WOOLSTASTON-2.csv|SO455984|52.581|-2.805|745|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=52.581&lon=-2.805&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/52.581,-2.805,16)  |
 |[CHURCHSTOKE-MELLINGTON-HALL](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/CHURCHSTOKE-MELLINGTON-HALL)|CHURCHSTOKE-MELLINGTON-HALL.csv|SO258918|52.519|-3.095|540|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=52.519&lon=-3.095&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/52.519,-3.095,16)  |

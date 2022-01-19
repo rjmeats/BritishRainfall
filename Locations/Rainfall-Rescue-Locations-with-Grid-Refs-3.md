@@ -1,4 +1,4 @@
-Generation time: Saturday 15/01/2022 09:41:59 GMT
+Generation time: Wednesday 19/01/2022 17:11:39 GMT
 
 ## Locations J-P
 
@@ -1335,6 +1335,8 @@ Generation time: Saturday 15/01/2022 09:41:59 GMT
 |[LUDLOW-OBS-MARSTON](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/LUDLOW-OBS-MARSTON)|LUDLOW-OBS-MARSTON.csv|SO514751|52.372|-2.715|350|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=52.372&lon=-2.715&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/52.372,-2.715,16)  |
 ||LUDLOW-OBS-MARSTON-2.csv|SO508745|52.366|-2.724|270|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=52.366&lon=-2.724&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/52.366,-2.724,16)  |
 ||LUDLOW-OBS-MARSTON-3.csv|SO515753|52.374|-2.714|400|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=52.374&lon=-2.714&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/52.374,-2.714,16)  |
+|[LUDLOW-SPRING-FIELD](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/master/DATA/LUDLOW-SPRING-FIELD) [V2]|||||||
+|[LUDLOW-THE-SHEET](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/master/DATA/LUDLOW-THE-SHEET) [V2]|||||||
 |[LUMLEY-MOOR-RES](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/master/DATA/LUMLEY-MOOR-RES) [V2]|LUMLEY-MOOR-RES.csv|SE224706|54.131|-1.659|565|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=54.131&lon=-1.659&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/54.131,-1.659,16)  |
 |[LUMPHANAN](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/LUMPHANAN)|LUMPHANAN.csv|NJ578037|57.122|-2.699|476|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=57.122&lon=-2.699&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/57.122,-2.699,16)  |
 ||LUMPHANAN-2.csv|NJ575036|57.121|-2.704|473|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=57.121&lon=-2.704&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/57.121,-2.704,16)  |
@@ -2122,6 +2124,7 @@ Generation time: Saturday 15/01/2022 09:41:59 GMT
 |[NEW-HOLLAND-RAILWAY-STATION](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/NEW-HOLLAND-RAILWAY-STATION)|NEW-HOLLAND-RAILWAY-STATION.csv|TA081242|53.703|-0.364|18|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=53.703&lon=-0.364&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/53.703,-0.364,16)  |
 |[NEW-KILPATRICK-CHESTERS](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/NEW-KILPATRICK-CHESTERS)|NEW-KILPATRICK-CHESTERS.csv|NS5347571996|55.919|-4.346|240|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=55.919&lon=-4.346&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/55.919,-4.346,16)  |
 ||NEW-KILPATRICK-CHESTERS-2.csv|NS5347571996|55.919|-4.346|240|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=55.919&lon=-4.346&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/55.919,-4.346,16)  |
+|[NEW-LUCE-PUBLIC-SCHOOL](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/master/DATA/NEW-LUCE-PUBLIC-SCHOOL) [V2]|||||||
 |[NEW-MALDEN-SEWAGE-WORKS](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/NEW-MALDEN-SEWAGE-WORKS)|NEW-MALDEN-SEWAGE-WORKS.csv|TQ197685|51.403|-0.281|51|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=51.403&lon=-0.281&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/51.403,-0.281,16)  |
 |[NEW-MILTON-MANOR-ROAD](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/master/DATA/NEW-MILTON-MANOR-ROAD) [V2]|NEW-MILTON-MANOR-ROAD.csv|SZ244949|50.754|-1.654|105|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=50.754&lon=-1.654&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/50.754,-1.654,16)  |
 ||NEW-MILTON-MANOR-ROAD-2.csv|SZ245953|50.757|-1.653|140|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=50.757&lon=-1.653&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/50.757,-1.653,16)  |
@@ -2227,6 +2230,7 @@ Generation time: Saturday 15/01/2022 09:41:59 GMT
 ||NEWTON-ABBOT-SEALE-HAYNE-3.csv|SX828729|50.545|-3.655|270|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=50.545&lon=-3.655&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/50.545,-3.655,16)  |
 |[NEWTON-FERRERS](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/NEWTON-FERRERS)|NEWTON-FERRERS.csv|SX567480|50.315|-4.013|180|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=50.315&lon=-4.013&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/50.315,-4.013,16)  |
 |[NEWTON-LINFORD](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/master/DATA/NEWTON-LINFORD) [V2]|NEWTON-LINFORD.csv|SK530095|52.681|-1.217|388|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=52.681&lon=-1.217&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/52.681,-1.217,16)  |
+|[NEWTON-STEWART-CORSBIE](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/master/DATA/NEWTON-STEWART-CORSBIE) [V2]|||||||
 |[NEWTON-STEWART-DUNCREE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/NEWTON-STEWART-DUNCREE)|NEWTON-STEWART-DUNCREE.csv|NX407664|54.967|-4.490|125|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=54.967&lon=-4.490&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/54.967,-4.490,16)  |
 |[NEWTON-STEWART-LITTLE-BARRAER](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/NEWTON-STEWART-LITTLE-BARRAER)|NEWTON-STEWART-LITTLE-BARRAER.csv|NX381619|54.925|-4.528|180|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=54.925&lon=-4.528&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/54.925,-4.528,16)  |
 |[NEWTON-VALENCE-PLACE](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/master/DATA/NEWTON-VALENCE-PLACE) [V2]|NEWTON-VALENCE-PLACE.csv|SU722331|51.093|-0.970|615|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=51.093&lon=-0.970&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/51.093,-0.970,16)  |
@@ -2684,6 +2688,7 @@ Generation time: Saturday 15/01/2022 09:41:59 GMT
 |[PATTERDALE-GREENSIDE-MINES](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/PATTERDALE-GREENSIDE-MINES)|PATTERDALE-GREENSIDE-MINES.csv|NY364174|54.548|-2.985|1000|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=54.548&lon=-2.985&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/54.548,-2.985,16)  |
 ||PATTERDALE-GREENSIDE-MINES-HIGH.csv|NY366179|54.553|-2.981|2000|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=54.553&lon=-2.981&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/54.553,-2.981,16)  |
 |[PATTERDALE-HALL](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/PATTERDALE-HALL)|PATTERDALE-HALL.csv|NY389162|54.538|-2.946|490|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=54.538&lon=-2.946&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/54.538,-2.946,16)  |
+|[PATTINGHAM-KINGSLOW-HALL](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/master/DATA/PATTINGHAM-KINGSLOW-HALL) [V2]|||||||
 |[PAXTON-TWEEDHILL](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/PAXTON-TWEEDHILL)|PAXTON-TWEEDHILL.csv|NT929513|55.755|-2.115|50|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=55.755&lon=-2.115&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/55.755,-2.115,16)  |
 |[PEASEMORE-HOUSE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/PEASEMORE-HOUSE)|PEASEMORE-HOUSE.csv|SU461770|51.490|-1.337|490|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=51.490&lon=-1.337&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/51.490,-1.337,16)  |
 |[PEASLAKE-HEATHFOLD](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/master/DATA/PEASLAKE-HEATHFOLD) [V2]|PEASLAKE-HEATHFOLD.csv|TQ090449|51.193|-0.441|420|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=51.193&lon=-0.441&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/51.193,-0.441,16)  |
