@@ -1,4 +1,4 @@
-Generation time: Monday 07/02/2022 22:08:16 GMT
+Generation time: Tuesday 08/02/2022 22:41:31 GMT
 
 ## Locations Q-Z
 
@@ -38,6 +38,8 @@ Generation time: Monday 07/02/2022 22:08:16 GMT
 |[RAMSBOTTOM-KILLGATE-BROOK](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/RAMSBOTTOM-KILLGATE-BROOK)|RAMSBOTTOM-KILLGATE-BROOK.csv|SD830163|53.643|-2.259|978|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=53.643&lon=-2.259&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/53.643,-2.259,16)  |
 |[RAMSBURY-THE-ROOKERY](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/master/DATA/RAMSBURY-THE-ROOKERY) [V2]|RAMSBURY-THE-ROOKERY.csv|SU273717|51.444|-1.609|390|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=51.444&lon=-1.609&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/51.444,-1.609,16)  |
 ||RAMSBURY-THE-ROOKERY-2.csv|SU270715|51.442|-1.613|398|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=51.442&lon=-1.613&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/51.442,-1.613,16)  |
+|[RAMSEY-BALLURE-RES](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/master/DATA/RAMSEY-BALLURE-RES) [V2]|||||||
+|[RAMSEY-GRAMMAR-SCHOOL](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/master/DATA/RAMSEY-GRAMMAR-SCHOOL) [V2]|||||||
 |[RAMSEY-TOWN-HALL](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/RAMSEY-TOWN-HALL)|RAMSEY-TOWN-HALL.csv|SC449945|54.322|-4.386|30|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=54.322&lon=-4.386&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/54.322,-4.386,16) [OSM](https://www.openstreetmap.org/#map=16/54.322/-4.386) [GGL](https://www.google.co.uk/maps/@54.322,-4.386,16z)|
 |[RAMSGATE-ARCHER-HOUSE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/RAMSGATE-ARCHER-HOUSE)|RAMSGATE-ARCHER-HOUSE.csv|TR386652|51.336|1.424|75|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=51.336&lon=1.424&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/51.336,1.424,16)  |
 |[RAMSGATE-SOUTHWOOD-WW](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/RAMSGATE-SOUTHWOOD-WW)|RAMSGATE-SOUTHWOOD-WW.csv|TR376643|51.329|1.410|98|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=51.329&lon=1.410&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/51.329,1.410,16)  |
@@ -657,6 +659,7 @@ Generation time: Monday 07/02/2022 22:08:16 GMT
 |[SEDLESCOMBE-RECTORY](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/master/DATA/SEDLESCOMBE-RECTORY) [V2]|||||||
 |[SEEND-CLEEVE-HOUSE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/SEEND-CLEEVE-HOUSE)|SEEND-CLEEVE-HOUSE.csv|ST936606|51.344|-2.093|200|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=51.344&lon=-2.093&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/51.344,-2.093,16)  |
 |[SEEND-FERRUM-TOWERS](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/master/DATA/SEEND-FERRUM-TOWERS) [V2]|SEEND-FERRUM-TOWERS.csv|ST933611|51.349|-2.098|200|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=51.349&lon=-2.098&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/51.349,-2.098,16)  |
+|[SEIL-AN-CALA](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/master/DATA/SEIL-AN-CALA) [V2]|||||||
 |[SELATYN](https://github.com/ed-hawkins/rainfall-rescue/tree/master/POOR-LOCATIONS/SELATYN) [POOR]|||||||
 |[SELBORNE-THE-WAKES](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/SELBORNE-THE-WAKES)|SELBORNE-THE-WAKES.csv|SU740336|51.097|-0.944|400|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=51.097&lon=-0.944&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/51.097,-0.944,16)  |
 ||SELBORNE-THE-WAKES-2.csv|SU740336|51.097|-0.944|400|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=51.097&lon=-0.944&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/51.097,-0.944,16)  |
@@ -2742,6 +2745,7 @@ Generation time: Monday 07/02/2022 22:08:16 GMT
 |[WEST-LINTON-CENTRAL-SCHOOL](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/WEST-LINTON-CENTRAL-SCHOOL)|WEST-LINTON-CENTRAL-SCHOOL.csv|NT150520|55.754|-3.356|800|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=55.754&lon=-3.356&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/55.754,-3.356,16)  |
 |[WEST-LINTON-RUTHERFORD-HOUSE](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/master/DATA/WEST-LINTON-RUTHERFORD-HOUSE) [V2]|WEST-LINTON-RUTHERFORD-HOUSE.csv|NT159544|55.776|-3.342|970|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=55.776&lon=-3.342&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/55.776,-3.342,16)  |
 |[WEST-LINTON-WOODLEA-COTTAGE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/WEST-LINTON-WOODLEA-COTTAGE)|WEST-LINTON-WOODLEA-COTTAGE.csv|NT159507|55.742|-3.341|801|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=55.742&lon=-3.341&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/55.742,-3.341,16)  |
+|[WEST-LOCH-TARBERT-ARDPATRICK](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/master/DATA/WEST-LOCH-TARBERT-ARDPATRICK) [V2]|||||||
 |[WEST-LULWORTH-VICARAGE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/WEST-LULWORTH-VICARAGE)|WEST-LULWORTH-VICARAGE.csv|SY824807|50.626|-2.250|128|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=50.626&lon=-2.250&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/50.626,-2.250,16)  |
 |[WEST-MALLING-ST-LEONARDS](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/master/DATA/WEST-MALLING-ST-LEONARDS) [V2]|WEST-MALLING-ST-LEONARDS.csv|TQ677573|51.290|0.404|166|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=51.290&lon=0.404&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/51.290,0.404,16)  |
 |[WEST-MEON-PUMPING-STATION](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/master/DATA/WEST-MEON-PUMPING-STATION) [V2]|||||||
