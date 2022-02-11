@@ -1,4 +1,4 @@
-Generation time: Thursday 10/02/2022 23:48:02 GMT
+Generation time: Friday 11/02/2022 00:03:48 GMT
 
 6093 **rainfall-rescue/DATA** locations under [https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA):
 
@@ -6096,7 +6096,7 @@ Generation time: Thursday 10/02/2022 23:48:02 GMT
 * [YSTRADGYNLAIS-YNISCEDWYN-HO](https://tinyurl.com/ycyh86uz/YSTRADGYNLAIS-YNISCEDWYN-HO) : 9 weeks ago : 2021-12-07 12:27:36 +0000 
 * [YSTRADYFODWG-FYNTYLA-HOSPITAL](https://tinyurl.com/ycyh86uz/YSTRADYFODWG-FYNTYLA-HOSPITAL) : 9 weeks ago : 2021-12-07 12:27:36 +0000 
 
-3963 **rainfall-rescue-data-v2/DATA** locations under [https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/master/DATA](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/master/DATA):
+3962 **rainfall-rescue-data-v2/DATA** locations under [https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/master/DATA](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/master/DATA):
 
 * [ABERGAVENNY-LINDA-VISTA](https://tinyurl.com/3xfyv3yv/ABERGAVENNY-LINDA-VISTA) : 2 hours ago : 2022-02-10 20:51:22 +0000 
 * [ABERGAVENNY-MANSFIELD](https://tinyurl.com/3xfyv3yv/ABERGAVENNY-MANSFIELD) : 2 hours ago : 2022-02-10 20:51:22 +0000 
@@ -6630,10 +6630,8 @@ Generation time: Thursday 10/02/2022 23:48:02 GMT
 * [NORTH-SHIELDS-WHITLEY-VICARAGE](https://tinyurl.com/3xfyv3yv/NORTH-SHIELDS-WHITLEY-VICARAGE) : 8 days ago : 2022-02-02 23:52:02 +0000 
 * [NORTH-SUNDERLAND-CHATHILL](https://tinyurl.com/3xfyv3yv/NORTH-SUNDERLAND-CHATHILL) : 8 days ago : 2022-02-02 23:52:02 +0000 
 * [OAKINGTON](https://tinyurl.com/3xfyv3yv/OAKINGTON) : 8 days ago : 2022-02-02 23:52:02 +0000 
-* [RAMSHOPE](https://tinyurl.com/3xfyv3yv/RAMSHOPE) : 8 days ago : 2022-02-02 23:52:02 +0000 
 * [REDEWATER-ELLIS-CRAG](https://tinyurl.com/3xfyv3yv/REDEWATER-ELLIS-CRAG) : 8 days ago : 2022-02-02 23:52:02 +0000 
 * [REDEWATER-RAMSHOPE](https://tinyurl.com/3xfyv3yv/REDEWATER-RAMSHOPE) : 8 days ago : 2022-02-02 23:52:02 +0000 
-* [ROTHBURY-WHITE-TOWER](https://tinyurl.com/3xfyv3yv/ROTHBURY-WHITE-TOWER) : 8 days ago : 2022-02-02 23:52:02 +0000 
 * [SCOTS-GAP-ROTHLEY-LAKE](https://tinyurl.com/3xfyv3yv/SCOTS-GAP-ROTHLEY-LAKE) : 8 days ago : 2022-02-02 23:52:02 +0000 
 * [SOHAM](https://tinyurl.com/3xfyv3yv/SOHAM) : 8 days ago : 2022-02-02 23:52:02 +0000 
 * [STRETHAM-DIMMOCKS-COTE](https://tinyurl.com/3xfyv3yv/STRETHAM-DIMMOCKS-COTE) : 8 days ago : 2022-02-02 23:52:02 +0000 
@@ -10061,6 +10059,7 @@ Generation time: Thursday 10/02/2022 23:48:02 GMT
 * [TWYFORD-BEENHAMS-HEATH](https://tinyurl.com/3xfyv3yv/TWYFORD-BEENHAMS-HEATH) : 6 months ago : 2021-07-31 22:28:08 +0100 
 * [WICKFORD-DOLLYMANS-FARM](https://tinyurl.com/3xfyv3yv/WICKFORD-DOLLYMANS-FARM) : 6 months ago : 2021-07-31 22:28:08 +0100 
 * [WOKINGHAM-SINDLESHAM-HOUSE](https://tinyurl.com/3xfyv3yv/WOKINGHAM-SINDLESHAM-HOUSE) : 6 months ago : 2021-07-31 22:28:08 +0100 
+* [ROTHBURY-WHITTON-TOWER](https://tinyurl.com/3xfyv3yv/ROTHBURY-WHITTON-TOWER) :  :  
 
 4 **rainfall-rescue/COMPOSITE-SERIES** locations under [https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/master/DATA](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/master/DATA):
 

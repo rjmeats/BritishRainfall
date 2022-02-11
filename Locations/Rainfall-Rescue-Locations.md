@@ -1,4 +1,4 @@
-Generation time: Thursday 10/02/2022 23:48:02 GMT
+Generation time: Friday 11/02/2022 00:03:48 GMT
 
 
 [MO-2020] indicates a location which contributed to the [Met Office 2020 UK Climate Report](https://www.metoffice.gov.uk/research/climate/maps-and-data/about/state-of-climate):
@@ -6099,7 +6099,7 @@ Generation time: Thursday 10/02/2022 23:48:02 GMT
 * [YSTRADGYNLAIS-YNISCEDWYN-HO](https://tinyurl.com/ycyh86uz/YSTRADGYNLAIS-YNISCEDWYN-HO)
 * [YSTRADYFODWG-FYNTYLA-HOSPITAL](https://tinyurl.com/ycyh86uz/YSTRADYFODWG-FYNTYLA-HOSPITAL)
 
-3963 **rainfall-rescue-data-v2/DATA** locations under [https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/master/DATA](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/master/DATA):
+3962 **rainfall-rescue-data-v2/DATA** locations under [https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/master/DATA](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/master/DATA):
 
 * [ABBERLEY](https://tinyurl.com/3xfyv3yv/ABBERLEY)
 * [ABBEY-ST-BATHANS-SCHOOL](https://tinyurl.com/3xfyv3yv/ABBEY-ST-BATHANS-SCHOOL)
@@ -9104,7 +9104,6 @@ Generation time: Thursday 10/02/2022 23:48:02 GMT
 * [RAMSBURY-THE-ROOKERY](https://tinyurl.com/3xfyv3yv/RAMSBURY-THE-ROOKERY)
 * [RAMSEY-BALLURE-RES](https://tinyurl.com/3xfyv3yv/RAMSEY-BALLURE-RES)
 * [RAMSEY-GRAMMAR-SCHOOL](https://tinyurl.com/3xfyv3yv/RAMSEY-GRAMMAR-SCHOOL)
-* [RAMSHOPE](https://tinyurl.com/3xfyv3yv/RAMSHOPE)
 * [RANDALSTOWN](https://tinyurl.com/3xfyv3yv/RANDALSTOWN)
 * [RATCLIFFE-ON-WREAKE-COLLEGE](https://tinyurl.com/3xfyv3yv/RATCLIFFE-ON-WREAKE-COLLEGE)
 * [RAUNDS-MADISON](https://tinyurl.com/3xfyv3yv/RAUNDS-MADISON)
@@ -9188,7 +9187,7 @@ Generation time: Thursday 10/02/2022 23:48:02 GMT
 * [ROSS-ON-WYE](https://tinyurl.com/3xfyv3yv/ROSS-ON-WYE)
 * [ROSSINGTON-MAIN-COLLIERY](https://tinyurl.com/3xfyv3yv/ROSSINGTON-MAIN-COLLIERY)
 * [ROTHBURY-CEMETERY](https://tinyurl.com/3xfyv3yv/ROTHBURY-CEMETERY)
-* [ROTHBURY-WHITE-TOWER](https://tinyurl.com/3xfyv3yv/ROTHBURY-WHITE-TOWER)
+* [ROTHBURY-WHITTON-TOWER](https://tinyurl.com/3xfyv3yv/ROTHBURY-WHITTON-TOWER)
 * [ROTHERFIELD-HORSEGROVE-FARM](https://tinyurl.com/3xfyv3yv/ROTHERFIELD-HORSEGROVE-FARM)
 * [ROTHERHAM-BROOM-LANE](https://tinyurl.com/3xfyv3yv/ROTHERHAM-BROOM-LANE)
 * [ROTHERHAM-DINNINGTON](https://tinyurl.com/3xfyv3yv/ROTHERHAM-DINNINGTON)
