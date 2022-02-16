@@ -1,4 +1,4 @@
-Generation time: Tuesday 15/02/2022 16:34:00 GMT
+Generation time: Wednesday 16/02/2022 08:26:20 GMT
 
 ## Locations Q-Z
 
@@ -887,6 +887,7 @@ Generation time: Tuesday 15/02/2022 16:34:00 GMT
 |[SIDBURY-MANOR-HOUSE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/SIDBURY-MANOR-HOUSE)|SIDBURY-MANOR-HOUSE.csv|SY134926|50.726|-3.227|350|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=50.726&lon=-3.227&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/50.726,-3.227,16)  |
 |[SIDCOT-IN-WINSCOMB](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/SIDCOT-IN-WINSCOMB)|SIDCOT-IN-WINSCOMB.csv|ST428573|51.312|-2.822|250|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=51.312&lon=-2.822&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/51.312,-2.822,16)  |
 |[SIDCUP-FOOTS-CRAY](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/SIDCUP-FOOTS-CRAY)|SIDCUP-FOOTS-CRAY.csv|TQ461713|51.422|0.100|231|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=51.422&lon=0.100&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/51.422,0.100,16)  |
+|[SIDDINGTON-CAPESTHORNE-HALL](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/master/DATA/SIDDINGTON-CAPESTHORNE-HALL) [V2]|||||||
 |[SIDDINGTON-THORNYCROFT-HALL](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/SIDDINGTON-THORNYCROFT-HALL)|SIDDINGTON-THORNYCROFT-HALL.csv|SJ864710|53.236|-2.205|377|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=53.236&lon=-2.205&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/53.236,-2.205,16)  |
 |[SIDMOUTH-LORETTO](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/master/DATA/SIDMOUTH-LORETTO) [V2]|||||||
 |[SIDMOUTH-MIX](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/SIDMOUTH-MIX)|SIDMOUTH-MIX.csv|SY124874|50.680|-3.241|32|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=50.680&lon=-3.241&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/50.680,-3.241,16)  |
@@ -1468,6 +1469,7 @@ Generation time: Tuesday 15/02/2022 16:34:00 GMT
 ||STOCKLAND-4.csv|ST246046|50.836|-3.071|300|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=50.836&lon=-3.071&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/50.836,-3.071,16)  |
 |[STOCKLAND-BRISTOL-MANOR-HOUSE](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/master/DATA/STOCKLAND-BRISTOL-MANOR-HOUSE) [V2]|STOCKLAND-BRISTOL-MANOR-HOUSE.csv|ST239433|51.184|-3.090|65|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=51.184&lon=-3.090&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/51.184,-3.090,16)  |
 |[STOCKPORT-BREDBURY-SEWAGE-WORKS](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/master/DATA/STOCKPORT-BREDBURY-SEWAGE-WORKS) [V2]|||||||
+|[STOCKPORT-CORBIN](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/master/DATA/STOCKPORT-CORBIN) [V2]|||||||
 |[STOCKPORT-HEATON-MOOR](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/STOCKPORT-HEATON-MOOR)|STOCKPORT-HEATON-MOOR.csv|SJ878918|53.423|-2.185|236|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=53.423&lon=-2.185&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/53.423,-2.185,16)  |
 ||STOCKPORT-HEATON-MOOR-2.csv|SJ878918|53.423|-2.185|235|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=53.423&lon=-2.185&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/53.423,-2.185,16)  |
 ||STOCKPORT-HEATON-MOOR-3.csv|SJ878918|53.423|-2.185|235|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=53.423&lon=-2.185&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/53.423,-2.185,16)  |
