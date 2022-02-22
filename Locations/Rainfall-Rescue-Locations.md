@@ -1,4 +1,4 @@
-Generation time: Tuesday 22/02/2022 00:32:00 GMT
+Generation time: Tuesday 22/02/2022 20:16:50 GMT
 
 
 [MO-2020] indicates a location which contributed to the [Met Office 2020 UK Climate Report](https://www.metoffice.gov.uk/research/climate/maps-and-data/about/state-of-climate):
@@ -6099,7 +6099,7 @@ Generation time: Tuesday 22/02/2022 00:32:00 GMT
 * [YSTRADGYNLAIS-YNISCEDWYN-HO](https://tinyurl.com/ycyh86uz/YSTRADGYNLAIS-YNISCEDWYN-HO)
 * [YSTRADYFODWG-FYNTYLA-HOSPITAL](https://tinyurl.com/ycyh86uz/YSTRADYFODWG-FYNTYLA-HOSPITAL)
 
-224 **rainfall-rescue-data-eire/DATA** locations under [https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA):
+220 **rainfall-rescue-data-eire/DATA** locations under [https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA):
 
 * [AASLEAGH-HOUSE](https://github.com/ed-hawkins/rainfall-rescue-data-eire/tree/master/DATA/AASLEAGH-HOUSE)
 * [ABBEYFEALE-SPRINGMOUNT](https://github.com/ed-hawkins/rainfall-rescue-data-eire/tree/master/DATA/ABBEYFEALE-SPRINGMOUNT)
@@ -6209,7 +6209,6 @@ Generation time: Tuesday 22/02/2022 00:32:00 GMT
 * [FOYNES-NATIONAL-SCHOOL](https://github.com/ed-hawkins/rainfall-rescue-data-eire/tree/master/DATA/FOYNES-NATIONAL-SCHOOL)
 * [FRENCH-PARK](https://github.com/ed-hawkins/rainfall-rescue-data-eire/tree/master/DATA/FRENCH-PARK)
 * [GARINISH-ISLAND](https://github.com/ed-hawkins/rainfall-rescue-data-eire/tree/master/DATA/GARINISH-ISLAND)
-* [GARVAGH-WOODBANK-HOUSE](https://github.com/ed-hawkins/rainfall-rescue-data-eire/tree/master/DATA/GARVAGH-WOODBANK-HOUSE)
 * [GLANMIRE-LOTA-LODGE](https://github.com/ed-hawkins/rainfall-rescue-data-eire/tree/master/DATA/GLANMIRE-LOTA-LODGE)
 * [GLEN-NA-SMOEL-WW](https://github.com/ed-hawkins/rainfall-rescue-data-eire/tree/master/DATA/GLEN-NA-SMOEL-WW)
 * [GLENVILLE-WATERFORD](https://github.com/ed-hawkins/rainfall-rescue-data-eire/tree/master/DATA/GLENVILLE-WATERFORD)
@@ -6245,7 +6244,6 @@ Generation time: Tuesday 22/02/2022 00:32:00 GMT
 * [LAHINCH-MOY-HOUSE](https://github.com/ed-hawkins/rainfall-rescue-data-eire/tree/master/DATA/LAHINCH-MOY-HOUSE)
 * [LARAGH-GLENDALOUGH](https://github.com/ed-hawkins/rainfall-rescue-data-eire/tree/master/DATA/LARAGH-GLENDALOUGH)
 * [LETTERKENNY-DISTRICT-ASYLUM](https://github.com/ed-hawkins/rainfall-rescue-data-eire/tree/master/DATA/LETTERKENNY-DISTRICT-ASYLUM)
-* [LIMAVADY-CULMORE-HOUSE](https://github.com/ed-hawkins/rainfall-rescue-data-eire/tree/master/DATA/LIMAVADY-CULMORE-HOUSE)
 * [LIMERICK-CORBALLY](https://github.com/ed-hawkins/rainfall-rescue-data-eire/tree/master/DATA/LIMERICK-CORBALLY)
 * [LIMERICK-DERRAVOHER](https://github.com/ed-hawkins/rainfall-rescue-data-eire/tree/master/DATA/LIMERICK-DERRAVOHER)
 * [LIMERICK-MULGRAVE-STREET](https://github.com/ed-hawkins/rainfall-rescue-data-eire/tree/master/DATA/LIMERICK-MULGRAVE-STREET)
@@ -6290,7 +6288,6 @@ Generation time: Tuesday 22/02/2022 00:32:00 GMT
 * [RATHNEW-CLONMANNON](https://github.com/ed-hawkins/rainfall-rescue-data-eire/tree/master/DATA/RATHNEW-CLONMANNON)
 * [RATHOWEN-CROMLYN](https://github.com/ed-hawkins/rainfall-rescue-data-eire/tree/master/DATA/RATHOWEN-CROMLYN)
 * [RECESS-HOTEL](https://github.com/ed-hawkins/rainfall-rescue-data-eire/tree/master/DATA/RECESS-HOTEL)
-* [ROCKENHAM-WATERFORD](https://github.com/ed-hawkins/rainfall-rescue-data-eire/tree/master/DATA/ROCKENHAM-WATERFORD)
 * [ROSCREA-TIMONEY-PARK](https://github.com/ed-hawkins/rainfall-rescue-data-eire/tree/master/DATA/ROSCREA-TIMONEY-PARK)
 * [ROUNDWOOD-VALVE-TOWER](https://github.com/ed-hawkins/rainfall-rescue-data-eire/tree/master/DATA/ROUNDWOOD-VALVE-TOWER)
 * [SHANAGARRY-KINOITH](https://github.com/ed-hawkins/rainfall-rescue-data-eire/tree/master/DATA/SHANAGARRY-KINOITH)
@@ -6307,7 +6304,6 @@ Generation time: Tuesday 22/02/2022 00:32:00 GMT
 * [TERRYGLASS-SLEVOYRE](https://github.com/ed-hawkins/rainfall-rescue-data-eire/tree/master/DATA/TERRYGLASS-SLEVOYRE)
 * [THOMASTOWN-BALLYDUFF](https://github.com/ed-hawkins/rainfall-rescue-data-eire/tree/master/DATA/THOMASTOWN-BALLYDUFF)
 * [TULLOW-HARDYMOUNT](https://github.com/ed-hawkins/rainfall-rescue-data-eire/tree/master/DATA/TULLOW-HARDYMOUNT)
-* [WARRENPOINT-THE-MANOR-HOUSE](https://github.com/ed-hawkins/rainfall-rescue-data-eire/tree/master/DATA/WARRENPOINT-THE-MANOR-HOUSE)
 * [WATERFORD-COVE-LODGE](https://github.com/ed-hawkins/rainfall-rescue-data-eire/tree/master/DATA/WATERFORD-COVE-LODGE)
 * [WATERFORD-DE-LA-SALLE-COLLEGE](https://github.com/ed-hawkins/rainfall-rescue-data-eire/tree/master/DATA/WATERFORD-DE-LA-SALLE-COLLEGE)
 * [WATERFORD-GAS-WORKS](https://github.com/ed-hawkins/rainfall-rescue-data-eire/tree/master/DATA/WATERFORD-GAS-WORKS)

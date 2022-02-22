@@ -1,4 +1,4 @@
-Generation time: Tuesday 22/02/2022 00:32:00 GMT
+Generation time: Tuesday 22/02/2022 20:16:50 GMT
 
 ## Locations Q-Z
 
@@ -350,7 +350,6 @@ Generation time: Tuesday 22/02/2022 00:32:00 GMT
 |[ROCK-FERRY](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/master/DATA/ROCK-FERRY) [V2]|||||||
 |[ROCKBEARE-MANOR](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/ROCKBEARE-MANOR)|ROCKBEARE-MANOR.csv|SY031939|50.737|-3.374|180|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=50.737&lon=-3.374&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/50.737,-3.374,16)  |
 |[ROCKCORRY](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/ROCKCORRY)|ROCKCORRY.csv|IH6442319159|54.118|-7.015|290|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=54.118&lon=-7.015&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/54.118,-7.015,16) [OSM](https://www.openstreetmap.org/#map=16/54.118/-7.015) [GGL](https://www.google.co.uk/maps/@54.118,-7.015,16z)|
-|[ROCKENHAM-WATERFORD](https://github.com/ed-hawkins/rainfall-rescue-data-eire/tree/master/DATA/ROCKENHAM-WATERFORD) [EIRE]|||||||
 |[ROCKINGHAM-CASTLE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/ROCKINGHAM-CASTLE)|ROCKINGHAM-CASTLE.csv|SP864913|52.514|-0.727|300|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=52.514&lon=-0.727&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/52.514,-0.727,16)  |
 |[RODDAM-HALL-ALNWICK](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/RODDAM-HALL-ALNWICK)|RODDAM-HALL-ALNWICK.csv|NU025204|55.478|-1.962|545|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=55.478&lon=-1.962&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/55.478,-1.962,16)  |
 |[RODDLESWORTH](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/master/DATA/RODDLESWORTH) [V2]|RODDLESWORTH.csv|SD655216|53.690|-2.524|725|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=53.690&lon=-2.524&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/53.690,-2.524,16)  |
@@ -2652,7 +2651,6 @@ Generation time: Tuesday 22/02/2022 00:32:00 GMT
 |[WARRENPOINT-SUMMER-HILL](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/WARRENPOINT-SUMMER-HILL)|WARRENPOINT-SUMMER-HILL.csv|IJ1452718393|54.102|-6.250|30|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=54.102&lon=-6.250&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/54.102,-6.250,16) [OSM](https://www.openstreetmap.org/#map=16/54.102/-6.250) [GGL](https://www.google.co.uk/maps/@54.102,-6.250,16z)|
 |[WARRENPOINT-THE-MANOR-HOUSE](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/master/DATA/WARRENPOINT-THE-MANOR-HOUSE) [V2]|WARRENPOINT-THE-MANOR-HOUSE.csv|IJ154186|54.104|-6.235|40|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=54.104&lon=-6.235&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/54.104,-6.235,16) [OSM](https://www.openstreetmap.org/#map=16/54.104/-6.235) [GGL](https://www.google.co.uk/maps/@54.104,-6.235,16z)|
 ||WARRENPOINT-THE-MANOR-HOUSE-2.csv|IJ154186|54.104|-6.235|20|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=54.104&lon=-6.235&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/54.104,-6.235,16) [OSM](https://www.openstreetmap.org/#map=16/54.104/-6.235) [GGL](https://www.google.co.uk/maps/@54.104,-6.235,16z)|
-|[WARRENPOINT-THE-MANOR-HOUSE](https://github.com/ed-hawkins/rainfall-rescue-data-eire/tree/master/DATA/WARRENPOINT-THE-MANOR-HOUSE) [EIRE]|||||||
 |[WARRINGTON](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/WARRINGTON)|WARRINGTON.csv|SJ604884|53.391|-2.597|33|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=53.391&lon=-2.597&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/53.391,-2.597,16)  |
 |[WARRINGTON-CEMETERY](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/WARRINGTON-CEMETERY)|WARRINGTON-CEMETERY.csv|SJ620889|53.396|-2.573|32|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=53.396&lon=-2.573&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/53.396,-2.573,16)  |
 |[WARRINGTON-CENTRAL-STATION](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/WARRINGTON-CENTRAL-STATION)|WARRINGTON-CENTRAL-STATION.csv|SJ608885|53.392|-2.591|59|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=53.392&lon=-2.591&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/53.392,-2.591,16)  |
