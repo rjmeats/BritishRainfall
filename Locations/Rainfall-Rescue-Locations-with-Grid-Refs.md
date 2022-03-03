@@ -1,4 +1,4 @@
-Generation time: Tuesday 01/03/2022 23:48:36 GMT
+Generation time: Thursday 03/03/2022 08:45:22 GMT
 
 ## Locations A-C
 
@@ -1349,6 +1349,7 @@ Generation time: Tuesday 01/03/2022 23:48:36 GMT
 ||BIRR-CASTLE-3.csv|IN1947506701|53.111|-7.710|300|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=53.111&lon=-7.710&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/53.111,-7.710,16) [OSM](https://www.openstreetmap.org/#map=16/53.111/-7.710) [GGL](https://www.google.co.uk/maps/@53.111,-7.710,16z)|
 |[BIRSTWITH-HALL](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/BIRSTWITH-HALL)|BIRSTWITH-HALL.csv|SE242583|54.020|-1.632|325|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=54.020&lon=-1.632&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/54.020,-1.632,16)  |
 |[BIRSTWITH-SWARCLIFFE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/BIRSTWITH-SWARCLIFFE)|BIRSTWITH-SWARCLIFFE.csv|SE235594|54.030|-1.643|510|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=54.030&lon=-1.643&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/54.030,-1.643,16)  |
+|[BIRTLEY](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/master/DATA/BIRTLEY) [V2]|||||||
 |[BISHAM-VICARAGE](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/master/DATA/BISHAM-VICARAGE) [V2]|BISHAM-VICARAGE.csv|SU848853|51.560|-0.778|100|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=51.560&lon=-0.778&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/51.560,-0.778,16)  |
 |[BISHOP-AUCKLAND-THE-CASTLE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/BISHOP-AUCKLAND-THE-CASTLE)|BISHOP-AUCKLAND-THE-CASTLE.csv|NZ213302|54.666|-1.671|300|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=54.666&lon=-1.671&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/54.666,-1.671,16)  |
 |[BISHOPDALE-LONGRIDGE](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/master/DATA/BISHOPDALE-LONGRIDGE) [V2]|BISHOPDALE-LONGRIDGE.csv|SD960832|54.244|-2.063|810|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=54.244&lon=-2.063&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/54.244,-2.063,16)  |
