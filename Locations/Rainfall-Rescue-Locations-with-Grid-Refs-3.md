@@ -1,4 +1,4 @@
-Generation time: Thursday 17/03/2022 23:38:49 GMT
+Generation time: Saturday 19/03/2022 09:05:49 GMT
 
 ## Locations J-P
 
@@ -69,6 +69,7 @@ Generation time: Thursday 17/03/2022 23:38:49 GMT
 |[KEMPSTON](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/master/DATA/KEMPSTON) [V2]|KEMPSTON.csv|TL033477|52.118|-0.493|125|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=52.118&lon=-0.493&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/52.118,-0.493,16)  |
 |[KEMPTON-WW](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/KEMPTON-WW)|KEMPTON-WW.csv|TQ111710|51.427|-0.403|40|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=51.427&lon=-0.403&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/51.427,-0.403,16)  |
 |[KENARDINGTON-THE-FIRS](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/master/DATA/KENARDINGTON-THE-FIRS) [V2]|KENARDINGTON-THE-FIRS.csv|TQ968313|51.047|0.806|65|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=51.047&lon=0.806&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/51.047,0.806,16)  |
+|[KENCOT-RECTORY](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/master/DATA/KENCOT-RECTORY) [V2]|||||||
 |[KENDAL-BIRCHFIELD](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/master/DATA/KENDAL-BIRCHFIELD) [V2]|KENDAL-BIRCHFIELD.csv|SD524928|54.329|-2.733|200|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=54.329&lon=-2.733&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/54.329,-2.733,16)  |
 ||KENDAL-BIRCHFIELD-2.csv|SD505922|54.323|-2.763|375|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=54.323&lon=-2.763&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/54.323,-2.763,16)  |
 |[KENDAL-BURNESIDE](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/master/DATA/KENDAL-BURNESIDE) [V2]|KENDAL-BURNESIDE.csv|SD517942|54.341|-2.744|165|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=54.341&lon=-2.744&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/54.341,-2.744,16)  |
@@ -193,6 +194,7 @@ Generation time: Thursday 17/03/2022 23:38:49 GMT
 |[KIDDERMINSTER-WOLVERLEY-ROAD](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/master/DATA/KIDDERMINSTER-WOLVERLEY-ROAD) [V2]|||||||
 |[KIDDERMINSTER-WOODFIELD](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/master/DATA/KIDDERMINSTER-WOODFIELD) [V2]|||||||
 |[KIDLINGTON-EVANS-LANE](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/master/DATA/KIDLINGTON-EVANS-LANE) [V2]|KIDLINGTON-EVANS-LANE.csv|SP500138|51.821|-1.276|200|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=51.821&lon=-1.276&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/51.821,-1.276,16)  |
+|[KIDLINGTON-SHIPTON-MANOR](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/master/DATA/KIDLINGTON-SHIPTON-MANOR) [V2]|||||||
 |[KIDLINGTON-SHIPTON-ON-CHERWELL](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/master/DATA/KIDLINGTON-SHIPTON-ON-CHERWELL) [V2]|KIDLINGTON-SHIPTON-ON-CHERWELL.csv|SP482174|51.853|-1.302|250|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=51.853&lon=-1.302&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/51.853,-1.302,16)  |
 |[KIDWELLY](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/KIDWELLY)|KIDWELLY.csv|SN420087|51.755|-4.290|60|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=51.755&lon=-4.290&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/51.755,-4.290,16)  |
 |[KIELDER-CARRY-BURN](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/master/DATA/KIELDER-CARRY-BURN) [V2]|KIELDER-CARRY-BURN.csv|NT652010|55.302|-2.550|1043|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=55.302&lon=-2.550&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/55.302,-2.550,16)  |
@@ -709,6 +711,7 @@ Generation time: Thursday 17/03/2022 23:38:49 GMT
 |[LEADHILLS-LANARK](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/LEADHILLS-LANARK)|LEADHILLS-LANARK.csv|NS886151|55.418|-3.761|1280|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=55.418&lon=-3.761&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/55.418,-3.761,16)  |
 ||LEADHILLS-LANARK-2.csv|NS886151|55.418|-3.761|1300|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=55.418&lon=-3.761&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/55.418,-3.761,16)  |
 ||LEADHILLS-LANARK-3.csv|NS888153|55.419|-3.758|1270|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=55.419&lon=-3.758&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/55.419,-3.758,16)  |
+|[LEAFIELD-WIRELESS-STATION](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/master/DATA/LEAFIELD-WIRELESS-STATION) [V2]|||||||
 |[LEAKE-LADE-BANK-ENGINES](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/LEAKE-LADE-BANK-ENGINES)|LEAKE-LADE-BANK-ENGINES.csv|TF378544|53.069|0.055|10|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=53.069&lon=0.055&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/53.069,0.055,16)  |
 |[LEAMINGTON-BINSWOOD-AVENUE](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/master/DATA/LEAMINGTON-BINSWOOD-AVENUE) [V2]|LEAMINGTON-BINSWOOD-AVENUE.csv|SP317665|52.296|-1.537|219|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=52.296&lon=-1.537&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/52.296,-1.537,16)  |
 ||LEAMINGTON-BINSWOOD-AVENUE-2.csv|SP321671|52.301|-1.531|228|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=52.301&lon=-1.531&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/52.301,-1.531,16)  |
