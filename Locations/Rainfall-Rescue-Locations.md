@@ -1,4 +1,4 @@
-Generation time: Saturday 19/03/2022 09:05:49 GMT
+Generation time: Tuesday 22/03/2022 09:48:38 GMT
 
 
 [MO-2020] indicates a location which contributed to the [Met Office 2020 UK Climate Report](https://www.metoffice.gov.uk/research/climate/maps-and-data/about/state-of-climate):
@@ -6378,7 +6378,7 @@ Generation time: Saturday 19/03/2022 09:05:49 GMT
 * [WEXFORD-RECLAIMED-LANDS](https://github.com/ed-hawkins/rainfall-rescue-data-eire/tree/master/DATA/WEXFORD-RECLAIMED-LANDS)
 * [WOODPARK-SCARRIFF](https://github.com/ed-hawkins/rainfall-rescue-data-eire/tree/master/DATA/WOODPARK-SCARRIFF)
 
-4778 **rainfall-rescue-data-v2/DATA** locations under [https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/master/DATA](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/master/DATA):
+4777 **rainfall-rescue-data-v2/DATA** locations under [https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/master/DATA](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/master/DATA):
 
 * [ABBERLEY](https://tinyurl.com/3xfyv3yv/ABBERLEY)
 * [ABBEY-ST-BATHANS-SCHOOL](https://tinyurl.com/3xfyv3yv/ABBEY-ST-BATHANS-SCHOOL)
@@ -9313,7 +9313,6 @@ Generation time: Saturday 19/03/2022 09:05:49 GMT
 * [LYE-PUMPING-STATION](https://tinyurl.com/3xfyv3yv/LYE-PUMPING-STATION)
 * [LYME-REGIS-OVERTON](https://tinyurl.com/3xfyv3yv/LYME-REGIS-OVERTON)
 * [LYME-REGIS-ROTHERFIELD](https://tinyurl.com/3xfyv3yv/LYME-REGIS-ROTHERFIELD)
-* [LYME-REGIS-UPLYME](https://tinyurl.com/3xfyv3yv/LYME-REGIS-UPLYME)
 * [LYME-REGIS-WARE](https://tinyurl.com/3xfyv3yv/LYME-REGIS-WARE)
 * [LYMINGE-SKEETE-PUMPING-STATION](https://tinyurl.com/3xfyv3yv/LYMINGE-SKEETE-PUMPING-STATION)
 * [LYMINGTON-WOODMANCOTE](https://tinyurl.com/3xfyv3yv/LYMINGTON-WOODMANCOTE)
