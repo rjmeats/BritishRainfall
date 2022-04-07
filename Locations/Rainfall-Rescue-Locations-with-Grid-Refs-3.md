@@ -1,4 +1,4 @@
-Generation time: Tuesday 05/04/2022 11:29:15 BST
+Generation time: Thursday 07/04/2022 20:34:31 BST
 
 ## Locations J-P
 
@@ -701,6 +701,7 @@ Generation time: Tuesday 05/04/2022 11:29:15 BST
 |[LARNE-BALLYCARRY](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/master/DATA/LARNE-BALLYCARRY) [V2]|LARNE-BALLYCARRY.csv|IJ459949|54.781|-5.733|250|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=54.781&lon=-5.733&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/54.781,-5.733,16) [OSM](https://www.openstreetmap.org/#map=16/54.781/-5.733) [GGL](https://www.google.co.uk/maps/@54.781,-5.733,16z)|
 |[LARNE-SALLAGH-SPRINGS](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/LARNE-SALLAGH-SPRINGS)|LARNE-SALLAGH-SPRINGS.csv|ID348049|54.874|-5.901|566|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=54.874&lon=-5.901&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/54.874,-5.901,16) [OSM](https://www.openstreetmap.org/#map=16/54.874/-5.901) [GGL](https://www.google.co.uk/maps/@54.874,-5.901,16z)|
 |[LARTINGTON-FILTERS](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/LARTINGTON-FILTERS)|LARTINGTON-FILTERS.csv|NZ012180|54.557|-1.983|725|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=54.557&lon=-1.983&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/54.557,-1.983,16)  |
+|[LATIMER-RECTORY](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/master/DATA/LATIMER-RECTORY) [V2]|||||||
 |[LAUDER](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/master/DATA/LAUDER) [V2]|LAUDER.csv|NT521488|55.730|-2.764|600|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=55.730&lon=-2.764&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/55.730,-2.764,16)  |
 |[LAUDER-BURNCASTLE](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/master/DATA/LAUDER-BURNCASTLE) [V2]|LAUDER-BURNCASTLE.csv|NT538513|55.753|-2.738|900|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=55.753&lon=-2.738&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/55.753,-2.738,16)  |
 |[LAUGHARNE-BROADWAY](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/master/DATA/LAUGHARNE-BROADWAY) [V2]|LAUGHARNE-BROADWAY.csv|SN286097|51.760|-4.485|174|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=51.760&lon=-4.485&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/51.760,-4.485,16)  |
@@ -786,6 +787,7 @@ Generation time: Tuesday 05/04/2022 11:29:15 BST
 ||LEEDS-PHILOSOPHICAL-HALL-3.csv|SE299336|53.798|-1.548|180|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=53.798&lon=-1.548&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/53.798,-1.548,16)  |
 |[LEEDS-RED-HALL](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/master/DATA/LEEDS-RED-HALL) [V2]|LEEDS-RED-HALL.csv|SE346385|53.842|-1.476|452|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=53.842&lon=-1.476&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/53.842,-1.476,16)  |
 |[LEEDS-SEACROFT](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/LEEDS-SEACROFT)|LEEDS-SEACROFT.csv|SE349346|53.807|-1.472|235|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=53.807&lon=-1.472&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/53.807,-1.472,16)  |
+|[LEEDS-STOURTON-LODGE](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/master/DATA/LEEDS-STOURTON-LODGE) [V2]|||||||
 |[LEEDS-WEETWOOD](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/LEEDS-WEETWOOD)|LEEDS-WEETWOOD.csv|SE273376|53.834|-1.587|300|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=53.834&lon=-1.587&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/53.834,-1.587,16)  |
 ||LEEDS-WEETWOOD-2.csv|SE269380|53.838|-1.593|400|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=53.838&lon=-1.593&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/53.838,-1.593,16)  |
 ||LEEDS-WEETWOOD-3.csv|SE276376|53.834|-1.582|300|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=53.834&lon=-1.582&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/53.834,-1.582,16)  |

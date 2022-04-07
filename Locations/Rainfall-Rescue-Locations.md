@@ -1,4 +1,4 @@
-Generation time: Tuesday 05/04/2022 11:29:15 BST
+Generation time: Thursday 07/04/2022 20:34:31 BST
 
 
 [MO-2020] indicates a location which contributed to the [Met Office 2020 UK Climate Report](https://www.metoffice.gov.uk/research/climate/maps-and-data/about/state-of-climate):
@@ -6389,7 +6389,7 @@ Generation time: Tuesday 05/04/2022 11:29:15 BST
 * [WEXFORD-RECLAIMED-LANDS](https://github.com/ed-hawkins/rainfall-rescue-data-eire/tree/master/DATA/WEXFORD-RECLAIMED-LANDS)
 * [WOODPARK-SCARRIFF](https://github.com/ed-hawkins/rainfall-rescue-data-eire/tree/master/DATA/WOODPARK-SCARRIFF)
 
-4938 **rainfall-rescue-data-v2/DATA** locations under [https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/master/DATA](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/master/DATA):
+4949 **rainfall-rescue-data-v2/DATA** locations under [https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/master/DATA](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/master/DATA):
 
 * [ABBERLEY](https://tinyurl.com/3xfyv3yv/ABBERLEY)
 * [ABBEY-ST-BATHANS-SCHOOL](https://tinyurl.com/3xfyv3yv/ABBEY-ST-BATHANS-SCHOOL)
@@ -6407,6 +6407,7 @@ Generation time: Tuesday 05/04/2022 11:29:15 BST
 * [ABERCORN](https://tinyurl.com/3xfyv3yv/ABERCORN)
 * [ABERDEEN-DUTHIE-PARK](https://tinyurl.com/3xfyv3yv/ABERDEEN-DUTHIE-PARK)
 * [ABERDEEN-HUNTLY-LODGE](https://tinyurl.com/3xfyv3yv/ABERDEEN-HUNTLY-LODGE)
+* [ABERDOVEY-MIX](https://tinyurl.com/3xfyv3yv/ABERDOVEY-MIX)
 * [ABERFELDY-GRANDTULLY-CASTLE-GDNS](https://tinyurl.com/3xfyv3yv/ABERFELDY-GRANDTULLY-CASTLE-GDNS)
 * [ABERGAVENNY-GILWERN](https://tinyurl.com/3xfyv3yv/ABERGAVENNY-GILWERN)
 * [ABERGAVENNY-LINDA-VISTA](https://tinyurl.com/3xfyv3yv/ABERGAVENNY-LINDA-VISTA)
@@ -6851,6 +6852,7 @@ Generation time: Tuesday 05/04/2022 11:29:15 BST
 * [BISHOPTON-INGLISTON](https://tinyurl.com/3xfyv3yv/BISHOPTON-INGLISTON)
 * [BITTON-WILLSBRIDGE-NURSERIES](https://tinyurl.com/3xfyv3yv/BITTON-WILLSBRIDGE-NURSERIES)
 * [BLACK-BOURTON-MOAT-HOUSE](https://tinyurl.com/3xfyv3yv/BLACK-BOURTON-MOAT-HOUSE)
+* [BLACK-CLOUGH-WOODHEAD](https://tinyurl.com/3xfyv3yv/BLACK-CLOUGH-WOODHEAD)
 * [BLACK-MOUNTAINS-BLAEN-BWCH](https://tinyurl.com/3xfyv3yv/BLACK-MOUNTAINS-BLAEN-BWCH)
 * [BLACK-MOUNTAINS-PEN-Y-MANLLWYN](https://tinyurl.com/3xfyv3yv/BLACK-MOUNTAINS-PEN-Y-MANLLWYN)
 * [BLACK-MOUNTAINS-TAREN-Y-ESGOB](https://tinyurl.com/3xfyv3yv/BLACK-MOUNTAINS-TAREN-Y-ESGOB)
@@ -6946,6 +6948,7 @@ Generation time: Tuesday 05/04/2022 11:29:15 BST
 * [BOVEY-TRACEY-WHIDDON](https://tinyurl.com/3xfyv3yv/BOVEY-TRACEY-WHIDDON)
 * [BOVINGDON-AIRPORT](https://tinyurl.com/3xfyv3yv/BOVINGDON-AIRPORT)
 * [BOW-ROSEHILL](https://tinyurl.com/3xfyv3yv/BOW-ROSEHILL)
+* [BOWDON-CHESHIRE](https://tinyurl.com/3xfyv3yv/BOWDON-CHESHIRE)
 * [BOWER-MOOR](https://tinyurl.com/3xfyv3yv/BOWER-MOOR)
 * [BOWES](https://tinyurl.com/3xfyv3yv/BOWES)
 * [BOWLING-FILTERS](https://tinyurl.com/3xfyv3yv/BOWLING-FILTERS)
@@ -7145,7 +7148,7 @@ Generation time: Tuesday 05/04/2022 11:29:15 BST
 * [BURY-ST-EDMUNDS-BEECH-HILL](https://tinyurl.com/3xfyv3yv/BURY-ST-EDMUNDS-BEECH-HILL)
 * [BURY-ST-EDMUNDS-BEET-SUGAR-FACTORY](https://tinyurl.com/3xfyv3yv/BURY-ST-EDMUNDS-BEET-SUGAR-FACTORY)
 * [BURY-ST-EDMUNDS-CORPORATION-DEPOT](https://tinyurl.com/3xfyv3yv/BURY-ST-EDMUNDS-CORPORATION-DEPOT)
-* [BURY-ST-EDMUNDS-FARNHAM-HALL](https://tinyurl.com/3xfyv3yv/BURY-ST-EDMUNDS-FARNHAM-HALL)
+* [BURY-ST-EDMUNDS-FORNHAM-HALL](https://tinyurl.com/3xfyv3yv/BURY-ST-EDMUNDS-FORNHAM-HALL)
 * [BURY-ST-EDMUNDS-NORTHGATE-ST](https://tinyurl.com/3xfyv3yv/BURY-ST-EDMUNDS-NORTHGATE-ST)
 * [BURY-ST-EDMUNDS-TROSTON-HALL](https://tinyurl.com/3xfyv3yv/BURY-ST-EDMUNDS-TROSTON-HALL)
 * [BURYTHORPE-RECTORY](https://tinyurl.com/3xfyv3yv/BURYTHORPE-RECTORY)
@@ -7505,6 +7508,7 @@ Generation time: Tuesday 05/04/2022 11:29:15 BST
 * [COLL-MIX](https://tinyurl.com/3xfyv3yv/COLL-MIX)
 * [COLL-THE-MANSE](https://tinyurl.com/3xfyv3yv/COLL-THE-MANSE)
 * [COLMER-RECTORY](https://tinyurl.com/3xfyv3yv/COLMER-RECTORY)
+* [COLNEY-HATCH-ASYLUM](https://tinyurl.com/3xfyv3yv/COLNEY-HATCH-ASYLUM)
 * [COLONSAY](https://tinyurl.com/3xfyv3yv/COLONSAY)
 * [COLWALL-THE-DOWNS](https://tinyurl.com/3xfyv3yv/COLWALL-THE-DOWNS)
 * [COLWICK-HOLME-SLUICES](https://tinyurl.com/3xfyv3yv/COLWICK-HOLME-SLUICES)
@@ -8246,6 +8250,7 @@ Generation time: Tuesday 05/04/2022 11:29:15 BST
 * [GLASGOW-DUMBRECK](https://tinyurl.com/3xfyv3yv/GLASGOW-DUMBRECK)
 * [GLASGOW-GEORGE-SQUARE](https://tinyurl.com/3xfyv3yv/GLASGOW-GEORGE-SQUARE)
 * [GLASGOW-LINN-PARK](https://tinyurl.com/3xfyv3yv/GLASGOW-LINN-PARK)
+* [GLASGOW-THOMSON](https://tinyurl.com/3xfyv3yv/GLASGOW-THOMSON)
 * [GLASHAN-DAM](https://tinyurl.com/3xfyv3yv/GLASHAN-DAM)
 * [GLASTONBURY-HIGH-STREET](https://tinyurl.com/3xfyv3yv/GLASTONBURY-HIGH-STREET)
 * [GLEN-AFFRIC-AFFRIC-LODGE](https://tinyurl.com/3xfyv3yv/GLEN-AFFRIC-AFFRIC-LODGE)
@@ -8514,6 +8519,7 @@ Generation time: Tuesday 05/04/2022 11:29:15 BST
 * [HASLEMERE-CLAMMER-HILL](https://tinyurl.com/3xfyv3yv/HASLEMERE-CLAMMER-HILL)
 * [HASLEMERE-FRENSHAM-HALL](https://tinyurl.com/3xfyv3yv/HASLEMERE-FRENSHAM-HALL)
 * [HASLEMERE-HAWKSFOLD-FERNHURST](https://tinyurl.com/3xfyv3yv/HASLEMERE-HAWKSFOLD-FERNHURST)
+* [HASLEMERE-UDC-DEPOT](https://tinyurl.com/3xfyv3yv/HASLEMERE-UDC-DEPOT)
 * [HASLINGDEN](https://tinyurl.com/3xfyv3yv/HASLINGDEN)
 * [HASLINGDEN-OGDEN-ONE](https://tinyurl.com/3xfyv3yv/HASLINGDEN-OGDEN-ONE)
 * [HASLINGDEN-SPRINGFIELD-LODGE](https://tinyurl.com/3xfyv3yv/HASLINGDEN-SPRINGFIELD-LODGE)
@@ -9075,6 +9081,7 @@ Generation time: Tuesday 05/04/2022 11:29:15 BST
 * [LARKHILL-SCHOOL-OF-ARTILLERY](https://tinyurl.com/3xfyv3yv/LARKHILL-SCHOOL-OF-ARTILLERY)
 * [LARMER-GROUNDS](https://tinyurl.com/3xfyv3yv/LARMER-GROUNDS)
 * [LARNE-BALLYCARRY](https://tinyurl.com/3xfyv3yv/LARNE-BALLYCARRY)
+* [LATIMER-RECTORY](https://tinyurl.com/3xfyv3yv/LATIMER-RECTORY)
 * [LAUDER](https://tinyurl.com/3xfyv3yv/LAUDER)
 * [LAUDER-BURNCASTLE](https://tinyurl.com/3xfyv3yv/LAUDER-BURNCASTLE)
 * [LAUGHARNE-BROADWAY](https://tinyurl.com/3xfyv3yv/LAUGHARNE-BROADWAY)
@@ -9104,6 +9111,7 @@ Generation time: Tuesday 05/04/2022 11:29:15 BST
 * [LEEDS-GREAT-GEORGE-STREET](https://tinyurl.com/3xfyv3yv/LEEDS-GREAT-GEORGE-STREET)
 * [LEEDS-METHLEY-PARK](https://tinyurl.com/3xfyv3yv/LEEDS-METHLEY-PARK)
 * [LEEDS-RED-HALL](https://tinyurl.com/3xfyv3yv/LEEDS-RED-HALL)
+* [LEEDS-STOURTON-LODGE](https://tinyurl.com/3xfyv3yv/LEEDS-STOURTON-LODGE)
 * [LEEK-TITTESWORTH](https://tinyurl.com/3xfyv3yv/LEEK-TITTESWORTH)
 * [LEEMING-AIRFIELD](https://tinyurl.com/3xfyv3yv/LEEMING-AIRFIELD)
 * [LEEMING-GARTH-BEDALE](https://tinyurl.com/3xfyv3yv/LEEMING-GARTH-BEDALE)
@@ -10305,6 +10313,7 @@ Generation time: Tuesday 05/04/2022 11:29:15 BST
 * [SEEND-FERRUM-TOWERS](https://tinyurl.com/3xfyv3yv/SEEND-FERRUM-TOWERS)
 * [SEER-GREEN](https://tinyurl.com/3xfyv3yv/SEER-GREEN)
 * [SEIL-AN-CALA](https://tinyurl.com/3xfyv3yv/SEIL-AN-CALA)
+* [SELATYN](https://tinyurl.com/3xfyv3yv/SELATYN)
 * [SELBY-PALGRAVE](https://tinyurl.com/3xfyv3yv/SELBY-PALGRAVE)
 * [SELHAM-SELHAM-HOUSE](https://tinyurl.com/3xfyv3yv/SELHAM-SELHAM-HOUSE)
 * [SELKIRK-BROOMHILL](https://tinyurl.com/3xfyv3yv/SELKIRK-BROOMHILL)
@@ -10473,6 +10482,7 @@ Generation time: Tuesday 05/04/2022 11:29:15 BST
 * [SOUTHAM-BANBURY-ROAD](https://tinyurl.com/3xfyv3yv/SOUTHAM-BANBURY-ROAD)
 * [SOUTHAM-RDC-OFFICES](https://tinyurl.com/3xfyv3yv/SOUTHAM-RDC-OFFICES)
 * [SOUTHAM-SHUCKBURGH-PARK](https://tinyurl.com/3xfyv3yv/SOUTHAM-SHUCKBURGH-PARK)
+* [SOUTHAMPTON-CUMBERLAND-PLACE](https://tinyurl.com/3xfyv3yv/SOUTHAMPTON-CUMBERLAND-PLACE)
 * [SOUTHAMPTON-EASTLEIGH](https://tinyurl.com/3xfyv3yv/SOUTHAMPTON-EASTLEIGH)
 * [SOUTHAMPTON-HIGHFIELD](https://tinyurl.com/3xfyv3yv/SOUTHAMPTON-HIGHFIELD)
 * [SOUTHAMPTON-MILLBROOK-SW](https://tinyurl.com/3xfyv3yv/SOUTHAMPTON-MILLBROOK-SW)
@@ -10628,6 +10638,7 @@ Generation time: Tuesday 05/04/2022 11:29:15 BST
 * [STRATFORD-ON-AVON-AVONSIDE](https://tinyurl.com/3xfyv3yv/STRATFORD-ON-AVON-AVONSIDE)
 * [STRATFORD-ON-AVON-CRIMSCOTE](https://tinyurl.com/3xfyv3yv/STRATFORD-ON-AVON-CRIMSCOTE)
 * [STRATFORD-ON-AVON-DRAYTON-MANOR](https://tinyurl.com/3xfyv3yv/STRATFORD-ON-AVON-DRAYTON-MANOR)
+* [STRATFORD-ON-AVON-VICARAGE](https://tinyurl.com/3xfyv3yv/STRATFORD-ON-AVON-VICARAGE)
 * [STRATFORD-ON-AVON-WELLESBOURNE-GROVE](https://tinyurl.com/3xfyv3yv/STRATFORD-ON-AVON-WELLESBOURNE-GROVE)
 * [STRATH-BRAN-GARROWS](https://tinyurl.com/3xfyv3yv/STRATH-BRAN-GARROWS)
 * [STRATH-KANAIRD-POWER-STATION](https://tinyurl.com/3xfyv3yv/STRATH-KANAIRD-POWER-STATION)
@@ -11337,16 +11348,14 @@ Generation time: Tuesday 05/04/2022 11:29:15 BST
 * [OXFORD](https://github.com/ed-hawkins/rainfall-rescue/tree/master/COMPOSITE-SERIES/OXFORD)
 * [READING](https://github.com/ed-hawkins/rainfall-rescue/tree/master/COMPOSITE-SERIES/READING)
 
-102 **rainfall-rescue/POOR-LOCATIONS** locations under [https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/master/DATA](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/master/DATA):
+97 **rainfall-rescue/POOR-LOCATIONS** locations under [https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/master/DATA](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/master/DATA):
 
 * [ABERDEEN](https://github.com/ed-hawkins/rainfall-rescue/tree/master/POOR-LOCATIONS/ABERDEEN)
-* [ABERDOVEY](https://github.com/ed-hawkins/rainfall-rescue/tree/master/POOR-LOCATIONS/ABERDOVEY)
 * [ALSTONE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/POOR-LOCATIONS/ALSTONE)
 * [ARBROATH-BA-REPORT](https://github.com/ed-hawkins/rainfall-rescue/tree/master/POOR-LOCATIONS/ARBROATH-BA-REPORT)
 * [AYLESBURY](https://github.com/ed-hawkins/rainfall-rescue/tree/master/POOR-LOCATIONS/AYLESBURY)
 * [BATHEASTON-BANNERDOWN-HOUSE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/POOR-LOCATIONS/BATHEASTON-BANNERDOWN-HOUSE)
 * [BIGGLESWADE-LANGFORD](https://github.com/ed-hawkins/rainfall-rescue/tree/master/POOR-LOCATIONS/BIGGLESWADE-LANGFORD)
-* [BLACK-CLOUGH-WOODHEAD](https://github.com/ed-hawkins/rainfall-rescue/tree/master/POOR-LOCATIONS/BLACK-CLOUGH-WOODHEAD)
 * [BLACKLEY-NR-MANCHESTER](https://github.com/ed-hawkins/rainfall-rescue/tree/master/POOR-LOCATIONS/BLACKLEY-NR-MANCHESTER)
 * [BOGNOR-IVYCROFT](https://github.com/ed-hawkins/rainfall-rescue/tree/master/POOR-LOCATIONS/BOGNOR-IVYCROFT)
 * [BOWDEN-CHESHIRE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/POOR-LOCATIONS/BOWDEN-CHESHIRE)
@@ -11361,7 +11370,6 @@ Generation time: Tuesday 05/04/2022 11:29:15 BST
 * [CARRICK-ON-SUIR-DEER-PARK-LODGE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/POOR-LOCATIONS/CARRICK-ON-SUIR-DEER-PARK-LODGE)
 * [CLEISH-HILLS-BLAIRADAM](https://github.com/ed-hawkins/rainfall-rescue/tree/master/POOR-LOCATIONS/CLEISH-HILLS-BLAIRADAM)
 * [COBHAM-PYPORTS](https://github.com/ed-hawkins/rainfall-rescue/tree/master/POOR-LOCATIONS/COBHAM-PYPORTS)
-* [COLNEY-HATCH-ASYLUM](https://github.com/ed-hawkins/rainfall-rescue/tree/master/POOR-LOCATIONS/COLNEY-HATCH-ASYLUM)
 * [CROYDON](https://github.com/ed-hawkins/rainfall-rescue/tree/master/POOR-LOCATIONS/CROYDON)
 * [CULROSS-TULLIALLAN-FREE-CHURCH-MANSE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/POOR-LOCATIONS/CULROSS-TULLIALLAN-FREE-CHURCH-MANSE)
 * [DARTMOOR-POWDER-MILLS](https://github.com/ed-hawkins/rainfall-rescue/tree/master/POOR-LOCATIONS/DARTMOOR-POWDER-MILLS)
@@ -11419,7 +11427,6 @@ Generation time: Tuesday 05/04/2022 11:29:15 BST
 * [ROTHIEMAY](https://github.com/ed-hawkins/rainfall-rescue/tree/master/POOR-LOCATIONS/ROTHIEMAY)
 * [ROW-GARELOCH](https://github.com/ed-hawkins/rainfall-rescue/tree/master/POOR-LOCATIONS/ROW-GARELOCH)
 * [RYDE-CLIFTON-HOUSE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/POOR-LOCATIONS/RYDE-CLIFTON-HOUSE)
-* [SELATYN](https://github.com/ed-hawkins/rainfall-rescue/tree/master/POOR-LOCATIONS/SELATYN)
 * [SELSIDE-LOWBRIDGE-HOUSE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/POOR-LOCATIONS/SELSIDE-LOWBRIDGE-HOUSE)
 * [SHALFORD-THE-HUTCH](https://github.com/ed-hawkins/rainfall-rescue/tree/master/POOR-LOCATIONS/SHALFORD-THE-HUTCH)
 * [SNOWDON-CWM-GLAS](https://github.com/ed-hawkins/rainfall-rescue/tree/master/POOR-LOCATIONS/SNOWDON-CWM-GLAS)
@@ -11428,7 +11435,6 @@ Generation time: Tuesday 05/04/2022 11:29:15 BST
 * [SOUTHGATE-THE-LAWNS-MODERN](https://github.com/ed-hawkins/rainfall-rescue/tree/master/POOR-LOCATIONS/SOUTHGATE-THE-LAWNS-MODERN)
 * [STANCLIFFE-HALL](https://github.com/ed-hawkins/rainfall-rescue/tree/master/POOR-LOCATIONS/STANCLIFFE-HALL)
 * [STOCKTON-ON-TEES](https://github.com/ed-hawkins/rainfall-rescue/tree/master/POOR-LOCATIONS/STOCKTON-ON-TEES)
-* [STRATFORD-ON-AVON-VICARAGE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/POOR-LOCATIONS/STRATFORD-ON-AVON-VICARAGE)
 * [STROUD](https://github.com/ed-hawkins/rainfall-rescue/tree/master/POOR-LOCATIONS/STROUD)
 * [TALYBONT-CUI](https://github.com/ed-hawkins/rainfall-rescue/tree/master/POOR-LOCATIONS/TALYBONT-CUI)
 * [TORQUAY](https://github.com/ed-hawkins/rainfall-rescue/tree/master/POOR-LOCATIONS/TORQUAY)

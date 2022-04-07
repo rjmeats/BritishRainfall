@@ -1,4 +1,4 @@
-Generation time: Tuesday 05/04/2022 11:29:15 BST
+Generation time: Thursday 07/04/2022 20:34:31 BST
 
 ## Locations Q-Z
 
@@ -728,7 +728,7 @@ Generation time: Tuesday 05/04/2022 11:29:15 BST
 |[SEEND-FERRUM-TOWERS](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/master/DATA/SEEND-FERRUM-TOWERS) [V2]|SEEND-FERRUM-TOWERS.csv|ST933611|51.349|-2.098|200|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=51.349&lon=-2.098&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/51.349,-2.098,16)  |
 |[SEER-GREEN](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/master/DATA/SEER-GREEN) [V2]|SEER-GREEN.csv|SU965921|51.619|-0.608|330|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=51.619&lon=-0.608&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/51.619,-0.608,16)  |
 |[SEIL-AN-CALA](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/master/DATA/SEIL-AN-CALA) [V2]|SEIL-AN-CALA.csv|NM748173|56.295|-5.641|30|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=56.295&lon=-5.641&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/56.295,-5.641,16)  |
-|[SELATYN](https://github.com/ed-hawkins/rainfall-rescue/tree/master/POOR-LOCATIONS/SELATYN) [POOR]|||||||
+|[SELATYN](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/master/DATA/SELATYN) [V2]|||||||
 |[SELBORNE-THE-WAKES](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/SELBORNE-THE-WAKES)|SELBORNE-THE-WAKES.csv|SU740336|51.097|-0.944|400|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=51.097&lon=-0.944&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/51.097,-0.944,16)  |
 ||SELBORNE-THE-WAKES-2.csv|SU740336|51.097|-0.944|400|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=51.097&lon=-0.944&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/51.097,-0.944,16)  |
 |[SELBY-BRAYTON-BARFF-WW](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/SELBY-BRAYTON-BARFF-WW)|SELBY-BRAYTON-BARFF-WW.csv|SE585305|53.768|-1.114|173|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=53.768&lon=-1.114&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/53.768,-1.114,16)  |
@@ -1221,6 +1221,7 @@ Generation time: Tuesday 05/04/2022 11:29:15 BST
 |[SOUTHAMPTON-CADLAND](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/SOUTHAMPTON-CADLAND)|SOUTHAMPTON-CADLAND.csv|SU445046|50.839|-1.369|52|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=50.839&lon=-1.369&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/50.839,-1.369,16)  |
 |[SOUTHAMPTON-COMMON-RES](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/SOUTHAMPTON-COMMON-RES)|SOUTHAMPTON-COMMON-RES.csv|SU423159|50.941|-1.399|193|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=50.941&lon=-1.399&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/50.941,-1.399,16)  |
 ||SOUTHAMPTON-COMMON-RES-2.csv|SU423159|50.941|-1.399|201|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=50.941&lon=-1.399&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/50.941,-1.399,16)  |
+|[SOUTHAMPTON-CUMBERLAND-PLACE](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/master/DATA/SOUTHAMPTON-CUMBERLAND-PLACE) [V2]|||||||
 |[SOUTHAMPTON-EAST-PARK](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/SOUTHAMPTON-EAST-PARK)|SOUTHAMPTON-EAST-PARK.csv|SU421129|50.914|-1.402|75|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=50.914&lon=-1.402&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/50.914,-1.402,16)  |
 ||SOUTHAMPTON-EAST-PARK-2.csv|SU421129|50.914|-1.402|94|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=50.914&lon=-1.402&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/50.914,-1.402,16)  |
 ||SOUTHAMPTON-EAST-PARK-3.csv|SU421129|50.914|-1.402|75|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=50.914&lon=-1.402&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/50.914,-1.402,16)  |
@@ -1722,7 +1723,7 @@ Generation time: Tuesday 05/04/2022 11:29:15 BST
 |[STRATFORD-ON-AVON-GUILD-STREET](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/STRATFORD-ON-AVON-GUILD-STREET)|STRATFORD-ON-AVON-GUILD-STREET.csv|SP200552|52.195|-1.708|135|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=52.195&lon=-1.708&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/52.195,-1.708,16)  |
 |[STRATFORD-ON-AVON-MILCOTE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/STRATFORD-ON-AVON-MILCOTE)|STRATFORD-ON-AVON-MILCOTE.csv|SP184528|52.173|-1.732|122|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=52.173&lon=-1.732&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/52.173,-1.732,16)  |
 |[STRATFORD-ON-AVON-SHOTTERY-HALL](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/STRATFORD-ON-AVON-SHOTTERY-HALL)|STRATFORD-ON-AVON-SHOTTERY-HALL.csv|SP185549|52.192|-1.731|140|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=52.192&lon=-1.731&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/52.192,-1.731,16)  |
-|[STRATFORD-ON-AVON-VICARAGE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/POOR-LOCATIONS/STRATFORD-ON-AVON-VICARAGE) [POOR]|STRATFORD-ON-AVON-VICARAGE.csv||||||
+|[STRATFORD-ON-AVON-VICARAGE](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/master/DATA/STRATFORD-ON-AVON-VICARAGE) [V2]|STRATFORD-ON-AVON-VICARAGE.csv||||||
 |[STRATFORD-ON-AVON-WELLESBOURNE-GROVE](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/master/DATA/STRATFORD-ON-AVON-WELLESBOURNE-GROVE) [V2]|STRATFORD-ON-AVON-WELLESBOURNE-GROVE.csv|SP197548|52.191|-1.713|131|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=52.191&lon=-1.713&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/52.191,-1.713,16)  |
 |[STRATFORD-SUB-CASTLE-MANOR-HOUSE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/STRATFORD-SUB-CASTLE-MANOR-HOUSE)|STRATFORD-SUB-CASTLE-MANOR-HOUSE.csv|SU130330|51.096|-1.816|165|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=51.096&lon=-1.816&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/51.096,-1.816,16)  |
 |[STRATH-BRAN-GARROWS](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/master/DATA/STRATH-BRAN-GARROWS) [V2]|STRATH-BRAN-GARROWS.csv|NN821403|56.540|-3.919|980|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=56.540&lon=-3.919&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/56.540,-3.919,16)  |
