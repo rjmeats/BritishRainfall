@@ -1,4 +1,4 @@
-Generation time: Sunday 10/04/2022 11:38:12 BST
+Generation time: Thursday 14/04/2022 10:46:36 BST
 
 
 [MO-2020] indicates a location which contributed to the [Met Office 2020 UK Climate Report](https://www.metoffice.gov.uk/research/climate/maps-and-data/about/state-of-climate):
@@ -6389,7 +6389,7 @@ Generation time: Sunday 10/04/2022 11:38:12 BST
 * [WEXFORD-RECLAIMED-LANDS](https://github.com/ed-hawkins/rainfall-rescue-data-eire/tree/master/DATA/WEXFORD-RECLAIMED-LANDS)
 * [WOODPARK-SCARRIFF](https://github.com/ed-hawkins/rainfall-rescue-data-eire/tree/master/DATA/WOODPARK-SCARRIFF)
 
-4949 **rainfall-rescue-data-v2/DATA** locations under [https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/master/DATA](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/master/DATA):
+4969 **rainfall-rescue-data-v2/DATA** locations under [https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/master/DATA](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/master/DATA):
 
 * [ABBERLEY](https://tinyurl.com/3xfyv3yv/ABBERLEY)
 * [ABBEY-ST-BATHANS-SCHOOL](https://tinyurl.com/3xfyv3yv/ABBEY-ST-BATHANS-SCHOOL)
@@ -6417,6 +6417,7 @@ Generation time: Sunday 10/04/2022 11:38:12 BST
 * [ABERLADY-GOSFORD](https://tinyurl.com/3xfyv3yv/ABERLADY-GOSFORD)
 * [ABERNANT-COLLIERY](https://tinyurl.com/3xfyv3yv/ABERNANT-COLLIERY)
 * [ABERTILLERY-CWMTILLERY](https://tinyurl.com/3xfyv3yv/ABERTILLERY-CWMTILLERY)
+* [ABERYSTWYTH-CWMSYMLOG](https://tinyurl.com/3xfyv3yv/ABERYSTWYTH-CWMSYMLOG)
 * [ABINGDON-BURCOTE-HOUSE](https://tinyurl.com/3xfyv3yv/ABINGDON-BURCOTE-HOUSE)
 * [ABINGDON-CULHAM-COLLEGE](https://tinyurl.com/3xfyv3yv/ABINGDON-CULHAM-COLLEGE)
 * [ABINGDON-CULHAM-SCHOOL-HOUSE](https://tinyurl.com/3xfyv3yv/ABINGDON-CULHAM-SCHOOL-HOUSE)
@@ -6456,6 +6457,7 @@ Generation time: Sunday 10/04/2022 11:38:12 BST
 * [ALCESTER-ARROWSIDE](https://tinyurl.com/3xfyv3yv/ALCESTER-ARROWSIDE)
 * [ALCESTER-BLEACHFIELD-STREET](https://tinyurl.com/3xfyv3yv/ALCESTER-BLEACHFIELD-STREET)
 * [ALCESTER-THE-PLECK](https://tinyurl.com/3xfyv3yv/ALCESTER-THE-PLECK)
+* [ALCONBURY-VICARAGE](https://tinyurl.com/3xfyv3yv/ALCONBURY-VICARAGE)
 * [ALDBOURNE-MANOR-HOUSE](https://tinyurl.com/3xfyv3yv/ALDBOURNE-MANOR-HOUSE)
 * [ALDBOURNE-UPHAM-HOUSE](https://tinyurl.com/3xfyv3yv/ALDBOURNE-UPHAM-HOUSE)
 * [ALDEBURGH-COB-HOUSE](https://tinyurl.com/3xfyv3yv/ALDEBURGH-COB-HOUSE)
@@ -6892,6 +6894,7 @@ Generation time: Sunday 10/04/2022 11:38:12 BST
 * [BLOXWORTH-HEATH-RESEARCH-NURSERY](https://tinyurl.com/3xfyv3yv/BLOXWORTH-HEATH-RESEARCH-NURSERY)
 * [BLUNDELLSANDS-MYRA-ST-ANTHONYS-ROAD](https://tinyurl.com/3xfyv3yv/BLUNDELLSANDS-MYRA-ST-ANTHONYS-ROAD)
 * [BLUNTISHAM-BROWNSHILL-STAUNCH](https://tinyurl.com/3xfyv3yv/BLUNTISHAM-BROWNSHILL-STAUNCH)
+* [BLUNTISHAM-RECTORY](https://tinyurl.com/3xfyv3yv/BLUNTISHAM-RECTORY)
 * [BLYTH-BRIDGE-BLYTHBANK](https://tinyurl.com/3xfyv3yv/BLYTH-BRIDGE-BLYTHBANK)
 * [BLYTH-COWPEN-SEWAGE-WKS](https://tinyurl.com/3xfyv3yv/BLYTH-COWPEN-SEWAGE-WKS)
 * [BOARS-HILL-BLACKTHORN](https://tinyurl.com/3xfyv3yv/BOARS-HILL-BLACKTHORN)
@@ -7211,6 +7214,8 @@ Generation time: Sunday 10/04/2022 11:38:12 BST
 * [CANTERBURY-ST-THOMAS-HILL](https://tinyurl.com/3xfyv3yv/CANTERBURY-ST-THOMAS-HILL)
 * [CANTLEY-DONCASTER](https://tinyurl.com/3xfyv3yv/CANTLEY-DONCASTER)
 * [CANVEY-ISLAND](https://tinyurl.com/3xfyv3yv/CANVEY-ISLAND)
+* [CAPEL-BANGOR-BRON-CASTLE](https://tinyurl.com/3xfyv3yv/CAPEL-BANGOR-BRON-CASTLE)
+* [CAPEL-BANGOR-PENLLWYN](https://tinyurl.com/3xfyv3yv/CAPEL-BANGOR-PENLLWYN)
 * [CAPEL-CURIG-GLYN-CURIG](https://tinyurl.com/3xfyv3yv/CAPEL-CURIG-GLYN-CURIG)
 * [CAPEL-CURIG-GWYDYR](https://tinyurl.com/3xfyv3yv/CAPEL-CURIG-GWYDYR)
 * [CAPEL-HILL-WEST](https://tinyurl.com/3xfyv3yv/CAPEL-HILL-WEST)
@@ -7348,6 +7353,7 @@ Generation time: Sunday 10/04/2022 11:38:12 BST
 * [CHERTSEY-BOTLEYS-PARK](https://tinyurl.com/3xfyv3yv/CHERTSEY-BOTLEYS-PARK)
 * [CHERTSEY-BURLEY-ORCHARD](https://tinyurl.com/3xfyv3yv/CHERTSEY-BURLEY-ORCHARD)
 * [CHERTSEY-LYNE-FARM-SW](https://tinyurl.com/3xfyv3yv/CHERTSEY-LYNE-FARM-SW)
+* [CHERTSEY-SANDGATES](https://tinyurl.com/3xfyv3yv/CHERTSEY-SANDGATES)
 * [CHESHAM-NASHLEIGH-HILL](https://tinyurl.com/3xfyv3yv/CHESHAM-NASHLEIGH-HILL)
 * [CHESHAM-VALE-HAWRIDGE-PUMPING-STATION](https://tinyurl.com/3xfyv3yv/CHESHAM-VALE-HAWRIDGE-PUMPING-STATION)
 * [CHESHUNT-CEMETERY](https://tinyurl.com/3xfyv3yv/CHESHUNT-CEMETERY)
@@ -8198,6 +8204,7 @@ Generation time: Sunday 10/04/2022 11:38:12 BST
 * [FROME-BECKINGTON](https://tinyurl.com/3xfyv3yv/FROME-BECKINGTON)
 * [FROME-SELWOOD-SCHOOL](https://tinyurl.com/3xfyv3yv/FROME-SELWOOD-SCHOOL)
 * [FROME-SEWAGE-DISPOSAL-WORKS](https://tinyurl.com/3xfyv3yv/FROME-SEWAGE-DISPOSAL-WORKS)
+* [FRONGOCH](https://tinyurl.com/3xfyv3yv/FRONGOCH)
 * [FULFORD-MANOR](https://tinyurl.com/3xfyv3yv/FULFORD-MANOR)
 * [FULWOOD-WW-BARNSFOLD-RES](https://tinyurl.com/3xfyv3yv/FULWOOD-WW-BARNSFOLD-RES)
 * [FULWOOD-WW-HAIGHTON-RES](https://tinyurl.com/3xfyv3yv/FULWOOD-WW-HAIGHTON-RES)
@@ -8310,6 +8317,7 @@ Generation time: Sunday 10/04/2022 11:38:12 BST
 * [GODALMING-MUNSTEAD-ROUGH](https://tinyurl.com/3xfyv3yv/GODALMING-MUNSTEAD-ROUGH)
 * [GODALMING-TILTHAMS](https://tinyurl.com/3xfyv3yv/GODALMING-TILTHAMS)
 * [GODALMING-WITLEY-FERNSIDE](https://tinyurl.com/3xfyv3yv/GODALMING-WITLEY-FERNSIDE)
+* [GODMANCHESTER-FARM-HALL](https://tinyurl.com/3xfyv3yv/GODMANCHESTER-FARM-HALL)
 * [GODMERSHAM-PUMPING-STATION](https://tinyurl.com/3xfyv3yv/GODMERSHAM-PUMPING-STATION)
 * [GODSHILL-DAFFODIL-VALLEY-FARM](https://tinyurl.com/3xfyv3yv/GODSHILL-DAFFODIL-VALLEY-FARM)
 * [GODSTONE-BIRCHWOOD-HOUSE](https://tinyurl.com/3xfyv3yv/GODSTONE-BIRCHWOOD-HOUSE)
@@ -8751,6 +8759,7 @@ Generation time: Sunday 10/04/2022 11:38:12 BST
 * [HORSTED-KEYNES-HOLY-WELL-PUMPING-STATION](https://tinyurl.com/3xfyv3yv/HORSTED-KEYNES-HOLY-WELL-PUMPING-STATION)
 * [HORTON-KIRBY-COURT-LODGE](https://tinyurl.com/3xfyv3yv/HORTON-KIRBY-COURT-LODGE)
 * [HORWICH-LOWER-KNOLL](https://tinyurl.com/3xfyv3yv/HORWICH-LOWER-KNOLL)
+* [HOUGHTON-GRANGE](https://tinyurl.com/3xfyv3yv/HOUGHTON-GRANGE)
 * [HOUNSLOW-PAWNALL-GARDENS](https://tinyurl.com/3xfyv3yv/HOUNSLOW-PAWNALL-GARDENS)
 * [HOUNSLOW-ST-STEPHENS-VICARAGE](https://tinyurl.com/3xfyv3yv/HOUNSLOW-ST-STEPHENS-VICARAGE)
 * [HOVE](https://tinyurl.com/3xfyv3yv/HOVE)
@@ -8782,6 +8791,9 @@ Generation time: Sunday 10/04/2022 11:38:12 BST
 * [HUNSTANWORTH-PRESSER-VILLA](https://tinyurl.com/3xfyv3yv/HUNSTANWORTH-PRESSER-VILLA)
 * [HUNSTANWORTH-SCHOOL-HOUSE](https://tinyurl.com/3xfyv3yv/HUNSTANWORTH-SCHOOL-HOUSE)
 * [HUNTINGDON-BOSWORTH-HOUSE](https://tinyurl.com/3xfyv3yv/HUNTINGDON-BOSWORTH-HOUSE)
+* [HUNTINGDON-BRAMPTON-GRANGE](https://tinyurl.com/3xfyv3yv/HUNTINGDON-BRAMPTON-GRANGE)
+* [HUNTINGDON-BRAMPTON-SCHOOL](https://tinyurl.com/3xfyv3yv/HUNTINGDON-BRAMPTON-SCHOOL)
+* [HUNTINGDON-BRAMPTON-THE-LILACS](https://tinyurl.com/3xfyv3yv/HUNTINGDON-BRAMPTON-THE-LILACS)
 * [HUNTINGDON-WOOD-WALTON-FEN](https://tinyurl.com/3xfyv3yv/HUNTINGDON-WOOD-WALTON-FEN)
 * [HUNTINGTON-COURT](https://tinyurl.com/3xfyv3yv/HUNTINGTON-COURT)
 * [HURLESTON](https://tinyurl.com/3xfyv3yv/HURLESTON)
@@ -9047,6 +9059,7 @@ Generation time: Sunday 10/04/2022 11:38:12 BST
 * [LAMMERMUIR-HILLS-HUNGRY-SMOUT](https://tinyurl.com/3xfyv3yv/LAMMERMUIR-HILLS-HUNGRY-SMOUT)
 * [LAMMERMUIR-HILLS-STOBSHIEL-FILTER-HOUSE](https://tinyurl.com/3xfyv3yv/LAMMERMUIR-HILLS-STOBSHIEL-FILTER-HOUSE)
 * [LAMPERT](https://tinyurl.com/3xfyv3yv/LAMPERT)
+* [LAMPETER-LLANLEAR](https://tinyurl.com/3xfyv3yv/LAMPETER-LLANLEAR)
 * [LAMPORT-HALL](https://tinyurl.com/3xfyv3yv/LAMPORT-HALL)
 * [LANCASTER-BAILRIGG](https://tinyurl.com/3xfyv3yv/LANCASTER-BAILRIGG)
 * [LANCASTER-HALTON-PARK](https://tinyurl.com/3xfyv3yv/LANCASTER-HALTON-PARK)
@@ -9233,6 +9246,7 @@ Generation time: Sunday 10/04/2022 11:38:12 BST
 * [LIVERPOOL-HUYTON-VICARAGE](https://tinyurl.com/3xfyv3yv/LIVERPOOL-HUYTON-VICARAGE)
 * [LIVERPOOL-ST-JAMES-CEMETERY](https://tinyurl.com/3xfyv3yv/LIVERPOOL-ST-JAMES-CEMETERY)
 * [LLANAFAN-BLAENDDOL](https://tinyurl.com/3xfyv3yv/LLANAFAN-BLAENDDOL)
+* [LLANAFAN-PWLLPEIRAN](https://tinyurl.com/3xfyv3yv/LLANAFAN-PWLLPEIRAN)
 * [LLANAFANFAWR-SCHOOL](https://tinyurl.com/3xfyv3yv/LLANAFANFAWR-SCHOOL)
 * [LLANARMON-DYFFRYN-CEIRIOG](https://tinyurl.com/3xfyv3yv/LLANARMON-DYFFRYN-CEIRIOG)
 * [LLANBEBLIG-CEFN-RHOS](https://tinyurl.com/3xfyv3yv/LLANBEBLIG-CEFN-RHOS)
@@ -9246,6 +9260,7 @@ Generation time: Sunday 10/04/2022 11:38:12 BST
 * [LLANDILO-CAE-GLAS](https://tinyurl.com/3xfyv3yv/LLANDILO-CAE-GLAS)
 * [LLANDOVERY-SERVICE-RES](https://tinyurl.com/3xfyv3yv/LLANDOVERY-SERVICE-RES)
 * [LLANDYSSUL-JOYOUS-GARD](https://tinyurl.com/3xfyv3yv/LLANDYSSUL-JOYOUS-GARD)
+* [LLANDYSSUL-PRENGWYN](https://tinyurl.com/3xfyv3yv/LLANDYSSUL-PRENGWYN)
 * [LLANDYSSUL-SYCHPANT-HOREB](https://tinyurl.com/3xfyv3yv/LLANDYSSUL-SYCHPANT-HOREB)
 * [LLANERCH-ST-ASAPH](https://tinyurl.com/3xfyv3yv/LLANERCH-ST-ASAPH)
 * [LLANERCH-YFRA](https://tinyurl.com/3xfyv3yv/LLANERCH-YFRA)
@@ -10030,6 +10045,7 @@ Generation time: Sunday 10/04/2022 11:38:12 BST
 * [PLYMOUTH-BOVEYSAND-LODGE](https://tinyurl.com/3xfyv3yv/PLYMOUTH-BOVEYSAND-LODGE)
 * [PLYMOUTH-MOUNT-BATTEN](https://tinyurl.com/3xfyv3yv/PLYMOUTH-MOUNT-BATTEN)
 * [PLYMOUTH-OLD-TOWN-ST](https://tinyurl.com/3xfyv3yv/PLYMOUTH-OLD-TOWN-ST)
+* [PLYMOUTH-STONEHOUSE](https://tinyurl.com/3xfyv3yv/PLYMOUTH-STONEHOUSE)
 * [PLYMPTON-LITTLE-WOODFORD](https://tinyurl.com/3xfyv3yv/PLYMPTON-LITTLE-WOODFORD)
 * [PLYNLIMON-LLYGAD-RHEIDOL](https://tinyurl.com/3xfyv3yv/PLYNLIMON-LLYGAD-RHEIDOL)
 * [POLPERRO-TALLAND-HILL](https://tinyurl.com/3xfyv3yv/POLPERRO-TALLAND-HILL)
@@ -10863,6 +10879,7 @@ Generation time: Sunday 10/04/2022 11:38:12 BST
 * [TRING-WILSTONE](https://tinyurl.com/3xfyv3yv/TRING-WILSTONE)
 * [TRINITY-RECTORY](https://tinyurl.com/3xfyv3yv/TRINITY-RECTORY)
 * [TRINITY-STATES-EXPERIMENTAL-FARM](https://tinyurl.com/3xfyv3yv/TRINITY-STATES-EXPERIMENTAL-FARM)
+* [TROEDYRAWR-RECTORY](https://tinyurl.com/3xfyv3yv/TROEDYRAWR-RECTORY)
 * [TROTTISCLIFFE-PUMPING-STATION](https://tinyurl.com/3xfyv3yv/TROTTISCLIFFE-PUMPING-STATION)
 * [TROWBRIDGE-ROOD-ASHTON](https://tinyurl.com/3xfyv3yv/TROWBRIDGE-ROOD-ASHTON)
 * [TROWBRIDGE-SITE-NO-THREE](https://tinyurl.com/3xfyv3yv/TROWBRIDGE-SITE-NO-THREE)
@@ -11142,6 +11159,7 @@ Generation time: Sunday 10/04/2022 11:38:12 BST
 * [WICKHAM-PARK-PLACE](https://tinyurl.com/3xfyv3yv/WICKHAM-PARK-PLACE)
 * [WICKWAR](https://tinyurl.com/3xfyv3yv/WICKWAR)
 * [WIDDINGTON-RECTORY](https://tinyurl.com/3xfyv3yv/WIDDINGTON-RECTORY)
+* [WIDDRINGTON](https://tinyurl.com/3xfyv3yv/WIDDRINGTON)
 * [WIDNES-GAS-WORKS](https://tinyurl.com/3xfyv3yv/WIDNES-GAS-WORKS)
 * [WIGAN-GIDLOW-SCHOOL](https://tinyurl.com/3xfyv3yv/WIGAN-GIDLOW-SCHOOL)
 * [WIGTON-DACRE-HOUSE](https://tinyurl.com/3xfyv3yv/WIGTON-DACRE-HOUSE)
@@ -11331,6 +11349,7 @@ Generation time: Sunday 10/04/2022 11:38:12 BST
 * [YARROW-HOUSE](https://tinyurl.com/3xfyv3yv/YARROW-HOUSE)
 * [YATESBURY](https://tinyurl.com/3xfyv3yv/YATESBURY)
 * [YATTON-PUMPING-STN](https://tinyurl.com/3xfyv3yv/YATTON-PUMPING-STN)
+* [YAXLEY-NORMAN-CROSS](https://tinyurl.com/3xfyv3yv/YAXLEY-NORMAN-CROSS)
 * [YEALMPTON-WEST-PARK](https://tinyurl.com/3xfyv3yv/YEALMPTON-WEST-PARK)
 * [YELVERTON-YARROW-DOUSLAND](https://tinyurl.com/3xfyv3yv/YELVERTON-YARROW-DOUSLAND)
 * [YEOVIL-RECKLEFORD-SCHOOL](https://tinyurl.com/3xfyv3yv/YEOVIL-RECKLEFORD-SCHOOL)
@@ -11340,6 +11359,7 @@ Generation time: Sunday 10/04/2022 11:38:12 BST
 * [YORK-DEIGHTON-GROVE](https://tinyurl.com/3xfyv3yv/YORK-DEIGHTON-GROVE)
 * [YORK-HEWORTH](https://tinyurl.com/3xfyv3yv/YORK-HEWORTH)
 * [YRFON-BYLCHAU](https://tinyurl.com/3xfyv3yv/YRFON-BYLCHAU)
+* [YSPYTTY-YSTSWYTH-DOLGROES](https://tinyurl.com/3xfyv3yv/YSPYTTY-YSTSWYTH-DOLGROES)
 
 4 **rainfall-rescue/COMPOSITE-SERIES** locations under [https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/master/DATA](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/master/DATA):
 
