@@ -1,4 +1,4 @@
-Generation time: Sunday 01/05/2022 21:13:50 BST
+Generation time: Tuesday 03/05/2022 08:58:15 BST
 
 6093 **rainfall-rescue/DATA** locations under [https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA):
 
@@ -6389,8 +6389,58 @@ Generation time: Sunday 01/05/2022 21:13:50 BST
 * [WESTPORT-HOUSE](https://github.com/ed-hawkins/rainfall-rescue-data-eire/tree/master/DATA/WESTPORT-HOUSE) : 2022-02-13 21:32:05 +0000 
 * [WESTPORT-ST-HELENS](https://github.com/ed-hawkins/rainfall-rescue-data-eire/tree/master/DATA/WESTPORT-ST-HELENS) : 2022-02-13 21:32:05 +0000 
 
-5378 **rainfall-rescue-data-v2/DATA** locations under [https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/master/DATA](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/master/DATA):
+5428 **rainfall-rescue-data-v2/DATA** locations under [https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/master/DATA](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/master/DATA):
 
+* [BATH-BROCKHAM-END](https://tinyurl.com/3xfyv3yv/BATH-BROCKHAM-END) : 2022-05-02 22:17:40 +0100 
+* [BATH-HAMPSTEAD-COMBE-PARK](https://tinyurl.com/3xfyv3yv/BATH-HAMPSTEAD-COMBE-PARK) : 2022-05-02 22:17:40 +0100 
+* [BRIDGWATER-PAWLETT](https://tinyurl.com/3xfyv3yv/BRIDGWATER-PAWLETT) : 2022-05-02 22:17:40 +0100 
+* [CHARD-TATWORTH-VICARAGE](https://tinyurl.com/3xfyv3yv/CHARD-TATWORTH-VICARAGE) : 2022-05-02 22:17:40 +0100 
+* [CHURCHILL-SPRINGFIELD](https://tinyurl.com/3xfyv3yv/CHURCHILL-SPRINGFIELD) : 2022-05-02 22:17:40 +0100 
+* [GLASTONBURY-WYRRAL](https://tinyurl.com/3xfyv3yv/GLASTONBURY-WYRRAL) : 2022-05-02 22:17:40 +0100 
+* [HOLFORD-WOODLANDS-HOUSE](https://tinyurl.com/3xfyv3yv/HOLFORD-WOODLANDS-HOUSE) : 2022-05-02 22:17:40 +0100 
+* [HUTTON-RECTORY](https://tinyurl.com/3xfyv3yv/HUTTON-RECTORY) : 2022-05-02 22:17:40 +0100 
+* [ILMINSTER-LAUREL-BANK](https://tinyurl.com/3xfyv3yv/ILMINSTER-LAUREL-BANK) : 2022-05-02 22:17:40 +0100 
+* [MIDSOMER-NORTON-ISLAND-HOUSE](https://tinyurl.com/3xfyv3yv/MIDSOMER-NORTON-ISLAND-HOUSE) : 2022-05-02 22:17:40 +0100 
+* [RADSTOCK-CAMERTON-COURT](https://tinyurl.com/3xfyv3yv/RADSTOCK-CAMERTON-COURT) : 2022-05-02 22:17:40 +0100 
+* [RADSTOCK-HIGH-LITTLETON-VICARAGE](https://tinyurl.com/3xfyv3yv/RADSTOCK-HIGH-LITTLETON-VICARAGE) : 2022-05-02 22:17:40 +0100 
+* [SALTFORD-HOUSE](https://tinyurl.com/3xfyv3yv/SALTFORD-HOUSE) : 2022-05-02 22:17:40 +0100 
+* [SOMERTON-KINGWESTON](https://tinyurl.com/3xfyv3yv/SOMERTON-KINGWESTON) : 2022-05-02 22:17:40 +0100 
+* [TAUNTON-CLAREMONT](https://tinyurl.com/3xfyv3yv/TAUNTON-CLAREMONT) : 2022-05-02 22:17:40 +0100 
+* [TEMPLE-COMBE-STOWELL-RECTORY](https://tinyurl.com/3xfyv3yv/TEMPLE-COMBE-STOWELL-RECTORY) : 2022-05-02 22:17:40 +0100 
+* [TINTINHULL-MANOR-HOUSE](https://tinyurl.com/3xfyv3yv/TINTINHULL-MANOR-HOUSE) : 2022-05-02 22:17:40 +0100 
+* [WELLINGTON-OLD-WAY-HOUSE](https://tinyurl.com/3xfyv3yv/WELLINGTON-OLD-WAY-HOUSE) : 2022-05-02 22:17:40 +0100 
+* [WELLINGTON-THE-AVENUE](https://tinyurl.com/3xfyv3yv/WELLINGTON-THE-AVENUE) : 2022-05-02 22:17:40 +0100 
+* [WELLS-THE-DEANERY-GARDENS](https://tinyurl.com/3xfyv3yv/WELLS-THE-DEANERY-GARDENS) : 2022-05-02 22:17:40 +0100 
+* [WESTON-SUPER-MARE-BEAUFORT-ROAD](https://tinyurl.com/3xfyv3yv/WESTON-SUPER-MARE-BEAUFORT-ROAD) : 2022-05-02 22:17:40 +0100 
+* [WESTON-SUPER-MARE-LEYCROFT-HOUSE](https://tinyurl.com/3xfyv3yv/WESTON-SUPER-MARE-LEYCROFT-HOUSE) : 2022-05-02 22:17:40 +0100 
+* [WINCANTON](https://tinyurl.com/3xfyv3yv/WINCANTON) : 2022-05-02 22:17:40 +0100 
+* [YEOVIL-KINGSTON](https://tinyurl.com/3xfyv3yv/YEOVIL-KINGSTON) : 2022-05-02 22:17:40 +0100 
+* [BATH-BATHWICK-HILL](https://tinyurl.com/3xfyv3yv/BATH-BATHWICK-HILL) : 2022-05-02 22:11:38 +0100 
+* [BATH-CLAVERTON-LODGE](https://tinyurl.com/3xfyv3yv/BATH-CLAVERTON-LODGE) : 2022-05-02 22:11:38 +0100 
+* [BATH-HAMILTON-ROAD](https://tinyurl.com/3xfyv3yv/BATH-HAMILTON-ROAD) : 2022-05-02 22:11:38 +0100 
+* [BATH-LOWER-SWAINSWICK](https://tinyurl.com/3xfyv3yv/BATH-LOWER-SWAINSWICK) : 2022-05-02 22:11:38 +0100 
+* [BATHEASTON-MUMFORDS](https://tinyurl.com/3xfyv3yv/BATHEASTON-MUMFORDS) : 2022-05-02 22:11:38 +0100 
+* [BICKENHALL-FOREST-DROVE](https://tinyurl.com/3xfyv3yv/BICKENHALL-FOREST-DROVE) : 2022-05-02 22:11:38 +0100 
+* [BISHOPS-LYDEARD-ASH-PRIORS](https://tinyurl.com/3xfyv3yv/BISHOPS-LYDEARD-ASH-PRIORS) : 2022-05-02 22:11:38 +0100 
+* [BRIDGWATER-STOCKLAND-MANOR](https://tinyurl.com/3xfyv3yv/BRIDGWATER-STOCKLAND-MANOR) : 2022-05-02 22:11:38 +0100 
+* [CASTLE-CARY-ALFORD-HOUSE](https://tinyurl.com/3xfyv3yv/CASTLE-CARY-ALFORD-HOUSE) : 2022-05-02 22:11:38 +0100 
+* [CHARD-SNOWDON](https://tinyurl.com/3xfyv3yv/CHARD-SNOWDON) : 2022-05-02 22:11:38 +0100 
+* [CHILTON-POLDEN-WEST-HOUSE](https://tinyurl.com/3xfyv3yv/CHILTON-POLDEN-WEST-HOUSE) : 2022-05-02 22:11:38 +0100 
+* [CLEVEDON-GAS-WORKS](https://tinyurl.com/3xfyv3yv/CLEVEDON-GAS-WORKS) : 2022-05-02 22:11:38 +0100 
+* [CROWCOMBE-CROWCOMBE-HOUSE](https://tinyurl.com/3xfyv3yv/CROWCOMBE-CROWCOMBE-HOUSE) : 2022-05-02 22:11:38 +0100 
+* [DOULTING-VICARAGE](https://tinyurl.com/3xfyv3yv/DOULTING-VICARAGE) : 2022-05-02 22:11:38 +0100 
+* [DUNSTER-THE-PRIORY](https://tinyurl.com/3xfyv3yv/DUNSTER-THE-PRIORY) : 2022-05-02 22:11:38 +0100 
+* [GLASTONBURY-BERE-LANE](https://tinyurl.com/3xfyv3yv/GLASTONBURY-BERE-LANE) : 2022-05-02 22:11:38 +0100 
+* [GLASTONBURY-ST-MICHAELS](https://tinyurl.com/3xfyv3yv/GLASTONBURY-ST-MICHAELS) : 2022-05-02 22:11:38 +0100 
+* [HENSTRIDGE](https://tinyurl.com/3xfyv3yv/HENSTRIDGE) : 2022-05-02 22:11:38 +0100 
+* [HIGH-LITTLETON-VICARAGE](https://tinyurl.com/3xfyv3yv/HIGH-LITTLETON-VICARAGE) : 2022-05-02 22:11:38 +0100 
+* [ILMINSTER-BUTTS-HOUSE](https://tinyurl.com/3xfyv3yv/ILMINSTER-BUTTS-HOUSE) : 2022-05-02 22:11:38 +0100 
+* [LYDEARD-ST-LAWRENCE](https://tinyurl.com/3xfyv3yv/LYDEARD-ST-LAWRENCE) : 2022-05-02 22:11:38 +0100 
+* [MIDFORD-COURT-ESSINGTON](https://tinyurl.com/3xfyv3yv/MIDFORD-COURT-ESSINGTON) : 2022-05-02 22:11:38 +0100 
+* [NORTH-NEWTON-COUNCIL-SCHOOL](https://tinyurl.com/3xfyv3yv/NORTH-NEWTON-COUNCIL-SCHOOL) : 2022-05-02 22:11:38 +0100 
+* [OVER-STOWEY-PLAINSFIELD](https://tinyurl.com/3xfyv3yv/OVER-STOWEY-PLAINSFIELD) : 2022-05-02 22:11:38 +0100 
+* [SHIPHAM-STUDLEIGH-END](https://tinyurl.com/3xfyv3yv/SHIPHAM-STUDLEIGH-END) : 2022-05-02 22:11:38 +0100 
+* [WHITCHURCH-THE-MEAD](https://tinyurl.com/3xfyv3yv/WHITCHURCH-THE-MEAD) : 2022-05-02 22:11:38 +0100 
 * [ALTON-EAST-WORLDHAM](https://tinyurl.com/3xfyv3yv/ALTON-EAST-WORLDHAM) : 2022-05-01 16:47:22 +0100 
 * [BARTON-STACEY-MOODYS-DOWN](https://tinyurl.com/3xfyv3yv/BARTON-STACEY-MOODYS-DOWN) : 2022-05-01 16:47:22 +0100 
 * [BASINGSTOKE-MONK-SHERBORNE](https://tinyurl.com/3xfyv3yv/BASINGSTOKE-MONK-SHERBORNE) : 2022-05-01 16:47:22 +0100 
