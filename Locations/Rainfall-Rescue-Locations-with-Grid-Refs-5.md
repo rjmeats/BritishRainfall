@@ -1,4 +1,4 @@
-Generation time: Wednesday 11/05/2022 08:48:05 BST
+Generation time: Thursday 12/05/2022 09:29:41 BST
 
 ## Locations P-T
 
@@ -2374,6 +2374,7 @@ Generation time: Wednesday 11/05/2022 08:48:05 BST
 |[STRATFORD-ON-AVON-MILCOTE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/STRATFORD-ON-AVON-MILCOTE)|STRATFORD-ON-AVON-MILCOTE.csv|SP184528|52.173|-1.732|122|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=52.173&lon=-1.732&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/52.173,-1.732,16)  |
 |[STRATFORD-ON-AVON-SHOTTERY-HALL](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/STRATFORD-ON-AVON-SHOTTERY-HALL)|STRATFORD-ON-AVON-SHOTTERY-HALL.csv|SP185549|52.192|-1.731|140|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=52.192&lon=-1.731&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/52.192,-1.731,16)  |
 |[STRATFORD-ON-AVON-VICARAGE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/POOR-LOCATIONS/STRATFORD-ON-AVON-VICARAGE) [POOR]|STRATFORD-ON-AVON-VICARAGE.csv||||||
+|[STRATFORD-ON-AVON-VICARAGE](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/master/DATA/STRATFORD-ON-AVON-VICARAGE) [V2]|||||||
 |[STRATFORD-ON-AVON-WELLESBOURNE-GROVE](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/master/DATA/STRATFORD-ON-AVON-WELLESBOURNE-GROVE) [V2]|STRATFORD-ON-AVON-WELLESBOURNE-GROVE.csv|SP197548|52.191|-1.713|131|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=52.191&lon=-1.713&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/52.191,-1.713,16)  |
 |[STRATFORD-SUB-CASTLE-MANOR-HOUSE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/STRATFORD-SUB-CASTLE-MANOR-HOUSE)|STRATFORD-SUB-CASTLE-MANOR-HOUSE.csv|SU130330|51.096|-1.816|165|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=51.096&lon=-1.816&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/51.096,-1.816,16)  |
 |[STRATH-BRAN-GARROWS](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/master/DATA/STRATH-BRAN-GARROWS) [V2]|STRATH-BRAN-GARROWS.csv|NN821403|56.540|-3.919|980|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=56.540&lon=-3.919&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/56.540,-3.919,16)  |

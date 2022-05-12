@@ -1,4 +1,4 @@
-Generation time: Wednesday 11/05/2022 08:48:05 BST
+Generation time: Thursday 12/05/2022 09:29:41 BST
 
 ## Locations A-B
 
@@ -2104,6 +2104,7 @@ Generation time: Wednesday 11/05/2022 08:48:05 BST
 ||BRIGHTON-BUCKINGHAM-PLACE-2.csv|TQ307051|50.831|-0.145|235|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=50.831&lon=-0.145&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/50.831,-0.145,16)  |
 |[BRIGHTON-CAMBRIDGE-ROAD](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/BRIGHTON-CAMBRIDGE-ROAD)|BRIGHTON-CAMBRIDGE-ROAD.csv|TQ298046|50.826|-0.158|111|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=50.826&lon=-0.158&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/50.826,-0.158,16)  |
 |[BRIGHTON-CLIFTON-TERRACE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/POOR-LOCATIONS/BRIGHTON-CLIFTON-TERRACE) [POOR]|||||||
+|[BRIGHTON-CLIFTON-TERRACE](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/master/DATA/BRIGHTON-CLIFTON-TERRACE) [V2]|||||||
 |[BRIGHTON-DYKE-ROAD](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/master/DATA/BRIGHTON-DYKE-ROAD) [V2]|||||||
 |[BRIGHTON-EATON-PLACE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/BRIGHTON-EATON-PLACE)|BRIGHTON-EATON-PLACE.csv|TQ327036|50.817|-0.118|98|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=50.817&lon=-0.118&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/50.817,-0.118,16)  |
 |[BRIGHTON-KEMP-TOWN](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/master/DATA/BRIGHTON-KEMP-TOWN) [V2]|BRIGHTON-KEMP-TOWN.csv|TQ3303903445|50.815|-0.113|80|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=50.815&lon=-0.113&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/50.815,-0.113,16)  |
