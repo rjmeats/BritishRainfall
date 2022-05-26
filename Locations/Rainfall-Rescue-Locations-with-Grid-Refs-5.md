@@ -1,4 +1,4 @@
-Generation time: Thursday 26/05/2022 11:10:21 BST
+Generation time: Thursday 26/05/2022 11:44:16 BST
 
 ## Locations P-T
 
@@ -1814,7 +1814,6 @@ Generation time: Thursday 26/05/2022 11:10:21 BST
 |[SNOWDON-LLYN-LLYDAW](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/SNOWDON-LLYN-LLYDAW)|SNOWDON-LLYN-LLYDAW.csv|SH638551|53.076|-4.035|1470|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=53.076&lon=-4.035&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/53.076,-4.035,16)  |
 ||SNOWDON-LLYN-LLYDAW-EXTRA.csv|SH638551|53.076|-4.035|1470|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=53.076&lon=-4.035&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/53.076,-4.035,16)  |
 |[SNOWDON-OLD-ROAD](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/SNOWDON-OLD-ROAD)|SNOWDON-OLD-ROAD.csv|SH655540|53.066|-4.009|325|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=53.066&lon=-4.009&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/53.066,-4.009,16)  |
-|[SNOWDON-PEN-Y-GWRYD](https://github.com/ed-hawkins/rainfall-rescue/tree/master/POOR-LOCATIONS/SNOWDON-PEN-Y-GWRYD) [POOR]|||||||
 |[SNOWDON-PEN-Y-GWRYD](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/SNOWDON-PEN-Y-GWRYD) [V3]|||||||
 |[SNOWDON-PEN-Y-PASS-GORPHWYSFA-HOTEL](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/SNOWDON-PEN-Y-PASS-GORPHWYSFA-HOTEL) [V3]|||||||
 |[SNOWDON-TERYN](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/SNOWDON-TERYN)|SNOWDON-TERYN.csv|SH644544|53.070|-4.025|1080|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=53.070&lon=-4.025&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/53.070,-4.025,16)  |

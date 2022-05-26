@@ -1,4 +1,4 @@
-Generation time: Thursday 26/05/2022 11:10:20 BST
+Generation time: Thursday 26/05/2022 11:44:15 BST
 
 
 [MO-2020] indicates a location which contributed to the [Met Office 2020 UK Climate Report](https://www.metoffice.gov.uk/research/climate/maps-and-data/about/state-of-climate):
@@ -12217,7 +12217,7 @@ Generation time: Thursday 26/05/2022 11:10:20 BST
 * [OXFORD](https://github.com/ed-hawkins/rainfall-rescue/tree/master/COMPOSITE-SERIES/OXFORD) : 2021-05-07 17:04:11 +0100 
 * [READING](https://github.com/ed-hawkins/rainfall-rescue/tree/master/COMPOSITE-SERIES/READING) : 2021-05-07 17:04:11 +0100 
 
-92 **rainfall-rescue/POOR-LOCATIONS** locations under [https://github.com/ed-hawkins/rainfall-rescue/tree/master/POOR-LOCATIONS](https://github.com/ed-hawkins/rainfall-rescue/tree/master/POOR-LOCATIONS):
+91 **rainfall-rescue/POOR-LOCATIONS** locations under [https://github.com/ed-hawkins/rainfall-rescue/tree/master/POOR-LOCATIONS](https://github.com/ed-hawkins/rainfall-rescue/tree/master/POOR-LOCATIONS):
 
 * [ABERDEEN](https://github.com/ed-hawkins/rainfall-rescue/tree/master/POOR-LOCATIONS/ABERDEEN) : 2021-05-07 17:04:11 +0100 
 * [ALSTONE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/POOR-LOCATIONS/ALSTONE) : 2021-05-07 17:04:11 +0100 
@@ -12294,7 +12294,6 @@ Generation time: Thursday 26/05/2022 11:10:20 BST
 * [SHALFORD-THE-HUTCH](https://github.com/ed-hawkins/rainfall-rescue/tree/master/POOR-LOCATIONS/SHALFORD-THE-HUTCH) : 2022-02-14 23:45:43 +0000 
 * [SNOWDON-CWM-GLAS](https://github.com/ed-hawkins/rainfall-rescue/tree/master/POOR-LOCATIONS/SNOWDON-CWM-GLAS) : 2021-05-05 19:45:50 +0100 
 * [SNOWDON-GLASLYN](https://github.com/ed-hawkins/rainfall-rescue/tree/master/POOR-LOCATIONS/SNOWDON-GLASLYN) : 2021-05-05 19:45:50 +0100 
-* [SNOWDON-PEN-Y-GWRYD](https://github.com/ed-hawkins/rainfall-rescue/tree/master/POOR-LOCATIONS/SNOWDON-PEN-Y-GWRYD) : 2021-05-05 19:45:50 +0100 
 * [SOUTHGATE-THE-LAWNS-MODERN](https://github.com/ed-hawkins/rainfall-rescue/tree/master/POOR-LOCATIONS/SOUTHGATE-THE-LAWNS-MODERN) : 2021-05-05 19:45:50 +0100 
 * [STANCLIFFE-HALL](https://github.com/ed-hawkins/rainfall-rescue/tree/master/POOR-LOCATIONS/STANCLIFFE-HALL) : 2021-05-05 19:45:50 +0100 
 * [STOCKTON-ON-TEES](https://github.com/ed-hawkins/rainfall-rescue/tree/master/POOR-LOCATIONS/STOCKTON-ON-TEES) : 2021-05-05 19:45:50 +0100 
