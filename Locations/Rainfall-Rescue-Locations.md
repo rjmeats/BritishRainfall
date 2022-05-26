@@ -1,9 +1,9 @@
-Generation time: Thursday 26/05/2022 09:04:54 BST
+Generation time: Thursday 26/05/2022 11:10:20 BST
 
 
 [MO-2020] indicates a location which contributed to the [Met Office 2020 UK Climate Report](https://www.metoffice.gov.uk/research/climate/maps-and-data/about/state-of-climate):
 
-6093 **rainfall-rescue/DATA** locations under [https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA):
+6092 **rainfall-rescue/DATA** locations under [https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA):
 
 * [ABBEY-CWMHIR-THE-HALL](https://tinyurl.com/ycyh86uz/ABBEY-CWMHIR-THE-HALL) : 2021-12-07 12:27:36 +0000 
 * [ABBEY-LEIX-BLANDSFORT](https://tinyurl.com/ycyh86uz/ABBEY-LEIX-BLANDSFORT) : 2021-12-07 12:27:36 +0000 
@@ -1655,7 +1655,6 @@ Generation time: Thursday 26/05/2022 09:04:54 BST
 * [DARWEN-BOLD-VENTURE-PARK](https://tinyurl.com/ycyh86uz/DARWEN-BOLD-VENTURE-PARK) : 2021-12-07 12:27:36 +0000 
 * [DARWEN-DAISY-GREEN](https://tinyurl.com/ycyh86uz/DARWEN-DAISY-GREEN) : 2021-12-07 12:27:36 +0000 
 * [DARWEN-EARNSDALE-RES](https://tinyurl.com/ycyh86uz/DARWEN-EARNSDALE-RES) : 2021-12-07 12:27:36 +0000 
-* [DARWEN-GILLIBRAND-OBSERVATORY](https://tinyurl.com/ycyh86uz/DARWEN-GILLIBRAND-OBSERVATORY) : 2022-05-20 15:48:21 +0100 
 * [DARWEN-HODDLESDEN](https://tinyurl.com/ycyh86uz/DARWEN-HODDLESDEN) : 2021-12-07 12:27:36 +0000 
 * [DARWEN-PICKUP](https://tinyurl.com/ycyh86uz/DARWEN-PICKUP) : 2021-12-07 12:27:36 +0000 
 * [DARWEN-SUNNYHURST-HEY-RES](https://tinyurl.com/ycyh86uz/DARWEN-SUNNYHURST-HEY-RES) : 2021-12-07 12:27:36 +0000 
@@ -12218,7 +12217,7 @@ Generation time: Thursday 26/05/2022 09:04:54 BST
 * [OXFORD](https://github.com/ed-hawkins/rainfall-rescue/tree/master/COMPOSITE-SERIES/OXFORD) : 2021-05-07 17:04:11 +0100 
 * [READING](https://github.com/ed-hawkins/rainfall-rescue/tree/master/COMPOSITE-SERIES/READING) : 2021-05-07 17:04:11 +0100 
 
-93 **rainfall-rescue/POOR-LOCATIONS** locations under [https://github.com/ed-hawkins/rainfall-rescue/tree/master/POOR-LOCATIONS](https://github.com/ed-hawkins/rainfall-rescue/tree/master/POOR-LOCATIONS):
+92 **rainfall-rescue/POOR-LOCATIONS** locations under [https://github.com/ed-hawkins/rainfall-rescue/tree/master/POOR-LOCATIONS](https://github.com/ed-hawkins/rainfall-rescue/tree/master/POOR-LOCATIONS):
 
 * [ABERDEEN](https://github.com/ed-hawkins/rainfall-rescue/tree/master/POOR-LOCATIONS/ABERDEEN) : 2021-05-07 17:04:11 +0100 
 * [ALSTONE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/POOR-LOCATIONS/ALSTONE) : 2021-05-07 17:04:11 +0100 
@@ -12276,7 +12275,6 @@ Generation time: Thursday 26/05/2022 09:04:54 BST
 * [LOOE-BRAY](https://github.com/ed-hawkins/rainfall-rescue/tree/master/POOR-LOCATIONS/LOOE-BRAY) : 2022-02-25 15:02:21 +0000 
 * [LOUGH-ESKE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/POOR-LOCATIONS/LOUGH-ESKE) : 2021-05-05 19:45:50 +0100 
 * [MAIDA-HILL-WARRINGTON-CRESCENT](https://github.com/ed-hawkins/rainfall-rescue/tree/master/POOR-LOCATIONS/MAIDA-HILL-WARRINGTON-CRESCENT) : 2021-05-05 19:45:50 +0100 
-* [MARKET-LAVINGTON-NR-DEVIZES](https://github.com/ed-hawkins/rainfall-rescue/tree/master/POOR-LOCATIONS/MARKET-LAVINGTON-NR-DEVIZES) : 2021-05-05 19:45:50 +0100 
 * [MASBOROUGH-PARSONAGE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/POOR-LOCATIONS/MASBOROUGH-PARSONAGE) : 2021-05-07 17:04:11 +0100 
 * [MIDHURST](https://github.com/ed-hawkins/rainfall-rescue/tree/master/POOR-LOCATIONS/MIDHURST) : 2021-05-05 19:45:50 +0100 
 * [MONMOUTH](https://github.com/ed-hawkins/rainfall-rescue/tree/master/POOR-LOCATIONS/MONMOUTH) : 2021-04-01 00:40:09 +0100 

@@ -1,11 +1,10 @@
-Generation time: Thursday 26/05/2022 09:04:54 BST
+Generation time: Thursday 26/05/2022 11:10:20 BST
 
-6093 **rainfall-rescue/DATA** locations under [https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA):
+6092 **rainfall-rescue/DATA** locations under [https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA):
 
 * [BLACKBURN-GUIDE-RES](https://tinyurl.com/ycyh86uz/BLACKBURN-GUIDE-RES) : 2022-05-20 15:48:21 +0100 
 * [BLACKBURN-PUMPING-STATION](https://tinyurl.com/ycyh86uz/BLACKBURN-PUMPING-STATION) : 2022-05-20 15:48:21 +0100 
 * [CONISTON-MONK](https://tinyurl.com/ycyh86uz/CONISTON-MONK) : 2022-05-20 15:48:21 +0100 
-* [DARWEN-GILLIBRAND-OBSERVATORY](https://tinyurl.com/ycyh86uz/DARWEN-GILLIBRAND-OBSERVATORY) : 2022-05-20 15:48:21 +0100 
 * [FERRY-BRIDGE-HOLMEFIELD-HOUSE](https://tinyurl.com/ycyh86uz/FERRY-BRIDGE-HOLMEFIELD-HOUSE) : 2022-05-20 15:48:21 +0100 
 * [RAWTENSTALL-CLOUGHBOTTOM-RES](https://tinyurl.com/ycyh86uz/RAWTENSTALL-CLOUGHBOTTOM-RES) : 2022-05-20 15:48:21 +0100 
 * [WARRINGTON-HOWLEY](https://tinyurl.com/ycyh86uz/WARRINGTON-HOWLEY) : 2022-05-20 15:48:21 +0100 
@@ -12215,7 +12214,7 @@ Generation time: Thursday 26/05/2022 09:04:54 BST
 * [OXFORD](https://github.com/ed-hawkins/rainfall-rescue/tree/master/COMPOSITE-SERIES/OXFORD) : 2021-05-07 17:04:11 +0100 
 * [READING](https://github.com/ed-hawkins/rainfall-rescue/tree/master/COMPOSITE-SERIES/READING) : 2021-05-07 17:04:11 +0100 
 
-93 **rainfall-rescue/POOR-LOCATIONS** locations under [https://github.com/ed-hawkins/rainfall-rescue/tree/master/POOR-LOCATIONS](https://github.com/ed-hawkins/rainfall-rescue/tree/master/POOR-LOCATIONS):
+92 **rainfall-rescue/POOR-LOCATIONS** locations under [https://github.com/ed-hawkins/rainfall-rescue/tree/master/POOR-LOCATIONS](https://github.com/ed-hawkins/rainfall-rescue/tree/master/POOR-LOCATIONS):
 
 * [NORTHAMPTON](https://github.com/ed-hawkins/rainfall-rescue/tree/master/POOR-LOCATIONS/NORTHAMPTON) : 2022-05-17 16:38:22 +0100 
 * [STRATFORD-ON-AVON-VICARAGE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/POOR-LOCATIONS/STRATFORD-ON-AVON-VICARAGE) : 2022-04-28 16:28:19 +0100 
@@ -12282,7 +12281,6 @@ Generation time: Thursday 26/05/2022 09:04:54 BST
 * [LAKE-VYRNWY-RHIALGWM](https://github.com/ed-hawkins/rainfall-rescue/tree/master/POOR-LOCATIONS/LAKE-VYRNWY-RHIALGWM) : 2021-05-05 19:45:50 +0100 
 * [LOUGH-ESKE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/POOR-LOCATIONS/LOUGH-ESKE) : 2021-05-05 19:45:50 +0100 
 * [MAIDA-HILL-WARRINGTON-CRESCENT](https://github.com/ed-hawkins/rainfall-rescue/tree/master/POOR-LOCATIONS/MAIDA-HILL-WARRINGTON-CRESCENT) : 2021-05-05 19:45:50 +0100 
-* [MARKET-LAVINGTON-NR-DEVIZES](https://github.com/ed-hawkins/rainfall-rescue/tree/master/POOR-LOCATIONS/MARKET-LAVINGTON-NR-DEVIZES) : 2021-05-05 19:45:50 +0100 
 * [MIDHURST](https://github.com/ed-hawkins/rainfall-rescue/tree/master/POOR-LOCATIONS/MIDHURST) : 2021-05-05 19:45:50 +0100 
 * [NORWICH-BETHEL-ST](https://github.com/ed-hawkins/rainfall-rescue/tree/master/POOR-LOCATIONS/NORWICH-BETHEL-ST) : 2021-05-05 19:45:50 +0100 
 * [OAKHAM-WING-RECTORY](https://github.com/ed-hawkins/rainfall-rescue/tree/master/POOR-LOCATIONS/OAKHAM-WING-RECTORY) : 2021-05-05 19:45:50 +0100 

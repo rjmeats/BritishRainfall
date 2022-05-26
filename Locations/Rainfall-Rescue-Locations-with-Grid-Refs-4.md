@@ -1,4 +1,4 @@
-Generation time: Thursday 26/05/2022 09:04:54 BST
+Generation time: Thursday 26/05/2022 11:10:21 BST
 
 ## Locations K-O
 
@@ -1995,7 +1995,6 @@ Generation time: Thursday 26/05/2022 09:04:54 BST
 |[MARKET-HARBOROUGH-THE-HUTCH](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/main/DATA/MARKET-HARBOROUGH-THE-HUTCH) [V2]|MARKET-HARBOROUGH-THE-HUTCH.csv|SP735868|52.474|-0.919|257|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=52.474&lon=-0.919&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/52.474,-0.919,16)  |
 ||MARKET-HARBOROUGH-THE-HUTCH-2.csv|SP727878|52.483|-0.931|324|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=52.483&lon=-0.931&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/52.483,-0.931,16)  |
 |[MARKET-LAVINGTON](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/main/DATA/MARKET-LAVINGTON) [V2]|MARKET-LAVINGTON.csv|SU014542|51.287|-1.981|300|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=51.287&lon=-1.981&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/51.287,-1.981,16)  |
-|[MARKET-LAVINGTON-NR-DEVIZES](https://github.com/ed-hawkins/rainfall-rescue/tree/master/POOR-LOCATIONS/MARKET-LAVINGTON-NR-DEVIZES) [POOR]|||||||
 |[MARKET-LAVINGTON-SAXTY](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/main/DATA/MARKET-LAVINGTON-SAXTY) [V2]|||||||
 |[MARKET-LAVINGTON-SCHOOL-HOUSE](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/main/DATA/MARKET-LAVINGTON-SCHOOL-HOUSE) [V2]|MARKET-LAVINGTON-SCHOOL-HOUSE.csv|SU0141454268|51.288|-1.981|290|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=51.288&lon=-1.981&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/51.288,-1.981,16)  |
 ||MARKET-LAVINGTON-SCHOOL-HOUSE-2.csv|SU0141454268|51.288|-1.981|290|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=51.288&lon=-1.981&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/51.288,-1.981,16)  |
