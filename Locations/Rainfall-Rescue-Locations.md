@@ -1,4 +1,4 @@
-Generation time: Tuesday 31/05/2022 18:10:48 BST
+Generation time: Wednesday 01/06/2022 12:37:55 BST
 
 
 [MO-2020] indicates a location which contributed to the [Met Office 2020 UK Climate Report](https://www.metoffice.gov.uk/research/climate/maps-and-data/about/state-of-climate):

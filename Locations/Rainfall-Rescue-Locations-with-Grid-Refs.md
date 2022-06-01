@@ -1,4 +1,4 @@
-Generation time: Tuesday 31/05/2022 18:10:48 BST
+Generation time: Wednesday 01/06/2022 12:37:55 BST
 
 ## Locations A-B
 
@@ -2253,7 +2253,8 @@ Generation time: Tuesday 31/05/2022 18:10:48 BST
 |[BROCKDISH-RECTORY](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/main/DATA/BROCKDISH-RECTORY) [V2]|BROCKDISH-RECTORY.csv|TM204796|52.370|1.236|115|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=52.370&lon=1.236&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/52.370,1.236,16)  |
 |[BROCKENHURST-WEIRS-END](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/main/DATA/BROCKENHURST-WEIRS-END) [V2]|BROCKENHURST-WEIRS-END.csv|SU303003|50.802|-1.571|145|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=50.802&lon=-1.571&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/50.802,-1.571,16)  |
 ||BROCKENHURST-WEIRS-END-2.csv|SU295021|50.818|-1.582|45|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=50.818&lon=-1.582&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/50.818,-1.582,16)  |
-|[BROCKHAM-NORTH-LODGE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/BROCKHAM-NORTH-LODGE)|BROCKHAM-NORTH-LODGE.csv|TQ196498|51.235|-0.288|160|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=51.235&lon=-0.288&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/51.235,-0.288,16)  |
+|[BROCKHAM-NORTH-LODGE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/BROCKHAM-NORTH-LODGE)|BROCKHAM-NORTH-LODGE.csv|TQ198496|51.233|-0.285|160|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=51.233&lon=-0.285&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/51.233,-0.285,16)  |
+||BROCKHAM-NORTH-LODGE-2.csv|TQ195502|51.239|-0.289|180|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=51.239&lon=-0.289&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/51.239,-0.289,16)  |
 |[BROCKHAMPTON-COURT](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/main/DATA/BROCKHAMPTON-COURT) [V2]|BROCKHAMPTON-COURT.csv|SO687550|52.192|-2.459|550|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=52.192&lon=-2.459&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/52.192,-2.459,16)  |
 ||BROCKHAMPTON-COURT-2.csv|SO687557|52.199|-2.459|360|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=52.199&lon=-2.459&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/52.199,-2.459,16)  |
 |[BROCKLESBY-PARK](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/BROCKLESBY-PARK)|BROCKLESBY-PARK.csv|TA140113|53.586|-0.279|108|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=53.586&lon=-0.279&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/53.586,-0.279,16)  |
