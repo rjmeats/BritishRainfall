@@ -1,4 +1,4 @@
-Generation time: Saturday 04/06/2022 10:37:28 BST
+Generation time: Monday 06/06/2022 21:55:12 BST
 
 
 [MO-2020] indicates a location which contributed to the [Met Office 2020 UK Climate Report](https://www.metoffice.gov.uk/research/climate/maps-and-data/about/state-of-climate):
@@ -12162,9 +12162,16 @@ Generation time: Saturday 04/06/2022 10:37:28 BST
 * [YRFON-BYLCHAU](https://tinyurl.com/3xfyv3yv/YRFON-BYLCHAU) : 2022-03-29 23:43:15 +0100 
 * [YSPYTTY-YSTSWYTH-DOLGROES](https://tinyurl.com/3xfyv3yv/YSPYTTY-YSTSWYTH-DOLGROES) : 2022-05-17 12:24:05 +0100 
 
-71 **rainfall-rescue-data-v3/DATA** locations under [https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA):
+104 **rainfall-rescue-data-v3/DATA** locations under [https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA):
 
 * [ABERDARON-COCHYMOEL](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/ABERDARON-COCHYMOEL) : 2022-05-24 17:32:42 +0100 
+* [ABINGDON-AERODROME](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/ABINGDON-AERODROME) : 2022-06-05 22:18:48 +0100 
+* [ABINGDON-CHRISTS-HOSPITAL](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/ABINGDON-CHRISTS-HOSPITAL) : 2022-06-05 22:18:48 +0100 
+* [ABINGDON-NORMAN-AVENUE](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/ABINGDON-NORMAN-AVENUE) : 2022-06-05 22:18:48 +0100 
+* [ABINGDON-SANDFORD-LANE-SEWAGE-WORKS](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/ABINGDON-SANDFORD-LANE-SEWAGE-WORKS) : 2022-06-05 22:18:48 +0100 
+* [ABINGDON-THE-SQUARE-HOUSE](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/ABINGDON-THE-SQUARE-HOUSE) : 2022-06-05 22:18:48 +0100 
+* [ABINGDON-WOOTTON-WW](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/ABINGDON-WOOTTON-WW) : 2022-06-05 22:18:48 +0100 
+* [APPLEFORD-WIGBALDS](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/APPLEFORD-WIGBALDS) : 2022-06-05 22:18:48 +0100 
 * [BEDDGELERT](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/BEDDGELERT) : 2022-05-24 17:32:42 +0100 
 * [BEDDGELERT-HAFOD-RUFFYDD](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/BEDDGELERT-HAFOD-RUFFYDD) : 2022-05-24 17:32:42 +0100 
 * [BETHESDA-BRYNDERWEN](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/BETHESDA-BRYNDERWEN) : 2022-05-24 17:32:42 +0100 
@@ -12181,19 +12188,24 @@ Generation time: Saturday 04/06/2022 10:37:28 BST
 * [CRICCIETH-CEFN-MAEN](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/CRICCIETH-CEFN-MAEN) : 2022-05-24 17:32:42 +0100 
 * [DARNAWAY-CASTLE-GARDENS](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/DARNAWAY-CASTLE-GARDENS) : 2022-05-25 20:52:56 +0100 
 * [DAVA-STATION](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/DAVA-STATION) : 2022-05-25 20:52:56 +0100 
+* [DERWEN-TY-CERRIG](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/DERWEN-TY-CERRIG) : 2022-06-06 19:17:09 +0100 
 * [DUFFUS-HOPEMAN-LODGE](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/DUFFUS-HOPEMAN-LODGE) : 2022-05-25 20:52:56 +0100 
+* [EARLSTON-CHAPEL-ON-LEADER](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/EARLSTON-CHAPEL-ON-LEADER) : 2022-06-06 19:22:41 +0100 
 * [EDEYRN-HENFAES](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/EDEYRN-HENFAES) : 2022-05-24 17:32:42 +0100 
 * [ELGIN-ACADEMY](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/ELGIN-ACADEMY) : 2022-05-25 20:52:56 +0100 
 * [ELGIN-CEMETERY](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/ELGIN-CEMETERY) : 2022-05-25 20:52:56 +0100 
 * [ELGIN-LESMURDIE](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/ELGIN-LESMURDIE) : 2022-05-25 20:52:56 +0100 
 * [ELGIN-NEWTON-NURSERY](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/ELGIN-NEWTON-NURSERY) : 2022-05-25 20:52:56 +0100 
 * [FINDHORN](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/FINDHORN) : 2022-05-25 20:52:56 +0100 
+* [HAWICK-WESTERDYKES](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/HAWICK-WESTERDYKES) : 2022-06-06 19:22:41 +0100 
 * [HEREFORD-ST-OWEN-STREET](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/HEREFORD-ST-OWEN-STREET) : 2022-05-29 11:18:55 +0100 
 * [HEREFORD-STRETTON-RECTORY](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/HEREFORD-STRETTON-RECTORY) : 2022-05-29 11:18:55 +0100 
 * [HEREFORD-THINGHILL](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/HEREFORD-THINGHILL) : 2022-05-29 11:18:55 +0100 
 * [HEREFORD-TUPSLEY](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/HEREFORD-TUPSLEY) : 2022-05-29 11:18:55 +0100 
+* [KELSO-HENDERSYDE-PARK](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/KELSO-HENDERSYDE-PARK) : 2022-06-06 19:22:41 +0100 
 * [KINTESSACK-CULBIN](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/KINTESSACK-CULBIN) : 2022-05-25 20:52:56 +0100 
 * [LAKE-OGWEN-CE-SCHOOL](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/LAKE-OGWEN-CE-SCHOOL) : 2022-05-24 17:32:42 +0100 
+* [LAUDER-THE-ROAN](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/LAUDER-THE-ROAN) : 2022-06-06 19:22:41 +0100 
 * [LEDBURY-COLWALL](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/LEDBURY-COLWALL) : 2022-05-29 11:18:55 +0100 
 * [LEDBURY-DONNINGTON-HALL](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/LEDBURY-DONNINGTON-HALL) : 2022-05-29 11:18:55 +0100 
 * [LEDBURY-THE-TWERNE](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/LEDBURY-THE-TWERNE) : 2022-05-29 11:18:55 +0100 
@@ -12206,6 +12218,7 @@ Generation time: Saturday 04/06/2022 10:37:28 BST
 * [LLANLLYFNI-BRYN-AERAN-SCHOOL](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/LLANLLYFNI-BRYN-AERAN-SCHOOL) : 2022-05-24 17:32:42 +0100 
 * [LLANLLYFNI-CILGWYN-QUARRY](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/LLANLLYFNI-CILGWYN-QUARRY) : 2022-05-24 17:32:42 +0100 
 * [LLANRUG-LLYS-EIDDON](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/LLANRUG-LLYS-EIDDON) : 2022-05-24 17:32:42 +0100 
+* [LLYN-ALED-RHYD-Y-BEDD](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/LLYN-ALED-RHYD-Y-BEDD) : 2022-06-06 19:17:09 +0100 
 * [LOSSIEMOUTH-AIRFIELD](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/LOSSIEMOUTH-AIRFIELD) : 2022-05-25 20:52:56 +0100 
 * [LOSSIEMOUTH-MORAY-GOLF-CLUB](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/LOSSIEMOUTH-MORAY-GOLF-CLUB) : 2022-05-25 20:52:56 +0100 
 * [MICHAELCHURCH-ESCLEY](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/MICHAELCHURCH-ESCLEY) : 2022-05-29 11:18:55 +0100 
@@ -12213,28 +12226,48 @@ Generation time: Saturday 04/06/2022 10:37:28 BST
 * [MUCH-MARCLE-HOMME-HOUSE](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/MUCH-MARCLE-HOMME-HOUSE) : 2022-05-29 11:18:55 +0100 
 * [NANTLLE-NEBO-COUNCIL-SCHOOL](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/NANTLLE-NEBO-COUNCIL-SCHOOL) : 2022-05-24 17:32:42 +0100 
 * [NEWENT-KILCOT](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/NEWENT-KILCOT) : 2022-05-29 11:18:55 +0100 
+* [OLD-MELROSE-GARDENS](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/OLD-MELROSE-GARDENS) : 2022-06-06 19:22:41 +0100 
 * [PEMBRIDGE-BYLETTS](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/PEMBRIDGE-BYLETTS) : 2022-05-29 11:18:55 +0100 
 * [PENCOMBE-RECTORY](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/PENCOMBE-RECTORY) : 2022-05-29 11:18:55 +0100 
 * [PENMAENMAWR-PLAS-UCHAF](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/PENMAENMAWR-PLAS-UCHAF) : 2022-05-24 17:32:42 +0100 
 * [PENSTOCK](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/PENSTOCK) : 2022-05-24 17:32:42 +0100 
 * [PRESTEIGNE-MIDDLEMOOR](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/PRESTEIGNE-MIDDLEMOOR) : 2022-05-29 11:18:55 +0100 
 * [PWLLHELI-EVANS](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/PWLLHELI-EVANS) : 2022-05-24 17:32:42 +0100 
+* [READING-THE-CEDARS-LONDON-ROAD](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/READING-THE-CEDARS-LONDON-ROAD) : 2022-06-05 22:18:48 +0100 
+* [RICCARTON](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/RICCARTON) : 2022-06-06 19:22:41 +0100 
+* [ROBERTON-MANSE](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/ROBERTON-MANSE) : 2022-06-06 19:22:41 +0100 
 * [ROSS-PONTSHILL-CROOME-HALL](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/ROSS-PONTSHILL-CROOME-HALL) : 2022-05-29 11:18:55 +0100 
 * [ROSS-SELLACK-VICARAGE](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/ROSS-SELLACK-VICARAGE) : 2022-05-29 11:18:55 +0100 
 * [ROSS-THE-CHANTRY](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/ROSS-THE-CHANTRY) : 2022-05-29 11:18:55 +0100 
+* [ROW-GARELOCH](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/ROW-GARELOCH) : 2022-06-06 17:29:17 +0100 
+* [SAUGHTREE](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/SAUGHTREE) : 2022-06-06 19:22:41 +0100 
 * [SHOBDON-TYN-Y-COED](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/SHOBDON-TYN-Y-COED) : 2022-05-29 11:18:55 +0100 
 * [SNOWDON-LLUCHFA](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/SNOWDON-LLUCHFA) : 2022-05-24 17:32:42 +0100 
 * [SNOWDON-PEN-Y-GWRYD](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/SNOWDON-PEN-Y-GWRYD) : 2022-05-24 17:32:42 +0100 
 * [SNOWDON-PEN-Y-PASS-GORPHWYSFA-HOTEL](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/SNOWDON-PEN-Y-PASS-GORPHWYSFA-HOTEL) : 2022-05-24 17:32:42 +0100 
+* [SONNING-UNIVERSITY-FARM](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/SONNING-UNIVERSITY-FARM) : 2022-06-05 22:18:48 +0100 
+* [ST-BOSWELLS-HAWTHORNDEN](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/ST-BOSWELLS-HAWTHORNDEN) : 2022-06-06 19:22:41 +0100 
+* [TEVIOTHEAD-SKELFHILL](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/TEVIOTHEAD-SKELFHILL) : 2022-06-06 19:22:41 +0100 
 * [TILLINGTON-FRUIT-FARM](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/TILLINGTON-FRUIT-FARM) : 2022-05-29 11:18:55 +0100 
+* [TREFNANT-SCHOOL](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/TREFNANT-SCHOOL) : 2022-06-06 19:17:09 +0100 
 * [TYN-Y-GROES-DOLCRWM](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/TYN-Y-GROES-DOLCRWM) : 2022-05-24 17:32:42 +0100 
 * [UPTON-BISHOP-THE-BACHES](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/UPTON-BISHOP-THE-BACHES) : 2022-05-29 11:18:55 +0100 
 * [WALFORD-ON-WYE-VICARAGE](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/WALFORD-ON-WYE-VICARAGE) : 2022-05-29 11:18:55 +0100 
+* [WALLINGFORD-SHILLINGFORD-HILL](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/WALLINGFORD-SHILLINGFORD-HILL) : 2022-06-05 22:18:48 +0100 
 * [WELLINGTON-YEW-TREE-HOUSE](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/WELLINGTON-YEW-TREE-HOUSE) : 2022-05-29 11:18:55 +0100 
 * [WEOBLEY-GARNSTONE](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/WEOBLEY-GARNSTONE) : 2022-05-29 11:18:55 +0100 
 * [WEOBLY-SCHOOL](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/WEOBLY-SCHOOL) : 2022-05-29 11:18:55 +0100 
 * [WESTON-UNDER-PENYARD-THE-SANDIWAY](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/WESTON-UNDER-PENYARD-THE-SANDIWAY) : 2022-05-29 11:18:55 +0100 
 * [WHITNEY-ON-WYE-WHITNEY-COURT](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/WHITNEY-ON-WYE-WHITNEY-COURT) : 2022-05-29 11:18:55 +0100 
+* [WOKINGHAM-BEARWOOD](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/WOKINGHAM-BEARWOOD) : 2022-06-05 22:18:48 +0100 
+* [WOKINGHAM-BEARWOOD-GARDENS](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/WOKINGHAM-BEARWOOD-GARDENS) : 2022-06-05 22:18:48 +0100 
+* [WOKINGHAM-PINEWOOD](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/WOKINGHAM-PINEWOOD) : 2022-06-05 22:18:48 +0100 
+* [WOKINGHAM-READING-ROAD](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/WOKINGHAM-READING-ROAD) : 2022-06-05 22:18:48 +0100 
+* [WREXHAM-WW-ABERSYCHNANT](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/WREXHAM-WW-ABERSYCHNANT) : 2022-06-06 19:17:09 +0100 
+* [WREXHAM-WW-GWTER-SIANI](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/WREXHAM-WW-GWTER-SIANI) : 2022-06-06 19:17:09 +0100 
+* [WREXHAM-WW-MOUNTAIN-LODGE](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/WREXHAM-WW-MOUNTAIN-LODGE) : 2022-06-06 19:17:09 +0100 
+* [WREXHAM-WW-WORLDS-END](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/WREXHAM-WW-WORLDS-END) : 2022-06-06 19:17:09 +0100 
+* [YETHOLM-MOWHAUGH](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/YETHOLM-MOWHAUGH) : 2022-06-06 19:22:41 +0100 
 
 4 **rainfall-rescue/COMPOSITE-SERIES** locations under [https://github.com/ed-hawkins/rainfall-rescue/tree/master/COMPOSITE-SERIES](https://github.com/ed-hawkins/rainfall-rescue/tree/master/COMPOSITE-SERIES):
 
@@ -12243,7 +12276,7 @@ Generation time: Saturday 04/06/2022 10:37:28 BST
 * [OXFORD](https://github.com/ed-hawkins/rainfall-rescue/tree/master/COMPOSITE-SERIES/OXFORD) : 2021-05-07 17:04:11 +0100 
 * [READING](https://github.com/ed-hawkins/rainfall-rescue/tree/master/COMPOSITE-SERIES/READING) : 2021-05-07 17:04:11 +0100 
 
-91 **rainfall-rescue/POOR-LOCATIONS** locations under [https://github.com/ed-hawkins/rainfall-rescue/tree/master/POOR-LOCATIONS](https://github.com/ed-hawkins/rainfall-rescue/tree/master/POOR-LOCATIONS):
+90 **rainfall-rescue/POOR-LOCATIONS** locations under [https://github.com/ed-hawkins/rainfall-rescue/tree/master/POOR-LOCATIONS](https://github.com/ed-hawkins/rainfall-rescue/tree/master/POOR-LOCATIONS):
 
 * [ABERDEEN](https://github.com/ed-hawkins/rainfall-rescue/tree/master/POOR-LOCATIONS/ABERDEEN) : 2021-05-07 17:04:11 +0100 
 * [ALSTONE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/POOR-LOCATIONS/ALSTONE) : 2021-05-07 17:04:11 +0100 
@@ -12315,7 +12348,6 @@ Generation time: Saturday 04/06/2022 10:37:28 BST
 * [RIVINGTON](https://github.com/ed-hawkins/rainfall-rescue/tree/master/POOR-LOCATIONS/RIVINGTON) : 2021-05-05 19:45:50 +0100 
 * [ROCHDALE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/POOR-LOCATIONS/ROCHDALE) : 2021-05-05 19:45:50 +0100 
 * [ROTHIEMAY](https://github.com/ed-hawkins/rainfall-rescue/tree/master/POOR-LOCATIONS/ROTHIEMAY) : 2021-05-05 19:45:50 +0100 
-* [ROW-GARELOCH](https://github.com/ed-hawkins/rainfall-rescue/tree/master/POOR-LOCATIONS/ROW-GARELOCH) : 2021-05-05 19:45:50 +0100 
 * [RYDE-CLIFTON-HOUSE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/POOR-LOCATIONS/RYDE-CLIFTON-HOUSE) : 2021-05-05 19:45:50 +0100 
 * [SHALFORD-THE-HUTCH](https://github.com/ed-hawkins/rainfall-rescue/tree/master/POOR-LOCATIONS/SHALFORD-THE-HUTCH) : 2022-02-14 23:45:43 +0000 
 * [SNOWDON-CWM-GLAS](https://github.com/ed-hawkins/rainfall-rescue/tree/master/POOR-LOCATIONS/SNOWDON-CWM-GLAS) : 2021-05-05 19:45:50 +0100 
