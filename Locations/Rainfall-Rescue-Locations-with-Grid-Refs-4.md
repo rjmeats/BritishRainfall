@@ -1,4 +1,4 @@
-Generation time: Tuesday 07/06/2022 23:49:20 BST
+Generation time: Wednesday 08/06/2022 19:37:00 BST
 
 ## Locations K-O
 
@@ -437,7 +437,6 @@ Generation time: Tuesday 07/06/2022 23:49:20 BST
 |[KIRKLISTON-NEWLISTON](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/main/DATA/KIRKLISTON-NEWLISTON) [V2]|KIRKLISTON-NEWLISTON.csv|NT110736|55.947|-3.427|140|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=55.947&lon=-3.427&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/55.947,-3.427,16)  |
 |[KIRKMICHAEL-BALLINTUIM-HOUSE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/KIRKMICHAEL-BALLINTUIM-HOUSE)|KIRKMICHAEL-BALLINTUIM-HOUSE.csv|NO107545|56.674|-3.459|700|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=56.674&lon=-3.459&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/56.674,-3.459,16)  |
 |[KIRKMICHAEL-NR-DUMFRIES](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/main/DATA/KIRKMICHAEL-NR-DUMFRIES) [V2]|KIRKMICHAEL-NR-DUMFRIES.csv|NY022870|55.168|-3.537|239|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=55.168&lon=-3.537&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/55.168,-3.537,16)  |
-||KIRKMICHAEL-NR-DUMFRIES-1773-6-MEAN.csv|NY016874|55.171|-3.546|290|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=55.171&lon=-3.546&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/55.171,-3.546,16)  |
 |[KIRKMICHAEL-SCHOOL](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/main/DATA/KIRKMICHAEL-SCHOOL) [V2]|KIRKMICHAEL-SCHOOL.csv|NO0790460082|56.723|-3.507|700|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=56.723&lon=-3.507&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/56.723,-3.507,16)  |
 |[KIRKNEWTON-COLDBURN](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/main/DATA/KIRKNEWTON-COLDBURN) [V2]|KIRKNEWTON-COLDBURN.csv|NT892240|55.510|-2.173|740|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=55.510&lon=-2.173&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/55.510,-2.173,16)  |
 |[KIRKNEWTON-MANSE](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/main/DATA/KIRKNEWTON-MANSE) [V2]|KIRKNEWTON-MANSE.csv|NT106670|55.888|-3.431|530|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=55.888&lon=-3.431&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/55.888,-3.431,16)  |
