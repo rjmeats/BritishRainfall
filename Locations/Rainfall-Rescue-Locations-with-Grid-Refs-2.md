@@ -1,4 +1,4 @@
-Generation time: Tuesday 07/06/2022 16:34:19 BST
+Generation time: Tuesday 07/06/2022 23:49:20 BST
 
 ## Locations C-F
 
@@ -455,6 +455,7 @@ Generation time: Tuesday 07/06/2022 16:34:19 BST
 |[CHAINS-BARROW](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/main/DATA/CHAINS-BARROW) [V2]|CHAINS-BARROW.csv|SS735420|51.164|-3.812|1587|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=51.164&lon=-3.812&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/51.164,-3.812,16)  |
 |[CHALBURY-WIMBORNE-MINSTER](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/CHALBURY-WIMBORNE-MINSTER)|CHALBURY-WIMBORNE-MINSTER.csv|SU018068|50.861|-1.976|338|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=50.861&lon=-1.976&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/50.861,-1.976,16)  |
 |[CHALDON-RECTORY](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/main/DATA/CHALDON-RECTORY) [V2]|CHALDON-RECTORY.csv|TQ310555|51.284|-0.122|542|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=51.284&lon=-0.122&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/51.284,-0.122,16)  |
+|[CHALE-BLACKGANG](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/CHALE-BLACKGANG) [V3]|||||||
 |[CHALFONT-ST-GILES-ROUGHWOOD-PARK](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/main/DATA/CHALFONT-ST-GILES-ROUGHWOOD-PARK) [V2]|CHALFONT-ST-GILES-ROUGHWOOD-PARK.csv|TQ008954|51.648|-0.544|400|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=51.648&lon=-0.544&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/51.648,-0.544,16)  |
 |[CHALFONT-ST-GILES-THE-COLONY](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/main/DATA/CHALFONT-ST-GILES-THE-COLONY) [V2]|CHALFONT-ST-GILES-THE-COLONY.csv|TQ003926|51.623|-0.553|340|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=51.623&lon=-0.553&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/51.623,-0.553,16)  |
 |[CHALFONT-ST-GILES-THE-STONE](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/main/DATA/CHALFONT-ST-GILES-THE-STONE) [V2]|CHALFONT-ST-GILES-THE-STONE.csv|SU9917893786|51.634|-0.568|270|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=51.634&lon=-0.568&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/51.634,-0.568,16)  |
@@ -1255,6 +1256,7 @@ Generation time: Tuesday 07/06/2022 16:34:19 BST
 |[COWBRIDGE-TAIR-ONEN-NURSERY](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/main/DATA/COWBRIDGE-TAIR-ONEN-NURSERY) [V2]|COWBRIDGE-TAIR-ONEN-NURSERY.csv|ST038742|51.459|-3.386|421|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=51.459&lon=-3.386&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/51.459,-3.386,16)  |
 |[COWBRIDGE-THE-HAM](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/main/DATA/COWBRIDGE-THE-HAM) [V2]|COWBRIDGE-THE-HAM.csv|SS973678|51.400|-3.478|96|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=51.400&lon=-3.478&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/51.400,-3.478,16)  |
 |[COWDENBEATH-SEWAGE-WORKS](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/main/DATA/COWDENBEATH-SEWAGE-WORKS) [V2]|COWDENBEATH-SEWAGE-WORKS.csv|NT170917|56.111|-3.336|390|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=56.111&lon=-3.336&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/56.111,-3.336,16)  |
+|[COWES-ROYAL-YACHT-SQUADRON](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/COWES-ROYAL-YACHT-SQUADRON) [V3]|||||||
 |[COWES-STEPHENSON-ROAD](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/COWES-STEPHENSON-ROAD)|COWES-STEPHENSON-ROAD.csv|SZ496956|50.758|-1.298|72|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=50.758&lon=-1.298&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/50.758,-1.298,16)  |
 ||COWES-STEPHENSON-ROAD-2.csv|SZ496956|50.758|-1.298|72|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=50.758&lon=-1.298&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/50.758,-1.298,16)  |
 ||COWES-STEPHENSON-ROAD-3.csv|SZ495952|50.755|-1.298|82|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=50.755&lon=-1.298&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/50.755,-1.298,16)  |

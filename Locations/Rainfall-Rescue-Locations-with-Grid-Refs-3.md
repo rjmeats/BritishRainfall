@@ -1,4 +1,4 @@
-Generation time: Tuesday 07/06/2022 16:34:20 BST
+Generation time: Tuesday 07/06/2022 23:49:20 BST
 
 ## Locations G-J
 
@@ -1356,6 +1356,8 @@ Generation time: Tuesday 07/06/2022 16:34:20 BST
 ||HEMEL-HEMPSTEAD-FELDEN-2.csv|TL042044|51.729|-0.493|500|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=51.729&lon=-0.493&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/51.729,-0.493,16)  |
 |[HEMINGFORD-GREY](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/HEMINGFORD-GREY)|HEMINGFORD-GREY.csv|TL301708|52.320|-0.093|20|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=52.320&lon=-0.093&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/52.320,-0.093,16)  |
 |[HEMINGFORD-GREY-CHURCH-LANE](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/main/DATA/HEMINGFORD-GREY-CHURCH-LANE) [V2]|HEMINGFORD-GREY-CHURCH-LANE.csv|TL2927370757|52.320|-0.105|25|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=52.320&lon=-0.105&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/52.320,-0.105,16)  |
+|[HEMINGFORD-GREY-SCHOOL](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/HEMINGFORD-GREY-SCHOOL) [V3]|||||||
+|[HEMINGFORD-GREY-VICARAGE](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/HEMINGFORD-GREY-VICARAGE) [V3]|||||||
 |[HEMSBY-SCHOOL](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/main/DATA/HEMSBY-SCHOOL) [V2]|HEMSBY-SCHOOL.csv|TG492173|52.696|1.687|25|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=52.696&lon=1.687&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/52.696,1.687,16)  |
 |[HEMSWORTH-FITZWILLIAM](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/main/DATA/HEMSWORTH-FITZWILLIAM) [V2]|HEMSWORTH-FITZWILLIAM.csv|SE417155|53.634|-1.371|246|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=53.634&lon=-1.371&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/53.634,-1.371,16)  |
 |[HEMSWORTH-HALL](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/HEMSWORTH-HALL)|HEMSWORTH-HALL.csv|SE431133|53.614|-1.350|250|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=53.614&lon=-1.350&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/53.614,-1.350,16)  |

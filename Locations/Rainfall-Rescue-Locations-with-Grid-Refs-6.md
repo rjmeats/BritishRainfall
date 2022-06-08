@@ -1,4 +1,4 @@
-Generation time: Tuesday 07/06/2022 16:34:20 BST
+Generation time: Tuesday 07/06/2022 23:49:20 BST
 
 ## Locations U-Z
 
@@ -964,6 +964,7 @@ Generation time: Tuesday 07/06/2022 16:34:20 BST
 |[WISTLANDPOUND-RES](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/main/DATA/WISTLANDPOUND-RES) [V2]|WISTLANDPOUND-RES.csv|SS641415|51.157|-3.945|825|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=51.157&lon=-3.945&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/51.157,-3.945,16)  |
 |[WISTOW-HALL-GDNS](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/WISTOW-HALL-GDNS)|WISTOW-HALL-GDNS.csv|SP642957|52.555|-1.055|310|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=52.555&lon=-1.055&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/52.555,-1.055,16)  |
 |[WISTOW-HUNTINGDON](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/WISTOW-HUNTINGDON)|WISTOW-HUNTINGDON.csv|TL279809|52.411|-0.121|39|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=52.411&lon=-0.121&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/52.411,-0.121,16)  |
+|[WISTOW-RECTORY](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/WISTOW-RECTORY) [V3]|||||||
 |[WITCHAMPTON](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/main/DATA/WITCHAMPTON) [V2]|WITCHAMPTON.csv|ST995071|50.864|-2.008|130|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=50.864&lon=-2.008&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/50.864,-2.008,16)  |
 |[WITCOMBE-RES](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/WITCOMBE-RES)|WITCOMBE-RES.csv|SO903149|51.833|-2.142|297|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=51.833&lon=-2.142&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/51.833,-2.142,16)  |
 |[WITHAM-FAULKBOURNE-HALL](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/WITHAM-FAULKBOURNE-HALL)|WITHAM-FAULKBOURNE-HALL.csv|TL803164|51.817|0.614|100|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=51.817&lon=0.614&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/51.817,0.614,16)  |

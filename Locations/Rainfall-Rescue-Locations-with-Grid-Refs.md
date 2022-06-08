@@ -1,4 +1,4 @@
-Generation time: Tuesday 07/06/2022 16:34:19 BST
+Generation time: Tuesday 07/06/2022 23:49:20 BST
 
 ## Locations A-B
 
@@ -1436,6 +1436,7 @@ Generation time: Tuesday 07/06/2022 16:34:19 BST
 |[BINGLEY-GILSTEAD-FILTERS](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/BINGLEY-GILSTEAD-FILTERS)|BINGLEY-GILSTEAD-FILTERS.csv|SE119394|53.851|-1.821|572|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=53.851&lon=-1.821&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/53.851,-1.821,16)  |
 |[BINGLEY-ST-IVES-RESEARCH-STATION](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/BINGLEY-ST-IVES-RESEARCH-STATION)|BINGLEY-ST-IVES-RESEARCH-STATION.csv|SE092389|53.846|-1.862|610|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=53.846&lon=-1.862&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/53.846,-1.862,16)  |
 |[BINGLEY-SUNNYDALE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/BINGLEY-SUNNYDALE)|BINGLEY-SUNNYDALE.csv|SE099432|53.885|-1.851|975|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=53.885&lon=-1.851&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/53.885,-1.851,16)  |
+|[BINSTEAD-THE-QUARRY](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/BINSTEAD-THE-QUARRY) [V3]|||||||
 |[BIRCHINGTON-FERNLEIGH](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/BIRCHINGTON-FERNLEIGH)|BIRCHINGTON-FERNLEIGH.csv|TR313696|51.378|1.322|40|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=51.378&lon=1.322&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/51.378,1.322,16)  |
 |[BIRCHINGTON-HOLLYDENE](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/main/DATA/BIRCHINGTON-HOLLYDENE) [V2]|BIRCHINGTON-HOLLYDENE.csv|TR303695|51.378|1.308|75|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=51.378&lon=1.308&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/51.378,1.308,16)  |
 |[BIRCHINGTON-LENDEN](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/main/DATA/BIRCHINGTON-LENDEN) [V2]|BIRCHINGTON-LENDEN.csv|TR299693|51.376|1.302|70|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=51.376&lon=1.302&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/51.376,1.302,16)  |
@@ -2370,6 +2371,8 @@ Generation time: Tuesday 07/06/2022 16:34:19 BST
 ||BUCHANNESS-LIGHTHOUSE-ALLDATA.csv|NK136422|57.470|-1.775|25|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=57.470&lon=-1.775&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/57.470,-1.775,16)  |
 |[BUCHLYVIE-THE-MANSE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/BUCHLYVIE-THE-MANSE)|BUCHLYVIE-THE-MANSE.csv|NS577939|56.117|-4.290|118|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=56.117&lon=-4.290&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/56.117,-4.290,16)  |
 |[BUCKDEN](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/BUCKDEN)|BUCKDEN.csv|SD942772|54.191|-2.090|800|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=54.191&lon=-2.090&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/54.191,-2.090,16)  |
+|[BUCKDEN-HUNTINGDONSHIRE](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/BUCKDEN-HUNTINGDONSHIRE) [V3]|||||||
+|[BUCKDEN-STIRTLOE-HOUSE](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/BUCKDEN-STIRTLOE-HOUSE) [V3]|||||||
 |[BUCKFASTLEIGH-BOSSEL-PARK](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/BUCKFASTLEIGH-BOSSEL-PARK)|BUCKFASTLEIGH-BOSSEL-PARK.csv|SX736659|50.480|-3.782|175|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=50.480&lon=-3.782&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/50.480,-3.782,16)  |
 |[BUCKHORN-WESTON-RECTORY](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/main/DATA/BUCKHORN-WESTON-RECTORY) [V2]|BUCKHORN-WESTON-RECTORY.csv|ST757247|51.021|-2.346|285|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=51.021&lon=-2.346&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/51.021,-2.346,16)  |
 |[BUCKHURST-HILL-ARDMORE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/BUCKHURST-HILL-ARDMORE)|BUCKHURST-HILL-ARDMORE.csv|TQ408945|51.632|0.033|270|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=51.632&lon=0.033&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/51.632,0.033,16)  |
