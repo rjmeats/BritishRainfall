@@ -1,4 +1,4 @@
-Generation time: Wednesday 15/06/2022 23:11:25 BST
+Generation time: Thursday 16/06/2022 21:46:20 BST
 
 6092 **rainfall-rescue/DATA** locations under [https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA):
 
@@ -12161,8 +12161,19 @@ Generation time: Wednesday 15/06/2022 23:11:25 BST
 * [WICKFORD-DOLLYMANS-FARM](https://tinyurl.com/3xfyv3yv/WICKFORD-DOLLYMANS-FARM) : 2021-07-31 22:28:08 +0100 
 * [WOKINGHAM-SINDLESHAM-HOUSE](https://tinyurl.com/3xfyv3yv/WOKINGHAM-SINDLESHAM-HOUSE) : 2021-07-31 22:28:08 +0100 
 
-215 **rainfall-rescue-data-v3/DATA** locations under [https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA):
+226 **rainfall-rescue-data-v3/DATA** locations under [https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA):
 
+* [CARSPHAIRN-GLENNOCH](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/CARSPHAIRN-GLENNOCH) : 2022-06-16 19:13:15 +0100 
+* [DALBEATTIE-RICHORN-WOOD](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/DALBEATTIE-RICHORN-WOOD) : 2022-06-16 19:13:15 +0100 
+* [DALBEATTIE-SOUTHWICK](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/DALBEATTIE-SOUTHWICK) : 2022-06-16 19:13:15 +0100 
+* [DALRY-CLENERIE](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/DALRY-CLENERIE) : 2022-06-16 19:13:15 +0100 
+* [DUMFRIES-NEWTON](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/DUMFRIES-NEWTON) : 2022-06-16 19:13:15 +0100 
+* [NEW-GALLOWAY-HOLM](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/NEW-GALLOWAY-HOLM) : 2022-06-16 19:13:15 +0100 
+* [ORCHARS](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/ORCHARS) : 2022-06-16 19:13:15 +0100 
+* [KIRKCOWAN](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/KIRKCOWAN) : 2022-06-16 19:08:29 +0100 
+* [LOCHNAW-CASTLE](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/LOCHNAW-CASTLE) : 2022-06-16 19:08:29 +0100 
+* [NEWTON-STEWART-DOUGLAS-EWART-HIGH-SCHOOL](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/NEWTON-STEWART-DOUGLAS-EWART-HIGH-SCHOOL) : 2022-06-16 19:08:29 +0100 
+* [PORT-WILLIAM-BLAIRBUIE](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/PORT-WILLIAM-BLAIRBUIE) : 2022-06-16 19:08:29 +0100 
 * [BUDE-BRAMBLE-HILL-UPHILL](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/BUDE-BRAMBLE-HILL-UPHILL) : 2022-06-15 17:25:36 +0100 
 * [CALLINGTON-MOUNT-LODGE](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/CALLINGTON-MOUNT-LODGE) : 2022-06-15 17:25:36 +0100 
 * [CAMBORNE-CROWAN](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/CAMBORNE-CROWAN) : 2022-06-15 17:25:36 +0100 
