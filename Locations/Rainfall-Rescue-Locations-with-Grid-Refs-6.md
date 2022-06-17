@@ -1,4 +1,4 @@
-Generation time: Thursday 16/06/2022 21:46:21 BST
+Generation time: Friday 17/06/2022 22:37:52 BST
 
 ## Locations U-Z
 
@@ -558,6 +558,7 @@ Generation time: Thursday 16/06/2022 21:46:21 BST
 ||WEST-KILBRIDE-CROSBIE-RES-2.csv|NS218507|55.717|-4.838|373|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=55.717&lon=-4.838&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/55.717,-4.838,16)  |
 |[WEST-KILBRIDE-HUNTERSTON](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/main/DATA/WEST-KILBRIDE-HUNTERSTON) [V2]|WEST-KILBRIDE-HUNTERSTON.csv|NS192517|55.725|-4.880|40|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=55.725&lon=-4.880&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/55.725,-4.880,16)  |
 ||WEST-KILBRIDE-HUNTERSTON-2.csv|NS184513|55.721|-4.893|27|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=55.721&lon=-4.893&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/55.721,-4.893,16)  |
+|[WEST-KIRBY-DEESIDE-NURSERY](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/WEST-KIRBY-DEESIDE-NURSERY) [V3]|||||||
 |[WEST-KIRBY-HILBRE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/WEST-KIRBY-HILBRE)|WEST-KIRBY-HILBRE.csv|SJ217858|53.363|-3.178|25|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=53.363&lon=-3.178&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/53.363,-3.178,16)  |
 ||WEST-KIRBY-HILBRE-2.csv|SJ216861|53.366|-3.180|30|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=53.366&lon=-3.180&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/53.366,-3.180,16)  |
 |[WEST-KIRBY-MIX](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/main/DATA/WEST-KIRBY-MIX) [V2]|WEST-KIRBY-MIX.csv|SJ217868|53.372|-3.178|75|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=53.372&lon=-3.178&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/53.372,-3.178,16)  |
@@ -693,6 +694,7 @@ Generation time: Thursday 16/06/2022 21:46:21 BST
 ||WHALEY-BRIDGE-3.csv|SK006811|53.327|-1.992|602|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=53.327&lon=-1.992&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/53.327,-1.992,16)  |
 |[WHALEY-BRIDGE-MOSLEY-HALL](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/main/DATA/WHALEY-BRIDGE-MOSLEY-HALL) [V2]|WHALEY-BRIDGE-MOSLEY-HALL.csv|SK019813|53.329|-1.973|760|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=53.329&lon=-1.973&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/53.329,-1.973,16)  |
 ||WHALEY-BRIDGE-MOSLEY-HALL-2.csv|SK019813|53.329|-1.973|760|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=53.329&lon=-1.973&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/53.329,-1.973,16)  |
+|[WHALEY-BRIDGE-TAXAL-LODGE](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/WHALEY-BRIDGE-TAXAL-LODGE) [V3]|||||||
 |[WHALLEY-CALDERSTONES-INSTITUTION](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/main/DATA/WHALLEY-CALDERSTONES-INSTITUTION) [V2]|WHALLEY-CALDERSTONES-INSTITUTION.csv|SD725371|53.829|-2.419|198|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=53.829&lon=-2.419&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/53.829,-2.419,16)  |
 |[WHAPLODE-IRBY-HALL-FARM](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/WHAPLODE-IRBY-HALL-FARM)|WHAPLODE-IRBY-HALL-FARM.csv|TF323224|52.783|-0.040|11|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=52.783&lon=-0.040&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/52.783,-0.040,16)  |
 |[WHARFEDALE-OUGHTERSHAW-HALL](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/WHARFEDALE-OUGHTERSHAW-HALL)|WHARFEDALE-OUGHTERSHAW-HALL.csv|SD870814|54.228|-2.201|1175|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=54.228&lon=-2.201&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/54.228,-2.201,16)  |

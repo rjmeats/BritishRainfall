@@ -1,4 +1,4 @@
-Generation time: Thursday 16/06/2022 21:46:20 BST
+Generation time: Friday 17/06/2022 22:37:52 BST
 
 ## Locations C-F
 
@@ -636,6 +636,7 @@ Generation time: Thursday 16/06/2022 21:46:20 BST
 |[CHESTER-ABBOTS-PARK](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/main/DATA/CHESTER-ABBOTS-PARK) [V2]|CHESTER-ABBOTS-PARK.csv|SJ402677|53.203|-2.897|63|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=53.203&lon=-2.897&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/53.203,-2.897,16)  |
 ||CHESTER-ABBOTS-PARK-2.csv|SJ396653|53.181|-2.905|78|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=53.181&lon=-2.905&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/53.181,-2.905,16)  |
 |[CHESTER-CHRISTLETON-HALL](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/CHESTER-CHRISTLETON-HALL)|CHESTER-CHRISTLETON-HALL.csv|SJ438657|53.185|-2.842|142|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=53.185&lon=-2.842&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/53.185,-2.842,16)  |
+|[CHESTER-HOOLE-LODGE](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/CHESTER-HOOLE-LODGE) [V3]|||||||
 |[CHESTER-LE-STREET-BIDDICK-HALL](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/CHESTER-LE-STREET-BIDDICK-HALL)|CHESTER-LE-STREET-BIDDICK-HALL.csv|NZ313527|54.868|-1.514|150|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=54.868&lon=-1.514&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/54.868,-1.514,16)  |
 ||CHESTER-LE-STREET-BIDDICK-HALL-2.csv|NZ313527|54.868|-1.514|150|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=54.868&lon=-1.514&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/54.868,-1.514,16)  |
 |[CHESTER-LE-STREET-BIRTLEY](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/CHESTER-LE-STREET-BIRTLEY)|CHESTER-LE-STREET-BIRTLEY.csv|NZ277547|54.886|-1.568|205|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=54.886&lon=-1.568&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/54.886,-1.568,16)  |
@@ -645,6 +646,8 @@ Generation time: Thursday 16/06/2022 21:46:20 BST
 |[CHESTER-NATURALIST](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/main/DATA/CHESTER-NATURALIST) [V2]|CHESTER-NATURALIST.csv|SJ405664|53.191|-2.892|75|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=53.191&lon=-2.892&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/53.191,-2.892,16)  |
 |[CHESTER-NEWTON-NURSERIES](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/main/DATA/CHESTER-NEWTON-NURSERIES) [V2]|CHESTER-NEWTON-NURSERIES.csv|SJ408680|53.206|-2.888|62|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=53.206&lon=-2.888&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/53.206,-2.888,16)  |
 |[CHESTER-NORTHGATE-STATION](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/CHESTER-NORTHGATE-STATION)|CHESTER-NORTHGATE-STATION.csv|SJ405670|53.197|-2.892|84|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=53.197&lon=-2.892&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/53.197,-2.892,16)  |
+|[CHESTER-PARKGATE-ROAD](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/CHESTER-PARKGATE-ROAD) [V3]|||||||
+|[CHESTER-ROWTON-GRANGE](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/CHESTER-ROWTON-GRANGE) [V3]|||||||
 |[CHESTER-SEWAGE-WORKS](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/CHESTER-SEWAGE-WORKS)|CHESTER-SEWAGE-WORKS.csv|SJ393667|53.194|-2.910|16|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=53.194&lon=-2.910&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/53.194,-2.910,16)  |
 |[CHESTER-WW](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/CHESTER-WW)|CHESTER-WW.csv|SJ418666|53.194|-2.872|85|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=53.194&lon=-2.872&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/53.194,-2.872,16)  |
 ||CHESTER-WW-2.csv|SJ420665|53.192|-2.870|85|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=53.192&lon=-2.870&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/53.192,-2.870,16)  |
@@ -2503,6 +2506,7 @@ Generation time: Thursday 16/06/2022 21:46:20 BST
 |[ECCLESTON-ELSWICK-LODGE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/ECCLESTON-ELSWICK-LODGE)|ECCLESTON-ELSWICK-LODGE.csv|SD435384|53.839|-2.859|55|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=53.839&lon=-2.859&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/53.839,-2.859,16)  |
 ||ECCLESTON-ELSWICK-LODGE-2.csv|SD435384|53.839|-2.859|55|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=53.839&lon=-2.859&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/53.839,-2.859,16)  |
 ||ECCLESTON-ELSWICK-LODGE-3.csv|SD435384|53.839|-2.859|55|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=53.839&lon=-2.859&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/53.839,-2.859,16)  |
+|[ECCLESTON-RECTORY](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/ECCLESTON-RECTORY) [V3]|||||||
 |[ECKINGTON-MOSBROUGH-CE-SCHOOL](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/main/DATA/ECKINGTON-MOSBROUGH-CE-SCHOOL) [V2]|ECKINGTON-MOSBROUGH-CE-SCHOOL.csv|SK426811|53.325|-1.362|330|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=53.325&lon=-1.362&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/53.325,-1.362,16)  |
 |[EDALE-END](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/main/DATA/EDALE-END) [V2]|EDALE-END.csv|SK162863|53.373|-1.758|632|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=53.373&lon=-1.758&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/53.373,-1.758,16)  |
 |[EDALE-MILL](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/main/DATA/EDALE-MILL) [V2]|EDALE-MILL.csv|SK134854|53.365|-1.800|725|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=53.365&lon=-1.800&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/53.365,-1.800,16)  |
