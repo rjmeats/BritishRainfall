@@ -1,4 +1,4 @@
-Generation time: Tuesday 21/06/2022 08:03:40 BST
+Generation time: Tuesday 21/06/2022 22:29:30 BST
 
 ## Locations G-J
 
@@ -1858,6 +1858,7 @@ Generation time: Tuesday 21/06/2022 08:03:40 BST
 |[HURTH-SYKE](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/main/DATA/HURTH-SYKE) [V2]|HURTH-SYKE.csv|NY732319|54.681|-2.417|2000|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=54.681&lon=-2.417&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/54.681,-2.417,16)  |
 |[HURWORTH-BURN-RES](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/HURWORTH-BURN-RES)|HURWORTH-BURN-RES.csv|NZ409333|54.693|-1.367|357|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=54.693&lon=-1.367&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/54.693,-1.367,16)  |
 |[HUSTHWAITE-VICARAGE](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/main/DATA/HUSTHWAITE-VICARAGE) [V2]|HUSTHWAITE-VICARAGE.csv|SE522751|54.169|-1.202|282|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=54.169&lon=-1.202&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/54.169,-1.202,16)  |
+|[HUTTON-CORRIE-SCHOOL](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/HUTTON-CORRIE-SCHOOL) [V3]|||||||
 |[HUTTON-CRANSWICK-THE-GREEN](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/main/DATA/HUTTON-CRANSWICK-THE-GREEN) [V2]|HUTTON-CRANSWICK-THE-GREEN.csv|TA023522|53.956|-0.442|66|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=53.956&lon=-0.442&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/53.956,-0.442,16)  |
 |[HUTTON-CRANSWICK-THE-VICARAGE](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/main/DATA/HUTTON-CRANSWICK-THE-VICARAGE) [V2]|HUTTON-CRANSWICK-THE-VICARAGE.csv|TA025534|53.967|-0.439|79|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=53.967&lon=-0.439&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/53.967,-0.439,16)  |
 |[HUTTON-GREENWAY](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/main/DATA/HUTTON-GREENWAY) [V2]|HUTTON-GREENWAY.csv|TQ614948|51.629|0.330|325|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=51.629&lon=0.330&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/51.629,0.330,16)  |
@@ -2081,6 +2082,7 @@ Generation time: Tuesday 21/06/2022 08:03:40 BST
 |[JERSEY-ST-OUENS-MANOR](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/JERSEY-ST-OUENS-MANOR)|JERSEY-ST-OUENS-MANOR.csv|WV583528|49.225|-2.199|280|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=49.225&lon=-2.199&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/49.225,-2.199,16) [OSM](https://www.openstreetmap.org/#map=16/49.225/-2.199) [GGL](https://www.google.co.uk/maps/@49.225,-2.199,16z)|
 |[JERVISTON](https://github.com/ed-hawkins/rainfall-rescue/tree/master/POOR-LOCATIONS/JERVISTON) [POOR]|||||||
 |[JEVINGTON](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/JEVINGTON)|JEVINGTON.csv|TQ563013|50.790|0.216|274|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=50.790&lon=0.216&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/50.790,0.216,16)  |
+|[JOHNSTONE-GOODHOPE-SCHOOL](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/JOHNSTONE-GOODHOPE-SCHOOL) [V3]|||||||
 |[JOHNSTOWN-CASTLE](https://github.com/ed-hawkins/rainfall-rescue-data-eire/tree/main/DATA/JOHNSTOWN-CASTLE) [EIRE]|||||||
 |[JURA-ARDFIN](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/JURA-ARDFIN)|JURA-ARDFIN.csv|NR488636|55.800|-6.010|160|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=55.800&lon=-6.010&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/55.800,-6.010,16)  |
 |[JURA-ARDLUSSA](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/main/DATA/JURA-ARDLUSSA) [V2]|JURA-ARDLUSSA.csv|NR651879|56.026|-5.771|100|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=56.026&lon=-5.771&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/56.026,-5.771,16)  |

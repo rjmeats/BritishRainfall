@@ -1,4 +1,4 @@
-Generation time: Tuesday 21/06/2022 08:03:40 BST
+Generation time: Tuesday 21/06/2022 22:29:31 BST
 
 ## Locations U-Z
 
@@ -249,6 +249,7 @@ Generation time: Tuesday 21/06/2022 08:03:40 BST
 |[WALTON-ON-THE-HILL-LIVERPOOL](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/WALTON-ON-THE-HILL-LIVERPOOL)|WALTON-ON-THE-HILL-LIVERPOOL.csv|SJ350950|53.448|-2.980|119|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=53.448&lon=-2.980&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/53.448,-2.980,16)  |
 ||WALTON-ON-THE-HILL-LIVERPOOL-2.csv|SJ350950|53.448|-2.980|119|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=53.448&lon=-2.980&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/53.448,-2.980,16)  |
 |[WALTON-ON-THE-HILL-WALTON-MANOR](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/WALTON-ON-THE-HILL-WALTON-MANOR)|WALTON-ON-THE-HILL-WALTON-MANOR.csv|TQ221551|51.282|-0.251|600|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=51.282&lon=-0.251&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/51.282,-0.251,16)  |
+|[WAMPHRAY-SCHOOL](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/WAMPHRAY-SCHOOL) [V3]|||||||
 |[WANDSWORTH-COMMON-PATTEN-ROAD](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/main/DATA/WANDSWORTH-COMMON-PATTEN-ROAD) [V2]|WANDSWORTH-COMMON-PATTEN-ROAD.csv|TQ271737|51.448|-0.172|100|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=51.448&lon=-0.172&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/51.448,-0.172,16)  |
 ||WANDSWORTH-COMMON-PATTEN-ROAD-2.csv|TQ269734|51.445|-0.175|105|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=51.445&lon=-0.175&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/51.445,-0.175,16)  |
 |[WANDSWORTH-FURZEDOWN](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/main/DATA/WANDSWORTH-FURZEDOWN) [V2]|WANDSWORTH-FURZEDOWN.csv|TQ284728|51.440|-0.154|89|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=51.440&lon=-0.154&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/51.440,-0.154,16)  |
@@ -504,7 +505,7 @@ Generation time: Tuesday 21/06/2022 08:03:40 BST
 |[WENNINGTON-TATHAM-RECTORY](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/main/DATA/WENNINGTON-TATHAM-RECTORY) [V2]|WENNINGTON-TATHAM-RECTORY.csv|SD605694|54.119|-2.606|140|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=54.119&lon=-2.606&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/54.119,-2.606,16)  |
 |[WENTWORTH-WOODHOUSE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/WENTWORTH-WOODHOUSE)|WENTWORTH-WOODHOUSE.csv|SK393979|53.476|-1.409|360|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=53.476&lon=-1.409&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/53.476,-1.409,16)  |
 |[WEOBLEY-GARNSTONE](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/WEOBLEY-GARNSTONE) [V3]|||||||
-|[WEOBLY-SCHOOL](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/WEOBLY-SCHOOL) [V3]|||||||
+|[WEOBLEY-SCHOOL](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/WEOBLEY-SCHOOL) [V3]|||||||
 |[WERRINGTON-PARK](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/main/DATA/WERRINGTON-PARK) [V2]|WERRINGTON-PARK.csv|SX332872|50.660|-4.359|320|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=50.660&lon=-4.359&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/50.660,-4.359,16)  |
 |[WESSENDEN-BOBUS](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/WESSENDEN-BOBUS)|WESSENDEN-BOBUS.csv|SE036098|53.585|-1.947|1200|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=53.585&lon=-1.947&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/53.585,-1.947,16)  |
 |[WESSENDEN-BUTTERLEY-MOSS](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/WESSENDEN-BUTTERLEY-MOSS)|WESSENDEN-BUTTERLEY-MOSS.csv|SE047096|53.583|-1.930|1110|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=53.583&lon=-1.930&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/53.583,-1.930,16)  |
@@ -749,6 +750,7 @@ Generation time: Tuesday 21/06/2022 08:03:40 BST
 ||WHITELANDS-BURY-FARM-2.csv|TL783135|51.793|0.584|130|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=51.793&lon=0.584&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/51.793,0.584,16)  |
 |[WHITELEY-VILLAGE](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/main/DATA/WHITELEY-VILLAGE) [V2]|WHITELEY-VILLAGE.csv|TQ091624|51.350|-0.434|195|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=51.350&lon=-0.434&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/51.350,-0.434,16)  |
 |[WHITEPARISH-SARUM-QUARRY](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/main/DATA/WHITEPARISH-SARUM-QUARRY) [V2]|WHITEPARISH-SARUM-QUARRY.csv|SU219242|51.017|-1.689|345|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=51.017&lon=-1.689&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/51.017,-1.689,16)  |
+|[WHITESIDE-HILL](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/WHITESIDE-HILL) [V3]|||||||
 |[WHITHAUGH-LIDDESDALE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/WHITHAUGH-LIDDESDALE)|WHITHAUGH-LIDDESDALE.csv|NY489880|55.184|-2.804|400|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=55.184&lon=-2.804&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/55.184,-2.804,16)  |
 |[WHITHORN](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/main/DATA/WHITHORN) [V2]|WHITHORN.csv|NX445407|54.737|-4.416|207|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=54.737&lon=-4.416&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/54.737,-4.416,16)  |
 |[WHITHORN-CUTROACH](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/WHITHORN-CUTROACH)|WHITHORN-CUTROACH.csv|NX467357|54.693|-4.380|120|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=54.693&lon=-4.380&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/54.693,-4.380,16)  |
