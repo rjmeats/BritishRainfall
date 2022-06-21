@@ -1,4 +1,4 @@
-Generation time: Monday 20/06/2022 07:32:16 BST
+Generation time: Tuesday 21/06/2022 08:03:40 BST
 
 ## Locations K-O
 
@@ -839,6 +839,7 @@ Generation time: Monday 20/06/2022 07:32:16 BST
 |[LEIGH-PARK-HAVANT](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/main/DATA/LEIGH-PARK-HAVANT) [V2]|LEIGH-PARK-HAVANT.csv|SU720086|50.873|-0.977|120|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=50.873&lon=-0.977&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/50.873,-0.977,16)  |
 |[LEIGH-RES](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/LEIGH-RES)|LEIGH-RES.csv|TQ826866|51.549|0.632|137|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=51.549&lon=0.632&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/51.549,0.632,16)  |
 |[LEIGH-SEWAGE-WORKS](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/LEIGH-SEWAGE-WORKS)|LEIGH-SEWAGE-WORKS.csv|SJ661991|53.488|-2.512|67|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=53.488&lon=-2.512&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/53.488,-2.512,16)  |
+|[LEIGH-VICARAGE](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/LEIGH-VICARAGE) [V3]|||||||
 |[LEIGHOLT](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/main/DATA/LEIGHOLT) [V2]|LEIGHOLT.csv|ST486353|51.115|-2.736|186|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=51.115&lon=-2.736&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/51.115,-2.736,16)  |
 |[LEIGHTON](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/main/DATA/LEIGHTON) [V2]|LEIGHTON.csv|SP919249|51.915|-0.665|290|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=51.915&lon=-0.665&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/51.915,-0.665,16)  |
 |[LEIGHTON-BUZZARD-HEATH-ROAD](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/main/DATA/LEIGHTON-BUZZARD-HEATH-ROAD) [V2]|LEIGHTON-BUZZARD-HEATH-ROAD.csv|SP9206824798|51.914|-0.663|275|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=51.914&lon=-0.663&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/51.914,-0.663,16)  |
@@ -1739,6 +1740,8 @@ Generation time: Monday 20/06/2022 07:32:16 BST
 ||LYME-REGIS-2.csv|SY332927|50.730|-2.948|280|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=50.730&lon=-2.948&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/50.730,-2.948,16)  |
 ||LYME-REGIS-3.csv|SY332932|50.735|-2.948|120|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=50.735&lon=-2.948&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/50.735,-2.948,16)  |
 ||LYME-REGIS-4.csv|SY338919|50.723|-2.939|100|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=50.723&lon=-2.939&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/50.723,-2.939,16)  |
+|[LYME-REGIS-BOAT-HOUSE](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/LYME-REGIS-BOAT-HOUSE) [V3]|||||||
+|[LYME-REGIS-COLWAY-COTTAGE](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/LYME-REGIS-COLWAY-COTTAGE) [V3]|||||||
 |[LYME-REGIS-HIGHCLIFF](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/main/DATA/LYME-REGIS-HIGHCLIFF) [V2]|LYME-REGIS-HIGHCLIFF.csv|SY335919|50.723|-2.943|230|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=50.723&lon=-2.943&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/50.723,-2.943,16)  |
 ||LYME-REGIS-HIGHCLIFF-2.csv|SY334920|50.724|-2.944|330|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=50.724&lon=-2.944&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/50.724,-2.944,16)  |
 |[LYME-REGIS-HORN-BRIDGE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/LYME-REGIS-HORN-BRIDGE)|LYME-REGIS-HORN-BRIDGE.csv|SY337927|50.731|-2.940|85|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=50.731&lon=-2.940&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/50.731,-2.940,16)  |

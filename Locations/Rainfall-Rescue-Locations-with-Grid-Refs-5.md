@@ -1,4 +1,4 @@
-Generation time: Monday 20/06/2022 07:32:16 BST
+Generation time: Tuesday 21/06/2022 08:03:40 BST
 
 ## Locations P-T
 
@@ -56,6 +56,7 @@ Generation time: Monday 20/06/2022 07:32:16 BST
 |[PARKSTONE-BALMORAL-ROAD](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/main/DATA/PARKSTONE-BALMORAL-ROAD) [V2]|PARKSTONE-BALMORAL-ROAD.csv|SZ041914|50.722|-1.943|140|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=50.722&lon=-1.943&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/50.722,-1.943,16)  |
 |[PARKSTONE-FIRGROVE](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/main/DATA/PARKSTONE-FIRGROVE) [V2]|PARKSTONE-FIRGROVE.csv|SZ039918|50.726|-1.945|175|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=50.726&lon=-1.945&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/50.726,-1.945,16)  |
 |[PARKSTONE-ST-OSMUNDS-ROAD](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/main/DATA/PARKSTONE-ST-OSMUNDS-ROAD) [V2]|PARKSTONE-ST-OSMUNDS-ROAD.csv|SZ046907|50.716|-1.936|60|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=50.716&lon=-1.936&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/50.716,-1.936,16)  |
+|[PARKSTONE-THE-LAURELS](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/PARKSTONE-THE-LAURELS) [V3]|||||||
 |[PARSLOWS-HILLOCKS](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/main/DATA/PARSLOWS-HILLOCKS) [V2]|PARSLOWS-HILLOCKS.csv|SP827019|51.710|-0.804|770|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=51.710&lon=-0.804&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/51.710,-0.804,16)  |
 |[PARSON-DROVE-CLOUGHS-CROSS](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/PARSON-DROVE-CLOUGHS-CROSS)|PARSON-DROVE-CLOUGHS-CROSS.csv|TF369094|52.665|0.023|6|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=52.665&lon=0.023&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/52.665,0.023,16)  |
 |[PARTRIDGE-GREEN-LLOYTS-CROFT](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/main/DATA/PARTRIDGE-GREEN-LLOYTS-CROFT) [V2]|PARTRIDGE-GREEN-LLOYTS-CROFT.csv|TQ184189|50.957|-0.316|25|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=50.957&lon=-0.316&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/50.957,-0.316,16)  |
@@ -2577,6 +2578,8 @@ Generation time: Monday 20/06/2022 07:32:16 BST
 |[STUFFYNWOOD-HALL-MANSFIELD](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/STUFFYNWOOD-HALL-MANSFIELD)|STUFFYNWOOD-HALL-MANSFIELD.csv|SK527656|53.185|-1.213|389|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=53.185&lon=-1.213&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/53.185,-1.213,16)  |
 |[STURMINSTER-MARSHALL](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/STURMINSTER-MARSHALL)|STURMINSTER-MARSHALL.csv|SY947990|50.791|-2.077|85|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=50.791&lon=-2.077&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/50.791,-2.077,16)  |
 ||STURMINSTER-MARSHALL-2.csv|SY947990|50.791|-2.077|85|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=50.791&lon=-2.077&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/50.791,-2.077,16)  |
+|[STURMINSTER-NEWTON-BATH-ROAD](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/STURMINSTER-NEWTON-BATH-ROAD) [V3]|||||||
+|[STURMINSTER-NEWTON-CASTLE](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/STURMINSTER-NEWTON-CASTLE) [V3]|||||||
 |[STURMINSTER-NEWTON-RIVERSIDE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/STURMINSTER-NEWTON-RIVERSIDE)|STURMINSTER-NEWTON-RIVERSIDE.csv|ST783140|50.925|-2.310|200|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=50.925&lon=-2.310&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/50.925,-2.310,16)  |
 ||STURMINSTER-NEWTON-RIVERSIDE-2.csv|ST787138|50.924|-2.304|200|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=50.924&lon=-2.304&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/50.924,-2.304,16)  |
 |[STURMINSTER-NEWTON-STOCK-GAYLARD](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/main/DATA/STURMINSTER-NEWTON-STOCK-GAYLARD) [V2]|STURMINSTER-NEWTON-STOCK-GAYLARD.csv|ST721124|50.910|-2.398|300|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=50.910&lon=-2.398&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/50.910,-2.398,16)  |
@@ -2679,6 +2682,7 @@ Generation time: Monday 20/06/2022 07:32:16 BST
 |[SWANAGE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/SWANAGE)|SWANAGE.csv|SZ032785|50.606|-1.955|60|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=50.606&lon=-1.955&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/50.606,-1.955,16)  |
 ||SWANAGE-2.csv|SZ031777|50.600|-1.956|178|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=50.600&lon=-1.956&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/50.600,-1.956,16)  |
 ||SWANAGE-3.csv|SZ030794|50.614|-1.959|40|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=50.614&lon=-1.959&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/50.614,-1.959,16)  |
+|[SWANAGE-PANORAMA](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/SWANAGE-PANORAMA) [V3]|||||||
 |[SWANAGE-VICTORIA-HOTEL](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/SWANAGE-VICTORIA-HOTEL)|SWANAGE-VICTORIA-HOTEL.csv|SZ033786|50.607|-1.955|50|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=50.607&lon=-1.955&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/50.607,-1.955,16)  |
 |[SWANBOURNE-HOUSE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/SWANBOURNE-HOUSE)|SWANBOURNE-HOUSE.csv|SP799270|51.936|-0.839|411|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=51.936&lon=-0.839&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/51.936,-0.839,16)  |
 |[SWANINGTON-HEATH-HOUSE](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/main/DATA/SWANINGTON-HEATH-HOUSE) [V2]|SWANINGTON-HEATH-HOUSE.csv|TG1315718534|52.722|1.155|91|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=52.722&lon=1.155&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/52.722,1.155,16)  |
