@@ -1,4 +1,4 @@
-Generation time: Tuesday 21/06/2022 22:29:30 BST
+Generation time: Wednesday 22/06/2022 21:40:36 BST
 
 ## Locations A-B
 
@@ -636,6 +636,8 @@ Generation time: Tuesday 21/06/2022 22:29:30 BST
 ||ASHOP-HEAD-2.csv|SK068907|53.413|-1.899|1670|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=53.413&lon=-1.899&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/53.413,-1.899,16)  |
 |[ASHOPTON-COCKBRIDGE-FARM](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/main/DATA/ASHOPTON-COCKBRIDGE-FARM) [V2]|ASHOPTON-COCKBRIDGE-FARM.csv|SK192862|53.372|-1.713|620|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=53.372&lon=-1.713&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/53.372,-1.713,16)  |
 |[ASHOPTON-CUTTHROAT-BRIDGE](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/main/DATA/ASHOPTON-CUTTHROAT-BRIDGE) [V2]|ASHOPTON-CUTTHROAT-BRIDGE.csv|SK213875|53.384|-1.681|994|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=53.384&lon=-1.681&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/53.384,-1.681,16)  |
+|[ASHOPTON-HAGLEE](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/ASHOPTON-HAGLEE) [V3]|||||||
+|[ASHOPTON-INN](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/ASHOPTON-INN) [V3]|||||||
 |[ASHOPTON-MOSCAR-FLAT](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/main/DATA/ASHOPTON-MOSCAR-FLAT) [V2]|ASHOPTON-MOSCAR-FLAT.csv|SK236879|53.387|-1.647|1154|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=53.387&lon=-1.647&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/53.387,-1.647,16)  |
 |[ASHOPTON-WIN-HILL](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/ASHOPTON-WIN-HILL)|ASHOPTON-WIN-HILL.csv|SK188855|53.366|-1.719|1155|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=53.366&lon=-1.719&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/53.366,-1.719,16)  |
 ||ASHOPTON-WIN-HILL-2.csv|SK188854|53.365|-1.719|1240|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=53.365&lon=-1.719&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/53.365,-1.719,16)  |
@@ -1678,6 +1680,7 @@ Generation time: Tuesday 21/06/2022 22:29:30 BST
 |[BLEAKLOW-HILL](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/main/DATA/BLEAKLOW-HILL) [V2]|BLEAKLOW-HILL.csv|SK102960|53.461|-1.848|2050|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=53.461&lon=-1.848&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/53.461,-1.848,16)  |
 |[BLEAKLOW-HILL-DOWSTONE-ROCKS](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/main/DATA/BLEAKLOW-HILL-DOWSTONE-ROCKS) [V2]|BLEAKLOW-HILL-DOWSTONE-ROCKS.csv|SK093979|53.478|-1.861|1718|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=53.478&lon=-1.861&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/53.478,-1.861,16)  |
 |[BLEAKLOW-HILL-FAR-BLACK-CLOUGH](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/main/DATA/BLEAKLOW-HILL-FAR-BLACK-CLOUGH) [V2]|BLEAKLOW-HILL-FAR-BLACK-CLOUGH.csv|SK127984|53.482|-1.810|1683|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=53.482&lon=-1.810&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/53.482,-1.810,16)  |
+|[BLEAKLOW-STONES](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/BLEAKLOW-STONES) [V3]|||||||
 |[BLETCHINGLEY-BREWER-STREET](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/main/DATA/BLETCHINGLEY-BREWER-STREET) [V2]|BLETCHINGLEY-BREWER-STREET.csv|TQ325526|51.257|-0.103|410|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=51.257&lon=-0.103&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/51.257,-0.103,16)  |
 |[BLETCHINGLEY-SOUTH-PARK-FARM](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/BLETCHINGLEY-SOUTH-PARK-FARM)|BLETCHINGLEY-SOUTH-PARK-FARM.csv|TQ341488|51.223|-0.081|340|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=51.223&lon=-0.081&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/51.223,-0.081,16)  |
 |[BLETCHLEY-BLETCHLEY-PARK](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/main/DATA/BLETCHLEY-BLETCHLEY-PARK) [V2]|BLETCHLEY-BLETCHLEY-PARK.csv|SP866342|51.999|-0.740|320|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=51.999&lon=-0.740&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/51.999,-0.740,16)  |

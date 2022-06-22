@@ -1,4 +1,4 @@
-Generation time: Tuesday 21/06/2022 22:29:31 BST
+Generation time: Wednesday 22/06/2022 21:40:37 BST
 
 ## Locations P-T
 
@@ -888,6 +888,7 @@ Generation time: Tuesday 21/06/2022 22:29:31 BST
 |[RICKMANSWORTH-CROXLEY-GREEN](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/RICKMANSWORTH-CROXLEY-GREEN)|RICKMANSWORTH-CROXLEY-GREEN.csv|TQ070956|51.649|-0.455|250|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=51.649&lon=-0.455&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/51.649,-0.455,16)  |
 |[RICKMANSWORTH-MOOR-PARK](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/RICKMANSWORTH-MOOR-PARK)|RICKMANSWORTH-MOOR-PARK.csv|TQ075933|51.628|-0.448|340|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=51.628&lon=-0.448&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/51.628,-0.448,16)  |
 |[RIDGEHILL](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/main/DATA/RIDGEHILL) [V2]|RIDGEHILL.csv|ST541625|51.360|-2.661|400|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=51.360&lon=-2.661&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/51.360,-2.661,16)  |
+|[RIDGEWALK-MOOR](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/RIDGEWALK-MOOR) [V3]|||||||
 |[RIDGEWELL-RIDGEWELL-HILL](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/main/DATA/RIDGEWELL-RIDGEWELL-HILL) [V2]|RIDGEWELL-RIDGEWELL-HILL.csv|TL744409|52.039|0.541|269|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=52.039&lon=0.541&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/52.039,0.541,16)  |
 |[RIG-OF-MILLMORE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/RIG-OF-MILLMORE)|RIG-OF-MILLMORE.csv|NX435886|55.167|-4.458|1450|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=55.167&lon=-4.458&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/55.167,-4.458,16)  |
 |[RILLINGTON-SCAMPSTON-HALL](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/RILLINGTON-SCAMPSTON-HALL)|RILLINGTON-SCAMPSTON-HALL.csv|SE864757|54.170|-0.678|101|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=54.170&lon=-0.678&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/54.170,-0.678,16)  |
@@ -2218,6 +2219,7 @@ Generation time: Tuesday 21/06/2022 22:29:31 BST
 ||STAMFORD-ST-GEORGES-SQUARE-3.csv|TF031070|52.651|-0.477|90|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=52.651&lon=-0.477&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/52.651,-0.477,16)  |
 |[STAMFORDHAM](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/STAMFORDHAM)|STAMFORDHAM.csv|NZ076719|55.042|-1.883|422|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=55.042&lon=-1.883&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/55.042,-1.883,16)  |
 ||STAMFORDHAM-2.csv|NZ076719|55.042|-1.883|456|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=55.042&lon=-1.883&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/55.042,-1.883,16)  |
+|[STANAGE-REDMIRES](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/STANAGE-REDMIRES) [V3]|||||||
 |[STANCLIFFE-HALL](https://github.com/ed-hawkins/rainfall-rescue/tree/master/POOR-LOCATIONS/STANCLIFFE-HALL) [POOR]|STANCLIFFE-HALL.csv|SK267639|53.172|-1.602|530|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=53.172&lon=-1.602&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/53.172,-1.602,16)  |
 |[STANDEDGE-CASTLE-SHAW-BROADHEAD](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/STANDEDGE-CASTLE-SHAW-BROADHEAD)|STANDEDGE-CASTLE-SHAW-BROADHEAD.csv|SD9975210276|53.589|-2.005|876|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=53.589&lon=-2.005&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/53.589,-2.005,16)  |
 ||STANDEDGE-CASTLE-SHAW-BROADHEAD-2.csv|SD9975210276|53.589|-2.005|876|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=53.589&lon=-2.005&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/53.589,-2.005,16)  |
@@ -2935,6 +2937,7 @@ Generation time: Tuesday 21/06/2022 22:29:31 BST
 |[THAME-TYTHROP-HOUSE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/THAME-TYTHROP-HOUSE)|THAME-TYTHROP-HOUSE.csv|SP739070|51.757|-0.931|266|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=51.757&lon=-0.931&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/51.757,-0.931,16)  |
 |[THE-HYDE-CRAWLEY](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/THE-HYDE-CRAWLEY)|THE-HYDE-CRAWLEY.csv|TQ246301|51.057|-0.224|300|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=51.057&lon=-0.224&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/51.057,-0.224,16)  |
 |[THE-NEEDLES-GOLF-CLUB](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/THE-NEEDLES-GOLF-CLUB)|THE-NEEDLES-GOLF-CLUB.csv|SZ315855|50.668|-1.556|280|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=50.668&lon=-1.556&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/50.668,-1.556,16)  |
+|[THE-PEAK-FAIRBROOK](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/THE-PEAK-FAIRBROOK) [V3]|||||||
 |[THE-STYE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/THE-STYE)|THE-STYE.csv|NY230107|54.486|-3.190|948|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=54.486&lon=-3.190&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/54.486,-3.190,16)  |
 ||THE-STYE-2.csv|NY230108|54.487|-3.190|1077|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=54.487&lon=-3.190&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/54.487,-3.190,16)  |
 ||THE-STYE-3.csv|NY230108|54.487|-3.190|1077|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=54.487&lon=-3.190&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/54.487,-3.190,16)  |
