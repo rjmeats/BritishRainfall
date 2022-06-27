@@ -1,4 +1,4 @@
-Generation time: Wednesday 22/06/2022 21:40:37 BST
+Generation time: Monday 27/06/2022 07:42:54 BST
 
 ## Locations U-Z
 
@@ -575,6 +575,7 @@ Generation time: Wednesday 22/06/2022 21:40:37 BST
 |[WEST-LAVINGTON-DAUNTSEYS-SCHOOL](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/main/DATA/WEST-LAVINGTON-DAUNTSEYS-SCHOOL) [V2]|WEST-LAVINGTON-DAUNTSEYS-SCHOOL.csv|SU000535|51.281|-2.001|305|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=51.281&lon=-2.001&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/51.281,-2.001,16)  |
 |[WEST-LINTON-BADDINGSGILL-RES](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/main/DATA/WEST-LINTON-BADDINGSGILL-RES) [V2]|WEST-LINTON-BADDINGSGILL-RES.csv|NT126554|55.784|-3.395|1100|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=55.784&lon=-3.395&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/55.784,-3.395,16)  |
 |[WEST-LINTON-CENTRAL-SCHOOL](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/WEST-LINTON-CENTRAL-SCHOOL)|WEST-LINTON-CENTRAL-SCHOOL.csv|NT150520|55.754|-3.356|800|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=55.754&lon=-3.356&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/55.754,-3.356,16)  |
+|[WEST-LINTON-RECTORY](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/WEST-LINTON-RECTORY) [V3]|||||||
 |[WEST-LINTON-RUTHERFORD-HOUSE](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/main/DATA/WEST-LINTON-RUTHERFORD-HOUSE) [V2]|WEST-LINTON-RUTHERFORD-HOUSE.csv|NT159544|55.776|-3.342|970|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=55.776&lon=-3.342&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/55.776,-3.342,16)  |
 |[WEST-LINTON-WOODLEA-COTTAGE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/WEST-LINTON-WOODLEA-COTTAGE)|WEST-LINTON-WOODLEA-COTTAGE.csv|NT159507|55.742|-3.341|801|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=55.742&lon=-3.341&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/55.742,-3.341,16)  |
 |[WEST-LOCH-TARBERT-ARDPATRICK](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/main/DATA/WEST-LOCH-TARBERT-ARDPATRICK) [V2]|WEST-LOCH-TARBERT-ARDPATRICK.csv|NR752593|55.775|-5.586|25|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=55.775&lon=-5.586&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/55.775,-5.586,16)  |
@@ -767,6 +768,7 @@ Generation time: Wednesday 22/06/2022 21:40:37 BST
 |[WHITMINSTER-THE-JUNCTION](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/WHITMINSTER-THE-JUNCTION)|WHITMINSTER-THE-JUNCTION.csv|SO756093|51.782|-2.355|32|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=51.782&lon=-2.355&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/51.782,-2.355,16)  |
 |[WHITMORE-PUMPING-STATION](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/main/DATA/WHITMORE-PUMPING-STATION) [V2]|WHITMORE-PUMPING-STATION.csv|SJ799400|52.957|-2.301|396|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=52.957&lon=-2.301&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/52.957,-2.301,16)  |
 |[WHITNEY-ON-WYE-WHITNEY-COURT](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/WHITNEY-ON-WYE-WHITNEY-COURT) [V3]|||||||
+|[WHITSOME-HILL](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/WHITSOME-HILL) [V3]|||||||
 |[WHITSTABLE-GREEN-LEES](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/main/DATA/WHITSTABLE-GREEN-LEES) [V2]|WHITSTABLE-GREEN-LEES.csv|TR108633|51.330|1.024|125|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=51.330&lon=1.024&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/51.330,1.024,16)  |
 |[WHITSTABLE-WESTERN-HOUSE](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/main/DATA/WHITSTABLE-WESTERN-HOUSE) [V2]|WHITSTABLE-WESTERN-HOUSE.csv|TR107661|51.355|1.025|17|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=51.355&lon=1.025&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/51.355,1.025,16)  |
 ||WHITSTABLE-WESTERN-HOUSE-2.csv|TR107661|51.355|1.025|17|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=51.355&lon=1.025&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/51.355,1.025,16)  |
