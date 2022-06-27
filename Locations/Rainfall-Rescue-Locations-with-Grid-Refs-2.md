@@ -1,4 +1,4 @@
-Generation time: Monday 27/06/2022 07:42:54 BST
+Generation time: Monday 27/06/2022 23:35:44 BST
 
 ## Locations C-F
 
@@ -13,6 +13,7 @@ Generation time: Monday 27/06/2022 07:42:54 BST
 |[CADDONFOOT-FAIRNILEE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/CADDONFOOT-FAIRNILEE)|CADDONFOOT-FAIRNILEE.csv|NT456332|55.589|-2.865|450|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=55.589&lon=-2.865&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/55.589,-2.865,16)  |
 |[CADNAM-CANTERTON-MANOR](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/main/DATA/CADNAM-CANTERTON-MANOR) [V2]|CADNAM-CANTERTON-MANOR.csv|SU273135|50.920|-1.613|190|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=50.920&lon=-1.613&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/50.920,-1.613,16)  |
 ||CADNAM-CANTERTON-MANOR-2.csv|SU269137|50.922|-1.619|160|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=50.922&lon=-1.619&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/50.922,-1.619,16)  |
+|[CAE-GWYN](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/CAE-GWYN) [V3]|||||||
 |[CAERGWRLE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/CAERGWRLE)|CAERGWRLE.csv|SJ306576|53.111|-3.038|250|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=53.111&lon=-3.038&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/53.111,-3.038,16)  |
 ||CAERGWRLE-2.csv|SJ299580|53.115|-3.049|300|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=53.115&lon=-3.049&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/53.115,-3.049,16)  |
 |[CAERLEON-CWM-Y-WIWER](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/main/DATA/CAERLEON-CWM-Y-WIWER) [V2]|CAERLEON-CWM-Y-WIWER.csv|ST356942|51.643|-2.932|112|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=51.643&lon=-2.932&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/51.643,-2.932,16)  |
