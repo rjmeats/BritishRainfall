@@ -1,4 +1,4 @@
-Generation time: Friday 01/07/2022 07:22:32 BST
+Generation time: Saturday 02/07/2022 10:38:42 BST
 
 ## Locations C-F
 
@@ -1383,6 +1383,7 @@ Generation time: Friday 01/07/2022 07:22:32 BST
 |[CREDENHILL](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/CREDENHILL)|CREDENHILL.csv|SO447436|52.088|-2.809|280|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=52.088&lon=-2.809&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/52.088,-2.809,16)  |
 |[CREDENHILL-STRETTON-SUGWAS](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/CREDENHILL-STRETTON-SUGWAS)|CREDENHILL-STRETTON-SUGWAS.csv|SO470432|52.085|-2.775|226|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=52.085&lon=-2.775&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/52.085,-2.775,16)  |
 |[CREDITON-HAYWARDS-SCHOOL](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/CREDITON-HAYWARDS-SCHOOL)|CREDITON-HAYWARDS-SCHOOL.csv|SS837001|50.789|-3.651|186|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=50.789&lon=-3.651&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/50.789,-3.651,16)  |
+|[CREDITON-HOOKWAY](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/CREDITON-HOOKWAY) [V3]|||||||
 |[CREDITON-OKEFIELD](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/CREDITON-OKEFIELD)|CREDITON-OKEFIELD.csv|SS832007|50.794|-3.659|325|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=50.794&lon=-3.659&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/50.794,-3.659,16)  |
 ||CREDITON-OKEFIELD-2.csv|SS832006|50.793|-3.659|275|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=50.793&lon=-3.659&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/50.793,-3.659,16)  |
 |[CREDITON-SHIP-HOTEL](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/CREDITON-SHIP-HOTEL) [V3]|||||||
@@ -2446,6 +2447,7 @@ Generation time: Friday 01/07/2022 07:22:32 BST
 |[EAST-BUDLEIGH](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/main/DATA/EAST-BUDLEIGH) [V2]|EAST-BUDLEIGH.csv|SY071845|50.653|-3.315|70|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=50.653&lon=-3.315&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/50.653,-3.315,16)  |
 |[EAST-BUDLEIGH-BICTON](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/EAST-BUDLEIGH-BICTON)|EAST-BUDLEIGH-BICTON.csv|SY073859|50.666|-3.312|90|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=50.666&lon=-3.312&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/50.666,-3.312,16)  |
 |[EAST-BUDLEIGH-BICTON-OLD-RECTORY](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/EAST-BUDLEIGH-BICTON-OLD-RECTORY) [V3]|||||||
+|[EAST-BUDLEIGH-OTTERTON-VICARAGE](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/EAST-BUDLEIGH-OTTERTON-VICARAGE) [V3]|||||||
 |[EAST-BUDLEIGH-YETTINGTON-INTAKES](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/EAST-BUDLEIGH-YETTINGTON-INTAKES)|EAST-BUDLEIGH-YETTINGTON-INTAKES.csv|SY038858|50.664|-3.363|300|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=50.664&lon=-3.363&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/50.664,-3.363,16)  |
 |[EAST-COWES-SPRING-HILL](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/EAST-COWES-SPRING-HILL)|EAST-COWES-SPRING-HILL.csv|SZ509960|50.762|-1.279|123|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=50.762&lon=-1.279&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/50.762,-1.279,16)  |
 |[EAST-DEREHAM-THE-LABORATORY](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/main/DATA/EAST-DEREHAM-THE-LABORATORY) [V2]|EAST-DEREHAM-THE-LABORATORY.csv|TF994132|52.680|0.948|200|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=52.680&lon=0.948&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/52.680,0.948,16)  |
