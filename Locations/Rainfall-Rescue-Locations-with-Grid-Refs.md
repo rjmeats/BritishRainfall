@@ -1,4 +1,4 @@
-Generation time: Tuesday 12/07/2022 12:14:41 BST
+Generation time: Wednesday 13/07/2022 16:38:30 BST
 
 ## Locations A-B
 
@@ -1045,6 +1045,7 @@ Generation time: Tuesday 12/07/2022 12:14:41 BST
 ||BARROW-IN-FURNESS-GAS-WORKS-2.csv|SD218689|54.110|-3.198|17|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=54.110&lon=-3.198&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/54.110,-3.198,16)  |
 |[BARROW-IN-FURNESS-RISEDALE-SCHOOL](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/main/DATA/BARROW-IN-FURNESS-RISEDALE-SCHOOL) [V2]|BARROW-IN-FURNESS-RISEDALE-SCHOOL.csv|SD209695|54.115|-3.212|55|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=54.115&lon=-3.212&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/54.115,-3.212,16)  |
 |[BARROW-IN-FURNESS-SEWAGE-WORKS](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/BARROW-IN-FURNESS-SEWAGE-WORKS)|BARROW-IN-FURNESS-SEWAGE-WORKS.csv|SD215688|54.109|-3.202|20|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=54.109&lon=-3.202&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/54.109,-3.202,16)  |
+|[BARROW-UPON-SOAR-STRANCLIFFE](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/BARROW-UPON-SOAR-STRANCLIFFE) [V3]|||||||
 |[BARROW-UPON-SOAR-THE-MOUNT](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/BARROW-UPON-SOAR-THE-MOUNT)|BARROW-UPON-SOAR-THE-MOUNT.csv|SK574173|52.750|-1.151|180|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=52.750&lon=-1.151&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/52.750,-1.151,16)  |
 |[BARROWBY-LLOYD](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/BARROWBY-LLOYD)|BARROWBY-LLOYD.csv|SE390336|53.797|-1.409|275|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=53.797&lon=-1.409&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/53.797,-1.409,16)  |
 |[BARROWFORD-RES](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/BARROWFORD-RES)|BARROWFORD-RES.csv|SD868403|53.859|-2.202|473|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=53.859&lon=-2.202&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/53.859,-2.202,16)  |
@@ -1290,6 +1291,7 @@ Generation time: Tuesday 12/07/2022 12:14:41 BST
 |[BELPER-MILFORD](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/main/DATA/BELPER-MILFORD) [V2]|BELPER-MILFORD.csv|SK350450|53.001|-1.480|210|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=53.001&lon=-1.480&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/53.001,-1.480,16)  |
 |[BELPER-QUARRY-BANK](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/main/DATA/BELPER-QUARRY-BANK) [V2]|BELPER-QUARRY-BANK.csv|SK346480|53.028|-1.486|225|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=53.028&lon=-1.486&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/53.028,-1.486,16)  |
 ||BELPER-QUARRY-BANK-2.csv|SK348483|53.031|-1.483|280|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=53.031&lon=-1.483&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/53.031,-1.483,16)  |
+|[BELTON-VICARAGE](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/BELTON-VICARAGE) [V3]|||||||
 |[BELTURBET-CLOVERHILL](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/BELTURBET-CLOVERHILL)|BELTURBET-CLOVERHILL.csv|IH4122315244|54.085|-7.371|200|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=54.085&lon=-7.371&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/54.085,-7.371,16) [OSM](https://www.openstreetmap.org/#map=16/54.085/-7.371) [GGL](https://www.google.co.uk/maps/@54.085,-7.371,16z)|
 |[BELTURBET-RED-HILLS](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/BELTURBET-RED-HILLS)|BELTURBET-RED-HILLS.csv|IH4460017000|54.100|-7.319|208|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=54.100&lon=-7.319&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/54.100,-7.319,16) [OSM](https://www.openstreetmap.org/#map=16/54.100/-7.319) [GGL](https://www.google.co.uk/maps/@54.100,-7.319,16z)|
 |[BELVOIR-CASTLE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/BELVOIR-CASTLE)|BELVOIR-CASTLE.csv|SK823334|52.892|-0.778|260|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=52.892&lon=-0.778&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/52.892,-0.778,16)  |

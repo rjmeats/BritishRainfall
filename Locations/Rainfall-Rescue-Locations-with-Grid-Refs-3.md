@@ -1,4 +1,4 @@
-Generation time: Tuesday 12/07/2022 12:14:41 BST
+Generation time: Wednesday 13/07/2022 16:38:30 BST
 
 ## Locations G-J
 
@@ -793,6 +793,7 @@ Generation time: Tuesday 12/07/2022 12:14:41 BST
 |[GULLANE-GOLF-CLUB](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/main/DATA/GULLANE-GOLF-CLUB) [V2]|GULLANE-GOLF-CLUB.csv|NT478827|56.034|-2.839|97|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=56.034&lon=-2.839&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/56.034,-2.839,16)  |
 |[GULLANE-THE-WARREN](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/main/DATA/GULLANE-THE-WARREN) [V2]|GULLANE-THE-WARREN.csv|NT477829|56.036|-2.841|115|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=56.036&lon=-2.841&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/56.036,-2.841,16)  |
 |[GULVAL-EXPERIMENTAL-STATION](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/GULVAL-EXPERIMENTAL-STATION)|GULVAL-EXPERIMENTAL-STATION.csv|SW486317|50.132|-5.519|40|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=50.132&lon=-5.519&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/50.132,-5.519,16)  |
+|[GUMLEY-RECTORY](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/GUMLEY-RECTORY) [V3]|||||||
 |[GUNN-GROVE-COTTAGE](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/GUNN-GROVE-COTTAGE) [V3]|||||||
 |[GUNNERSBURY-STATION](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/main/DATA/GUNNERSBURY-STATION) [V2]|GUNNERSBURY-STATION.csv|TQ198783|51.491|-0.276|35|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=51.491&lon=-0.276&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/51.491,-0.276,16)  |
 |[GUNNISLAKE-DELAWARE-SCHOOL](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/main/DATA/GUNNISLAKE-DELAWARE-SCHOOL) [V2]|GUNNISLAKE-DELAWARE-SCHOOL.csv|SX422707|50.515|-4.227|570|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=50.515&lon=-4.227&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/50.515,-4.227,16)  |
@@ -2089,6 +2090,7 @@ Generation time: Tuesday 12/07/2022 12:14:41 BST
 |[ITCHEN-ABBAS-CHILLAND](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/ITCHEN-ABBAS-CHILLAND)|ITCHEN-ABBAS-CHILLAND.csv|SU523326|51.090|-1.255|200|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=51.090&lon=-1.255&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/51.090,-1.255,16)  |
 |[ITCHEN-ABBAS-THE-DOWN-HOUSE](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/main/DATA/ITCHEN-ABBAS-THE-DOWN-HOUSE) [V2]|ITCHEN-ABBAS-THE-DOWN-HOUSE.csv|SU533328|51.092|-1.239|200|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=51.092&lon=-1.239&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/51.092,-1.239,16)  |
 ||ITCHEN-ABBAS-THE-DOWN-HOUSE-2.csv|SU529327|51.092|-1.246|205|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=51.092&lon=-1.246&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/51.092,-1.246,16)  |
+|[ITCHEN-STOKE-RECTORY](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/ITCHEN-STOKE-RECTORY) [V3]|||||||
 |[ITHON-ABBEY-CWM-HIR](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/main/DATA/ITHON-ABBEY-CWM-HIR) [V2]|ITHON-ABBEY-CWM-HIR.csv|SO054711|52.330|-3.390|840|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=52.330&lon=-3.390&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/52.330,-3.390,16)  |
 |[ITHON-CROCHRAN](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/main/DATA/ITHON-CROCHRAN) [V2]|ITHON-CROCHRAN.csv|SO088806|52.416|-3.342|1280|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=52.416&lon=-3.342&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/52.416,-3.342,16)  |
 |[IVYBRIDGE](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/main/DATA/IVYBRIDGE) [V2]|IVYBRIDGE.csv|SX631560|50.388|-3.926|175|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=50.388&lon=-3.926&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/50.388,-3.926,16)  |

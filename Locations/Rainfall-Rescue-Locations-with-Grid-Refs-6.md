@@ -1,4 +1,4 @@
-Generation time: Tuesday 12/07/2022 12:14:42 BST
+Generation time: Wednesday 13/07/2022 16:38:30 BST
 
 ## Locations U-Z
 
@@ -807,6 +807,7 @@ Generation time: Tuesday 12/07/2022 12:14:42 BST
 |[WHITTLESEY-GLASSMOOR-BUNGALOW](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/WHITTLESEY-GLASSMOOR-BUNGALOW) [V3]|||||||
 |[WHITTLESFORD-SAWSTON-HALL](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/main/DATA/WHITTLESFORD-SAWSTON-HALL) [V2]|WHITTLESFORD-SAWSTON-HALL.csv|TL489493|52.122|0.174|86|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=52.122&lon=0.174&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/52.122,0.174,16)  |
 |[WHITTLESFORD-SCOTTS](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/WHITTLESFORD-SCOTTS)|WHITTLESFORD-SCOTTS.csv|TL471481|52.112|0.147|70|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=52.112&lon=0.147&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/52.112,0.147,16)  |
+|[WHITWICK-MOUNT-ST-BERNARDS-ABBEY](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/WHITWICK-MOUNT-ST-BERNARDS-ABBEY) [V3]|||||||
 |[WHORLTON-VICARAGE](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/main/DATA/WHORLTON-VICARAGE) [V2]|WHORLTON-VICARAGE.csv|NZ105147|54.527|-1.839|400|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=54.527&lon=-1.839&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/54.527,-1.839,16)  |
 |[WICK-COASTGUARD-STATION](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/WICK-COASTGUARD-STATION)|WICK-COASTGUARD-STATION.csv|ND374498|58.432|-3.074|77|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=58.432&lon=-3.074&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/58.432,-3.074,16)  |
 ||WICK-COASTGUARD-STATION-2.csv|ND366523|58.454|-3.088|119|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=58.454&lon=-3.088&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/58.454,-3.088,16)  |
@@ -1020,6 +1021,7 @@ Generation time: Tuesday 12/07/2022 12:14:42 BST
 |[WITHAM-RIVENHALL-RECTORY](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/main/DATA/WITHAM-RIVENHALL-RECTORY) [V2]|WITHAM-RIVENHALL-RECTORY.csv|TL823165|51.817|0.643|138|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=51.817&lon=0.643&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/51.817,0.643,16)  |
 |[WITHAM-TERLING-VICARAGE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/WITHAM-TERLING-VICARAGE)|WITHAM-TERLING-VICARAGE.csv|TL766148|51.804|0.560|115|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=51.804&lon=0.560&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/51.804,0.560,16)  |
 |[WITHAM-WICKHAM-HALL](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/WITHAM-WICKHAM-HALL)|WITHAM-WICKHAM-HALL.csv|TL830105|51.763|0.650|60|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=51.763&lon=0.650&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/51.763,0.650,16)  |
+|[WITHCOTE-HALL](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/WITHCOTE-HALL) [V3]|||||||
 |[WITHENS-MOOR-WEST-WITHENS](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/main/DATA/WITHENS-MOOR-WEST-WITHENS) [V2]|WITHENS-MOOR-WEST-WITHENS.csv|SE114022|53.516|-1.830|1382|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=53.516&lon=-1.830&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/53.516,-1.830,16)  |
 |[WITHERIDGE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/WITHERIDGE)|WITHERIDGE.csv|SS801140|50.913|-3.707|600|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=50.913&lon=-3.707&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/50.913,-3.707,16)  |
 ||WITHERIDGE-2.csv|SS804145|50.918|-3.703|600|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=50.918&lon=-3.703&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/50.918,-3.703,16)  |
