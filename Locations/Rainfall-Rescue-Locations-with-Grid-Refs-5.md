@@ -1,4 +1,4 @@
-Generation time: Wednesday 13/07/2022 16:38:30 BST
+Generation time: Thursday 14/07/2022 17:37:03 BST
 
 ## Locations P-T
 
@@ -1092,6 +1092,7 @@ Generation time: Wednesday 13/07/2022 16:38:30 BST
 |[ROSS-THE-CHANTRY](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/ROSS-THE-CHANTRY) [V3]|||||||
 |[ROSS-THE-GRAIG-BIRCHLEA](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/ROSS-THE-GRAIG-BIRCHLEA)|ROSS-THE-GRAIG-BIRCHLEA.csv|SO596235|51.909|-2.589|213|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=51.909&lon=-2.589&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/51.909,-2.589,16)  |
 |[ROSSINGTON-MAIN-COLLIERY](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/main/DATA/ROSSINGTON-MAIN-COLLIERY) [V2]|ROSSINGTON-MAIN-COLLIERY.csv|SK602984|53.479|-1.094|32|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=53.479&lon=-1.094&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/53.479,-1.094,16)  |
+|[ROSTHWAITE-CASTLE-LODGE](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/ROSTHWAITE-CASTLE-LODGE) [V3]|||||||
 |[ROTHAMSTED](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/ROTHAMSTED)|ROTHAMSTED.csv|TL132134|51.808|-0.359|420|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=51.808&lon=-0.359&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/51.808,-0.359,16)  |
 ||ROTHAMSTED-2.csv|TL132134|51.808|-0.359|420|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=51.808&lon=-0.359&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/51.808,-0.359,16)  |
 ||ROTHAMSTED-3.csv|TL132134|51.808|-0.359|420|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=51.808&lon=-0.359&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/51.808,-0.359,16)  |
@@ -1725,6 +1726,7 @@ Generation time: Wednesday 13/07/2022 16:38:30 BST
 |[SILKSTONE-CHAMPANY-HILL-RES](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/main/DATA/SILKSTONE-CHAMPANY-HILL-RES) [V2]|SILKSTONE-CHAMPANY-HILL-RES.csv|SE300048|53.539|-1.549|625|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=53.539&lon=-1.549&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/53.539,-1.549,16)  |
 |[SILLOTH](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/SILLOTH)|SILLOTH.csv|NY111539|54.872|-3.387|28|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=54.872&lon=-3.387&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/54.872,-3.387,16)  |
 |[SILLOTH-AIRFIELD](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/main/DATA/SILLOTH-AIRFIELD) [V2]|SILLOTH-AIRFIELD.csv|NY125537|54.870|-3.365|25|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=54.870&lon=-3.365&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/54.870,-3.365,16)  |
+|[SILLOTH-PREPARATORY-SCHOOL](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/SILLOTH-PREPARATORY-SCHOOL) [V3]|||||||
 |[SILPHO-MOOR](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/main/DATA/SILPHO-MOOR) [V2]|SILPHO-MOOR.csv|SE957946|54.338|-0.530|662|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=54.338&lon=-0.530&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/54.338,-0.530,16)  |
 |[SILSDEN-BOLTON-ROAD](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/SILSDEN-BOLTON-ROAD)|SILSDEN-BOLTON-ROAD.csv|SE042466|53.916|-1.938|432|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=53.916&lon=-1.938&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/53.916,-1.938,16)  |
 |[SILSDEN-GILL-GRANGE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/SILSDEN-GILL-GRANGE)|SILSDEN-GILL-GRANGE.csv|SE067459|53.909|-1.899|883|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=53.909&lon=-1.899&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/53.909,-1.899,16)  |
@@ -2331,6 +2333,7 @@ Generation time: Wednesday 13/07/2022 16:38:30 BST
 ||STAPLEHURST-PAGEHURST-FARM-4.csv|TQ750440|51.169|0.502|80|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=51.169&lon=0.502&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/51.169,0.502,16)  |
 |[STAPLEHURST-PARK](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/main/DATA/STAPLEHURST-PARK) [V2]|STAPLEHURST-PARK.csv|TQ789424|51.153|0.557|73|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=51.153&lon=0.557&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/51.153,0.557,16)  |
 |[STAPLETON-PARK-GDNS-PONTEFRACT](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/STAPLETON-PARK-GDNS-PONTEFRACT)|STAPLETON-PARK-GDNS-PONTEFRACT.csv|SE506194|53.669|-1.236|50|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=53.669&lon=-1.236&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/53.669,-1.236,16)  |
+|[STAPLETON-WESTFIELD-HOUSE](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/STAPLETON-WESTFIELD-HOUSE) [V3]|||||||
 |[STARCROSS](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/STARCROSS)|STARCROSS.csv|SX974813|50.623|-3.451|12|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=50.623&lon=-3.451&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/50.623,-3.451,16)  |
 ||STARCROSS-2.csv|SX972821|50.630|-3.455|29|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=50.630&lon=-3.455&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/50.630,-3.455,16)  |
 |[STARCROSS-COFTON-VICARAGE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/STARCROSS-COFTON-VICARAGE)|STARCROSS-COFTON-VICARAGE.csv|SX975805|50.616|-3.449|60|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=50.616&lon=-3.449&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/50.616,-3.449,16)  |

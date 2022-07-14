@@ -1,4 +1,4 @@
-Generation time: Wednesday 13/07/2022 16:38:30 BST
+Generation time: Thursday 14/07/2022 17:37:03 BST
 
 ## Locations A-B
 
@@ -353,11 +353,13 @@ Generation time: Wednesday 13/07/2022 16:38:30 BST
 |[ALSAGER-RADWAY-GREEN](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/main/DATA/ALSAGER-RADWAY-GREEN) [V2]|ALSAGER-RADWAY-GREEN.csv|SJ776542|53.085|-2.336|257|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=53.085&lon=-2.336&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/53.085,-2.336,16)  |
 |[ALSTON](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/ALSTON)|ALSTON.csv|NY717468|54.815|-2.442|920|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=54.815&lon=-2.442&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/54.815,-2.442,16)  |
 ||ALSTON-2.csv|NY718464|54.812|-2.440|940|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=54.812&lon=-2.440&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/54.812,-2.440,16)  |
+|[ALSTON-GRAMMAR-SCHOOL](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/ALSTON-GRAMMAR-SCHOOL) [V3]|||||||
 |[ALSTON-LAWN-COTTAGE](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/main/DATA/ALSTON-LAWN-COTTAGE) [V2]|ALSTON-LAWN-COTTAGE.csv|NY720463|54.811|-2.437|1030|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=54.811&lon=-2.437&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/54.811,-2.437,16)  |
 |[ALSTON-LOVELADY](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/ALSTON-LOVELADY)|ALSTON-LOVELADY.csv|NY756463|54.811|-2.381|1240|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=54.811&lon=-2.381&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/54.811,-2.381,16)  |
 |[ALSTON-NENTHEAD](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/ALSTON-NENTHEAD)|ALSTON-NENTHEAD.csv|NY775442|54.793|-2.351|1416|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=54.793&lon=-2.351&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/54.793,-2.351,16)  |
 ||ALSTON-NENTHEAD-2.csv|NY780438|54.789|-2.343|1450|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=54.789&lon=-2.343&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/54.789,-2.343,16)  |
 ||ALSTON-NENTHEAD-3.csv|NY787432|54.783|-2.333|1463|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=54.783&lon=-2.333&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/54.783,-2.333,16)  |
+|[ALSTON-SAMUEL-KINGS-SCHOOL](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/ALSTON-SAMUEL-KINGS-SCHOOL) [V3]|||||||
 |[ALSTONE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/POOR-LOCATIONS/ALSTONE) [POOR]|||||||
 |[ALSTONFIELD-THE-MANOR](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/main/DATA/ALSTONFIELD-THE-MANOR) [V2]|ALSTONFIELD-THE-MANOR.csv|SK131554|53.096|-1.806|920|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=53.096&lon=-1.806&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/53.096,-1.806,16)  |
 |[ALSTONFIELD-VICARAGE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/ALSTONFIELD-VICARAGE)|ALSTONFIELD-VICARAGE.csv|SK132553|53.095|-1.804|909|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=53.095&lon=-1.804&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/53.095,-1.804,16)  |
@@ -2103,6 +2105,7 @@ Generation time: Wednesday 13/07/2022 16:38:30 BST
 ||BRAMPTON-CROFT-HOUSE-2.csv|NY527612|54.943|-2.740|230|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=54.943&lon=-2.740&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/54.943,-2.740,16)  |
 |[BRAMPTON-DENTON-HOUSE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/BRAMPTON-DENTON-HOUSE)|BRAMPTON-DENTON-HOUSE.csv|NY583625|54.955|-2.653|541|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=54.955&lon=-2.653&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/54.955,-2.653,16)  |
 ||BRAMPTON-DENTON-HOUSE-2.csv|NY583625|54.955|-2.653|541|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=54.955&lon=-2.653&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/54.955,-2.653,16)  |
+|[BRAMPTON-SECONDARY-SCHOOL](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/BRAMPTON-SECONDARY-SCHOOL) [V3]|||||||
 |[BRANDESBURTON-HALL](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/BRANDESBURTON-HALL)|BRANDESBURTON-HALL.csv|TA112477|53.914|-0.309|27|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=53.914&lon=-0.309&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/53.914,-0.309,16)  |
 |[BRANDESBURTON-HEMPHOLM-LOCK](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/BRANDESBURTON-HEMPHOLM-LOCK)|BRANDESBURTON-HEMPHOLM-LOCK.csv|TA080498|53.933|-0.357|11|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=53.933&lon=-0.357&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/53.933,-0.357,16)  |
 |[BRANDON-NORTH-COURT](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/BRANDON-NORTH-COURT)|BRANDON-NORTH-COURT.csv|TL758848|52.433|0.585|40|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=52.433&lon=0.585&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/52.433,0.585,16)  |
@@ -2230,6 +2233,7 @@ Generation time: Wednesday 13/07/2022 16:38:30 BST
 |[BRIGG-SUGAR-FACTORY](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/BRIGG-SUGAR-FACTORY)|BRIGG-SUGAR-FACTORY.csv|SE987061|53.542|-0.512|13|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=53.542&lon=-0.512&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/53.542,-0.512,16)  |
 |[BRIGG-THORNHOLME](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/main/DATA/BRIGG-THORNHOLME) [V2]|BRIGG-THORNHOLME.csv|TA004073|53.553|-0.486|22|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=53.553&lon=-0.486&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/53.553,-0.486,16)  |
 |[BRIGG-WRAWBY-ROAD](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/BRIGG-WRAWBY-ROAD)|BRIGG-WRAWBY-ROAD.csv|TA005074|53.554|-0.484|22|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=53.554&lon=-0.484&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/53.554,-0.484,16)  |
+|[BRIGHAM-SCAUR-CLOSE](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/BRIGHAM-SCAUR-CLOSE) [V3]|||||||
 |[BRIGHSTONE-PITT-PLACE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/BRIGHSTONE-PITT-PLACE)|BRIGHSTONE-PITT-PLACE.csv|SZ412835|50.650|-1.419|190|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=50.650&lon=-1.419&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/50.650,-1.419,16)  |
 ||BRIGHSTONE-PITT-PLACE-2.csv|SZ412835|50.650|-1.419|190|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=50.650&lon=-1.419&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/50.650,-1.419,16)  |
 ||BRIGHSTONE-PITT-PLACE-3.csv|SZ415834|50.649|-1.414|220|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=50.649&lon=-1.414&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/50.649,-1.414,16)  |

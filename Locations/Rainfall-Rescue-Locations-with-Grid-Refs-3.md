@@ -1,4 +1,4 @@
-Generation time: Wednesday 13/07/2022 16:38:30 BST
+Generation time: Thursday 14/07/2022 17:37:03 BST
 
 ## Locations G-J
 
@@ -900,6 +900,7 @@ Generation time: Wednesday 13/07/2022 16:38:30 BST
 |[HALLING-PUMPING-STATION](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/HALLING-PUMPING-STATION)|HALLING-PUMPING-STATION.csv|TQ698643|51.352|0.437|74|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=51.352&lon=0.437&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/51.352,0.437,16)  |
 |[HALLINGTON-FAWCETT](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/HALLINGTON-FAWCETT)|HALLINGTON-FAWCETT.csv|NY965765|55.083|-2.056|537|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=55.083&lon=-2.056&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/55.083,-2.056,16)  |
 |[HALLINGTON-RES](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/HALLINGTON-RES)|HALLINGTON-RES.csv|NY973761|55.079|-2.044|470|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=55.079&lon=-2.044&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/55.079,-2.044,16)  |
+|[HALLTHWAITES-BAYSTONE-RES](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/HALLTHWAITES-BAYSTONE-RES) [V3]|||||||
 |[HALSTEAD-ATTWOODS](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/HALSTEAD-ATTWOODS)|HALSTEAD-ATTWOODS.csv|TL802298|51.938|0.620|200|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=51.938&lon=0.620&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/51.938,0.620,16)  |
 |[HALSTEAD-GRAMMAR-SCHOOL](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/HALSTEAD-GRAMMAR-SCHOOL) [V3]|||||||
 |[HALSTEAD-RECTORY](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/main/DATA/HALSTEAD-RECTORY) [V2]|HALSTEAD-RECTORY.csv|TQ484614|51.332|0.129|539|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=51.332&lon=0.129&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/51.332,0.129,16)  |
@@ -1479,6 +1480,7 @@ Generation time: Wednesday 13/07/2022 16:38:30 BST
 |[HERTFORD-HAILEYBURY-COLLEGE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/HERTFORD-HAILEYBURY-COLLEGE)|HERTFORD-HAILEYBURY-COLLEGE.csv|TL3589310711|51.779|-0.032|270|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=51.779&lon=-0.032&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/51.779,-0.032,16)  |
 |[HERTFORD-MARDEN-HILL-TEWIN](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/HERTFORD-MARDEN-HILL-TEWIN)|HERTFORD-MARDEN-HILL-TEWIN.csv|TL279140|51.810|-0.146|257|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=51.810&lon=-0.146&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/51.810,-0.146,16)  |
 |[HERTFORD-SEWAGE-WORKS](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/HERTFORD-SEWAGE-WORKS)|HERTFORD-SEWAGE-WORKS.csv|TL338133|51.802|-0.061|121|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=51.802&lon=-0.061&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/51.802,-0.061,16)  |
+|[HESKET-NEWMARKET](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/HESKET-NEWMARKET) [V3]|||||||
 |[HESLEY-HALL-TICKHILL](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/HESLEY-HALL-TICKHILL)|HESLEY-HALL-TICKHILL.csv|SK618956|53.454|-1.071|61|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=53.454&lon=-1.071&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/53.454,-1.071,16)  |
 |[HESSLE-SANDFORD](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/HESSLE-SANDFORD)|HESSLE-SANDFORD.csv|TA026262|53.722|-0.447|90|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=53.722&lon=-0.447&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/53.722,-0.447,16)  |
 ||HESSLE-SANDFORD-2.csv|TA028268|53.727|-0.443|50|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=53.727&lon=-0.443&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/53.727,-0.443,16)  |
@@ -1901,6 +1903,7 @@ Generation time: Wednesday 13/07/2022 16:38:30 BST
 |[HUTTON-CRANSWICK-THE-GREEN](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/main/DATA/HUTTON-CRANSWICK-THE-GREEN) [V2]|HUTTON-CRANSWICK-THE-GREEN.csv|TA023522|53.956|-0.442|66|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=53.956&lon=-0.442&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/53.956,-0.442,16)  |
 |[HUTTON-CRANSWICK-THE-VICARAGE](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/main/DATA/HUTTON-CRANSWICK-THE-VICARAGE) [V2]|HUTTON-CRANSWICK-THE-VICARAGE.csv|TA025534|53.967|-0.439|79|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=53.967&lon=-0.439&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/53.967,-0.439,16)  |
 |[HUTTON-GREENWAY](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/main/DATA/HUTTON-GREENWAY) [V2]|HUTTON-GREENWAY.csv|TQ614948|51.629|0.330|325|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=51.629&lon=0.330&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/51.629,0.330,16)  |
+|[HUTTON-JOHN](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/HUTTON-JOHN) [V3]|||||||
 |[HUTTON-LANCS-CC-HORTIC-STAT](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/HUTTON-LANCS-CC-HORTIC-STAT)|HUTTON-LANCS-CC-HORTIC-STAT.csv|SD513268|53.735|-2.740|82|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=53.735&lon=-2.740&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/53.735,-2.740,16)  |
 |[HUTTON-LE-HOLE](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/main/DATA/HUTTON-LE-HOLE) [V2]|HUTTON-LE-HOLE.csv|SE704900|54.301|-0.920|350|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=54.301&lon=-0.920&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/54.301,-0.920,16)  |
 ||HUTTON-LE-HOLE-2.csv|SE705900|54.301|-0.918|340|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=54.301&lon=-0.918&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/54.301,-0.918,16)  |
