@@ -1,4 +1,4 @@
-Generation time: Saturday 16/07/2022 14:20:15 BST
+Generation time: Friday 22/07/2022 14:29:13 BST
 
 ## Locations A-B
 
@@ -345,7 +345,9 @@ Generation time: Saturday 16/07/2022 14:20:15 BST
 ||ALPORT-MOOR-GLETHERING-CLOUGH-2.csv|SK125936|53.439|-1.813|1640|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=53.439&lon=-1.813&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/53.439,-1.813,16)  |
 |[ALRESFORD-ARLE-BURY](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/ALRESFORD-ARLE-BURY)|ALRESFORD-ARLE-BURY.csv|SU580325|51.089|-1.173|238|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=51.089&lon=-1.173&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/51.089,-1.173,16)  |
 |[ALRESFORD-CHERITON-RECTORY](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/ALRESFORD-CHERITON-RECTORY)|ALRESFORD-CHERITON-RECTORY.csv|SU581283|51.051|-1.172|240|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=51.051&lon=-1.172&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/51.051,-1.172,16)  |
+|[ALRESFORD-HINTON-AMPNER-RECTORY](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/ALRESFORD-HINTON-AMPNER-RECTORY) [V3]|||||||
 |[ALRESFORD-OVINGTON-RECTORY](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/ALRESFORD-OVINGTON-RECTORY)|ALRESFORD-OVINGTON-RECTORY.csv|SU559316|51.081|-1.202|221|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=51.081&lon=-1.202&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/51.081,-1.202,16)  |
+|[ALRESFORD-PLACE](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/ALRESFORD-PLACE) [V3]|||||||
 |[ALRESFORD-SWARRATON-RECTORY](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/ALRESFORD-SWARRATON-RECTORY)|ALRESFORD-SWARRATON-RECTORY.csv|SU568371|51.131|-1.189|310|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=51.131&lon=-1.189&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/51.131,-1.189,16)  |
 |[ALREWAS-CE-SCHOOL](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/ALREWAS-CE-SCHOOL)|ALREWAS-CE-SCHOOL.csv|SK167151|52.733|-1.754|180|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=52.733&lon=-1.754&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/52.733,-1.754,16)  |
 ||ALREWAS-CE-SCHOOL-2.csv|SK168148|52.731|-1.753|180|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=52.731&lon=-1.753&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/52.731,-1.753,16)  |
@@ -1937,6 +1939,7 @@ Generation time: Saturday 16/07/2022 14:20:15 BST
 |[BOTLEY-BOTLEY-HILL](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/BOTLEY-BOTLEY-HILL)|BOTLEY-BOTLEY-HILL.csv|SU516129|50.913|-1.267|36|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=50.913&lon=-1.267&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/50.913,-1.267,16)  |
 |[BOTLEY-BROOK-HOUSE](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/main/DATA/BOTLEY-BROOK-HOUSE) [V2]|BOTLEY-BROOK-HOUSE.csv|SU507130|50.915|-1.280|45|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=50.915&lon=-1.280&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/50.915,-1.280,16)  |
 |[BOTLEY-HALL-COURT](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/BOTLEY-HALL-COURT)|BOTLEY-HALL-COURT.csv|SU545131|50.915|-1.226|105|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=50.915&lon=-1.226&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/50.915,-1.226,16)  |
+|[BOTLEY-MOORHILL-SHEDFIELD](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/BOTLEY-MOORHILL-SHEDFIELD) [V3]|||||||
 |[BOTLEY-UPLANDS-FARM](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/main/DATA/BOTLEY-UPLANDS-FARM) [V2]|BOTLEY-UPLANDS-FARM.csv|SU511137|50.921|-1.274|60|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=50.921&lon=-1.274&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/50.921,-1.274,16)  |
 |[BOTTESFORD](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/main/DATA/BOTTESFORD) [V2]|BOTTESFORD.csv|SK809387|52.940|-0.798|105|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=52.940&lon=-0.798&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/52.940,-0.798,16)  |
 |[BOTWNNOG](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/main/DATA/BOTWNNOG) [V2]|BOTWNNOG.csv|SH263313|52.851|-4.581|112|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=52.851&lon=-4.581&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/52.851,-4.581,16)  |
@@ -1954,6 +1957,7 @@ Generation time: Saturday 16/07/2022 14:20:15 BST
 ||BOURNEMOUTH-MIX-2.csv|SZ084911|50.720|-1.881|112|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=50.720&lon=-1.881&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/50.720,-1.881,16)  |
 ||BOURNEMOUTH-MIX-3.csv|SZ085916|50.725|-1.881|70|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=50.725&lon=-1.881&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/50.725,-1.881,16)  |
 ||BOURNEMOUTH-MIX-4.csv|SZ137913|50.722|-1.806|90|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=50.722&lon=-1.806&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/50.722,-1.806,16)  |
+|[BOURNEMOUTH-PLEASURE-GARDENS](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/BOURNEMOUTH-PLEASURE-GARDENS) [V3]|||||||
 |[BOURNEMOUTH-RODNEY-HOUSE](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/main/DATA/BOURNEMOUTH-RODNEY-HOUSE) [V2]|BOURNEMOUTH-RODNEY-HOUSE.csv|SZ075912|50.721|-1.895|145|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=50.721&lon=-1.895&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/50.721,-1.895,16)  |
 ||BOURNEMOUTH-RODNEY-HOUSE-2.csv|SZ075912|50.721|-1.895|145|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=50.721&lon=-1.895&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/50.721,-1.895,16)  |
 ||BOURNEMOUTH-RODNEY-HOUSE-3.csv|SZ075912|50.721|-1.895|145|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=50.721&lon=-1.895&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/50.721,-1.895,16)  |
@@ -1961,6 +1965,7 @@ Generation time: Saturday 16/07/2022 14:20:15 BST
 |[BOURNEMOUTH-TALBOT-WOODS](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/BOURNEMOUTH-TALBOT-WOODS) [V3]|||||||
 |[BOURNEMOUTH-VALE-VIEW](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/BOURNEMOUTH-VALE-VIEW)|BOURNEMOUTH-VALE-VIEW.csv|SZ068917|50.725|-1.905|145|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=50.725&lon=-1.905&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/50.725,-1.905,16)  |
 ||BOURNEMOUTH-VALE-VIEW-2.csv|SZ082919|50.727|-1.885|130|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=50.727&lon=-1.885&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/50.727,-1.885,16)  |
+|[BOURNEMOUTH-WELLINGTON-HOUSE](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/BOURNEMOUTH-WELLINGTON-HOUSE) [V3]|||||||
 |[BOURNEMOUTH-WESTBOURNE-DINMORE](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/BOURNEMOUTH-WESTBOURNE-DINMORE) [V3]|||||||
 |[BOURNEMOUTH-WOODMANCOTE-WEST-CLIFF](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/main/DATA/BOURNEMOUTH-WOODMANCOTE-WEST-CLIFF) [V2]|BOURNEMOUTH-WOODMANCOTE-WEST-CLIFF.csv|SZ072908|50.717|-1.899|130|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=50.717&lon=-1.899&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/50.717,-1.899,16)  |
 |[BOURTON](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/BOURTON) [V3]|||||||
