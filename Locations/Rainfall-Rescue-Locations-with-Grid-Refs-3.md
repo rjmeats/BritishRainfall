@@ -1,4 +1,4 @@
-Generation time: Wednesday 27/07/2022 07:31:11 BST
+Generation time: Thursday 28/07/2022 15:22:40 BST
 
 ## Locations G-J
 
@@ -642,6 +642,7 @@ Generation time: Wednesday 27/07/2022 07:31:11 BST
 ||GREENFIELD-CHEW-MOUNT-CHECKGAUGE.csv|SE035020|53.515|-1.949|1578|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=53.515&lon=-1.949&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/53.515,-1.949,16)  |
 |[GREENFIELD-CHEW-RES](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/GREENFIELD-CHEW-RES)|GREENFIELD-CHEW-RES.csv|SE046020|53.515|-1.932|1648|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=53.515&lon=-1.932&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/53.515,-1.932,16)  |
 |[GREENFIELD-CHEW-SLUICE](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/main/DATA/GREENFIELD-CHEW-SLUICE) [V2]|GREENFIELD-CHEW-SLUICE.csv|SE037029|53.523|-1.946|1670|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=53.523&lon=-1.946&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/53.523,-1.946,16)  |
+|[GREENFIELD-LOWER-CHEW](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/GREENFIELD-LOWER-CHEW) [V3]|||||||
 |[GREENFIELD-SEWAGE-DISPOSAL-WORKS](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/main/DATA/GREENFIELD-SEWAGE-DISPOSAL-WORKS) [V2]|GREENFIELD-SEWAGE-DISPOSAL-WORKS.csv|SD992043|53.535|-2.014|499|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=53.535&lon=-2.014&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/53.535,-2.014,16)  |
 |[GREENFIELD-UPPERWOOD-MOOR](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/GREENFIELD-UPPERWOOD-MOOR)|GREENFIELD-UPPERWOOD-MOOR.csv|SE031063|53.553|-1.955|1518|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=53.553&lon=-1.955&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/53.553,-1.955,16)  |
 ||GREENFIELD-UPPERWOOD-MOOR-2.csv|SE031063|53.553|-1.955|1518|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=53.553&lon=-1.955&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/53.553,-1.955,16)  |
@@ -697,6 +698,7 @@ Generation time: Wednesday 27/07/2022 07:31:11 BST
 ||GREENWICH-ROYAL-OBSERVATORY-8.csv|TQ389772|51.477|-0.001|176|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=51.477&lon=-0.001&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/51.477,-0.001,16)  |
 ||GREENWICH-ROYAL-OBSERVATORY-9.csv|TQ389773|51.478|-0.001|193|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=51.478&lon=-0.001&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/51.478,-0.001,16)  |
 |[GREENWICH-WESTCOMBE-PARK-ROAD](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/GREENWICH-WESTCOMBE-PARK-ROAD)|GREENWICH-WESTCOMBE-PARK-ROAD.csv|TQ402744|51.451|0.016|120|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=51.451&lon=0.016&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/51.451,0.016,16)  |
+|[GRENOSIDE-COUNCIL-OFFICES](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/GRENOSIDE-COUNCIL-OFFICES) [V3]|||||||
 |[GRESFORD-HORSLEY-HALL](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/GRESFORD-HORSLEY-HALL)|GRESFORD-HORSLEY-HALL.csv|SJ365550|53.088|-2.950|135|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=53.088&lon=-2.950&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/53.088,-2.950,16)  |
 ||GRESFORD-HORSLEY-HALL-2.csv|SJ366550|53.088|-2.948|100|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=53.088&lon=-2.948&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/53.088,-2.948,16)  |
 |[GRESFORD-TREWYTHEN](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/GRESFORD-TREWYTHEN)|GRESFORD-TREWYTHEN.csv|SJ353545|53.084|-2.967|250|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=53.084&lon=-2.967&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/53.084,-2.967,16)  |
@@ -882,6 +884,7 @@ Generation time: Wednesday 27/07/2022 07:31:11 BST
 ||HALIFAX-WIDDOP-4.csv|SD927327|53.791|-2.112|1060|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=53.791&lon=-2.112&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/53.791,-2.112,16)  |
 ||HALIFAX-WIDDOP-5.csv|SD942348|53.809|-2.090|1280|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=53.809&lon=-2.090&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/53.809,-2.090,16)  |
 |[HALIFAX-WW-ALBERT](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/HALIFAX-WW-ALBERT)|HALIFAX-WW-ALBERT.csv|SE074256|53.727|-1.889|795|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=53.727&lon=-1.889&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/53.727,-1.889,16)  |
+|[HALIFAX-WW-COPPY](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/HALIFAX-WW-COPPY) [V3]|||||||
 |[HALIFAX-WW-GIBBET](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/HALIFAX-WW-GIBBET)|HALIFAX-WW-GIBBET.csv|SE090259|53.729|-1.865|565|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=53.729&lon=-1.865&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/53.729,-1.865,16)  |
 |[HALIFAX-WW-GORPLE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/HALIFAX-WW-GORPLE)|HALIFAX-WW-GORPLE.csv|SD918311|53.776|-2.126|1320|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=53.776&lon=-2.126&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/53.776,-2.126,16)  |
 ||HALIFAX-WW-GORPLE-2.csv|SD944308|53.774|-2.086|1028|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=53.774&lon=-2.086&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/53.774,-2.086,16)  |
@@ -1026,6 +1029,7 @@ Generation time: Wednesday 27/07/2022 07:31:11 BST
 |[HARROGATE-BILTON](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/HARROGATE-BILTON)|HARROGATE-BILTON.csv|SE303579|54.016|-1.539|208|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=54.016&lon=-1.539&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/54.016,-1.539,16)  |
 |[HARROGATE-BOG-VALLEY-GARDENS](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/main/DATA/HARROGATE-BOG-VALLEY-GARDENS) [V2]|HARROGATE-BOG-VALLEY-GARDENS.csv|SE297553|53.993|-1.548|344|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=53.993&lon=-1.548&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/53.993,-1.548,16)  |
 |[HARROGATE-CEMETERY](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/main/DATA/HARROGATE-CEMETERY) [V2]|HARROGATE-CEMETERY.csv|SE305560|53.999|-1.536|380|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=53.999&lon=-1.536&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/53.999,-1.536,16)  |
+|[HARROGATE-DUCHY-ROAD](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/HARROGATE-DUCHY-ROAD) [V3]|||||||
 |[HARROGATE-HARLOW-HILL-RES](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/HARROGATE-HARLOW-HILL-RES)|HARROGATE-HARLOW-HILL-RES.csv|SE289542|53.983|-1.561|549|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=53.983&lon=-1.561&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/53.983,-1.561,16)  |
 ||HARROGATE-HARLOW-HILL-RES-2.csv|SE289542|53.983|-1.561|561|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=53.983&lon=-1.561&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/53.983,-1.561,16)  |
 ||HARROGATE-HARLOW-HILL-RES-3.csv|SE287542|53.983|-1.564|552|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=53.983&lon=-1.564&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/53.983,-1.564,16)  |

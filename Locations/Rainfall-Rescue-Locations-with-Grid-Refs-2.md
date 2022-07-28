@@ -1,4 +1,4 @@
-Generation time: Wednesday 27/07/2022 07:31:11 BST
+Generation time: Thursday 28/07/2022 15:22:40 BST
 
 ## Locations C-F
 
@@ -2017,11 +2017,13 @@ Generation time: Wednesday 27/07/2022 07:31:11 BST
 ||DONCASTER-2.csv|SE576035|53.525|-1.132|43|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=53.525&lon=-1.132&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/53.525,-1.132,16)  |
 |[DONCASTER-AVENUE-ROAD](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/main/DATA/DONCASTER-AVENUE-ROAD) [V2]|DONCASTER-AVENUE-ROAD.csv|SE584041|53.530|-1.120|60|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=53.530&lon=-1.120&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/53.530,-1.120,16)  |
 ||DONCASTER-AVENUE-ROAD-2.csv|SE583041|53.530|-1.122|60|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=53.530&lon=-1.122&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/53.530,-1.122,16)  |
+|[DONCASTER-BENTLEY-WORKS](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/DONCASTER-BENTLEY-WORKS) [V3]|||||||
 |[DONCASTER-BURGHWALLIS-RECTORY](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/DONCASTER-BURGHWALLIS-RECTORY)|DONCASTER-BURGHWALLIS-RECTORY.csv|SE537120|53.602|-1.190|80|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=53.602&lon=-1.190&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/53.602,-1.190,16)  |
 ||DONCASTER-BURGHWALLIS-RECTORY-2.csv|SE537120|53.602|-1.190|80|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=53.602&lon=-1.190&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/53.602,-1.190,16)  |
 |[DONCASTER-CAMPSMOUNT](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/main/DATA/DONCASTER-CAMPSMOUNT) [V2]|DONCASTER-CAMPSMOUNT.csv|SE538140|53.620|-1.188|100|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=53.620&lon=-1.188&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/53.620,-1.188,16)  |
 |[DONCASTER-CARR-HOUSE-HOSPITAL](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/main/DATA/DONCASTER-CARR-HOUSE-HOSPITAL) [V2]|DONCASTER-CARR-HOUSE-HOSPITAL.csv|SE588024|53.515|-1.115|40|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=53.515&lon=-1.115&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/53.515,-1.115,16)  |
 |[DONCASTER-HATFIELD](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/DONCASTER-HATFIELD)|DONCASTER-HATFIELD.csv|SE722095|53.577|-0.911|12|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=53.577&lon=-0.911&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/53.577,-0.911,16)  |
+|[DONCASTER-HEXTHORPE-HALL](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/DONCASTER-HEXTHORPE-HALL) [V3]|||||||
 |[DONCASTER-KIRK-BRAMWITH](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/DONCASTER-KIRK-BRAMWITH)|DONCASTER-KIRK-BRAMWITH.csv|SE618115|53.596|-1.068|22|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=53.596&lon=-1.068&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/53.596,-1.068,16)  |
 |[DONCASTER-LOW-PASTURE-PUMPING-STATION](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/DONCASTER-LOW-PASTURE-PUMPING-STATION)|DONCASTER-LOW-PASTURE-PUMPING-STATION.csv|SE589022|53.513|-1.113|24|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=53.513&lon=-1.113&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/53.513,-1.113,16)  |
 |[DONCASTER-MAGDALENS](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/DONCASTER-MAGDALENS)|DONCASTER-MAGDALENS.csv|SE576035|53.525|-1.133|46|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=53.525&lon=-1.133&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/53.525,-1.133,16)  |

@@ -1,4 +1,4 @@
-Generation time: Wednesday 27/07/2022 07:31:10 BST
+Generation time: Thursday 28/07/2022 15:22:40 BST
 
 95 **rainfall-rescue/DATA** locations under [https://tinyurl.com/ycyh86uz](https://tinyurl.com/ycyh86uz) which contributed to the [Met Office 2020 UK Climate Report](https://www.metoffice.gov.uk/research/climate/maps-and-data/about/state-of-climate):
 

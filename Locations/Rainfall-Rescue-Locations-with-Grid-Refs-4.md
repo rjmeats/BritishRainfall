@@ -1,4 +1,4 @@
-Generation time: Wednesday 27/07/2022 07:31:11 BST
+Generation time: Thursday 28/07/2022 15:22:40 BST
 
 ## Locations K-O
 
@@ -399,6 +399,7 @@ Generation time: Wednesday 27/07/2022 07:31:11 BST
 |[KIPPEN-GARDEN-HOUSE](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/main/DATA/KIPPEN-GARDEN-HOUSE) [V2]|KIPPEN-GARDEN-HOUSE.csv|NS595945|56.122|-4.262|100|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=56.122&lon=-4.262&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/56.122,-4.262,16)  |
 |[KIPPEN-GRIBLOCH-GDNS](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/main/DATA/KIPPEN-GRIBLOCH-GDNS) [V2]|KIPPEN-GRIBLOCH-GDNS.csv|NS6398193509|56.115|-4.189|530|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=56.115&lon=-4.189&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/56.115,-4.189,16)  |
 |[KIRBY-EARLY](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/main/DATA/KIRBY-EARLY) [V2]|KIRBY-EARLY.csv|SJ216868|53.372|-3.180|50|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=53.372&lon=-3.180&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/53.372,-3.180,16)  |
+|[KIRBY-MALZEARD-ARUNDO](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/KIRBY-MALZEARD-ARUNDO) [V3]|||||||
 |[KIRBYMOORSIDE-WELBURN](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/main/DATA/KIRBYMOORSIDE-WELBURN) [V2]|KIRBYMOORSIDE-WELBURN.csv|SE681846|54.253|-0.956|135|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=54.253&lon=-0.956&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/54.253,-0.956,16)  |
 |[KIRDFORD-HILLS-GREEN](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/main/DATA/KIRDFORD-HILLS-GREEN) [V2]|KIRDFORD-HILLS-GREEN.csv|SU999279|51.042|-0.576|150|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=51.042&lon=-0.576&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/51.042,-0.576,16)  |
 |[KIRK-LANGLEY-LANGLEY-HALL](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/main/DATA/KIRK-LANGLEY-LANGLEY-HALL) [V2]|KIRK-LANGLEY-LANGLEY-HALL.csv|SK286395|52.952|-1.576|396|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=52.952&lon=-1.576&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/52.952,-1.576,16)  |
@@ -498,6 +499,7 @@ Generation time: Wednesday 27/07/2022 07:31:11 BST
 |[KNAPTOFT-HALL](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/KNAPTOFT-HALL) [V3]|||||||
 |[KNARESBOROUGH-CONYNGHAM-HALL](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/KNARESBOROUGH-CONYNGHAM-HALL)|KNARESBOROUGH-CONYNGHAM-HALL.csv|SE342573|54.011|-1.480|200|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=54.011&lon=-1.480&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/54.011,-1.480,16)  |
 |[KNARESBOROUGH-FARNHAM](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/KNARESBOROUGH-FARNHAM)|KNARESBOROUGH-FARNHAM.csv|SE348605|54.039|-1.470|170|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=54.039&lon=-1.470&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/54.039,-1.470,16)  |
+|[KNARESBOROUGH-GRAMMAR-SCHOOL](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/KNARESBOROUGH-GRAMMAR-SCHOOL) [V3]|||||||
 |[KNARESBOROUGH-THE-ABBEY](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/KNARESBOROUGH-THE-ABBEY) [V3]|||||||
 |[KNARESBOROUGH-WATER-TOWER](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/KNARESBOROUGH-WATER-TOWER)|KNARESBOROUGH-WATER-TOWER.csv|SE348567|54.005|-1.471|240|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=54.005&lon=-1.471&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/54.005,-1.471,16)  |
 |[KNEBWORTH](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/KNEBWORTH) [V3]|||||||
@@ -700,6 +702,7 @@ Generation time: Wednesday 27/07/2022 07:31:11 BST
 |[LANGSETT-MOOR-RANGE-MOOR](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/LANGSETT-MOOR-RANGE-MOOR) [V3]|||||||
 |[LANGSETT-MOOR-SWINDEN-LODGE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/LANGSETT-MOOR-SWINDEN-LODGE)|LANGSETT-MOOR-SWINDEN-LODGE.csv|SE189009|53.504|-1.717|1032|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=53.504&lon=-1.717&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/53.504,-1.717,16)  |
 |[LANGSETT-MOOR-UPPER-MIDHOPE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/LANGSETT-MOOR-UPPER-MIDHOPE)|LANGSETT-MOOR-UPPER-MIDHOPE.csv|SK215999|53.495|-1.677|912|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=53.495&lon=-1.677&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/53.495,-1.677,16)  |
+|[LANGSETT-RES](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/LANGSETT-RES) [V3]|||||||
 |[LANGTOFT-SCHOOL](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/LANGTOFT-SCHOOL)|LANGTOFT-SCHOOL.csv|TA009670|54.089|-0.459|265|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=54.089&lon=-0.459&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/54.089,-0.459,16)  |
 |[LANGTON](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/main/DATA/LANGTON) [V2]|LANGTON.csv|SE796670|54.093|-0.784|150|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=54.093&lon=-0.784&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/54.093,-0.784,16)  |
 |[LANGTON-HERRING-THE-MANOR](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/main/DATA/LANGTON-HERRING-THE-MANOR) [V2]|LANGTON-HERRING-THE-MANOR.csv|SY617827|50.643|-2.543|120|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=50.643&lon=-2.543&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/50.643,-2.543,16)  |
@@ -807,6 +810,7 @@ Generation time: Wednesday 27/07/2022 07:31:11 BST
 ||LEEDS-HOLBECK-4.csv|SE295326|53.789|-1.554|95|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=53.789&lon=-1.554&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/53.789,-1.554,16)  |
 |[LEEDS-HORSFORTH](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/LEEDS-HORSFORTH)|LEEDS-HORSFORTH.csv|SE243372|53.834|-1.629|350|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=53.834&lon=-1.629&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/53.834,-1.629,16)  |
 ||LEEDS-HORSFORTH-2.csv|SE243372|53.830|-1.632|250|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=53.830&lon=-1.632&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/53.830,-1.632,16)  |
+|[LEEDS-KINGFISHER](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/LEEDS-KINGFISHER) [V3]|||||||
 |[LEEDS-KNOSTROP](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/LEEDS-KNOSTROP)|LEEDS-KNOSTROP.csv|SE324313|53.777|-1.510|72|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=53.777&lon=-1.510&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/53.777,-1.510,16)  |
 |[LEEDS-LEVENTHORPE-HALL](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/LEEDS-LEVENTHORPE-HALL)|LEEDS-LEVENTHORPE-HALL.csv|SE369300|53.765|-1.442|94|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=53.765&lon=-1.442&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/53.765,-1.442,16)  |
 |[LEEDS-METHLEY-PARK](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/main/DATA/LEEDS-METHLEY-PARK) [V2]|LEEDS-METHLEY-PARK.csv|SE376266|53.734|-1.432|98|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=53.734&lon=-1.432&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/53.734,-1.432,16)  |
@@ -820,6 +824,7 @@ Generation time: Wednesday 27/07/2022 07:31:11 BST
 |[LEEDS-WEETWOOD](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/LEEDS-WEETWOOD)|LEEDS-WEETWOOD.csv|SE273376|53.834|-1.587|300|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=53.834&lon=-1.587&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/53.834,-1.587,16)  |
 ||LEEDS-WEETWOOD-2.csv|SE269380|53.838|-1.593|400|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=53.838&lon=-1.593&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/53.838,-1.593,16)  |
 ||LEEDS-WEETWOOD-3.csv|SE276376|53.834|-1.582|300|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=53.834&lon=-1.582&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/53.834,-1.582,16)  |
+|[LEEDS-WEETWOOD-QUARRY-DENE](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/LEEDS-WEETWOOD-QUARRY-DENE) [V3]|||||||
 |[LEEDS-WEETWOOD-RES](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/LEEDS-WEETWOOD-RES)|LEEDS-WEETWOOD-RES.csv|SE271373|53.831|-1.590|328|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=53.831&lon=-1.590&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/53.831,-1.590,16)  |
 ||LEEDS-WEETWOOD-RES-2.csv|SE271374|53.832|-1.590|328|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=53.832&lon=-1.590&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/53.832,-1.590,16)  |
 |[LEEDS-WOODHOUSE-CLIFF](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/LEEDS-WOODHOUSE-CLIFF)|LEEDS-WOODHOUSE-CLIFF.csv|SE291358|53.818|-1.559|330|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=53.818&lon=-1.559&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/53.818,-1.559,16)  |
