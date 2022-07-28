@@ -1,4 +1,4 @@
-Generation time: Thursday 28/07/2022 15:22:40 BST
+Generation time: Thursday 28/07/2022 20:53:06 BST
 
 ## Locations U-Z
 
@@ -939,9 +939,11 @@ Generation time: Thursday 28/07/2022 15:22:40 BST
 |[WINDERMERE-CALGARTH](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/main/DATA/WINDERMERE-CALGARTH) [V2]|WINDERMERE-CALGARTH.csv|SD398996|54.388|-2.929|190|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=54.388&lon=-2.929&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/54.388,-2.929,16)  |
 |[WINDERMERE-FELLFOOT](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/main/DATA/WINDERMERE-FELLFOOT) [V2]|WINDERMERE-FELLFOOT.csv|SD381868|54.273|-2.952|185|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=54.273&lon=-2.952&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/54.273,-2.952,16)  |
 |[WINDERMERE-HAMMAR-BANK](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/WINDERMERE-HAMMAR-BANK)|WINDERMERE-HAMMAR-BANK.csv|SD405991|54.384|-2.918|200|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=54.384&lon=-2.918&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/54.384,-2.918,16)  |
+|[WINDERMERE-HIGH-HOUSE](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/WINDERMERE-HIGH-HOUSE) [V3]|||||||
 |[WINDERMERE-HOLEHIRD](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/WINDERMERE-HOLEHIRD)|WINDERMERE-HOLEHIRD.csv|NY411008|54.399|-2.909|420|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=54.399&lon=-2.909&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/54.399,-2.909,16)  |
 ||WINDERMERE-HOLEHIRD-2.csv|NY411008|54.399|-2.909|483|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=54.399&lon=-2.909&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/54.399,-2.909,16)  |
 |[WINDERMERE-NURSERIES](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/WINDERMERE-NURSERIES)|WINDERMERE-NURSERIES.csv|SD410982|54.376|-2.910|350|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=54.376&lon=-2.910&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/54.376,-2.910,16)  |
+|[WINDERMERE-ST-RULE](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/WINDERMERE-ST-RULE) [V3]|||||||
 |[WINDERMERE-THE-WOOD](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/WINDERMERE-THE-WOOD)|WINDERMERE-THE-WOOD.csv|SD407994|54.387|-2.913|310|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=54.387&lon=-2.913&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/54.387,-2.913,16)  |
 |[WINDERMERE-WOODLAND-TERRACE](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/main/DATA/WINDERMERE-WOODLAND-TERRACE) [V2]|WINDERMERE-WOODLAND-TERRACE.csv|SD413981|54.375|-2.905|370|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=54.375&lon=-2.905&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/54.375,-2.905,16)  |
 ||WINDERMERE-WOODLAND-TERRACE-2.csv|SD413981|54.375|-2.905|370|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=54.375&lon=-2.905&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/54.375,-2.905,16)  |
