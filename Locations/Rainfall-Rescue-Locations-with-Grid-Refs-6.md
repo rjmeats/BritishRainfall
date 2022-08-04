@@ -1,4 +1,4 @@
-Generation time: Tuesday 02/08/2022 20:59:17 BST
+Generation time: Thursday 04/08/2022 07:42:15 BST
 
 ## Locations U-Z
 
@@ -666,6 +666,7 @@ Generation time: Tuesday 02/08/2022 20:59:17 BST
 ||WESTERHAM-TOWN-2.csv|TQ449540|51.267|0.076|345|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=51.267&lon=0.076&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/51.267,0.076,16)  |
 |[WESTERKIRK](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/WESTERKIRK)|WESTERKIRK.csv|NY308900|55.200|-3.088|420|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=55.200&lon=-3.088&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/55.200,-3.088,16)  |
 |[WESTGATE](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/main/DATA/WESTGATE) [V2]|WESTGATE.csv|NY907381|54.738|-2.146|907|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=54.738&lon=-2.146&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/54.738,-2.146,16)  |
+|[WESTHIDE-THE-COURT](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/WESTHIDE-THE-COURT) [V3]|||||||
 |[WESTLEIGH-HOUSE](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/main/DATA/WESTLEIGH-HOUSE) [V2]|WESTLEIGH-HOUSE.csv|SS473282|51.033|-4.179|187|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=51.033&lon=-4.179&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/51.033,-4.179,16)  |
 ||WESTLEIGH-HOUSE-2.csv|SS475283|51.034|-4.176|170|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=51.034&lon=-4.176&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/51.034,-4.176,16)  |
 |[WESTLETON-ST-HELENA](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/main/DATA/WESTLETON-ST-HELENA) [V2]|WESTLETON-ST-HELENA.csv|TM461717|52.288|1.607|65|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=52.288&lon=1.607&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/52.288,1.607,16)  |
@@ -752,6 +753,7 @@ Generation time: Tuesday 02/08/2022 20:59:17 BST
 |[WHIPSNADE-PARK](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/WHIPSNADE-PARK)|WHIPSNADE-PARK.csv|TL004178|51.850|-0.544|720|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=51.850&lon=-0.544&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/51.850,-0.544,16)  |
 |[WHITACRE-BIRMINGHAM-WW](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/WHITACRE-BIRMINGHAM-WW)|WHITACRE-BIRMINGHAM-WW.csv|SP225909|52.516|-1.670|269|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=52.516&lon=-1.670&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/52.516,-1.670,16)  |
 |[WHITBECK-CUMBERLAND](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/WHITBECK-CUMBERLAND) [V3]|||||||
+|[WHITBOURNE-COURT](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/WHITBOURNE-COURT) [V3]|||||||
 |[WHITBURN-POLKEMMET](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/WHITBURN-POLKEMMET)|WHITBURN-POLKEMMET.csv|NS924649|55.865|-3.721|600|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=55.865&lon=-3.721&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/55.865,-3.721,16)  |
 |[WHITBY](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/WHITBY)|WHITBY.csv|NZ896114|54.490|-0.618|150|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=54.490&lon=-0.618&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/54.490,-0.618,16)  |
 ||WHITBY-2.csv|NZ895109|54.486|-0.620|125|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=54.486&lon=-0.620&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/54.486,-0.620,16)  |
@@ -1215,6 +1217,7 @@ Generation time: Tuesday 02/08/2022 20:59:17 BST
 |[WOOLER-VICTORIA-HOUSE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/WOOLER-VICTORIA-HOUSE)|WOOLER-VICTORIA-HOUSE.csv|NT991283|55.548|-2.016|176|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=55.548&lon=-2.016&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/55.548,-2.016,16)  |
 |[WOOLHAMPTON-DOUAI-ABBEY](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/WOOLHAMPTON-DOUAI-ABBEY)|WOOLHAMPTON-DOUAI-ABBEY.csv|SU578681|51.409|-1.170|370|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=51.409&lon=-1.170&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/51.409,-1.170,16)  |
 |[WOOLHOPE-THE-HYDE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/WOOLHOPE-THE-HYDE)|WOOLHOPE-THE-HYDE.csv|SO622344|52.007|-2.552|440|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=52.007&lon=-2.552&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/52.007,-2.552,16)  |
+|[WOOLHOPE-WESSINGTON-COURT](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/WOOLHOPE-WESSINGTON-COURT) [V3]|||||||
 |[WOOLMER-FOREST](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/WOOLMER-FOREST)|WOOLMER-FOREST.csv|SU794338|51.098|-0.867|297|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=51.098&lon=-0.867&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/51.098,-0.867,16)  |
 |[WOOLSTHORPE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/WOOLSTHORPE)|WOOLSTHORPE.csv|SK843353|52.909|-0.748|182|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=52.909&lon=-0.748&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/52.909,-0.748,16)  |
 |[WOOLSTHORPE-GRANGE-FARM](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/main/DATA/WOOLSTHORPE-GRANGE-FARM) [V2]|WOOLSTHORPE-GRANGE-FARM.csv|SK838351|52.907|-0.755|186|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=52.907&lon=-0.755&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/52.907,-0.755,16)  |

@@ -1,4 +1,4 @@
-Generation time: Tuesday 02/08/2022 20:59:16 BST
+Generation time: Thursday 04/08/2022 07:42:14 BST
 
 ## Locations K-O
 
@@ -910,6 +910,7 @@ Generation time: Tuesday 02/08/2022 20:59:16 BST
 |[LEOMINSTER-FAIRHOLME](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/LEOMINSTER-FAIRHOLME)|LEOMINSTER-FAIRHOLME.csv|SO490588|52.225|-2.748|260|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=52.225&lon=-2.748&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/52.225,-2.748,16)  |
 |[LEOMINSTER-HAMPTON-COURT](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/LEOMINSTER-HAMPTON-COURT)|LEOMINSTER-HAMPTON-COURT.csv|SO519524|52.168|-2.705|212|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=52.168&lon=-2.705&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/52.168,-2.705,16)  |
 |[LEOMINSTER-HENNOR](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/main/DATA/LEOMINSTER-HENNOR) [V2]|LEOMINSTER-HENNOR.csv|SO539586|52.224|-2.676|440|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=52.224&lon=-2.676&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/52.224,-2.676,16)  |
+|[LEOMINSTER-HUMBER-RECTORY](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/LEOMINSTER-HUMBER-RECTORY) [V3]|||||||
 |[LEOMINSTER-LEYSTERS](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/main/DATA/LEOMINSTER-LEYSTERS) [V2]|LEOMINSTER-LEYSTERS.csv|SO567628|52.262|-2.636|617|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=52.262&lon=-2.636&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/52.262,-2.636,16)  |
 ||LEOMINSTER-LEYSTERS-2.csv|SO561616|52.251|-2.644|563|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=52.251&lon=-2.644&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/52.251,-2.644,16)  |
 |[LEOMINSTER-WEST-LODGE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/LEOMINSTER-WEST-LODGE)|LEOMINSTER-WEST-LODGE.csv|SO494590|52.228|-2.742|240|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=52.228&lon=-2.742&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/52.228,-2.742,16)  |

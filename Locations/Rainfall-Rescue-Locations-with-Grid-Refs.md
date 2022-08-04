@@ -1,4 +1,4 @@
-Generation time: Tuesday 02/08/2022 20:59:16 BST
+Generation time: Thursday 04/08/2022 07:42:14 BST
 
 ## Locations A-B
 
@@ -1788,6 +1788,7 @@ Generation time: Tuesday 02/08/2022 20:59:16 BST
 |[BOCKLETON](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/BOCKLETON)|BOCKLETON.csv|SO593614|52.250|-2.597|681|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=52.250&lon=-2.597&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/52.250,-2.597,16)  |
 |[BODEDERN-PRESADDFED](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/BODEDERN-PRESADDFED)|BODEDERN-PRESADDFED.csv|SH351809|53.299|-4.476|150|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=53.299&lon=-4.476&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/53.299,-4.476,16)  |
 ||BODEDERN-PRESADDFED-2.csv|SH351809|53.299|-4.476|150|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=53.299&lon=-4.476&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/53.299,-4.476,16)  |
+|[BODENHAM-PIGEON-HOUSE](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/BODENHAM-PIGEON-HOUSE) [V3]|||||||
 |[BODEWRYD](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/BODEWRYD)|BODEWRYD.csv|SH401908|53.390|-4.406|150|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=53.390&lon=-4.406&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/53.390,-4.406,16)  |
 ||BODEWRYD-2.csv|SH397908|53.390|-4.412|170|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=53.390&lon=-4.412&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/53.390,-4.412,16)  |
 |[BODFARI-CAE-GWYN](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/BODFARI-CAE-GWYN)|BODFARI-CAE-GWYN.csv|SJ086728|53.244|-3.371|534|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=53.244&lon=-3.371&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/53.244,-3.371,16)  |
@@ -2451,6 +2452,7 @@ Generation time: Tuesday 02/08/2022 20:59:16 BST
 |[BROMYARD-ROWDEN-ABBEY](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/BROMYARD-ROWDEN-ABBEY)|BROMYARD-ROWDEN-ABBEY.csv|SO631563|52.204|-2.541|455|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=52.204&lon=-2.541&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/52.204,-2.541,16)  |
 ||BROMYARD-ROWDEN-ABBEY-2.csv|SO631563|52.204|-2.541|450|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=52.204&lon=-2.541&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/52.204,-2.541,16)  |
 |[BROMYARD-THE-DOWN-HOUSE](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/main/DATA/BROMYARD-THE-DOWN-HOUSE) [V2]|BROMYARD-THE-DOWN-HOUSE.csv|SO669545|52.188|-2.486|485|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=52.188&lon=-2.486&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/52.188,-2.486,16)  |
+|[BROMYARD-VICARAGE](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/BROMYARD-VICARAGE) [V3]|||||||
 |[BROOKLAND-DEAN-COURT](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/main/DATA/BROOKLAND-DEAN-COURT) [V2]|BROOKLAND-DEAN-COURT.csv|TQ972254|50.994|0.809|12|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=50.994&lon=0.809&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/50.994,0.809,16)  |
 |[BROOKLAND-POPLAR-HALL](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/main/DATA/BROOKLAND-POPLAR-HALL) [V2]|BROOKLAND-POPLAR-HALL.csv|TQ9712925349|50.994|0.808|12|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=50.994&lon=0.808&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/50.994,0.808,16)  |
 ||BROOKLAND-POPLAR-HALL-2.csv|TQ9755525661|50.996|0.814|12|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=50.996&lon=0.814&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/50.996,0.814,16)  |
@@ -2776,6 +2778,7 @@ Generation time: Tuesday 02/08/2022 20:59:16 BST
 |[BWLCH-BUCKLAND-GARDENS](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/main/DATA/BWLCH-BUCKLAND-GARDENS) [V2]|BWLCH-BUCKLAND-GARDENS.csv|SO130212|51.883|-3.265|486|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=51.883&lon=-3.265&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/51.883,-3.265,16)  |
 |[BWLCHGWYN](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/main/DATA/BWLCHGWYN) [V2]|BWLCHGWYN.csv|SJ236520|53.060|-3.141|1267|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=53.060&lon=-3.141&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/53.060,-3.141,16)  |
 |[BYLAUGH-PARK](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/BYLAUGH-PARK)|BYLAUGH-PARK.csv|TG035189|52.729|1.012|130|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=52.729&lon=1.012&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/52.729,1.012,16)  |
+|[BYTON-RECTORY](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/BYTON-RECTORY) [V3]|||||||
 |[BYWELL](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/BYWELL)|BYWELL.csv|NZ052614|54.948|-1.920|87|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=54.948&lon=-1.920&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/54.948,-1.920,16)  |
 |[BYWORTH-EDGEHILL](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/main/DATA/BYWORTH-EDGEHILL) [V2]|BYWORTH-EDGEHILL.csv|SU986202|50.973|-0.597|100|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=50.973&lon=-0.597&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/50.973,-0.597,16)  |
 
