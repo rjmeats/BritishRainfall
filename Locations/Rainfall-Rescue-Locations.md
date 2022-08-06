@@ -1,4 +1,4 @@
-Generation time: Friday 05/08/2022 07:41:43 BST
+Generation time: Saturday 06/08/2022 10:27:33 BST
 
 
 [MO-2020] indicates a location which contributed to the [Met Office 2020 UK Climate Report](https://www.metoffice.gov.uk/research/climate/maps-and-data/about/state-of-climate):
@@ -428,7 +428,7 @@ Generation time: Friday 05/08/2022 07:41:43 BST
 * [BARRY-WW-PENCOEDTRE](https://tinyurl.com/ycyh86uz/BARRY-WW-PENCOEDTRE) : 2021-12-07 12:27:36 +0000 
 * [BASINGSTOKE-CHAPEL-HILL](https://tinyurl.com/ycyh86uz/BASINGSTOKE-CHAPEL-HILL) : 2021-12-07 12:27:36 +0000 
 * [BASINGSTOKE-HODDINGTON-HOUSE](https://tinyurl.com/ycyh86uz/BASINGSTOKE-HODDINGTON-HOUSE) : 2021-12-07 12:27:36 +0000 
-* [BASINGSTOKE-SHERBORNE-ST-JOHN](https://tinyurl.com/ycyh86uz/BASINGSTOKE-SHERBORNE-ST-JOHN) : 2021-12-07 12:27:36 +0000 
+* [BASINGSTOKE-SHERBORNE-ST-JOHN](https://tinyurl.com/ycyh86uz/BASINGSTOKE-SHERBORNE-ST-JOHN) : 2022-08-05 15:48:31 +0100 
 * [BASINGSTOKE-THE-VYNE](https://tinyurl.com/ycyh86uz/BASINGSTOKE-THE-VYNE) : 2021-12-07 12:27:36 +0000 
 * [BASINGSTOKE-UPTON-GREY-HO](https://tinyurl.com/ycyh86uz/BASINGSTOKE-UPTON-GREY-HO) : 2021-12-07 12:27:36 +0000 
 * [BASS-ROCK](https://tinyurl.com/ycyh86uz/BASS-ROCK) : 2021-12-07 12:27:36 +0000 
@@ -478,7 +478,7 @@ Generation time: Friday 05/08/2022 07:41:43 BST
 * [BEDDINGTON-SEWAGE-FARM](https://tinyurl.com/ycyh86uz/BEDDINGTON-SEWAGE-FARM) : 2021-12-07 12:27:36 +0000 
 * [BEDFORD-CASTLE-ROAD](https://tinyurl.com/ycyh86uz/BEDFORD-CASTLE-ROAD) : 2021-12-07 12:27:36 +0000 
 * [BEDFORD-CLAPHAM-PARK](https://tinyurl.com/ycyh86uz/BEDFORD-CLAPHAM-PARK) : 2021-12-07 12:27:36 +0000 
-* [BEDFORD-MIX](https://tinyurl.com/ycyh86uz/BEDFORD-MIX) : 2021-12-07 12:27:36 +0000 
+* [BEDFORD-MIX](https://tinyurl.com/ycyh86uz/BEDFORD-MIX) : 2022-08-05 15:48:31 +0100 
 * [BEDFORD-ST-PETERS](https://tinyurl.com/ycyh86uz/BEDFORD-ST-PETERS) : 2021-12-07 12:27:36 +0000 
 * [BEDFORD-THE-PARK](https://tinyurl.com/ycyh86uz/BEDFORD-THE-PARK) : 2021-12-07 12:27:36 +0000 
 * [BEDWORTH-CEMETERY](https://tinyurl.com/ycyh86uz/BEDWORTH-CEMETERY) : 2021-12-07 12:27:36 +0000 
@@ -748,7 +748,7 @@ Generation time: Friday 05/08/2022 07:41:43 BST
 * [BOURNE-GUTHRAM](https://tinyurl.com/ycyh86uz/BOURNE-GUTHRAM) : 2021-12-07 12:27:36 +0000 
 * [BOURNEMOUTH-CLARENDON-COURT](https://tinyurl.com/ycyh86uz/BOURNEMOUTH-CLARENDON-COURT) : 2021-12-07 12:27:36 +0000 
 * [BOURNEMOUTH-EAST-AVENUE](https://tinyurl.com/ycyh86uz/BOURNEMOUTH-EAST-AVENUE) : 2021-12-07 12:27:36 +0000 
-* [BOURNEMOUTH-MIX](https://tinyurl.com/ycyh86uz/BOURNEMOUTH-MIX) : 2021-12-07 12:27:36 +0000 
+* [BOURNEMOUTH-MIX](https://tinyurl.com/ycyh86uz/BOURNEMOUTH-MIX) : 2022-08-05 15:48:31 +0100 
 * [BOURNEMOUTH-VALE-VIEW](https://tinyurl.com/ycyh86uz/BOURNEMOUTH-VALE-VIEW) : 2021-12-07 12:27:36 +0000 
 * [BOURTON-ON-THE-WATER-CHARDWAR](https://tinyurl.com/ycyh86uz/BOURTON-ON-THE-WATER-CHARDWAR) : 2021-12-07 12:27:36 +0000 
 * [BOURTON-ON-WATER-EASTFIELD](https://tinyurl.com/ycyh86uz/BOURTON-ON-WATER-EASTFIELD) : 2021-12-07 12:27:36 +0000 
@@ -829,14 +829,14 @@ Generation time: Friday 05/08/2022 07:41:43 BST
 * [BRIDGE-OF-EARN-BALLANDRICK](https://tinyurl.com/ycyh86uz/BRIDGE-OF-EARN-BALLANDRICK) : 2021-12-07 12:27:36 +0000 
 * [BRIDGE-OF-ORCHY](https://tinyurl.com/ycyh86uz/BRIDGE-OF-ORCHY) : 2021-12-07 12:27:36 +0000 
 * [BRIDGE-OF-TURK](https://tinyurl.com/ycyh86uz/BRIDGE-OF-TURK) : 2021-12-07 12:27:36 +0000 
-* [BRIDGEWATER-BLAKE-GDNS](https://tinyurl.com/ycyh86uz/BRIDGEWATER-BLAKE-GDNS) : 2021-12-07 12:27:36 +0000 
-* [BRIDGEWATER-FIDDINGTON](https://tinyurl.com/ycyh86uz/BRIDGEWATER-FIDDINGTON) : 2021-12-07 12:27:36 +0000 
 * [BRIDGNORTH-ALDENHAM-PARK](https://tinyurl.com/ycyh86uz/BRIDGNORTH-ALDENHAM-PARK) : 2021-12-07 12:27:36 +0000 
 * [BRIDGNORTH-CANTREYN](https://tinyurl.com/ycyh86uz/BRIDGNORTH-CANTREYN) : 2021-12-07 12:27:36 +0000 
 * [BRIDGNORTH-COTON-HALL](https://tinyurl.com/ycyh86uz/BRIDGNORTH-COTON-HALL) : 2021-12-07 12:27:36 +0000 
 * [BRIDGNORTH-MORVILLE-HALL](https://tinyurl.com/ycyh86uz/BRIDGNORTH-MORVILLE-HALL) : 2021-12-07 12:27:36 +0000 
 * [BRIDGNORTH-STANMORE-HALL](https://tinyurl.com/ycyh86uz/BRIDGNORTH-STANMORE-HALL) : 2021-12-07 12:27:36 +0000 
+* [BRIDGWATER-BLAKE-GDNS](https://tinyurl.com/ycyh86uz/BRIDGWATER-BLAKE-GDNS) : 2022-08-05 15:48:31 +0100 
 * [BRIDGWATER-ENMORE](https://tinyurl.com/ycyh86uz/BRIDGWATER-ENMORE) : 2021-12-07 12:27:36 +0000 
+* [BRIDGWATER-FIDDINGTON](https://tinyurl.com/ycyh86uz/BRIDGWATER-FIDDINGTON) : 2022-08-05 15:48:31 +0100 
 * [BRIDGWATER-NURSERIES](https://tinyurl.com/ycyh86uz/BRIDGWATER-NURSERIES) : 2021-12-07 12:27:36 +0000 
 * [BRIDLINGTON-CORPORATION-NURSERIES](https://tinyurl.com/ycyh86uz/BRIDLINGTON-CORPORATION-NURSERIES) : 2021-12-07 12:27:36 +0000 
 * [BRIDLINGTON-SCHOOL](https://tinyurl.com/ycyh86uz/BRIDLINGTON-SCHOOL) : 2021-12-07 12:27:36 +0000 
@@ -1230,7 +1230,7 @@ Generation time: Friday 05/08/2022 07:41:43 BST
 * [CHELFORD-ASTLE-HALL](https://tinyurl.com/ycyh86uz/CHELFORD-ASTLE-HALL) : 2021-12-07 12:27:36 +0000 
 * [CHELMSFORD-BRITTON](https://tinyurl.com/ycyh86uz/CHELMSFORD-BRITTON) : 2021-12-07 12:27:36 +0000 
 * [CHELMSFORD-HIGH-STREET](https://tinyurl.com/ycyh86uz/CHELMSFORD-HIGH-STREET) : 2021-12-07 12:27:36 +0000 
-* [CHELMSFORD-HORTICULTURAL](https://tinyurl.com/ycyh86uz/CHELMSFORD-HORTICULTURAL) : 2022-05-11 19:12:58 +0100 
+* [CHELMSFORD-HORTICULTURAL](https://tinyurl.com/ycyh86uz/CHELMSFORD-HORTICULTURAL) : 2022-08-05 15:48:31 +0100 
 * [CHELMSFORD-ROXWELL](https://tinyurl.com/ycyh86uz/CHELMSFORD-ROXWELL) : 2021-12-07 12:27:36 +0000 
 * [CHELMSFORD-SANDFORD-MILL-WW](https://tinyurl.com/ycyh86uz/CHELMSFORD-SANDFORD-MILL-WW) : 2021-12-07 12:27:36 +0000 
 * [CHELMSFORD-WRITTLE-MELBOURNE](https://tinyurl.com/ycyh86uz/CHELMSFORD-WRITTLE-MELBOURNE) : 2021-12-07 12:27:36 +0000 
@@ -1266,7 +1266,7 @@ Generation time: Friday 05/08/2022 07:41:43 BST
 * [CHESTERFIELD](https://tinyurl.com/ycyh86uz/CHESTERFIELD) : 2021-12-07 12:27:36 +0000 
 * [CHESTERFIELD-GAS-WORKS](https://tinyurl.com/ycyh86uz/CHESTERFIELD-GAS-WORKS) : 2021-12-07 12:27:36 +0000 
 * [CHESTERFIELD-HARDWICK-HALL](https://tinyurl.com/ycyh86uz/CHESTERFIELD-HARDWICK-HALL) : 2021-12-07 12:27:36 +0000 
-* [CHESTERFIELD-LINACRE-RES](https://tinyurl.com/ycyh86uz/CHESTERFIELD-LINACRE-RES) : 2021-12-07 12:27:36 +0000 
+* [CHESTERFIELD-LINACRE-RES](https://tinyurl.com/ycyh86uz/CHESTERFIELD-LINACRE-RES) : 2022-08-05 15:48:31 +0100 
 * [CHESTERFIELD-SEWAGE-WORKS](https://tinyurl.com/ycyh86uz/CHESTERFIELD-SEWAGE-WORKS) : 2021-12-07 12:27:36 +0000 
 * [CHESTERFIELD-TAPTON-GROVE](https://tinyurl.com/ycyh86uz/CHESTERFIELD-TAPTON-GROVE) : 2021-12-07 12:27:36 +0000 
 * [CHESWARDINE-HALL](https://tinyurl.com/ycyh86uz/CHESWARDINE-HALL) : 2021-12-07 12:27:36 +0000 
@@ -1400,7 +1400,7 @@ Generation time: Friday 05/08/2022 07:41:43 BST
 * [COLCHESTER-SURVEYORS](https://tinyurl.com/ycyh86uz/COLCHESTER-SURVEYORS) : 2021-12-07 12:27:36 +0000 
 * [COLCHESTER-WW](https://tinyurl.com/ycyh86uz/COLCHESTER-WW) : 2021-12-07 12:27:36 +0000 
 * [COLDSTREAM-LOCHTON](https://tinyurl.com/ycyh86uz/COLDSTREAM-LOCHTON) : 2021-12-07 12:27:36 +0000 
-* [COLDSTREAM-PAWSTON](https://tinyurl.com/ycyh86uz/COLDSTREAM-PAWSTON) : 2021-12-07 12:27:36 +0000 
+* [COLDSTREAM-PAWSTON](https://tinyurl.com/ycyh86uz/COLDSTREAM-PAWSTON) : 2022-06-15 20:58:53 +0100 
 * [COLDSTREAM-SWINTON-MANSE](https://tinyurl.com/ycyh86uz/COLDSTREAM-SWINTON-MANSE) : 2021-12-07 12:27:36 +0000 
 * [COLDSTREAM-THE-HIRSEL](https://tinyurl.com/ycyh86uz/COLDSTREAM-THE-HIRSEL) : 2021-12-07 12:27:36 +0000 
 * [COLEBROOKE](https://tinyurl.com/ycyh86uz/COLEBROOKE) : 2021-12-07 12:27:36 +0000 
@@ -1531,7 +1531,7 @@ Generation time: Friday 05/08/2022 07:41:43 BST
 * [CROMBIE-RES](https://tinyurl.com/ycyh86uz/CROMBIE-RES) : 2021-12-07 12:27:36 +0000 
 * [CROMER-HOWARDS-HILL](https://tinyurl.com/ycyh86uz/CROMER-HOWARDS-HILL) : 2021-12-07 12:27:36 +0000 
 * [CROMER-NORTHREPPS](https://tinyurl.com/ycyh86uz/CROMER-NORTHREPPS) : 2021-12-07 12:27:36 +0000 
-* [CRONDALL-WARREN-CORNER](https://tinyurl.com/ycyh86uz/CRONDALL-WARREN-CORNER) : 2021-12-07 12:27:36 +0000 
+* [CRONDALL-WARREN-CORNER](https://tinyurl.com/ycyh86uz/CRONDALL-WARREN-CORNER) : 2022-06-16 10:23:58 +0100 
 * [CROOKSTON-PAISLEY](https://tinyurl.com/ycyh86uz/CROOKSTON-PAISLEY) : 2021-12-07 12:27:36 +0000 
 * [CROPSTON-BRADGATE-RES](https://tinyurl.com/ycyh86uz/CROPSTON-BRADGATE-RES) : 2021-12-07 12:27:36 +0000 
 * [CROPWELL-BISHOP-GROVE](https://tinyurl.com/ycyh86uz/CROPWELL-BISHOP-GROVE) : 2021-12-07 12:27:36 +0000 
@@ -1833,7 +1833,7 @@ Generation time: Friday 05/08/2022 07:41:43 BST
 * [DUCHRAY-VALLEY-HEAD-OF-MAIN-STREAM](https://tinyurl.com/ycyh86uz/DUCHRAY-VALLEY-HEAD-OF-MAIN-STREAM) : 2021-12-07 12:27:36 +0000 
 * [DUDDON-VALLEY-SEATHWAITE-FARM](https://tinyurl.com/ycyh86uz/DUDDON-VALLEY-SEATHWAITE-FARM) : 2021-12-07 12:27:36 +0000 
 * [DUDLEY-SHAVERS-END](https://tinyurl.com/ycyh86uz/DUDLEY-SHAVERS-END) : 2021-12-07 12:27:36 +0000 
-* [DUDLEY-TRINDLE-HOUSE](https://tinyurl.com/ycyh86uz/DUDLEY-TRINDLE-HOUSE) : 2021-12-07 12:27:36 +0000 
+* [DUDLEY-TRINDLE-HOUSE](https://tinyurl.com/ycyh86uz/DUDLEY-TRINDLE-HOUSE) : 2022-08-05 15:48:31 +0100 
 * [DUFFIELD-CASTLE-HILL-HOUSE](https://tinyurl.com/ycyh86uz/DUFFIELD-CASTLE-HILL-HOUSE) : 2021-12-07 12:27:36 +0000 
 * [DUFFIELD-KIRKSTYLES](https://tinyurl.com/ycyh86uz/DUFFIELD-KIRKSTYLES) : 2021-12-07 12:27:36 +0000 
 * [DUFFTOWN-MIX](https://tinyurl.com/ycyh86uz/DUFFTOWN-MIX) : 2021-12-07 12:27:36 +0000 
@@ -2030,8 +2030,8 @@ Generation time: Friday 05/08/2022 07:41:43 BST
 * [ELSFORD](https://tinyurl.com/ycyh86uz/ELSFORD) : 2021-12-07 12:27:36 +0000 
 * [ELSLACK-MOORSIDE-FARM](https://tinyurl.com/ycyh86uz/ELSLACK-MOORSIDE-FARM) : 2021-12-07 12:27:36 +0000 
 * [ELSTREE-ALDENHAM-HOUSE](https://tinyurl.com/ycyh86uz/ELSTREE-ALDENHAM-HOUSE) : 2021-12-07 12:27:36 +0000 
-* [ELTERWATER-HALL](https://tinyurl.com/ycyh86uz/ELTERWATER-HALL) : 2021-12-07 12:27:36 +0000 
-* [ELTERWATER-WOODLANDS](https://tinyurl.com/ycyh86uz/ELTERWATER-WOODLANDS) : 2021-12-07 12:27:36 +0000 
+* [ELTERWATER-HALL](https://tinyurl.com/ycyh86uz/ELTERWATER-HALL) : 2022-08-05 15:48:31 +0100 
+* [ELTERWATER-WOODLANDS](https://tinyurl.com/ycyh86uz/ELTERWATER-WOODLANDS) : 2022-08-05 15:48:31 +0100 
 * [ELTHAM-GREEN](https://tinyurl.com/ycyh86uz/ELTHAM-GREEN) : 2021-12-07 12:27:36 +0000 
 * [ELTHAM-HIGH-STREET](https://tinyurl.com/ycyh86uz/ELTHAM-HIGH-STREET) : 2021-12-07 12:27:36 +0000 
 * [ELVANFOOT-PEDEN-RES](https://tinyurl.com/ycyh86uz/ELVANFOOT-PEDEN-RES) : 2021-12-07 12:27:36 +0000 
@@ -2136,7 +2136,7 @@ Generation time: Friday 05/08/2022 07:41:43 BST
 * [FALMOUTH-CARCLEW](https://tinyurl.com/ycyh86uz/FALMOUTH-CARCLEW) : 2021-12-07 12:27:36 +0000 
 * [FALMOUTH-FLUSHING-TREFUSIS](https://tinyurl.com/ycyh86uz/FALMOUTH-FLUSHING-TREFUSIS) : 2021-12-07 12:27:36 +0000 
 * [FALMOUTH-KIMBERLEY](https://tinyurl.com/ycyh86uz/FALMOUTH-KIMBERLEY) : 2021-12-07 12:27:36 +0000 
-* [FALMOUTH-OBSERVATORY](https://tinyurl.com/ycyh86uz/FALMOUTH-OBSERVATORY) : 2021-12-07 12:27:36 +0000 
+* [FALMOUTH-OBSERVATORY](https://tinyurl.com/ycyh86uz/FALMOUTH-OBSERVATORY) : 2022-06-16 10:23:58 +0100 
 * [FARINGDON-SHELLINGFORD-HOUSE](https://tinyurl.com/ycyh86uz/FARINGDON-SHELLINGFORD-HOUSE) : 2021-12-07 12:27:36 +0000 
 * [FARINGDON-THE-ELMS](https://tinyurl.com/ycyh86uz/FARINGDON-THE-ELMS) : 2021-12-07 12:27:36 +0000 
 * [FARLINGTON-FILTER-WORKS](https://tinyurl.com/ycyh86uz/FARLINGTON-FILTER-WORKS) : 2021-12-07 12:27:36 +0000 
@@ -2189,7 +2189,7 @@ Generation time: Friday 05/08/2022 07:41:43 BST
 * [FILEY-PUMPING-STATION](https://tinyurl.com/ycyh86uz/FILEY-PUMPING-STATION) : 2021-12-07 12:27:36 +0000 
 * [FILEY-ROSEDALE-RES](https://tinyurl.com/ycyh86uz/FILEY-ROSEDALE-RES) : 2021-12-07 12:27:36 +0000 
 * [FILKINS](https://tinyurl.com/ycyh86uz/FILKINS) : 2021-12-07 12:27:36 +0000 
-* [FILLEIGH-CASTLE-HILL-GDNS](https://tinyurl.com/ycyh86uz/FILLEIGH-CASTLE-HILL-GDNS) : 2021-12-07 12:27:36 +0000 
+* [FILLEIGH-CASTLE-HILL-GDNS](https://tinyurl.com/ycyh86uz/FILLEIGH-CASTLE-HILL-GDNS) : 2022-08-05 15:48:31 +0100 
 * [FINCASTLE-HOUSE](https://tinyurl.com/ycyh86uz/FINCASTLE-HOUSE) : 2021-12-07 12:27:36 +0000 
 * [FINCHAM-DOWNHAM-MARKET](https://tinyurl.com/ycyh86uz/FINCHAM-DOWNHAM-MARKET) : 2021-12-07 12:27:36 +0000 
 * [FINCHLEY-ETCHINGHAM-PARK](https://tinyurl.com/ycyh86uz/FINCHLEY-ETCHINGHAM-PARK) : 2021-12-07 12:27:36 +0000 
@@ -2251,7 +2251,7 @@ Generation time: Friday 05/08/2022 07:41:43 BST
 * [FOULRIDGE-RES](https://tinyurl.com/ycyh86uz/FOULRIDGE-RES) : 2021-12-07 12:27:36 +0000 
 * [FOWEY](https://tinyurl.com/ycyh86uz/FOWEY) : 2021-12-07 12:27:36 +0000 
 * [FOWNHOPE-MORNEY-CROSS](https://tinyurl.com/ycyh86uz/FOWNHOPE-MORNEY-CROSS) : 2021-12-07 12:27:36 +0000 
-* [FOXGROVE-BECKENHAM](https://tinyurl.com/ycyh86uz/FOXGROVE-BECKENHAM) : 2022-05-31 22:56:12 +0100 
+* [FOXGROVE-BECKENHAM](https://tinyurl.com/ycyh86uz/FOXGROVE-BECKENHAM) : 2022-08-05 15:48:31 +0100 
 * [FOXTON-THE-BURY](https://tinyurl.com/ycyh86uz/FOXTON-THE-BURY) : 2021-12-07 12:27:36 +0000 
 * [FOYNES](https://tinyurl.com/ycyh86uz/FOYNES) : 2021-12-07 12:27:36 +0000 
 * [FRAMPTON-COTTERELL-PARK-HOUSE](https://tinyurl.com/ycyh86uz/FRAMPTON-COTTERELL-PARK-HOUSE) : 2021-12-07 12:27:36 +0000 
@@ -2722,7 +2722,7 @@ Generation time: Friday 05/08/2022 07:41:43 BST
 * [HAWES-WATER-NADDLE-HOUSE](https://tinyurl.com/ycyh86uz/HAWES-WATER-NADDLE-HOUSE) : 2021-12-07 12:27:36 +0000 
 * [HAWESWATER-BURN-BANKS](https://tinyurl.com/ycyh86uz/HAWESWATER-BURN-BANKS) : 2021-12-07 12:27:36 +0000 
 * [HAWESWATER-MARDALE-GREEN](https://tinyurl.com/ycyh86uz/HAWESWATER-MARDALE-GREEN) : 2021-12-07 12:27:36 +0000 
-* [HAWESWATER-MEASAND](https://tinyurl.com/ycyh86uz/HAWESWATER-MEASAND) : 2021-12-07 12:27:36 +0000 
+* [HAWESWATER-MEASAND](https://tinyurl.com/ycyh86uz/HAWESWATER-MEASAND) : 2022-08-05 15:48:31 +0100 
 * [HAWESWATER-MEASAND-BECK](https://tinyurl.com/ycyh86uz/HAWESWATER-MEASAND-BECK) : 2021-12-07 12:27:36 +0000 
 * [HAWESWATER-WALLOW-CRAG](https://tinyurl.com/ycyh86uz/HAWESWATER-WALLOW-CRAG) : 2021-12-07 12:27:36 +0000 
 * [HAWICK-BORTHWICKBRAE](https://tinyurl.com/ycyh86uz/HAWICK-BORTHWICKBRAE) : 2021-12-07 12:27:36 +0000 
@@ -3340,7 +3340,7 @@ Generation time: Friday 05/08/2022 07:41:43 BST
 * [LEICESTER-LONDON-ROAD](https://tinyurl.com/ycyh86uz/LEICESTER-LONDON-ROAD) : 2021-12-07 12:27:36 +0000 
 * [LEICESTER-SQUARE](https://tinyurl.com/ycyh86uz/LEICESTER-SQUARE) : 2021-12-07 12:27:36 +0000 
 * [LEICESTER-TOWERS](https://tinyurl.com/ycyh86uz/LEICESTER-TOWERS) : 2021-12-07 12:27:36 +0000 
-* [LEICESTER-TOWN-MUSEUM](https://tinyurl.com/ycyh86uz/LEICESTER-TOWN-MUSEUM) : 2022-05-17 12:24:32 +0100 
+* [LEICESTER-TOWN-MUSEUM](https://tinyurl.com/ycyh86uz/LEICESTER-TOWN-MUSEUM) : 2022-08-05 15:48:31 +0100 
 * [LEICESTER-WIGSTON-GRANGE](https://tinyurl.com/ycyh86uz/LEICESTER-WIGSTON-GRANGE) : 2021-12-07 12:27:36 +0000 
 * [LEIGH-BRICK-HOUSE](https://tinyurl.com/ycyh86uz/LEIGH-BRICK-HOUSE) : 2021-12-07 12:27:36 +0000 
 * [LEIGH-MIDDLETON-GREEN](https://tinyurl.com/ycyh86uz/LEIGH-MIDDLETON-GREEN) : 2021-12-07 12:27:36 +0000 
@@ -3358,7 +3358,7 @@ Generation time: Friday 05/08/2022 07:41:43 BST
 * [LETHEN](https://tinyurl.com/ycyh86uz/LETHEN) : 2021-12-07 12:27:36 +0000 
 * [LETTERKENNY](https://tinyurl.com/ycyh86uz/LETTERKENNY) : 2021-12-07 12:27:36 +0000 
 * [LETTERSTON-TRE-CWN-HOUSE](https://tinyurl.com/ycyh86uz/LETTERSTON-TRE-CWN-HOUSE) : 2021-12-07 12:27:36 +0000 
-* [LEVENS-BEATHWAITE](https://tinyurl.com/ycyh86uz/LEVENS-BEATHWAITE) : 2021-12-07 12:27:36 +0000 
+* [LEVENS-BEATHWAITE](https://tinyurl.com/ycyh86uz/LEVENS-BEATHWAITE) : 2022-08-05 15:48:31 +0100 
 * [LEWES-BEDFORD-LODGE](https://tinyurl.com/ycyh86uz/LEWES-BEDFORD-LODGE) : 2021-12-07 12:27:36 +0000 
 * [LEWES-GLYNDE-PLACE](https://tinyurl.com/ycyh86uz/LEWES-GLYNDE-PLACE) : 2021-12-07 12:27:36 +0000 
 * [LEWES-SOUTHMALLING](https://tinyurl.com/ycyh86uz/LEWES-SOUTHMALLING) : 2021-12-07 12:27:36 +0000 
@@ -3755,7 +3755,7 @@ Generation time: Friday 05/08/2022 07:41:43 BST
 * [MANOR-PARK-ALBANY-ROAD](https://tinyurl.com/ycyh86uz/MANOR-PARK-ALBANY-ROAD) : 2021-12-07 12:27:36 +0000 
 * [MANOR-PARK-CEMETERY](https://tinyurl.com/ycyh86uz/MANOR-PARK-CEMETERY) : 2021-12-07 12:27:36 +0000 
 * [MANSFIELD-WW-RAINWORTH](https://tinyurl.com/ycyh86uz/MANSFIELD-WW-RAINWORTH) : 2021-12-07 12:27:36 +0000 
-* [MARAZION](https://tinyurl.com/ycyh86uz/MARAZION) : 2021-12-07 12:27:36 +0000 
+* [MARAZION](https://tinyurl.com/ycyh86uz/MARAZION) : 2022-06-16 10:23:58 +0100 
 * [MARCH](https://tinyurl.com/ycyh86uz/MARCH) [MO-2020] : 2021-12-07 12:27:36 +0000 
 * [MARCH-STAGS-HOLT](https://tinyurl.com/ycyh86uz/MARCH-STAGS-HOLT) : 2021-12-07 12:27:36 +0000 
 * [MARCHMONT-HOUSE](https://tinyurl.com/ycyh86uz/MARCHMONT-HOUSE) : 2021-12-07 12:27:36 +0000 
@@ -4118,7 +4118,7 @@ Generation time: Friday 05/08/2022 07:41:43 BST
 * [NEWRY-EDWARD-ST-STATION](https://tinyurl.com/ycyh86uz/NEWRY-EDWARD-ST-STATION) : 2021-12-07 12:27:36 +0000 
 * [NEWTON](https://tinyurl.com/ycyh86uz/NEWTON) : 2021-12-07 12:27:36 +0000 
 * [NEWTON-ABBOT-SEALE-HAYNE](https://tinyurl.com/ycyh86uz/NEWTON-ABBOT-SEALE-HAYNE) : 2021-12-07 12:27:36 +0000 
-* [NEWTON-FERRERS](https://tinyurl.com/ycyh86uz/NEWTON-FERRERS) : 2021-12-07 12:27:36 +0000 
+* [NEWTON-FERRERS](https://tinyurl.com/ycyh86uz/NEWTON-FERRERS) : 2022-08-05 15:48:31 +0100 
 * [NEWTON-STEWART-DUNCREE](https://tinyurl.com/ycyh86uz/NEWTON-STEWART-DUNCREE) : 2021-12-07 12:27:36 +0000 
 * [NEWTON-STEWART-LITTLE-BARRAER](https://tinyurl.com/ycyh86uz/NEWTON-STEWART-LITTLE-BARRAER) : 2021-12-07 12:27:36 +0000 
 * [NEWTON-VALENCE-VICARAGE](https://tinyurl.com/ycyh86uz/NEWTON-VALENCE-VICARAGE) : 2021-12-07 12:27:36 +0000 
@@ -4267,7 +4267,7 @@ Generation time: Friday 05/08/2022 07:41:43 BST
 * [ORMSKIRK-SPRINGFIELD-PUMPING-STATION](https://tinyurl.com/ycyh86uz/ORMSKIRK-SPRINGFIELD-PUMPING-STATION) : 2021-12-07 12:27:36 +0000 
 * [ORPINGTON-KENT-WW](https://tinyurl.com/ycyh86uz/ORPINGTON-KENT-WW) [MO-2020] : 2021-12-07 12:27:36 +0000 
 * [ORRELL-UPHOLLAND](https://tinyurl.com/ycyh86uz/ORRELL-UPHOLLAND) : 2021-12-07 12:27:36 +0000 
-* [ORTON-VICARAGE](https://tinyurl.com/ycyh86uz/ORTON-VICARAGE) : 2021-12-07 12:27:36 +0000 
+* [ORTON-VICARAGE](https://tinyurl.com/ycyh86uz/ORTON-VICARAGE) : 2022-08-05 15:48:31 +0100 
 * [OSBORNE](https://tinyurl.com/ycyh86uz/OSBORNE) : 2021-12-07 12:27:36 +0000 
 * [OSBORNE-NEWBARN](https://tinyurl.com/ycyh86uz/OSBORNE-NEWBARN) : 2021-12-07 12:27:36 +0000 
 * [OSMOTHERLEY-OAKDALE-WW](https://tinyurl.com/ycyh86uz/OSMOTHERLEY-OAKDALE-WW) : 2021-12-07 12:27:36 +0000 
@@ -4487,7 +4487,7 @@ Generation time: Friday 05/08/2022 07:41:43 BST
 * [PONTYPRIDD-LAN-WOOD-RES](https://tinyurl.com/ycyh86uz/PONTYPRIDD-LAN-WOOD-RES) : 2021-12-07 12:27:36 +0000 
 * [PONTYPRIDD-MAESDERWEN-GRAIG](https://tinyurl.com/ycyh86uz/PONTYPRIDD-MAESDERWEN-GRAIG) : 2021-12-07 12:27:36 +0000 
 * [POOLE](https://tinyurl.com/ycyh86uz/POOLE) : 2021-12-07 12:27:36 +0000 
-* [POOLE-PARKSTONE](https://tinyurl.com/ycyh86uz/POOLE-PARKSTONE) : 2021-12-07 12:27:36 +0000 
+* [POOLE-PARKSTONE](https://tinyurl.com/ycyh86uz/POOLE-PARKSTONE) : 2022-06-15 20:58:53 +0100 
 * [POOLE-WEST-STREET](https://tinyurl.com/ycyh86uz/POOLE-WEST-STREET) : 2021-12-07 12:27:36 +0000 
 * [POOLEWE-INVEREWE-GDNS](https://tinyurl.com/ycyh86uz/POOLEWE-INVEREWE-GDNS) : 2021-12-07 12:27:36 +0000 
 * [POPLAR-ISLAND-GDNS](https://tinyurl.com/ycyh86uz/POPLAR-ISLAND-GDNS) : 2021-12-07 12:27:36 +0000 
@@ -5040,7 +5040,7 @@ Generation time: Friday 05/08/2022 07:41:43 BST
 * [SOUTH-MOLTON-EAST-STREET](https://tinyurl.com/ycyh86uz/SOUTH-MOLTON-EAST-STREET) : 2021-12-07 12:27:36 +0000 
 * [SOUTH-MOLTON-MESHAW](https://tinyurl.com/ycyh86uz/SOUTH-MOLTON-MESHAW) : 2021-12-07 12:27:36 +0000 
 * [SOUTH-MOLTON-ROSE-ASH](https://tinyurl.com/ycyh86uz/SOUTH-MOLTON-ROSE-ASH) : 2021-12-07 12:27:36 +0000 
-* [SOUTH-PETHERTON](https://tinyurl.com/ycyh86uz/SOUTH-PETHERTON) : 2021-12-07 12:27:36 +0000 
+* [SOUTH-PETHERTON](https://tinyurl.com/ycyh86uz/SOUTH-PETHERTON) : 2022-06-15 20:58:53 +0100 
 * [SOUTH-SHIELDS-BENTS-PARK](https://tinyurl.com/ycyh86uz/SOUTH-SHIELDS-BENTS-PARK) : 2021-12-07 12:27:36 +0000 
 * [SOUTH-WALSHAM](https://tinyurl.com/ycyh86uz/SOUTH-WALSHAM) : 2021-12-07 12:27:36 +0000 
 * [SOUTHAM](https://tinyurl.com/ycyh86uz/SOUTHAM) : 2021-12-07 12:27:36 +0000 
@@ -5049,7 +5049,7 @@ Generation time: Friday 05/08/2022 07:41:43 BST
 * [SOUTHAMPTON-COMMON-RES](https://tinyurl.com/ycyh86uz/SOUTHAMPTON-COMMON-RES) : 2021-12-07 12:27:36 +0000 
 * [SOUTHAMPTON-EAST-PARK](https://tinyurl.com/ycyh86uz/SOUTHAMPTON-EAST-PARK) : 2021-12-07 12:27:36 +0000 
 * [SOUTHAMPTON-ELING](https://tinyurl.com/ycyh86uz/SOUTHAMPTON-ELING) : 2021-12-07 12:27:36 +0000 
-* [SOUTHAMPTON-NETLEY-LAKE-HOUSE](https://tinyurl.com/ycyh86uz/SOUTHAMPTON-NETLEY-LAKE-HOUSE) : 2021-12-07 12:27:36 +0000 
+* [SOUTHAMPTON-NETLEY-LAKE-HOUSE](https://tinyurl.com/ycyh86uz/SOUTHAMPTON-NETLEY-LAKE-HOUSE) : 2022-06-16 10:23:58 +0100 
 * [SOUTHAMPTON-PORTSWOOD-DISTRICT](https://tinyurl.com/ycyh86uz/SOUTHAMPTON-PORTSWOOD-DISTRICT) : 2021-12-07 12:27:36 +0000 
 * [SOUTHAMPTON-RED-LODGE](https://tinyurl.com/ycyh86uz/SOUTHAMPTON-RED-LODGE) : 2021-12-07 12:27:36 +0000 
 * [SOUTHCHURCH](https://tinyurl.com/ycyh86uz/SOUTHCHURCH) : 2021-12-07 12:27:36 +0000 
@@ -5437,7 +5437,7 @@ Generation time: Friday 05/08/2022 07:41:43 BST
 * [THORNBURY-THORNBURY-PARK](https://tinyurl.com/ycyh86uz/THORNBURY-THORNBURY-PARK) : 2022-05-31 22:56:12 +0100 
 * [THORNEY-WRYDE-HOUSE](https://tinyurl.com/ycyh86uz/THORNEY-WRYDE-HOUSE) : 2021-12-07 12:27:36 +0000 
 * [THORNTON-CURTIS](https://tinyurl.com/ycyh86uz/THORNTON-CURTIS) : 2021-12-07 12:27:36 +0000 
-* [THORNTON-HEATH-THORNTON-LODGE](https://tinyurl.com/ycyh86uz/THORNTON-HEATH-THORNTON-LODGE) : 2021-12-07 12:27:36 +0000 
+* [THORNTON-HEATH-THORNTON-LODGE](https://tinyurl.com/ycyh86uz/THORNTON-HEATH-THORNTON-LODGE) : 2022-06-15 20:58:53 +0100 
 * [THORNTON-IN-CRAVEN](https://tinyurl.com/ycyh86uz/THORNTON-IN-CRAVEN) : 2021-12-07 12:27:36 +0000 
 * [THORNTON-RESERVOIR-LEICESTER](https://tinyurl.com/ycyh86uz/THORNTON-RESERVOIR-LEICESTER) [MO-2020] : 2021-12-07 12:27:36 +0000 
 * [THORPE-MANDEVILLE](https://tinyurl.com/ycyh86uz/THORPE-MANDEVILLE) : 2021-12-07 12:27:36 +0000 
@@ -6067,7 +6067,7 @@ Generation time: Friday 05/08/2022 07:41:43 BST
 * [YARMOUTH-MARKET-PLACE](https://tinyurl.com/ycyh86uz/YARMOUTH-MARKET-PLACE) : 2021-12-07 12:27:36 +0000 
 * [YARMOUTH-ORMESBY-ST-MICHAEL](https://tinyurl.com/ycyh86uz/YARMOUTH-ORMESBY-ST-MICHAEL) : 2021-12-07 12:27:36 +0000 
 * [YARMOUTH-SAILORS-HOME](https://tinyurl.com/ycyh86uz/YARMOUTH-SAILORS-HOME) : 2021-12-07 12:27:36 +0000 
-* [YATTENDON-COURT](https://tinyurl.com/ycyh86uz/YATTENDON-COURT) : 2022-06-07 00:00:18 +0100 
+* [YATTENDON-COURT](https://tinyurl.com/ycyh86uz/YATTENDON-COURT) : 2022-06-15 20:58:53 +0100 
 * [YATTON-CHELVEY](https://tinyurl.com/ycyh86uz/YATTON-CHELVEY) : 2021-12-07 12:27:36 +0000 
 * [YEALAND-CONYERS](https://tinyurl.com/ycyh86uz/YEALAND-CONYERS) : 2022-03-24 12:01:50 +0000 
 * [YEALAND-CONYERS-MORECAMBE-LODGE](https://tinyurl.com/ycyh86uz/YEALAND-CONYERS-MORECAMBE-LODGE) : 2021-12-07 12:27:36 +0000 
@@ -6393,7 +6393,7 @@ Generation time: Friday 05/08/2022 07:41:43 BST
 * [WEXFORD-RECLAIMED-LANDS](https://github.com/ed-hawkins/rainfall-rescue-data-eire/tree/main/DATA/WEXFORD-RECLAIMED-LANDS) : 2022-02-14 15:02:01 +0000 
 * [WOODPARK-SCARRIFF](https://github.com/ed-hawkins/rainfall-rescue-data-eire/tree/main/DATA/WOODPARK-SCARRIFF) : 2022-03-03 16:20:51 +0000 
 
-5768 **rainfall-rescue-data-v2/DATA** locations under [https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/main/DATA](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/main/DATA):
+5767 **rainfall-rescue-data-v2/DATA** locations under [https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/main/DATA](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/main/DATA):
 
 * [ABBERLEY](https://tinyurl.com/3xfyv3yv/ABBERLEY) : 2021-09-27 13:26:52 +0100 
 * [ABBESS-RODING-RECTORY](https://tinyurl.com/3xfyv3yv/ABBESS-RODING-RECTORY) : 2022-05-17 12:24:05 +0100 
@@ -7121,11 +7121,11 @@ Generation time: Friday 05/08/2022 07:41:43 BST
 * [BRIDGEND-EIW-GRAIG](https://tinyurl.com/3xfyv3yv/BRIDGEND-EIW-GRAIG) : 2021-11-01 09:23:39 +0000 
 * [BRIDGEND-TREMAINE-HOUSE](https://tinyurl.com/3xfyv3yv/BRIDGEND-TREMAINE-HOUSE) : 2022-04-01 17:26:39 +0100 
 * [BRIDGEND-WW](https://tinyurl.com/3xfyv3yv/BRIDGEND-WW) : 2022-04-01 17:26:39 +0100 
-* [BRIDGEWATER-DURLEIGH-RES](https://tinyurl.com/3xfyv3yv/BRIDGEWATER-DURLEIGH-RES) : 2021-08-18 14:26:24 +0100 
-* [BRIDGEWATER-NORTHMOOR-PUMPING-STATION](https://tinyurl.com/3xfyv3yv/BRIDGEWATER-NORTHMOOR-PUMPING-STATION) : 2021-08-18 14:26:24 +0100 
 * [BRIDGNORTH-HOOKFIELD-HOUSE](https://tinyurl.com/3xfyv3yv/BRIDGNORTH-HOOKFIELD-HOUSE) : 2022-02-11 17:50:40 +0000 
 * [BRIDGNORTH-QUATT-INDUSTRIAL-SCHOOL](https://tinyurl.com/3xfyv3yv/BRIDGNORTH-QUATT-INDUSTRIAL-SCHOOL) : 2022-04-28 16:16:38 +0100 
 * [BRIDGNORTH-SILVERDALE](https://tinyurl.com/3xfyv3yv/BRIDGNORTH-SILVERDALE) : 2022-02-11 17:50:40 +0000 
+* [BRIDGWATER-DURLEIGH-RES](https://tinyurl.com/3xfyv3yv/BRIDGWATER-DURLEIGH-RES) : 2022-08-05 15:55:22 +0100 
+* [BRIDGWATER-NORTHMOOR-PUMPING-STATION](https://tinyurl.com/3xfyv3yv/BRIDGWATER-NORTHMOOR-PUMPING-STATION) : 2022-08-05 15:55:22 +0100 
 * [BRIDGWATER-PAWLETT](https://tinyurl.com/3xfyv3yv/BRIDGWATER-PAWLETT) : 2022-05-26 11:09:09 +0100 
 * [BRIDGWATER-STOCKLAND-MANOR](https://tinyurl.com/3xfyv3yv/BRIDGWATER-STOCKLAND-MANOR) : 2022-05-26 11:09:09 +0100 
 * [BRIDGWATER-WEMBDON](https://tinyurl.com/3xfyv3yv/BRIDGWATER-WEMBDON) : 2022-02-14 21:41:40 +0000 
@@ -7759,7 +7759,7 @@ Generation time: Friday 05/08/2022 07:41:43 BST
 * [CORNWOOD-YEALM-HEAD-TWO](https://tinyurl.com/3xfyv3yv/CORNWOOD-YEALM-HEAD-TWO) : 2021-09-13 21:17:52 +0100 
 * [CORRANY-WEIR](https://tinyurl.com/3xfyv3yv/CORRANY-WEIR) : 2022-02-28 17:33:17 +0000 
 * [CORRIS-PANTPERTHOG](https://tinyurl.com/3xfyv3yv/CORRIS-PANTPERTHOG) : 2022-02-11 17:50:40 +0000 
-* [CORRIS-TAL-Y-LLYN-RECTORY](https://tinyurl.com/3xfyv3yv/CORRIS-TAL-Y-LLYN-RECTORY) : 2021-11-02 16:59:23 +0000 
+* [CORRIS-TAL-Y-LLYN-RECTORY](https://tinyurl.com/3xfyv3yv/CORRIS-TAL-Y-LLYN-RECTORY) : 2022-08-05 15:55:22 +0100 
 * [CORSHAM-COURT](https://tinyurl.com/3xfyv3yv/CORSHAM-COURT) : 2022-05-30 11:36:22 +0100 
 * [CORSHAM-PICKWICK-CROSSWAYS-COTTAGE](https://tinyurl.com/3xfyv3yv/CORSHAM-PICKWICK-CROSSWAYS-COTTAGE) : 2022-05-30 11:36:22 +0100 
 * [CORSHAM-THE-GROVE](https://tinyurl.com/3xfyv3yv/CORSHAM-THE-GROVE) : 2022-05-30 11:36:22 +0100 
@@ -8659,7 +8659,7 @@ Generation time: Friday 05/08/2022 07:41:43 BST
 * [GRANTHAM-CENTRAL-SCHOOL](https://tinyurl.com/3xfyv3yv/GRANTHAM-CENTRAL-SCHOOL) : 2021-10-01 23:59:46 +0100 
 * [GRANTHAM-SYSTON-PARK](https://tinyurl.com/3xfyv3yv/GRANTHAM-SYSTON-PARK) : 2021-11-01 09:23:39 +0000 
 * [GRASMERE-MEADOW-BROW](https://tinyurl.com/3xfyv3yv/GRASMERE-MEADOW-BROW) : 2022-04-28 16:16:38 +0100 
-* [GRASMERE-PARSONAGE](https://tinyurl.com/3xfyv3yv/GRASMERE-PARSONAGE) : 2022-01-28 17:49:08 +0000 
+* [GRASMERE-PARSONAGE](https://tinyurl.com/3xfyv3yv/GRASMERE-PARSONAGE) : 2022-08-05 15:55:22 +0100 
 * [GRASMERE-WONINGSWORTH](https://tinyurl.com/3xfyv3yv/GRASMERE-WONINGSWORTH) : 2021-08-31 13:55:37 +0100 
 * [GRASSINGTON-CHAPEL-HOUSE-KILNSEY](https://tinyurl.com/3xfyv3yv/GRASSINGTON-CHAPEL-HOUSE-KILNSEY) : 2022-03-29 23:43:15 +0100 
 * [GRASSINGTON-GHAISTRILLS](https://tinyurl.com/3xfyv3yv/GRASSINGTON-GHAISTRILLS) : 2022-03-17 20:40:25 +0000 
@@ -8774,7 +8774,7 @@ Generation time: Friday 05/08/2022 07:41:43 BST
 * [GWYTHERIN-COUNCIL-SCHOOL](https://tinyurl.com/3xfyv3yv/GWYTHERIN-COUNCIL-SCHOOL) : 2021-08-31 23:39:07 +0100 
 * [HABROUGH-HOME-FARM](https://tinyurl.com/3xfyv3yv/HABROUGH-HOME-FARM) : 2021-10-01 23:59:46 +0100 
 * [HADDINGTON-NEILSON-PARK](https://tinyurl.com/3xfyv3yv/HADDINGTON-NEILSON-PARK) : 2021-08-17 17:16:48 +0100 
-* [HADFIELD-MILLBROOK](https://tinyurl.com/3xfyv3yv/HADFIELD-MILLBROOK) : 2021-08-17 17:16:48 +0100 
+* [HADFIELD-MILLBROOK](https://tinyurl.com/3xfyv3yv/HADFIELD-MILLBROOK) : 2022-08-05 15:55:22 +0100 
 * [HADHAM-PUMPING-STATION](https://tinyurl.com/3xfyv3yv/HADHAM-PUMPING-STATION) : 2021-08-01 17:04:50 +0100 
 * [HADLEIGH-BOXFORD](https://tinyurl.com/3xfyv3yv/HADLEIGH-BOXFORD) : 2021-11-01 10:10:25 +0000 
 * [HADLEY-HADLEY-BOURNE](https://tinyurl.com/3xfyv3yv/HADLEY-HADLEY-BOURNE) : 2022-04-04 13:38:47 +0100 
@@ -9440,7 +9440,7 @@ Generation time: Friday 05/08/2022 07:41:43 BST
 * [KIRKHEATON-KIRK-VALE](https://tinyurl.com/3xfyv3yv/KIRKHEATON-KIRK-VALE) : 2022-02-24 15:56:54 +0000 
 * [KIRKLAND-VICARAGE](https://tinyurl.com/3xfyv3yv/KIRKLAND-VICARAGE) : 2022-01-12 17:02:41 +0000 
 * [KIRKLISTON-NEWLISTON](https://tinyurl.com/3xfyv3yv/KIRKLISTON-NEWLISTON) : 2022-01-12 17:02:41 +0000 
-* [KIRKMICHAEL-NR-DUMFRIES](https://tinyurl.com/3xfyv3yv/KIRKMICHAEL-NR-DUMFRIES) : 2022-04-03 21:38:00 +0100 
+* [KIRKMICHAEL-NR-DUMFRIES](https://tinyurl.com/3xfyv3yv/KIRKMICHAEL-NR-DUMFRIES) : 2022-06-08 17:33:21 +0100 
 * [KIRKMICHAEL-SCHOOL](https://tinyurl.com/3xfyv3yv/KIRKMICHAEL-SCHOOL) : 2022-04-03 22:39:50 +0100 
 * [KIRKNEWTON-COLDBURN](https://tinyurl.com/3xfyv3yv/KIRKNEWTON-COLDBURN) : 2022-02-13 15:39:09 +0000 
 * [KIRKNEWTON-MANSE](https://tinyurl.com/3xfyv3yv/KIRKNEWTON-MANSE) : 2022-01-12 17:02:41 +0000 
@@ -9968,7 +9968,7 @@ Generation time: Friday 05/08/2022 07:41:43 BST
 * [MALTON-THE-LEAT-HOUSE](https://tinyurl.com/3xfyv3yv/MALTON-THE-LEAT-HOUSE) : 2021-11-01 09:23:39 +0000 
 * [MALVERN-BARNARDS-GREEN](https://tinyurl.com/3xfyv3yv/MALVERN-BARNARDS-GREEN) : 2022-03-24 11:20:32 +0000 
 * [MALVERN-CLARENCE-ROAD](https://tinyurl.com/3xfyv3yv/MALVERN-CLARENCE-ROAD) : 2022-03-24 11:20:32 +0000 
-* [MALVERN-FREE-LIBRARY](https://tinyurl.com/3xfyv3yv/MALVERN-FREE-LIBRARY) : 2021-09-27 13:26:52 +0100 
+* [MALVERN-FREE-LIBRARY](https://tinyurl.com/3xfyv3yv/MALVERN-FREE-LIBRARY) : 2022-08-05 15:55:22 +0100 
 * [MALVERN-HALL-GREEN](https://tinyurl.com/3xfyv3yv/MALVERN-HALL-GREEN) : 2021-09-27 13:26:52 +0100 
 * [MALVERN-HILLS-UPPER-WYCH](https://tinyurl.com/3xfyv3yv/MALVERN-HILLS-UPPER-WYCH) : 2022-02-10 23:51:23 +0000 
 * [MALVERN-LANSDOWNE-CRES](https://tinyurl.com/3xfyv3yv/MALVERN-LANSDOWNE-CRES) : 2021-09-27 13:26:52 +0100 
@@ -10190,7 +10190,6 @@ Generation time: Friday 05/08/2022 07:41:43 BST
 * [MONTGREENAN-GDNS](https://tinyurl.com/3xfyv3yv/MONTGREENAN-GDNS) : 2021-11-01 09:23:39 +0000 
 * [MOOR-FARM](https://tinyurl.com/3xfyv3yv/MOOR-FARM) : 2021-08-16 23:19:11 +0100 
 * [MOORE-UPLANDS](https://tinyurl.com/3xfyv3yv/MOORE-UPLANDS) : 2021-08-17 17:16:48 +0100 
-* [MOORHOUSE-DUFTON](https://tinyurl.com/3xfyv3yv/MOORHOUSE-DUFTON) : 2021-08-31 13:55:37 +0100 
 * [MORDEN-HALL](https://tinyurl.com/3xfyv3yv/MORDEN-HALL) : 2022-01-12 23:04:01 +0000 
 * [MORECAMBE-BARE-LANE](https://tinyurl.com/3xfyv3yv/MORECAMBE-BARE-LANE) : 2022-05-26 11:09:09 +0100 
 * [MORECAMBE-STUART-AVENUE](https://tinyurl.com/3xfyv3yv/MORECAMBE-STUART-AVENUE) : 2022-05-26 11:09:09 +0100 
@@ -10289,7 +10288,7 @@ Generation time: Friday 05/08/2022 07:41:43 BST
 * [NEW-MILTON-WOOTTON-HILL](https://tinyurl.com/3xfyv3yv/NEW-MILTON-WOOTTON-HILL) : 2022-05-17 16:27:11 +0100 
 * [NEW-RADNOR-DOWNTON](https://tinyurl.com/3xfyv3yv/NEW-RADNOR-DOWNTON) : 2022-03-17 20:40:25 +0000 
 * [NEWARK-SEWAGE-WORKS](https://tinyurl.com/3xfyv3yv/NEWARK-SEWAGE-WORKS) : 2021-08-04 22:32:59 +0100 
-* [NEWARK-THE-FRIARY](https://tinyurl.com/3xfyv3yv/NEWARK-THE-FRIARY) : 2022-06-06 23:59:25 +0100 
+* [NEWARK-THE-FRIARY](https://tinyurl.com/3xfyv3yv/NEWARK-THE-FRIARY) : 2022-06-07 10:23:04 +0100 
 * [NEWBOROUGH-FOREST](https://tinyurl.com/3xfyv3yv/NEWBOROUGH-FOREST) : 2022-01-12 17:02:41 +0000 
 * [NEWBOROUGH-HEXHAM](https://tinyurl.com/3xfyv3yv/NEWBOROUGH-HEXHAM) : 2022-01-28 17:49:08 +0000 
 * [NEWBURY-ANDOVER-ROAD](https://tinyurl.com/3xfyv3yv/NEWBURY-ANDOVER-ROAD) : 2022-02-13 15:39:09 +0000 
@@ -10533,7 +10532,7 @@ Generation time: Friday 05/08/2022 07:41:43 BST
 * [PENDLE-HILL-BUTTOCK](https://tinyurl.com/3xfyv3yv/PENDLE-HILL-BUTTOCK) : 2021-11-21 22:25:27 +0000 
 * [PENDOCK-RECTORY](https://tinyurl.com/3xfyv3yv/PENDOCK-RECTORY) : 2022-03-24 11:20:32 +0000 
 * [PENFFORDD-COUNCIL-SCHOOL](https://tinyurl.com/3xfyv3yv/PENFFORDD-COUNCIL-SCHOOL) : 2022-04-03 22:39:50 +0100 
-* [PENGE-RECREATION-GROUND](https://tinyurl.com/3xfyv3yv/PENGE-RECREATION-GROUND) : 2021-09-07 17:14:41 +0100 
+* [PENGE-RECREATION-GROUND](https://tinyurl.com/3xfyv3yv/PENGE-RECREATION-GROUND) : 2022-08-05 15:55:22 +0100 
 * [PENICUIK](https://tinyurl.com/3xfyv3yv/PENICUIK) : 2021-08-17 17:16:48 +0100 
 * [PENICUIK-BRUNSTANE-COTTAGE](https://tinyurl.com/3xfyv3yv/PENICUIK-BRUNSTANE-COTTAGE) : 2022-04-01 17:26:39 +0100 
 * [PENISTONE-BROADSTONE-RES](https://tinyurl.com/3xfyv3yv/PENISTONE-BROADSTONE-RES) : 2022-03-17 20:40:25 +0000 
@@ -10743,7 +10742,7 @@ Generation time: Friday 05/08/2022 07:41:43 BST
 * [REDEWATER-ELLIS-CRAG](https://tinyurl.com/3xfyv3yv/REDEWATER-ELLIS-CRAG) : 2022-02-13 15:39:09 +0000 
 * [REDEWATER-GAME-PARK](https://tinyurl.com/3xfyv3yv/REDEWATER-GAME-PARK) : 2021-09-02 17:34:57 +0100 
 * [REDEWATER-LUMSDON](https://tinyurl.com/3xfyv3yv/REDEWATER-LUMSDON) : 2021-09-02 17:34:57 +0100 
-* [REDEWATER-RAMSHOPE](https://tinyurl.com/3xfyv3yv/REDEWATER-RAMSHOPE) : 2022-02-13 15:39:09 +0000 
+* [REDEWATER-RAMSHOPE](https://tinyurl.com/3xfyv3yv/REDEWATER-RAMSHOPE) : 2022-08-05 15:55:22 +0100 
 * [REDHILL-LONDON-ROAD](https://tinyurl.com/3xfyv3yv/REDHILL-LONDON-ROAD) : 2021-08-31 23:39:07 +0100 
 * [REDHILL-STATION-ROAD](https://tinyurl.com/3xfyv3yv/REDHILL-STATION-ROAD) : 2022-03-15 17:55:25 +0000 
 * [REDMARLEY-HASELDEN](https://tinyurl.com/3xfyv3yv/REDMARLEY-HASELDEN) : 2021-12-10 15:21:07 +0000 
@@ -11155,7 +11154,7 @@ Generation time: Friday 05/08/2022 07:41:43 BST
 * [SOUTHFLEET-HOOK-PLACE-FARM](https://tinyurl.com/3xfyv3yv/SOUTHFLEET-HOOK-PLACE-FARM) : 2021-08-17 17:16:48 +0100 
 * [SOUTHGATE-OAKWOOD-PARK](https://tinyurl.com/3xfyv3yv/SOUTHGATE-OAKWOOD-PARK) : 2021-09-07 23:31:38 +0100 
 * [SOUTHMINSTER-DUDSWELL](https://tinyurl.com/3xfyv3yv/SOUTHMINSTER-DUDSWELL) : 2022-02-07 14:54:10 +0000 
-* [SOUTHWELL-ELMFIELD](https://tinyurl.com/3xfyv3yv/SOUTHWELL-ELMFIELD) : 2021-09-27 13:26:52 +0100 
+* [SOUTHWELL-ELMFIELD](https://tinyurl.com/3xfyv3yv/SOUTHWELL-ELMFIELD) : 2022-08-05 15:55:22 +0100 
 * [SOUTHWELL-THE-NURSERIES](https://tinyurl.com/3xfyv3yv/SOUTHWELL-THE-NURSERIES) : 2021-09-27 13:26:52 +0100 
 * [SOUTHWELL-THE-RESIDENCE](https://tinyurl.com/3xfyv3yv/SOUTHWELL-THE-RESIDENCE) : 2021-12-20 17:01:52 +0000 
 * [SOUTHWICK-PINSLEY-LODGE](https://tinyurl.com/3xfyv3yv/SOUTHWICK-PINSLEY-LODGE) : 2021-08-31 23:39:07 +0100 
@@ -12164,7 +12163,7 @@ Generation time: Friday 05/08/2022 07:41:43 BST
 * [YRFON-BYLCHAU](https://tinyurl.com/3xfyv3yv/YRFON-BYLCHAU) : 2022-03-29 23:43:15 +0100 
 * [YSPYTTY-YSTSWYTH-DOLGROES](https://tinyurl.com/3xfyv3yv/YSPYTTY-YSTSWYTH-DOLGROES) : 2022-05-17 12:24:05 +0100 
 
-1143 **rainfall-rescue-data-v3/DATA** locations under [https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA):
+1155 **rainfall-rescue-data-v3/DATA** locations under [https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA):
 
 * [ABERDARE-ABERNANT-HOUSE](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/ABERDARE-ABERNANT-HOUSE) : 2022-07-05 18:57:57 +0100 
 * [ABERDARE-DARE-VILLA](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/ABERDARE-DARE-VILLA) : 2022-07-05 18:57:57 +0100 
@@ -12276,6 +12275,7 @@ Generation time: Friday 05/08/2022 07:41:43 BST
 * [BLAKESWARE](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/BLAKESWARE) : 2022-07-06 20:53:41 +0100 
 * [BLANCHLAND-COWBYERS](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/BLANCHLAND-COWBYERS) : 2022-07-06 20:44:23 +0100 
 * [BLANDFORD-FIELDS-OAK](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/BLANDFORD-FIELDS-OAK) : 2022-06-20 18:37:08 +0100 
+* [BLANDFORD-MARKET-PLACE](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/BLANDFORD-MARKET-PLACE) : 2022-08-05 17:30:14 +0100 
 * [BLANDFORD-WHITECLIFF-ST](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/BLANDFORD-WHITECLIFF-ST) : 2022-07-03 23:37:19 +0100 
 * [BLEAKLOW-STONES](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/BLEAKLOW-STONES) : 2022-06-22 18:20:34 +0100 
 * [BOCKING-CHURCH-STREET](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/BOCKING-CHURCH-STREET) : 2022-06-30 17:36:14 +0100 
@@ -12341,6 +12341,7 @@ Generation time: Friday 05/08/2022 07:41:43 BST
 * [BURNOPFIELD-LEAZES-HALL](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/BURNOPFIELD-LEAZES-HALL) : 2022-07-06 20:48:49 +0100 
 * [BURNOPFIELD-PRIESTFIELD](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/BURNOPFIELD-PRIESTFIELD) : 2022-07-06 20:48:49 +0100 
 * [BURRINGTON-LANGFORD](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/BURRINGTON-LANGFORD) : 2022-07-24 08:29:45 +0100 
+* [BURTON-BRADSTOCK-GAGES](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/BURTON-BRADSTOCK-GAGES) : 2022-08-05 17:30:14 +0100 
 * [BURTON-DALTON-HALL](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/BURTON-DALTON-HALL) : 2022-07-28 18:13:23 +0100 
 * [BURTON-ON-TRENT-GRAMMAR-SCHOOL](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/BURTON-ON-TRENT-GRAMMAR-SCHOOL) : 2022-06-28 18:20:08 +0100 
 * [BURWASH-BURNT-HOUSE-FARM](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/BURWASH-BURNT-HOUSE-FARM) : 2022-07-31 12:41:23 +0100 
@@ -12457,6 +12458,7 @@ Generation time: Friday 05/08/2022 07:41:43 BST
 * [CREDITON-SHIP-HOTEL](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/CREDITON-SHIP-HOTEL) : 2022-06-29 17:21:59 +0100 
 * [CREDITON-UDC](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/CREDITON-UDC) : 2022-07-28 21:37:57 +0100 
 * [CREWKERNE-MARKS-BARN](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/CREWKERNE-MARKS-BARN) : 2022-07-23 09:09:56 +0100 
+* [CREWKERNE-SEABOROUGH](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/CREWKERNE-SEABOROUGH) : 2022-08-05 17:30:14 +0100 
 * [CRICCIETH-BRON-EIFION](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/CRICCIETH-BRON-EIFION) : 2022-05-24 17:32:42 +0100 
 * [CRICCIETH-CEFN-MAEN](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/CRICCIETH-CEFN-MAEN) : 2022-05-24 17:32:42 +0100 
 * [CROPWELL-BUTLER](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/CROPWELL-BUTLER) : 2022-06-14 21:49:32 +0100 
@@ -12502,6 +12504,7 @@ Generation time: Friday 05/08/2022 07:41:43 BST
 * [DOGMERSFIELD-PARK](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/DOGMERSFIELD-PARK) : 2022-07-21 18:02:35 +0100 
 * [DONCASTER-BENTLEY-WORKS](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/DONCASTER-BENTLEY-WORKS) : 2022-07-27 18:33:29 +0100 
 * [DONCASTER-HEXTHORPE-HALL](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/DONCASTER-HEXTHORPE-HALL) : 2022-07-27 18:33:29 +0100 
+* [DORCHESTER-SOUTH-COURT-AVENUE](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/DORCHESTER-SOUTH-COURT-AVENUE) : 2022-08-05 17:30:14 +0100 
 * [DOWLAIS-CWM-BARGOED](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/DOWLAIS-CWM-BARGOED) : 2022-07-05 18:57:57 +0100 
 * [DOWNTON-WICK-HOUSE](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/DOWNTON-WICK-HOUSE) : 2022-07-15 20:02:04 +0100 
 * [DROXFORD-STUDWELL-LODGE](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/DROXFORD-STUDWELL-LODGE) : 2022-07-11 17:32:44 +0100 
@@ -12655,6 +12658,7 @@ Generation time: Friday 05/08/2022 07:41:43 BST
 * [HAYDON-BRIDGE-BEWICK](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/HAYDON-BRIDGE-BEWICK) : 2022-07-06 20:44:23 +0100 
 * [HAYFIELD-RED-BROOK](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/HAYFIELD-RED-BROOK) : 2022-06-22 18:20:34 +0100 
 * [HAYWARDS-HEATH-FRANKLYNN-ROAD](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/HAYWARDS-HEATH-FRANKLYNN-ROAD) : 2022-08-03 22:25:59 +0100 
+* [HAZELBURY-BRYAN](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/HAZELBURY-BRYAN) : 2022-08-05 17:30:14 +0100 
 * [HEATHFIELD-SOUTH-RIDGE](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/HEATHFIELD-SOUTH-RIDGE) : 2022-08-03 22:25:59 +0100 
 * [HEATHFIELD-SUMMERLANDS](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/HEATHFIELD-SUMMERLANDS) : 2022-08-03 22:25:59 +0100 
 * [HEDDON-ON-THE-WALL-VICARAGE](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/HEDDON-ON-THE-WALL-VICARAGE) : 2022-07-06 20:44:23 +0100 
@@ -12704,6 +12708,7 @@ Generation time: Friday 05/08/2022 07:41:43 BST
 * [ISLE-OF-MAN-ST-MARKS](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/ISLE-OF-MAN-ST-MARKS) : 2022-07-01 20:50:18 +0100 
 * [ISLEWORTH-MANDEVILLE-HOUSE](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/ISLEWORTH-MANDEVILLE-HOUSE) : 2022-07-31 16:03:29 +0100 
 * [ITCHEN-STOKE-RECTORY](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/ITCHEN-STOKE-RECTORY) : 2022-07-12 18:58:43 +0100 
+* [IWERNE-COURTNEY-RECTORY](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/IWERNE-COURTNEY-RECTORY) : 2022-08-05 17:30:14 +0100 
 * [IWERNE-MINSTER-VICARAGE](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/IWERNE-MINSTER-VICARAGE) : 2022-06-20 18:37:08 +0100 
 * [JARVIS-BROOK-SALTERS](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/JARVIS-BROOK-SALTERS) : 2022-07-31 12:41:23 +0100 
 * [JERSEY-GROUVILLE](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/JERSEY-GROUVILLE) : 2022-07-16 10:33:28 +0100 
@@ -12866,12 +12871,15 @@ Generation time: Friday 05/08/2022 07:41:43 BST
 * [MID-CALDER-CALDER-HALL](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/MID-CALDER-CALDER-HALL) : 2022-06-26 11:02:38 +0100 
 * [MIDSOMER-NORTON-CE-SCHOOL](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/MIDSOMER-NORTON-CE-SCHOOL) : 2022-07-23 09:09:56 +0100 
 * [MILL-HILL-BARNET-WAY](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/MILL-HILL-BARNET-WAY) : 2022-08-02 17:02:04 +0100 
+* [MILTON-ABBAS-GATE-HOUSE](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/MILTON-ABBAS-GATE-HOUSE) : 2022-08-05 17:30:14 +0100 
 * [MINEHEAD-ALCOMBE](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/MINEHEAD-ALCOMBE) : 2022-07-24 08:29:45 +0100 
 * [MOFFAT-EVAN-WATER-SCHOOL](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/MOFFAT-EVAN-WATER-SCHOOL) : 2022-06-21 21:18:51 +0100 
 * [MOLD-ALUN-COUNTY-SCHOOL](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/MOLD-ALUN-COUNTY-SCHOOL) : 2022-06-27 17:59:58 +0100 
 * [MONMOUTH-WYASTONE-LEYS](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/MONMOUTH-WYASTONE-LEYS) : 2022-05-29 11:18:55 +0100 
 * [MOOR-HOUSE-MIX](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/MOOR-HOUSE-MIX) : 2022-07-29 08:31:52 +0100 
 * [MORCHARD-BISHOP-RECTORY](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/MORCHARD-BISHOP-RECTORY) : 2022-06-29 17:21:59 +0100 
+* [MORCOMBELAKE-HIGHER-COCKWELL](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/MORCOMBELAKE-HIGHER-COCKWELL) : 2022-08-05 17:30:14 +0100 
+* [MORCOMBELAKE-WHELLERS](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/MORCOMBELAKE-WHELLERS) : 2022-08-05 17:30:14 +0100 
 * [MORPETH-HIGH-STANNERS](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/MORPETH-HIGH-STANNERS) : 2022-07-06 20:44:23 +0100 
 * [MORWENSTOW-TONACOMBE-MANOR](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/MORWENSTOW-TONACOMBE-MANOR) : 2022-06-15 17:25:36 +0100 
 * [MOUSWALD-IRONHURST-MOSS](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/MOUSWALD-IRONHURST-MOSS) : 2022-06-21 21:18:51 +0100 
@@ -13054,6 +13062,7 @@ Generation time: Friday 05/08/2022 07:41:43 BST
 * [SHAP-KIRK-BANK](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/SHAP-KIRK-BANK) : 2022-07-28 18:13:23 +0100 
 * [SHENFIELD-CLIVEDEN](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/SHENFIELD-CLIVEDEN) : 2022-06-30 17:36:14 +0100 
 * [SHEPTON-MALLET-GRAMMAR-SCHOOL](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/SHEPTON-MALLET-GRAMMAR-SCHOOL) : 2022-07-24 08:29:45 +0100 
+* [SHERBORNE-WW](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/SHERBORNE-WW) : 2022-08-05 17:30:14 +0100 
 * [SHERWOOD-PUMPING-STATION](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/SHERWOOD-PUMPING-STATION) : 2022-07-05 18:57:57 +0100 
 * [SHOBDON-RECTORY](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/SHOBDON-RECTORY) : 2022-08-03 22:31:12 +0100 
 * [SHOBDON-TYN-Y-COED](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/SHOBDON-TYN-Y-COED) : 2022-05-29 11:18:55 +0100 
@@ -13200,6 +13209,7 @@ Generation time: Friday 05/08/2022 07:41:43 BST
 * [UPPER-FARG-HEATHERIELEYS](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/UPPER-FARG-HEATHERIELEYS) : 2022-07-30 07:39:40 +0100 
 * [UPPINGHAM-SCHOOL](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/UPPINGHAM-SCHOOL) : 2022-07-11 17:27:19 +0100 
 * [UPTON-BISHOP-THE-BACHES](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/UPTON-BISHOP-THE-BACHES) : 2022-05-29 11:18:55 +0100 
+* [UPWEY-ELWELL](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/UPWEY-ELWELL) : 2022-08-05 17:30:14 +0100 
 * [USK-NANT-Y-GARW-THE-WARREN](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/USK-NANT-Y-GARW-THE-WARREN) : 2022-06-09 17:48:29 +0100 
 * [WADEBRIDGE-GUINEA-PORT](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/WADEBRIDGE-GUINEA-PORT) : 2022-08-04 22:23:46 +0100 
 * [WALFORD-ON-WYE-VICARAGE](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/WALFORD-ON-WYE-VICARAGE) : 2022-05-29 11:18:55 +0100 
@@ -13302,6 +13312,7 @@ Generation time: Friday 05/08/2022 07:41:43 BST
 * [WREXHAM-WW-MOUNTAIN-LODGE](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/WREXHAM-WW-MOUNTAIN-LODGE) : 2022-06-06 19:17:09 +0100 
 * [WREXHAM-WW-WORLDS-END](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/WREXHAM-WW-WORLDS-END) : 2022-06-06 19:17:09 +0100 
 * [WROUGHTON-PRIORS-HILL](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/WROUGHTON-PRIORS-HILL) : 2022-07-15 20:02:04 +0100 
+* [WYKE-REGIS-DOWN-CLOSE](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/WYKE-REGIS-DOWN-CLOSE) : 2022-08-05 17:30:14 +0100 
 * [WYLAM-HOLEYN-HALL](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/WYLAM-HOLEYN-HALL) : 2022-07-06 20:44:23 +0100 
 * [WYSALL-WYN-HILL](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/WYSALL-WYN-HILL) : 2022-06-14 21:49:32 +0100 
 * [YELVERTON-OAKFIELD](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/YELVERTON-OAKFIELD) : 2022-06-29 17:21:59 +0100 
@@ -13317,7 +13328,7 @@ Generation time: Friday 05/08/2022 07:41:43 BST
 * [OXFORD](https://github.com/ed-hawkins/rainfall-rescue/tree/master/COMPOSITE-SERIES/OXFORD) : 2021-05-07 17:04:11 +0100 
 * [READING](https://github.com/ed-hawkins/rainfall-rescue/tree/master/COMPOSITE-SERIES/READING) : 2021-05-07 17:04:11 +0100 
 
-90 **rainfall-rescue/POOR-LOCATIONS** locations under [https://github.com/ed-hawkins/rainfall-rescue/tree/master/POOR-LOCATIONS](https://github.com/ed-hawkins/rainfall-rescue/tree/master/POOR-LOCATIONS):
+88 **rainfall-rescue/POOR-LOCATIONS** locations under [https://github.com/ed-hawkins/rainfall-rescue/tree/master/POOR-LOCATIONS](https://github.com/ed-hawkins/rainfall-rescue/tree/master/POOR-LOCATIONS):
 
 * [ABERDEEN](https://github.com/ed-hawkins/rainfall-rescue/tree/master/POOR-LOCATIONS/ABERDEEN) : 2021-05-07 17:04:11 +0100 
 * [ALSTONE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/POOR-LOCATIONS/ALSTONE) : 2021-05-07 17:04:11 +0100 
@@ -13329,9 +13340,7 @@ Generation time: Friday 05/08/2022 07:41:43 BST
 * [BOWDEN-CHESHIRE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/POOR-LOCATIONS/BOWDEN-CHESHIRE) : 2022-04-07 10:42:16 +0100 
 * [CAMBRIDGE-MIX](https://github.com/ed-hawkins/rainfall-rescue/tree/master/POOR-LOCATIONS/CAMBRIDGE-MIX) : 2021-11-22 21:24:24 +0000 
 * [CARDIFF-FAIRWATER-HOUSE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/POOR-LOCATIONS/CARDIFF-FAIRWATER-HOUSE) : 2021-05-07 09:32:32 +0100 
-* [CARDIFF-MIX](https://github.com/ed-hawkins/rainfall-rescue/tree/master/POOR-LOCATIONS/CARDIFF-MIX) : 2022-03-15 12:25:11 +0000 
 * [CARDIFF-SPRING-BANK-HOUSE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/POOR-LOCATIONS/CARDIFF-SPRING-BANK-HOUSE) : 2021-05-05 19:45:50 +0100 
-* [CARDIFF-TOWN-HALL](https://github.com/ed-hawkins/rainfall-rescue/tree/master/POOR-LOCATIONS/CARDIFF-TOWN-HALL) : 2021-05-05 19:45:50 +0100 
 * [CARDIFF-TREDEGARVILLE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/POOR-LOCATIONS/CARDIFF-TREDEGARVILLE) : 2021-05-05 19:45:50 +0100 
 * [CARLISLE-ROSE-CASTLE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/POOR-LOCATIONS/CARLISLE-ROSE-CASTLE) : 2022-05-31 22:56:12 +0100 
 * [CARRICK-ON-SUIR-DEER-PARK-LODGE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/POOR-LOCATIONS/CARRICK-ON-SUIR-DEER-PARK-LODGE) : 2021-05-05 19:45:50 +0100 

@@ -1,4 +1,4 @@
-Generation time: Friday 05/08/2022 07:41:44 BST
+Generation time: Saturday 06/08/2022 10:27:33 BST
 
 ## Locations U-Z
 
@@ -115,6 +115,7 @@ Generation time: Friday 05/08/2022 07:41:44 BST
 |[UPTON-SCUDAMORE-PUMPING-STATION](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/main/DATA/UPTON-SCUDAMORE-PUMPING-STATION) [V2]|UPTON-SCUDAMORE-PUMPING-STATION.csv|ST862482|51.233|-2.199|305|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=51.233&lon=-2.199&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/51.233,-2.199,16)  |
 |[UPWELL-EUXIMOOR-HOUSE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/UPWELL-EUXIMOOR-HOUSE)|UPWELL-EUXIMOOR-HOUSE.csv|TF491000|52.577|0.199|15|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=52.577&lon=0.199&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/52.577,0.199,16)  |
 |[UPWELL-MARMONT-PRIORY-LOCK](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/UPWELL-MARMONT-PRIORY-LOCK)|UPWELL-MARMONT-PRIORY-LOCK.csv|TF487013|52.589|0.194|10|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=52.589&lon=0.194&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/52.589,0.194,16)  |
+|[UPWEY-ELWELL](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/UPWEY-ELWELL) [V3]|||||||
 |[UPWEY-FRIAR-WADDON](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/UPWEY-FRIAR-WADDON)|UPWEY-FRIAR-WADDON.csv|SY652857|50.670|-2.494|214|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=50.670&lon=-2.494&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/50.670,-2.494,16)  |
 |[UPWEY-HIGHER-WELL](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/UPWEY-HIGHER-WELL)|UPWEY-HIGHER-WELL.csv|SY660861|50.674|-2.483|290|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=50.674&lon=-2.483&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/50.674,-2.483,16)  |
 |[URCHIN-CLOUGH](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/main/DATA/URCHIN-CLOUGH) [V2]|URCHIN-CLOUGH.csv|SK101908|53.414|-1.850|1190|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=53.414&lon=-1.850&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/53.414,-1.850,16)  |
@@ -1375,6 +1376,7 @@ Generation time: Friday 05/08/2022 07:41:44 BST
 |[WYE-AGRICULTURAL-COLLEGE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/WYE-AGRICULTURAL-COLLEGE)|WYE-AGRICULTURAL-COLLEGE.csv|TR055468|51.183|0.939|150|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=51.183&lon=0.939&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/51.183,0.939,16)  |
 |[WYE-BILTING-HOUSE](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/main/DATA/WYE-BILTING-HOUSE) [V2]|WYE-BILTING-HOUSE.csv|TR050488|51.202|0.933|158|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=51.202&lon=0.933&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/51.202,0.933,16)  |
 |[WYE-PANTMAWR](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/WYE-PANTMAWR)|WYE-PANTMAWR.csv|SN846824|52.427|-3.699|1080|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=52.427&lon=-3.699&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/52.427,-3.699,16)  |
+|[WYKE-REGIS-DOWN-CLOSE](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/WYKE-REGIS-DOWN-CLOSE) [V3]|||||||
 |[WYKEHAM-GALLOWS-HILL](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/main/DATA/WYKEHAM-GALLOWS-HILL) [V2]|WYKEHAM-GALLOWS-HILL.csv|SE952829|54.233|-0.541|150|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=54.233&lon=-0.541&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/54.233,-0.541,16)  |
 |[WYKEHAM-NURSERY](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/main/DATA/WYKEHAM-NURSERY) [V2]|WYKEHAM-NURSERY.csv|SE948861|54.262|-0.546|475|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=54.262&lon=-0.546&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/54.262,-0.546,16)  |
 |[WYLAM-HALL](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/WYLAM-HALL)|WYLAM-HALL.csv|NZ112646|54.976|-1.826|96|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=54.976&lon=-1.826&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/54.976,-1.826,16)  |
