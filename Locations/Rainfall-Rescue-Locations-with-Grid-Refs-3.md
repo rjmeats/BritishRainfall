@@ -1,4 +1,4 @@
-Generation time: Thursday 11/08/2022 22:05:03 BST
+Generation time: Friday 12/08/2022 21:03:40 BST
 
 ## Locations G-J
 
@@ -1807,6 +1807,8 @@ Generation time: Thursday 11/08/2022 22:05:03 BST
 |[HORSHAM-PADWICK](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/HORSHAM-PADWICK) [V3]|||||||
 |[HORSHAM-RICHMOND-ROAD](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/main/DATA/HORSHAM-RICHMOND-ROAD) [V2]|HORSHAM-RICHMOND-ROAD.csv|TQ176318|51.073|-0.323|190|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=51.073&lon=-0.323&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/51.073,-0.323,16)  |
 |[HORSHAM-RUSHAMS-ROAD](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/main/DATA/HORSHAM-RUSHAMS-ROAD) [V2]|HORSHAM-RUSHAMS-ROAD.csv|TQ170313|51.069|-0.332|140|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=51.069&lon=-0.332&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/51.069,-0.332,16)  |
+|[HORSHAM-RUSPER-OLD-PARK](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/HORSHAM-RUSPER-OLD-PARK) [V3]|||||||
+|[HORSHAM-RUSPER-RECTORY](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/HORSHAM-RUSPER-RECTORY) [V3]|||||||
 |[HORSHAM-SEDGEWICK-PARK](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/main/DATA/HORSHAM-SEDGEWICK-PARK) [V2]|HORSHAM-SEDGEWICK-PARK.csv|TQ184266|51.027|-0.313|280|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=51.027&lon=-0.313&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/51.027,-0.313,16)  |
 |[HORSHAM-SELEHURST](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/main/DATA/HORSHAM-SELEHURST) [V2]|HORSHAM-SELEHURST.csv|TQ218261|51.021|-0.265|305|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=51.021&lon=-0.265&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/51.021,-0.265,16)  |
 ||HORSHAM-SELEHURST-2.csv|TQ2109828646|51.044|-0.274|290|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=51.044&lon=-0.274&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/51.044,-0.274,16)  |
@@ -1826,6 +1828,7 @@ Generation time: Thursday 11/08/2022 22:05:03 BST
 |[HORSTED-KEYNES-BIRCH-GROVE](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/main/DATA/HORSTED-KEYNES-BIRCH-GROVE) [V2]|HORSTED-KEYNES-BIRCH-GROVE.csv|TQ399296|51.049|-0.006|400|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=51.049&lon=-0.006&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/51.049,-0.006,16)  |
 |[HORSTED-KEYNES-CINDER-HILL](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/main/DATA/HORSTED-KEYNES-CINDER-HILL) [V2]|HORSTED-KEYNES-CINDER-HILL.csv|TQ379297|51.050|-0.034|300|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=51.050&lon=-0.034&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/51.050,-0.034,16)  |
 |[HORSTED-KEYNES-HOLY-WELL-PUMPING-STATION](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/main/DATA/HORSTED-KEYNES-HOLY-WELL-PUMPING-STATION) [V2]|HORSTED-KEYNES-HOLY-WELL-PUMPING-STATION.csv|TQ369276|51.031|-0.049|124|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=51.031&lon=-0.049&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/51.031,-0.049,16)  |
+|[HORSTED-PLACE](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/HORSTED-PLACE) [V3]|||||||
 |[HORTON-HALL-BRADFORD](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/HORTON-HALL-BRADFORD)|HORTON-HALL-BRADFORD.csv|SE157321|53.786|-1.762|460|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=53.786&lon=-1.762&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/53.786,-1.762,16)  |
 |[HORTON-IN-RIBBLESDALE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/HORTON-IN-RIBBLESDALE)|HORTON-IN-RIBBLESDALE.csv|SD808727|54.150|-2.295|800|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=54.150&lon=-2.295&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/54.150,-2.295,16)  |
 |[HORTON-KIRBY-COURT-LODGE](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/main/DATA/HORTON-KIRBY-COURT-LODGE) [V2]|HORTON-KIRBY-COURT-LODGE.csv|TQ561685|51.394|0.242|50|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=51.394&lon=0.242&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/51.394,0.242,16)  |
