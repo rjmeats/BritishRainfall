@@ -1,4 +1,4 @@
-Generation time: Sunday 14/08/2022 18:53:09 BST
+Generation time: Monday 15/08/2022 22:09:40 BST
 
 ## Locations U-Z
 
@@ -1406,6 +1406,7 @@ Generation time: Sunday 14/08/2022 18:53:09 BST
 |[WYE-PANTMAWR](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/WYE-PANTMAWR)|WYE-PANTMAWR.csv|SN846824|52.427|-3.699|1080|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=52.427&lon=-3.699&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/52.427,-3.699,16)  |
 |[WYKE-REGIS-DOWN-CLOSE](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/WYKE-REGIS-DOWN-CLOSE) [V3]|||||||
 |[WYKEHAM-GALLOWS-HILL](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/main/DATA/WYKEHAM-GALLOWS-HILL) [V2]|WYKEHAM-GALLOWS-HILL.csv|SE952829|54.233|-0.541|150|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=54.233&lon=-0.541&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/54.233,-0.541,16)  |
+|[WYKEHAM-LOW-MOOR](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/WYKEHAM-LOW-MOOR) [V3]|||||||
 |[WYKEHAM-NURSERY](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/main/DATA/WYKEHAM-NURSERY) [V2]|WYKEHAM-NURSERY.csv|SE948861|54.262|-0.546|475|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=54.262&lon=-0.546&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/54.262,-0.546,16)  |
 |[WYKEHURST-PARK-GARDENS](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/WYKEHURST-PARK-GARDENS) [V3]|||||||
 |[WYLAM-HALL](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/WYLAM-HALL)|WYLAM-HALL.csv|NZ112646|54.976|-1.826|96|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=54.976&lon=-1.826&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/54.976,-1.826,16)  |
