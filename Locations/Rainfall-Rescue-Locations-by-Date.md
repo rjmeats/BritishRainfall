@@ -1,4 +1,4 @@
-Generation time: Wednesday 17/08/2022 23:51:08 BST
+Generation time: Friday 19/08/2022 07:37:01 BST
 
 6093 **rainfall-rescue/DATA** locations under [https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA):
 
@@ -12161,8 +12161,10 @@ Generation time: Wednesday 17/08/2022 23:51:08 BST
 * [WICKFORD-DOLLYMANS-FARM](https://tinyurl.com/3xfyv3yv/WICKFORD-DOLLYMANS-FARM) : 2021-07-31 22:28:08 +0100 
 * [WOKINGHAM-SINDLESHAM-HOUSE](https://tinyurl.com/3xfyv3yv/WOKINGHAM-SINDLESHAM-HOUSE) : 2021-07-31 22:28:08 +0100 
 
-1436 **rainfall-rescue-data-v3/DATA** locations under [https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA):
+1435 **rainfall-rescue-data-v3/DATA** locations under [https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA):
 
+* [HORSHAM-RUSPER-OLD-PARK](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/HORSHAM-RUSPER-OLD-PARK) : 2022-08-18 17:15:58 +0100 
+* [HORSHAM-RUSPER-RECTORY](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/HORSHAM-RUSPER-RECTORY) : 2022-08-18 17:15:58 +0100 
 * [BAGBOROUGH-RECTORY](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/BAGBOROUGH-RECTORY) : 2022-08-17 21:22:04 +0100 
 * [BATH-COMBE-DOWN](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/BATH-COMBE-DOWN) : 2022-08-17 21:22:04 +0100 
 * [BRIDGWATER-BLACKLANDS-STREET](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/BRIDGWATER-BLACKLANDS-STREET) : 2022-08-17 21:22:04 +0100 
@@ -12303,8 +12305,6 @@ Generation time: Wednesday 17/08/2022 23:51:08 BST
 * [LEIGH-VICARAGE](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/LEIGH-VICARAGE) : 2022-08-12 17:26:19 +0100 
 * [WEST-PORLOCK](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/WEST-PORLOCK) : 2022-08-12 17:26:19 +0100 
 * [EAST-HOATHLY-OLD-WHYLY](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/EAST-HOATHLY-OLD-WHYLY) : 2022-08-12 17:20:00 +0100 
-* [HORSHAM-RUSPER-OLD-PARK](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/HORSHAM-RUSPER-OLD-PARK) : 2022-08-12 17:20:00 +0100 
-* [HORSHAM-RUSPER-RECTORY](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/HORSHAM-RUSPER-RECTORY) : 2022-08-12 17:20:00 +0100 
 * [HORSTED-PLACE](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/HORSTED-PLACE) : 2022-08-12 17:20:00 +0100 
 * [RINGMER-DOWNLANDS](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/RINGMER-DOWNLANDS) : 2022-08-12 17:20:00 +0100 
 * [RINGMER-PARK-HOUSE](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/RINGMER-PARK-HOUSE) : 2022-08-12 17:20:00 +0100 
@@ -12388,7 +12388,6 @@ Generation time: Wednesday 17/08/2022 23:51:08 BST
 * [WILLOUGHBY-VICARAGE](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/WILLOUGHBY-VICARAGE) : 2022-08-11 18:08:56 +0100 
 * [HORSHAM-BOURNE-HILL](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/HORSHAM-BOURNE-HILL) : 2022-08-10 21:30:42 +0100 
 * [HORSHAM-COMPTONS-LEA](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/HORSHAM-COMPTONS-LEA) : 2022-08-10 21:30:42 +0100 
-* [HORSHAM-PADWICK](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/HORSHAM-PADWICK) : 2022-08-10 21:30:42 +0100 
 * [HORSHAM-SWALLOWFIELD](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/HORSHAM-SWALLOWFIELD) : 2022-08-10 21:30:42 +0100 
 * [HORSHAM-WESTBROOK-HALL](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/HORSHAM-WESTBROOK-HALL) : 2022-08-10 21:30:42 +0100 
 * [HURSTPIERPOINT-COLLEGE](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/HURSTPIERPOINT-COLLEGE) : 2022-08-10 21:30:42 +0100 

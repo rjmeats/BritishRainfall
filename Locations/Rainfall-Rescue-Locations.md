@@ -1,4 +1,4 @@
-Generation time: Wednesday 17/08/2022 23:51:08 BST
+Generation time: Friday 19/08/2022 07:37:01 BST
 
 
 [MO-2020] indicates a location which contributed to the [Met Office 2020 UK Climate Report](https://www.metoffice.gov.uk/research/climate/maps-and-data/about/state-of-climate):
@@ -12164,7 +12164,7 @@ Generation time: Wednesday 17/08/2022 23:51:08 BST
 * [YRFON-BYLCHAU](https://tinyurl.com/3xfyv3yv/YRFON-BYLCHAU) : 2022-03-29 23:43:15 +0100 
 * [YSPYTTY-YSTSWYTH-DOLGROES](https://tinyurl.com/3xfyv3yv/YSPYTTY-YSTSWYTH-DOLGROES) : 2022-05-17 12:24:05 +0100 
 
-1436 **rainfall-rescue-data-v3/DATA** locations under [https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA):
+1435 **rainfall-rescue-data-v3/DATA** locations under [https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA):
 
 * [ABERDARE-ABERNANT-HOUSE](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/ABERDARE-ABERNANT-HOUSE) : 2022-08-07 22:46:21 +0100 
 * [ABERDARE-DARE-VILLA](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/ABERDARE-DARE-VILLA) : 2022-08-07 22:46:21 +0100 
@@ -12776,9 +12776,8 @@ Generation time: Wednesday 17/08/2022 23:51:08 BST
 * [HORSELL-KETTLEWELL-HILL](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/HORSELL-KETTLEWELL-HILL) : 2022-08-02 17:06:20 +0100 
 * [HORSHAM-BOURNE-HILL](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/HORSHAM-BOURNE-HILL) : 2022-08-10 21:30:42 +0100 
 * [HORSHAM-COMPTONS-LEA](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/HORSHAM-COMPTONS-LEA) : 2022-08-10 21:30:42 +0100 
-* [HORSHAM-PADWICK](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/HORSHAM-PADWICK) : 2022-08-10 21:30:42 +0100 
-* [HORSHAM-RUSPER-OLD-PARK](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/HORSHAM-RUSPER-OLD-PARK) : 2022-08-12 17:20:00 +0100 
-* [HORSHAM-RUSPER-RECTORY](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/HORSHAM-RUSPER-RECTORY) : 2022-08-12 17:20:00 +0100 
+* [HORSHAM-RUSPER-OLD-PARK](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/HORSHAM-RUSPER-OLD-PARK) : 2022-08-18 17:15:58 +0100 
+* [HORSHAM-RUSPER-RECTORY](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/HORSHAM-RUSPER-RECTORY) : 2022-08-18 17:15:58 +0100 
 * [HORSHAM-SWALLOWFIELD](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/HORSHAM-SWALLOWFIELD) : 2022-08-10 21:30:42 +0100 
 * [HORSHAM-WESTBROOK-HALL](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/HORSHAM-WESTBROOK-HALL) : 2022-08-10 21:30:42 +0100 
 * [HORSLEY-GATE](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/HORSLEY-GATE) : 2022-06-22 18:20:34 +0100 
