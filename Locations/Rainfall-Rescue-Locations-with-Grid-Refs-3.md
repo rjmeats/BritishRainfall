@@ -1,4 +1,4 @@
-Generation time: Sunday 21/08/2022 22:56:50 BST
+Generation time: Monday 22/08/2022 22:06:48 BST
 
 ## Locations G-J
 
@@ -1527,6 +1527,7 @@ Generation time: Sunday 21/08/2022 22:56:50 BST
 |[HEREFORD-TUPSLEY](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/HEREFORD-TUPSLEY) [V3]|HEREFORD-TUPSLEY.csv|SO529398|52.055|-2.687|242|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=52.055&lon=-2.687&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/52.055,-2.687,16)  |
 |[HERM](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/HERM)|HERM.csv|WV396798|49.470|-2.453|20|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=49.470&lon=-2.453&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/49.470,-2.453,16) [OSM](https://www.openstreetmap.org/#map=16/49.470/-2.453) [GGL](https://www.google.co.uk/maps/@49.470,-2.453,16z)|
 ||HERM-2.csv|WV396797|49.469|-2.453|20|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=49.469&lon=-2.453&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/49.469,-2.453,16) [OSM](https://www.openstreetmap.org/#map=16/49.469/-2.453) [GGL](https://www.google.co.uk/maps/@49.469,-2.453,16z)|
+|[HERMITAGE-OARE](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/HERMITAGE-OARE) [V3]|||||||
 |[HERNE-BAY-EDDINGTON](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/main/DATA/HERNE-BAY-EDDINGTON) [V2]|HERNE-BAY-EDDINGTON.csv|TR1813066929|51.360|1.132|53|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=51.360&lon=1.132&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/51.360,1.132,16)  |
 |[HERNE-BAY-ST-ANNES-HOME](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/main/DATA/HERNE-BAY-ST-ANNES-HOME) [V2]|HERNE-BAY-ST-ANNES-HOME.csv|TR175677|51.367|1.124|14|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=51.367&lon=1.124&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/51.367,1.124,16)  |
 ||HERNE-BAY-ST-ANNES-HOME-2.csv|TR172681|51.371|1.120|21|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=51.371&lon=1.120&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/51.371,1.120,16)  |
