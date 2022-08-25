@@ -1,4 +1,4 @@
-Generation time: Thursday 25/08/2022 07:55:22 BST
+Generation time: Thursday 25/08/2022 23:26:15 BST
 
 ## Locations U-Z
 
@@ -506,7 +506,7 @@ Generation time: Thursday 25/08/2022 07:55:22 BST
 |[WELLINGTON-YEW-TREE-HOUSE](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/WELLINGTON-YEW-TREE-HOUSE) [V3]|WELLINGTON-YEW-TREE-HOUSE.csv|SO494480|52.128|-2.741|185|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=52.128&lon=-2.741&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/52.128,-2.741,16)  |
 |[WELLS-CHAMBERLAIN-ST](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/main/DATA/WELLS-CHAMBERLAIN-ST) [V2]|WELLS-CHAMBERLAIN-ST.csv|ST535452|51.204|-2.667|75|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=51.204&lon=-2.667&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/51.204,-2.667,16)  |
 |[WELLS-DINDER](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/WELLS-DINDER) [V3]|||||||
-|[WELLS-MANNING](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/WELLS-MANNING) [V3]|||||||
+|[WELLS-HIGH-STREET](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/WELLS-HIGH-STREET) [V3]|||||||
 |[WELLS-NEXT-THE-SEA](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/main/DATA/WELLS-NEXT-THE-SEA) [V2]|WELLS-NEXT-THE-SEA.csv|TF9197243628|52.956|0.856|16|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=52.956&lon=0.856&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/52.956,0.856,16)  |
 |[WELLS-SOMERSET-AND-BATH-ASYLUM](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/main/DATA/WELLS-SOMERSET-AND-BATH-ASYLUM) [V2]|WELLS-SOMERSET-AND-BATH-ASYLUM.csv|ST571463|51.214|-2.615|300|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=51.214&lon=-2.615&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/51.214,-2.615,16)  |
 |[WELLS-ST-CUTHBERTS-LODGE](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/WELLS-ST-CUTHBERTS-LODGE) [V3]|WELLS-ST-CUTHBERTS-LODGE.csv|ST546458|51.210|-2.650|135|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=51.210&lon=-2.650&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/51.210,-2.650,16)  |
