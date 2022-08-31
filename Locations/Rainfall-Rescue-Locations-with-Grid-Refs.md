@@ -1,4 +1,4 @@
-Generation time: Tuesday 30/08/2022 21:11:40 BST
+Generation time: Wednesday 31/08/2022 13:24:40 BST
 
 ## Locations A-B
 
@@ -207,6 +207,7 @@ Generation time: Tuesday 30/08/2022 21:11:40 BST
 ||ADDERLEY-NORTON-IN-HALES-MIX-2.csv|SJ703387|52.945|-2.443|335|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=52.945&lon=-2.443&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/52.945,-2.443,16)  |
 ||ADDERLEY-NORTON-IN-HALES-MIX-3.csv|SJ702386|52.944|-2.445|350|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=52.944&lon=-2.445&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/52.944,-2.445,16)  |
 ||ADDERLEY-NORTON-IN-HALES-MIX-4.csv|SJ661401|52.957|-2.506|270|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=52.957&lon=-2.506&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/52.957,-2.506,16)  |
+|[ADDINGTON-ABBOTSWOOD](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/ADDINGTON-ABBOTSWOOD) [V3]|||||||
 |[ADDINGTON-CE-SCHOOL](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/main/DATA/ADDINGTON-CE-SCHOOL) [V2]|ADDINGTON-CE-SCHOOL.csv|SP741287|51.952|-0.923|320|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=51.952&lon=-0.923&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/51.952,-0.923,16)  |
 |[ADDINGTON-HARES-BANK](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/ADDINGTON-HARES-BANK)|ADDINGTON-HARES-BANK.csv|TQ370627|51.347|-0.034|331|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=51.347&lon=-0.034&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/51.347,-0.034,16)  |
 |[ADDINGTON-HILLS-RES](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/ADDINGTON-HILLS-RES)|ADDINGTON-HILLS-RES.csv|TQ350641|51.360|-0.062|473|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=51.360&lon=-0.062&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/51.360,-0.062,16)  |
@@ -992,7 +993,10 @@ Generation time: Tuesday 30/08/2022 21:11:40 BST
 |[BANSTEAD-BURGH-HEATH-RES](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/BANSTEAD-BURGH-HEATH-RES)|BANSTEAD-BURGH-HEATH-RES.csv|TQ237581|51.309|-0.227|570|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=51.309&lon=-0.227&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/51.309,-0.227,16)  |
 ||BANSTEAD-BURGH-HEATH-RES-2.csv|TQ237581|51.309|-0.227|570|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=51.309&lon=-0.227&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/51.309,-0.227,16)  |
 |[BANSTEAD-GRANGE](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/main/DATA/BANSTEAD-GRANGE) [V2]|BANSTEAD-GRANGE.csv|TQ257607|51.332|-0.197|420|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=51.332&lon=-0.197&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/51.332,-0.197,16)  |
+|[BANSTEAD-GREEN-CURVE](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/BANSTEAD-GREEN-CURVE) [V3]|||||||
 |[BANSTEAD-MENTAL-HOSPITAL](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/BANSTEAD-MENTAL-HOSPITAL)|BANSTEAD-MENTAL-HOSPITAL.csv|TQ261611|51.335|-0.191|410|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=51.335&lon=-0.191&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/51.335,-0.191,16)  |
+|[BANSTEAD-SUTTON-LANE](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/BANSTEAD-SUTTON-LANE) [V3]|||||||
+|[BANSTEAD-THE-COUNCIL-HOUSE](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/BANSTEAD-THE-COUNCIL-HOUSE) [V3]|||||||
 |[BANSTEAD-THE-HALL](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/main/DATA/BANSTEAD-THE-HALL) [V2]|BANSTEAD-THE-HALL.csv|TQ248599|51.325|-0.210|480|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=51.325&lon=-0.210&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/51.325,-0.210,16)  |
 |[BANWELL-COUNCIL-SCHOOL](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/BANWELL-COUNCIL-SCHOOL) [V3]|BANWELL-COUNCIL-SCHOOL.csv|ST397591|51.328|-2.867|62|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=51.328&lon=-2.867&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/51.328,-2.867,16)  |
 |[BANWELL-EVERSLEIGH](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/main/DATA/BANWELL-EVERSLEIGH) [V2]|BANWELL-EVERSLEIGH.csv|ST401591|51.328|-2.861|50|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=51.328&lon=-2.861&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/51.328,-2.861,16)  |

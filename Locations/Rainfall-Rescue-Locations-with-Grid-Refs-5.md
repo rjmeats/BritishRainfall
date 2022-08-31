@@ -1,4 +1,4 @@
-Generation time: Tuesday 30/08/2022 21:11:40 BST
+Generation time: Wednesday 31/08/2022 13:24:40 BST
 
 ## Locations P-T
 
@@ -1540,6 +1540,7 @@ Generation time: Tuesday 30/08/2022 21:11:40 BST
 |[SEAL-WILDERNESS-GDNS](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/SEAL-WILDERNESS-GDNS)|SEAL-WILDERNESS-GDNS.csv|TQ548562|51.284|0.218|460|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=51.284&lon=0.218&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/51.284,0.218,16)  |
 ||SEAL-WILDERNESS-GDNS-2.csv|TQ548562|51.284|0.218|460|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=51.284&lon=0.218&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/51.284,0.218,16)  |
 |[SEALAND-AERODROME](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/SEALAND-AERODROME) [V3]|SEALAND-AERODROME.csv|SJ332701|53.224|-3.002|16|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=53.224&lon=-3.002&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/53.224,-3.002,16)  |
+|[SEALE-BINTON-COTTAGE](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/SEALE-BINTON-COTTAGE) [V3]|||||||
 |[SEALE-GREENSAND](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/main/DATA/SEALE-GREENSAND) [V2]|SEALE-GREENSAND.csv|SU900479|51.224|-0.712|300|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=51.224&lon=-0.712&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/51.224,-0.712,16)  |
 |[SEAMER-IN-CLEVELAND](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/SEAMER-IN-CLEVELAND)|SEAMER-IN-CLEVELAND.csv|NZ499103|54.486|-1.231|315|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=54.486&lon=-1.231&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/54.486,-1.231,16)  |
 |[SEAMER-IRTON](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/SEAMER-IRTON)|SEAMER-IRTON.csv|TA005841|54.243|-0.459|94|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=54.243&lon=-0.459&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/54.243,-0.459,16)  |
@@ -3040,6 +3041,7 @@ Generation time: Tuesday 30/08/2022 21:11:40 BST
 |[TADCASTER-OXTON-HALL](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/TADCASTER-OXTON-HALL)|TADCASTER-OXTON-HALL.csv|SE496435|53.886|-1.247|50|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=53.886&lon=-1.247&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/53.886,-1.247,16)  |
 |[TADWORTH](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/main/DATA/TADWORTH) [V2]|TADWORTH.csv|TQ231566|51.295|-0.235|550|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=51.295&lon=-0.235&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/51.295,-0.235,16)  |
 ||TADWORTH-2.csv|TQ234560|51.290|-0.231|600|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=51.290&lon=-0.231&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/51.290,-0.231,16)  |
+|[TADWORTH-DEPOT](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/TADWORTH-DEPOT) [V3]|||||||
 |[TADWORTH-PUMPING-STATION](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/main/DATA/TADWORTH-PUMPING-STATION) [V2]|TADWORTH-PUMPING-STATION.csv|TQ223568|51.298|-0.247|405|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=51.298&lon=-0.247&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/51.298,-0.247,16)  |
 |[TAF-FECHAN-PENTWYN-RES-NORTH](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/main/DATA/TAF-FECHAN-PENTWYN-RES-NORTH) [V2]|TAF-FECHAN-PENTWYN-RES-NORTH.csv|SO049158|51.833|-3.382|1090|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=51.833&lon=-3.382&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/51.833,-3.382,16)  |
 |[TAFF-FECHAN-NEUADD-RES](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/TAFF-FECHAN-NEUADD-RES)|TAFF-FECHAN-NEUADD-RES.csv|SO028181|51.853|-3.413|1462|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=51.853&lon=-3.413&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/51.853,-3.413,16)  |

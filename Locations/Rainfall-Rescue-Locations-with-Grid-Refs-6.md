@@ -1,4 +1,4 @@
-Generation time: Tuesday 30/08/2022 21:11:40 BST
+Generation time: Wednesday 31/08/2022 13:24:41 BST
 
 ## Locations U-Z
 
@@ -588,6 +588,7 @@ Generation time: Tuesday 30/08/2022 21:11:40 BST
 |[WEST-CHILTINGTON-GAYWOOD](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/main/DATA/WEST-CHILTINGTON-GAYWOOD) [V2]|WEST-CHILTINGTON-GAYWOOD.csv|TQ081205|50.974|-0.462|134|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=50.974&lon=-0.462&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/50.974,-0.462,16)  |
 |[WEST-CHILTINGTON-PUMPING-STATION](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/main/DATA/WEST-CHILTINGTON-PUMPING-STATION) [V2]|WEST-CHILTINGTON-PUMPING-STATION.csv|TQ093171|50.943|-0.446|100|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=50.943&lon=-0.446&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/50.943,-0.446,16)  |
 |[WEST-CLANDON](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/WEST-CLANDON)|WEST-CLANDON.csv|TQ047506|51.245|-0.501|319|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=51.245&lon=-0.501&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/51.245,-0.501,16)  |
+|[WEST-CLANDON-QUARRY](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/WEST-CLANDON-QUARRY) [V3]|||||||
 |[WEST-COWES-HOLMWOOD](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/WEST-COWES-HOLMWOOD)|WEST-COWES-HOLMWOOD.csv|SZ485966|50.767|-1.312|40|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=50.767&lon=-1.312&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/50.767,-1.312,16)  |
 |[WEST-DEEPING-LOLHAM-MILLS](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/main/DATA/WEST-DEEPING-LOLHAM-MILLS) [V2]|WEST-DEEPING-LOLHAM-MILLS.csv|TF109080|52.658|-0.362|40|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=52.658&lon=-0.362&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/52.658,-0.362,16)  |
 |[WEST-DENTON](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/WEST-DENTON)|WEST-DENTON.csv|NZ190657|54.986|-1.704|250|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=54.986&lon=-1.704&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/54.986,-1.704,16)  |
