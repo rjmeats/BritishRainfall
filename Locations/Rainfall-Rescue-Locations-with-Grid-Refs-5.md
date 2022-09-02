@@ -1,4 +1,4 @@
-Generation time: Wednesday 31/08/2022 21:53:24 BST
+Generation time: Friday 02/09/2022 14:18:21 BST
 
 ## Locations P-T
 
@@ -803,6 +803,7 @@ Generation time: Wednesday 31/08/2022 21:53:24 BST
 |[RAYLEIGH-WHEATLEYS-LANE](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/RAYLEIGH-WHEATLEYS-LANE) [V3]|RAYLEIGH-WHEATLEYS-LANE.csv|TQ798901|51.581|0.594|250|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=51.581&lon=0.594&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/51.581,0.594,16)  |
 |[RAYNE-STANEWAY](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/RAYNE-STANEWAY)|RAYNE-STANEWAY.csv|TL726226|51.876|0.506|247|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=51.876&lon=0.506&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/51.876,0.506,16)  |
 |[RAYNERS-LANE-HIGH-WORPLE](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/RAYNERS-LANE-HIGH-WORPLE) [V3]|RAYNERS-LANE-HIGH-WORPLE.csv|TQ127875|51.575|-0.375|153|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=51.575&lon=-0.375&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/51.575,-0.375,16)  |
+|[RAYNES-PARK-RICHMOND-ROAD](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/RAYNES-PARK-RICHMOND-ROAD) [V3]|||||||
 |[READING](https://github.com/ed-hawkins/rainfall-rescue/tree/master/COMPOSITE-SERIES/READING) [COMP]|CAVERSHAM-ST-PETERS-HILL-2.csv|SU706752|51.471|-0.985|200|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=51.471&lon=-0.985&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/51.471,-0.985,16)  |
 ||CAVERSHAM-ST-PETERS-HILL.csv|SU707751|51.470|-0.984|220|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=51.470&lon=-0.984&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/51.470,-0.984,16)  |
 ||READING-ATHENAEUM.csv|SU714735|51.457|-0.973|143|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=51.457&lon=-0.973&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/51.457,-0.973,16)  |
