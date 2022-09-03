@@ -1,4 +1,4 @@
-Generation time: Friday 02/09/2022 14:18:21 BST
+Generation time: Saturday 03/09/2022 08:16:55 BST
 
 6092 **rainfall-rescue/DATA** locations under [https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA):
 
@@ -8671,7 +8671,7 @@ Generation time: Friday 02/09/2022 14:18:21 BST
 * [WREXHAM-GROVE-PARK-SCHOOL](https://tinyurl.com/3xfyv3yv/WREXHAM-GROVE-PARK-SCHOOL) : 2022-02-16 20:36:22 +0000 
 * [ABINGER-JOLDWYNDS-HOLMBURY](https://tinyurl.com/3xfyv3yv/ABINGER-JOLDWYNDS-HOLMBURY) : 2022-02-14 21:41:40 +0000 
 * [BABCARY-THE-CEDARS](https://tinyurl.com/3xfyv3yv/BABCARY-THE-CEDARS) : 2022-02-14 21:41:40 +0000 
-* [BAGBOROUGH-LITTLECOURT](https://tinyurl.com/3xfyv3yv/BAGBOROUGH-LITTLECOURT) : 2022-02-14 21:41:40 +0000 
+* [BAGBOROUGH](https://tinyurl.com/3xfyv3yv/BAGBOROUGH) : 2022-09-03 00:00:00 +0000 
 * [BANSTEAD-BURGH-HEATH](https://tinyurl.com/3xfyv3yv/BANSTEAD-BURGH-HEATH) : 2022-02-14 21:41:40 +0000 
 * [BANSTEAD-GRANGE](https://tinyurl.com/3xfyv3yv/BANSTEAD-GRANGE) : 2022-02-14 21:41:40 +0000 
 * [BATH-COMBE-HAY-MANOR](https://tinyurl.com/3xfyv3yv/BATH-COMBE-HAY-MANOR) : 2022-02-14 21:41:40 +0000 
@@ -13878,7 +13878,7 @@ Generation time: Friday 02/09/2022 14:18:21 BST
 * [OXFORD](https://github.com/ed-hawkins/rainfall-rescue/tree/master/COMPOSITE-SERIES/OXFORD) : 2021-05-07 17:04:11 +0100 
 * [READING](https://github.com/ed-hawkins/rainfall-rescue/tree/master/COMPOSITE-SERIES/READING) : 2021-05-07 17:04:11 +0100 
 
-94 **rainfall-rescue/POOR-LOCATIONS** locations under [https://github.com/ed-hawkins/rainfall-rescue/tree/master/POOR-LOCATIONS](https://github.com/ed-hawkins/rainfall-rescue/tree/master/POOR-LOCATIONS):
+92 **rainfall-rescue/POOR-LOCATIONS** locations under [https://github.com/ed-hawkins/rainfall-rescue/tree/master/POOR-LOCATIONS](https://github.com/ed-hawkins/rainfall-rescue/tree/master/POOR-LOCATIONS):
 
 * [CAE-GWYN](https://github.com/ed-hawkins/rainfall-rescue/tree/master/POOR-LOCATIONS/CAE-GWYN) : 2022-08-24 14:27:19 +0100 
 * [BLANDFORD-WHITECLIFF-ST](https://github.com/ed-hawkins/rainfall-rescue/tree/master/POOR-LOCATIONS/BLANDFORD-WHITECLIFF-ST) : 2022-08-22 23:35:13 +0100 
@@ -13928,7 +13928,6 @@ Generation time: Friday 02/09/2022 14:18:21 BST
 * [DOBCROSS](https://github.com/ed-hawkins/rainfall-rescue/tree/master/POOR-LOCATIONS/DOBCROSS) : 2021-05-05 19:45:50 +0100 
 * [EXETER-WHITSTONE-RECTORY](https://github.com/ed-hawkins/rainfall-rescue/tree/master/POOR-LOCATIONS/EXETER-WHITSTONE-RECTORY) : 2021-05-05 19:45:50 +0100 
 * [GUERNSEY-COBO-CASTEL](https://github.com/ed-hawkins/rainfall-rescue/tree/master/POOR-LOCATIONS/GUERNSEY-COBO-CASTEL) : 2021-05-05 19:45:50 +0100 
-* [HAMPSTEAD-BRANCH-HILL](https://github.com/ed-hawkins/rainfall-rescue/tree/master/POOR-LOCATIONS/HAMPSTEAD-BRANCH-HILL) : 2021-05-05 19:45:50 +0100 
 * [HELMSDALE-STATION](https://github.com/ed-hawkins/rainfall-rescue/tree/master/POOR-LOCATIONS/HELMSDALE-STATION) : 2021-05-05 19:45:50 +0100 
 * [HEREFORD-LAWSON](https://github.com/ed-hawkins/rainfall-rescue/tree/master/POOR-LOCATIONS/HEREFORD-LAWSON) : 2021-05-05 19:45:50 +0100 
 * [JERVISTON](https://github.com/ed-hawkins/rainfall-rescue/tree/master/POOR-LOCATIONS/JERVISTON) : 2021-05-05 19:45:50 +0100 
@@ -13965,7 +13964,6 @@ Generation time: Friday 02/09/2022 14:18:21 BST
 * [STANCLIFFE-HALL](https://github.com/ed-hawkins/rainfall-rescue/tree/master/POOR-LOCATIONS/STANCLIFFE-HALL) : 2021-05-05 19:45:50 +0100 
 * [STOCKTON-ON-TEES](https://github.com/ed-hawkins/rainfall-rescue/tree/master/POOR-LOCATIONS/STOCKTON-ON-TEES) : 2021-05-05 19:45:50 +0100 
 * [STROUD](https://github.com/ed-hawkins/rainfall-rescue/tree/master/POOR-LOCATIONS/STROUD) : 2021-05-05 19:45:50 +0100 
-* [TALYBONT-CUI](https://github.com/ed-hawkins/rainfall-rescue/tree/master/POOR-LOCATIONS/TALYBONT-CUI) : 2021-05-05 19:45:50 +0100 
 * [TORQUAY](https://github.com/ed-hawkins/rainfall-rescue/tree/master/POOR-LOCATIONS/TORQUAY) : 2021-05-05 19:45:50 +0100 
 * [UPPER-USK-FOUR](https://github.com/ed-hawkins/rainfall-rescue/tree/master/POOR-LOCATIONS/UPPER-USK-FOUR) : 2021-05-05 19:45:50 +0100 
 * [UPPER-USK-THREE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/POOR-LOCATIONS/UPPER-USK-THREE) : 2021-05-05 19:45:50 +0100 

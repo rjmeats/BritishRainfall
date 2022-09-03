@@ -1,4 +1,4 @@
-Generation time: Friday 02/09/2022 14:18:21 BST
+Generation time: Saturday 03/09/2022 08:16:56 BST
 
 ## Locations G-J
 
@@ -970,7 +970,6 @@ Generation time: Friday 02/09/2022 14:18:21 BST
 |[HAMPSTEAD-ARKWRIGHT-ROAD](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/HAMPSTEAD-ARKWRIGHT-ROAD) [V3]|||||||
 |[HAMPSTEAD-BARROW-HILL-RES](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/HAMPSTEAD-BARROW-HILL-RES)|HAMPSTEAD-BARROW-HILL-RES.csv|TQ275836|51.537|-0.163|175|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=51.537&lon=-0.163&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/51.537,-0.163,16)  |
 ||HAMPSTEAD-BARROW-HILL-RES-2.csv|TQ275836|51.537|-0.163|175|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=51.537&lon=-0.163&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/51.537,-0.163,16)  |
-|[HAMPSTEAD-BRANCH-HILL](https://github.com/ed-hawkins/rainfall-rescue/tree/master/POOR-LOCATIONS/HAMPSTEAD-BRANCH-HILL) [POOR]|||||||
 |[HAMPSTEAD-GOLDERS-HILL](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/HAMPSTEAD-GOLDERS-HILL)|HAMPSTEAD-GOLDERS-HILL.csv|TQ255870|51.568|-0.191|350|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=51.568&lon=-0.191&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/51.568,-0.191,16)  |
 ||HAMPSTEAD-GOLDERS-HILL-2.csv|TQ255870|51.568|-0.191|350|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=51.568&lon=-0.191&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/51.568,-0.191,16)  |
 |[HAMPSTEAD-KEMPLAY-ROAD](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/main/DATA/HAMPSTEAD-KEMPLAY-ROAD) [V2]|HAMPSTEAD-KEMPLAY-ROAD.csv|TQ267857|51.556|-0.174|300|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=51.556&lon=-0.174&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/51.556,-0.174,16)  |
@@ -1178,8 +1177,9 @@ Generation time: Friday 02/09/2022 14:18:21 BST
 ||HASTINGS-HIGH-BEECH-HOLLINGTON-2.csv|TQ7884712891|50.888|0.541|450|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=50.888&lon=0.541&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/50.888,0.541,16)  |
 |[HASTINGS-LITERARY-INSTITUTE](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/main/DATA/HASTINGS-LITERARY-INSTITUTE) [V2]|HASTINGS-LITERARY-INSTITUTE.csv|TQ823094|50.855|0.589|25|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=50.855&lon=0.589&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/50.855,0.589,16)  |
 |[HASTINGS-MANOR-HOUSE](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/HASTINGS-MANOR-HOUSE) [V3]|HASTINGS-MANOR-HOUSE.csv|TQ821102|50.863|0.586|173|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=50.863&lon=0.586&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/50.863,0.586,16)  |
-|[HASTINGS-NEWGATE-RES](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/HASTINGS-NEWGATE-RES)|HASTINGS-NEWGATE-RES.csv|TQ807102|50.863|0.566|240|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=50.863&lon=0.566&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/50.863,0.566,16)  |
-||HASTINGS-NEWGATE-RES-2.csv|TQ807102|50.863|0.566|243|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=50.863&lon=0.566&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/50.863,0.566,16)  |
+|[HASTINGS-NEWGATE-RES](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/HASTINGS-NEWGATE-RES)|HASTINGS-NEWGATE-RES.csv|TQ805108|50.869|0.564|106|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=50.869&lon=0.564&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/50.869,0.564,16)  |
+||HASTINGS-NEWGATE-RES-2.csv|TQ807102|50.863|0.566|240|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=50.863&lon=0.566&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/50.863,0.566,16)  |
+||HASTINGS-NEWGATE-RES-3.csv|TQ807102|50.863|0.566|243|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=50.863&lon=0.566&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/50.863,0.566,16)  |
 |[HASTINGS-ORE-THE-FIRS](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/main/DATA/HASTINGS-ORE-THE-FIRS) [V2]|HASTINGS-ORE-THE-FIRS.csv|TQ839114|50.873|0.612|408|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=50.873&lon=0.612&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/50.873,0.612,16)  |
 |[HASTINGS-PHILLIPS](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/HASTINGS-PHILLIPS)|HASTINGS-PHILLIPS.csv|TQ818097|50.859|0.582|60|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=50.859&lon=0.582&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/50.859,0.582,16)  |
 |[HASTINGS-ST-HELENS-CRESCENT](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/HASTINGS-ST-HELENS-CRESCENT) [V3]|HASTINGS-ST-HELENS-CRESCENT.csv|TQ813106|50.866|0.575|100|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=50.866&lon=0.575&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/50.866,0.575,16)  |
