@@ -1,4 +1,4 @@
-Generation time: Saturday 03/09/2022 08:16:55 BST
+Generation time: Sunday 04/09/2022 20:46:12 BST
 
 6092 **rainfall-rescue/DATA** locations under [https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA):
 
@@ -12160,8 +12160,23 @@ Generation time: Saturday 03/09/2022 08:16:55 BST
 * [WICKFORD-DOLLYMANS-FARM](https://tinyurl.com/3xfyv3yv/WICKFORD-DOLLYMANS-FARM) : 2021-07-31 22:28:08 +0100 
 * [WOKINGHAM-SINDLESHAM-HOUSE](https://tinyurl.com/3xfyv3yv/WOKINGHAM-SINDLESHAM-HOUSE) : 2021-07-31 22:28:08 +0100 
 
-1708 **rainfall-rescue-data-v3/DATA** locations under [https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA):
+1723 **rainfall-rescue-data-v3/DATA** locations under [https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA):
 
+* [LAMPETER-WYCLIFFE-COLLEGE](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/LAMPETER-WYCLIFFE-COLLEGE) : 2022-09-04 18:33:57 +0100 
+* [LLANDYSSILIOGOGO-DOLWYLAN](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/LLANDYSSILIOGOGO-DOLWYLAN) : 2022-09-04 18:33:57 +0100 
+* [LOGAU-LAS-MINE](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/LOGAU-LAS-MINE) : 2022-09-04 18:33:57 +0100 
+* [TALYBONT](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/TALYBONT) : 2022-09-04 18:33:57 +0100 
+* [TREGARON-VICARAGE](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/TREGARON-VICARAGE) : 2022-09-04 18:33:57 +0100 
+* [YNYS-LAS-SANDLING](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/YNYS-LAS-SANDLING) : 2022-09-04 18:33:57 +0100 
+* [BARTON-MILLS-HOLLAND-HOUSE-GARDENS](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/BARTON-MILLS-HOLLAND-HOUSE-GARDENS) : 2022-09-04 18:28:44 +0100 
+* [BAWDSEY](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/BAWDSEY) : 2022-09-04 18:28:44 +0100 
+* [GREAT-CORNARD-BROOK-HOUSE](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/GREAT-CORNARD-BROOK-HOUSE) : 2022-09-04 18:28:44 +0100 
+* [HARTEST-HOP-HALL](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/HARTEST-HOP-HALL) : 2022-09-04 18:28:44 +0100 
+* [HARTEST-SHIMPLING-HALL](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/HARTEST-SHIMPLING-HALL) : 2022-09-04 18:28:44 +0100 
+* [HASKETON-LOWOOD-HALL](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/HASKETON-LOWOOD-HALL) : 2022-09-04 18:28:44 +0100 
+* [ORFORD-BUTLEY-ABBEY-FARM](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/ORFORD-BUTLEY-ABBEY-FARM) : 2022-09-04 18:28:44 +0100 
+* [WANGFORD](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/WANGFORD) : 2022-09-04 18:28:44 +0100 
+* [WANGFORD-HENHAM-GARDENS](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/WANGFORD-HENHAM-GARDENS) : 2022-09-04 18:28:44 +0100 
 * [ABINGER-COMMON-GODDARDS](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/ABINGER-COMMON-GODDARDS) : 2022-09-01 17:23:44 +0100 
 * [ADDINGTON-GOLF-CLUB](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/ADDINGTON-GOLF-CLUB) : 2022-09-01 17:23:44 +0100 
 * [ASHTEAD-PARK-LANE](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/ASHTEAD-PARK-LANE) : 2022-09-01 17:23:44 +0100 

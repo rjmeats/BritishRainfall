@@ -1,4 +1,4 @@
-Generation time: Saturday 03/09/2022 08:16:55 BST
+Generation time: Sunday 04/09/2022 20:46:12 BST
 
 ## Locations A-B
 
@@ -1105,6 +1105,7 @@ Generation time: Saturday 03/09/2022 08:16:55 BST
 |[BARTLOW-SHUDY-CAMPS](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/BARTLOW-SHUDY-CAMPS) [V3]|BARTLOW-SHUDY-CAMPS.csv|TL621443|52.073|0.364|350|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=52.073&lon=0.364&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/52.073,0.364,16)  |
 |[BARTON-ANDERTON-FOLD](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/main/DATA/BARTON-ANDERTON-FOLD) [V2]|BARTON-ANDERTON-FOLD.csv|SD514395|53.849|-2.740|90|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=53.849&lon=-2.740&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/53.849,-2.740,16)  |
 |[BARTON-MET-OFFICE-AIRPORT](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/main/DATA/BARTON-MET-OFFICE-AIRPORT) [V2]|BARTON-MET-OFFICE-AIRPORT.csv|SJ746973|53.472|-2.384|70|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=53.472&lon=-2.384&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/53.472,-2.384,16)  |
+|[BARTON-MILLS-HOLLAND-HOUSE-GARDENS](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/BARTON-MILLS-HOLLAND-HOUSE-GARDENS) [V3]|||||||
 |[BARTON-ON-HUMBER-SAXBY-RECTORY](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/main/DATA/BARTON-ON-HUMBER-SAXBY-RECTORY) [V2]|BARTON-ON-HUMBER-SAXBY-RECTORY.csv|SE991167|53.637|-0.503|64|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=53.637&lon=-0.503&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/53.637,-0.503,16)  |
 |[BARTON-PUMP-HOUSE](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/BARTON-PUMP-HOUSE) [V3]|||||||
 |[BARTON-STACEY-MOODYS-DOWN](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/main/DATA/BARTON-STACEY-MOODYS-DOWN) [V2]|BARTON-STACEY-MOODYS-DOWN.csv|SU429389|51.148|-1.388|230|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=51.148&lon=-1.388&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/51.148,-1.388,16)  |
@@ -1201,6 +1202,7 @@ Generation time: Saturday 03/09/2022 08:16:55 BST
 |[BATTLESDEN-PUMPING-STATION](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/main/DATA/BATTLESDEN-PUMPING-STATION) [V2]|BATTLESDEN-PUMPING-STATION.csv|SP960281|51.943|-0.605|358|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=51.943&lon=-0.605&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/51.943,-0.605,16)  |
 |[BAUMBER-THE-OLD-VICARAGE](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/main/DATA/BAUMBER-THE-OLD-VICARAGE) [V2]|BAUMBER-THE-OLD-VICARAGE.csv|TF222740|53.249|-0.170|200|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=53.249&lon=-0.170&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/53.249,-0.170,16)  |
 |[BAVERSTOCK](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/BAVERSTOCK)|BAVERSTOCK.csv|SU028315|51.084|-1.961|300|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=51.084&lon=-1.961&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/51.084,-1.961,16)  |
+|[BAWDSEY](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/BAWDSEY) [V3]|||||||
 |[BAWTRY-COUNCIL-SCHOOL](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/BAWTRY-COUNCIL-SCHOOL) [V3]|BAWTRY-COUNCIL-SCHOOL.csv|SK650932|53.432|-1.023|37|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=53.432&lon=-1.023&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/53.432,-1.023,16)  |
 |[BAWTRY-HALL-THE-GDNS](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/BAWTRY-HALL-THE-GDNS)|BAWTRY-HALL-THE-GDNS.csv|SK650929|53.429|-1.023|31|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=53.429&lon=-1.023&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/53.429,-1.023,16)  |
 |[BAYFORDBURY](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/BAYFORDBURY)|BAYFORDBURY.csv|TL315104|51.777|-0.095|250|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=51.777&lon=-0.095&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/51.777,-0.095,16)  |

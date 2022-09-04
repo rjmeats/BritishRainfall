@@ -1,4 +1,4 @@
-Generation time: Saturday 03/09/2022 08:16:56 BST
+Generation time: Sunday 04/09/2022 20:46:13 BST
 
 ## Locations P-T
 
@@ -3098,6 +3098,7 @@ Generation time: Saturday 03/09/2022 08:16:56 BST
 ||TALGARTH-DAN-Y-GARTH-4.csv|SO149331|51.990|-3.241|450|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=51.990&lon=-3.241&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/51.990,-3.241,16)  |
 |[TALGARTH-PONTIVAL-SANATORIUM](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/TALGARTH-PONTIVAL-SANATORIUM)|TALGARTH-PONTIVAL-SANATORIUM.csv|SO138351|52.008|-3.257|500|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=52.008&lon=-3.257&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/52.008,-3.257,16)  |
 ||TALGARTH-PONTIVAL-SANATORIUM-2.csv|SO136354|52.010|-3.260|600|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=52.010&lon=-3.260&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/52.010,-3.260,16)  |
+|[TALYBONT](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/TALYBONT) [V3]|||||||
 |[TALYBONT-ABERCLYDACH](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/main/DATA/TALYBONT-ABERCLYDACH) [V2]|TALYBONT-ABERCLYDACH.csv|SO105215|51.885|-3.302|520|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=51.885&lon=-3.302&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/51.885,-3.302,16)  |
 |[TALYBONT-ASHFORD](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/TALYBONT-ASHFORD)|TALYBONT-ASHFORD.csv|SO123218|51.888|-3.276|360|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=51.888&lon=-3.276&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/51.888,-3.276,16)  |
 |[TALYBONT-CEFN-BACH](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/main/DATA/TALYBONT-CEFN-BACH) [V2]|TALYBONT-CEFN-BACH.csv|SO073215|51.884|-3.348|1263|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=51.884&lon=-3.348&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/51.884,-3.348,16)  |
@@ -3593,6 +3594,7 @@ Generation time: Saturday 03/09/2022 08:16:56 BST
 |[TREFNANT-MAES-ELWY](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/TREFNANT-MAES-ELWY)|TREFNANT-MAES-ELWY.csv|SJ043718|53.235|-3.435|195|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=53.235&lon=-3.435&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/53.235,-3.435,16)  |
 |[TREFNANT-SCHOOL](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/TREFNANT-SCHOOL) [V3]|TREFNANT-SCHOOL.csv|SJ050705|53.223|-3.424|200|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=53.223&lon=-3.424&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/53.223,-3.424,16)  |
 |[TREFRIW-WELLS](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/main/DATA/TREFRIW-WELLS) [V2]|TREFRIW-WELLS.csv|SH778653|53.171|-3.830|25|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=53.171&lon=-3.830&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/53.171,-3.830,16)  |
+|[TREGARON-VICARAGE](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/TREGARON-VICARAGE) [V3]|||||||
 |[TREGLINES-ST-MINVER](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/TREGLINES-ST-MINVER)|TREGLINES-ST-MINVER.csv|SW953783|50.568|-4.892|140|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=50.568&lon=-4.892&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/50.568,-4.892,16)  |
 |[TREHAFOD-PUMPING-STATION](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/TREHAFOD-PUMPING-STATION) [V3]|TREHAFOD-PUMPING-STATION.csv|ST048909|51.609|-3.376|264|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=51.609&lon=-3.376&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/51.609,-3.376,16)  |
 |[TREHARRIS-SERVICE-RES](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/TREHARRIS-SERVICE-RES)|TREHARRIS-SERVICE-RES.csv|ST098975|51.669|-3.306|765|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=51.669&lon=-3.306&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/51.669,-3.306,16)  |
