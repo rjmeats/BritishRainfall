@@ -1,4 +1,4 @@
-Generation time: Tuesday 06/09/2022 08:00:38 BST
+Generation time: Tuesday 06/09/2022 22:38:57 BST
 
 ## Locations P-T
 
@@ -2968,6 +2968,7 @@ Generation time: Tuesday 06/09/2022 08:00:38 BST
 |[SWAFIELD-RECTORY](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/main/DATA/SWAFIELD-RECTORY) [V2]|SWAFIELD-RECTORY.csv|TG291326|52.842|1.400|100|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=52.842&lon=1.400&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/52.842,1.400,16)  |
 |[SWAINESHILL](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/main/DATA/SWAINESHILL) [V2]|SWAINESHILL.csv|SU720443|51.194|-0.971|550|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=51.194&lon=-0.971&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/51.194,-0.971,16)  |
 ||SWAINESHILL-2.csv|SU721441|51.192|-0.970|616|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=51.192&lon=-0.970&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/51.192,-0.970,16)  |
+|[SWALCLIFFE-PARK](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/SWALCLIFFE-PARK) [V3]|||||||
 |[SWALEDALE-GUNNERSIDE-LODGE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/SWALEDALE-GUNNERSIDE-LODGE)|SWALEDALE-GUNNERSIDE-LODGE.csv|SD935981|54.378|-2.102|900|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=54.378&lon=-2.102&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/54.378,-2.102,16)  |
 |[SWALEDALE-KELD](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/main/DATA/SWALEDALE-KELD) [V2]|SWALEDALE-KELD.csv|NY892010|54.404|-2.168|1040|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=54.404&lon=-2.168&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/54.404,-2.168,16)  |
 |[SWALEDALE-ROWLETH-END](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/main/DATA/SWALEDALE-ROWLETH-END) [V2]|SWALEDALE-ROWLETH-END.csv|SD971975|54.373|-2.046|700|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=54.373&lon=-2.046&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/54.373,-2.046,16)  |

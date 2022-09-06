@@ -1,4 +1,4 @@
-Generation time: Tuesday 06/09/2022 08:00:38 BST
+Generation time: Tuesday 06/09/2022 22:38:57 BST
 
 ## Locations K-O
 
@@ -1208,6 +1208,7 @@ Generation time: Tuesday 06/09/2022 08:00:38 BST
 ||LITTLEHAMPTON-MET-STATION-2.csv|TQ033018|50.807|-0.535|19|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=50.807&lon=-0.535&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/50.807,-0.535,16)  |
 |[LITTLEHAMPTON-SURREY-HOUSE](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/main/DATA/LITTLEHAMPTON-SURREY-HOUSE) [V2]|LITTLEHAMPTON-SURREY-HOUSE.csv|TQ037015|50.804|-0.530|20|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=50.804&lon=-0.530&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/50.804,-0.530,16)  |
 |[LITTLEMOOR-PUMPING-STATION](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/main/DATA/LITTLEMOOR-PUMPING-STATION) [V2]|LITTLEMOOR-PUMPING-STATION.csv|SP526029|51.722|-1.240|195|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=51.722&lon=-1.240&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/51.722,-1.240,16)  |
+|[LITTLEMORE-SEWAGE-FARM](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/LITTLEMORE-SEWAGE-FARM) [V3]|||||||
 |[LITTLEOVER-HILLTOP](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/main/DATA/LITTLEOVER-HILLTOP) [V2]|LITTLEOVER-HILLTOP.csv|SK329341|52.903|-1.512|325|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=52.903&lon=-1.512&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/52.903,-1.512,16)  |
 ||LITTLEOVER-HILLTOP-2.csv|SK326341|52.903|-1.517|346|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=52.903&lon=-1.517&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/52.903,-1.517,16)  |
 |[LITTLEOVER-THE-KNOLL](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/main/DATA/LITTLEOVER-THE-KNOLL) [V2]|LITTLEOVER-THE-KNOLL.csv|SK323338|52.901|-1.521|300|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=52.901&lon=-1.521&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/52.901,-1.521,16)  |
@@ -3256,6 +3257,7 @@ Generation time: Tuesday 06/09/2022 08:00:38 BST
 |[NORTH-SHIELDS-WHITLEY-CONVALESCENT-HOME](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/main/DATA/NORTH-SHIELDS-WHITLEY-CONVALESCENT-HOME) [V2]|NORTH-SHIELDS-WHITLEY-CONVALESCENT-HOME.csv|NZ350732|55.052|-1.454|38|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=55.052&lon=-1.454&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/55.052,-1.454,16)  |
 |[NORTH-SHIELDS-WHITLEY-VICARAGE](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/main/DATA/NORTH-SHIELDS-WHITLEY-VICARAGE) [V2]|NORTH-SHIELDS-WHITLEY-VICARAGE.csv|NZ352720|55.041|-1.451|83|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=55.041&lon=-1.451&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/55.041,-1.451,16)  |
 ||NORTH-SHIELDS-WHITLEY-VICARAGE-2.csv|NZ352720|55.041|-1.451|124|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=55.041&lon=-1.451&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/55.041,-1.451,16)  |
+|[NORTH-STOKE-LITTLE-STOKE-FARM](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/NORTH-STOKE-LITTLE-STOKE-FARM) [V3]|||||||
 |[NORTH-SUNDERLAND-CHATHILL](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/main/DATA/NORTH-SUNDERLAND-CHATHILL) [V2]|NORTH-SUNDERLAND-CHATHILL.csv|NU186270|55.536|-1.707|120|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=55.536&lon=-1.707&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/55.536,-1.707,16)  |
 |[NORTH-TAMERTON-DAVIES](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/NORTH-TAMERTON-DAVIES)|NORTH-TAMERTON-DAVIES.csv|SX314982|50.759|-4.392|390|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=50.759&lon=-4.392&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/50.759,-4.392,16)  |
 |[NORTH-TAMERTON-OGBEARE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/NORTH-TAMERTON-OGBEARE)|NORTH-TAMERTON-OGBEARE.csv|SX302959|50.738|-4.407|460|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=50.738&lon=-4.407&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/50.738,-4.407,16)  |
@@ -3700,6 +3702,7 @@ Generation time: Tuesday 06/09/2022 08:00:38 BST
 ||OXFORD-ST-GILES-MIX-5.csv|SP511075|51.764|-1.261|210|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=51.764&lon=-1.261&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/51.764,-1.261,16)  |
 ||OXFORD-ST-GILES-MIX-6.csv|SP506095|51.782|-1.268|200|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=51.782&lon=-1.268&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/51.782,-1.268,16)  |
 |[OXFORD-STANTON-ST-JOHN](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/main/DATA/OXFORD-STANTON-ST-JOHN) [V2]|OXFORD-STANTON-ST-JOHN.csv|SP578096|51.782|-1.164|340|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=51.782&lon=-1.164&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/51.782,-1.164,16)  |
+|[OXFORD-TOOT-BALDON-VICARAGE](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/OXFORD-TOOT-BALDON-VICARAGE) [V3]|||||||
 |[OXFORD-WARNEFORD-ASYLUM](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/OXFORD-WARNEFORD-ASYLUM)|OXFORD-WARNEFORD-ASYLUM.csv|SP538061|51.751|-1.222|300|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=51.751&lon=-1.222&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/51.751,-1.222,16)  |
 |[OXTED-STONE-HALL](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/main/DATA/OXTED-STONE-HALL) [V2]|OXTED-STONE-HALL.csv|TQ394516|51.247|-0.004|320|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=51.247&lon=-0.004&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/51.247,-0.004,16)  |
 ||OXTED-STONE-HALL-2.csv|TQ392521|51.251|-0.006|360|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=51.251&lon=-0.006&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/51.251,-0.006,16)  |
