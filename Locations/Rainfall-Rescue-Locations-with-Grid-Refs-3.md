@@ -1,4 +1,4 @@
-Generation time: Monday 05/09/2022 19:02:07 BST
+Generation time: Tuesday 06/09/2022 08:00:38 BST
 
 ## Locations G-J
 
@@ -23,6 +23,7 @@ Generation time: Monday 05/09/2022 19:02:07 BST
 ||GAIRLOCH-OPINAN-2.csv|NG746729|57.689|-5.783|50|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=57.689&lon=-5.783&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/57.689,-5.783,16)  |
 |[GAIRLOCH-SHIELDAIG-LODGE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/GAIRLOCH-SHIELDAIG-LODGE)|GAIRLOCH-SHIELDAIG-LODGE.csv|NG806725|57.689|-5.683|30|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=57.689&lon=-5.683&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/57.689,-5.683,16)  |
 ||GAIRLOCH-SHIELDAIG-LODGE-2.csv|NG806725|57.689|-5.683|10|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=57.689&lon=-5.683&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/57.689,-5.683,16)  |
+|[GAIRLOCH-THE-MANSE](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/GAIRLOCH-THE-MANSE) [V3]|||||||
 |[GALASHIELS-ABBOTSFORD-ROAD](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/GALASHIELS-ABBOTSFORD-ROAD)|GALASHIELS-ABBOTSFORD-ROAD.csv|NT497356|55.611|-2.801|416|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=55.611&lon=-2.801&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/55.611,-2.801,16)  |
 |[GALASHIELS-CADDON-HEAD](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/main/DATA/GALASHIELS-CADDON-HEAD) [V2]|GALASHIELS-CADDON-HEAD.csv|NT401410|55.659|-2.954|1050|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=55.659&lon=-2.954&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/55.659,-2.954,16)  |
 |[GALASHIELS-CLOVENFORDS](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/GALASHIELS-CLOVENFORDS)|GALASHIELS-CLOVENFORDS.csv|NT431351|55.606|-2.905|450|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=55.606&lon=-2.905&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/55.606,-2.905,16)  |
