@@ -1,4 +1,4 @@
-Generation time: Tuesday 06/09/2022 22:38:57 BST
+Generation time: Friday 09/09/2022 15:16:23 BST
 
 ## Locations C-F
 
@@ -1350,6 +1350,8 @@ Generation time: Tuesday 06/09/2022 22:38:57 BST
 |[COSHAM-PURBROOK-GRANGE](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/COSHAM-PURBROOK-GRANGE) [V3]|COSHAM-PURBROOK-GRANGE.csv|SU682078|50.866|-1.032|160|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=50.866&lon=-1.032&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/50.866,-1.032,16)  |
 |[COSSINGTON-GOLD-CORNER](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/main/DATA/COSSINGTON-GOLD-CORNER) [V2]|COSSINGTON-GOLD-CORNER.csv|ST367431|51.184|-2.906|12|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=51.184&lon=-2.906&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/51.184,-2.906,16)  |
 |[COSSINGTON-MANOR](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/main/DATA/COSSINGTON-MANOR) [V2]|COSSINGTON-MANOR.csv|ST356402|51.158|-2.921|110|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=51.158&lon=-2.921&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/51.158,-2.921,16)  |
+|[COSTOCK-SCHOOL](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/COSTOCK-SCHOOL) [V3]|||||||
+|[COTGRAVE-RES](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/COTGRAVE-RES) [V3]|||||||
 |[COTHELSTONE-HOUSE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/COTHELSTONE-HOUSE)|COTHELSTONE-HOUSE.csv|ST176324|51.086|-3.176|430|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=51.086&lon=-3.176&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/51.086,-3.176,16)  |
 |[COTHERSTONE-LANCELANDS](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/COTHERSTONE-LANCELANDS)|COTHERSTONE-LANCELANDS.csv|NZ008190|54.566|-1.989|678|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=54.566&lon=-1.989&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/54.566,-1.989,16)  |
 |[COTTENHAM](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/COTTENHAM)|COTTENHAM.csv|TL454684|52.294|0.131|30|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=52.294&lon=0.131&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/52.294,0.131,16)  |

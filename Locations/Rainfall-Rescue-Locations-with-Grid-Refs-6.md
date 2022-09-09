@@ -1,4 +1,4 @@
-Generation time: Tuesday 06/09/2022 22:38:57 BST
+Generation time: Friday 09/09/2022 15:16:25 BST
 
 ## Locations U-Z
 
@@ -354,6 +354,8 @@ Generation time: Tuesday 06/09/2022 22:38:57 BST
 |[WARRINGTON-HOWLEY](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/WARRINGTON-HOWLEY)|WARRINGTON-HOWLEY.csv|SJ603881|53.388|-2.598|26|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=53.388&lon=-2.598&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/53.388,-2.598,16)  |
 ||WARRINGTON-HOWLEY-2.csv|SJ605879|53.386|-2.595|33|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=53.386&lon=-2.595&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/53.386,-2.595,16)  |
 |[WARRINGTON-TRAINING-COLLEGE](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/main/DATA/WARRINGTON-TRAINING-COLLEGE) [V2]|WARRINGTON-TRAINING-COLLEGE.csv|SJ615884|53.391|-2.580|34|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=53.391&lon=-2.580&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/53.391,-2.580,16)  |
+|[WARSOP](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/WARSOP) [V3]|||||||
+|[WARSOP-GLEADTHORPE-EXPERIMENTAL-HUSBANDRY-FARM](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/WARSOP-GLEADTHORPE-EXPERIMENTAL-HUSBANDRY-FARM) [V3]|||||||
 |[WARWICK-BARFORD-RECTORY](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/WARWICK-BARFORD-RECTORY)|WARWICK-BARFORD-RECTORY.csv|SP272609|52.246|-1.603|167|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=52.246&lon=-1.603&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/52.246,-1.603,16)  |
 |[WARWICK-CASTLE-GDNS](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/WARWICK-CASTLE-GDNS)|WARWICK-CASTLE-GDNS.csv|SP286647|52.280|-1.582|197|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=52.280&lon=-1.582&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/52.280,-1.582,16)  |
 |[WARWICK-HATTON](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/main/DATA/WARWICK-HATTON) [V2]|WARWICK-HATTON.csv|SP244669|52.300|-1.644|317|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=52.300&lon=-1.644&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/52.300,-1.644,16)  |

@@ -1,4 +1,4 @@
-Generation time: Tuesday 06/09/2022 22:38:57 BST
+Generation time: Friday 09/09/2022 15:16:23 BST
 
 6092 **rainfall-rescue/DATA** locations under [https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA):
 
@@ -12160,8 +12160,21 @@ Generation time: Tuesday 06/09/2022 22:38:57 BST
 * [WICKFORD-DOLLYMANS-FARM](https://tinyurl.com/3xfyv3yv/WICKFORD-DOLLYMANS-FARM) : 2021-07-31 22:28:08 +0100 
 * [WOKINGHAM-SINDLESHAM-HOUSE](https://tinyurl.com/3xfyv3yv/WOKINGHAM-SINDLESHAM-HOUSE) : 2021-07-31 22:28:08 +0100 
 
-1759 **rainfall-rescue-data-v3/DATA** locations under [https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA):
+1772 **rainfall-rescue-data-v3/DATA** locations under [https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA):
 
+* [BEESTON-BRAMCOTE-DRIVE](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/BEESTON-BRAMCOTE-DRIVE) : 2022-09-07 20:37:26 +0100 
+* [BEESTON-WEST-END-OLD-MANOR-HOUSE](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/BEESTON-WEST-END-OLD-MANOR-HOUSE) : 2022-09-07 20:37:26 +0100 
+* [COSTOCK-SCHOOL](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/COSTOCK-SCHOOL) : 2022-09-07 20:37:26 +0100 
+* [COTGRAVE-RES](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/COTGRAVE-RES) : 2022-09-07 20:37:26 +0100 
+* [LENTON-EXPERIMENTAL-STATION](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/LENTON-EXPERIMENTAL-STATION) : 2022-09-07 20:37:26 +0100 
+* [LENTON-LENTON-FIELDS](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/LENTON-LENTON-FIELDS) : 2022-09-07 20:37:26 +0100 
+* [NEWARK-KIRKGATE](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/NEWARK-KIRKGATE) : 2022-09-07 20:37:26 +0100 
+* [NOTTINGHAM-TALBOT-STREET-ST-MATTHEWS-VICARAGE](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/NOTTINGHAM-TALBOT-STREET-ST-MATTHEWS-VICARAGE) : 2022-09-07 20:37:26 +0100 
+* [OXTON-RES](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/OXTON-RES) : 2022-09-07 20:37:26 +0100 
+* [TRENT-JUNCTION-THRUMPTON-HALL](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/TRENT-JUNCTION-THRUMPTON-HALL) : 2022-09-07 20:37:26 +0100 
+* [TROWELL-RECTORY](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/TROWELL-RECTORY) : 2022-09-07 20:37:26 +0100 
+* [WARSOP](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/WARSOP) : 2022-09-07 20:37:26 +0100 
+* [WARSOP-GLEADTHORPE-EXPERIMENTAL-HUSBANDRY-FARM](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/WARSOP-GLEADTHORPE-EXPERIMENTAL-HUSBANDRY-FARM) : 2022-09-07 20:37:26 +0100 
 * [ADDERBURY](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/ADDERBURY) : 2022-09-06 21:33:31 +0100 
 * [ADDERBURY-THE-GREEN](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/ADDERBURY-THE-GREEN) : 2022-09-06 21:33:31 +0100 
 * [ASCOT-UNDER-WYCHWOOD-SCHOOL](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/ASCOT-UNDER-WYCHWOOD-SCHOOL) : 2022-09-06 21:33:31 +0100 

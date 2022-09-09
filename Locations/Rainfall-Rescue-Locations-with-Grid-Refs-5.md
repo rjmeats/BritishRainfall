@@ -1,4 +1,4 @@
-Generation time: Tuesday 06/09/2022 22:38:57 BST
+Generation time: Friday 09/09/2022 15:16:24 BST
 
 ## Locations P-T
 
@@ -3608,6 +3608,7 @@ Generation time: Tuesday 06/09/2022 22:38:57 BST
 ||TREHERBERT-TYN-Y-WAUN-3.csv|SS932994|51.683|-3.546|801|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=51.683&lon=-3.546&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/51.683,-3.546,16)  |
 |[TRELIGHTS-GWEL-MOR](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/TRELIGHTS-GWEL-MOR) [V3]|TRELIGHTS-GWEL-MOR.csv|SW990790|50.576|-4.840|365|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=50.576&lon=-4.840&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/50.576,-4.840,16)  |
 |[TRENT-COLLEGE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/TRENT-COLLEGE)|TRENT-COLLEGE.csv|SK482338|52.899|-1.285|120|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=52.899&lon=-1.285&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/52.899,-1.285,16)  |
+|[TRENT-JUNCTION-THRUMPTON-HALL](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/TRENT-JUNCTION-THRUMPTON-HALL) [V3]|||||||
 |[TRENT-PARK](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/main/DATA/TRENT-PARK) [V2]|TRENT-PARK.csv|TQ290973|51.660|-0.136|250|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=51.660&lon=-0.136&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/51.660,-0.136,16)  |
 |[TREORCHY-PUMPING-STATION](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/main/DATA/TREORCHY-PUMPING-STATION) [V2]|TREORCHY-PUMPING-STATION.csv|SS9631396459|51.657|-3.500|515|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=51.657&lon=-3.500&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/51.657,-3.500,16)  |
 ||TREORCHY-PUMPING-STATION-2.csv|SS9631396459|51.657|-3.500|515|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=51.657&lon=-3.500&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/51.657,-3.500,16)  |
@@ -3667,6 +3668,7 @@ Generation time: Tuesday 06/09/2022 22:38:57 BST
 ||TROWBRIDGE-WINGFIELD-2.csv|ST824574|51.315|-2.254|190|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=51.315&lon=-2.254&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/51.315,-2.254,16)  |
 |[TROWBRIDGE-WW](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/TROWBRIDGE-WW)|TROWBRIDGE-WW.csv|ST849571|51.313|-2.217|183|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=51.313&lon=-2.217&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/51.313,-2.217,16)  |
 ||TROWBRIDGE-WW-2.csv|ST862482|51.233|-2.199|311|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=51.233&lon=-2.199&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/51.233,-2.199,16)  |
+|[TROWELL-RECTORY](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/TROWELL-RECTORY) [V3]|||||||
 |[TRURO-ALVERTON](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/TRURO-ALVERTON)|TRURO-ALVERTON.csv|SW831451|50.266|-5.044|30|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=50.266&lon=-5.044&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/50.266,-5.044,16)  |
 |[TRURO-KILLIOW](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/TRURO-KILLIOW)|TRURO-KILLIOW.csv|SW807421|50.238|-5.077|230|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=50.238&lon=-5.077&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/50.238,-5.077,16)  |
 |[TRURO-PENARTH](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/TRURO-PENARTH)|TRURO-PENARTH.csv|SW837446|50.263|-5.035|200|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=50.263&lon=-5.035&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/50.263,-5.035,16)  |

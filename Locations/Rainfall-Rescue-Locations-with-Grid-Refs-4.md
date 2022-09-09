@@ -1,4 +1,4 @@
-Generation time: Tuesday 06/09/2022 22:38:57 BST
+Generation time: Friday 09/09/2022 15:16:24 BST
 
 ## Locations K-O
 
@@ -947,6 +947,8 @@ Generation time: Tuesday 06/09/2022 22:38:57 BST
 |[LENHAM-QUARRY](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/main/DATA/LENHAM-QUARRY) [V2]|LENHAM-QUARRY.csv|TQ915524|51.239|0.742|554|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=51.239&lon=0.742&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/51.239,0.742,16)  |
 |[LENNOXTOWN](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/main/DATA/LENNOXTOWN) [V2]|LENNOXTOWN.csv|NS6192878508|55.980|-4.214|240|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=55.980&lon=-4.214&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/55.980,-4.214,16)  |
 ||LENNOXTOWN-2.csv|NS629788|55.983|-4.199|320|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=55.983&lon=-4.199&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/55.983,-4.199,16)  |
+|[LENTON-EXPERIMENTAL-STATION](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/LENTON-EXPERIMENTAL-STATION) [V3]|||||||
+|[LENTON-LENTON-FIELDS](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/LENTON-LENTON-FIELDS) [V3]|||||||
 |[LEOMINSTER-FAIRHOLME](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/LEOMINSTER-FAIRHOLME)|LEOMINSTER-FAIRHOLME.csv|SO490588|52.225|-2.748|260|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=52.225&lon=-2.748&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/52.225,-2.748,16)  |
 |[LEOMINSTER-HAMPTON-COURT](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/LEOMINSTER-HAMPTON-COURT)|LEOMINSTER-HAMPTON-COURT.csv|SO519524|52.168|-2.705|212|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=52.168&lon=-2.705&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/52.168,-2.705,16)  |
 |[LEOMINSTER-HENNOR](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/main/DATA/LEOMINSTER-HENNOR) [V2]|LEOMINSTER-HENNOR.csv|SO539586|52.224|-2.676|440|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=52.224&lon=-2.676&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/52.224,-2.676,16)  |
@@ -3034,6 +3036,7 @@ Generation time: Tuesday 06/09/2022 22:38:57 BST
 |[NEWARK-AVERHAM-RECTORY](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/NEWARK-AVERHAM-RECTORY) [V3]|NEWARK-AVERHAM-RECTORY.csv|SK766543|53.080|-0.858|45|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=53.080&lon=-0.858&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/53.080,-0.858,16)  |
 |[NEWARK-CASTLE-GARDENS](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/NEWARK-CASTLE-GARDENS) [V3]|NEWARK-CASTLE-GARDENS.csv|SK796540|53.077|-0.813|63|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=53.077&lon=-0.813&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/53.077,-0.813,16)  |
 |[NEWARK-EAST-STOKE](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/NEWARK-EAST-STOKE) [V3]|NEWARK-EAST-STOKE.csv|SK752498|53.040|-0.880|55|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=53.040&lon=-0.880&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/53.040,-0.880,16)  |
+|[NEWARK-KIRKGATE](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/NEWARK-KIRKGATE) [V3]|||||||
 |[NEWARK-SEWAGE-WORKS](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/main/DATA/NEWARK-SEWAGE-WORKS) [V2]|NEWARK-SEWAGE-WORKS.csv|SK802558|53.093|-0.804|33|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=53.093&lon=-0.804&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/53.093,-0.804,16)  |
 |[NEWARK-SHELTON-RECTORY](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/NEWARK-SHELTON-RECTORY) [V3]|NEWARK-SHELTON-RECTORY.csv|SK780447|52.994|-0.839|80|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=52.994&lon=-0.839&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/52.994,-0.839,16)  |
 |[NEWARK-THE-FRIARY](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/main/DATA/NEWARK-THE-FRIARY) [V2]|NEWARK-THE-FRIARY.csv|SK802540|53.077|-0.804|48|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=53.077&lon=-0.804&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/53.077,-0.804,16)  |
@@ -3445,6 +3448,7 @@ Generation time: Tuesday 06/09/2022 22:38:57 BST
 ||NOTTINGHAM-STRELLEY-HALL-3.csv|SK507421|52.974|-1.246|376|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=52.974&lon=-1.246&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/52.974,-1.246,16)  |
 ||NOTTINGHAM-STRELLEY-HALL-4.csv|SK507421|52.974|-1.246|376|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=52.974&lon=-1.246&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/52.974,-1.246,16)  |
 ||NOTTINGHAM-STRELLEY-HALL-5.csv|SK507421|52.974|-1.246|377|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=52.974&lon=-1.246&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/52.974,-1.246,16)  |
+|[NOTTINGHAM-TALBOT-STREET-ST-MATTHEWS-VICARAGE](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/NOTTINGHAM-TALBOT-STREET-ST-MATTHEWS-VICARAGE) [V3]|||||||
 |[NOTTINGHAM-THE-CASTLE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/NOTTINGHAM-THE-CASTLE)|NOTTINGHAM-THE-CASTLE.csv|SK568395|52.950|-1.156|192|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=52.950&lon=-1.156&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/52.950,-1.156,16)  |
 ||NOTTINGHAM-THE-CASTLE-2.csv|SK569394|52.949|-1.155|268|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=52.949&lon=-1.155&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/52.949,-1.155,16)  |
 |[NOTTINGHAM-WEST-BRIDGFORD](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/NOTTINGHAM-WEST-BRIDGFORD)|NOTTINGHAM-WEST-BRIDGFORD.csv|SK586374|52.931|-1.129|78|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=52.931&lon=-1.129&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/52.931,-1.129,16)  |
@@ -3708,5 +3712,6 @@ Generation time: Tuesday 06/09/2022 22:38:57 BST
 ||OXTED-STONE-HALL-2.csv|TQ392521|51.251|-0.006|360|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=51.251&lon=-0.006&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/51.251,-0.006,16)  |
 |[OXTED-WEST-HEATH](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/OXTED-WEST-HEATH) [V3]|OXTED-WEST-HEATH.csv|TQ400520|51.251|-0.005|500|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=51.251&lon=-0.005&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/51.251,-0.005,16)  |
 |[OXTON-CHANNELKIRK-SCHOOL](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/main/DATA/OXTON-CHANNELKIRK-SCHOOL) [V2]|OXTON-CHANNELKIRK-SCHOOL.csv|NT496536|55.773|-2.805|695|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=55.773&lon=-2.805&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/55.773,-2.805,16)  |
+|[OXTON-RES](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/OXTON-RES) [V3]|||||||
 |[OYSTERMOUTH-NEWTON](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/OYSTERMOUTH-NEWTON)|OYSTERMOUTH-NEWTON.csv|SS603881|51.574|-4.017|279|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=51.574&lon=-4.017&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/51.574,-4.017,16)  |
 
