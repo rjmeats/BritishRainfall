@@ -1,4 +1,4 @@
-Generation time: Tuesday 20/09/2022 20:30:46 BST
+Generation time: Wednesday 21/09/2022 21:44:17 BST
 
 ## Locations U-Z
 
@@ -91,6 +91,7 @@ Generation time: Tuesday 20/09/2022 20:30:46 BST
 ||UPPER-FARG-MAIN-BANK-2.csv|NO109109|56.282|-3.441|632|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=56.282&lon=-3.441&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/56.282,-3.441,16)  |
 |[UPPER-FARG-PLAINS](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/UPPER-FARG-PLAINS)|UPPER-FARG-PLAINS.csv|NO099100|56.274|-3.457|900|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=56.274&lon=-3.457&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/56.274,-3.457,16)  |
 |[UPPER-GATTON](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/main/DATA/UPPER-GATTON) [V2]|UPPER-GATTON.csv|TQ268540|51.271|-0.183|601|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=51.271&lon=-0.183&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/51.271,-0.183,16)  |
+|[UPPER-GLEN-FYNE](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/UPPER-GLEN-FYNE) [V3]|||||||
 |[UPPER-GLENGYLE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/UPPER-GLENGYLE)|UPPER-GLENGYLE.csv|NN361148|56.297|-4.650|750|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=56.297&lon=-4.650&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/56.297,-4.650,16)  |
 ||UPPER-GLENGYLE-2.csv|NN360147|56.296|-4.652|750|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=56.296&lon=-4.652&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/56.296,-4.652,16)  |
 |[UPPER-HEYDEN](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/main/DATA/UPPER-HEYDEN) [V2]|UPPER-HEYDEN.csv|SE098035|53.528|-1.854|1718|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=53.528&lon=-1.854&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/53.528,-1.854,16)  |
@@ -268,6 +269,7 @@ Generation time: Tuesday 20/09/2022 20:30:46 BST
 |[WALTON-ON-NAZE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/WALTON-ON-NAZE)|WALTON-ON-NAZE.csv|TM262229|51.859|1.285|70|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=51.859&lon=1.285&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/51.859,1.285,16)  |
 ||WALTON-ON-NAZE-2.csv|TM250211|51.844|1.266|77|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=51.844&lon=1.266&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/51.844,1.266,16)  |
 ||WALTON-ON-NAZE-3.csv|TM250220|51.851|1.266|35|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=51.851&lon=1.266&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/51.851,1.266,16)  |
+|[WALTON-ON-THAMES-HERSHAM](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/WALTON-ON-THAMES-HERSHAM) [V3]|||||||
 |[WALTON-ON-THAMES-WW](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/main/DATA/WALTON-ON-THAMES-WW) [V2]|WALTON-ON-THAMES-WW.csv|TQ085662|51.385|-0.442|33|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=51.385&lon=-0.442&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/51.385,-0.442,16)  |
 |[WALTON-ON-THE-HILL-LIVERPOOL](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/WALTON-ON-THE-HILL-LIVERPOOL)|WALTON-ON-THE-HILL-LIVERPOOL.csv|SJ350950|53.448|-2.980|119|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=53.448&lon=-2.980&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/53.448,-2.980,16)  |
 ||WALTON-ON-THE-HILL-LIVERPOOL-2.csv|SJ350950|53.448|-2.980|119|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=53.448&lon=-2.980&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/53.448,-2.980,16)  |
@@ -653,6 +655,7 @@ Generation time: Tuesday 20/09/2022 20:30:46 BST
 |[WEST-LINTON-WOODLEA-COTTAGE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/WEST-LINTON-WOODLEA-COTTAGE)|WEST-LINTON-WOODLEA-COTTAGE.csv|NT159507|55.742|-3.341|801|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=55.742&lon=-3.341&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/55.742,-3.341,16)  |
 |[WEST-LOCH-TARBERT-ARDPATRICK](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/main/DATA/WEST-LOCH-TARBERT-ARDPATRICK) [V2]|WEST-LOCH-TARBERT-ARDPATRICK.csv|NR752593|55.775|-5.586|25|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=55.775&lon=-5.586&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/55.775,-5.586,16)  |
 ||WEST-LOCH-TARBERT-ARDPATRICK-2.csv|NR752592|55.774|-5.586|25|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=55.774&lon=-5.586&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/55.774,-5.586,16)  |
+|[WEST-LOCH-TARBERT-DUNMORE](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/WEST-LOCH-TARBERT-DUNMORE) [V3]|||||||
 |[WEST-LULWORTH-VICARAGE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/WEST-LULWORTH-VICARAGE)|WEST-LULWORTH-VICARAGE.csv|SY824807|50.626|-2.250|128|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=50.626&lon=-2.250&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/50.626,-2.250,16)  |
 |[WEST-MALLING-AIRFIELD](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/main/DATA/WEST-MALLING-AIRFIELD) [V2]|WEST-MALLING-AIRFIELD.csv|TQ678556|51.275|0.404|304|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=51.275&lon=0.404&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/51.275,0.404,16)  |
 |[WEST-MALLING-ST-LEONARDS](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/main/DATA/WEST-MALLING-ST-LEONARDS) [V2]|WEST-MALLING-ST-LEONARDS.csv|TQ677573|51.290|0.404|166|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=51.290&lon=0.404&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/51.290,0.404,16)  |
@@ -770,6 +773,8 @@ Generation time: Tuesday 20/09/2022 20:30:46 BST
 |[WEYBRIDGE-ST-GEORGES-HILL](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/main/DATA/WEYBRIDGE-ST-GEORGES-HILL) [V2]|WEYBRIDGE-ST-GEORGES-HILL.csv|TQ090634|51.359|-0.435|150|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=51.359&lon=-0.435&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/51.359,-0.435,16)  |
 ||WEYBRIDGE-ST-GEORGES-HILL-2.csv|TQ083642|51.367|-0.445|115|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=51.367&lon=-0.445&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/51.367,-0.445,16)  |
 ||WEYBRIDGE-ST-GEORGES-HILL-3.csv|TQ081632|51.358|-0.448|200|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=51.358&lon=-0.448&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/51.358,-0.448,16)  |
+|[WEYBRIDGE-STATION-ROAD](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/WEYBRIDGE-STATION-ROAD) [V3]|||||||
+|[WEYBRIDGE-THAMES-STREET](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/WEYBRIDGE-THAMES-STREET) [V3]|||||||
 |[WEYBRIDGE-WEYLAND-S-WKS](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/main/DATA/WEYBRIDGE-WEYLAND-S-WKS) [V2]|WEYBRIDGE-WEYLAND-S-WKS.csv|TQ125656|51.378|-0.385|50|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=51.378&lon=-0.385&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/51.378,-0.385,16)  |
 |[WEYCOMBE-HASLEMERE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/WEYCOMBE-HASLEMERE)|WEYCOMBE-HASLEMERE.csv|SU907341|51.099|-0.706|562|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=51.099&lon=-0.706&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/51.099,-0.706,16)  |
 |[WEYMOUTH-LANGTON-HERRING](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/main/DATA/WEYMOUTH-LANGTON-HERRING) [V2]|WEYMOUTH-LANGTON-HERRING.csv|SY613825|50.641|-2.548|158|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=50.641&lon=-2.548&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/50.641,-2.548,16)  |

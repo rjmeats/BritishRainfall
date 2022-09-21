@@ -1,4 +1,4 @@
-Generation time: Tuesday 20/09/2022 20:30:46 BST
+Generation time: Wednesday 21/09/2022 21:44:17 BST
 
 ## Locations P-T
 
@@ -939,6 +939,7 @@ Generation time: Tuesday 20/09/2022 20:30:46 BST
 |[REIGATE-DOODS](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/REIGATE-DOODS) [V3]|||||||
 |[REIGATE-HARTSWOOD](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/REIGATE-HARTSWOOD)|REIGATE-HARTSWOOD.csv|TQ258478|51.216|-0.200|192|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=51.216&lon=-0.200&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/51.216,-0.200,16)  |
 ||REIGATE-HARTSWOOD-2.csv|TQ249476|51.214|-0.213|174|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=51.214&lon=-0.213&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/51.214,-0.213,16)  |
+|[REIGATE-HATHERLOW-OBSERVATORY](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/REIGATE-HATHERLOW-OBSERVATORY) [V3]|||||||
 |[REIGATE-HILL-GATTON](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/REIGATE-HILL-GATTON) [V3]|||||||
 |[REIGATE-HOLMFELS](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/REIGATE-HOLMFELS)|REIGATE-HOLMFELS.csv|TQ254500|51.235|-0.205|260|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=51.235&lon=-0.205&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/51.235,-0.205,16)  |
 |[REIGATE-LAGLANDS](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/main/DATA/REIGATE-LAGLANDS) [V2]|REIGATE-LAGLANDS.csv|TQ263513|51.247|-0.191|375|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=51.247&lon=-0.191&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/51.247,-0.191,16)  |
@@ -2322,6 +2323,7 @@ Generation time: Tuesday 20/09/2022 20:30:46 BST
 |[SPRINKLING-TARN](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/SPRINKLING-TARN)|SPRINKLING-TARN.csv|NY227091|54.471|-3.194|1986|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=54.471&lon=-3.194&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/54.471,-3.194,16)  |
 |[SPROWSTON-COUNCIL-SCHOOL](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/SPROWSTON-COUNCIL-SCHOOL) [V3]|||||||
 |[SPROWSTON-OAK-LODGE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/SPROWSTON-OAK-LODGE)|SPROWSTON-OAK-LODGE.csv|TG245128|52.666|1.319|100|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=52.666&lon=1.319&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/52.666,1.319,16)  |
+|[SRON-MOR](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/SRON-MOR) [V3]|||||||
 |[ST-ABBS-HEAD](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/ST-ABBS-HEAD)|ST-ABBS-HEAD.csv|NT913692|55.916|-2.141|211|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=55.916&lon=-2.141&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/55.916,-2.141,16)  |
 ||ST-ABBS-HEAD-2.csv|NT914691|55.915|-2.139|245|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=55.915&lon=-2.139&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/55.915,-2.139,16)  |
 |[ST-ABBS-NORTHFIELD](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/ST-ABBS-NORTHFIELD) [V3]|ST-ABBS-NORTHFIELD.csv|NT917675|55.901|-2.134|85|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=55.901&lon=-2.134&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/55.901,-2.134,16)  |
@@ -3451,6 +3453,7 @@ Generation time: Tuesday 20/09/2022 20:30:46 BST
 |[TIREE-AIRPORT](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/TIREE-AIRPORT)|TIREE-AIRPORT.csv|NL976476|56.523|-6.918|25|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=56.523&lon=-6.918&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/56.523,-6.918,16)  |
 ||TIREE-AIRPORT-2.csv|NL999446|56.497|-6.878|29|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=56.497&lon=-6.878&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/56.497,-6.878,16)  |
 |[TIREE-HYNISH](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/TIREE-HYNISH)|TIREE-HYNISH.csv|NL985392|56.448|-6.895|33|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=56.448&lon=-6.895&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/56.448,-6.895,16)  |
+|[TIREE-HYNISH-HOUSE](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/TIREE-HYNISH-HOUSE) [V3]|||||||
 |[TIRRIL](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/main/DATA/TIRRIL) [V2]|TIRRIL.csv|NY503266|54.632|-2.771|550|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=54.632&lon=-2.771&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/54.632,-2.771,16)  |
 |[TISBURY](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/main/DATA/TISBURY) [V2]|TISBURY.csv|ST943293|51.063|-2.083|400|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=51.063&lon=-2.083&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/51.063,-2.083,16)  |
 ||TISBURY-2.csv|ST944295|51.065|-2.081|390|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=51.065&lon=-2.081&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/51.065,-2.081,16)  |
