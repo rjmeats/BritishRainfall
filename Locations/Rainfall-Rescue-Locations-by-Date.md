@@ -1,6 +1,6 @@
-Generation time: Monday 26/09/2022 18:28:07 BST
+Generation time: Monday 26/09/2022 22:12:29 BST
 
-6092 **rainfall-rescue/DATA** locations under [https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA):
+6093 **rainfall-rescue/DATA** locations under [https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA):
 
 * [ELTERWATER-HALL](https://tinyurl.com/ycyh86uz/ELTERWATER-HALL) : 2022-08-22 23:35:13 +0100 
 * [HAWESWATER-MEASAND](https://tinyurl.com/ycyh86uz/HAWESWATER-MEASAND) : 2022-08-22 23:35:13 +0100 
@@ -6094,6 +6094,7 @@ Generation time: Monday 26/09/2022 18:28:07 BST
 * [YSTRADFELLTE-RES](https://tinyurl.com/ycyh86uz/YSTRADFELLTE-RES) : 2021-12-07 12:27:36 +0000 
 * [YSTRADGYNLAIS-YNISCEDWYN-HO](https://tinyurl.com/ycyh86uz/YSTRADGYNLAIS-YNISCEDWYN-HO) : 2021-12-07 12:27:36 +0000 
 * [YSTRADYFODWG-FYNTYLA-HOSPITAL](https://tinyurl.com/ycyh86uz/YSTRADYFODWG-FYNTYLA-HOSPITAL) : 2021-12-07 12:27:36 +0000 
+* [CHORLTON-CUM-HARDY](https://tinyurl.com/ycyh86uz/CHORLTON-CUM-HARDY) :  
 
 292 **rainfall-rescue-data-eire/DATA** locations under [https://github.com/ed-hawkins/rainfall-rescue-data-eire/tree/main/DATA](https://github.com/ed-hawkins/rainfall-rescue-data-eire/tree/main/DATA):
 
@@ -6390,7 +6391,7 @@ Generation time: Monday 26/09/2022 18:28:07 BST
 * [WESTPORT-HOUSE](https://github.com/ed-hawkins/rainfall-rescue-data-eire/tree/main/DATA/WESTPORT-HOUSE) : 2022-02-13 21:32:05 +0000 
 * [WESTPORT-ST-HELENS](https://github.com/ed-hawkins/rainfall-rescue-data-eire/tree/main/DATA/WESTPORT-ST-HELENS) : 2022-02-13 21:32:05 +0000 
 
-5767 **rainfall-rescue-data-v2/DATA** locations under [https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/main/DATA](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/main/DATA):
+5768 **rainfall-rescue-data-v2/DATA** locations under [https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/main/DATA](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/main/DATA):
 
 * [CASTLE-CARY-ALFORD-HOUSE](https://tinyurl.com/3xfyv3yv/CASTLE-CARY-ALFORD-HOUSE) : 2022-08-22 23:14:25 +0100 
 * [GRASMERE-PARSONAGE](https://tinyurl.com/3xfyv3yv/GRASMERE-PARSONAGE) : 2022-08-22 23:14:25 +0100 
@@ -11432,7 +11433,6 @@ Generation time: Monday 26/09/2022 18:28:07 BST
 * [CRAWFORD-CAMPS-RES-PEAT-RIG](https://tinyurl.com/3xfyv3yv/CRAWFORD-CAMPS-RES-PEAT-RIG) : 2021-08-31 13:55:37 +0100 
 * [CRAWFORD-CAMPS-RES-RISINGCLAW](https://tinyurl.com/3xfyv3yv/CRAWFORD-CAMPS-RES-RISINGCLAW) : 2021-08-31 13:55:37 +0100 
 * [CROOK-HILL](https://tinyurl.com/3xfyv3yv/CROOK-HILL) : 2021-08-31 13:55:37 +0100 
-* [DUNCHURCH-HALL](https://tinyurl.com/3xfyv3yv/DUNCHURCH-HALL) : 2021-08-31 13:55:37 +0100 
 * [DYCE-PARKHILL-HOUSE](https://tinyurl.com/3xfyv3yv/DYCE-PARKHILL-HOUSE) : 2021-08-31 13:55:37 +0100 
 * [EAST-BERGHOLT-FLATFORD-MILL](https://tinyurl.com/3xfyv3yv/EAST-BERGHOLT-FLATFORD-MILL) : 2021-08-31 13:55:37 +0100 
 * [ENNERDALE-BLEACH-GREEN](https://tinyurl.com/3xfyv3yv/ENNERDALE-BLEACH-GREEN) : 2021-08-31 13:55:37 +0100 
@@ -12159,6 +12159,8 @@ Generation time: Monday 26/09/2022 18:28:07 BST
 * [TWYFORD-BEENHAMS-HEATH](https://tinyurl.com/3xfyv3yv/TWYFORD-BEENHAMS-HEATH) : 2021-07-31 22:28:08 +0100 
 * [WICKFORD-DOLLYMANS-FARM](https://tinyurl.com/3xfyv3yv/WICKFORD-DOLLYMANS-FARM) : 2021-07-31 22:28:08 +0100 
 * [WOKINGHAM-SINDLESHAM-HOUSE](https://tinyurl.com/3xfyv3yv/WOKINGHAM-SINDLESHAM-HOUSE) : 2021-07-31 22:28:08 +0100 
+* [BAGBOROUGH-LITTLECOURT](https://tinyurl.com/3xfyv3yv/BAGBOROUGH-LITTLECOURT) :  
+* [RUGBY-DUNCHURCH-HALL](https://tinyurl.com/3xfyv3yv/RUGBY-DUNCHURCH-HALL) :  
 
 2144 **rainfall-rescue-data-v3/DATA** locations under [https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA):
 

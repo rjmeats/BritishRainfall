@@ -1,4 +1,4 @@
-Generation time: Monday 26/09/2022 18:28:08 BST
+Generation time: Monday 26/09/2022 22:12:29 BST
 
 ## Locations C-F
 
@@ -902,8 +902,8 @@ Generation time: Monday 26/09/2022 18:28:08 BST
 |[CHORLEY-FILTER-BEDS](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/main/DATA/CHORLEY-FILTER-BEDS) [V2]|CHORLEY-FILTER-BEDS.csv|SD604171|53.649|-2.599|430|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=53.649&lon=-2.599&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/53.649,-2.599,16)  |
 |[CHORLEY-WITHNELL-HALL](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/main/DATA/CHORLEY-WITHNELL-HALL) [V2]|CHORLEY-WITHNELL-HALL.csv|SD621231|53.703|-2.576|545|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=53.703&lon=-2.576&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/53.703,-2.576,16)  |
 |[CHORLEY-WOOD-BERRY-LANE](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/main/DATA/CHORLEY-WOOD-BERRY-LANE) [V2]|CHORLEY-WOOD-BERRY-LANE.csv|TQ035955|51.649|-0.505|230|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=51.649&lon=-0.505&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/51.649,-0.505,16)  |
+|[CHORLTON-CUM-HARDY](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/CHORLTON-CUM-HARDY)|CHORLTON-CUM-HARDY.csv|SJ807931|53.434|-2.292|76|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=53.434&lon=-2.292&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/53.434,-2.292,16)  |
 |[CHORLTON-CUM-HARDY-SEWAGE-WORKS](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/CHORLTON-CUM-HARDY-SEWAGE-WORKS)|CHORLTON-CUM-HARDY-SEWAGE-WORKS.csv|SJ807931|53.434|-2.292|76|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=53.434&lon=-2.292&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/53.434,-2.292,16)  |
-||CHORLTON-CUM-HARDY-SEWAGE-WORKS-2.csv|SJ807931|53.434|-2.292|76|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=53.434&lon=-2.292&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/53.434,-2.292,16)  |
 |[CHRISTCHURCH](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/main/DATA/CHRISTCHURCH) [V2]|CHRISTCHURCH.csv|SZ154939|50.745|-1.783|12|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=50.745&lon=-1.783&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/50.745,-1.783,16)  |
 |[CHRISTCHURCH-AIR-COMPRESSING-STATION](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/main/DATA/CHRISTCHURCH-AIR-COMPRESSING-STATION) [V2]|CHRISTCHURCH-AIR-COMPRESSING-STATION.csv|SZ157924|50.731|-1.778|4|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=50.731&lon=-1.778&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/50.731,-1.778,16)  |
 |[CHRISTCHURCH-CARBERY](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/CHRISTCHURCH-CARBERY) [V3]|CHRISTCHURCH-CARBERY.csv|SZ137917|50.725|-1.807|98|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=50.725&lon=-1.807&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/50.725,-1.807,16)  |
@@ -2427,7 +2427,6 @@ Generation time: Monday 26/09/2022 18:28:08 BST
 ||DUNBLANE-MIX-5.csv|NN776011|56.187|-3.974|230|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=56.187&lon=-3.974&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/56.187,-3.974,16)  |
 |[DUNBOYNE-STIRLING-CLONEE](https://github.com/ed-hawkins/rainfall-rescue-data-eire/tree/main/DATA/DUNBOYNE-STIRLING-CLONEE) [EIRE]|||||||
 |[DUNCANSBY-HEAD](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/DUNCANSBY-HEAD)|DUNCANSBY-HEAD.csv|ND406734|58.644|-3.025|196|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=58.644&lon=-3.025&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/58.644,-3.025,16)  |
-|[DUNCHURCH-HALL](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/main/DATA/DUNCHURCH-HALL) [V2]|DUNCHURCH-HALL.csv|SP484710|52.335|-1.291|400|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=52.335&lon=-1.291&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/52.335,-1.291,16)  |
 |[DUNDALK-ANNASKEA-RES](https://github.com/ed-hawkins/rainfall-rescue-data-eire/tree/main/DATA/DUNDALK-ANNASKEA-RES) [EIRE]|||||||
 |[DUNDALK-BALLYMACALLET](https://github.com/ed-hawkins/rainfall-rescue-data-eire/tree/main/DATA/DUNDALK-BALLYMACALLET) [EIRE]|||||||
 |[DUNDALK-FARNDREG](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/DUNDALK-FARNDREG)|DUNDALK-FARNDREG.csv|IJ0349007896|54.010|-6.422|90|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=54.010&lon=-6.422&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/54.010,-6.422,16) [OSM](https://www.openstreetmap.org/#map=16/54.010/-6.422) [GGL](https://www.google.co.uk/maps/@54.010,-6.422,16z)|

@@ -1,9 +1,9 @@
-Generation time: Monday 26/09/2022 18:28:07 BST
+Generation time: Monday 26/09/2022 22:12:28 BST
 
 
 [MO-2020] indicates a location which contributed to the [Met Office 2020 UK Climate Report](https://www.metoffice.gov.uk/research/climate/maps-and-data/about/state-of-climate):
 
-6092 **rainfall-rescue/DATA** locations under [https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA):
+6093 **rainfall-rescue/DATA** locations under [https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA):
 
 * [ABBEY-CWMHIR-THE-HALL](https://tinyurl.com/ycyh86uz/ABBEY-CWMHIR-THE-HALL) : 2021-12-07 12:27:36 +0000 
 * [ABBEY-LEIX-BLANDSFORT](https://tinyurl.com/ycyh86uz/ABBEY-LEIX-BLANDSFORT) : 2021-12-07 12:27:36 +0000 
@@ -1310,6 +1310,7 @@ Generation time: Monday 26/09/2022 18:28:07 BST
 * [CHISWICK-RHS](https://tinyurl.com/ycyh86uz/CHISWICK-RHS) : 2021-12-07 12:27:36 +0000 
 * [CHOBHAM-MIX](https://tinyurl.com/ycyh86uz/CHOBHAM-MIX) : 2021-12-07 12:27:36 +0000 
 * [CHORLEY-CROOKE-HALL](https://tinyurl.com/ycyh86uz/CHORLEY-CROOKE-HALL) : 2021-12-07 12:27:36 +0000 
+* [CHORLTON-CUM-HARDY](https://tinyurl.com/ycyh86uz/CHORLTON-CUM-HARDY) :  
 * [CHORLTON-CUM-HARDY-SEWAGE-WORKS](https://tinyurl.com/ycyh86uz/CHORLTON-CUM-HARDY-SEWAGE-WORKS) : 2021-12-07 12:27:36 +0000 
 * [CHRISTCHURCH-HURNBRIDGE](https://tinyurl.com/ycyh86uz/CHRISTCHURCH-HURNBRIDGE) : 2021-12-07 12:27:36 +0000 
 * [CHRISTCHURCH-KENILWORTH](https://tinyurl.com/ycyh86uz/CHRISTCHURCH-KENILWORTH) : 2021-12-07 12:27:36 +0000 
@@ -6393,7 +6394,7 @@ Generation time: Monday 26/09/2022 18:28:07 BST
 * [WEXFORD-RECLAIMED-LANDS](https://github.com/ed-hawkins/rainfall-rescue-data-eire/tree/main/DATA/WEXFORD-RECLAIMED-LANDS) : 2022-02-14 15:02:01 +0000 
 * [WOODPARK-SCARRIFF](https://github.com/ed-hawkins/rainfall-rescue-data-eire/tree/main/DATA/WOODPARK-SCARRIFF) : 2022-03-03 16:20:51 +0000 
 
-5767 **rainfall-rescue-data-v2/DATA** locations under [https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/main/DATA](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/main/DATA):
+5768 **rainfall-rescue-data-v2/DATA** locations under [https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/main/DATA](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/main/DATA):
 
 * [ABBERLEY](https://tinyurl.com/3xfyv3yv/ABBERLEY) : 2021-09-27 13:26:52 +0100 
 * [ABBESS-RODING-RECTORY](https://tinyurl.com/3xfyv3yv/ABBESS-RODING-RECTORY) : 2022-05-17 12:24:05 +0100 
@@ -6648,6 +6649,7 @@ Generation time: Monday 26/09/2022 18:28:07 BST
 * [BACUP-STAKE-BROOK](https://tinyurl.com/3xfyv3yv/BACUP-STAKE-BROOK) : 2021-09-07 17:14:41 +0100 
 * [BADMINTON-PETTY-FRANCE](https://tinyurl.com/3xfyv3yv/BADMINTON-PETTY-FRANCE) : 2021-08-01 17:04:50 +0100 
 * [BAGBOROUGH](https://tinyurl.com/3xfyv3yv/BAGBOROUGH) : 2022-09-03 00:00:00 +0000 
+* [BAGBOROUGH-LITTLECOURT](https://tinyurl.com/3xfyv3yv/BAGBOROUGH-LITTLECOURT) :  
 * [BAGSHOT](https://tinyurl.com/3xfyv3yv/BAGSHOT) : 2022-01-28 22:44:03 +0000 
 * [BAILDON-WEECHER-RES](https://tinyurl.com/3xfyv3yv/BAILDON-WEECHER-RES) : 2022-02-24 15:56:54 +0000 
 * [BAINBRIDGE](https://tinyurl.com/3xfyv3yv/BAINBRIDGE) : 2021-08-01 17:04:50 +0100 
@@ -8069,7 +8071,6 @@ Generation time: Monday 26/09/2022 18:28:07 BST
 * [DUNASKIN-ARDOON](https://tinyurl.com/3xfyv3yv/DUNASKIN-ARDOON) : 2021-11-01 09:23:39 +0000 
 * [DUNBAR-BELHAVEN-HILL](https://tinyurl.com/3xfyv3yv/DUNBAR-BELHAVEN-HILL) : 2022-04-01 17:26:39 +0100 
 * [DUNBLANE-MIX](https://tinyurl.com/3xfyv3yv/DUNBLANE-MIX) : 2022-05-31 22:56:34 +0100 
-* [DUNCHURCH-HALL](https://tinyurl.com/3xfyv3yv/DUNCHURCH-HALL) : 2021-08-31 13:55:37 +0100 
 * [DUNDEE-CLATTO-RES](https://tinyurl.com/3xfyv3yv/DUNDEE-CLATTO-RES) : 2021-08-04 22:32:59 +0100 
 * [DUNDEE-MAYFIELD](https://tinyurl.com/3xfyv3yv/DUNDEE-MAYFIELD) : 2021-11-01 09:23:39 +0000 
 * [DUNFERMLINE](https://tinyurl.com/3xfyv3yv/DUNFERMLINE) : 2021-11-01 09:23:39 +0000 
@@ -10849,6 +10850,7 @@ Generation time: Monday 26/09/2022 18:28:07 BST
 * [RUDGEWAY-LOWER-HAZEL](https://tinyurl.com/3xfyv3yv/RUDGEWAY-LOWER-HAZEL) : 2022-03-17 20:40:25 +0000 
 * [RUGBY-AVON-WW](https://tinyurl.com/3xfyv3yv/RUGBY-AVON-WW) : 2021-08-31 13:55:37 +0100 
 * [RUGBY-BRAUNSTON-RECTORY](https://tinyurl.com/3xfyv3yv/RUGBY-BRAUNSTON-RECTORY) : 2021-12-15 12:45:43 +0000 
+* [RUGBY-DUNCHURCH-HALL](https://tinyurl.com/3xfyv3yv/RUGBY-DUNCHURCH-HALL) :  
 * [RUGBY-KILSBY-VICARAGE](https://tinyurl.com/3xfyv3yv/RUGBY-KILSBY-VICARAGE) : 2021-12-15 12:45:43 +0000 
 * [RUGELEY-LONGDON-LODGE](https://tinyurl.com/3xfyv3yv/RUGELEY-LONGDON-LODGE) : 2022-04-01 17:26:39 +0100 
 * [RUGELEY-NETHERMOOR](https://tinyurl.com/3xfyv3yv/RUGELEY-NETHERMOOR) : 2022-03-29 23:43:15 +0100 

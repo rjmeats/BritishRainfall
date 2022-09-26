@@ -1,4 +1,4 @@
-Generation time: Monday 26/09/2022 18:28:08 BST
+Generation time: Monday 26/09/2022 22:12:29 BST
 
 ## Locations P-T
 
@@ -1309,6 +1309,7 @@ Generation time: Monday 26/09/2022 18:28:08 BST
 ||RUGBY-BILTON-GRANGE-2.csv|SP492717|52.341|-1.279|400|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=52.341&lon=-1.279&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/52.341,-1.279,16)  |
 |[RUGBY-BRAUNSTON-RECTORY](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/main/DATA/RUGBY-BRAUNSTON-RECTORY) [V2]|RUGBY-BRAUNSTON-RECTORY.csv|SP5371166037|52.290|-1.214|385|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=52.290&lon=-1.214&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/52.290,-1.214,16)  |
 |[RUGBY-CLIFTON-ROAD](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/RUGBY-CLIFTON-ROAD) [V3]|RUGBY-CLIFTON-ROAD.csv|SP517753|52.373|-1.242|390|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=52.373&lon=-1.242&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/52.373,-1.242,16)  |
+|[RUGBY-DUNCHURCH-HALL](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/main/DATA/RUGBY-DUNCHURCH-HALL) [V2]|RUGBY-DUNCHURCH-HALL.csv|SP484710|52.335|-1.291|400|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=52.335&lon=-1.291&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/52.335,-1.291,16)  |
 |[RUGBY-DUNCHURCH-HALL](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/RUGBY-DUNCHURCH-HALL) [V3]|||||||
 |[RUGBY-FRANKTON-MANOR](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/RUGBY-FRANKTON-MANOR) [V3]|RUGBY-FRANKTON-MANOR.csv|SP423701|52.327|-1.381|350|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=52.327&lon=-1.381&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/52.327,-1.381,16)  |
 |[RUGBY-KILSBY-VICARAGE](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/main/DATA/RUGBY-KILSBY-VICARAGE) [V2]|RUGBY-KILSBY-VICARAGE.csv|SP565711|52.335|-1.172|450|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=52.335&lon=-1.172&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/52.335,-1.172,16)  |

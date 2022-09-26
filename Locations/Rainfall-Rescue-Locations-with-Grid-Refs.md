@@ -1,4 +1,4 @@
-Generation time: Monday 26/09/2022 18:28:08 BST
+Generation time: Monday 26/09/2022 22:12:29 BST
 
 ## Locations A-B
 
@@ -848,6 +848,7 @@ Generation time: Monday 26/09/2022 18:28:08 BST
 |[BAGATELLE-GREENOCK](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/BAGATELLE-GREENOCK)|BAGATELLE-GREENOCK.csv|NS268774|55.958|-4.775|50|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=55.958&lon=-4.775&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/55.958,-4.775,16)  |
 |[BAGBOROUGH](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/main/DATA/BAGBOROUGH) [V2]|BAGBOROUGH.csv|ST167334|51.094|-3.191|470|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=51.094&lon=-3.191&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/51.094,-3.191,16)  |
 ||BAGBOROUGH-2.csv|ST167334|51.094|-3.191|455|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=51.094&lon=-3.191&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/51.094,-3.191,16)  |
+|[BAGBOROUGH-LITTLECOURT](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/main/DATA/BAGBOROUGH-LITTLECOURT) [V2]|||||||
 |[BAGNALSTOWN-FENAGH-HOUSE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/BAGNALSTOWN-FENAGH-HOUSE)|BAGNALSTOWN-FENAGH-HOUSE.csv|IS7731061369|52.698|-6.857|340|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=52.698&lon=-6.857&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/52.698,-6.857,16) [OSM](https://www.openstreetmap.org/#map=16/52.698/-6.857) [GGL](https://www.google.co.uk/maps/@52.698,-6.857,16z)|
 ||BAGNALSTOWN-FENAGH-HOUSE-2.csv|IS7730061400|52.699|-6.857|340|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=52.699&lon=-6.857&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/52.699,-6.857,16) [OSM](https://www.openstreetmap.org/#map=16/52.699/-6.857) [GGL](https://www.google.co.uk/maps/@52.699,-6.857,16z)|
 |[BAGSHOT](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/main/DATA/BAGSHOT) [V2]|BAGSHOT.csv|SU907626|51.355|-0.699|270|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=51.355&lon=-0.699&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/51.355,-0.699,16)  |
