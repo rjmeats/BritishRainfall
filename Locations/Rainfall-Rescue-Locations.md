@@ -1,4 +1,4 @@
-Generation time: Thursday 29/09/2022 23:13:50 BST
+Generation time: Friday 30/09/2022 20:49:37 BST
 
 
 [MO-2020] indicates a location which contributed to the [Met Office 2020 UK Climate Report](https://www.metoffice.gov.uk/research/climate/maps-and-data/about/state-of-climate):
@@ -12165,7 +12165,7 @@ Generation time: Thursday 29/09/2022 23:13:50 BST
 * [YRFON-BYLCHAU](https://tinyurl.com/3xfyv3yv/YRFON-BYLCHAU) : 2022-03-29 23:43:15 +0100 
 * [YSPYTTY-YSTSWYTH-DOLGROES](https://tinyurl.com/3xfyv3yv/YSPYTTY-YSTSWYTH-DOLGROES) : 2022-05-17 12:24:05 +0100 
 
-2239 **rainfall-rescue-data-v3/DATA** locations under [https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA):
+2240 **rainfall-rescue-data-v3/DATA** locations under [https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA):
 
 * [ABBEY-CWMHIR](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/ABBEY-CWMHIR) : 2022-08-24 21:33:56 +0100 
 * [ABERDARE-ABERNANT-HOUSE](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/ABERDARE-ABERNANT-HOUSE) : 2022-08-07 22:46:21 +0100 
@@ -12965,7 +12965,8 @@ Generation time: Thursday 29/09/2022 23:13:50 BST
 * [GLEN-AFFRIC-LOCH-NA-GOBHLAIG](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/GLEN-AFFRIC-LOCH-NA-GOBHLAIG) : 2022-09-27 17:34:25 +0100 
 * [GLEN-LUSSA-BORDADUBH](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/GLEN-LUSSA-BORDADUBH) : 2022-09-21 18:30:37 +0100 
 * [GLEN-TARKEN](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/GLEN-TARKEN) : 2022-07-30 07:39:40 +0100 
-* [GLENCROE-MIX](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/GLENCROE-MIX) : 2022-09-21 18:30:37 +0100 
+* [GLENCROE-GUITHAS-COTTAGE](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/GLENCROE-GUITHAS-COTTAGE) : 2022-09-30 17:30:28 +0100 
+* [GLENCROE-UPPER](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/GLENCROE-UPPER) : 2022-09-30 17:30:28 +0100 
 * [GLENDARUEL-ORMIDALE](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/GLENDARUEL-ORMIDALE) : 2022-09-21 18:30:37 +0100 
 * [GLENDUROR-FOREST](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/GLENDUROR-FOREST) : 2022-09-21 18:30:37 +0100 
 * [GLENMORISTON-BHLARAIDH](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/GLENMORISTON-BHLARAIDH) : 2022-09-27 17:34:25 +0100 
@@ -13547,7 +13548,7 @@ Generation time: Thursday 29/09/2022 23:13:50 BST
 * [NEATH-MAESMELYN](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/NEATH-MAESMELYN) : 2022-08-07 22:46:21 +0100 
 * [NEATH-MORRISTON](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/NEATH-MORRISTON) : 2022-08-07 22:46:21 +0100 
 * [NETHER-STOWEY-OAKFORD-HOUSE](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/NETHER-STOWEY-OAKFORD-HOUSE) : 2022-08-30 15:18:15 +0100 
-* [NEW-BARNET-CAMLOT](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/NEW-BARNET-CAMLOT) : 2022-09-27 11:45:28 +0100 
+* [NEW-BARNET-CAMLOT](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/NEW-BARNET-CAMLOT) : 2022-09-30 17:30:28 +0100 
 * [NEW-GALLOWAY-HOLM](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/NEW-GALLOWAY-HOLM) : 2022-08-07 22:46:21 +0100 
 * [NEW-MALDEN-DUNBAR-ROAD](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/NEW-MALDEN-DUNBAR-ROAD) : 2022-08-30 15:18:15 +0100 
 * [NEW-MALDEN-EDENFIELD](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/NEW-MALDEN-EDENFIELD) : 2022-08-30 15:18:15 +0100 
@@ -13886,7 +13887,7 @@ Generation time: Thursday 29/09/2022 23:13:50 BST
 * [SHELSLEY-WALSH](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/SHELSLEY-WALSH) : 2022-08-14 13:17:08 +0100 
 * [SHENFIELD-CLIVEDEN](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/SHENFIELD-CLIVEDEN) : 2022-08-07 22:46:21 +0100 
 * [SHEPHERDSWELL-MONTBELIARD](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/SHEPHERDSWELL-MONTBELIARD) : 2022-09-26 17:38:43 +0100 
-* [SHEPPEY-QUEENBOROUGH](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/SHEPPEY-QUEENBOROUGH) : 2022-09-26 17:38:43 +0100 
+* [SHEPPEY-GREENBOROUGH](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/SHEPPEY-GREENBOROUGH) : 2022-09-30 17:30:28 +0100 
 * [SHEPTON-MALLET-GRAMMAR-SCHOOL](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/SHEPTON-MALLET-GRAMMAR-SCHOOL) : 2022-08-09 17:44:55 +0100 
 * [SHERBORNE-WW](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/SHERBORNE-WW) : 2022-08-30 15:18:15 +0100 
 * [SHERWOOD-PUMPING-STATION](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/SHERWOOD-PUMPING-STATION) : 2022-08-07 22:46:21 +0100 

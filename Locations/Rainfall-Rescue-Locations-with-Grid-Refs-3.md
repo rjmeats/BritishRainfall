@@ -1,4 +1,4 @@
-Generation time: Thursday 29/09/2022 23:13:50 BST
+Generation time: Friday 30/09/2022 20:49:37 BST
 
 ## Locations G-J
 
@@ -315,7 +315,8 @@ Generation time: Thursday 29/09/2022 23:13:50 BST
 |[GLENCOE-GDNS](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/GLENCOE-GDNS)|GLENCOE-GDNS.csv|NN105594|56.688|-5.096|100|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=56.688&lon=-5.096&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/56.688,-5.096,16)  |
 ||GLENCOE-GDNS-2.csv|NN102591|56.685|-5.100|20|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=56.685&lon=-5.100&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/56.685,-5.100,16)  |
 ||GLENCOE-GDNS-3.csv|NN105594|56.688|-5.096|85|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=56.688&lon=-5.096&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/56.688,-5.096,16)  |
-|[GLENCROE-MIX](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/GLENCROE-MIX) [V3]|||||||
+|[GLENCROE-GUITHAS-COTTAGE](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/GLENCROE-GUITHAS-COTTAGE) [V3]|||||||
+|[GLENCROE-UPPER](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/GLENCROE-UPPER) [V3]|||||||
 |[GLENDARUEL-ORMIDALE](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/GLENDARUEL-ORMIDALE) [V3]|||||||
 |[GLENDEVON-BACKHILL](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/GLENDEVON-BACKHILL)|GLENDEVON-BACKHILL.csv|NN9115104555|56.221|-3.757|1067|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=56.221&lon=-3.757&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/56.221,-3.757,16)  |
 |[GLENDEVON-BACKHILL-NINE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/GLENDEVON-BACKHILL-NINE)|GLENDEVON-BACKHILL-NINE.csv|NN9115104555|56.221|-3.757|1067|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=56.221&lon=-3.757&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/56.221,-3.757,16)  |
