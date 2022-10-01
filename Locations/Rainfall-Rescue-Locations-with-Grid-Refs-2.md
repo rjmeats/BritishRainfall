@@ -1,4 +1,4 @@
-Generation time: Friday 30/09/2022 20:49:37 BST
+Generation time: Saturday 01/10/2022 20:03:21 BST
 
 ## Locations C-F
 
@@ -1400,6 +1400,7 @@ Generation time: Friday 30/09/2022 20:49:37 BST
 |[COTTINGHAM-WW](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/COTTINGHAM-WW)|COTTINGHAM-WW.csv|TA048342|53.794|-0.411|25|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=53.794&lon=-0.411&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/53.794,-0.411,16)  |
 |[COULIN-PASS](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/main/DATA/COULIN-PASS) [V2]|COULIN-PASS.csv|NH025501|57.498|-5.298|950|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=57.498&lon=-5.298&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/57.498,-5.298,16)  |
 |[COULSDON-COULSDON-RISE](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/COULSDON-COULSDON-RISE) [V3]|||||||
+|[COULSDON-GRANGE](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/COULSDON-GRANGE) [V3]|||||||
 |[COULSDON-MIDDAY-SUN-ALLOTMENTS](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/COULSDON-MIDDAY-SUN-ALLOTMENTS) [V3]|||||||
 |[COULSDON-NETHERNE-MENTAL-HOSPITAL](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/COULSDON-NETHERNE-MENTAL-HOSPITAL) [V3]|||||||
 |[COULSDON-THE-CHASE](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/COULSDON-THE-CHASE) [V3]|||||||
@@ -3242,6 +3243,7 @@ Generation time: Friday 30/09/2022 20:49:37 BST
 |[EWESLEY-STATION-REDPATH](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/main/DATA/EWESLEY-STATION-REDPATH) [V2]|EWESLEY-STATION-REDPATH.csv|NZ004926|55.228|-1.995|850|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=55.228&lon=-1.995&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/55.228,-1.995,16)  |
 |[EWESLEY-STATION-TOD-CRAG](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/main/DATA/EWESLEY-STATION-TOD-CRAG) [V2]|EWESLEY-STATION-TOD-CRAG.csv|NY985941|55.241|-2.025|1000|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=55.241&lon=-2.025&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/55.241,-2.025,16)  |
 |[EWHURST-CONEYHURST](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/EWHURST-CONEYHURST)|EWHURST-CONEYHURST.csv|TQ081420|51.167|-0.455|561|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=51.167&lon=-0.455&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/51.167,-0.455,16)  |
+|[EWHURST-COPSE-HILL](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/EWHURST-COPSE-HILL) [V3]|||||||
 |[EWHURST-DOWNHURST-LODGE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/EWHURST-DOWNHURST-LODGE)|EWHURST-DOWNHURST-LODGE.csv|TQ092408|51.156|-0.440|350|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=51.156&lon=-0.440&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/51.156,-0.440,16)  |
 |[EWHURST-GARLANDS](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/EWHURST-GARLANDS)|EWHURST-GARLANDS.csv|TQ090405|51.153|-0.443|360|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=51.153&lon=-0.443&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/51.153,-0.443,16)  |
 |[EWHURST-HEATHSIDE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/EWHURST-HEATHSIDE)|EWHURST-HEATHSIDE.csv|TQ084422|51.169|-0.451|600|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=51.169&lon=-0.451&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/51.169,-0.451,16)  |
