@@ -1,4 +1,4 @@
-Generation time: Monday 03/10/2022 14:52:12 BST
+Generation time: Wednesday 05/10/2022 22:53:13 BST
 
 ## Locations E-F
 
@@ -715,6 +715,7 @@ Generation time: Monday 03/10/2022 14:52:12 BST
 |[FAIRHOLMES-NURSERY](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/FAIRHOLMES-NURSERY)|FAIRHOLMES-NURSERY.csv|SK175893|53.400|-1.738|790|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=53.400&lon=-1.738&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/53.400,-1.738,16)  |
 ||FAIRHOLMES-NURSERY-2.csv|SK173893|53.400|-1.741|685|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=53.400&lon=-1.741&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/53.400,-1.741,16)  |
 |[FAIRLEY-KNOWE](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/main/DATA/FAIRLEY-KNOWE) [V2]|FAIRLEY-KNOWE.csv|NT154566|55.795|-3.351|1135|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=55.795&lon=-3.351&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/55.795,-3.351,16)  |
+|[FAIRLIE-SOUTHANNAN](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/FAIRLIE-SOUTHANNAN) [V3]|||||||
 |[FAIRLIE-WW](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/main/DATA/FAIRLIE-WW) [V2]|FAIRLIE-WW.csv|NS214555|55.760|-4.848|270|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=55.760&lon=-4.848&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/55.760,-4.848,16)  |
 |[FAIRLIGHT](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/FAIRLIGHT)|FAIRLIGHT.csv|TQ842116|50.875|0.617|490|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=50.875&lon=0.617&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/50.875,0.617,16)  |
 |[FAIRMILEHEAD-FROGSTON-ROAD](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/main/DATA/FAIRMILEHEAD-FROGSTON-ROAD) [V2]|FAIRMILEHEAD-FROGSTON-ROAD.csv|NT252681|55.900|-3.198|600|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=55.900&lon=-3.198&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/55.900,-3.198,16)  |
