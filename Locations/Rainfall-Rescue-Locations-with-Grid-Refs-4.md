@@ -1,4 +1,4 @@
-Generation time: Wednesday 05/10/2022 22:53:13 BST
+Generation time: Thursday 06/10/2022 20:48:27 BST
 
 ## Locations G-J
 
@@ -299,6 +299,7 @@ Generation time: Wednesday 05/10/2022 22:53:13 BST
 |[GLEN-PROSEN-BALNABOTH-GDNS](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/GLEN-PROSEN-BALNABOTH-GDNS)|GLEN-PROSEN-BALNABOTH-GDNS.csv|NO314669|56.789|-3.124|975|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=56.789&lon=-3.124&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/56.789,-3.124,16)  |
 |[GLEN-PROSEN-LEDNATHIE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/GLEN-PROSEN-LEDNATHIE)|GLEN-PROSEN-LEDNATHIE.csv|NO365594|56.722|-3.038|600|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=56.722&lon=-3.038&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/56.722,-3.038,16)  |
 |[GLEN-QUOICH-ALLTBEITHE](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/main/DATA/GLEN-QUOICH-ALLTBEITHE) [V2]|GLEN-QUOICH-ALLTBEITHE.csv|NH021072|57.113|-5.270|760|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=57.113&lon=-5.270&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/57.113,-5.270,16)  |
+|[GLEN-SHIRA-DRIMLIE](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/GLEN-SHIRA-DRIMLIE) [V3]|||||||
 |[GLEN-SPEAN-CRAIGBEG](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/GLEN-SPEAN-CRAIGBEG)|GLEN-SPEAN-CRAIGBEG.csv|NN406817|56.899|-4.619|860|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=56.899&lon=-4.619&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/56.899,-4.619,16)  |
 |[GLEN-SPEY-MEALGARVE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/GLEN-SPEY-MEALGARVE)|GLEN-SPEY-MEALGARVE.csv|NN463959|57.029|-4.534|1135|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=57.029&lon=-4.534&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/57.029,-4.534,16)  |
 |[GLEN-STRATHFARRER](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/GLEN-STRATHFARRER)|GLEN-STRATHFARRER.csv|NH233386|57.403|-4.942|461|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=57.403&lon=-4.942&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/57.403,-4.942,16)  |
@@ -396,6 +397,7 @@ Generation time: Wednesday 05/10/2022 22:53:13 BST
 |[GLENOGIL-WW](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/GLENOGIL-WW)|GLENOGIL-WW.csv|NO445625|56.751|-2.909|690|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=56.751&lon=-2.909&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/56.751,-2.909,16)  |
 ||GLENOGIL-WW-2.csv|NO445625|56.751|-2.909|690|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=56.751&lon=-2.909&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/56.751,-2.909,16)  |
 ||GLENOGIL-WW-3.csv|NO445625|56.751|-2.909|690|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=56.751&lon=-2.909&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/56.751,-2.909,16)  |
+|[GLENORCHY-AIRIDH-CASTULUAICH](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/GLENORCHY-AIRIDH-CASTULUAICH) [V3]|||||||
 |[GLENQUOICH](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/GLENQUOICH)|GLENQUOICH.csv|NH028030|57.076|-5.255|569|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=57.076&lon=-5.255&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/57.076,-5.255,16)  |
 ||GLENQUOICH-2.csv|NH028030|57.076|-5.255|672|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=57.076&lon=-5.255&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/57.076,-5.255,16)  |
 |[GLENRATH-MANOR](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/main/DATA/GLENRATH-MANOR) [V2]|GLENRATH-MANOR.csv|NT208338|55.591|-3.258|764|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=55.591&lon=-3.258&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/55.591,-3.258,16)  |
@@ -983,6 +985,7 @@ Generation time: Wednesday 05/10/2022 22:53:13 BST
 |[HALWIN-COUNCIL-SCHOOL](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/HALWIN-COUNCIL-SCHOOL) [V3]|HALWIN-COUNCIL-SCHOOL.csv|SW702339|50.161|-5.218|540|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=50.161&lon=-5.218&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/50.161,-5.218,16)  |
 |[HAMBLEDEN-HATCHMANS](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/main/DATA/HAMBLEDEN-HATCHMANS) [V2]|HAMBLEDEN-HATCHMANS.csv|SU7801888081|51.586|-0.875|185|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=51.586&lon=-0.875&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/51.586,-0.875,16)  |
 |[HAMBLEDEN-LOCK](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/HAMBLEDEN-LOCK)|HAMBLEDEN-LOCK.csv|SU781852|51.560|-0.875|105|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=51.560&lon=-0.875&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/51.560,-0.875,16)  |
+|[HAMBLEDON-CHART-COTTAGE](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/HAMBLEDON-CHART-COTTAGE) [V3]|||||||
 |[HAMBLEDON-MATTERYES](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/HAMBLEDON-MATTERYES) [V3]|||||||
 |[HAMBLEDON-ROSECROFT](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/main/DATA/HAMBLEDON-ROSECROFT) [V2]|HAMBLEDON-ROSECROFT.csv|SU651152|50.933|-1.074|200|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=50.933&lon=-1.074&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/50.933,-1.074,16)  |
 |[HAMBLEDON-ROSSALL](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/HAMBLEDON-ROSSALL) [V3]|HAMBLEDON-ROSSALL.csv|SU958377|51.131|-0.632|250|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=51.131&lon=-0.632&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/51.131,-0.632,16)  |
@@ -2196,6 +2199,7 @@ Generation time: Wednesday 05/10/2022 22:53:13 BST
 |[INVER-GLEBE](https://github.com/ed-hawkins/rainfall-rescue-data-eire/tree/main/DATA/INVER-GLEBE) [EIRE]|||||||
 |[INVERARAY-CASTLE-GDNS](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/INVERARAY-CASTLE-GDNS)|INVERARAY-CASTLE-GDNS.csv|NN089099|56.243|-5.086|40|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=56.243&lon=-5.086&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/56.243,-5.086,16)  |
 |[INVERARAY-NEWTOWN](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/main/DATA/INVERARAY-NEWTOWN) [V2]|INVERARAY-NEWTOWN.csv|NN093079|56.225|-5.078|17|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=56.225&lon=-5.078&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/56.225,-5.078,16)  |
+|[INVERARAY-STRONSHIRA](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/INVERARAY-STRONSHIRA) [V3]|||||||
 |[INVERARY-GLENARAY](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/INVERARY-GLENARAY) [V3]|||||||
 |[INVERASDALE-MIDTOWN](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/main/DATA/INVERASDALE-MIDTOWN) [V2]|INVERASDALE-MIDTOWN.csv|NG821866|57.816|-5.670|40|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=57.816&lon=-5.670&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/57.816,-5.670,16)  |
 |[INVERBERVIE-BERVIE-SCHOOL](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/INVERBERVIE-BERVIE-SCHOOL) [V3]|||||||

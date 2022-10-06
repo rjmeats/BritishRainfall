@@ -1,4 +1,4 @@
-Generation time: Wednesday 05/10/2022 22:53:13 BST
+Generation time: Thursday 06/10/2022 20:48:27 BST
 
 ## Locations S-T
 
@@ -1489,6 +1489,7 @@ Generation time: Wednesday 05/10/2022 22:53:13 BST
 |[STRATTON-WEEK-ST-MARY](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/STRATTON-WEEK-ST-MARY) [V3]|STRATTON-WEEK-ST-MARY.csv|SX237974|50.749|-4.500|510|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=50.749&lon=-4.500&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/50.749,-4.500,16)  |
 |[STREAMSTOWN-WINDMILL](https://github.com/ed-hawkins/rainfall-rescue-data-eire/tree/main/DATA/STREAMSTOWN-WINDMILL) [EIRE]|||||||
 |[STREATHAM-CONYERS-ROAD](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/STREATHAM-CONYERS-ROAD)|STREATHAM-CONYERS-ROAD.csv|TQ295710|51.423|-0.139|113|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=51.423&lon=-0.139&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/51.423,-0.139,16)  |
+|[STREATHAM-PARK-PENDLE-ROAD](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/STREATHAM-PARK-PENDLE-ROAD) [V3]|||||||
 |[STREATHAM-WOODFIELD-AVENUE](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/STREATHAM-WOODFIELD-AVENUE) [V3]|||||||
 |[STREATLEY-READING](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/STREATLEY-READING)|STREATLEY-READING.csv|SU594805|51.520|-1.145|150|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=51.520&lon=-1.145&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/51.520,-1.145,16)  |
 |[STREET-LOW-LEVEL-RES](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/main/DATA/STREET-LOW-LEVEL-RES) [V2]|STREET-LOW-LEVEL-RES.csv|ST488363|51.124|-2.733|100|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=51.124&lon=-2.733&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/51.124,-2.733,16)  |
@@ -1518,6 +1519,7 @@ Generation time: Wednesday 05/10/2022 22:53:13 BST
 ||STRONACHLACHAR-INVERGYLE-2.csv|NN402103|56.258|-4.581|376|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=56.258&lon=-4.581&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/56.258,-4.581,16)  |
 |[STRONE-BRIDGE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/STRONE-BRIDGE)|STRONE-BRIDGE.csv|NN454105|56.262|-4.498|380|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=56.262&lon=-4.498&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/56.262,-4.498,16)  |
 ||STRONE-BRIDGE-2.csv|NN454106|56.263|-4.498|380|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=56.263&lon=-4.498&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/56.263,-4.498,16)  |
+|[STRONE-DUNMORE-HOUSE](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/STRONE-DUNMORE-HOUSE) [V3]|||||||
 |[STRONTIAN-LAUDALE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/STRONTIAN-LAUDALE)|STRONTIAN-LAUDALE.csv|NM749598|56.676|-5.675|15|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=56.676&lon=-5.675&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/56.676,-5.675,16)  |
 ||STRONTIAN-LAUDALE-2.csv|NM749598|56.676|-5.675|15|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=56.676&lon=-5.675&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/56.676,-5.675,16)  |
 |[STROOD-HIGH-STREET](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/main/DATA/STROOD-HIGH-STREET) [V2]|STROOD-HIGH-STREET.csv|TQ737692|51.395|0.495|15|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=51.395&lon=0.495&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/51.395,0.495,16)  |
@@ -1635,6 +1637,7 @@ Generation time: Wednesday 05/10/2022 22:53:13 BST
 |[SUTTON-COLDFIELD-THE-PARK](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/SUTTON-COLDFIELD-THE-PARK)|SUTTON-COLDFIELD-THE-PARK.csv|SP115963|52.564|-1.832|371|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=52.564&lon=-1.832&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/52.564,-1.832,16)  |
 |[SUTTON-COLDHARBOUR](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/SUTTON-COLDHARBOUR) [V3]|SUTTON-COLDHARBOUR.csv|SU971135|50.913|-0.620|340|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=50.913&lon=-0.620&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/50.913,-0.620,16)  |
 |[SUTTON-GRANGE-ROAD](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/SUTTON-GRANGE-ROAD) [V3]|||||||
+|[SUTTON-GREEN-PYLE-HILL](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/SUTTON-GREEN-PYLE-HILL) [V3]|||||||
 |[SUTTON-HALL-TREATMENT-WORKS](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/main/DATA/SUTTON-HALL-TREATMENT-WORKS) [V2]|SUTTON-HALL-TREATMENT-WORKS.csv|SJ371757|53.275|-2.945|125|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=53.275&lon=-2.945&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/53.275,-2.945,16)  |
 |[SUTTON-HIGH-SCHOOL-CHEAM-ROAD](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/SUTTON-HIGH-SCHOOL-CHEAM-ROAD) [V3]|||||||
 |[SUTTON-HURST-COTTAGE](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/SUTTON-HURST-COTTAGE) [V3]|SUTTON-HURST-COTTAGE.csv|SU979152|50.928|-0.608|190|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=50.928&lon=-0.608&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/50.928,-0.608,16)  |
@@ -1880,6 +1883,7 @@ Generation time: Wednesday 05/10/2022 22:53:13 BST
 ||TAXAL-OLDFIELD-2.csv|SK012777|53.296|-1.983|860|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=53.296&lon=-1.983&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/53.296,-1.983,16)  |
 |[TAYLORS-GILL](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/TAYLORS-GILL)|TAYLORS-GILL.csv|NY228109|54.488|-3.192|1077|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=54.488&lon=-3.192&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/54.488,-3.192,16)  |
 |[TAYMOUTH-PERTH](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/TAYMOUTH-PERTH)|TAYMOUTH-PERTH.csv|NN785465|56.595|-3.981|370|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=56.595&lon=-3.981&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/56.595,-3.981,16)  |
+|[TAYNUILT-BARGUILEAN](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/TAYNUILT-BARGUILEAN) [V3]|||||||
 |[TAYPORT-LIGHTHOUSE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/TAYPORT-LIGHTHOUSE)|TAYPORT-LIGHTHOUSE.csv|NO450293|56.453|-2.894|27|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=56.453&lon=-2.894&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/56.453,-2.894,16)  |
 |[TEBAY](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/main/DATA/TEBAY) [V2]|TEBAY.csv|NY616044|54.434|-2.593|666|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=54.434&lon=-2.593&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/54.434,-2.593,16)  |
 |[TEDBURN-ST-MARY-RECTORY](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/main/DATA/TEDBURN-ST-MARY-RECTORY) [V2]|TEDBURN-ST-MARY-RECTORY.csv|SX807944|50.737|-3.692|370|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=50.737&lon=-3.692&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/50.737,-3.692,16)  |

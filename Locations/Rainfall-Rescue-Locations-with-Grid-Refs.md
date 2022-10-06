@@ -1,4 +1,4 @@
-Generation time: Wednesday 05/10/2022 22:53:12 BST
+Generation time: Thursday 06/10/2022 20:48:26 BST
 
 ## Locations A-B
 
@@ -549,6 +549,7 @@ Generation time: Wednesday 05/10/2022 22:53:12 BST
 |[ARDEE-LISRENNY](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/ARDEE-LISRENNY)|ARDEE-LISRENNY.csv|IN9559295463|53.900|-6.546|75|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=53.900&lon=-6.546&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/53.900,-6.546,16) [OSM](https://www.openstreetmap.org/#map=16/53.900/-6.546) [GGL](https://www.google.co.uk/maps/@53.900,-6.546,16z)|
 |[ARDELEY-BURY](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/main/DATA/ARDELEY-BURY) [V2]|ARDELEY-BURY.csv|TL300270|51.926|-0.111|356|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=51.926&lon=-0.111&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/51.926,-0.111,16)  |
 |[ARDENCAPLE-ROW-DUMBARTON](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/ARDENCAPLE-ROW-DUMBARTON)|ARDENCAPLE-ROW-DUMBARTON.csv|NS282831|56.010|-4.757|32|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=56.010&lon=-4.757&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/56.010,-4.757,16)  |
+|[ARDFERN-CRAIGNISH-CASTLE](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/ARDFERN-CRAIGNISH-CASTLE) [V3]|||||||
 |[ARDGAY-BRAELANGWELL-LODGE](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/main/DATA/ARDGAY-BRAELANGWELL-LODGE) [V2]|ARDGAY-BRAELANGWELL-LODGE.csv|NH5178192732|57.899|-4.502|180|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=57.899&lon=-4.502&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/57.899,-4.502,16)  |
 |[ARDGAY-GLEDFIELD-HOUSE-GARDENS](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/main/DATA/ARDGAY-GLEDFIELD-HOUSE-GARDENS) [V2]|ARDGAY-GLEDFIELD-HOUSE-GARDENS.csv|NH5804690561|57.882|-4.396|130|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=57.882&lon=-4.396&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/57.882,-4.396,16)  |
 |[ARDGOUR-HOUSE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/ARDGOUR-HOUSE)|ARDGOUR-HOUSE.csv|NM994639|56.724|-5.280|60|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=56.724&lon=-5.280&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/56.724,-5.280,16)  |
@@ -559,6 +560,7 @@ Generation time: Wednesday 05/10/2022 22:53:12 BST
 |[ARDINGLY-LYWOOD-HOUSE](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/main/DATA/ARDINGLY-LYWOOD-HOUSE) [V2]|ARDINGLY-LYWOOD-HOUSE.csv|TQ3539128515|51.040|-0.070|240|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=51.040&lon=-0.070&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/51.040,-0.070,16)  |
 |[ARDINGLY-SHELL-BROOK-WW](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/main/DATA/ARDINGLY-SHELL-BROOK-WW) [V2]|ARDINGLY-SHELL-BROOK-WW.csv|TQ334284|51.039|-0.099|127|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=51.039&lon=-0.099&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/51.039,-0.099,16)  |
 |[ARDKINGLAS](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/ARDKINGLAS)|ARDKINGLAS.csv|NN175104|56.251|-4.947|37|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=56.251&lon=-4.947&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/56.251,-4.947,16)  |
+|[ARDLAMONT-CAMP-COTTAGE](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/ARDLAMONT-CAMP-COTTAGE) [V3]|||||||
 |[ARDLAMONT-KILBRIDE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/ARDLAMONT-KILBRIDE)|ARDLAMONT-KILBRIDE.csv|NR960682|55.864|-5.262|110|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=55.864&lon=-5.262&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/55.864,-5.262,16)  |
 |[ARDLEIGH-HULL-FARM](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/main/DATA/ARDLEIGH-HULL-FARM) [V2]|ARDLEIGH-HULL-FARM.csv|TM043276|51.909|0.969|120|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=51.909&lon=0.969&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/51.909,0.969,16)  |
 |[ARDLEIGH-HUNGERDOWNS](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/ARDLEIGH-HUNGERDOWNS) [V3]|||||||
