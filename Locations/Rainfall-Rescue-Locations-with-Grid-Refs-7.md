@@ -1,4 +1,4 @@
-Generation time: Thursday 06/10/2022 20:48:27 BST
+Generation time: Friday 07/10/2022 22:52:59 BST
 
 ## Locations P-R
 
@@ -416,6 +416,8 @@ Generation time: Thursday 06/10/2022 20:48:27 BST
 ||PINNER-HILLCREST-AVENUE-2.csv|TQ117893|51.591|-0.389|170|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=51.591&lon=-0.389&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/51.591,-0.389,16)  |
 |[PINNER-NEW-CEMETERY](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/main/DATA/PINNER-NEW-CEMETERY) [V2]|PINNER-NEW-CEMETERY.csv|TQ130893|51.591|-0.370|200|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=51.591&lon=-0.370&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/51.591,-0.370,16)  |
 |[PINVIN-THE-NURSERIES](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/PINVIN-THE-NURSERIES) [V3]|||||||
+|[PINWHERRY-ALTICANE](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/PINWHERRY-ALTICANE) [V3]|||||||
+|[PINWHERRY-DALJARROCK](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/PINWHERRY-DALJARROCK) [V3]|||||||
 |[PIRBRIGHT-BAKERSGATE](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/main/DATA/PIRBRIGHT-BAKERSGATE) [V2]|PIRBRIGHT-BAKERSGATE.csv|SU951544|51.281|-0.637|120|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=51.281&lon=-0.637&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/51.281,-0.637,16)  |
 |[PIRBRIGHT-CAMP](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/PIRBRIGHT-CAMP) [V3]|||||||
 |[PIRBRIGHT-RESEARCH-INSTITUTE](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/main/DATA/PIRBRIGHT-RESEARCH-INSTITUTE) [V2]|PIRBRIGHT-RESEARCH-INSTITUTE.csv|SU953541|51.279|-0.634|120|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=51.279&lon=-0.634&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/51.279,-0.634,16)  |

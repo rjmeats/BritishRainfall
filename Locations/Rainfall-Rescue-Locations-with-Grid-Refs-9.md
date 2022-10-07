@@ -1,4 +1,4 @@
-Generation time: Thursday 06/10/2022 20:48:27 BST
+Generation time: Friday 07/10/2022 22:52:59 BST
 
 ## Locations U-Z
 
@@ -569,6 +569,7 @@ Generation time: Thursday 06/10/2022 20:48:27 BST
 ||WEM-SENIOR-SCHOOLS-2.csv|SJ508293|52.859|-2.732|265|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=52.859&lon=-2.732&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/52.859,-2.732,16)  |
 |[WEM-THE-RECTORY](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/main/DATA/WEM-THE-RECTORY) [V2]|WEM-THE-RECTORY.csv|SJ507290|52.856|-2.734|270|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=52.856&lon=-2.734&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/52.856,-2.734,16)  |
 |[WEMBLEY-TOWN-HALL](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/WEMBLEY-TOWN-HALL) [V3]|WEMBLEY-TOWN-HALL.csv|TQ197867|51.566|-0.274|187|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=51.566&lon=-0.274&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/51.566,-0.274,16)  |
+|[WEMYSS-BAY-ASHCRAIG](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/WEMYSS-BAY-ASHCRAIG) [V3]|||||||
 |[WENDLING-ASTRANTIA](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/main/DATA/WENDLING-ASTRANTIA) [V2]|WENDLING-ASTRANTIA.csv|TF929128|52.679|0.852|170|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=52.679&lon=0.852&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/52.679,0.852,16)  |
 |[WENDOVER](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/WENDOVER)|WENDOVER.csv|SP871072|51.757|-0.739|432|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=51.757&lon=-0.739&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/51.757,-0.739,16)  |
 |[WENDOVER-DOBBINS-LANE](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/main/DATA/WENDOVER-DOBBINS-LANE) [V2]|WENDOVER-DOBBINS-LANE.csv|SP861082|51.766|-0.754|402|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=51.766&lon=-0.754&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/51.766,-0.754,16)  |
@@ -647,6 +648,7 @@ Generation time: Thursday 06/10/2022 20:48:27 BST
 ||WEST-KILBRIDE-CROSBIE-RES-2.csv|NS218507|55.717|-4.838|373|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=55.717&lon=-4.838&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/55.717,-4.838,16)  |
 |[WEST-KILBRIDE-HUNTERSTON](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/main/DATA/WEST-KILBRIDE-HUNTERSTON) [V2]|WEST-KILBRIDE-HUNTERSTON.csv|NS192517|55.725|-4.880|40|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=55.725&lon=-4.880&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/55.725,-4.880,16)  |
 ||WEST-KILBRIDE-HUNTERSTON-2.csv|NS184513|55.721|-4.893|27|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=55.721&lon=-4.893&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/55.721,-4.893,16)  |
+|[WEST-KILBRIDE-SCHOOL](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/WEST-KILBRIDE-SCHOOL) [V3]|||||||
 |[WEST-KIRBY-DEESIDE-NURSERY](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/WEST-KIRBY-DEESIDE-NURSERY) [V3]|WEST-KIRBY-DEESIDE-NURSERY.csv|SJ218863|53.368|-3.177|45|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=53.368&lon=-3.177&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/53.368,-3.177,16)  |
 |[WEST-KIRBY-HILBRE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/WEST-KIRBY-HILBRE)|WEST-KIRBY-HILBRE.csv|SJ217858|53.363|-3.178|25|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=53.363&lon=-3.178&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/53.363,-3.178,16)  |
 ||WEST-KIRBY-HILBRE-2.csv|SJ216861|53.366|-3.180|30|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=53.366&lon=-3.180&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/53.366,-3.180,16)  |
