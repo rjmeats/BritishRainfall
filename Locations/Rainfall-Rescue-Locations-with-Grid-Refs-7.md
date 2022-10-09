@@ -1,4 +1,4 @@
-Generation time: Friday 07/10/2022 22:52:59 BST
+Generation time: Sunday 09/10/2022 21:31:57 BST
 
 ## Locations P-R
 
@@ -695,6 +695,7 @@ Generation time: Friday 07/10/2022 22:52:59 BST
 ||PURFLEET-2.csv|TQ580778|51.477|0.274|50|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=51.477&lon=0.274&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/51.477,0.274,16)  |
 |[PURLEY-GREEN-LANE](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/PURLEY-GREEN-LANE) [V3]|PURLEY-GREEN-LANE.csv|TQ296621|51.344|-0.140|341|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=51.344&lon=-0.140&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/51.344,-0.140,16)  |
 |[PURLEY-OAKS-DEPOT](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/main/DATA/PURLEY-OAKS-DEPOT) [V2]|PURLEY-OAKS-DEPOT.csv|TQ321622|51.344|-0.104|190|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=51.344&lon=-0.104&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/51.344,-0.104,16)  |
+|[PURLEY-PAMPISFORD-ROAD](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/PURLEY-PAMPISFORD-ROAD) [V3]|||||||
 |[PURLEY-PUMPING-STATION](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/PURLEY-PUMPING-STATION)|PURLEY-PUMPING-STATION.csv|TQ312614|51.337|-0.118|214|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=51.337&lon=-0.118&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/51.337,-0.118,16)  |
 |[PURLEY-RIDDLESDOWN-ROAD](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/main/DATA/PURLEY-RIDDLESDOWN-ROAD) [V2]|PURLEY-RIDDLESDOWN-ROAD.csv|TQ320614|51.336|-0.106|365|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=51.336&lon=-0.106&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/51.336,-0.106,16)  |
 ||PURLEY-RIDDLESDOWN-ROAD-2.csv|TQ320614|51.336|-0.106|365|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=51.336&lon=-0.106&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/51.336,-0.106,16)  |
@@ -829,6 +830,7 @@ Generation time: Friday 07/10/2022 22:52:59 BST
 |[RAYNERS-LANE-HIGH-WORPLE](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/RAYNERS-LANE-HIGH-WORPLE) [V3]|RAYNERS-LANE-HIGH-WORPLE.csv|TQ127875|51.575|-0.375|153|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=51.575&lon=-0.375&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/51.575,-0.375,16)  |
 |[RAYNES-PARK-RICHMOND-ROAD](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/RAYNES-PARK-RICHMOND-ROAD) [V3]|||||||
 |[RAYNES-PARK-SCHOOL](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/RAYNES-PARK-SCHOOL) [V3]|||||||
+|[RAYNES-PARK-WEST-BARNES-PUMPING-STATION](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/RAYNES-PARK-WEST-BARNES-PUMPING-STATION) [V3]|||||||
 |[READING](https://github.com/ed-hawkins/rainfall-rescue/tree/master/COMPOSITE-SERIES/READING) [COMP]|CAVERSHAM-ST-PETERS-HILL-2.csv|SU706752|51.471|-0.985|200|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=51.471&lon=-0.985&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/51.471,-0.985,16)  |
 ||CAVERSHAM-ST-PETERS-HILL.csv|SU707751|51.470|-0.984|220|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=51.470&lon=-0.984&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/51.470,-0.984,16)  |
 ||READING-ATHENAEUM.csv|SU714735|51.457|-0.973|143|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=51.457&lon=-0.973&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/51.457,-0.973,16)  |
@@ -1017,6 +1019,7 @@ Generation time: Friday 07/10/2022 22:52:59 BST
 ||RHONDDA-WW-LLYN-FAWR-RES-2.csv|SN918033|51.718|-3.568|1220|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=51.718&lon=-3.568&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/51.718,-3.568,16)  |
 |[RHOOSE-AIRFIELD](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/main/DATA/RHOOSE-AIRFIELD) [V2]|RHOOSE-AIRFIELD.csv|ST060670|51.394|-3.352|220|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=51.394&lon=-3.352&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/51.394,-3.352,16)  |
 |[RHUBINA-RES](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/RHUBINA-RES)|RHUBINA-RES.csv|ST150824|51.534|-3.227|336|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=51.534&lon=-3.227&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/51.534,-3.227,16)  |
+|[RHUM-ARD-NEV](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/RHUM-ARD-NEV) [V3]|||||||
 |[RHUM-HARRIS](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/main/DATA/RHUM-HARRIS) [V2]|RHUM-HARRIS.csv|NM337958|56.976|-6.384|70|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=56.976&lon=-6.384&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/56.976,-6.384,16)  |
 |[RHUM-KILMORY](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/main/DATA/RHUM-KILMORY) [V2]|RHUM-KILMORY.csv|NG3586503920|57.050|-6.357|70|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=57.050&lon=-6.357&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/57.050,-6.357,16)  |
 |[RHUM-KINLOCH-CASTLE](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/main/DATA/RHUM-KINLOCH-CASTLE) [V2]|RHUM-KINLOCH-CASTLE.csv|NM402996|57.014|-6.281|10|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=57.014&lon=-6.281&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/57.014,-6.281,16)  |
@@ -1273,6 +1276,7 @@ Generation time: Friday 07/10/2022 22:52:59 BST
 ||ROTHESAY-MIX-2.csv|NS095650|55.841|-5.043|95|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=55.841&lon=-5.043&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/55.841,-5.043,16)  |
 ||ROTHESAY-MIX-3.csv|NS106649|55.840|-5.026|200|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=55.840&lon=-5.026&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/55.840,-5.026,16)  |
 |[ROTHIEMAY](https://github.com/ed-hawkins/rainfall-rescue/tree/master/POOR-LOCATIONS/ROTHIEMAY) [POOR]|||||||
+|[ROTHIEMURCHUS-THE-POLCHAR](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/ROTHIEMURCHUS-THE-POLCHAR) [V3]|||||||
 |[ROTHLEY-BURTON](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/ROTHLEY-BURTON) [V3]|ROTHLEY-BURTON.csv|SK586126|52.708|-1.134|165|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=52.708&lon=-1.134&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/52.708,-1.134,16)  |
 |[ROTHLEY-HARWOOD](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/main/DATA/ROTHLEY-HARWOOD) [V2]|ROTHLEY-HARWOOD.csv|NZ001902|55.206|-2.000|770|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=55.206&lon=-2.000&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/55.206,-2.000,16)  |
 |[ROTHLEY-WEST-LAWN](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/ROTHLEY-WEST-LAWN) [V3]|ROTHLEY-WEST-LAWN.csv|SK572126|52.708|-1.155|240|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=52.708&lon=-1.155&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/52.708,-1.155,16)  |
