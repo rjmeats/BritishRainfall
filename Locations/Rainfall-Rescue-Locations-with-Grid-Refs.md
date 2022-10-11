@@ -1,4 +1,4 @@
-Generation time: Sunday 09/10/2022 21:31:57 BST
+Generation time: Tuesday 11/10/2022 11:53:30 BST
 
 ## Locations A-B
 
@@ -1222,6 +1222,7 @@ Generation time: Sunday 09/10/2022 21:31:57 BST
 |[BATH-ROYAL-INSTITUTION](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/BATH-ROYAL-INSTITUTION)|BATH-ROYAL-INSTITUTION.csv|ST752647|51.381|-2.358|75|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=51.381&lon=-2.358&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/51.381,-2.358,16)  |
 |[BATH-SOMERSET-PLACE](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/BATH-SOMERSET-PLACE) [V3]|BATH-SOMERSET-PLACE.csv|ST744661|51.393|-2.369|350|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=51.393&lon=-2.369&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/51.393,-2.369,16)  |
 |[BATH-SOUTHSTOKE-ROAD](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/main/DATA/BATH-SOUTHSTOKE-ROAD) [V2]|BATH-SOUTHSTOKE-ROAD.csv|ST748618|51.355|-2.363|525|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=51.355&lon=-2.363&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/51.355,-2.363,16)  |
+|[BATH-THE-PARAGON](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/BATH-THE-PARAGON) [V3]|||||||
 |[BATH-WESTON](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/BATH-WESTON)|BATH-WESTON.csv|ST721670|51.401|-2.402|205|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=51.401&lon=-2.402&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/51.401,-2.402,16)  |
 |[BATHEASTON](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/BATHEASTON)|BATHEASTON.csv|ST780680|51.411|-2.318|166|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=51.411&lon=-2.318&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/51.411,-2.318,16)  |
 ||BATHEASTON-2.csv|ST780680|51.411|-2.318|166|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=51.411&lon=-2.318&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/51.411,-2.318,16)  |
@@ -2038,6 +2039,7 @@ Generation time: Sunday 09/10/2022 21:31:57 BST
 |[BOLVENTOR-VICARAGE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/BOLVENTOR-VICARAGE)|BOLVENTOR-VICARAGE.csv|SX180766|50.561|-4.571|845|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=50.561&lon=-4.571&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/50.561,-4.571,16)  |
 |[BONCATH](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/main/DATA/BONCATH) [V2]|BONCATH.csv|SN190372|52.004|-4.638|550|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=52.004&lon=-4.638&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/52.004,-4.638,16)  |
 ||BONCATH-2.csv|SN243385|52.017|-4.562|300|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=52.017&lon=-4.562&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/52.017,-4.562,16)  |
+|[BONCHURCH-THE-LILLIES](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/BONCHURCH-THE-LILLIES) [V3]|||||||
 |[BONESS-GRANGE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/BONESS-GRANGE)|BONESS-GRANGE.csv|NT013813|56.014|-3.585|19|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=56.014&lon=-3.585&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/56.014,-3.585,16)  |
 ||BONESS-GRANGE-2.csv|NT009813|56.014|-3.591|100|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=56.014&lon=-3.591&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/56.014,-3.591,16)  |
 |[BONESS-NEIDPATH-COTTAGE](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/main/DATA/BONESS-NEIDPATH-COTTAGE) [V2]|BONESS-NEIDPATH-COTTAGE.csv|NT002811|56.012|-3.602|200|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=56.012&lon=-3.602&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/56.012,-3.602,16)  |
@@ -2642,6 +2644,7 @@ Generation time: Sunday 09/10/2022 21:31:57 BST
 |[BROOKWOOD-KNAPP-HILL](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/main/DATA/BROOKWOOD-KNAPP-HILL) [V2]|BROOKWOOD-KNAPP-HILL.csv|SU960591|51.323|-0.623|200|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=51.323&lon=-0.623&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/51.323,-0.623,16)  |
 ||BROOKWOOD-KNAPP-HILL-2.csv|SU970593|51.325|-0.608|118|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=51.325&lon=-0.608&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/51.325,-0.608,16)  |
 |[BROOKWOOD-SHEETS-HEATH](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/BROOKWOOD-SHEETS-HEATH) [V3]|||||||
+|[BROOMFIELD-HIGHER-MERRIDGE](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/BROOMFIELD-HIGHER-MERRIDGE) [V3]|||||||
 |[BRORA-UPPAT](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/main/DATA/BRORA-UPPAT) [V2]|BRORA-UPPAT.csv|NC870025|57.997|-3.913|220|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=57.997&lon=-3.913&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/57.997,-3.913,16)  |
 |[BROSELEY-BENTHALL-HALL](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/BROSELEY-BENTHALL-HALL)|BROSELEY-BENTHALL-HALL.csv|SJ658026|52.620|-2.507|630|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=52.620&lon=-2.507&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/52.620,-2.507,16)  |
 |[BROSELEY-BOYS-SCHOOL](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/BROSELEY-BOYS-SCHOOL) [V3]|BROSELEY-BOYS-SCHOOL.csv|SJ674016|52.611|-2.483|485|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=52.611&lon=-2.483&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/52.611,-2.483,16)  |

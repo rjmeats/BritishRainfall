@@ -1,4 +1,4 @@
-Generation time: Sunday 09/10/2022 21:31:57 BST
+Generation time: Tuesday 11/10/2022 11:53:30 BST
 
 ## Locations G-J
 
@@ -2001,6 +2001,7 @@ Generation time: Sunday 09/10/2022 21:31:57 BST
 ||HUDDERSFIELD-OAKES-7.csv|SE113177|53.656|-1.830|775|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=53.656&lon=-1.830&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/53.656,-1.830,16)  |
 |[HUDDERSFIELD-RAVENSKNOWLE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/HUDDERSFIELD-RAVENSKNOWLE)|HUDDERSFIELD-RAVENSKNOWLE.csv|SE163165|53.645|-1.755|325|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=53.645&lon=-1.755&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/53.645,-1.755,16)  |
 |[HUGGATE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/HUGGATE)|HUGGATE.csv|SE882555|53.988|-0.656|490|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=53.988&lon=-0.656&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/53.988,-0.656,16)  |
+|[HUISH-CHAMPFLOWER](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/HUISH-CHAMPFLOWER) [V3]|||||||
 |[HUISH-EPISCOPI-COUNTY-SEC-SCHOOL](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/main/DATA/HUISH-EPISCOPI-COUNTY-SEC-SCHOOL) [V2]|HUISH-EPISCOPI-COUNTY-SEC-SCHOOL.csv|ST421270|51.040|-2.826|52|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=51.040&lon=-2.826&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/51.040,-2.826,16)  |
 ||HUISH-EPISCOPI-COUNTY-SEC-SCHOOL-2.csv|ST428268|51.038|-2.816|65|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=51.038&lon=-2.816&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/51.038,-2.816,16)  |
 |[HULL-BAKER-STREET](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/HULL-BAKER-STREET)|HULL-BAKER-STREET.csv|TA094291|53.747|-0.343|10|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=53.747&lon=-0.343&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/53.747,-0.343,16)  |
