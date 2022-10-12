@@ -1,4 +1,4 @@
-Generation time: Tuesday 11/10/2022 11:53:30 BST
+Generation time: Wednesday 12/10/2022 08:36:34 BST
 
 ## Locations K-M
 
@@ -388,6 +388,7 @@ Generation time: Tuesday 11/10/2022 11:53:30 BST
 |[KINGSCOTE-NURSERY](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/KINGSCOTE-NURSERY) [V3]|KINGSCOTE-NURSERY.csv|TQ367358|51.105|-0.049|300|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=51.105&lon=-0.049&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/51.105,-0.049,16)  |
 |[KINGSKERSWELL-FLUDER](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/KINGSKERSWELL-FLUDER)|KINGSKERSWELL-FLUDER.csv|SX890671|50.494|-3.566|353|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=50.494&lon=-3.566&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/50.494,-3.566,16)  |
 ||KINGSKERSWELL-FLUDER-2.csv|SX886673|50.495|-3.572|270|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=50.495&lon=-3.572&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/50.495,-3.572,16)  |
+|[KINGSLEY-FRUIT-FARM](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/KINGSLEY-FRUIT-FARM) [V3]|||||||
 |[KINGSLEY-SLEAFORD](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/KINGSLEY-SLEAFORD) [V3]|||||||
 |[KINGSTEIGNTON-FIRLEIGH-ROAD](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/main/DATA/KINGSTEIGNTON-FIRLEIGH-ROAD) [V2]|KINGSTEIGNTON-FIRLEIGH-ROAD.csv|SX871743|50.558|-3.595|130|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=50.558&lon=-3.595&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/50.558,-3.595,16)  |
 |[KINGSTEIGNTON-TEIGNBRIDGE-HOUSE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/KINGSTEIGNTON-TEIGNBRIDGE-HOUSE)|KINGSTEIGNTON-TEIGNBRIDGE-HOUSE.csv|SX859735|50.550|-3.612|27|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=50.550&lon=-3.612&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/50.550,-3.612,16)  |
@@ -1185,6 +1186,7 @@ Generation time: Tuesday 11/10/2022 11:53:30 BST
 |[LISMORE-CASTLE](https://github.com/ed-hawkins/rainfall-rescue-data-eire/tree/main/DATA/LISMORE-CASTLE) [EIRE]|||||||
 |[LISMORE-MOUSEDALE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/LISMORE-MOUSEDALE)|LISMORE-MOUSEDALE.csv|NM778351|56.456|-5.608|38|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=56.456&lon=-5.608&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/56.456,-5.608,16)  |
 |[LISS-CLAYTON-COURT](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/main/DATA/LISS-CLAYTON-COURT) [V2]|LISS-CLAYTON-COURT.csv|SU788261|51.029|-0.878|480|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=51.029&lon=-0.878&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/51.029,-0.878,16)  |
+|[LISS-EASTON](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/LISS-EASTON) [V3]|||||||
 |[LISS-EDENSOR](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/LISS-EDENSOR) [V3]|LISS-EDENSOR.csv|SU784289|51.055|-0.882|265|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=51.055&lon=-0.882&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/51.055,-0.882,16)  |
 |[LISS-HAWKLEY-HURST](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/main/DATA/LISS-HAWKLEY-HURST) [V2]|LISS-HAWKLEY-HURST.csv|SU752304|51.068|-0.927|422|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=51.068&lon=-0.927&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/51.068,-0.927,16)  |
 |[LISS-HEATHMOUNT](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/main/DATA/LISS-HEATHMOUNT) [V2]|LISS-HEATHMOUNT.csv|SU798274|51.041|-0.863|490|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=51.041&lon=-0.863&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/51.041,-0.863,16)  |
@@ -1987,6 +1989,7 @@ Generation time: Tuesday 11/10/2022 11:53:30 BST
 ||LYME-REGIS-4.csv|SY338919|50.723|-2.939|100|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=50.723&lon=-2.939&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/50.723,-2.939,16)  |
 |[LYME-REGIS-BOAT-HOUSE](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/LYME-REGIS-BOAT-HOUSE) [V3]|||||||
 |[LYME-REGIS-COLWAY-COTTAGE](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/LYME-REGIS-COLWAY-COTTAGE) [V3]|||||||
+|[LYME-REGIS-EVINGTON](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/LYME-REGIS-EVINGTON) [V3]|||||||
 |[LYME-REGIS-HIGHCLIFF](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/main/DATA/LYME-REGIS-HIGHCLIFF) [V2]|LYME-REGIS-HIGHCLIFF.csv|SY335919|50.723|-2.943|230|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=50.723&lon=-2.943&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/50.723,-2.943,16)  |
 ||LYME-REGIS-HIGHCLIFF-2.csv|SY334920|50.724|-2.944|330|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=50.724&lon=-2.944&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/50.724,-2.944,16)  |
 |[LYME-REGIS-HORN-BRIDGE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/LYME-REGIS-HORN-BRIDGE)|LYME-REGIS-HORN-BRIDGE.csv|SY337927|50.731|-2.940|85|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=50.731&lon=-2.940&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/50.731,-2.940,16)  |
@@ -2067,6 +2070,7 @@ Generation time: Tuesday 11/10/2022 11:53:30 BST
 ||MAIDEN-BRADLEY-3.csv|ST803387|51.147|-2.283|620|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=51.147&lon=-2.283&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/51.147,-2.283,16)  |
 ||MAIDEN-BRADLEY-4.csv|ST803387|51.147|-2.283|620|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=51.147&lon=-2.283&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/51.147,-2.283,16)  |
 |[MAIDEN-NEWTON-CATTISTOCK-LODGE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/MAIDEN-NEWTON-CATTISTOCK-LODGE)|MAIDEN-NEWTON-CATTISTOCK-LODGE.csv|SY592991|50.790|-2.580|350|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=50.790&lon=-2.580&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/50.790,-2.580,16)  |
+|[MAIDEN-NEWTON-CHALMINGTON](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/MAIDEN-NEWTON-CHALMINGTON) [V3]|||||||
 |[MAIDENHALL-STANTON-NOOK](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/main/DATA/MAIDENHALL-STANTON-NOOK) [V2]|MAIDENHALL-STANTON-NOOK.csv|NZ138886|55.191|-1.785|277|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=55.191&lon=-1.785&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/55.191,-1.785,16)  |
 |[MAIDENHEAD-BOULTERS-LOCK](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/MAIDENHEAD-BOULTERS-LOCK)|MAIDENHEAD-BOULTERS-LOCK.csv|SU903824|51.533|-0.700|82|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=51.533&lon=-0.700&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/51.533,-0.700,16)  |
 |[MAIDENHEAD-CASTLE-HILL-HOUSE](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/MAIDENHEAD-CASTLE-HILL-HOUSE) [V3]|MAIDENHEAD-CASTLE-HILL-HOUSE.csv|SU881811|51.522|-0.732|163|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=51.522&lon=-0.732&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/51.522,-0.732,16)  |
@@ -2558,6 +2562,7 @@ Generation time: Tuesday 11/10/2022 11:53:30 BST
 ||MICHAELCHURCH-ESCLEY-3.csv|SO287380|52.036|-3.041|1125|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=52.036&lon=-3.041&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/52.036,-3.041,16)  |
 |[MICHELDEVER-NORTHBROOK](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/MICHELDEVER-NORTHBROOK)|MICHELDEVER-NORTHBROOK.csv|SU509403|51.160|-1.272|270|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=51.160&lon=-1.272&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/51.160,-1.272,16)  |
 |[MICHELDEVER-SCHOOL-HOUSE](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/main/DATA/MICHELDEVER-SCHOOL-HOUSE) [V2]|MICHELDEVER-SCHOOL-HOUSE.csv|SU513391|51.149|-1.267|280|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=51.149&lon=-1.267&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/51.149,-1.267,16)  |
+|[MICHELDEVER-STOKE-CHARITY](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/MICHELDEVER-STOKE-CHARITY) [V3]|||||||
 |[MICKLEDEN](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/MICKLEDEN)|MICKLEDEN.csv|NY266070|54.453|-3.134|490|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=54.453&lon=-3.134&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/54.453,-3.134,16)  |
 |[MICKLEHAM-JUNIPER-HALL](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/MICKLEHAM-JUNIPER-HALL)|MICKLEHAM-JUNIPER-HALL.csv|TQ173526|51.261|-0.320|179|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=51.261&lon=-0.320&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/51.261,-0.320,16)  |
 |[MICKLEHAM-NORBURY-PARK](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/MICKLEHAM-NORBURY-PARK) [V3]|||||||

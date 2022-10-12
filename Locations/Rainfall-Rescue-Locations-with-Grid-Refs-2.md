@@ -1,4 +1,4 @@
-Generation time: Tuesday 11/10/2022 11:53:30 BST
+Generation time: Wednesday 12/10/2022 08:36:34 BST
 
 ## Locations C-D
 
@@ -575,6 +575,7 @@ Generation time: Tuesday 11/10/2022 11:53:30 BST
 |[CHARLTON-KINGS-THE-GRANGE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/CHARLTON-KINGS-THE-GRANGE)|CHARLTON-KINGS-THE-GRANGE.csv|SO966203|51.881|-2.051|300|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=51.881&lon=-2.051&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/51.881,-2.051,16)  |
 |[CHARLTON-ON-OTMOOR-SCHOOL](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/main/DATA/CHARLTON-ON-OTMOOR-SCHOOL) [V2]|CHARLTON-ON-OTMOOR-SCHOOL.csv|SP564160|51.840|-1.183|220|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=51.840&lon=-1.183&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/51.840,-1.183,16)  |
 |[CHARMINSTER-BROOKLANDS](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/CHARMINSTER-BROOKLANDS)|CHARMINSTER-BROOKLANDS.csv|SY678933|50.738|-2.458|200|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=50.738&lon=-2.458&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/50.738,-2.458,16)  |
+|[CHARMOUTH-HAMMONDS-MEAD](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/CHARMOUTH-HAMMONDS-MEAD) [V3]|||||||
 |[CHARNWOOD-FOREST-BLACKBROOK-RES](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/CHARNWOOD-FOREST-BLACKBROOK-RES)|CHARNWOOD-FOREST-BLACKBROOK-RES.csv|SK457178|52.756|-1.324|367|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=52.756&lon=-1.324&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/52.756,-1.324,16)  |
 |[CHARNWOOD-FOREST-BROOMBRIGGS-HILL](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/main/DATA/CHARNWOOD-FOREST-BROOMBRIGGS-HILL) [V2]|CHARNWOOD-FOREST-BROOMBRIGGS-HILL.csv|SK514141|52.722|-1.240|750|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=52.722&lon=-1.240&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/52.722,-1.240,16)  |
 |[CHARNWOOD-FOREST-CHARLEY-HALL](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/main/DATA/CHARNWOOD-FOREST-CHARLEY-HALL) [V2]|CHARNWOOD-FOREST-CHARLEY-HALL.csv|SK479147|52.728|-1.292|500|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=52.728&lon=-1.292&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/52.728,-1.292,16)  |
@@ -1711,6 +1712,7 @@ Generation time: Tuesday 11/10/2022 11:53:30 BST
 |[CULLOMPTON](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/CULLOMPTON)|CULLOMPTON.csv|ST020073|50.857|-3.394|202|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=50.857&lon=-3.394&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/50.857,-3.394,16)  |
 |[CULLOMPTON-COURT](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/CULLOMPTON-COURT) [V3]|CULLOMPTON-COURT.csv|ST022077|50.861|-3.389|200|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=50.861&lon=-3.389&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/50.861,-3.389,16)  |
 |[CULLOMPTON-STRATH-CULM](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/CULLOMPTON-STRATH-CULM)|CULLOMPTON-STRATH-CULM.csv|SS991023|50.812|-3.433|159|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=50.812&lon=-3.433&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/50.812,-3.433,16)  |
+|[CULLOMPTON-WILLAND](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/CULLOMPTON-WILLAND) [V3]|||||||
 |[CULLUMPTON-UFFCULME](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/main/DATA/CULLUMPTON-UFFCULME) [V2]|CULLUMPTON-UFFCULME.csv|ST068128|50.908|-3.326|320|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=50.908&lon=-3.326&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/50.908,-3.326,16)  |
 |[CULMSTOCK-WOODGATE-FARM](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/main/DATA/CULMSTOCK-WOODGATE-FARM) [V2]|CULMSTOCK-WOODGATE-FARM.csv|ST102152|50.929|-3.279|540|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=50.929&lon=-3.279&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/50.929,-3.279,16)  |
 |[CULROSS-TULLIALLAN-FREE-CHURCH-MANSE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/POOR-LOCATIONS/CULROSS-TULLIALLAN-FREE-CHURCH-MANSE) [POOR]|||||||
