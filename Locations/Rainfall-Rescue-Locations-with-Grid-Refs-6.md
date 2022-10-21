@@ -1,4 +1,4 @@
-Generation time: Saturday 15/10/2022 18:25:24 BST
+Generation time: Friday 21/10/2022 19:34:27 BST
 
 ## Locations N-O
 
@@ -135,6 +135,7 @@ Generation time: Saturday 15/10/2022 18:25:24 BST
 |[NEW-KILPATRICK-CHESTERS](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/NEW-KILPATRICK-CHESTERS)|NEW-KILPATRICK-CHESTERS.csv|NS5347571996|55.919|-4.346|240|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=55.919&lon=-4.346&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/55.919,-4.346,16)  |
 ||NEW-KILPATRICK-CHESTERS-2.csv|NS5347571996|55.919|-4.346|240|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=55.919&lon=-4.346&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/55.919,-4.346,16)  |
 |[NEW-LUCE-PUBLIC-SCHOOL](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/main/DATA/NEW-LUCE-PUBLIC-SCHOOL) [V2]|NEW-LUCE-PUBLIC-SCHOOL.csv|NX175644|54.941|-4.851|200|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=54.941&lon=-4.851&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/54.941,-4.851,16)  |
+|[NEW-MACHAR-STRALOCH](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/NEW-MACHAR-STRALOCH) [V3]|||||||
 |[NEW-MALDEN-ACACIA-GROVE](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/main/DATA/NEW-MALDEN-ACACIA-GROVE) [V2]|NEW-MALDEN-ACACIA-GROVE.csv|TQ212687|51.405|-0.258|50|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=51.405&lon=-0.258&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/51.405,-0.258,16)  |
 |[NEW-MALDEN-DUNBAR-ROAD](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/NEW-MALDEN-DUNBAR-ROAD) [V3]|NEW-MALDEN-DUNBAR-ROAD.csv|TQ203684|51.402|-0.272|60|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=51.402&lon=-0.272&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/51.402,-0.272,16)  |
 |[NEW-MALDEN-EDENFIELD](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/NEW-MALDEN-EDENFIELD) [V3]|NEW-MALDEN-EDENFIELD.csv|TQ210683|51.401|-0.261|40|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=51.401&lon=-0.261&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/51.401,-0.261,16)  |

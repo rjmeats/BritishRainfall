@@ -1,4 +1,4 @@
-Generation time: Saturday 15/10/2022 18:25:24 BST
+Generation time: Friday 21/10/2022 19:34:27 BST
 
 ## Locations C-D
 
@@ -2372,6 +2372,7 @@ Generation time: Saturday 15/10/2022 18:25:24 BST
 |[DROXFORD-UPPER-SWANMORE](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/main/DATA/DROXFORD-UPPER-SWANMORE) [V2]|DROXFORD-UPPER-SWANMORE.csv|SU581174|50.953|-1.174|312|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=50.953&lon=-1.174&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/50.953,-1.174,16)  |
 |[DRUM-CASTLE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/DRUM-CASTLE)|DRUM-CASTLE.csv|NJ796006|57.096|-2.338|275|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=57.096&lon=-2.338&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/57.096,-2.338,16)  |
 |[DRUMBEG](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/main/DATA/DRUMBEG) [V2]|DRUMBEG.csv|NC122327|58.243|-5.201|200|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=58.243&lon=-5.201&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/58.243,-5.201,16)  |
+|[DRUMBLADE-PUBLIC-SCHOOL](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/DRUMBLADE-PUBLIC-SCHOOL) [V3]|||||||
 |[DRUMCHAPEL-WASDALE](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/main/DATA/DRUMCHAPEL-WASDALE) [V2]|DRUMCHAPEL-WASDALE.csv|NS5227970463|55.905|-4.364|68|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=55.905&lon=-4.364&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/55.905,-4.364,16)  |
 ||DRUMCHAPEL-WASDALE-2.csv|NS5209170138|55.902|-4.367|49|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=55.902&lon=-4.367&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/55.902,-4.367,16)  |
 |[DRUMCONDRA-ST-PATRICKS-COLLEGE](https://github.com/ed-hawkins/rainfall-rescue-data-eire/tree/main/DATA/DRUMCONDRA-ST-PATRICKS-COLLEGE) [EIRE]|||||||

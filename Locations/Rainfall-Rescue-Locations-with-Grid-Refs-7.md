@@ -1,4 +1,4 @@
-Generation time: Saturday 15/10/2022 18:25:24 BST
+Generation time: Friday 21/10/2022 19:34:27 BST
 
 ## Locations P-R
 
@@ -126,6 +126,8 @@ Generation time: Saturday 15/10/2022 18:25:24 BST
 ||PEDMORE-BECKMAN-ROAD-2.csv|SO913826|52.441|-2.129|415|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=52.441&lon=-2.129&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/52.441,-2.129,16)  |
 |[PEEBLES](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/PEEBLES)|PEEBLES.csv|NT252397|55.646|-3.189|590|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=55.646&lon=-3.189&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/55.646,-3.189,16)  |
 |[PEEBLES-GLENTRESS](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/PEEBLES-GLENTRESS)|PEEBLES-GLENTRESS.csv|NT284397|55.646|-3.139|580|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=55.646&lon=-3.139&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/55.646,-3.139,16)  |
+|[PEEBLES-GOLF-COURSE](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/PEEBLES-GOLF-COURSE) [V3]|||||||
+|[PEEBLES-HIGH-SCHOOL](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/PEEBLES-HIGH-SCHOOL) [V3]|||||||
 |[PEEBLES-HYDRO](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/PEEBLES-HYDRO) [V3]|PEEBLES-HYDRO.csv|NT260405|55.652|-3.178|700|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=55.652&lon=-3.178&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/55.652,-3.178,16)  |
 |[PEEBLES-KAILZIE](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/PEEBLES-KAILZIE) [V3]|PEEBLES-KAILZIE.csv|NT278383|55.633|-3.148|557|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=55.633&lon=-3.148&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/55.633,-3.148,16)  |
 |[PEEBLES-KINGSMEADOWS](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/main/DATA/PEEBLES-KINGSMEADOWS) [V2]|PEEBLES-KINGSMEADOWS.csv|NT258399|55.647|-3.181|525|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=55.647&lon=-3.181&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/55.647,-3.181,16)  |
@@ -812,6 +814,7 @@ Generation time: Saturday 15/10/2022 18:25:24 BST
 |[RATHNEW-CLONMANNON](https://github.com/ed-hawkins/rainfall-rescue-data-eire/tree/main/DATA/RATHNEW-CLONMANNON) [EIRE]|||||||
 |[RATHOWEN-CROMLYN](https://github.com/ed-hawkins/rainfall-rescue-data-eire/tree/main/DATA/RATHOWEN-CROMLYN) [EIRE]|||||||
 |[RATHVILLY-LISNAVAGH-GDNS](https://github.com/ed-hawkins/rainfall-rescue-data-eire/tree/main/DATA/RATHVILLY-LISNAVAGH-GDNS) [EIRE]|||||||
+|[RATTRAY-HEAD-COASTGUARD-STATION](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/RATTRAY-HEAD-COASTGUARD-STATION) [V3]|||||||
 |[RAUNDS-MADISON](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/main/DATA/RAUNDS-MADISON) [V2]|RAUNDS-MADISON.csv|SP991721|52.338|-0.547|193|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=52.338&lon=-0.547&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/52.338,-0.547,16)  |
 |[RAVENGLASS-THE-GROVE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/RAVENGLASS-THE-GROVE)|RAVENGLASS-THE-GROVE.csv|SD088965|54.356|-3.405|70|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=54.356&lon=-3.405&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/54.356,-3.405,16)  |
 |[RAVENSDALE-SCHOOL](https://github.com/ed-hawkins/rainfall-rescue-data-eire/tree/main/DATA/RAVENSDALE-SCHOOL) [EIRE]|||||||
@@ -968,6 +971,7 @@ Generation time: Saturday 15/10/2022 18:25:24 BST
 |[REETH-ARKLESIDE](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/main/DATA/REETH-ARKLESIDE) [V2]|REETH-ARKLESIDE.csv|SE039993|54.389|-1.941|700|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=54.389&lon=-1.941&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/54.389,-1.941,16)  |
 |[REETH-ESKELETH-HOUSE](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/main/DATA/REETH-ESKELETH-HOUSE) [V2]|REETH-ESKELETH-HOUSE.csv|NY999038|54.430|-2.003|947|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=54.430&lon=-2.003&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/54.430,-2.003,16)  |
 |[REIGATE-ALDERSYDE](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/REIGATE-ALDERSYDE) [V3]|||||||
+|[REIGATE-BEAUFORT-ROAD](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/REIGATE-BEAUFORT-ROAD) [V3]|||||||
 |[REIGATE-CASTLE-GROUNDS](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/REIGATE-CASTLE-GROUNDS)|REIGATE-CASTLE-GROUNDS.csv|TQ253504|51.239|-0.206|350|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=51.239&lon=-0.206&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/51.239,-0.206,16)  |
 |[REIGATE-CLIFTONS-LANE](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/main/DATA/REIGATE-CLIFTONS-LANE) [V2]|REIGATE-CLIFTONS-LANE.csv|TQ239512|51.247|-0.226|278|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=51.247&lon=-0.226&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/51.247,-0.226,16)  |
 |[REIGATE-DOODS](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/REIGATE-DOODS) [V3]|||||||
