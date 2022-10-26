@@ -1,4 +1,4 @@
-Generation time: Friday 21/10/2022 19:34:27 BST
+Generation time: Wednesday 26/10/2022 21:22:41 BST
 
 ## Locations S-T
 
@@ -80,6 +80,7 @@ Generation time: Friday 21/10/2022 19:34:27 BST
 |[SALISBURY-WEST-DEAN](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/SALISBURY-WEST-DEAN)|SALISBURY-WEST-DEAN.csv|SU258273|51.045|-1.632|137|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=51.045&lon=-1.632&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/51.045,-1.632,16)  |
 ||SALISBURY-WEST-DEAN-2.csv|SU258273|51.045|-1.632|149|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=51.045&lon=-1.632&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/51.045,-1.632,16)  |
 |[SALISBURY-WILTON-HOUSE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/SALISBURY-WILTON-HOUSE)|SALISBURY-WILTON-HOUSE.csv|SU099309|51.077|-1.860|180|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=51.077&lon=-1.860&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/51.077,-1.860,16)  |
+|[SALLINS-PALMERSTOWN](https://github.com/ed-hawkins/rainfall-rescue-data-eire/tree/main/DATA/SALLINS-PALMERSTOWN) [EIRE]|||||||
 |[SALTBURN-BY-THE-SEA](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/main/DATA/SALTBURN-BY-THE-SEA) [V2]|SALTBURN-BY-THE-SEA.csv|NZ663209|54.579|-0.976|150|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=54.579&lon=-0.976&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/54.579,-0.976,16)  |
 ||SALTBURN-BY-THE-SEA-2.csv|NZ663217|54.586|-0.976|200|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=54.586&lon=-0.976&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/54.586,-0.976,16)  |
 |[SALTBURN-NORTH-SKELTON-MINE](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/main/DATA/SALTBURN-NORTH-SKELTON-MINE) [V2]|SALTBURN-NORTH-SKELTON-MINE.csv|NZ675182|54.555|-0.958|304|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=54.555&lon=-0.958&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/54.555,-0.958,16)  |
@@ -2052,6 +2053,7 @@ Generation time: Friday 21/10/2022 19:34:27 BST
 |[THIXENDALE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/THIXENDALE)|THIXENDALE.csv|SE843610|54.038|-0.714|425|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=54.038&lon=-0.714&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/54.038,-0.714,16)  |
 ||THIXENDALE-2.csv|SE842611|54.039|-0.716|425|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=54.039&lon=-0.716&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/54.039,-0.716,16)  |
 |[THOMASTOWN-BALLYDUFF](https://github.com/ed-hawkins/rainfall-rescue-data-eire/tree/main/DATA/THOMASTOWN-BALLYDUFF) [EIRE]|||||||
+|[THOMASTOWN-MALL-HOUSE](https://github.com/ed-hawkins/rainfall-rescue-data-eire/tree/main/DATA/THOMASTOWN-MALL-HOUSE) [EIRE]|||||||
 |[THORGANBY-THICKET-PRIORY](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/main/DATA/THORGANBY-THICKET-PRIORY) [V2]|THORGANBY-THICKET-PRIORY.csv|SE697435|53.883|-0.941|26|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=53.883&lon=-0.941&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/53.883,-0.941,16)  |
 |[THORNBURY-THORNBURY-HOUSE](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/main/DATA/THORNBURY-THORNBURY-HOUSE) [V2]|THORNBURY-THORNBURY-HOUSE.csv|ST633904|51.611|-2.531|110|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=51.611&lon=-2.531&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/51.611,-2.531,16)  |
 |[THORNBURY-THORNBURY-PARK](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/THORNBURY-THORNBURY-PARK)|THORNBURY-THORNBURY-PARK.csv|ST634908|51.615|-2.530|70|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=51.615&lon=-2.530&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/51.615,-2.530,16)  |
@@ -2448,6 +2450,7 @@ Generation time: Friday 21/10/2022 19:34:27 BST
 |[TUAM-GARDENFIELD](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/TUAM-GARDENFIELD)|TUAM-GARDENFIELD.csv|IM4214954978|53.542|-8.873|155|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=53.542&lon=-8.873&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/53.542,-8.873,16) [OSM](https://www.openstreetmap.org/#map=16/53.542/-8.873) [GGL](https://www.google.co.uk/maps/@53.542,-8.873,16z)|
 ||TUAM-GARDENFIELD-2.csv|IM4214954978|53.542|-8.873|160|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=53.542&lon=-8.873&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/53.542,-8.873,16) [OSM](https://www.openstreetmap.org/#map=16/53.542/-8.873) [GGL](https://www.google.co.uk/maps/@53.542,-8.873,16z)|
 ||TUAM-GARDENFIELD-3.csv|IM4214954978|53.542|-8.873|160|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=53.542&lon=-8.873&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/53.542,-8.873,16) [OSM](https://www.openstreetmap.org/#map=16/53.542/-8.873) [GGL](https://www.google.co.uk/maps/@53.542,-8.873,16z)|
+|[TUAM-PALACE-GARDENS](https://github.com/ed-hawkins/rainfall-rescue-data-eire/tree/main/DATA/TUAM-PALACE-GARDENS) [EIRE]|||||||
 |[TUAMGRANEY-RAHEEN-HOUSE](https://github.com/ed-hawkins/rainfall-rescue-data-eire/tree/main/DATA/TUAMGRANEY-RAHEEN-HOUSE) [EIRE]|||||||
 |[TULLAMORE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/TULLAMORE)|TULLAMORE.csv|IN3421525207|53.276|-7.488|235|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=53.276&lon=-7.488&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/53.276,-7.488,16) [OSM](https://www.openstreetmap.org/#map=16/53.276/-7.488) [GGL](https://www.google.co.uk/maps/@53.276,-7.488,16z)|
 |[TULLAMORE-RATHROBIN](https://github.com/ed-hawkins/rainfall-rescue-data-eire/tree/main/DATA/TULLAMORE-RATHROBIN) [EIRE]|||||||
