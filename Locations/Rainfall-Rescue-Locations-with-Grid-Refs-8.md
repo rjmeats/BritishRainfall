@@ -1,4 +1,4 @@
-Generation time: Wednesday 26/10/2022 21:22:41 BST
+Generation time: Thursday 27/10/2022 21:01:32 BST
 
 ## Locations S-T
 
@@ -2232,6 +2232,7 @@ Generation time: Wednesday 26/10/2022 21:22:41 BST
 ||TONGUE-4.csv|NC586585|58.492|-4.427|40|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=58.492&lon=-4.427&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/58.492,-4.427,16)  |
 |[TOOME-ANTRIM](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/TOOME-ANTRIM)|TOOME-ANTRIM.csv|IH9897790781|54.755|-6.463|60|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=54.755&lon=-6.463&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/54.755,-6.463,16) [OSM](https://www.openstreetmap.org/#map=16/54.755/-6.463) [GGL](https://www.google.co.uk/maps/@54.755,-6.463,16z)|
 |[TOOMEBRIDGE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/TOOMEBRIDGE)|TOOMEBRIDGE.csv|IH988905|54.753|-6.466|59|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=54.753&lon=-6.466&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/54.753,-6.466,16) [OSM](https://www.openstreetmap.org/#map=16/54.753/-6.466) [GGL](https://www.google.co.uk/maps/@54.753,-6.466,16z)|
+|[TOORMORE-ALTAR-RECTORY](https://github.com/ed-hawkins/rainfall-rescue-data-eire/tree/main/DATA/TOORMORE-ALTAR-RECTORY) [EIRE]|||||||
 |[TOOT-BALDON-POTLANDS](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/TOOT-BALDON-POTLANDS)|TOOT-BALDON-POTLANDS.csv|SP564002|51.698|-1.185|289|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=51.698&lon=-1.185&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/51.698,-1.185,16)  |
 |[TOOTING-BEC-MORING-ROAD](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/TOOTING-BEC-MORING-ROAD) [V3]|||||||
 |[TOP-OF-LOUGHRIGG](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/TOP-OF-LOUGHRIGG)|TOP-OF-LOUGHRIGG.csv|NY347052|54.438|-3.008|1050|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=54.438&lon=-3.008&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/54.438,-3.008,16)  |
@@ -2330,6 +2331,8 @@ Generation time: Wednesday 26/10/2022 21:22:41 BST
 ||TOWYN-BRONFFYNNON-2.csv|SH618036|52.613|-4.043|180|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=52.613&lon=-4.043&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/52.613,-4.043,16)  |
 |[TOWYN-YNYS-Y-MAENGWYN](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/TOWYN-YNYS-Y-MAENGWYN)|TOWYN-YNYS-Y-MAENGWYN.csv|SH599024|52.601|-4.070|14|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=52.601&lon=-4.070&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/52.601,-4.070,16)  |
 |[TRALEE-CASTLEMORRIS](https://github.com/ed-hawkins/rainfall-rescue-data-eire/tree/main/DATA/TRALEE-CASTLEMORRIS) [EIRE]|||||||
+|[TRALEE-CLASH](https://github.com/ed-hawkins/rainfall-rescue-data-eire/tree/main/DATA/TRALEE-CLASH) [EIRE]|||||||
+|[TRALEE-GODFREY-PLACE](https://github.com/ed-hawkins/rainfall-rescue-data-eire/tree/main/DATA/TRALEE-GODFREY-PLACE) [EIRE]|||||||
 |[TRAMORE-MIDVALE](https://github.com/ed-hawkins/rainfall-rescue-data-eire/tree/main/DATA/TRAMORE-MIDVALE) [EIRE]|||||||
 |[TRANENT-TYNEHOLME](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/TRANENT-TYNEHOLME) [V3]|TRANENT-TYNEHOLME.csv|NT445687|55.908|-2.889|284|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=55.908&lon=-2.889&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/55.908,-2.889,16)  |
 |[TRAWSFYNYDD](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/TRAWSFYNYDD)|TRAWSFYNYDD.csv|SH708354|52.900|-3.922|700|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=52.900&lon=-3.922&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/52.900,-3.922,16)  |

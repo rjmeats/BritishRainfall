@@ -1,4 +1,4 @@
-Generation time: Wednesday 26/10/2022 21:22:40 BST
+Generation time: Thursday 27/10/2022 21:01:32 BST
 
 ## Locations G-J
 
@@ -769,6 +769,9 @@ Generation time: Wednesday 26/10/2022 21:22:40 BST
 |[GRETTON-SCHOOL](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/main/DATA/GRETTON-SCHOOL) [V2]|GRETTON-SCHOOL.csv|SP9007893966|52.536|-0.673|360|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=52.536&lon=-0.673&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/52.536,-0.673,16)  |
 |[GREYABBEY](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/main/DATA/GREYABBEY) [V2]|GREYABBEY.csv|IJ579679|54.535|-5.561|30|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=54.535&lon=-5.561&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/54.535,-5.561,16) [OSM](https://www.openstreetmap.org/#map=16/54.535/-5.561) [GGL](https://www.google.co.uk/maps/@54.535,-5.561,16z)|
 ||GREYABBEY-2.csv|IJ579679|54.535|-5.561|6|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=54.535&lon=-5.561&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/54.535,-5.561,16) [OSM](https://www.openstreetmap.org/#map=16/54.535/-5.561) [GGL](https://www.google.co.uk/maps/@54.535,-5.561,16z)|
+|[GREYSTONES-BURNABY-LODGE](https://github.com/ed-hawkins/rainfall-rescue-data-eire/tree/main/DATA/GREYSTONES-BURNABY-LODGE) [EIRE]|||||||
+|[GREYSTONES-CLONSILLA-AUBURN](https://github.com/ed-hawkins/rainfall-rescue-data-eire/tree/main/DATA/GREYSTONES-CLONSILLA-AUBURN) [EIRE]|||||||
+|[GREYSTONES-COOLAGAD-RATHDOWN](https://github.com/ed-hawkins/rainfall-rescue-data-eire/tree/main/DATA/GREYSTONES-COOLAGAD-RATHDOWN) [EIRE]|||||||
 |[GREYSTONES-KNOCKDOLIAN](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/main/DATA/GREYSTONES-KNOCKDOLIAN) [V2]|GREYSTONES-KNOCKDOLIAN.csv|IO2907712484|53.147|-6.071|68|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=53.147&lon=-6.071&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/53.147,-6.071,16) [OSM](https://www.openstreetmap.org/#map=16/53.147/-6.071) [GGL](https://www.google.co.uk/maps/@53.147,-6.071,16z)|
 |[GREYWELL-PUMPING-STATION](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/GREYWELL-PUMPING-STATION)|GREYWELL-PUMPING-STATION.csv|SU724514|51.257|-0.964|263|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=51.257&lon=-0.964&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/51.257,-0.964,16)  |
 |[GRIMBOCAR](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/main/DATA/GRIMBOCAR) [V2]|GRIMBOCAR.csv|SK172872|53.381|-1.743|700|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=53.381&lon=-1.743&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/53.381,-1.743,16)  |
