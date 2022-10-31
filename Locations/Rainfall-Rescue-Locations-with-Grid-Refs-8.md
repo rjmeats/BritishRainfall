@@ -1,4 +1,4 @@
-Generation time: Sunday 30/10/2022 19:36:10 GMT
+Generation time: Monday 31/10/2022 21:58:14 GMT
 
 ## Locations S-T
 
@@ -123,6 +123,8 @@ Generation time: Sunday 30/10/2022 19:36:10 GMT
 ||SANDWICH-STONE-CROSS-2.csv|TR3280558272|51.276|1.337|15|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=51.276&lon=1.337&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/51.276,1.337,16)  |
 ||SANDWICH-STONE-CROSS-3.csv|TR3283258359|51.277|1.337|15|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=51.277&lon=1.337&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/51.277,1.337,16)  |
 |[SANDWICK-MANSE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/SANDWICK-MANSE)|SANDWICK-MANSE.csv|HY251172|59.036|-3.306|78|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=59.036&lon=-3.306&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/59.036,-3.306,16)  |
+|[SANDWICK-NORTH-PARK](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/SANDWICK-NORTH-PARK) [V3]|||||||
+|[SANDWICK-SCHOOL](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/SANDWICK-SCHOOL) [V3]|||||||
 |[SANDY-BEESTON-GRANGE](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/main/DATA/SANDY-BEESTON-GRANGE) [V2]|SANDY-BEESTON-GRANGE.csv|TL166482|52.120|-0.298|80|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=52.120&lon=-0.298&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/52.120,-0.298,16)  |
 |[SANDY-MOGGERHANGER-PARK](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/SANDY-MOGGERHANGER-PARK)|SANDY-MOGGERHANGER-PARK.csv|TL134486|52.124|-0.345|152|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=52.124&lon=-0.345&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/52.124,-0.345,16)  |
 |[SANDY-RECTORY](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/SANDY-RECTORY)|SANDY-RECTORY.csv|TL174490|52.127|-0.286|120|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=52.127&lon=-0.286&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/52.127,-0.286,16)  |
@@ -1057,6 +1059,7 @@ Generation time: Sunday 30/10/2022 19:36:10 GMT
 ||ST-DAY-SCHOOL-2.csv|SW772431|50.246|-5.126|346|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=50.246&lon=-5.126&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/50.246,-5.126,16)  |
 |[ST-ENDELLION-PARK-VILLA](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/ST-ENDELLION-PARK-VILLA)|ST-ENDELLION-PARK-VILLA.csv|SW988792|50.578|-4.842|277|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=50.578&lon=-4.842&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/50.578,-4.842,16)  |
 ||ST-ENDELLION-PARK-VILLA-2.csv|SW988792|50.578|-4.842|302|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=50.578&lon=-4.842&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/50.578,-4.842,16)  |
+|[ST-ENODER-RETYN](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/ST-ENODER-RETYN) [V3]|||||||
 |[ST-EVAL-AIRFIELD-MET-OFFICE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/ST-EVAL-AIRFIELD-MET-OFFICE)|ST-EVAL-AIRFIELD-MET-OFFICE.csv|SW883681|50.474|-4.985|345|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=50.474&lon=-4.985&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/50.474,-4.985,16)  |
 |[ST-FILLANS-PORTMORE](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/main/DATA/ST-FILLANS-PORTMORE) [V2]|ST-FILLANS-PORTMORE.csv|NN6913724370|56.393|-4.122|333|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=56.393&lon=-4.122&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/56.393,-4.122,16)  |
 |[ST-GERMANS-FAIRFIELD](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/ST-GERMANS-FAIRFIELD) [V3]|ST-GERMANS-FAIRFIELD.csv|SX358574|50.394|-4.311|170|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=50.394&lon=-4.311&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/50.394,-4.311,16)  |
@@ -1328,6 +1331,7 @@ Generation time: Sunday 30/10/2022 19:36:10 GMT
 |[STOKE-NEXT-GUILDFORD-WERN](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/STOKE-NEXT-GUILDFORD-WERN) [V3]|||||||
 |[STOKE-POGES-COUNCIL-SCHOOL](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/STOKE-POGES-COUNCIL-SCHOOL) [V3]|||||||
 |[STOKE-POGES-STOKE-COURT](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/STOKE-POGES-STOKE-COURT)|STOKE-POGES-STOKE-COURT.csv|SU976841|51.547|-0.594|196|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=51.547&lon=-0.594&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/51.547,-0.594,16)  |
+|[STOKE-PRIOR](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/STOKE-PRIOR) [V3]|||||||
 |[STOKE-ROW-VICARAGE](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/main/DATA/STOKE-ROW-VICARAGE) [V2]|STOKE-ROW-VICARAGE.csv|SU6767984016|51.551|-1.025|576|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=51.551&lon=-1.025&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/51.551,-1.025,16)  |
 |[STOKE-STANLEY](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/STOKE-STANLEY)|STOKE-STANLEY.csv|SJ929520|53.065|-2.107|550|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=53.065&lon=-2.107&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/53.065,-2.107,16)  |
 |[STOKE-UNDER-HAM](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/STOKE-UNDER-HAM)|STOKE-UNDER-HAM.csv|ST474176|50.956|-2.750|80|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=50.956&lon=-2.750&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/50.956,-2.750,16)  |
@@ -1500,6 +1504,7 @@ Generation time: Sunday 30/10/2022 19:36:10 GMT
 ||STRATHY-BOWSIDE-2.csv|NC830609|58.520|-4.010|125|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=58.520&lon=-4.010&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/58.520,-4.010,16)  |
 |[STRATHYRE](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/STRATHYRE) [V3]|||||||
 |[STRATTON-AUDLEY-BICESTER](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/STRATTON-AUDLEY-BICESTER)|STRATTON-AUDLEY-BICESTER.csv|SP608275|51.943|-1.117|381|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=51.943&lon=-1.117&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/51.943,-1.117,16)  |
+|[STRATTON-KILKHAMPTON-PENSTOWE](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/STRATTON-KILKHAMPTON-PENSTOWE) [V3]|||||||
 |[STRATTON-ON-FOSSE-DOWNSIDE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/STRATTON-ON-FOSSE-DOWNSIDE)|STRATTON-ON-FOSSE-DOWNSIDE.csv|ST656507|51.254|-2.494|600|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=51.254&lon=-2.494&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/51.254,-2.494,16)  |
 |[STRATTON-ON-FOSSE-GREYSTONES](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/STRATTON-ON-FOSSE-GREYSTONES) [V3]|||||||
 |[STRATTON-POUGHILL-TRELANA](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/STRATTON-POUGHILL-TRELANA)|STRATTON-POUGHILL-TRELANA.csv|SS223076|50.841|-4.525|200|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=50.841&lon=-4.525&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/50.841,-4.525,16)  |
@@ -1958,6 +1963,7 @@ Generation time: Sunday 30/10/2022 19:36:10 GMT
 |[TENBURY-BELLE-VUE](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/main/DATA/TENBURY-BELLE-VUE) [V2]|TENBURY-BELLE-VUE.csv|SO592666|52.296|-2.600|315|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=52.296&lon=-2.600&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/52.296,-2.600,16)  |
 |[TENBURY-ROCHFORD-RECTORY](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/TENBURY-ROCHFORD-RECTORY)|TENBURY-ROCHFORD-RECTORY.csv|SO620675|52.304|-2.559|317|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=52.304&lon=-2.559&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/52.304,-2.559,16)  |
 |[TENBURY-ST-MICHAELS](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/TENBURY-ST-MICHAELS)|TENBURY-ST-MICHAELS.csv|SO583657|52.288|-2.613|343|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=52.288&lon=-2.613&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/52.288,-2.613,16)  |
+|[TENBURY-ST-MICHAELS-ROSELAND-COTTAGE](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/TENBURY-ST-MICHAELS-ROSELAND-COTTAGE) [V3]|||||||
 |[TENBY-BRYN-HYFRYD](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/main/DATA/TENBY-BRYN-HYFRYD) [V2]|TENBY-BRYN-HYFRYD.csv|SN132009|51.676|-4.703|100|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=51.676&lon=-4.703&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/51.676,-4.703,16)  |
 ||TENBY-BRYN-HYFRYD-2.csv|SN132007|51.674|-4.703|70|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=51.674&lon=-4.703&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/51.674,-4.703,16)  |
 |[TENBY-IVY-TOWER](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/main/DATA/TENBY-IVY-TOWER) [V2]|TENBY-IVY-TOWER.csv|SN090022|51.686|-4.764|180|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=51.686&lon=-4.764&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/51.686,-4.764,16)  |

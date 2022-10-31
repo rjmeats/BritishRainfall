@@ -1,4 +1,4 @@
-Generation time: Sunday 30/10/2022 19:36:10 GMT
+Generation time: Monday 31/10/2022 21:58:14 GMT
 
 ## Locations E-F
 
@@ -753,6 +753,7 @@ Generation time: Sunday 30/10/2022 19:36:10 GMT
 |[FALMOUTH-CARCLEW](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/FALMOUTH-CARCLEW)|FALMOUTH-CARCLEW.csv|SW789381|50.202|-5.100|180|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=50.202&lon=-5.100&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/50.202,-5.100,16)  |
 |[FALMOUTH-FLUSHING-TREFUSIS](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/FALMOUTH-FLUSHING-TREFUSIS)|FALMOUTH-FLUSHING-TREFUSIS.csv|SW848477|50.291|-5.022|300|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=50.291&lon=-5.022&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/50.291,-5.022,16)  |
 ||FALMOUTH-FLUSHING-TREFUSIS-2.csv|SW815341|50.167|-5.061|200|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=50.167&lon=-5.061&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/50.167,-5.061,16)  |
+|[FALMOUTH-GYLLYNGVASE](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/FALMOUTH-GYLLYNGVASE) [V3]|||||||
 |[FALMOUTH-KIMBERLEY](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/FALMOUTH-KIMBERLEY)|FALMOUTH-KIMBERLEY.csv|SW803326|50.153|-5.076|120|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=50.153&lon=-5.076&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/50.153,-5.076,16)  |
 |[FALMOUTH-OBSERVATORY](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/FALMOUTH-OBSERVATORY)|FALMOUTH-OBSERVATORY.csv|SW802323|50.150|-5.077|169|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=50.150&lon=-5.077&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/50.150,-5.077,16)  |
 ||FALMOUTH-OBSERVATORY-2.csv|SW802323|50.150|-5.077|169|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=50.150&lon=-5.077&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/50.150,-5.077,16)  |
@@ -761,6 +762,7 @@ Generation time: Sunday 30/10/2022 19:36:10 GMT
 ||FALMOUTH-OBSERVATORY-5.csv|SW806323|50.150|-5.072|167|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=50.150&lon=-5.072&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/50.150,-5.072,16)  |
 |[FALMOUTH-PENDENNIS-CASTLE](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/FALMOUTH-PENDENNIS-CASTLE) [V3]|||||||
 |[FALMOUTH-ST-MAWES-PLACE](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/main/DATA/FALMOUTH-ST-MAWES-PLACE) [V2]|FALMOUTH-ST-MAWES-PLACE.csv|SW855320|50.150|-5.004|12|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=50.150&lon=-5.004&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/50.150,-5.004,16)  |
+|[FALSTONE-HOPE-HOUSE](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/FALSTONE-HOPE-HOUSE) [V3]|||||||
 |[FALSTONE-RECTORY](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/main/DATA/FALSTONE-RECTORY) [V2]|FALSTONE-RECTORY.csv|NY728868|55.175|-2.429|485|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=55.175&lon=-2.429&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/55.175,-2.429,16)  |
 |[FALSTONE-WICKHOPE](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/main/DATA/FALSTONE-WICKHOPE) [V2]|FALSTONE-WICKHOPE.csv|NY676860|55.167|-2.510|550|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=55.167&lon=-2.510&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/55.167,-2.510,16)  |
 |[FANAD-TOWNEY-RECTORY](https://github.com/ed-hawkins/rainfall-rescue-data-eire/tree/main/DATA/FANAD-TOWNEY-RECTORY) [EIRE]|||||||
@@ -864,6 +866,7 @@ Generation time: Sunday 30/10/2022 19:36:10 GMT
 ||FELSTED-SCHOOL-2.csv|TL676205|51.858|0.433|248|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=51.858&lon=0.433&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/51.858,0.433,16)  |
 |[FELSTED-SUGAR-FACTORY](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/main/DATA/FELSTED-SUGAR-FACTORY) [V2]|FELSTED-SUGAR-FACTORY.csv|TL664211|51.864|0.415|200|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=51.864&lon=0.415&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/51.864,0.415,16)  |
 |[FELTHORPE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/FELTHORPE)|FELTHORPE.csv|TG165185|52.721|1.206|75|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=52.721&lon=1.206&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/52.721,1.206,16)  |
+|[FELTON](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/FELTON) [V3]|||||||
 |[FELTON-SCHOOL-GDNS](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/main/DATA/FELTON-SCHOOL-GDNS) [V2]|FELTON-SCHOOL-GDNS.csv|NU184007|55.300|-1.712|180|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=55.300&lon=-1.712&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/55.300,-1.712,16)  |
 ||FELTON-SCHOOL-GDNS-2.csv|NU170053|55.341|-1.734|500|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=55.341&lon=-1.734&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/55.341,-1.734,16)  |
 |[FELTON-UPPER-TOWN](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/main/DATA/FELTON-UPPER-TOWN) [V2]|FELTON-UPPER-TOWN.csv|ST525660|51.391|-2.684|550|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=51.391&lon=-2.684&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/51.391,-2.684,16)  |
@@ -987,6 +990,7 @@ Generation time: Sunday 30/10/2022 19:36:10 GMT
 |[FLORE](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/main/DATA/FLORE) [V2]|FLORE.csv|SP6419759899|52.234|-1.061|280|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=52.234&lon=-1.061&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/52.234,-1.061,16)  |
 ||FLORE-2.csv|SP644600|52.234|-1.058|344|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=52.234&lon=-1.058&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/52.234,-1.058,16)  |
 ||FLORE-3.csv|SP649603|52.237|-1.051|284|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=52.237&lon=-1.051&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/52.237,-1.051,16)  |
+|[FLOTTERTON](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/FLOTTERTON) [V3]|||||||
 |[FLURRYBRIDGE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/FLURRYBRIDGE)|FLURRYBRIDGE.csv|IJ064187|54.107|-6.373|340|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=54.107&lon=-6.373&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/54.107,-6.373,16) [OSM](https://www.openstreetmap.org/#map=16/54.107/-6.373) [GGL](https://www.google.co.uk/maps/@54.107,-6.373,16z)|
 |[FOLESHILL-FOXFORD-SCHOOL](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/main/DATA/FOLESHILL-FOXFORD-SCHOOL) [V2]|FOLESHILL-FOXFORD-SCHOOL.csv|SP350831|52.445|-1.486|311|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=52.445&lon=-1.486&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/52.445,-1.486,16)  |
 |[FOLKESTONE-CAPEL-LODGE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/FOLKESTONE-CAPEL-LODGE)|FOLKESTONE-CAPEL-LODGE.csv|TR256385|51.101|1.221|480|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=51.101&lon=1.221&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/51.101,1.221,16)  |
