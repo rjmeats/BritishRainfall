@@ -1,4 +1,4 @@
-Generation time: Tuesday 01/11/2022 21:48:48 GMT
+Generation time: Thursday 03/11/2022 15:35:49 GMT
 
 ## Locations E-F
 
@@ -321,6 +321,7 @@ Generation time: Tuesday 01/11/2022 21:48:48 GMT
 |[EDINBURGH-WW-UPPER-MENZION](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/main/DATA/EDINBURGH-WW-UPPER-MENZION) [V2]|EDINBURGH-WW-UPPER-MENZION.csv|NT102207|55.472|-3.422|1020|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=55.472&lon=-3.422&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/55.472,-3.422,16)  |
 |[EDINBURGH-WW-VICTORIA-LODGE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/EDINBURGH-WW-VICTORIA-LODGE)|EDINBURGH-WW-VICTORIA-LODGE.csv|NT106229|55.492|-3.416|900|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=55.492&lon=-3.416&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/55.492,-3.416,16)  |
 ||EDINBURGH-WW-VICTORIA-LODGE-2.csv|NT106229|55.492|-3.416|900|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=55.492&lon=-3.416&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/55.492,-3.416,16)  |
+|[EDINGTHORPE-THE-WARREN](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/EDINGTHORPE-THE-WARREN) [V3]|||||||
 |[EDINGTON](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/EDINGTON)|EDINGTON.csv|ST383396|51.153|-2.883|90|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=51.153&lon=-2.883&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/51.153,-2.883,16)  |
 |[EDINGTON-VICARAGE](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/main/DATA/EDINGTON-VICARAGE) [V2]|EDINGTON-VICARAGE.csv|ST926530|51.276|-2.107|334|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=51.276&lon=-2.107&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/51.276,-2.107,16)  |
 |[EDMONDBYERS-COMMON](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/main/DATA/EDMONDBYERS-COMMON) [V2]|EDMONDBYERS-COMMON.csv|NY971459|54.808|-2.047|1540|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=54.808&lon=-2.047&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/54.808,-2.047,16)  |
