@@ -1,4 +1,4 @@
-Generation time: Thursday 03/11/2022 15:35:49 GMT
+Generation time: Friday 04/11/2022 07:49:01 GMT
 
 ## Locations G-J
 
@@ -26,7 +26,7 @@ Generation time: Thursday 03/11/2022 15:35:49 GMT
 ||GAIRLOCH-OPINAN-2.csv|NG746729|57.689|-5.783|50|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=57.689&lon=-5.783&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/57.689,-5.783,16)  |
 |[GAIRLOCH-SHIELDAIG-LODGE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/GAIRLOCH-SHIELDAIG-LODGE)|GAIRLOCH-SHIELDAIG-LODGE.csv|NG806725|57.689|-5.683|30|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=57.689&lon=-5.683&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/57.689,-5.683,16)  |
 ||GAIRLOCH-SHIELDAIG-LODGE-2.csv|NG806725|57.689|-5.683|10|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=57.689&lon=-5.683&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/57.689,-5.683,16)  |
-|[GAIRLOCH-THE-MANSE](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/GAIRLOCH-THE-MANSE) [V3]|||||||
+|[GAIRLOCH-THE-MANSE](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/GAIRLOCH-THE-MANSE) [V3]|GAIRLOCH-THE-MANSE.csv|NG799774|57.732|-5.699|40|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=57.732&lon=-5.699&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/57.732,-5.699,16)  |
 |[GALASHIELS-ABBOTSFORD-ROAD](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/GALASHIELS-ABBOTSFORD-ROAD)|GALASHIELS-ABBOTSFORD-ROAD.csv|NT497356|55.611|-2.801|416|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=55.611&lon=-2.801&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/55.611,-2.801,16)  |
 |[GALASHIELS-CADDON-HEAD](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/main/DATA/GALASHIELS-CADDON-HEAD) [V2]|GALASHIELS-CADDON-HEAD.csv|NT401410|55.659|-2.954|1050|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=55.659&lon=-2.954&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/55.659,-2.954,16)  |
 |[GALASHIELS-CLOVENFORDS](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/GALASHIELS-CLOVENFORDS)|GALASHIELS-CLOVENFORDS.csv|NT431351|55.606|-2.905|450|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=55.606&lon=-2.905&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/55.606,-2.905,16)  |
@@ -312,7 +312,6 @@ Generation time: Thursday 03/11/2022 15:35:49 GMT
 |[GLEN-STRATHFARRER](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/GLEN-STRATHFARRER)|GLEN-STRATHFARRER.csv|NH233386|57.403|-4.942|461|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=57.403&lon=-4.942&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/57.403,-4.942,16)  |
 |[GLEN-TANAR-MANSION-HOUSE](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/main/DATA/GLEN-TANAR-MANSION-HOUSE) [V2]|GLEN-TANAR-MANSION-HOUSE.csv|NO474958|57.050|-2.869|576|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=57.050&lon=-2.869&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/57.050,-2.869,16)  |
 ||GLEN-TANAR-MANSION-HOUSE-2.csv|NO474958|57.050|-2.869|553|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=57.050&lon=-2.869&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/57.050,-2.869,16)  |
-|[GLEN-TARKEN](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/GLEN-TARKEN) [V3]|||||||
 |[GLEN-TARSAN](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/main/DATA/GLEN-TARSAN) [V2]|GLEN-TARSAN.csv|NS070833|56.004|-5.097|400|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=56.004&lon=-5.097&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/56.004,-5.097,16)  |
 ||GLEN-TARSAN-2.csv|NS070833|56.004|-5.097|385|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=56.004&lon=-5.097&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/56.004,-5.097,16)  |
 |[GLEN-TORRIDON-CARN-ANTHONY](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/main/DATA/GLEN-TORRIDON-CARN-ANTHONY) [V2]|GLEN-TORRIDON-CARN-ANTHONY.csv|NG977579|57.566|-5.384|350|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=57.566&lon=-5.384&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/57.566,-5.384,16)  |
@@ -1489,6 +1488,7 @@ Generation time: Thursday 03/11/2022 15:35:49 GMT
 |[HEBDEN-BRIDGE-SUMMERFIELD](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/HEBDEN-BRIDGE-SUMMERFIELD)|HEBDEN-BRIDGE-SUMMERFIELD.csv|SE001280|53.748|-2.000|800|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=53.748&lon=-2.000&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/53.748,-2.000,16)  |
 |[HECKFIELD-HIGHFIELD-PARK](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/HECKFIELD-HIGHFIELD-PARK) [V3]|||||||
 |[HECKFIELD-PARK-CORNER](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/HECKFIELD-PARK-CORNER)|HECKFIELD-PARK-CORNER.csv|SU715627|51.359|-0.975|257|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=51.359&lon=-0.975&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/51.359,-0.975,16)  |
+|[HECKFIELD-PLACE](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/HECKFIELD-PLACE) [V3]|||||||
 |[HECKMONDWIKE-THE-BOTTOMS](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/HECKMONDWIKE-THE-BOTTOMS)|HECKMONDWIKE-THE-BOTTOMS.csv|SE220224|53.698|-1.668|165|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=53.698&lon=-1.668&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/53.698,-1.668,16)  |
 |[HEDDON-ON-THE-WALL-VICARAGE](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/HEDDON-ON-THE-WALL-VICARAGE) [V3]|HEDDON-ON-THE-WALL-VICARAGE.csv|NZ132669|54.997|-1.795|435|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=54.997&lon=-1.795&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/54.997,-1.795,16)  |
 |[HEDENHAM-RECTORY](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/HEDENHAM-RECTORY) [V3]|HEDENHAM-RECTORY.csv|TM310929|52.485|1.401|90|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=52.485&lon=1.401&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/52.485,1.401,16)  |
