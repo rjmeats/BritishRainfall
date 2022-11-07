@@ -1,4 +1,4 @@
-Generation time: Saturday 05/11/2022 13:31:17 GMT
+Generation time: Monday 07/11/2022 08:19:26 GMT
 
 ## Locations S-T
 
@@ -1194,6 +1194,7 @@ Generation time: Saturday 05/11/2022 13:31:17 GMT
 |[STANDEDGE-CASTLE-SHAW-CUDWORTH](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/STANDEDGE-CASTLE-SHAW-CUDWORTH)|STANDEDGE-CASTLE-SHAW-CUDWORTH.csv|SE004109|53.595|-1.995|1410|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=53.595&lon=-1.995&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/53.595,-1.995,16)  |
 |[STANDEDGE-REDBROOK](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/STANDEDGE-REDBROOK)|STANDEDGE-REDBROOK.csv|SE025102|53.588|-1.964|1150|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=53.588&lon=-1.964&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/53.588,-1.964,16)  |
 ||STANDEDGE-REDBROOK-2.csv|SE025096|53.583|-1.964|1150|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=53.583&lon=-1.964&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/53.583,-1.964,16)  |
+|[STANDING-STONE](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/STANDING-STONE) [V3]|||||||
 |[STANDISH-WIGAN](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/STANDISH-WIGAN)|STANDISH-WIGAN.csv|SD569098|53.583|-2.652|285|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=53.583&lon=-2.652&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/53.583,-2.652,16)  |
 |[STANDON](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/main/DATA/STANDON) [V2]|STANDON.csv|TL4134522029|51.879|0.052|375|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=51.879&lon=0.052&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/51.879,0.052,16)  |
 |[STANDON-HATTON-WW](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/STANDON-HATTON-WW)|STANDON-HATTON-WW.csv|SJ829370|52.930|-2.256|355|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=52.930&lon=-2.256&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/52.930,-2.256,16)  |
@@ -1259,6 +1260,7 @@ Generation time: Saturday 05/11/2022 13:31:17 GMT
 |[STEVENAGE-WESTON-MANOR](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/STEVENAGE-WESTON-MANOR)|STEVENAGE-WESTON-MANOR.csv|TL259300|51.955|-0.169|485|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=51.955&lon=-0.169&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/51.955,-0.169,16)  |
 ||STEVENAGE-WESTON-MANOR-2.csv|TL262293|51.948|-0.165|470|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=51.948&lon=-0.165&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/51.948,-0.165,16)  |
 |[STEVENSTON-GREENHEAD-FILTERS](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/STEVENSTON-GREENHEAD-FILTERS)|STEVENSTON-GREENHEAD-FILTERS.csv|NS273437|55.656|-4.747|186|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=55.656&lon=-4.747&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/55.656,-4.747,16)  |
+|[STEVENTON-HANNEY-ROAD](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/STEVENTON-HANNEY-ROAD) [V3]|||||||
 |[STEVENTON-MILTON-HILL](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/STEVENTON-MILTON-HILL)|STEVENTON-MILTON-HILL.csv|SU476907|51.613|-1.314|300|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=51.613&lon=-1.314&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/51.613,-1.314,16)  |
 |[STEWARTON-FILTERS](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/main/DATA/STEWARTON-FILTERS) [V2]|STEWARTON-FILTERS.csv|NS439478|55.698|-4.485|515|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=55.698&lon=-4.485&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/55.698,-4.485,16)  |
 |[STEWARTSTOWN-ARDTREA](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/STEWARTSTOWN-ARDTREA)|STEWARTSTOWN-ARDTREA.csv|IH8526876271|54.628|-6.680|191|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=54.628&lon=-6.680&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/54.628,-6.680,16) [OSM](https://www.openstreetmap.org/#map=16/54.628/-6.680) [GGL](https://www.google.co.uk/maps/@54.628,-6.680,16z)|
