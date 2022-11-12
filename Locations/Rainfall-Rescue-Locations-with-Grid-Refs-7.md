@@ -1,4 +1,4 @@
-Generation time: Thursday 10/11/2022 10:22:33 GMT
+Generation time: Saturday 12/11/2022 10:03:55 GMT
 
 ## Locations P-R
 
@@ -410,6 +410,7 @@ Generation time: Thursday 10/11/2022 10:22:33 GMT
 ||PEWSEY-WILCOT-2.csv|SU140608|51.346|-1.800|405|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=51.346&lon=-1.800&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/51.346,-1.800,16)  |
 ||PEWSEY-WILCOT-3.csv|SU142608|51.347|-1.797|445|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=51.347&lon=-1.797&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/51.347,-1.797,16)  |
 |[PHILLACK-RECTORY](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/PHILLACK-RECTORY)|PHILLACK-RECTORY.csv|SW565384|50.195|-5.413|70|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=50.195&lon=-5.413&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/50.195,-5.413,16)  |
+|[PHUBUILL](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/PHUBUILL) [V3]|||||||
 |[PICKERING-PORTERS-HEADLAND](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/main/DATA/PICKERING-PORTERS-HEADLAND) [V2]|PICKERING-PORTERS-HEADLAND.csv|SE795843|54.248|-0.781|143|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=54.248&lon=-0.781&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/54.248,-0.781,16)  |
 |[PICKERING-THE-RECTORY](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/PICKERING-THE-RECTORY)|PICKERING-THE-RECTORY.csv|SE800841|54.246|-0.774|150|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=54.246&lon=-0.774&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/54.246,-0.774,16)  |
 ||PICKERING-THE-RECTORY-2.csv|SE799838|54.244|-0.775|90|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=54.244&lon=-0.775&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/54.244,-0.775,16)  |
@@ -980,6 +981,7 @@ Generation time: Thursday 10/11/2022 10:22:33 GMT
 |[REDEWATER-WHITELEE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/POOR-LOCATIONS/REDEWATER-WHITELEE) [POOR]|||||||
 |[REDHILL-EARLSWOOD-ASYLUM](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/REDHILL-EARLSWOOD-ASYLUM) [V3]|||||||
 |[REDHILL-EARLSWOOD-COMMON-CLARENCE-LODGE](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/REDHILL-EARLSWOOD-COMMON-CLARENCE-LODGE) [V3]|||||||
+|[REDHILL-HAM](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/REDHILL-HAM) [V3]|||||||
 |[REDHILL-LONDON-ROAD](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/main/DATA/REDHILL-LONDON-ROAD) [V2]|REDHILL-LONDON-ROAD.csv|TQ277507|51.242|-0.171|284|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=51.242&lon=-0.171&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/51.242,-0.171,16)  |
 ||REDHILL-LONDON-ROAD-2.csv|TQ280512|51.246|-0.166|270|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=51.246&lon=-0.166&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/51.246,-0.166,16)  |
 |[REDHILL-OXFORD-ROAD](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/REDHILL-OXFORD-ROAD)|REDHILL-OXFORD-ROAD.csv|TQ273507|51.241|-0.178|300|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=51.241&lon=-0.178&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/51.241,-0.178,16)  |
@@ -1313,6 +1315,7 @@ Generation time: Thursday 10/11/2022 10:22:33 GMT
 |[ROTHBURY-BRINCKBURN](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/ROTHBURY-BRINCKBURN)|ROTHBURY-BRINCKBURN.csv|NZ116983|55.279|-1.819|257|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=55.279&lon=-1.819&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/55.279,-1.819,16)  |
 |[ROTHBURY-CEMETERY](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/main/DATA/ROTHBURY-CEMETERY) [V2]|ROTHBURY-CEMETERY.csv|NU055014|55.307|-1.915|300|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=55.307&lon=-1.915&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/55.307,-1.915,16)  |
 |[ROTHBURY-CRAGSIDE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/ROTHBURY-CRAGSIDE)|ROTHBURY-CRAGSIDE.csv|NU074022|55.314|-1.885|400|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=55.314&lon=-1.885&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/55.314,-1.885,16)  |
+|[ROTHBURY-HEATHERLEA](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/ROTHBURY-HEATHERLEA) [V3]|||||||
 |[ROTHBURY-WELL-CLOSE](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/ROTHBURY-WELL-CLOSE) [V3]|ROTHBURY-WELL-CLOSE.csv|NU059018|55.310|-1.909|250|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=55.310&lon=-1.909&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/55.310,-1.909,16)  |
 |[ROTHBURY-WHITTON-TOWER](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/main/DATA/ROTHBURY-WHITTON-TOWER) [V2]|ROTHBURY-WHITTON-TOWER.csv|NU056010|55.303|-1.913|410|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=55.303&lon=-1.913&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/55.303,-1.913,16)  |
 |[ROTHERBY-HALL](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/main/DATA/ROTHERBY-HALL) [V2]|ROTHERBY-HALL.csv|SK677167|52.744|-0.999|250|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=52.744&lon=-0.999&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/52.744,-0.999,16)  |
