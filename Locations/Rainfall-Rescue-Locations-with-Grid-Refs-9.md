@@ -1,4 +1,4 @@
-Generation time: Saturday 12/11/2022 10:03:55 GMT
+Generation time: Thursday 17/11/2022 07:54:58 GMT
 
 ## Locations U-Z
 
@@ -73,6 +73,7 @@ Generation time: Saturday 12/11/2022 10:03:55 GMT
 |[UPHALL-BANGOUR-ASYLUM](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/main/DATA/UPHALL-BANGOUR-ASYLUM) [V2]|UPHALL-BANGOUR-ASYLUM.csv|NT031709|55.921|-3.552|587|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=55.921&lon=-3.552&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/55.921,-3.552,16)  |
 |[UPHALL-BEECRAIGS](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/main/DATA/UPHALL-BEECRAIGS) [V2]|UPHALL-BEECRAIGS.csv|NT013743|55.952|-3.582|477|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=55.952&lon=-3.582&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/55.952,-3.582,16)  |
 ||UPHALL-BEECRAIGS-2.csv|NT013743|55.952|-3.582|477|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=55.952&lon=-3.582&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/55.952,-3.582,16)  |
+|[UPHALL-BROXBURN](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/UPHALL-BROXBURN) [V3]|||||||
 |[UPHALL-EIGHT](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/UPHALL-EIGHT)|UPHALL-EIGHT.csv|NT024708|55.920|-3.563|577|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=55.920&lon=-3.563&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/55.920,-3.563,16)  |
 |[UPHALL-HOUSTOUN-HOUSE](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/main/DATA/UPHALL-HOUSTOUN-HOUSE) [V2]|UPHALL-HOUSTOUN-HOUSE.csv|NT049708|55.921|-3.523|420|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=55.921&lon=-3.523&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/55.921,-3.523,16)  |
 |[UPHALL-MIDDLETON-HALL](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/UPHALL-MIDDLETON-HALL)|UPHALL-MIDDLETON-HALL.csv|NT061716|55.928|-3.504|380|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=55.928&lon=-3.504&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/55.928,-3.504,16)  |
@@ -664,7 +665,9 @@ Generation time: Saturday 12/11/2022 10:03:55 GMT
 |[WEST-HALTON-RECTORY](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/main/DATA/WEST-HALTON-RECTORY) [V2]|WEST-HALTON-RECTORY.csv|SE904207|53.675|-0.633|39|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=53.675&lon=-0.633&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/53.675,-0.633,16)  |
 |[WEST-HAM-ABBEY-MILLS](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/WEST-HAM-ABBEY-MILLS)|WEST-HAM-ABBEY-MILLS.csv|TQ387832|51.531|-0.002|11|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=51.531&lon=-0.002&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/51.531,-0.002,16)  |
 |[WEST-HARTLEPOOL-BRADGATE](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/main/DATA/WEST-HARTLEPOOL-BRADGATE) [V2]|WEST-HARTLEPOOL-BRADGATE.csv|NZ493325|54.686|-1.236|100|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=54.686&lon=-1.236&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/54.686,-1.236,16)  |
+|[WEST-HARTLEPOOL-CATCOTE-ROAD](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/WEST-HARTLEPOOL-CATCOTE-ROAD) [V3]|||||||
 |[WEST-HARTLEPOOL-LYNN-STREET](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/WEST-HARTLEPOOL-LYNN-STREET)|WEST-HARTLEPOOL-LYNN-STREET.csv|NZ514325|54.685|-1.204|84|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=54.685&lon=-1.204&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/54.685,-1.204,16)  |
+|[WEST-HARTLEPOOL-SECONDARY-SCHOOL](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/WEST-HARTLEPOOL-SECONDARY-SCHOOL) [V3]|||||||
 |[WEST-HARTLEPOOL-THE-CLOCK](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/main/DATA/WEST-HARTLEPOOL-THE-CLOCK) [V2]|WEST-HARTLEPOOL-THE-CLOCK.csv|NZ510327|54.687|-1.210|30|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=54.687&lon=-1.210&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/54.687,-1.210,16)  |
 |[WEST-HARTLEPOOL-WW](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/WEST-HARTLEPOOL-WW)|WEST-HARTLEPOOL-WW.csv|NZ509334|54.693|-1.212|35|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=54.693&lon=-1.212&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/54.693,-1.212,16)  |
 |[WEST-HOATHLY-DUCKYLS](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/main/DATA/WEST-HOATHLY-DUCKYLS) [V2]|WEST-HOATHLY-DUCKYLS.csv|TQ352338|51.088|-0.071|600|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=51.088&lon=-0.071&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/51.088,-0.071,16)  |

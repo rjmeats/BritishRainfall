@@ -1,4 +1,4 @@
-Generation time: Saturday 12/11/2022 10:03:55 GMT
+Generation time: Thursday 17/11/2022 07:54:58 GMT
 
 ## Locations P-R
 
@@ -488,6 +488,7 @@ Generation time: Saturday 12/11/2022 10:03:55 GMT
 |[PLYMPTON-GOODAMOOR](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/PLYMPTON-GOODAMOOR)|PLYMPTON-GOODAMOOR.csv|SX581585|50.410|-3.998|580|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=50.410&lon=-3.998&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/50.410,-3.998,16)  |
 |[PLYMPTON-HEMERDON](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/PLYMPTON-HEMERDON)|PLYMPTON-HEMERDON.csv|SX572574|50.400|-4.010|360|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=50.400&lon=-4.010&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/50.400,-4.010,16)  |
 ||PLYMPTON-HEMERDON-2.csv|SX575572|50.398|-4.006|365|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=50.398&lon=-4.006&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/50.398,-4.006,16)  |
+|[PLYMPTON-LEIGHAM](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/PLYMPTON-LEIGHAM) [V3]|||||||
 |[PLYMPTON-LITTLE-WOODFORD](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/main/DATA/PLYMPTON-LITTLE-WOODFORD) [V2]|PLYMPTON-LITTLE-WOODFORD.csv|SX531571|50.396|-4.068|80|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=50.396&lon=-4.068&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/50.396,-4.068,16)  |
 |[PLYMPTON-RIDGEWAY](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/PLYMPTON-RIDGEWAY)|PLYMPTON-RIDGEWAY.csv|SX545561|50.387|-4.047|125|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=50.387&lon=-4.047&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/50.387,-4.047,16)  |
 |[PLYMSTOCK-HOOE-THORNCOT](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/PLYMSTOCK-HOOE-THORNCOT) [V3]|||||||
@@ -721,6 +722,7 @@ Generation time: Saturday 12/11/2022 10:03:55 GMT
 |[PUDDLETOWN-VICARAGE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/PUDDLETOWN-VICARAGE)|PUDDLETOWN-VICARAGE.csv|SY759943|50.748|-2.343|200|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=50.748&lon=-2.343&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/50.748,-2.343,16)  |
 |[PUDSEY-FULNECK](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/main/DATA/PUDSEY-FULNECK) [V2]|PUDSEY-FULNECK.csv|SE221319|53.783|-1.666|490|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=53.783&lon=-1.666&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/53.783,-1.666,16)  |
 |[PUDSEY-GLENERA](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/main/DATA/PUDSEY-GLENERA) [V2]|PUDSEY-GLENERA.csv|SE221327|53.790|-1.666|521|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=53.790&lon=-1.666&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/53.790,-1.666,16)  |
+|[PUDSEY-SEWAGE-WORKS](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/PUDSEY-SEWAGE-WORKS) [V3]|||||||
 |[PULBOROUGH-BIGNOR-PARK](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/main/DATA/PULBOROUGH-BIGNOR-PARK) [V2]|PULBOROUGH-BIGNOR-PARK.csv|SU990155|50.930|-0.593|75|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=50.930&lon=-0.593&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/50.930,-0.593,16)  |
 |[PULBOROUGH-CODMORE-HILL](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/main/DATA/PULBOROUGH-CODMORE-HILL) [V2]|PULBOROUGH-CODMORE-HILL.csv|TQ056201|50.971|-0.497|162|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=50.971&lon=-0.497&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/50.971,-0.497,16)  |
 |[PULBOROUGH-NUTBOURNE](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/main/DATA/PULBOROUGH-NUTBOURNE) [V2]|PULBOROUGH-NUTBOURNE.csv|TQ075187|50.958|-0.471|100|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=50.958&lon=-0.471&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/50.958,-0.471,16)  |
@@ -841,12 +843,16 @@ Generation time: Saturday 12/11/2022 10:03:55 GMT
 |[RATHMULLEN](https://github.com/ed-hawkins/rainfall-rescue-data-eire/tree/main/DATA/RATHMULLEN) [EIRE]|||||||
 |[RATHMULLEN-FORT-ROYAL](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/RATHMULLEN-FORT-ROYAL)|RATHMULLEN-FORT-ROYAL.csv|IC2987827546|55.095|-7.533|35|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=55.095&lon=-7.533&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/55.095,-7.533,16) [OSM](https://www.openstreetmap.org/#map=16/55.095/-7.533) [GGL](https://www.google.co.uk/maps/@55.095,-7.533,16z)|
 |[RATHNEW-CLONMANNON](https://github.com/ed-hawkins/rainfall-rescue-data-eire/tree/main/DATA/RATHNEW-CLONMANNON) [EIRE]|||||||
+|[RATHO-BONNINGTON](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/RATHO-BONNINGTON) [V3]|||||||
 |[RATHO-INGLISTON](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/RATHO-INGLISTON) [V3]|||||||
+|[RATHO-THE-VILLA](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/RATHO-THE-VILLA) [V3]|||||||
 |[RATHOWEN-CROMLYN](https://github.com/ed-hawkins/rainfall-rescue-data-eire/tree/main/DATA/RATHOWEN-CROMLYN) [EIRE]|||||||
 |[RATHVILLY-LISNAVAGH-GDNS](https://github.com/ed-hawkins/rainfall-rescue-data-eire/tree/main/DATA/RATHVILLY-LISNAVAGH-GDNS) [EIRE]|||||||
 |[RATTRAY-HEAD-COASTGUARD-STATION](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/RATTRAY-HEAD-COASTGUARD-STATION) [V3]|||||||
 |[RATTRAY-MILTON-PLACE](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/RATTRAY-MILTON-PLACE) [V3]|||||||
 |[RAUNDS-MADISON](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/main/DATA/RAUNDS-MADISON) [V2]|RAUNDS-MADISON.csv|SP991721|52.338|-0.547|193|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=52.338&lon=-0.547&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/52.338,-0.547,16)  |
+|[RAVENGLASS-IRT-SIDE-HOLM-ROOK](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/RAVENGLASS-IRT-SIDE-HOLM-ROOK) [V3]|||||||
+|[RAVENGLASS-NEWTOWN](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/RAVENGLASS-NEWTOWN) [V3]|||||||
 |[RAVENGLASS-THE-GROVE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/RAVENGLASS-THE-GROVE)|RAVENGLASS-THE-GROVE.csv|SD088965|54.356|-3.405|70|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=54.356&lon=-3.405&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/54.356,-3.405,16)  |
 |[RAVENSDALE-ANAVERNA](https://github.com/ed-hawkins/rainfall-rescue-data-eire/tree/main/DATA/RAVENSDALE-ANAVERNA) [EIRE]|||||||
 |[RAVENSDALE-SCHOOL](https://github.com/ed-hawkins/rainfall-rescue-data-eire/tree/main/DATA/RAVENSDALE-SCHOOL) [EIRE]|||||||
@@ -1288,6 +1294,7 @@ Generation time: Saturday 12/11/2022 10:03:55 GMT
 |[ROSCREA-CANGORT-PARK](https://github.com/ed-hawkins/rainfall-rescue-data-eire/tree/main/DATA/ROSCREA-CANGORT-PARK) [EIRE]|||||||
 |[ROSCREA-TIMONEY-PARK](https://github.com/ed-hawkins/rainfall-rescue-data-eire/tree/main/DATA/ROSCREA-TIMONEY-PARK) [EIRE]|||||||
 |[ROSEBUSH](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/main/DATA/ROSEBUSH) [V2]|ROSEBUSH.csv|SN074296|51.931|-4.803|750|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=51.931&lon=-4.803&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/51.931,-4.803,16)  |
+|[ROSEWELL](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/ROSEWELL) [V3]|||||||
 |[ROSEWELL-ASYLUM](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/ROSEWELL-ASYLUM)|ROSEWELL-ASYLUM.csv|NT266608|55.835|-3.173|695|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=55.835&lon=-3.173&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/55.835,-3.173,16)  |
 |[ROSNEATH-ACHNASHIE](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/main/DATA/ROSNEATH-ACHNASHIE) [V2]|ROSNEATH-ACHNASHIE.csv|NS250836|56.013|-4.809|25|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=56.013&lon=-4.809&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/56.013,-4.809,16)  |
 |[ROSNEATH-CASTLE-GDNS](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/main/DATA/ROSNEATH-CASTLE-GDNS) [V2]|ROSNEATH-CASTLE-GDNS.csv|NS2701082040|56.000|-4.776|33|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=56.000&lon=-4.776&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/56.000,-4.776,16)  |
@@ -1303,6 +1310,7 @@ Generation time: Saturday 12/11/2022 10:03:55 GMT
 |[ROSS-SELLACK-VICARAGE](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/ROSS-SELLACK-VICARAGE) [V3]|ROSS-SELLACK-VICARAGE.csv|SO567274|51.944|-2.630|240|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=51.944&lon=-2.630&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/51.944,-2.630,16)  |
 |[ROSS-THE-CHANTRY](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/ROSS-THE-CHANTRY) [V3]|ROSS-THE-CHANTRY.csv|SO627290|51.958|-2.544|475|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=51.958&lon=-2.544&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/51.958,-2.544,16)  |
 |[ROSS-THE-GRAIG-BIRCHLEA](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/ROSS-THE-GRAIG-BIRCHLEA)|ROSS-THE-GRAIG-BIRCHLEA.csv|SO596235|51.909|-2.589|213|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=51.909&lon=-2.589&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/51.909,-2.589,16)  |
+|[ROSSINGTON-BRIDGE-PUMPING-STATION](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/ROSSINGTON-BRIDGE-PUMPING-STATION) [V3]|||||||
 |[ROSSINGTON-MAIN-COLLIERY](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/main/DATA/ROSSINGTON-MAIN-COLLIERY) [V2]|ROSSINGTON-MAIN-COLLIERY.csv|SK602984|53.479|-1.094|32|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=53.479&lon=-1.094&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/53.479,-1.094,16)  |
 |[ROSTHWAITE-CASTLE-LODGE](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/ROSTHWAITE-CASTLE-LODGE) [V3]|ROSTHWAITE-CASTLE-LODGE.csv|NY257147|54.522|-3.149|305|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=54.522&lon=-3.149&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/54.522,-3.149,16)  |
 |[ROSYTH-HM-DOCKYARD](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/ROSYTH-HM-DOCKYARD) [V3]|ROSYTH-HM-DOCKYARD.csv|NT0972382776|56.029|-3.450|53|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=56.029&lon=-3.450&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/56.029,-3.450,16)  |
@@ -1327,6 +1335,7 @@ Generation time: Saturday 12/11/2022 10:03:55 GMT
 |[ROTHERHAM-MOORGATE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/ROTHERHAM-MOORGATE)|ROTHERHAM-MOORGATE.csv|SK434915|53.419|-1.348|275|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=53.419&lon=-1.348&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/53.419,-1.348,16)  |
 |[ROTHERHAM-RAMSDEN-ROAD](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/ROTHERHAM-RAMSDEN-ROAD) [V3]|ROTHERHAM-RAMSDEN-ROAD.csv|SK433922|53.425|-1.350|180|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=53.425&lon=-1.350&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/53.425,-1.350,16)  |
 |[ROTHERHAM-SITWELL-VALE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/ROTHERHAM-SITWELL-VALE)|ROTHERHAM-SITWELL-VALE.csv|SK441910|53.414|-1.338|300|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=53.414&lon=-1.338&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/53.414,-1.338,16)  |
+|[ROTHERHAM-THORPE-HESLEY](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/ROTHERHAM-THORPE-HESLEY) [V3]|||||||
 |[ROTHERHAM-THRYBERGH](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/ROTHERHAM-THRYBERGH)|ROTHERHAM-THRYBERGH.csv|SK474961|53.460|-1.288|184|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=53.460&lon=-1.288&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/53.460,-1.288,16)  |
 |[ROTHERHAM-ULLEY-RES](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/ROTHERHAM-ULLEY-RES)|ROTHERHAM-ULLEY-RES.csv|SK452875|53.383|-1.322|184|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=53.383&lon=-1.322&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/53.383,-1.322,16)  |
 ||ROTHERHAM-ULLEY-RES-2.csv|SK455874|53.381|-1.317|184|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=53.381&lon=-1.317&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/53.381,-1.317,16)  |
