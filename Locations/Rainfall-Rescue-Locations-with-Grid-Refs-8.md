@@ -1,4 +1,4 @@
-Generation time: Thursday 17/11/2022 07:54:58 GMT
+Generation time: Saturday 19/11/2022 09:50:37 GMT
 
 ## Locations S-T
 
@@ -1089,6 +1089,7 @@ Generation time: Thursday 17/11/2022 07:54:58 GMT
 |[ST-DAVIDS-SCHOOL](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/main/DATA/ST-DAVIDS-SCHOOL) [V2]|ST-DAVIDS-SCHOOL.csv|SM749246|51.874|-5.272|124|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=51.874&lon=-5.272&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/51.874,-5.272,16)  |
 |[ST-DAY-SCHOOL](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/ST-DAY-SCHOOL) [V3]|ST-DAY-SCHOOL.csv|SW731421|50.236|-5.183|390|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=50.236&lon=-5.183&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/50.236,-5.183,16)  |
 ||ST-DAY-SCHOOL-2.csv|SW772431|50.246|-5.126|346|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=50.246&lon=-5.126&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/50.246,-5.126,16)  |
+|[ST-DEVEREUX-WHITFIELD-COURT](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/ST-DEVEREUX-WHITFIELD-COURT) [V3]|||||||
 |[ST-ENDELLION-PARK-VILLA](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/ST-ENDELLION-PARK-VILLA)|ST-ENDELLION-PARK-VILLA.csv|SW988792|50.578|-4.842|277|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=50.578&lon=-4.842&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/50.578,-4.842,16)  |
 ||ST-ENDELLION-PARK-VILLA-2.csv|SW988792|50.578|-4.842|302|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=50.578&lon=-4.842&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/50.578,-4.842,16)  |
 |[ST-ENODER-RETYN](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/ST-ENODER-RETYN) [V3]|||||||
@@ -1714,6 +1715,7 @@ Generation time: Thursday 17/11/2022 07:54:58 GMT
 |[SUTTON-BRIDGE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/SUTTON-BRIDGE)|SUTTON-BRIDGE.csv|TF476200|52.757|0.186|21|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=52.757&lon=0.186&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/52.757,0.186,16)  |
 |[SUTTON-BRIDGE-WINGLAND-GRANGE](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/main/DATA/SUTTON-BRIDGE-WINGLAND-GRANGE) [V2]|SUTTON-BRIDGE-WINGLAND-GRANGE.csv|TF517220|52.774|0.247|12|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=52.774&lon=0.247&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/52.774,0.247,16)  |
 |[SUTTON-CAMBORNE-ROAD](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/main/DATA/SUTTON-CAMBORNE-ROAD) [V2]|SUTTON-CAMBORNE-ROAD.csv|TQ257632|51.354|-0.195|250|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=51.354&lon=-0.195&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/51.354,-0.195,16)  |
+|[SUTTON-COLDFIELD](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/SUTTON-COLDFIELD) [V3]|||||||
 |[SUTTON-COLDFIELD-FOUR-OAKS](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/main/DATA/SUTTON-COLDFIELD-FOUR-OAKS) [V2]|SUTTON-COLDFIELD-FOUR-OAKS.csv|SP122985|52.584|-1.821|495|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=52.584&lon=-1.821&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/52.584,-1.821,16)  |
 |[SUTTON-COLDFIELD-GABLES](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/main/DATA/SUTTON-COLDFIELD-GABLES) [V2]|SUTTON-COLDFIELD-GABLES.csv|SP116965|52.566|-1.830|394|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=52.566&lon=-1.830&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/52.566,-1.830,16)  |
 |[SUTTON-COLDFIELD-LADYWOOD](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/SUTTON-COLDFIELD-LADYWOOD) [V3]|SUTTON-COLDFIELD-LADYWOOD.csv|SP109974|52.574|-1.841|500|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=52.574&lon=-1.841&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/52.574,-1.841,16)  |
@@ -1985,6 +1987,7 @@ Generation time: Thursday 17/11/2022 07:54:58 GMT
 |[TEDBURN-ST-MARY-RECTORY](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/main/DATA/TEDBURN-ST-MARY-RECTORY) [V2]|TEDBURN-ST-MARY-RECTORY.csv|SX807944|50.737|-3.692|370|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=50.737&lon=-3.692&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/50.737,-3.692,16)  |
 |[TEDDINGTON-GOMER-HOUSE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/TEDDINGTON-GOMER-HOUSE)|TEDDINGTON-GOMER-HOUSE.csv|TQ161708|51.424|-0.332|26|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=51.424&lon=-0.332&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/51.424,-0.332,16)  |
 |[TEDDINGTON-HOLMESDALE](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/TEDDINGTON-HOLMESDALE) [V3]|TEDDINGTON-HOLMESDALE.csv|TQ172705|51.421|-0.316|25|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=51.421&lon=-0.316&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/51.421,-0.316,16)  |
+|[TEDDINGTON-STANLEY-ROAD](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/TEDDINGTON-STANLEY-ROAD) [V3]|||||||
 |[TEIGNMOUTH-BENTON](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/TEIGNMOUTH-BENTON)|TEIGNMOUTH-BENTON.csv|SX935736|50.553|-3.505|320|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=50.553&lon=-3.505&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/50.553,-3.505,16)  |
 ||TEIGNMOUTH-BENTON-2.csv|SX942742|50.559|-3.494|335|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=50.559&lon=-3.494&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/50.559,-3.494,16)  |
 |[TEIGNMOUTH-BITTON](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/TEIGNMOUTH-BITTON)|TEIGNMOUTH-BITTON.csv|SX937730|50.548|-3.501|70|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=50.548&lon=-3.501&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/50.548,-3.501,16)  |
