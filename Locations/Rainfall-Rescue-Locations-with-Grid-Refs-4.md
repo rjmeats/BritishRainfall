@@ -1,4 +1,4 @@
-Generation time: Saturday 19/11/2022 09:50:37 GMT
+Generation time: Tuesday 22/11/2022 08:41:33 GMT
 
 ## Locations G-J
 
@@ -1475,6 +1475,7 @@ Generation time: Saturday 19/11/2022 09:50:37 GMT
 |[HAYLE-ST-ERTH](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/main/DATA/HAYLE-ST-ERTH) [V2]|HAYLE-ST-ERTH.csv|SW543359|50.172|-5.442|50|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=50.172&lon=-5.442&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/50.172,-5.442,16)  |
 |[HAYLEY-GREEN-PUMPING-STATION](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/HAYLEY-GREEN-PUMPING-STATION) [V3]|||||||
 |[HAYLING-ISLAND](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/main/DATA/HAYLING-ISLAND) [V2]|HAYLING-ISLAND.csv|SZ715988|50.785|-0.986|13|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=50.785&lon=-0.986&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/50.785,-0.986,16)  |
+|[HAYLING-ISLAND-LAMA-HOUSE](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/HAYLING-ISLAND-LAMA-HOUSE) [V3]|||||||
 |[HAYLING-ISLAND-LITTLEMEAD](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/HAYLING-ISLAND-LITTLEMEAD) [V3]|||||||
 |[HAYLING-ISLAND-RICHMOND-HOUSE](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/main/DATA/HAYLING-ISLAND-RICHMOND-HOUSE) [V2]|HAYLING-ISLAND-RICHMOND-HOUSE.csv|SZ709991|50.787|-0.996|16|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=50.787&lon=-0.996&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/50.787,-0.996,16)  |
 |[HAYWARDS-HEATH-ABBOTS-LEIGH](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/main/DATA/HAYWARDS-HEATH-ABBOTS-LEIGH) [V2]|HAYWARDS-HEATH-ABBOTS-LEIGH.csv|TQ351227|50.988|-0.077|250|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=50.988&lon=-0.077&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/50.988,-0.077,16)  |
@@ -1768,6 +1769,7 @@ Generation time: Saturday 19/11/2022 09:50:37 GMT
 ||HIGHCLERE-BLACK-FORD-2.csv|SU437603|51.341|-1.374|439|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=51.341&lon=-1.374&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/51.341,-1.374,16)  |
 |[HIGHCLERE-CASTLE-GARDENS](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/main/DATA/HIGHCLERE-CASTLE-GARDENS) [V2]|HIGHCLERE-CASTLE-GARDENS.csv|SU444588|51.327|-1.364|500|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=51.327&lon=-1.364&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/51.327,-1.364,16)  |
 ||HIGHCLERE-CASTLE-GARDENS-2.csv|SU444588|51.327|-1.364|500|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=51.327&lon=-1.364&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/51.327,-1.364,16)  |
+|[HIGHCLERE-HORRIS-HILL](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/HIGHCLERE-HORRIS-HILL) [V3]|||||||
 |[HIGHER-SWINESHAW](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/HIGHER-SWINESHAW)|HIGHER-SWINESHAW.csv|SK009992|53.490|-1.988|1168|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=53.490&lon=-1.988&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/53.490,-1.988,16)  |
 ||HIGHER-SWINESHAW-2.csv|SK006996|53.493|-1.992|965|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=53.493&lon=-1.992&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/53.493,-1.992,16)  |
 |[HIGHER-WALTON-BANNISTER-HALL](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/main/DATA/HIGHER-WALTON-BANNISTER-HALL) [V2]|HIGHER-WALTON-BANNISTER-HALL.csv|SD586281|53.748|-2.629|75|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=53.748&lon=-2.629&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/53.748,-2.629,16)  |
@@ -2215,6 +2217,7 @@ Generation time: Saturday 19/11/2022 09:50:37 GMT
 |[HYTHE-SANDLING-PARK](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/HYTHE-SANDLING-PARK)|HYTHE-SANDLING-PARK.csv|TR142368|51.090|1.057|268|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=51.090&lon=1.057&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/51.090,1.057,16)  |
 ||HYTHE-SANDLING-PARK-2.csv|TR142368|51.090|1.057|268|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=51.090&lon=1.057&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/51.090,1.057,16)  |
 |[HYTHE-SEABROOK-ROAD](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/HYTHE-SEABROOK-ROAD) [V3]|||||||
+|[HYTHE-THE-GARTH-DIBDEN](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/HYTHE-THE-GARTH-DIBDEN) [V3]|||||||
 |[ICKENHAM-PUMPING-STATION](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/ICKENHAM-PUMPING-STATION) [V3]|||||||
 |[ICKLESHAM](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/main/DATA/ICKLESHAM) [V2]|ICKLESHAM.csv|TQ8799216045|50.913|0.673|150|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=50.913&lon=0.673&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/50.913,0.673,16)  |
 |[ICKLESHAM-PICKHAM-FARM](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/ICKLESHAM-PICKHAM-FARM) [V3]|||||||

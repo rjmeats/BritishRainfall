@@ -1,4 +1,4 @@
-Generation time: Saturday 19/11/2022 09:50:37 GMT
+Generation time: Tuesday 22/11/2022 08:41:33 GMT
 
 ## Locations E-F
 
@@ -158,6 +158,7 @@ Generation time: Saturday 19/11/2022 09:50:37 GMT
 |[EAST-QUANTOXHEAD-THE-RECTORY](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/main/DATA/EAST-QUANTOXHEAD-THE-RECTORY) [V2]|EAST-QUANTOXHEAD-THE-RECTORY.csv|ST138433|51.183|-3.234|130|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=51.183&lon=-3.234&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/51.183,-3.234,16)  |
 |[EAST-RETFORD](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/EAST-RETFORD) [V3]|EAST-RETFORD.csv|SK704811|53.322|-0.945|50|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=53.322&lon=-0.945&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/53.322,-0.945,16)  |
 |[EAST-SHEEN-CEMETERY](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/main/DATA/EAST-SHEEN-CEMETERY) [V2]|EAST-SHEEN-CEMETERY.csv|TQ193747|51.459|-0.284|88|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=51.459&lon=-0.284&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/51.459,-0.284,16)  |
+|[EAST-STOUR-HOMESTEAD](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/EAST-STOUR-HOMESTEAD) [V3]|||||||
 |[EAST-TISTED-ROTHERFIELD](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/EAST-TISTED-ROTHERFIELD)|EAST-TISTED-ROTHERFIELD.csv|SU693322|51.085|-1.012|550|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=51.085&lon=-1.012&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/51.085,-1.012,16)  |
 |[EAST-WINCH-HOLLAND-HOUSE](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/main/DATA/EAST-WINCH-HOLLAND-HOUSE) [V2]|EAST-WINCH-HOLLAND-HOUSE.csv|TF691163|52.718|0.502|55|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=52.718&lon=0.502&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/52.718,0.502,16)  |
 |[EAST-YELL-SHETLAND](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/EAST-YELL-SHETLAND)|EAST-YELL-SHETLAND.csv|HU519862|60.556|-1.055|177|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=60.556&lon=-1.055&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/60.556,-1.055,16)  |
@@ -695,6 +696,7 @@ Generation time: Saturday 19/11/2022 09:50:37 GMT
 ||EXETER-THE-CLOSE-2.csv|SX922925|50.723|-3.528|150|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=50.723&lon=-3.528&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/50.723,-3.528,16)  |
 |[EXETER-THE-QUARRIES](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/EXETER-THE-QUARRIES) [V3]|||||||
 |[EXETER-WHITSTONE-RECTORY](https://github.com/ed-hawkins/rainfall-rescue/tree/master/POOR-LOCATIONS/EXETER-WHITSTONE-RECTORY) [POOR]|||||||
+|[EXFORD-FOXCOMBE](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/EXFORD-FOXCOMBE) [V3]|||||||
 |[EXFORD-LOWER-THORNE](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/main/DATA/EXFORD-LOWER-THORNE) [V2]|EXFORD-LOWER-THORNE.csv|SS843383|51.132|-3.655|1000|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=51.132&lon=-3.655&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/51.132,-3.655,16)  |
 |[EXFORD-NEW-RECTORY](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/main/DATA/EXFORD-NEW-RECTORY) [V2]|EXFORD-NEW-RECTORY.csv|SS857384|51.133|-3.635|950|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=51.133&lon=-3.635&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/51.133,-3.635,16)  |
 |[EXFORD-NORTH-LEY](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/EXFORD-NORTH-LEY)|EXFORD-NORTH-LEY.csv|SS843386|51.135|-3.655|1000|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=51.135&lon=-3.655&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/51.135,-3.655,16)  |
@@ -897,6 +899,7 @@ Generation time: Saturday 19/11/2022 09:50:37 GMT
 |[FELTON](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/FELTON) [V3]|||||||
 |[FELTON-SCHOOL-GDNS](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/main/DATA/FELTON-SCHOOL-GDNS) [V2]|FELTON-SCHOOL-GDNS.csv|NU184007|55.300|-1.712|180|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=55.300&lon=-1.712&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/55.300,-1.712,16)  |
 ||FELTON-SCHOOL-GDNS-2.csv|NU170053|55.341|-1.734|500|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=55.341&lon=-1.734&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/55.341,-1.734,16)  |
+|[FELTON-ST-KATHERINES-VICARAGE](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/FELTON-ST-KATHERINES-VICARAGE) [V3]|||||||
 |[FELTON-UPPER-TOWN](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/main/DATA/FELTON-UPPER-TOWN) [V2]|FELTON-UPPER-TOWN.csv|ST525660|51.391|-2.684|550|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=51.391&lon=-2.684&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/51.391,-2.684,16)  |
 |[FENAGH-BAGNALSTOWN](https://github.com/ed-hawkins/rainfall-rescue-data-eire/tree/main/DATA/FENAGH-BAGNALSTOWN) [EIRE]|||||||
 |[FENCE-HOUSES-CHILTON-MOOR](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/main/DATA/FENCE-HOUSES-CHILTON-MOOR) [V2]|FENCE-HOUSES-CHILTON-MOOR.csv|NZ322493|54.837|-1.500|186|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=54.837&lon=-1.500&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/54.837,-1.500,16)  |
