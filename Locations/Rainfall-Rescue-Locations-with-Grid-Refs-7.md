@@ -1,4 +1,4 @@
-Generation time: Friday 25/11/2022 15:47:34 GMT
+Generation time: Friday 25/11/2022 21:49:24 GMT
 
 ## Locations P-R
 
@@ -29,7 +29,7 @@ Generation time: Friday 25/11/2022 15:47:34 GMT
 |[PAIGNTON-HOLLICOMBE](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/PAIGNTON-HOLLICOMBE) [V3]|PAIGNTON-HOLLICOMBE.csv|SX896622|50.449|-3.555|70|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=50.449&lon=-3.555&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/50.449,-3.555,16)  |
 ||PAIGNTON-HOLLICOMBE-2.csv|SX896622|50.449|-3.555|70|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=50.449&lon=-3.555&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/50.449,-3.555,16)  |
 ||PAIGNTON-HOLLICOMBE-3.csv|SX889612|50.441|-3.566|28|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=50.441&lon=-3.566&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/50.441,-3.566,16)  |
-|[PAIGNTON-MADEIRA-COTTAGE](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/PAIGNTON-MADEIRA-COTTAGE) [V3]|||||||
+|[PAIGNTON-MADEIRA-COTTAGE](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/PAIGNTON-MADEIRA-COTTAGE) [V3]|PAIGNTON-MADEIRA-COTTAGE.csv|SX889612|50.440|-3.565|30|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=50.440&lon=-3.565&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/50.440,-3.565,16)  |
 |[PAIGNTON-TORQUAY-ROAD](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/PAIGNTON-TORQUAY-ROAD) [V3]|PAIGNTON-TORQUAY-ROAD.csv|SX887611|50.439|-3.568|23|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=50.439&lon=-3.568&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/50.439,-3.568,16)  |
 |[PAIGNTON-VICARAGE](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/PAIGNTON-VICARAGE) [V3]|PAIGNTON-VICARAGE.csv|SX886607|50.436|-3.570|42|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=50.436&lon=-3.570&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/50.436,-3.570,16)  |
 |[PAIGNTON-VICTORIA-PARK](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/PAIGNTON-VICTORIA-PARK)|PAIGNTON-VICTORIA-PARK.csv|SX890605|50.434|-3.563|11|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=50.434&lon=-3.563&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/50.434,-3.563,16)  |
@@ -1028,7 +1028,7 @@ Generation time: Friday 25/11/2022 15:47:34 GMT
 ||REIGATE-HARTSWOOD-2.csv|TQ249476|51.214|-0.213|174|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=51.214&lon=-0.213&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/51.214,-0.213,16)  |
 |[REIGATE-HATHERLOW-OBSERVATORY](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/REIGATE-HATHERLOW-OBSERVATORY) [V3]|REIGATE-HATHERLOW-OBSERVATORY.csv|TQ256515|51.249|-0.202|405|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=51.249&lon=-0.202&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/51.249,-0.202,16)  |
 |[REIGATE-HILL-GATTON](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/REIGATE-HILL-GATTON) [V3]|REIGATE-HILL-GATTON.csv|TQ262523|51.256|-0.193|687|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=51.256&lon=-0.193&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/51.256,-0.193,16)  |
-|[REIGATE-HILL-TOP-ROAD](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/REIGATE-HILL-TOP-ROAD) [V3]|||||||
+|[REIGATE-HILL-TOP-ROAD](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/REIGATE-HILL-TOP-ROAD) [V3]|REIGATE-HILL-TOP-ROAD.csv|TQ259494|51.230|-0.197|375|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=51.230&lon=-0.197&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/51.230,-0.197,16)  |
 |[REIGATE-HOLMFELS](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/REIGATE-HOLMFELS)|REIGATE-HOLMFELS.csv|TQ254500|51.235|-0.205|260|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=51.235&lon=-0.205&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/51.235,-0.205,16)  |
 |[REIGATE-LAGLANDS](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/main/DATA/REIGATE-LAGLANDS) [V2]|REIGATE-LAGLANDS.csv|TQ263513|51.247|-0.191|375|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=51.247&lon=-0.191&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/51.247,-0.191,16)  |
 |[REIGATE-NORTHCOTE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/REIGATE-NORTHCOTE)|REIGATE-NORTHCOTE.csv|TQ265511|51.245|-0.189|360|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=51.245&lon=-0.189&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/51.245,-0.189,16)  |

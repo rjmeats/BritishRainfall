@@ -1,4 +1,4 @@
-Generation time: Friday 25/11/2022 15:47:34 GMT
+Generation time: Friday 25/11/2022 21:49:24 GMT
 
 ## Locations K-M
 
@@ -100,7 +100,8 @@ Generation time: Friday 25/11/2022 15:47:34 GMT
 |[KENILWORTH-THICKTHORNS](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/main/DATA/KENILWORTH-THICKTHORNS) [V2]|KENILWORTH-THICKTHORNS.csv|SP297708|52.334|-1.566|273|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=52.334&lon=-1.566&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/52.334,-1.566,16)  |
 |[KENILWORTH-UDC-OFFICES](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/main/DATA/KENILWORTH-UDC-OFFICES) [V2]|KENILWORTH-UDC-OFFICES.csv|SP289721|52.346|-1.577|294|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=52.346&lon=-1.577&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/52.346,-1.577,16)  |
 |[KENKNOCK](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/KENKNOCK) [V3]|||||||
-|[KENLEY-HAZELEA](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/KENLEY-HAZELEA) [V3]|||||||
+|[KENLEY-HAZELEA](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/KENLEY-HAZELEA) [V3]|KENLEY-HAZELEA.csv|TQ324600|51.324|-0.101|282|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=51.324&lon=-0.101&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/51.324,-0.101,16)  |
+||KENLEY-HAZELEA-2.csv|TQ324600|51.324|-0.101|282|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=51.324&lon=-0.101&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/51.324,-0.101,16)  |
 |[KENLEY-INGLESIDE](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/KENLEY-INGLESIDE) [V3]|||||||
 |[KENLEY-PUMPING-STATION](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/KENLEY-PUMPING-STATION)|KENLEY-PUMPING-STATION.csv|TQ325601|51.325|-0.100|275|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=51.325&lon=-0.100&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/51.325,-0.100,16)  |
 |[KENLEY-REFUSE-DISPOSAL-WKS](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/main/DATA/KENLEY-REFUSE-DISPOSAL-WKS) [V2]|KENLEY-REFUSE-DISPOSAL-WKS.csv|TQ335593|51.317|-0.086|286|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=51.317&lon=-0.086&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/51.317,-0.086,16)  |
@@ -403,7 +404,7 @@ Generation time: Friday 25/11/2022 15:47:34 GMT
 ||KINGSBRIDGE-FORE-ST-HILL-3.csv|SX733445|50.287|-3.779|84|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=50.287&lon=-3.779&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/50.287,-3.779,16)  |
 ||KINGSBRIDGE-FORE-ST-HILL-4.csv|SX734443|50.286|-3.777|65|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=50.286&lon=-3.777&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/50.286,-3.777,16)  |
 ||KINGSBRIDGE-FORE-ST-HILL-5.csv|SX734443|50.286|-3.777|100|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=50.286&lon=-3.777&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/50.286,-3.777,16)  |
-|[KINGSBRIDGE-SENIOR-SCHOOL](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/KINGSBRIDGE-SENIOR-SCHOOL) [V3]|||||||
+|[KINGSBRIDGE-SENIOR-SCHOOL](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/KINGSBRIDGE-SENIOR-SCHOOL) [V3]|KINGSBRIDGE-SENIOR-SCHOOL.csv|SX737446|50.288|-3.773|100|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=50.288&lon=-3.773&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/50.288,-3.773,16)  |
 |[KINGSBRIDGE-THE-KNOWLE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/KINGSBRIDGE-THE-KNOWLE)|KINGSBRIDGE-THE-KNOWLE.csv|SX734446|50.288|-3.777|110|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=50.288&lon=-3.777&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/50.288,-3.777,16)  |
 |[KINGSBRIDGE-WEST-ALVINGTON-RES](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/KINGSBRIDGE-WEST-ALVINGTON-RES) [V3]|||||||
 |[KINGSBRIDGE-WESTBURN-TERRACE](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/KINGSBRIDGE-WESTBURN-TERRACE) [V3]|KINGSBRIDGE-WESTBURN-TERRACE.csv|SX737446|50.288|-3.774|90|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=50.288&lon=-3.774&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/50.288,-3.774,16)  |
@@ -1180,7 +1181,7 @@ Generation time: Friday 25/11/2022 15:47:34 GMT
 |[LIMPSFIELD-KENT-HATCH-RES](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/main/DATA/LIMPSFIELD-KENT-HATCH-RES) [V2]|LIMPSFIELD-KENT-HATCH-RES.csv|TQ436515|51.245|0.056|664|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=51.245&lon=0.056&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/51.245,0.056,16)  |
 |[LIMPSFIELD-PAINES-HILL](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/main/DATA/LIMPSFIELD-PAINES-HILL) [V2]|LIMPSFIELD-PAINES-HILL.csv|TQ412516|51.246|0.022|410|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=51.246&lon=0.022&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/51.246,0.022,16)  |
 |[LIMPSFIELD-RED-LANE-FARM](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/LIMPSFIELD-RED-LANE-FARM) [V3]|LIMPSFIELD-RED-LANE-FARM.csv|TQ406505|51.236|0.013|281|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=51.236&lon=0.013&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/51.236,0.013,16)  |
-|[LIMPSFIELD-THE-CHART](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/LIMPSFIELD-THE-CHART) [V3]|||||||
+|[LIMPSFIELD-THE-CHART](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/LIMPSFIELD-THE-CHART) [V3]|LIMPSFIELD-THE-CHART.csv|TQ423519|51.249|0.038|570|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=51.249&lon=0.038&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/51.249,0.038,16)  |
 |[LINCHMERE-BORDEN-WOOD](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/main/DATA/LINCHMERE-BORDEN-WOOD) [V2]|LINCHMERE-BORDEN-WOOD.csv|SU831252|51.020|-0.817|260|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=51.020&lon=-0.817&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/51.020,-0.817,16)  |
 |[LINCHMERE-HOLLYCOMBE](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/main/DATA/LINCHMERE-HOLLYCOMBE) [V2]|LINCHMERE-HOLLYCOMBE.csv|SU851293|51.057|-0.787|550|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=51.057&lon=-0.787&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/51.057,-0.787,16)  |
 |[LINCHMERE-SHOTTERMILL](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/main/DATA/LINCHMERE-SHOTTERMILL) [V2]|LINCHMERE-SHOTTERMILL.csv|SU877322|51.082|-0.749|450|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=51.082&lon=-0.749&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/51.082,-0.749,16)  |
