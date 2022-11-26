@@ -1,4 +1,4 @@
-Generation time: Friday 25/11/2022 21:49:24 GMT
+Generation time: Saturday 26/11/2022 00:04:40 GMT
 
 
 [MO-2020] indicates a location which contributed to the [Met Office 2020 UK Climate Report](https://www.metoffice.gov.uk/research/climate/maps-and-data/about/state-of-climate):
@@ -12610,8 +12610,8 @@ Generation time: Friday 25/11/2022 21:49:24 GMT
 * [BINGLEY-EAST-MORTON](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/BINGLEY-EAST-MORTON) : 2022-08-24 12:10:32 +0100 
 * [BINGLEY-SEWAGE-WORKS](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/BINGLEY-SEWAGE-WORKS) : 2022-08-24 12:10:32 +0100 
 * [BINSTEAD-THE-QUARRY](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/BINSTEAD-THE-QUARRY) : 2022-08-09 17:44:55 +0100 
-* [BIRCHINGTON-ACOL-FARM](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/BIRCHINGTON-ACOL-FARM) : 2022-09-26 17:38:43 +0100 
-* [BIRCHINLEE-MOOR-COTE-RIDGE](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/BIRCHINLEE-MOOR-COTE-RIDGE) : 2022-11-25 12:49:01 +0000 
+* [BIRCHINGTON-ACOL-FARM](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/BIRCHINGTON-ACOL-FARM) : 2022-11-25 22:32:04 +0000 
+* [BIRCHINLEE-MOOR-COTE-RIDGE](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/BIRCHINLEE-MOOR-COTE-RIDGE) : 2022-11-25 22:32:04 +0000 
 * [BIRKDALE-WESTCLIFFE-ROAD](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/BIRKDALE-WESTCLIFFE-ROAD) : 2022-11-01 15:45:04 +0000 
 * [BIRKENHEAD-OXTON](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/BIRKENHEAD-OXTON) : 2022-08-22 19:52:34 +0100 
 * [BIRMINGHAM-CARPENTER-ROAD](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/BIRMINGHAM-CARPENTER-ROAD) : 2022-08-30 15:18:15 +0100 
@@ -12836,7 +12836,7 @@ Generation time: Friday 25/11/2022 21:49:24 GMT
 * [CAMBERLEY-CORDWALLES](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/CAMBERLEY-CORDWALLES) : 2022-11-24 18:39:19 +0000 
 * [CAMBERLEY-HEATHCOTE](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/CAMBERLEY-HEATHCOTE) : 2022-10-28 18:15:55 +0100 
 * [CAMBERLEY-THE-HOLT](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/CAMBERLEY-THE-HOLT) : 2022-11-25 12:49:01 +0000 
-* [CAMBERLEY-WAVERLEY-COURT-PARK-ROAD](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/CAMBERLEY-WAVERLEY-COURT-PARK-ROAD) : 2022-11-25 12:49:01 +0000 
+* [CAMBERLEY-WAVERLEY-COURT-PARK-ROAD](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/CAMBERLEY-WAVERLEY-COURT-PARK-ROAD) : 2022-11-25 22:32:04 +0000 
 * [CAMBERWELL-LEYTON-SQUARE](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/CAMBERWELL-LEYTON-SQUARE) : 2022-10-09 16:52:12 +0100 
 * [CAMBERWELL-THE-GREEN](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/CAMBERWELL-THE-GREEN) : 2022-10-06 18:22:23 +0100 
 * [CAMBORNE-REDBROOK-RD](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/CAMBORNE-REDBROOK-RD) : 2022-08-09 17:44:55 +0100 
@@ -15103,7 +15103,7 @@ Generation time: Friday 25/11/2022 21:49:24 GMT
 * [TEWKESBURY-ALDERTON-RECTORY](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/TEWKESBURY-ALDERTON-RECTORY) : 2022-11-07 17:35:42 +0000 
 * [THAKEHAM-HIGH-BAR](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/THAKEHAM-HIGH-BAR) : 2022-11-05 09:55:50 +0000 
 * [THAME-CHEARSLEY-HILL](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/THAME-CHEARSLEY-HILL) : 2022-11-01 15:45:04 +0000 
-* [THAMES-DITTON-GIGGS-HILL](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/THAMES-DITTON-GIGGS-HILL) : 2022-11-25 12:49:01 +0000 
+* [THAMES-DITTON-GIGGS-HILL](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/THAMES-DITTON-GIGGS-HILL) : 2022-11-25 22:32:04 +0000 
 * [THAMES-DITTON-WESTON-GREEN](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/THAMES-DITTON-WESTON-GREEN) : 2022-08-30 15:18:15 +0100 
 * [THE-DHOON](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/THE-DHOON) : 2022-08-07 22:46:21 +0100 
 * [THE-PEAK-FAIRBROOK](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/THE-PEAK-FAIRBROOK) : 2022-08-22 23:10:37 +0100 
@@ -15370,7 +15370,7 @@ Generation time: Friday 25/11/2022 21:49:24 GMT
 * [WEYBRIDGE-ST-GEORGES-LODGE](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/WEYBRIDGE-ST-GEORGES-LODGE) : 2022-11-06 18:03:34 +0000 
 * [WEYBRIDGE-ST-MARYS-LODGE](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/WEYBRIDGE-ST-MARYS-LODGE) : 2022-10-12 18:24:30 +0100 
 * [WEYBRIDGE-STATION-ROAD](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/WEYBRIDGE-STATION-ROAD) : 2022-11-25 12:49:01 +0000 
-* [WEYBRIDGE-THAMES-STREET](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/WEYBRIDGE-THAMES-STREET) : 2022-11-25 12:49:01 +0000 
+* [WEYBRIDGE-THAMES-STREET](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/WEYBRIDGE-THAMES-STREET) : 2022-11-25 22:32:04 +0000 
 * [WEYMOUTH-LANSDOWNE-VILLA](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/WEYMOUTH-LANSDOWNE-VILLA) : 2022-08-09 17:44:55 +0100 
 * [WEYMOUTH-MASSANDRA](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/WEYMOUTH-MASSANDRA) : 2022-10-11 19:02:25 +0100 
 * [WHALEY-BRIDGE-TAXAL-LODGE](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/WHALEY-BRIDGE-TAXAL-LODGE) : 2022-08-07 23:15:33 +0100 
