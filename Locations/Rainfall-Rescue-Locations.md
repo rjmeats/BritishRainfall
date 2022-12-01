@@ -1,4 +1,4 @@
-Generation time: Saturday 26/11/2022 00:04:40 GMT
+Generation time: Thursday 01/12/2022 00:02:13 GMT
 
 
 [MO-2020] indicates a location which contributed to the [Met Office 2020 UK Climate Report](https://www.metoffice.gov.uk/research/climate/maps-and-data/about/state-of-climate):
@@ -12335,7 +12335,7 @@ Generation time: Saturday 26/11/2022 00:04:40 GMT
 * [YRFON-BYLCHAU](https://tinyurl.com/3xfyv3yv/YRFON-BYLCHAU) : 2022-03-29 23:43:15 +0100 
 * [YSPYTTY-YSTSWYTH-DOLGROES](https://tinyurl.com/3xfyv3yv/YSPYTTY-YSTSWYTH-DOLGROES) : 2022-05-17 12:24:05 +0100 
 
-3214 **rainfall-rescue-data-v3/DATA** locations under [https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA):
+3213 **rainfall-rescue-data-v3/DATA** locations under [https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA):
 
 * [ABBEY-CWMHIR](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/ABBEY-CWMHIR) : 2022-11-03 17:56:02 +0000 
 * [ABBEY-CWMHIR-FORESTERS-HOUSE](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/ABBEY-CWMHIR-FORESTERS-HOUSE) : 2022-11-09 18:50:59 +0000 
@@ -13020,7 +13020,6 @@ Generation time: Saturday 26/11/2022 00:04:40 GMT
 * [COCKERMOUTH-THE-GOAT](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/COCKERMOUTH-THE-GOAT) : 2022-11-16 18:01:10 +0000 
 * [COCKERMOUTH-WW](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/COCKERMOUTH-WW) : 2022-10-31 18:14:10 +0000 
 * [CODSALL-SUCKLING-GREEN-LANE](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/CODSALL-SUCKLING-GREEN-LANE) : 2022-08-30 16:18:21 +0100 
-* [COIRE-CAS-JEANS-HUT](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/COIRE-CAS-JEANS-HUT) : 2022-10-09 16:49:03 +0100 
 * [COIRE-CRUACHAN](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/COIRE-CRUACHAN) : 2022-10-06 18:18:46 +0100 
 * [COIRE-RAIDHAILT](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/COIRE-RAIDHAILT) : 2022-11-03 18:06:40 +0000 
 * [COLBY-SCHOOL](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/COLBY-SCHOOL) : 2022-09-27 11:45:28 +0100 
