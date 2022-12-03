@@ -1,4 +1,4 @@
-Generation time: Thursday 01/12/2022 18:07:53 GMT
+Generation time: Saturday 03/12/2022 09:25:38 GMT
 
 ## Locations K-M
 
@@ -775,7 +775,7 @@ Generation time: Thursday 01/12/2022 18:07:53 GMT
 |[LANGBANK-EAST-BANK](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/LANGBANK-EAST-BANK)|LANGBANK-EAST-BANK.csv|NS3882972861|55.922|-4.581|150|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=55.922&lon=-4.581&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/55.922,-4.581,16)  |
 |[LANGDALE-HEAD](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/LANGDALE-HEAD)|LANGDALE-HEAD.csv|NY279059|54.444|-3.113|380|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=54.444&lon=-3.113&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/54.444,-3.113,16)  |
 |[LANGFORD-BUDVILLE-CHIPLEY](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/main/DATA/LANGFORD-BUDVILLE-CHIPLEY) [V2]|LANGFORD-BUDVILLE-CHIPLEY.csv|ST114235|51.004|-3.264|250|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=51.004&lon=-3.264&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/51.004,-3.264,16)  |
-|[LANGFORD-BUDVILLE-RITHERDENS](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/LANGFORD-BUDVILLE-RITHERDENS) [V3]|||||||
+|[LANGFORD-BUDVILLE-RITHERDONS](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/LANGFORD-BUDVILLE-RITHERDONS) [V3]|||||||
 |[LANGFORD-TREATMENT-PLANT](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/main/DATA/LANGFORD-TREATMENT-PLANT) [V2]|LANGFORD-TREATMENT-PLANT.csv|TL826095|51.754|0.644|40|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=51.754&lon=0.644&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/51.754,0.644,16)  |
 |[LANGHAM](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/LANGHAM)|LANGHAM.csv|TG008412|52.931|0.986|134|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=52.931&lon=0.986&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/52.931,0.986,16)  |
 |[LANGHAM-RECTORY](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/main/DATA/LANGHAM-RECTORY) [V2]|LANGHAM-RECTORY.csv|TM0306832978|51.958|0.954|134|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=51.958&lon=0.954&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/51.958,0.954,16)  |
