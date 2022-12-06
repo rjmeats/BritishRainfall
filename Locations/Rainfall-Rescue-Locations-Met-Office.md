@@ -1,7 +1,10 @@
-Generation time: Saturday 03/12/2022 09:25:38 GMT
+Generation time: Tuesday 06/12/2022 17:28:59 GMT
 
 95 **rainfall-rescue/DATA** locations under [https://tinyurl.com/ycyh86uz](https://tinyurl.com/ycyh86uz) which contributed to the [Met Office 2020 UK Climate Report](https://www.metoffice.gov.uk/research/climate/maps-and-data/about/state-of-climate):
 
+* [WARE-RED-HOUSE](https://tinyurl.com/ycyh86uz/WARE-RED-HOUSE) : 2022-12-06 12:04:33 +0000 
+* [MULL-OF-KINTYRE](https://tinyurl.com/ycyh86uz/MULL-OF-KINTYRE) : 2022-12-05 16:57:11 +0000 
+* [HORSHAM-WIMBLEHURST](https://tinyurl.com/ycyh86uz/HORSHAM-WIMBLEHURST) : 2022-09-02 20:33:20 +0100 
 * [NORTHWICH-WINNINGTON](https://tinyurl.com/ycyh86uz/NORTHWICH-WINNINGTON) : 2022-03-17 20:36:20 +0000 
 * [ABERDEEN-OBSERVATORY](https://tinyurl.com/ycyh86uz/ABERDEEN-OBSERVATORY) : 2021-12-07 12:27:36 +0000 
 * [ABERGAVENNY-LARCHFIELD](https://tinyurl.com/ycyh86uz/ABERGAVENNY-LARCHFIELD) : 2021-12-07 12:27:36 +0000 
@@ -46,7 +49,6 @@ Generation time: Saturday 03/12/2022 09:25:38 GMT
 * [GREENOCK-WW-SPANGO-BURN](https://tinyurl.com/ycyh86uz/GREENOCK-WW-SPANGO-BURN) : 2021-12-07 12:27:36 +0000 
 * [HAREWOOD-ARTHINGTON](https://tinyurl.com/ycyh86uz/HAREWOOD-ARTHINGTON) : 2021-12-07 12:27:36 +0000 
 * [HARTLEPOOL-HART-RES](https://tinyurl.com/ycyh86uz/HARTLEPOOL-HART-RES) : 2021-12-07 12:27:36 +0000 
-* [HORSHAM-WIMBLEHURST](https://tinyurl.com/ycyh86uz/HORSHAM-WIMBLEHURST) : 2021-12-07 12:27:36 +0000 
 * [HYTHE](https://tinyurl.com/ycyh86uz/HYTHE) : 2021-12-07 12:27:36 +0000 
 * [IPSWICH-BELSTEAD-HALL](https://tinyurl.com/ycyh86uz/IPSWICH-BELSTEAD-HALL) : 2021-12-07 12:27:36 +0000 
 * [ISLAY-EALLABUS](https://tinyurl.com/ycyh86uz/ISLAY-EALLABUS) : 2021-12-07 12:27:36 +0000 
@@ -64,7 +66,6 @@ Generation time: Saturday 03/12/2022 09:25:38 GMT
 * [MELTHAM-GRANGE](https://tinyurl.com/ycyh86uz/MELTHAM-GRANGE) : 2021-12-07 12:27:36 +0000 
 * [MELTHAM-HARDEN-MOSS](https://tinyurl.com/ycyh86uz/MELTHAM-HARDEN-MOSS) : 2021-12-07 12:27:36 +0000 
 * [MONEYDIG](https://tinyurl.com/ycyh86uz/MONEYDIG) : 2021-12-07 12:27:36 +0000 
-* [MULL-OF-KINTYRE](https://tinyurl.com/ycyh86uz/MULL-OF-KINTYRE) : 2021-12-07 12:27:36 +0000 
 * [NORWICH-HEIGHAM-CEMETERY](https://tinyurl.com/ycyh86uz/NORWICH-HEIGHAM-CEMETERY) : 2021-12-07 12:27:36 +0000 
 * [ORPINGTON-KENT-WW](https://tinyurl.com/ycyh86uz/ORPINGTON-KENT-WW) : 2021-12-07 12:27:36 +0000 
 * [PAISLEY-COATS-OBSERVATORY](https://tinyurl.com/ycyh86uz/PAISLEY-COATS-OBSERVATORY) : 2021-12-07 12:27:36 +0000 
@@ -91,7 +92,6 @@ Generation time: Saturday 03/12/2022 09:25:38 GMT
 * [THORNTON-RESERVOIR-LEICESTER](https://tinyurl.com/ycyh86uz/THORNTON-RESERVOIR-LEICESTER) : 2021-12-07 12:27:36 +0000 
 * [TRESCO-ABBEY](https://tinyurl.com/ycyh86uz/TRESCO-ABBEY) : 2021-12-07 12:27:36 +0000 
 * [WALTHAM-ABBEY-GUNPOWDER-FACTORY](https://tinyurl.com/ycyh86uz/WALTHAM-ABBEY-GUNPOWDER-FACTORY) : 2021-12-07 12:27:36 +0000 
-* [WARE-RED-HOUSE](https://tinyurl.com/ycyh86uz/WARE-RED-HOUSE) : 2021-12-07 12:27:36 +0000 
 * [WEST-HAM-ABBEY-MILLS](https://tinyurl.com/ycyh86uz/WEST-HAM-ABBEY-MILLS) : 2021-12-07 12:27:36 +0000 
 * [WHITTLESEA-MERE](https://tinyurl.com/ycyh86uz/WHITTLESEA-MERE) : 2021-12-07 12:27:36 +0000 
 * [WINDSOR-ROYAL-GARDENS](https://tinyurl.com/ycyh86uz/WINDSOR-ROYAL-GARDENS) : 2021-12-07 12:27:36 +0000 
