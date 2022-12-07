@@ -1,4 +1,4 @@
-Generation time: Tuesday 06/12/2022 17:29:00 GMT
+Generation time: Wednesday 07/12/2022 19:33:42 GMT
 
 ## Locations P-R
 
@@ -1357,7 +1357,7 @@ Generation time: Tuesday 06/12/2022 17:29:00 GMT
 |[ROTHERWICK-TYLNEY-HALL](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/ROTHERWICK-TYLNEY-HALL)|ROTHERWICK-TYLNEY-HALL.csv|SU707555|51.294|-0.987|250|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=51.294&lon=-0.987&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/51.294,-0.987,16)  |
 ||ROTHERWICK-TYLNEY-HALL-2.csv|SU719544|51.285|-0.970|260|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=51.285&lon=-0.970&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/51.285,-0.970,16)  |
 ||ROTHERWICK-TYLNEY-HALL-3.csv|SU708550|51.290|-0.985|250|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=51.290&lon=-0.985&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/51.290,-0.985,16)  |
-|[ROTHESAY-ACADEMY](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/ROTHESAY-ACADEMY) [V3]|||||||
+|[ROTHESAY-ACADEMY](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/ROTHESAY-ACADEMY) [V3]|ROTHESAY-ACADEMY.csv|NS083649|55.839|-5.063|150|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=55.839&lon=-5.063&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/55.839,-5.063,16)  |
 |[ROTHESAY-COTTON-MILLS](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/ROTHESAY-COTTON-MILLS)|ROTHESAY-COTTON-MILLS.csv|NS093649|55.840|-5.046|10|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=55.840&lon=-5.046&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/55.840,-5.046,16)  |
 |[ROTHESAY-CRICHTON-ROAD](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/ROTHESAY-CRICHTON-ROAD)|ROTHESAY-CRICHTON-ROAD.csv|NS102653|55.843|-5.033|75|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=55.843&lon=-5.033&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/55.843,-5.033,16)  |
 |[ROTHESAY-LOCH-DHU](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/ROTHESAY-LOCH-DHU)|ROTHESAY-LOCH-DHU.csv|NS071624|55.816|-5.080|273|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=55.816&lon=-5.080&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/55.816,-5.080,16)  |
@@ -1463,7 +1463,7 @@ Generation time: Tuesday 06/12/2022 17:29:00 GMT
 |[RUTHIN-LLYSFASI](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/RUTHIN-LLYSFASI) [V3]|RUTHIN-LLYSFASI.csv|SJ147523|53.061|-3.274|410|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=53.061&lon=-3.274&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/53.061,-3.274,16)  |
 |[RUTHIN-TYMAWR](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/main/DATA/RUTHIN-TYMAWR) [V2]|RUTHIN-TYMAWR.csv|SJ148560|53.094|-3.274|400|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=53.094&lon=-3.274&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/53.094,-3.274,16)  |
 |[RUTHWELL-COMLONGON](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/RUTHWELL-COMLONGON)|RUTHWELL-COMLONGON.csv|NY079689|55.006|-3.442|68|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=55.006&lon=-3.442&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/55.006,-3.442,16)  |
-|[RUYTON-OF-THE-ELEVEN-TOWNS](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/RUYTON-OF-THE-ELEVEN-TOWNS) [V3]|||||||
+|[RUYTON-OF-THE-ELEVEN-TOWNS](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/RUYTON-OF-THE-ELEVEN-TOWNS) [V3]|RUYTON-OF-THE-ELEVEN-TOWNS.csv|SJ392224|52.796|-2.903|250|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=52.796&lon=-2.903&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/52.796,-2.903,16)  |
 |[RYAT-LYNN](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/RYAT-LYNN)|RYAT-LYNN.csv|NS521573|55.786|-4.360|310|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=55.786&lon=-4.360&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/55.786,-4.360,16)  |
 |[RYDAL](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/main/DATA/RYDAL) [V2]|RYDAL.csv|NY364065|54.450|-2.982|390|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=54.450&lon=-2.982&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/54.450,-2.982,16)  |
 |[RYDAL-THE-HALL](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/RYDAL-THE-HALL)|RYDAL-THE-HALL.csv|NY365065|54.450|-2.981|354|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=54.450&lon=-2.981&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/54.450,-2.981,16)  |
