@@ -1,4 +1,4 @@
-Generation time: Wednesday 07/12/2022 19:33:42 GMT
+Generation time: Thursday 08/12/2022 22:20:19 GMT
 
 ## Locations G-J
 
@@ -938,7 +938,7 @@ Generation time: Wednesday 07/12/2022 19:33:42 GMT
 ||HACKNEY-RICHMOND-ROAD-2.csv|TQ345845|51.543|-0.062|65|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=51.543&lon=-0.062&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/51.543,-0.062,16)  |
 |[HACKTHORN-HALL](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/HACKTHORN-HALL)|HACKTHORN-HALL.csv|SK992825|53.330|-0.512|105|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=53.330&lon=-0.512&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/53.330,-0.512,16)  |
 |[HADDINGTON-ASYLUM](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/HADDINGTON-ASYLUM)|HADDINGTON-ASYLUM.csv|NT509743|55.959|-2.788|238|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=55.959&lon=-2.788&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/55.959,-2.788,16)  |
-|[HADDINGTON-BEECH-HILL](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/HADDINGTON-BEECH-HILL) [V3]|||||||
+|[HADDINGTON-BEECH-HILL](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/HADDINGTON-BEECH-HILL) [V3]|HADDINGTON-BEECH-HILL.csv|NT541704|55.924|-2.736|413|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=55.924&lon=-2.736&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/55.924,-2.736,16)  |
 |[HADDINGTON-MILLFIELD](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/HADDINGTON-MILLFIELD)|HADDINGTON-MILLFIELD.csv|NT513734|55.952|-2.781|140|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=55.952&lon=-2.781&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/55.952,-2.781,16)  |
 |[HADDINGTON-NEILSON-PARK](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/main/DATA/HADDINGTON-NEILSON-PARK) [V2]|HADDINGTON-NEILSON-PARK.csv|NT513736|55.953|-2.781|161|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=55.953&lon=-2.781&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/55.953,-2.781,16)  |
 |[HADDO-HOUSE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/HADDO-HOUSE)|HADDO-HOUSE.csv|NJ868347|57.403|-2.221|186|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=57.403&lon=-2.221&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/57.403,-2.221,16)  |

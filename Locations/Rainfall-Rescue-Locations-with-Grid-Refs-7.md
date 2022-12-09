@@ -1,4 +1,4 @@
-Generation time: Wednesday 07/12/2022 19:33:42 GMT
+Generation time: Thursday 08/12/2022 22:20:19 GMT
 
 ## Locations P-R
 
@@ -941,7 +941,8 @@ Generation time: Wednesday 07/12/2022 19:33:42 GMT
 |[REAY-THE-MANSE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/REAY-THE-MANSE)|REAY-THE-MANSE.csv|NC950646|58.557|-3.805|100|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=58.557&lon=-3.805&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/58.557,-3.805,16)  |
 ||REAY-THE-MANSE-2.csv|NC971648|58.559|-3.770|54|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=58.559&lon=-3.770&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/58.559,-3.770,16)  |
 |[RECESS-HOTEL](https://github.com/ed-hawkins/rainfall-rescue-data-eire/tree/main/DATA/RECESS-HOTEL) [EIRE]|||||||
-|[RECULVER](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/RECULVER)|RECULVER.csv|TR220680|51.368|1.188|50|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=51.368&lon=1.188&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/51.368,1.188,16)  |
+|[RECULVER](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/RECULVER)|RECULVER.csv|TR220680|51.368|1.188|40|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=51.368&lon=1.188&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/51.368,1.188,16)  |
+||RECULVER-2.csv|TR223690|51.377|1.193|27|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=51.377&lon=1.193&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/51.377,1.193,16)  |
 |[RED-HILL-LINKFIELD-LANE](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/RED-HILL-LINKFIELD-LANE) [V3]|RED-HILL-LINKFIELD-LANE.csv|TQ277512|51.246|-0.172|320|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=51.246&lon=-0.172&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/51.246,-0.172,16)  |
 ||RED-HILL-LINKFIELD-LANE-2.csv|TQ278511|51.245|-0.170|290|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=51.245&lon=-0.170&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/51.245,-0.170,16)  |
 |[REDBROOK-HILL-CREST](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/REDBROOK-HILL-CREST) [V3]|REDBROOK-HILL-CREST.csv|SO538098|51.785|-2.671|180|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=51.785&lon=-2.671&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/51.785,-2.671,16)  |
@@ -1106,6 +1107,7 @@ Generation time: Wednesday 07/12/2022 19:33:42 GMT
 |[RICHMOND-GREEN-HOWARD-ROAD](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/main/DATA/RICHMOND-GREEN-HOWARD-ROAD) [V2]|RICHMOND-GREEN-HOWARD-ROAD.csv|NZ172016|54.410|-1.737|605|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=54.410&lon=-1.737&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/54.410,-1.737,16)  |
 |[RICHMOND-MARSKE-HALL](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/RICHMOND-MARSKE-HALL) [V3]|RICHMOND-MARSKE-HALL.csv|NZ104003|54.398|-1.841|525|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=54.398&lon=-1.841&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/54.398,-1.841,16)  |
 |[RICHMOND-ORMOND-LODGE](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/RICHMOND-ORMOND-LODGE) [V3]|RICHMOND-ORMOND-LODGE.csv|TQ179746|51.459|-0.304|51|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=51.459&lon=-0.304&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/51.459,-0.304,16)  |
+||RICHMOND-ORMOND-LODGE-2.csv|TQ180747|51.459|-0.303|50|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=51.459&lon=-0.303&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/51.459,-0.303,16)  |
 |[RICHMOND-SEDBURY-PARK](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/main/DATA/RICHMOND-SEDBURY-PARK) [V2]|RICHMOND-SEDBURY-PARK.csv|NZ198051|54.441|-1.696|450|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=54.441&lon=-1.696&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/54.441,-1.696,16)  |
 |[RICHMOND-TERRACE-GDNS](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/RICHMOND-TERRACE-GDNS)|RICHMOND-TERRACE-GDNS.csv|TQ181740|51.453|-0.302|109|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=51.453&lon=-0.302&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/51.453,-0.302,16)  |
 |[RICHMOND-THE-GROVE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/RICHMOND-THE-GROVE)|RICHMOND-THE-GROVE.csv|NZ172010|54.404|-1.736|430|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=54.404&lon=-1.736&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/54.404,-1.736,16)  |
