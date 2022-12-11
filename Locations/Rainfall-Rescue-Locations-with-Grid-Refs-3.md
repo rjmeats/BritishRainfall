@@ -1,4 +1,4 @@
-Generation time: Sunday 11/12/2022 08:41:14 GMT
+Generation time: Sunday 11/12/2022 16:26:11 GMT
 
 ## Locations E-F
 
@@ -721,6 +721,7 @@ Generation time: Sunday 11/12/2022 08:41:14 GMT
 |[EXMOUTH-LITTLEHAM](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/EXMOUTH-LITTLEHAM) [V3]|EXMOUTH-LITTLEHAM.csv|SY026813|50.623|-3.378|155|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=50.623&lon=-3.378&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/50.623,-3.378,16)  |
 |[EXMOUTH-MAMHEAD-RECTORY](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/main/DATA/EXMOUTH-MAMHEAD-RECTORY) [V2]|EXMOUTH-MAMHEAD-RECTORY.csv|SX927803|50.613|-3.518|467|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=50.613&lon=-3.518&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/50.613,-3.518,16)  |
 |[EXMOUTH-MANOR-GROUNDS](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/main/DATA/EXMOUTH-MANOR-GROUNDS) [V2]|EXMOUTH-MANOR-GROUNDS.csv|SX999807|50.618|-3.416|13|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=50.618&lon=-3.416&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/50.618,-3.416,16)  |
+|[EXMOUTH-MARPOOL-HALL](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/EXMOUTH-MARPOOL-HALL) [V3]|||||||
 |[EXMOUTH-NIDDERDALE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/EXMOUTH-NIDDERDALE)|EXMOUTH-NIDDERDALE.csv|SY004805|50.617|-3.409|51|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=50.617&lon=-3.409&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/50.617,-3.409,16)  |
 |[EXMOUTH-SQUABMOOR](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/EXMOUTH-SQUABMOOR) [V3]|EXMOUTH-SQUABMOOR.csv|SY028847|50.655|-3.376|450|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=50.655&lon=-3.376&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/50.655,-3.376,16)  |
 |[EYAM-EYAM-VIEW](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/main/DATA/EYAM-EYAM-VIEW) [V2]|EYAM-EYAM-VIEW.csv|SK208768|53.288|-1.689|945|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=53.288&lon=-1.689&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/53.288,-1.689,16)  |
@@ -740,6 +741,7 @@ Generation time: Sunday 11/12/2022 08:41:14 GMT
 ||EYTON-HALL-2.csv|SO469617|52.251|-2.779|310|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=52.251&lon=-2.779&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/52.251,-2.779,16)  |
 |[FAILAND-HOUSE-BRISTOL](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/FAILAND-HOUSE-BRISTOL)|FAILAND-HOUSE-BRISTOL.csv|ST516734|51.457|-2.698|420|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=51.457&lon=-2.698&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/51.457,-2.698,16)  |
 ||FAILAND-HOUSE-BRISTOL-2.csv|ST516734|51.457|-2.698|420|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=51.457&lon=-2.698&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/51.457,-2.698,16)  |
+|[FAILAND-SCHOOL](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/FAILAND-SCHOOL) [V3]|||||||
 |[FAIR-ISLE-NORTH](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/FAIR-ISLE-NORTH)|FAIR-ISLE-NORTH.csv|HZ221741|59.552|-1.611|225|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=59.552&lon=-1.611&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/59.552,-1.611,16)  |
 |[FAIR-ISLE-SOUTH](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/FAIR-ISLE-SOUTH)|FAIR-ISLE-SOUTH.csv|HZ197698|59.514|-1.654|28|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=59.514&lon=-1.654&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/59.514,-1.654,16)  |
 |[FAIR-OAK-FISHERS-POND](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/FAIR-OAK-FISHERS-POND) [V3]|||||||
