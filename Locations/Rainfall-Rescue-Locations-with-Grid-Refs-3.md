@@ -1,4 +1,4 @@
-Generation time: Friday 09/12/2022 18:35:11 GMT
+Generation time: Sunday 11/12/2022 08:41:14 GMT
 
 ## Locations E-F
 
@@ -20,6 +20,8 @@ Generation time: Friday 09/12/2022 18:35:11 GMT
 |[EAGLESHAM-DUNWAN-RES-TWO](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/EAGLESHAM-DUNWAN-RES-TWO)|EAGLESHAM-DUNWAN-RES-TWO.csv|NS554497|55.719|-4.304|820|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=55.719&lon=-4.304&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/55.719,-4.304,16)  |
 ||EAGLESHAM-DUNWAN-RES-TWO-2.csv|NS555497|55.719|-4.302|820|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=55.719&lon=-4.302&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/55.719,-4.302,16)  |
 |[EAGLESHAM-PICKETLAW-RES](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/EAGLESHAM-PICKETLAW-RES)|EAGLESHAM-PICKETLAW-RES.csv|NS567516|55.737|-4.284|690|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=55.737&lon=-4.284&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/55.737,-4.284,16)  |
+|[EAGLESHAM-REVOCH](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/EAGLESHAM-REVOCH) [V3]|||||||
+|[EAGLESHAM-SOUTH-MOORHOUSE](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/EAGLESHAM-SOUTH-MOORHOUSE) [V3]|||||||
 |[EAKRING-BP-DEPOT](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/EAKRING-BP-DEPOT) [V3]|EAKRING-BP-DEPOT.csv|SK673614|53.146|-0.995|281|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=53.146&lon=-0.995&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/53.146,-0.995,16)  |
 |[EALING-CASTLEBAR-ROAD](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/EALING-CASTLEBAR-ROAD)|EALING-CASTLEBAR-ROAD.csv|TQ174811|51.517|-0.309|100|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=51.517&lon=-0.309&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/51.517,-0.309,16)  |
 ||EALING-CASTLEBAR-ROAD-2.csv|TQ175807|51.513|-0.308|114|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=51.513&lon=-0.308&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/51.513,-0.308,16)  |

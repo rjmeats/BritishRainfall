@@ -1,4 +1,4 @@
-Generation time: Friday 09/12/2022 18:35:10 GMT
+Generation time: Sunday 11/12/2022 08:41:14 GMT
 
 ## Locations A-B
 
@@ -1217,6 +1217,7 @@ Generation time: Friday 09/12/2022 18:35:10 GMT
 |[BARRA-EOLIGARRY](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/BARRA-EOLIGARRY)|BARRA-EOLIGARRY.csv|NF704076|57.041|-7.436|50|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=57.041&lon=-7.436&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/57.041,-7.436,16)  |
 |[BARRAHEAD](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/BARRAHEAD)|BARRAHEAD.csv|NL5492280316|56.786|-7.653|610|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=56.786&lon=-7.653&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/56.786,-7.653,16)  |
 |[BARRASFORD](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/BARRASFORD)|BARRASFORD.csv|NY921730|55.051|-2.125|207|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=55.051&lon=-2.125&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/55.051,-2.125,16)  |
+|[BARRHEAD-SEWAGE-WORKS](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/BARRHEAD-SEWAGE-WORKS) [V3]|||||||
 |[BARRHILL-DOCHROYLE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/BARRHILL-DOCHROYLE)|BARRHILL-DOCHROYLE.csv|NX230793|55.077|-4.774|548|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=55.077&lon=-4.774&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/55.077,-4.774,16)  |
 |[BARROW-CAVENDISH-PARK](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/BARROW-CAVENDISH-PARK)|BARROW-CAVENDISH-PARK.csv|SD197684|54.105|-3.230|60|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=54.105&lon=-3.230&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/54.105,-3.230,16)  |
 |[BARROW-CLOUGH](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/main/DATA/BARROW-CLOUGH) [V2]|BARROW-CLOUGH.csv|SK142976|53.475|-1.788|1330|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=53.475&lon=-1.788&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/53.475,-1.788,16)  |
@@ -1875,6 +1876,7 @@ Generation time: Friday 09/12/2022 18:35:10 GMT
 |[BISHOPSTONE](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/BISHOPSTONE) [V3]|BISHOPSTONE.csv|TQ486003|50.783|0.107|125|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=50.783&lon=0.107&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/50.783,0.107,16)  |
 |[BISHOPSTONE-FAYRE-MEDE](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/BISHOPSTONE-FAYRE-MEDE) [V3]|BISHOPSTONE-FAYRE-MEDE.csv|SO418431|52.083|-2.851|320|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=52.083&lon=-2.851&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/52.083,-2.851,16)  |
 |[BISHOPSWOOD-VICARAGE](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/BISHOPSWOOD-VICARAGE) [V3]|BISHOPSWOOD-VICARAGE.csv|SJ841092|52.680|-2.237|420|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=52.680&lon=-2.237&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/52.680,-2.237,16)  |
+|[BISHOPTON-DARGAVEL](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/BISHOPTON-DARGAVEL) [V3]|||||||
 |[BISHOPTON-INGLISTON](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/main/DATA/BISHOPTON-INGLISTON) [V2]|BISHOPTON-INGLISTON.csv|NS4302171128|55.908|-4.513|70|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=55.908&lon=-4.513&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/55.908,-4.513,16)  |
 |[BISHOPWEARMOUTH](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/BISHOPWEARMOUTH)|BISHOPWEARMOUTH.csv|NZ394573|54.909|-1.386|130|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=54.909&lon=-1.386&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/54.909,-1.386,16)  |
 |[BISLEY-JAYNES-COURT](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/main/DATA/BISLEY-JAYNES-COURT) [V2]|BISLEY-JAYNES-COURT.csv|SO902057|51.750|-2.143|777|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=51.750&lon=-2.143&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/51.750,-2.143,16)  |
@@ -2545,6 +2547,7 @@ Generation time: Friday 09/12/2022 18:35:10 GMT
 |[BRIDGE-OF-ORCHY](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/BRIDGE-OF-ORCHY)|BRIDGE-OF-ORCHY.csv|NN301397|56.519|-4.763|600|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=56.519&lon=-4.763&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/56.519,-4.763,16)  |
 ||BRIDGE-OF-ORCHY-2.csv|NN301397|56.519|-4.763|610|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=56.519&lon=-4.763&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/56.519,-4.763,16)  |
 |[BRIDGE-OF-TURK](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/BRIDGE-OF-TURK)|BRIDGE-OF-TURK.csv|NN536064|56.228|-4.363|275|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=56.228&lon=-4.363&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/56.228,-4.363,16)  |
+|[BRIDGE-OF-WEIR-RANFURLY](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/BRIDGE-OF-WEIR-RANFURLY) [V3]|||||||
 |[BRIDGEND-EIW-GRAIG](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/main/DATA/BRIDGEND-EIW-GRAIG) [V2]|BRIDGEND-EIW-GRAIG.csv|SS902796|51.505|-3.583|80|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=51.505&lon=-3.583&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/51.505,-3.583,16)  |
 ||BRIDGEND-EIW-GRAIG-2.csv|SS893781|51.492|-3.595|50|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=51.492&lon=-3.595&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/51.492,-3.595,16)  |
 |[BRIDGEND-TREMAINE-HOUSE](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/main/DATA/BRIDGEND-TREMAINE-HOUSE) [V2]|BRIDGEND-TREMAINE-HOUSE.csv|SS923796|51.505|-3.553|140|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=51.505&lon=-3.553&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/51.505,-3.553,16)  |
