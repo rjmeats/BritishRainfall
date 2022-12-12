@@ -1,8 +1,8 @@
-Generation time: Sunday 11/12/2022 23:36:31 GMT
+Generation time: Monday 12/12/2022 23:17:25 GMT
 
 95 **rainfall-rescue/DATA** locations under [https://tinyurl.com/ycyh86uz](https://tinyurl.com/ycyh86uz) which contributed to the [Met Office 2020 UK Climate Report](https://www.metoffice.gov.uk/research/climate/maps-and-data/about/state-of-climate):
 
-* [WARE-RED-HOUSE](https://tinyurl.com/ycyh86uz/WARE-RED-HOUSE) : 2022-12-06 12:04:33 +0000 
+* [WARE-RED-HOUSE](https://tinyurl.com/ycyh86uz/WARE-RED-HOUSE) : 2022-12-08 12:54:47 +0000 
 * [MULL-OF-KINTYRE](https://tinyurl.com/ycyh86uz/MULL-OF-KINTYRE) : 2022-12-05 16:57:11 +0000 
 * [HORSHAM-WIMBLEHURST](https://tinyurl.com/ycyh86uz/HORSHAM-WIMBLEHURST) : 2022-09-02 20:33:20 +0100 
 * [NORTHWICH-WINNINGTON](https://tinyurl.com/ycyh86uz/NORTHWICH-WINNINGTON) : 2022-03-17 20:36:20 +0000 
