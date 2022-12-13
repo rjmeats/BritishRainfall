@@ -1,4 +1,4 @@
-Generation time: Monday 12/12/2022 23:17:26 GMT
+Generation time: Tuesday 13/12/2022 16:07:50 GMT
 
 ## Locations S-T
 
@@ -66,7 +66,7 @@ Generation time: Monday 12/12/2022 23:17:26 GMT
 |[SALISBURY-DINTON](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/main/DATA/SALISBURY-DINTON) [V2]|SALISBURY-DINTON.csv|SU013316|51.084|-1.983|300|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=51.084&lon=-1.983&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/51.084,-1.983,16)  |
 |[SALISBURY-FOLKESTONE-ROAD](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/main/DATA/SALISBURY-FOLKESTONE-ROAD) [V2]|SALISBURY-FOLKESTONE-ROAD.csv|SU139288|51.058|-1.803|200|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=51.058&lon=-1.803&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/51.058,-1.803,16)  |
 |[SALISBURY-HARNHAM](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/main/DATA/SALISBURY-HARNHAM) [V2]|SALISBURY-HARNHAM.csv|SU135288|51.058|-1.809|200|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=51.058&lon=-1.809&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/51.058,-1.809,16)  |
-|[SALISBURY-MANOR-ROAD](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/SALISBURY-MANOR-ROAD)|SALISBURY-MANOR-ROAD.csv|SU151297|51.067|-1.786|250|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=51.067&lon=-1.786&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/51.067,-1.786,16)  |
+|[SALISBURY-MANOR-ROAD](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/SALISBURY-MANOR-ROAD)|SALISBURY-MANOR-ROAD.csv|SU151297|51.067|-1.786|224|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=51.067&lon=-1.786&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/51.067,-1.786,16)  |
 ||SALISBURY-MANOR-ROAD-2.csv|SU154300|51.070|-1.781|250|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=51.070&lon=-1.781&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/51.070,-1.781,16)  |
 |[SALISBURY-MILFORD-HILL-TINTINHULL](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/main/DATA/SALISBURY-MILFORD-HILL-TINTINHULL) [V2]|SALISBURY-MILFORD-HILL-TINTINHULL.csv|SU149297|51.066|-1.789|202|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=51.066&lon=-1.789&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/51.066,-1.789,16)  |
 |[SALISBURY-NEWLANDS](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/main/DATA/SALISBURY-NEWLANDS) [V2]|SALISBURY-NEWLANDS.csv|SU152303|51.072|-1.784|200|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=51.072&lon=-1.784&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/51.072,-1.784,16)  |

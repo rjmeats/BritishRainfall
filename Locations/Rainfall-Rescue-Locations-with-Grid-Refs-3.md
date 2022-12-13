@@ -1,4 +1,4 @@
-Generation time: Monday 12/12/2022 23:17:25 GMT
+Generation time: Tuesday 13/12/2022 16:07:50 GMT
 
 ## Locations E-F
 
@@ -1052,6 +1052,8 @@ Generation time: Monday 12/12/2022 23:17:25 GMT
 |[FOLESHILL-FOXFORD-SCHOOL](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/main/DATA/FOLESHILL-FOXFORD-SCHOOL) [V2]|FOLESHILL-FOXFORD-SCHOOL.csv|SP350831|52.445|-1.486|311|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=52.445&lon=-1.486&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/52.445,-1.486,16)  |
 |[FOLKESTONE-CAPEL-LODGE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/FOLKESTONE-CAPEL-LODGE)|FOLKESTONE-CAPEL-LODGE.csv|TR256385|51.101|1.221|480|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=51.101&lon=1.221&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/51.101,1.221,16)  |
 |[FOLKESTONE-CHERITON-ROAD](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/main/DATA/FOLKESTONE-CHERITON-ROAD) [V2]|FOLKESTONE-CHERITON-ROAD.csv|TR208366|51.086|1.151|160|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=51.086&lon=1.151&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/51.086,1.151,16)  |
+||FOLKESTONE-CHERITON-ROAD-2.csv|TR206369|51.089|1.149|142|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=51.089&lon=1.149&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/51.089,1.149,16)  |
+||FOLKESTONE-CHERITON-ROAD-3.csv|TR210364|51.084|1.154|160|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=51.084&lon=1.154&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/51.084,1.154,16)  |
 |[FOLKESTONE-CHERRY-GARDEN](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/FOLKESTONE-CHERRY-GARDEN)|FOLKESTONE-CHERRY-GARDEN.csv|TR211381|51.100|1.157|230|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=51.100&lon=1.157&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/51.100,1.157,16)  |
 |[FOLKESTONE-PRIORY-LEAS](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/main/DATA/FOLKESTONE-PRIORY-LEAS) [V2]|FOLKESTONE-PRIORY-LEAS.csv|TR229359|51.079|1.181|92|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=51.079&lon=1.181&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/51.079,1.181,16)  |
 |[FOLKESTONE-RADNOR-PARK](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/FOLKESTONE-RADNOR-PARK)|FOLKESTONE-RADNOR-PARK.csv|TR221363|51.083|1.170|129|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=51.083&lon=1.170&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/51.083,1.170,16)  |
