@@ -1,4 +1,4 @@
-Generation time: Tuesday 13/12/2022 16:07:50 GMT
+Generation time: Thursday 15/12/2022 20:41:13 GMT
 
 ## Locations S-T
 
@@ -593,6 +593,7 @@ Generation time: Tuesday 13/12/2022 16:07:50 GMT
 |[SITTINGBOURNE-SHARSTED-COURT](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/SITTINGBOURNE-SHARSTED-COURT)|SITTINGBOURNE-SHARSTED-COURT.csv|TQ951582|51.290|0.797|287|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=51.290&lon=0.797&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/51.290,0.797,16)  |
 |[SITTINGBOURNE-TORRY-HILL](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/main/DATA/SITTINGBOURNE-TORRY-HILL) [V2]|SITTINGBOURNE-TORRY-HILL.csv|TQ907572|51.282|0.733|497|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=51.282&lon=0.733&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/51.282,0.733,16)  |
 ||SITTINGBOURNE-TORRY-HILL-2.csv|TQ898572|51.282|0.720|490|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=51.282&lon=0.720&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/51.282,0.720,16)  |
+||SITTINGBOURNE-TORRY-HILL-3.csv|TQ907572|51.282|0.733|497|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=51.282&lon=0.733&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/51.282,0.733,16)  |
 |[SIX-MILE-BRIDGE-KILKISHEN](https://github.com/ed-hawkins/rainfall-rescue-data-eire/tree/main/DATA/SIX-MILE-BRIDGE-KILKISHEN) [EIRE]|||||||
 |[SIXMILECROSS-RECTORY](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/SIXMILECROSS-RECTORY) [V3]|SIXMILECROSS-RECTORY.csv|IH567679|54.557|-7.123|400|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=54.557&lon=-7.123&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/54.557,-7.123,16) [OSM](https://www.openstreetmap.org/#map=16/54.557/-7.123) [GGL](https://www.google.co.uk/maps/@54.557,-7.123,16z)|
 |[SKEGNESS-BURGH-SLUICE-PUMPING-STATION](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/main/DATA/SKEGNESS-BURGH-SLUICE-PUMPING-STATION) [V2]|SKEGNESS-BURGH-SLUICE-PUMPING-STATION.csv|TF552586|53.102|0.317|20|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=53.102&lon=0.317&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/53.102,0.317,16)  |
