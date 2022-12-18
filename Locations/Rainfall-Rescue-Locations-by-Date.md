@@ -1,4 +1,4 @@
-Generation time: Thursday 15/12/2022 20:41:13 GMT
+Generation time: Sunday 18/12/2022 12:13:25 GMT
 
 6091 **rainfall-rescue/DATA** locations under [https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA):
 
@@ -12328,8 +12328,16 @@ Generation time: Thursday 15/12/2022 20:41:13 GMT
 * [WICKFORD-DOLLYMANS-FARM](https://tinyurl.com/3xfyv3yv/WICKFORD-DOLLYMANS-FARM) : 2021-07-31 22:28:08 +0100 
 * [WOKINGHAM-SINDLESHAM-HOUSE](https://tinyurl.com/3xfyv3yv/WOKINGHAM-SINDLESHAM-HOUSE) : 2021-07-31 22:28:08 +0100 
 
-3261 **rainfall-rescue-data-v3/DATA** locations under [https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA):
+3266 **rainfall-rescue-data-v3/DATA** locations under [https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA):
 
+* [BELLINGHAM-OTTERBURN](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/BELLINGHAM-OTTERBURN) : 2022-12-18 08:44:27 +0000 
+* [DUNGANNON-PARK-ALOHA](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/DUNGANNON-PARK-ALOHA) : 2022-12-18 08:44:27 +0000 
+* [NEWBY-BRIDGE-SWAN-HOTEL](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/NEWBY-BRIDGE-SWAN-HOTEL) : 2022-12-18 08:44:27 +0000 
+* [PENRITH-ASKHAM-HALL](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/PENRITH-ASKHAM-HALL) : 2022-12-18 08:44:27 +0000 
+* [RAMSBOTTOM-GREAT-LODGE-HIGHER-HILL](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/RAMSBOTTOM-GREAT-LODGE-HIGHER-HILL) : 2022-12-18 08:44:27 +0000 
+* [CALDER-WATER-WHITE-GRAIN-BURN](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/CALDER-WATER-WHITE-GRAIN-BURN) : 2022-12-15 13:40:10 +0000 
+* [GREENOCK-BATTERY-PARK](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/GREENOCK-BATTERY-PARK) : 2022-12-15 13:40:10 +0000 
+* [HOUSTON-MANSE](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/HOUSTON-MANSE) : 2022-12-15 13:40:10 +0000 
 * [BARRHEAD-SEWAGE-WORKS](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/BARRHEAD-SEWAGE-WORKS) : 2022-12-14 14:03:51 +0000 
 * [BIRLINGHAM-RECTORY](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/BIRLINGHAM-RECTORY) : 2022-12-14 14:03:51 +0000 
 * [BISHOPTON-DARGAVEL](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/BISHOPTON-DARGAVEL) : 2022-12-14 14:03:51 +0000 
@@ -12338,16 +12346,13 @@ Generation time: Thursday 15/12/2022 20:41:13 GMT
 * [BRISTOL-WHITCHURCH](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/BRISTOL-WHITCHURCH) : 2022-12-14 14:03:51 +0000 
 * [CALDER-DAM](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/CALDER-DAM) : 2022-12-14 14:03:51 +0000 
 * [CALDER-WATER-QUEENSIDE-LOCH](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/CALDER-WATER-QUEENSIDE-LOCH) : 2022-12-14 14:03:51 +0000 
-* [CALDER-WATER-WHITE-GRAIN-BURN](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/CALDER-WATER-WHITE-GRAIN-BURN) : 2022-12-14 14:03:51 +0000 
 * [CASTLETOWN-WEST-GREENLAND-FARM](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/CASTLETOWN-WEST-GREENLAND-FARM) : 2022-12-14 14:03:51 +0000 
 * [EAGLESHAM-REVOCH](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/EAGLESHAM-REVOCH) : 2022-12-14 14:03:51 +0000 
 * [ELTERWATER-BRIGG-HOWES](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/ELTERWATER-BRIGG-HOWES) : 2022-12-14 14:03:51 +0000 
 * [GOUROCK-ASHTON](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/GOUROCK-ASHTON) : 2022-12-14 14:03:51 +0000 
 * [GOUROCK-LEVAN-FARM](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/GOUROCK-LEVAN-FARM) : 2022-12-14 14:03:51 +0000 
-* [GREENOCK-BATTERY-PARK](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/GREENOCK-BATTERY-PARK) : 2022-12-14 14:03:51 +0000 
 * [GREENOCK-WW-GARVOCK](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/GREENOCK-WW-GARVOCK) : 2022-12-14 14:03:51 +0000 
 * [GREENOCK-WW-GLENBRAE](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/GREENOCK-WW-GLENBRAE) : 2022-12-14 14:03:51 +0000 
-* [HOUSTON-MANSE](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/HOUSTON-MANSE) : 2022-12-14 14:03:51 +0000 
 * [JOHNSTONE-BROOKFIELD](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/JOHNSTONE-BROOKFIELD) : 2022-12-14 14:03:51 +0000 
 * [KILBARCHAN-BURNTSHIELDS](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/KILBARCHAN-BURNTSHIELDS) : 2022-12-14 14:03:51 +0000 
 * [LOCHWINNOCH-SEWAGE-WORKS](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/LOCHWINNOCH-SEWAGE-WORKS) : 2022-12-14 14:03:51 +0000 

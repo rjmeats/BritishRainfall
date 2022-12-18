@@ -1,4 +1,4 @@
-Generation time: Thursday 15/12/2022 20:41:13 GMT
+Generation time: Sunday 18/12/2022 12:13:25 GMT
 
 ## Locations A-B
 
@@ -1512,6 +1512,7 @@ Generation time: Thursday 15/12/2022 20:41:13 GMT
 |[BELLEEK-THE-ISLAND](https://github.com/ed-hawkins/rainfall-rescue-data-eire/tree/main/DATA/BELLEEK-THE-ISLAND) [EIRE]|||||||
 |[BELLINGHAM-HESLEYSIDE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/BELLINGHAM-HESLEYSIDE)|BELLINGHAM-HESLEYSIDE.csv|NY816837|55.147|-2.290|373|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=55.147&lon=-2.290&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/55.147,-2.290,16)  |
 |[BELLINGHAM-HIGHGREEN](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/BELLINGHAM-HIGHGREEN)|BELLINGHAM-HIGHGREEN.csv|NY809910|55.213|-2.302|849|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=55.213&lon=-2.302&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/55.213,-2.302,16)  |
+|[BELLINGHAM-OTTERBURN](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/BELLINGHAM-OTTERBURN) [V3]|||||||
 |[BELMULLET](https://github.com/ed-hawkins/rainfall-rescue-data-eire/tree/main/DATA/BELMULLET) [EIRE]|||||||
 |[BELPER-FERNSLOPE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/BELPER-FERNSLOPE)|BELPER-FERNSLOPE.csv|SK351477|53.025|-1.478|356|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=53.025&lon=-1.478&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/53.025,-1.478,16)  |
 ||BELPER-FERNSLOPE-2.csv|SK351477|53.025|-1.478|356|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=53.025&lon=-1.478&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/53.025,-1.478,16)  |
