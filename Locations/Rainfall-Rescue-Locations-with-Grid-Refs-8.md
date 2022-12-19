@@ -1,4 +1,4 @@
-Generation time: Monday 19/12/2022 16:15:28 GMT
+Generation time: Monday 19/12/2022 19:19:34 GMT
 
 ## Locations S-T
 
@@ -1406,6 +1406,7 @@ Generation time: Monday 19/12/2022 16:15:28 GMT
 |[STONE-MEECE-HOUSE](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/main/DATA/STONE-MEECE-HOUSE) [V2]|STONE-MEECE-HOUSE.csv|SJ852326|52.891|-2.221|331|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=52.891&lon=-2.221&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/52.891,-2.221,16)  |
 |[STONE-STONE-HOUSE-HOSPITAL](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/STONE-STONE-HOUSE-HOSPITAL)|STONE-STONE-HOUSE-HOSPITAL.csv|TQ561741|51.444|0.245|115|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=51.444&lon=0.245&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/51.444,0.245,16)  |
 |[STONE-STREET](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/STONE-STREET) [V3]|STONE-STREET.csv|TQ572549|51.272|0.252|530|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=51.272&lon=0.252&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/51.272,0.252,16)  |
+|[STONEBYRES-WEIR](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/STONEBYRES-WEIR) [V3]|||||||
 |[STONEFIELD-KINTYRE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/STONEFIELD-KINTYRE)|STONEFIELD-KINTYRE.csv|NR863716|55.891|-5.418|90|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=55.891&lon=-5.418&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/55.891,-5.418,16)  |
 |[STONEHAVEN](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/STONEHAVEN)|STONEHAVEN.csv|NO873864|56.969|-2.211|125|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=56.969&lon=-2.211&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/56.969,-2.211,16)  |
 |[STONEHAVEN-MAINS-OF-COWIE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/STONEHAVEN-MAINS-OF-COWIE)|STONEHAVEN-MAINS-OF-COWIE.csv|NO876868|56.972|-2.206|80|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=56.972&lon=-2.206&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/56.972,-2.206,16)  |
