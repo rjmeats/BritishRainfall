@@ -1,4 +1,4 @@
-Generation time: Wednesday 21/12/2022 22:46:37 GMT
+Generation time: Wednesday 21/12/2022 23:36:01 GMT
 
 6091 **rainfall-rescue/DATA** locations under [https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA):
 
@@ -15620,8 +15620,9 @@ Generation time: Wednesday 21/12/2022 22:46:37 GMT
 * [OXFORD](https://github.com/ed-hawkins/rainfall-rescue/tree/master/COMPOSITE-SERIES/OXFORD) : 2021-05-07 17:04:11 +0100 
 * [READING](https://github.com/ed-hawkins/rainfall-rescue/tree/master/COMPOSITE-SERIES/READING) : 2021-05-07 17:04:11 +0100 
 
-132 **rainfall-rescue/POOR-LOCATIONS** locations under [https://github.com/ed-hawkins/rainfall-rescue/tree/master/POOR-LOCATIONS](https://github.com/ed-hawkins/rainfall-rescue/tree/master/POOR-LOCATIONS):
+133 **rainfall-rescue/POOR-LOCATIONS** locations under [https://github.com/ed-hawkins/rainfall-rescue/tree/master/POOR-LOCATIONS](https://github.com/ed-hawkins/rainfall-rescue/tree/master/POOR-LOCATIONS):
 
+* [COATBRIDGE-LOCHWOOD](https://github.com/ed-hawkins/rainfall-rescue/tree/master/POOR-LOCATIONS/COATBRIDGE-LOCHWOOD) : 2022-12-21 22:46:57 +0000 
 * [EAGLESHAM-SOUTH-MOORHOUSE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/POOR-LOCATIONS/EAGLESHAM-SOUTH-MOORHOUSE) : 2022-12-15 13:41:16 +0000 
 * [KILBARCHAN-MILLIKEN-PARK](https://github.com/ed-hawkins/rainfall-rescue/tree/master/POOR-LOCATIONS/KILBARCHAN-MILLIKEN-PARK) : 2022-12-15 13:41:16 +0000 
 * [LOCHAN-AN-DAIM](https://github.com/ed-hawkins/rainfall-rescue/tree/master/POOR-LOCATIONS/LOCHAN-AN-DAIM) : 2022-12-15 13:41:16 +0000 

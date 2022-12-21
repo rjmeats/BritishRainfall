@@ -1,4 +1,4 @@
-Generation time: Wednesday 21/12/2022 22:46:38 GMT
+Generation time: Wednesday 21/12/2022 23:36:01 GMT
 
 ## Locations K-M
 
@@ -1846,7 +1846,8 @@ Generation time: Wednesday 21/12/2022 22:46:38 GMT
 |[LOCKERBIE-THORNBANK](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/main/DATA/LOCKERBIE-THORNBANK) [V2]|LOCKERBIE-THORNBANK.csv|NY134813|55.118|-3.359|259|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=55.118&lon=-3.359&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/55.118,-3.359,16)  |
 |[LODDISWELL-ALLERON](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/LODDISWELL-ALLERON) [V3]|LODDISWELL-ALLERON.csv|SX710496|50.332|-3.814|225|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=50.332&lon=-3.814&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/50.332,-3.814,16)  |
 |[LODDISWELL-HAZELWOOD-HOUSE](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/main/DATA/LODDISWELL-HAZELWOOD-HOUSE) [V2]|LODDISWELL-HAZELWOOD-HOUSE.csv|SX727522|50.356|-3.791|300|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=50.356&lon=-3.791&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/50.356,-3.791,16)  |
-|[LODDON-BERGH-APTON](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/LODDON-BERGH-APTON)|LODDON-BERGH-APTON.csv|TG307007|52.555|1.402|110|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=52.555&lon=1.402&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/52.555,1.402,16)  |
+|[LODDON-BERGH-APTON](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/LODDON-BERGH-APTON)|LODDON-BERGH-APTON.csv|TG303026|52.572|1.397|115|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=52.572&lon=1.397&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/52.572,1.397,16)  |
+||LODDON-BERGH-APTON-2.csv|TG307007|52.555|1.402|110|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=52.555&lon=1.402&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/52.555,1.402,16)  |
 |[LODDON-CHEDGRAVE-MANOR](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/LODDON-CHEDGRAVE-MANOR)|LODDON-CHEDGRAVE-MANOR.csv|TM355992|52.540|1.471|17|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=52.540&lon=1.471&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/52.540,1.471,16)  |
 |[LOGAN-HOUSE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/LOGAN-HOUSE)|LOGAN-HOUSE.csv|NX096426|54.742|-4.959|60|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=54.742&lon=-4.959&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/54.742,-4.959,16)  |
 |[LOGAN-LEE](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/LOGAN-LEE) [V3]|LOGAN-LEE.csv|NT198626|55.850|-3.283|860|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=55.850&lon=-3.283&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/55.850,-3.283,16)  |

@@ -1,4 +1,4 @@
-Generation time: Wednesday 21/12/2022 22:46:37 GMT
+Generation time: Wednesday 21/12/2022 23:36:01 GMT
 
 
 [MO-2020] indicates a location which contributed to the [Met Office 2020 UK Climate Report](https://www.metoffice.gov.uk/research/climate/maps-and-data/about/state-of-climate):
@@ -15623,7 +15623,7 @@ Generation time: Wednesday 21/12/2022 22:46:37 GMT
 * [OXFORD](https://github.com/ed-hawkins/rainfall-rescue/tree/master/COMPOSITE-SERIES/OXFORD) : 2021-05-07 17:04:11 +0100 
 * [READING](https://github.com/ed-hawkins/rainfall-rescue/tree/master/COMPOSITE-SERIES/READING) : 2021-05-07 17:04:11 +0100 
 
-132 **rainfall-rescue/POOR-LOCATIONS** locations under [https://github.com/ed-hawkins/rainfall-rescue/tree/master/POOR-LOCATIONS](https://github.com/ed-hawkins/rainfall-rescue/tree/master/POOR-LOCATIONS):
+133 **rainfall-rescue/POOR-LOCATIONS** locations under [https://github.com/ed-hawkins/rainfall-rescue/tree/master/POOR-LOCATIONS](https://github.com/ed-hawkins/rainfall-rescue/tree/master/POOR-LOCATIONS):
 
 * [ABERDEEN](https://github.com/ed-hawkins/rainfall-rescue/tree/master/POOR-LOCATIONS/ABERDEEN) : 2021-05-07 17:04:11 +0100 
 * [ALSTONE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/POOR-LOCATIONS/ALSTONE) : 2021-05-07 17:04:11 +0100 
@@ -15649,6 +15649,7 @@ Generation time: Wednesday 21/12/2022 22:46:37 GMT
 * [CERNE-ABBAS-PLUSH-MANOR](https://github.com/ed-hawkins/rainfall-rescue/tree/master/POOR-LOCATIONS/CERNE-ABBAS-PLUSH-MANOR) : 2022-12-12 15:34:29 +0000 
 * [CHERITON-BISHOP-THE-COTTAGE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/POOR-LOCATIONS/CHERITON-BISHOP-THE-COTTAGE) : 2022-12-12 15:34:29 +0000 
 * [CLEISH-HILLS-BLAIRADAM](https://github.com/ed-hawkins/rainfall-rescue/tree/master/POOR-LOCATIONS/CLEISH-HILLS-BLAIRADAM) : 2021-11-21 21:41:26 +0000 
+* [COATBRIDGE-LOCHWOOD](https://github.com/ed-hawkins/rainfall-rescue/tree/master/POOR-LOCATIONS/COATBRIDGE-LOCHWOOD) : 2022-12-21 22:46:57 +0000 
 * [COBHAM-PYPORTS](https://github.com/ed-hawkins/rainfall-rescue/tree/master/POOR-LOCATIONS/COBHAM-PYPORTS) : 2021-05-05 19:45:50 +0100 
 * [COBHAM-SANDROYD-SCHOOL](https://github.com/ed-hawkins/rainfall-rescue/tree/master/POOR-LOCATIONS/COBHAM-SANDROYD-SCHOOL) : 2022-11-25 14:55:28 +0000 
 * [COIRE-CAS-JEANS-HUT](https://github.com/ed-hawkins/rainfall-rescue/tree/master/POOR-LOCATIONS/COIRE-CAS-JEANS-HUT) : 2022-12-01 13:59:56 +0000 
