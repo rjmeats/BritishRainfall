@@ -1,4 +1,4 @@
-Generation time: Monday 19/12/2022 19:19:34 GMT
+Generation time: Wednesday 21/12/2022 22:46:38 GMT
 
 ## Locations N-O
 
@@ -197,7 +197,7 @@ Generation time: Monday 19/12/2022 19:19:34 GMT
 |[NEWBURY-WESTON](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/NEWBURY-WESTON)|NEWBURY-WESTON.csv|SU399736|51.460|-1.427|335|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=51.460&lon=-1.427&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/51.460,-1.427,16)  |
 |[NEWBY-BRIDGE-BACKBARROW](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/NEWBY-BRIDGE-BACKBARROW) [V3]|NEWBY-BRIDGE-BACKBARROW.csv|SD356849|54.256|-2.990|100|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=54.256&lon=-2.990&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/54.256,-2.990,16)  |
 |[NEWBY-BRIDGE-FELL-FOOT](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/NEWBY-BRIDGE-FELL-FOOT) [V3]|NEWBY-BRIDGE-FELL-FOOT.csv|SD382871|54.276|-2.951|175|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=54.276&lon=-2.951&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/54.276,-2.951,16)  |
-|[NEWBY-BRIDGE-SWAN-HOTEL](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/NEWBY-BRIDGE-SWAN-HOTEL) [V3]|||||||
+|[NEWBY-BRIDGE-SWAN-HOTEL](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/NEWBY-BRIDGE-SWAN-HOTEL) [V3]|NEWBY-BRIDGE-SWAN-HOTEL.csv|SD368863|54.268|-2.972|133|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=54.268&lon=-2.972&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/54.268,-2.972,16)  |
 |[NEWBY-WISKE](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/main/DATA/NEWBY-WISKE) [V2]|NEWBY-WISKE.csv|SE366875|54.282|-1.439|105|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=54.282&lon=-1.439&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/54.282,-1.439,16)  |
 |[NEWCASTLE-CAMPHILL-WW](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/NEWCASTLE-CAMPHILL-WW)|NEWCASTLE-CAMPHILL-WW.csv|NY916765|55.083|-2.133|650|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=55.083&lon=-2.133&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/55.083,-2.133,16)  |
 |[NEWCASTLE-CHRONICLE-OFFICE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/NEWCASTLE-CHRONICLE-OFFICE)|NEWCASTLE-CHRONICLE-OFFICE.csv|NZ248639|54.969|-1.614|148|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=54.969&lon=-1.614&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/54.969,-1.614,16)  |

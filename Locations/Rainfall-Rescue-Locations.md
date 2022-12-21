@@ -1,4 +1,4 @@
-Generation time: Monday 19/12/2022 19:19:32 GMT
+Generation time: Wednesday 21/12/2022 22:46:37 GMT
 
 
 [MO-2020] indicates a location which contributed to the [Met Office 2020 UK Climate Report](https://www.metoffice.gov.uk/research/climate/maps-and-data/about/state-of-climate):
@@ -12331,7 +12331,7 @@ Generation time: Monday 19/12/2022 19:19:32 GMT
 * [YRFON-BYLCHAU](https://tinyurl.com/3xfyv3yv/YRFON-BYLCHAU) : 2022-03-29 23:43:15 +0100 
 * [YSPYTTY-YSTSWYTH-DOLGROES](https://tinyurl.com/3xfyv3yv/YSPYTTY-YSTSWYTH-DOLGROES) : 2022-05-17 12:24:05 +0100 
 
-3283 **rainfall-rescue-data-v3/DATA** locations under [https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA):
+3282 **rainfall-rescue-data-v3/DATA** locations under [https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA):
 
 * [ABBEY-CWMHIR](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/ABBEY-CWMHIR) : 2022-11-03 17:56:02 +0000 
 * [ABBEY-CWMHIR-FORESTERS-HOUSE](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/ABBEY-CWMHIR-FORESTERS-HOUSE) : 2022-12-05 16:55:51 +0000 
@@ -13025,7 +13025,6 @@ Generation time: Monday 19/12/2022 19:19:32 GMT
 * [CLYNE-CASTLE](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/CLYNE-CASTLE) : 2022-08-07 22:46:21 +0100 
 * [CLYNNOG](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/CLYNNOG) : 2022-08-07 22:46:21 +0100 
 * [COALVILLE-BARDON-HILL-WW](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/COALVILLE-BARDON-HILL-WW) : 2022-08-07 22:46:21 +0100 
-* [COATBRIDGE-LOCHWOOD](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/COATBRIDGE-LOCHWOOD) : 2022-12-19 18:00:41 +0000 
 * [COATBRIDGE-WOODSIDE-HOUSE](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/COATBRIDGE-WOODSIDE-HOUSE) : 2022-12-19 18:00:41 +0000 
 * [COBHAM-FAIRMILE-HATCH](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/COBHAM-FAIRMILE-HATCH) : 2022-12-06 14:48:16 +0000 
 * [COBHAM-LEIGH-HILL-HOUSE](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/COBHAM-LEIGH-HILL-HOUSE) : 2022-11-24 18:39:19 +0000 

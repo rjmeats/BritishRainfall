@@ -1,4 +1,4 @@
-Generation time: Monday 19/12/2022 19:19:32 GMT
+Generation time: Wednesday 21/12/2022 22:46:37 GMT
 
 6091 **rainfall-rescue/DATA** locations under [https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA):
 
@@ -12328,14 +12328,13 @@ Generation time: Monday 19/12/2022 19:19:32 GMT
 * [WICKFORD-DOLLYMANS-FARM](https://tinyurl.com/3xfyv3yv/WICKFORD-DOLLYMANS-FARM) : 2021-07-31 22:28:08 +0100 
 * [WOKINGHAM-SINDLESHAM-HOUSE](https://tinyurl.com/3xfyv3yv/WOKINGHAM-SINDLESHAM-HOUSE) : 2021-07-31 22:28:08 +0100 
 
-3283 **rainfall-rescue-data-v3/DATA** locations under [https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA):
+3282 **rainfall-rescue-data-v3/DATA** locations under [https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA):
 
 * [GABLE-HAWES](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/GABLE-HAWES) : 2022-12-19 18:06:42 +0000 
 * [BONNINGTON-WEIR](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/BONNINGTON-WEIR) : 2022-12-19 18:00:41 +0000 
 * [CAMPS-RESERVOIR-NO-THREE](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/CAMPS-RESERVOIR-NO-THREE) : 2022-12-19 18:00:41 +0000 
 * [CARMICHAEL-HOUSE](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/CARMICHAEL-HOUSE) : 2022-12-19 18:00:41 +0000 
 * [CARMUNNOCK-WATERWORKS](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/CARMUNNOCK-WATERWORKS) : 2022-12-19 18:00:41 +0000 
-* [COATBRIDGE-LOCHWOOD](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/COATBRIDGE-LOCHWOOD) : 2022-12-19 18:00:41 +0000 
 * [COATBRIDGE-WOODSIDE-HOUSE](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/COATBRIDGE-WOODSIDE-HOUSE) : 2022-12-19 18:00:41 +0000 
 * [DAER-SWEETSHAW-BURN](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/DAER-SWEETSHAW-BURN) : 2022-12-19 18:00:41 +0000 
 * [DAER-SWEETSHAWHEAD](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/DAER-SWEETSHAWHEAD) : 2022-12-19 18:00:41 +0000 

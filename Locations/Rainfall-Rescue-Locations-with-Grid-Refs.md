@@ -1,4 +1,4 @@
-Generation time: Monday 19/12/2022 19:19:33 GMT
+Generation time: Wednesday 21/12/2022 22:46:37 GMT
 
 ## Locations A-B
 
@@ -1512,7 +1512,7 @@ Generation time: Monday 19/12/2022 19:19:33 GMT
 |[BELLEEK-THE-ISLAND](https://github.com/ed-hawkins/rainfall-rescue-data-eire/tree/main/DATA/BELLEEK-THE-ISLAND) [EIRE]|||||||
 |[BELLINGHAM-HESLEYSIDE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/BELLINGHAM-HESLEYSIDE)|BELLINGHAM-HESLEYSIDE.csv|NY816837|55.147|-2.290|373|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=55.147&lon=-2.290&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/55.147,-2.290,16)  |
 |[BELLINGHAM-HIGHGREEN](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/BELLINGHAM-HIGHGREEN)|BELLINGHAM-HIGHGREEN.csv|NY809910|55.213|-2.302|849|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=55.213&lon=-2.302&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/55.213,-2.302,16)  |
-|[BELLINGHAM-OTTERBURN](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/BELLINGHAM-OTTERBURN) [V3]|||||||
+|[BELLINGHAM-OTTERBURN](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/BELLINGHAM-OTTERBURN) [V3]|BELLINGHAM-OTTERBURN.csv|NY886931|55.232|-2.181|500|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=55.232&lon=-2.181&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/55.232,-2.181,16)  |
 |[BELMULLET](https://github.com/ed-hawkins/rainfall-rescue-data-eire/tree/main/DATA/BELMULLET) [EIRE]|||||||
 |[BELPER-FERNSLOPE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/BELPER-FERNSLOPE)|BELPER-FERNSLOPE.csv|SK351477|53.025|-1.478|356|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=53.025&lon=-1.478&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/53.025,-1.478,16)  |
 ||BELPER-FERNSLOPE-2.csv|SK351477|53.025|-1.478|356|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=53.025&lon=-1.478&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/53.025,-1.478,16)  |
@@ -2187,7 +2187,7 @@ Generation time: Monday 19/12/2022 19:19:33 GMT
 ||BONESS-GRANGE-2.csv|NT009813|56.014|-3.591|100|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=56.014&lon=-3.591&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/56.014,-3.591,16)  |
 |[BONESS-NEIDPATH-COTTAGE](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/main/DATA/BONESS-NEIDPATH-COTTAGE) [V2]|BONESS-NEIDPATH-COTTAGE.csv|NT002811|56.012|-3.602|200|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=56.012&lon=-3.602&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/56.012,-3.602,16)  |
 |[BONNINGTON-RECTORY](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/main/DATA/BONNINGTON-RECTORY) [V2]|BONNINGTON-RECTORY.csv|TR053351|51.078|0.930|45|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=51.078&lon=0.930&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/51.078,0.930,16)  |
-|[BONNINGTON-WEIR](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/BONNINGTON-WEIR) [V3]|||||||
+|[BONNINGTON-WEIR](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/BONNINGTON-WEIR) [V3]|BONNINGTON-WEIR.csv|NS8845940714|55.647|-3.774|572|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=55.647&lon=-3.774&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/55.647,-3.774,16)  |
 |[BOOKHAM-LODGE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/BOOKHAM-LODGE)|BOOKHAM-LODGE.csv|TQ128574|51.305|-0.383|140|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=51.305&lon=-0.383&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/51.305,-0.383,16)  |
 |[BOOTLE-FELLSIDE](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/main/DATA/BOOTLE-FELLSIDE) [V2]|BOOTLE-FELLSIDE.csv|SD117882|54.282|-3.358|265|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=54.282&lon=-3.358&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/54.282,-3.358,16)  |
 |[BOOTLE-RECTORY](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/main/DATA/BOOTLE-RECTORY) [V2]|BOOTLE-RECTORY.csv|SD107884|54.283|-3.373|87|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=54.283&lon=-3.373&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/54.283,-3.373,16)  |

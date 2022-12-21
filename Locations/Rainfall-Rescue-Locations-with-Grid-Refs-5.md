@@ -1,4 +1,4 @@
-Generation time: Monday 19/12/2022 19:19:33 GMT
+Generation time: Wednesday 21/12/2022 22:46:38 GMT
 
 ## Locations K-M
 
@@ -743,7 +743,7 @@ Generation time: Monday 19/12/2022 19:19:33 GMT
 ||LAMPORT-HALL-2.csv|SP758744|52.363|-0.888|440|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=52.363&lon=-0.888&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/52.363,-0.888,16)  |
 ||LAMPORT-HALL-3.csv|SP754738|52.357|-0.894|480|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=52.357&lon=-0.894&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/52.357,-0.894,16)  |
 |[LANARK-BARONALD](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/LANARK-BARONALD)|LANARK-BARONALD.csv|NS8721944526|55.681|-3.795|505|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=55.681&lon=-3.795&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/55.681,-3.795,16)  |
-|[LANARK-FENCE](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/LANARK-FENCE) [V3]|||||||
+|[LANARK-FENCE](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/LANARK-FENCE) [V3]|LANARK-FENCE.csv|NS8061945915|55.692|-3.901|445|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=55.692&lon=-3.901&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/55.692,-3.901,16)  |
 |[LANARK-RHYBER-LODGE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/LANARK-RHYBER-LODGE)|LANARK-RHYBER-LODGE.csv|NS883442|55.678|-3.778|700|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=55.678&lon=-3.778&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/55.678,-3.778,16)  |
 |[LANARK-RIDGE-PARK](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/LANARK-RIDGE-PARK)|LANARK-RIDGE-PARK.csv|NS8771244486|55.681|-3.787|634|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=55.681&lon=-3.787&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/55.681,-3.787,16)  |
 |[LANARK-SUNNYSIDE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/LANARK-SUNNYSIDE)|LANARK-SUNNYSIDE.csv|NS8637244042|55.677|-3.808|384|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=55.677&lon=-3.808&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/55.677,-3.808,16)  |
@@ -3112,7 +3112,7 @@ Generation time: Monday 19/12/2022 19:19:33 GMT
 |[MOSTYN](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/MOSTYN)|MOSTYN.csv|SJ170792|53.303|-3.247|100|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=53.303&lon=-3.247&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/53.303,-3.247,16)  |
 ||MOSTYN-2.csv|SJ154810|53.319|-3.271|20|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=53.319&lon=-3.271&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/53.319,-3.271,16)  |
 ||MOSTYN-3.csv|SJ159808|53.317|-3.264|20|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=53.317&lon=-3.264&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/53.317,-3.264,16)  |
-|[MOTHERWELL-ELVAN-STREET](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/MOTHERWELL-ELVAN-STREET) [V3]|||||||
+|[MOTHERWELL-ELVAN-STREET](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/MOTHERWELL-ELVAN-STREET) [V3]|MOTHERWELL-ELVAN-STREET.csv|NS7466556847|55.789|-4.000|200|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=55.789&lon=-4.000&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/55.789,-4.000,16)  |
 |[MOTHERWELL-MURDOSTOUN-CASTLE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/MOTHERWELL-MURDOSTOUN-CASTLE)|MOTHERWELL-MURDOSTOUN-CASTLE.csv|NS825573|55.795|-3.875|550|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=55.795&lon=-3.875&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/55.795,-3.875,16)  |
 |[MOTTRAM-HILL-END](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/MOTTRAM-HILL-END)|MOTTRAM-HILL-END.csv|SJ989943|53.445|-2.018|680|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=53.445&lon=-2.018&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/53.445,-2.018,16)  |
 |[MOTTRAM-MATTLEYS-FIELD](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/MOTTRAM-MATTLEYS-FIELD)|MOTTRAM-MATTLEYS-FIELD.csv|SJ989937|53.440|-2.018|452|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=53.440&lon=-2.018&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/53.440,-2.018,16)  |

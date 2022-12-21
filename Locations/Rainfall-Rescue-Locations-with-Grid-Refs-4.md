@@ -1,4 +1,4 @@
-Generation time: Monday 19/12/2022 19:19:33 GMT
+Generation time: Wednesday 21/12/2022 22:46:38 GMT
 
 ## Locations G-J
 
@@ -13,7 +13,7 @@ Generation time: Monday 19/12/2022 19:19:33 GMT
 
 |Location|CSV|Grid Reference|Lat.|Long.|Height (ft)|Map Links|
 |:----|:----|:----|----|----|----|----|
-|[GABLE-HAWES](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/GABLE-HAWES) [V3]|||||||
+|[GABLE-HAWES](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/GABLE-HAWES) [V3]|GABLE-HAWES.csv|NY190099|54.478|-3.252|1077|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=54.478&lon=-3.252&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/54.478,-3.252,16)  |
 |[GADGIRTH](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/GADGIRTH)|GADGIRTH.csv|NS409223|55.469|-4.518|165|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=55.469&lon=-4.518&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/55.469,-4.518,16)  |
 |[GAINFORD](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/GAINFORD)|GAINFORD.csv|NZ171169|54.547|-1.737|252|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=54.547&lon=-1.737&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/54.547,-1.737,16)  |
 ||GAINFORD-2.csv|NZ171169|54.547|-1.737|252|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=54.547&lon=-1.737&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/54.547,-1.737,16)  |
@@ -222,7 +222,7 @@ Generation time: Monday 19/12/2022 19:19:33 GMT
 |[GLASGOW-LANGSIDE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/GLASGOW-LANGSIDE)|GLASGOW-LANGSIDE.csv|NS5743161462|55.825|-4.277|170|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=55.825&lon=-4.277&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/55.825,-4.277,16)  |
 |[GLASGOW-LINN-PARK](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/main/DATA/GLASGOW-LINN-PARK) [V2]|GLASGOW-LINN-PARK.csv|NS582592|55.805|-4.264|164|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=55.805&lon=-4.264&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/55.805,-4.264,16)  |
 |[GLASGOW-MACFARLANE-OBSERVATORY](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/GLASGOW-MACFARLANE-OBSERVATORY)|GLASGOW-MACFARLANE-OBSERVATORY.csv|NS59876515|55.859|-4.240|46|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=55.859&lon=-4.240&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/55.859,-4.240,16)  |
-|[GLASGOW-MAXWELL-DRIVE](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/GLASGOW-MAXWELL-DRIVE) [V3]|||||||
+|[GLASGOW-MAXWELL-DRIVE](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/GLASGOW-MAXWELL-DRIVE) [V3]|GLASGOW-MAXWELL-DRIVE.csv|NS5708463725|55.845|-4.284|60|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=55.845&lon=-4.284&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/55.845,-4.284,16)  |
 |[GLASGOW-MAXWELL-PARK](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/GLASGOW-MAXWELL-PARK)|GLASGOW-MAXWELL-PARK.csv|NS568631|55.840|-4.288|69|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=55.840&lon=-4.288&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/55.840,-4.288,16)  |
 ||GLASGOW-MAXWELL-PARK-2.csv|NS568631|55.840|-4.288|69|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=55.840&lon=-4.288&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/55.840,-4.288,16)  |
 |[GLASGOW-MEADOW-BANK](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/GLASGOW-MEADOW-BANK)|GLASGOW-MEADOW-BANK.csv|NS6897260721|55.822|-4.093|75|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=55.822&lon=-4.093&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/55.822,-4.093,16)  |
@@ -231,16 +231,16 @@ Generation time: Monday 19/12/2022 19:19:33 GMT
 |[GLASGOW-POLLOKSHIELDS](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/GLASGOW-POLLOKSHIELDS)|GLASGOW-POLLOKSHIELDS.csv|NS559644|55.851|-4.304|20|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=55.851&lon=-4.304&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/55.851,-4.304,16)  |
 ||GLASGOW-POLLOKSHIELDS-2.csv|NS575637|55.846|-4.278|50|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=55.846&lon=-4.278&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/55.846,-4.278,16)  |
 |[GLASGOW-QUEENS-PARK](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/GLASGOW-QUEENS-PARK)|GLASGOW-QUEENS-PARK.csv|NS578619|55.829|-4.272|147|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=55.829&lon=-4.272&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/55.829,-4.272,16)  |
-|[GLASGOW-RIDDRIE](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/GLASGOW-RIDDRIE) [V3]|||||||
+|[GLASGOW-RIDDRIE](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/GLASGOW-RIDDRIE) [V3]|GLASGOW-RIDDRIE.csv|NS6279266423|55.871|-4.194|252|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=55.871&lon=-4.194&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/55.871,-4.194,16)  |
 |[GLASGOW-RUCHILL-PARK](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/GLASGOW-RUCHILL-PARK)|GLASGOW-RUCHILL-PARK.csv|NS578684|55.888|-4.275|222|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=55.888&lon=-4.275&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/55.888,-4.275,16)  |
-|[GLASGOW-RUTHERGLEN](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/GLASGOW-RUTHERGLEN) [V3]|||||||
+|[GLASGOW-RUTHERGLEN](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/GLASGOW-RUTHERGLEN) [V3]|GLASGOW-RUTHERGLEN.csv|NS603608|55.820|-4.231|100|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=55.820&lon=-4.231&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/55.820,-4.231,16)  |
 |[GLASGOW-SPRINGBURN-PARK](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/GLASGOW-SPRINGBURN-PARK)|GLASGOW-SPRINGBURN-PARK.csv|NS610685|55.890|-4.224|351|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=55.890&lon=-4.224&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/55.890,-4.224,16)  |
 ||GLASGOW-SPRINGBURN-PARK-2.csv|NS610685|55.890|-4.224|351|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=55.890&lon=-4.224&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/55.890,-4.224,16)  |
-|[GLASGOW-ST-GEORGES-ROAD](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/GLASGOW-ST-GEORGES-ROAD) [V3]|||||||
+|[GLASGOW-ST-GEORGES-ROAD](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/GLASGOW-ST-GEORGES-ROAD) [V3]|GLASGOW-ST-GEORGES-ROAD.csv|NS5815766442|55.870|-4.268|80|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=55.870&lon=-4.268&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/55.870,-4.268,16)  |
 |[GLASGOW-THOMSON](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/main/DATA/GLASGOW-THOMSON) [V2]|GLASGOW-THOMSON.csv|NS5632867387|55.878|-4.298|180|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=55.878&lon=-4.298&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/55.878,-4.298,16)  |
 |[GLASGOW-TOLLCROSS-PARK](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/GLASGOW-TOLLCROSS-PARK)|GLASGOW-TOLLCROSS-PARK.csv|NS639638|55.848|-4.175|85|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=55.848&lon=-4.175&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/55.848,-4.175,16)  |
 ||GLASGOW-TOLLCROSS-PARK-2.csv|NS639638|55.848|-4.175|85|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=55.848&lon=-4.175&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/55.848,-4.175,16)  |
-|[GLASGOW-UNIVERSITY](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/GLASGOW-UNIVERSITY) [V3]|||||||
+|[GLASGOW-UNIVERSITY](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/GLASGOW-UNIVERSITY) [V3]|GLASGOW-UNIVERSITY.csv|NS5680366645|55.872|-4.290|139|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=55.872&lon=-4.290&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/55.872,-4.290,16)  |
 |[GLASGOW-VICTORIA-PARK](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/GLASGOW-VICTORIA-PARK)|GLASGOW-VICTORIA-PARK.csv|NS543673|55.877|-4.330|30|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=55.877&lon=-4.330&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/55.877,-4.330,16)  |
 |[GLASGWM-TYN-Y-FFRIDD](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/GLASGWM-TYN-Y-FFRIDD)|GLASGWM-TYN-Y-FFRIDD.csv|SJ040213|52.781|-3.425|1010|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=52.781&lon=-3.425&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/52.781,-3.425,16)  |
 |[GLASHAN-DAM](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/main/DATA/GLASHAN-DAM) [V2]|GLASHAN-DAM.csv|NR921927|56.082|-5.343|330|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=56.082&lon=-5.343&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/56.082,-5.343,16)  |
