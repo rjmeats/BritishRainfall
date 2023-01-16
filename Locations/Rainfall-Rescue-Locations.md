@@ -1,4 +1,4 @@
-Generation time: Saturday 24/12/2022 12:29:37 GMT
+Generation time: Monday 16/01/2023 18:21:34 GMT
 
 
 [MO-2020] indicates a location which contributed to the [Met Office 2020 UK Climate Report](https://www.metoffice.gov.uk/research/climate/maps-and-data/about/state-of-climate):
@@ -15637,7 +15637,7 @@ Generation time: Saturday 24/12/2022 12:29:37 GMT
 * [BOGNOR-IVYCROFT](https://github.com/ed-hawkins/rainfall-rescue/tree/master/POOR-LOCATIONS/BOGNOR-IVYCROFT) : 2021-05-05 19:45:50 +0100 
 * [BOURNEMOUTH-SOUTH-CLIFF](https://github.com/ed-hawkins/rainfall-rescue/tree/master/POOR-LOCATIONS/BOURNEMOUTH-SOUTH-CLIFF) : 2022-12-01 13:59:56 +0000 
 * [BOURNEMOUTH-WELLINGTON-HOUSE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/POOR-LOCATIONS/BOURNEMOUTH-WELLINGTON-HOUSE) : 2022-12-01 13:59:56 +0000 
-* [BOWDEN-CHESHIRE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/POOR-LOCATIONS/BOWDEN-CHESHIRE) : 2022-04-07 10:42:16 +0100 
+* [BOWDEN-CHESHIRE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/POOR-LOCATIONS/BOWDEN-CHESHIRE) : 2023-01-16 13:52:04 +0000 
 * [CAE-GWYN](https://github.com/ed-hawkins/rainfall-rescue/tree/master/POOR-LOCATIONS/CAE-GWYN) : 2022-08-24 14:27:19 +0100 
 * [CAMBRIDGE-MIX](https://github.com/ed-hawkins/rainfall-rescue/tree/master/POOR-LOCATIONS/CAMBRIDGE-MIX) : 2021-11-22 21:24:24 +0000 
 * [CARDIFF-FAIRWATER-HOUSE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/POOR-LOCATIONS/CARDIFF-FAIRWATER-HOUSE) : 2021-05-07 09:32:32 +0100 
@@ -15665,7 +15665,7 @@ Generation time: Saturday 24/12/2022 12:29:37 GMT
 * [FALMOUTH-PENDENNIS-CASTLE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/POOR-LOCATIONS/FALMOUTH-PENDENNIS-CASTLE) : 2022-12-05 16:56:53 +0000 
 * [GLEN-AFFRIC-LOCH-NA-GOBHLAIG](https://github.com/ed-hawkins/rainfall-rescue/tree/master/POOR-LOCATIONS/GLEN-AFFRIC-LOCH-NA-GOBHLAIG) : 2022-11-25 12:50:12 +0000 
 * [GLEN-ELCHAIG-LOCH-NAN-EALACHAN](https://github.com/ed-hawkins/rainfall-rescue/tree/master/POOR-LOCATIONS/GLEN-ELCHAIG-LOCH-NAN-EALACHAN) : 2022-12-05 16:56:53 +0000 
-* [GLEN-FINLAS-RES-FIVE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/POOR-LOCATIONS/GLEN-FINLAS-RES-FIVE) : 2022-01-12 23:01:53 +0000 
+* [GLEN-FINLAS-RES-FIVE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/POOR-LOCATIONS/GLEN-FINLAS-RES-FIVE) : 2023-01-16 13:52:04 +0000 
 * [GLEN-FINLAS-RES-FOUR](https://github.com/ed-hawkins/rainfall-rescue/tree/master/POOR-LOCATIONS/GLEN-FINLAS-RES-FOUR) : 2022-06-06 17:24:01 +0100 
 * [GLEN-FINLAS-RES-SEVEN](https://github.com/ed-hawkins/rainfall-rescue/tree/master/POOR-LOCATIONS/GLEN-FINLAS-RES-SEVEN) : 2022-06-06 17:24:01 +0100 
 * [GLEN-FINLAS-RES-SIX](https://github.com/ed-hawkins/rainfall-rescue/tree/master/POOR-LOCATIONS/GLEN-FINLAS-RES-SIX) : 2022-06-06 17:24:01 +0100 
@@ -15697,7 +15697,7 @@ Generation time: Saturday 24/12/2022 12:29:37 GMT
 * [LAKE-VYRNWY-LLANWDDYN](https://github.com/ed-hawkins/rainfall-rescue/tree/master/POOR-LOCATIONS/LAKE-VYRNWY-LLANWDDYN) : 2021-05-05 19:45:50 +0100 
 * [LAKE-VYRNWY-PEN-Y-FFRIDD-COWNWY](https://github.com/ed-hawkins/rainfall-rescue/tree/master/POOR-LOCATIONS/LAKE-VYRNWY-PEN-Y-FFRIDD-COWNWY) : 2021-05-05 19:45:50 +0100 
 * [LAKE-VYRNWY-RHIALGWM](https://github.com/ed-hawkins/rainfall-rescue/tree/master/POOR-LOCATIONS/LAKE-VYRNWY-RHIALGWM) : 2021-05-05 19:45:50 +0100 
-* [LOCH-A-CHROISG-LUBMORE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/POOR-LOCATIONS/LOCH-A-CHROISG-LUBMORE) : 2022-11-07 17:35:02 +0000 
+* [LOCH-A-CHROISG-LUBMORE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/POOR-LOCATIONS/LOCH-A-CHROISG-LUBMORE) : 2023-01-16 13:52:04 +0000 
 * [LOCH-BENACHALLY](https://github.com/ed-hawkins/rainfall-rescue/tree/master/POOR-LOCATIONS/LOCH-BENACHALLY) : 2022-11-07 17:35:02 +0000 
 * [LOCH-TUMMEL-GRENICH](https://github.com/ed-hawkins/rainfall-rescue/tree/master/POOR-LOCATIONS/LOCH-TUMMEL-GRENICH) : 2022-11-07 17:35:02 +0000 
 * [LOCH-TUMMEL-OVER-BOHESPIE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/POOR-LOCATIONS/LOCH-TUMMEL-OVER-BOHESPIE) : 2022-12-06 15:16:20 +0000 
@@ -15720,7 +15720,7 @@ Generation time: Saturday 24/12/2022 12:29:37 GMT
 * [MIDHURST](https://github.com/ed-hawkins/rainfall-rescue/tree/master/POOR-LOCATIONS/MIDHURST) : 2021-05-05 19:45:50 +0100 
 * [MONMOUTH](https://github.com/ed-hawkins/rainfall-rescue/tree/master/POOR-LOCATIONS/MONMOUTH) : 2021-04-01 00:40:09 +0100 
 * [MORVILLE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/POOR-LOCATIONS/MORVILLE) : 2022-12-09 15:47:55 +0000 
-* [NORTHAMPTON](https://github.com/ed-hawkins/rainfall-rescue/tree/master/POOR-LOCATIONS/NORTHAMPTON) : 2022-09-26 17:34:11 +0100 
+* [NORTHAMPTON](https://github.com/ed-hawkins/rainfall-rescue/tree/master/POOR-LOCATIONS/NORTHAMPTON) : 2023-01-16 13:52:04 +0000 
 * [NORWICH-BETHEL-ST](https://github.com/ed-hawkins/rainfall-rescue/tree/master/POOR-LOCATIONS/NORWICH-BETHEL-ST) : 2021-05-05 19:45:50 +0100 
 * [OAKHAM-WING-RECTORY](https://github.com/ed-hawkins/rainfall-rescue/tree/master/POOR-LOCATIONS/OAKHAM-WING-RECTORY) : 2021-05-05 19:45:50 +0100 
 * [OLDHAM](https://github.com/ed-hawkins/rainfall-rescue/tree/master/POOR-LOCATIONS/OLDHAM) : 2021-05-05 19:45:50 +0100 

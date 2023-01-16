@@ -1,4 +1,4 @@
-Generation time: Saturday 24/12/2022 12:29:38 GMT
+Generation time: Monday 16/01/2023 18:21:35 GMT
 
 ## Locations U-Z
 
@@ -992,7 +992,7 @@ Generation time: Saturday 24/12/2022 12:29:38 GMT
 |[WICKWAR-RECTORY](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/WICKWAR-RECTORY)|WICKWAR-RECTORY.csv|ST722888|51.597|-2.403|260|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=51.597&lon=-2.403&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/51.597,-2.403,16)  |
 |[WIDDINGTON-RECTORY](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/main/DATA/WIDDINGTON-RECTORY) [V2]|WIDDINGTON-RECTORY.csv|TL539317|51.962|0.239|340|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=51.962&lon=0.239&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/51.962,0.239,16)  |
 |[WIDDRINGTON](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/main/DATA/WIDDRINGTON) [V2]|WIDDRINGTON.csv|NZ256955|55.253|-1.599|110|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=55.253&lon=-1.599&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/55.253,-1.599,16)  |
-|[WIDNES-GAS-WORKS](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/main/DATA/WIDNES-GAS-WORKS) [V2]|WIDNES-GAS-WORKS.csv|SJ513850|53.360|-2.733|30|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=53.360&lon=-2.733&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/53.360,-2.733,16)  |
+|[WIDNES-GAS-WORKS](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/main/DATA/WIDNES-GAS-WORKS) [V2]|WIDNES-GAS-WORKS.csv|SJ519852|53.361|-2.724|30|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=53.361&lon=-2.724&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/53.361,-2.724,16)  |
 |[WIDNES-WADE-DEACON-GRAMMAR-SCHOOL](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/WIDNES-WADE-DEACON-GRAMMAR-SCHOOL) [V3]|WIDNES-WADE-DEACON-GRAMMAR-SCHOOL.csv|SJ511867|53.375|-2.736|100|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=53.375&lon=-2.736&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/53.375,-2.736,16)  |
 |[WIGAN-BEECH-HILL](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/main/DATA/WIGAN-BEECH-HILL) [V2]|WIGAN-BEECH-HILL.csv|SD570074|53.561|-2.651|179|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=53.561&lon=-2.651&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/53.561,-2.651,16)  |
 |[WIGAN-GIDLOW-SCHOOL](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/main/DATA/WIGAN-GIDLOW-SCHOOL) [V2]|WIGAN-GIDLOW-SCHOOL.csv|SD573068|53.556|-2.646|150|[NLS](https://maps.nls.uk/geo/explore/#zoom=17&lat=53.556&lon=-2.646&layers=168&b=1) [OS](https://osmaps.ordnancesurvey.co.uk/53.556,-2.646,16)  |
