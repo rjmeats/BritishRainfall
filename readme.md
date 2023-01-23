@@ -2,9 +2,10 @@
 
 This repository contains some material produced while working on the [Rainfall Rescue Zooniverse project](https://www.zooniverse.org/projects/edh/rainfall-rescue) run by [Professor Ed Hawkins](http://www.met.reading.ac.uk/~ed/home/index.php). 
 
-The project aims to digitise thousands of pre-1960 hand-written rainfall sheets which recorded monthly rainfall figures at thousands of rain gauges across Britain and Ireland. The sheets are available as images within PDF files on the [Met Office Archive web site](https://digital.nmla.metoffice.gov.uk/).
+The project has digitised thousands of pre-1960 hand-written rainfall sheets which recorded monthly rainfall figures at thousands of rain gauges across Britain and Ireland. The sheets are available as images within PDF files on the [Met Office Archive web site](https://digital.nmla.metoffice.gov.uk/).
 
-The Rainfall Rescue GitHub site is at [https://github.com/ed-hawkins/rainfall-rescue](https://github.com/ed-hawkins/rainfall-rescue) - it contains the detailed digitised rainfall data produced by the project. 
+The Rainfall Rescue GitHub site is at [https://github.com/ed-hawkins/rainfall-rescue](https://github.com/ed-hawkins/rainfall-rescue) - it contains the detailed digitised rainfall data produced by the project, 
+and the formal data releases. It also contains a copy of the paper published by the project in Geoscience Data Journal. [![DOI](https://zenodo.org/badge/261481817.svg)](https://zenodo.org/badge/latestdoi/261481817)
 
 Contents of my repository:
 
