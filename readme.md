@@ -11,10 +11,9 @@ Contents of my repository:
 |Folder|Contents|
 |:--|:--|
 |Locations|Contains files providing links to the many different locations in main Rainfall Rescue GitHub site, organised in convenient ways.|
-|Data-Issues|Material relating to potential data issues, for ease of sharing. The folder may not exist if there are no current unresolved issues.|
-|Scratch|Temporary area, for ease of sharing content, typically PDF files containing the sheets for a location of interest.|
+|Obituaries|Obiturary content extracted from British Rainfall almanacs.|
+|Scratch|Area for ease of sharing content, mostly images extracted from British Rainfall almanac.|
 |M-S-and-L-Railway|Notes relating to the rain gauges sites which the [MS&L Railway](https://en.wikipedia.org/wiki/Manchester,_Sheffield_and_Lincolnshire_Railway) operated between about 1850 and 1922.
-|csv_format_trial|Demonstrates how GitHub can display CSV files in a tabular way.|
 |JPG-Compression-Experiment|Examples showing the impact of different compression settings on JPG file sizes and appearance.|
 
 
