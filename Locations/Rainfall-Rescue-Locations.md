@@ -1,4 +1,4 @@
-Generation time: Tuesday 16/05/2023 12:40:21 BST
+Generation time: Tuesday 16/05/2023 22:56:59 BST
 
 
 [MO-2020] indicates a location which contributed to the [Met Office 2020 UK Climate Report](https://www.metoffice.gov.uk/research/climate/maps-and-data/about/state-of-climate):
@@ -6562,7 +6562,7 @@ Generation time: Tuesday 16/05/2023 12:40:21 BST
 * [WICKLOW-WENTWORTH-HOUSE](https://github.com/ed-hawkins/rainfall-rescue-data-eire/tree/main/DATA/WICKLOW-WENTWORTH-HOUSE) : 2022-10-27 18:29:20 +0100 
 * [WOODPARK-SCARRIFF](https://github.com/ed-hawkins/rainfall-rescue-data-eire/tree/main/DATA/WOODPARK-SCARRIFF) : 2022-03-03 16:20:51 +0000 
 
-15 **rainfall-rescue-leftover/DATA** left-over counties under [https://github.com/ed-hawkins/rainfall-rescue-leftover/tree/main/DATA](https://github.com/ed-hawkins/rainfall-rescue-leftover/tree/main/DATA):
+24 **rainfall-rescue-leftover/DATA** left-over counties under [https://github.com/ed-hawkins/rainfall-rescue-leftover/tree/main/DATA](https://github.com/ed-hawkins/rainfall-rescue-leftover/tree/main/DATA):
 
 * [Anglesey](https://github.com/ed-hawkins/rainfall-rescue-leftover/tree/main/DATA/Anglesey) : 2023-05-15 17:52:38 +0100 
 * [Angus-Forfar](https://github.com/ed-hawkins/rainfall-rescue-leftover/tree/main/DATA/Angus-Forfar) : 2023-05-11 20:20:01 +0100 
@@ -6573,11 +6573,20 @@ Generation time: Tuesday 16/05/2023 12:40:21 BST
 * [Brecknockshire](https://github.com/ed-hawkins/rainfall-rescue-leftover/tree/main/DATA/Brecknockshire) : 2023-05-15 17:52:38 +0100 
 * [Cambridgeshire](https://github.com/ed-hawkins/rainfall-rescue-leftover/tree/main/DATA/Cambridgeshire) : 2023-05-11 20:20:01 +0100 
 * [Carmarthenshire](https://github.com/ed-hawkins/rainfall-rescue-leftover/tree/main/DATA/Carmarthenshire) : 2023-05-11 20:20:01 +0100 
+* [Cheshire](https://github.com/ed-hawkins/rainfall-rescue-leftover/tree/main/DATA/Cheshire) : 2023-05-16 21:32:01 +0100 
+* [Derbyshire](https://github.com/ed-hawkins/rainfall-rescue-leftover/tree/main/DATA/Derbyshire) : 2023-05-16 21:32:01 +0100 
+* [Dorset](https://github.com/ed-hawkins/rainfall-rescue-leftover/tree/main/DATA/Dorset) : 2023-05-16 21:37:32 +0100 
+* [Dunbartonshire](https://github.com/ed-hawkins/rainfall-rescue-leftover/tree/main/DATA/Dunbartonshire) : 2023-05-16 21:51:52 +0100 
 * [Guernsey](https://github.com/ed-hawkins/rainfall-rescue-leftover/tree/main/DATA/Guernsey) : 2023-05-15 17:42:56 +0100 
+* [Hampshire](https://github.com/ed-hawkins/rainfall-rescue-leftover/tree/main/DATA/Hampshire) : 2023-05-16 21:37:32 +0100 
 * [Isle-of-Man](https://github.com/ed-hawkins/rainfall-rescue-leftover/tree/main/DATA/Isle-of-Man) : 2023-05-15 17:52:38 +0100 
 * [Isle-of-Wight](https://github.com/ed-hawkins/rainfall-rescue-leftover/tree/main/DATA/Isle-of-Wight) : 2023-05-11 20:20:01 +0100 
 * [Jersey](https://github.com/ed-hawkins/rainfall-rescue-leftover/tree/main/DATA/Jersey) : 2023-05-15 17:42:56 +0100 
+* [Kent](https://github.com/ed-hawkins/rainfall-rescue-leftover/tree/main/DATA/Kent) : 2023-05-16 21:46:07 +0100 
+* [London-County](https://github.com/ed-hawkins/rainfall-rescue-leftover/tree/main/DATA/London-County) : 2023-05-16 21:46:07 +0100 
 * [Northumberland](https://github.com/ed-hawkins/rainfall-rescue-leftover/tree/main/DATA/Northumberland) : 2023-05-11 20:20:01 +0100 
+* [Stirlingshire](https://github.com/ed-hawkins/rainfall-rescue-leftover/tree/main/DATA/Stirlingshire) : 2023-05-16 21:51:52 +0100 
+* [Sussex](https://github.com/ed-hawkins/rainfall-rescue-leftover/tree/main/DATA/Sussex) : 2023-05-16 21:37:32 +0100 
 * [Yorkshire-East-Riding](https://github.com/ed-hawkins/rainfall-rescue-leftover/tree/main/DATA/Yorkshire-East-Riding) : 2023-05-11 16:31:17 +0100 
 
 5766 **rainfall-rescue-data-v2/DATA** locations under [https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/main/DATA](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/main/DATA):
