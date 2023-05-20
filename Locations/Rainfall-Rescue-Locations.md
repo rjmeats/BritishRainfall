@@ -1,4 +1,4 @@
-Generation time: Friday 19/05/2023 07:40:08 BST
+Generation time: Friday 19/05/2023 22:42:19 BST
 
 
 [MO-2020] indicates a location which contributed to the [Met Office 2020 UK Climate Report](https://www.metoffice.gov.uk/research/climate/maps-and-data/about/state-of-climate):
@@ -6562,7 +6562,7 @@ Generation time: Friday 19/05/2023 07:40:08 BST
 * [WICKLOW-WENTWORTH-HOUSE](https://github.com/ed-hawkins/rainfall-rescue-data-eire/tree/main/DATA/WICKLOW-WENTWORTH-HOUSE) : 2022-10-27 18:29:20 +0100 
 * [WOODPARK-SCARRIFF](https://github.com/ed-hawkins/rainfall-rescue-data-eire/tree/main/DATA/WOODPARK-SCARRIFF) : 2022-03-03 16:20:51 +0000 
 
-50 **rainfall-rescue-leftover/DATA** left-over counties under [https://github.com/ed-hawkins/rainfall-rescue-leftover/tree/main/DATA](https://github.com/ed-hawkins/rainfall-rescue-leftover/tree/main/DATA):
+51 **rainfall-rescue-leftover/DATA** left-over counties under [https://github.com/ed-hawkins/rainfall-rescue-leftover/tree/main/DATA](https://github.com/ed-hawkins/rainfall-rescue-leftover/tree/main/DATA):
 
 * [Anglesey](https://github.com/ed-hawkins/rainfall-rescue-leftover/tree/main/DATA/Anglesey) : 2023-05-15 17:52:38 +0100 
 * [Angus-Forfar](https://github.com/ed-hawkins/rainfall-rescue-leftover/tree/main/DATA/Angus-Forfar) : 2023-05-11 20:20:01 +0100 
@@ -6614,6 +6614,7 @@ Generation time: Friday 19/05/2023 07:40:08 BST
 * [Tyrone](https://github.com/ed-hawkins/rainfall-rescue-leftover/tree/main/DATA/Tyrone) : 2023-05-17 18:25:35 +0100 
 * [Unidentified](https://github.com/ed-hawkins/rainfall-rescue-leftover/tree/main/DATA/Unidentified) : 2023-05-17 18:19:29 +0100 
 * [Yorkshire-East-Riding](https://github.com/ed-hawkins/rainfall-rescue-leftover/tree/main/DATA/Yorkshire-East-Riding) : 2023-05-11 16:31:17 +0100 
+* [Yorkshire-West-Riding](https://github.com/ed-hawkins/rainfall-rescue-leftover/tree/main/DATA/Yorkshire-West-Riding) : 2023-05-19 18:08:11 +0100 
 
 5766 **rainfall-rescue-data-v2/DATA** locations under [https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/main/DATA](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/main/DATA):
 
@@ -15676,7 +15677,7 @@ Generation time: Friday 19/05/2023 07:40:08 BST
 * [OXFORD](https://github.com/ed-hawkins/rainfall-rescue/tree/master/COMPOSITE-SERIES/OXFORD) : 2021-05-07 17:04:11 +0100 
 * [READING](https://github.com/ed-hawkins/rainfall-rescue/tree/master/COMPOSITE-SERIES/READING) : 2021-05-07 17:04:11 +0100 
 
-13 **rainfall-rescue-data-eire/LEFT-OVER** left-over counties under [https://github.com/ed-hawkins/rainfall-rescue-data-eire/tree/main/LEFT-OVER](https://github.com/ed-hawkins/rainfall-rescue-data-eire/tree/main/LEFT-OVER):
+26 **rainfall-rescue-data-eire/LEFT-OVER** left-over counties under [https://github.com/ed-hawkins/rainfall-rescue-data-eire/tree/main/LEFT-OVER](https://github.com/ed-hawkins/rainfall-rescue-data-eire/tree/main/LEFT-OVER):
 
 * [Carlow](https://github.com/ed-hawkins/rainfall-rescue-data-eire/tree/main/LEFT-OVER/Carlow) : 2023-05-15 17:34:24 +0100 
 * [Cavan](https://github.com/ed-hawkins/rainfall-rescue-data-eire/tree/main/LEFT-OVER/Cavan) : 2023-05-15 17:34:24 +0100 
@@ -15691,6 +15692,19 @@ Generation time: Friday 19/05/2023 07:40:08 BST
 * [Kings-County-Offaly](https://github.com/ed-hawkins/rainfall-rescue-data-eire/tree/main/LEFT-OVER/Kings-County-Offaly) : 2023-05-15 17:34:24 +0100 
 * [Leitrim](https://github.com/ed-hawkins/rainfall-rescue-data-eire/tree/main/LEFT-OVER/Leitrim) : 2023-05-15 17:34:24 +0100 
 * [Limerick](https://github.com/ed-hawkins/rainfall-rescue-data-eire/tree/main/LEFT-OVER/Limerick) : 2023-05-15 17:34:24 +0100 
+* [Longford](https://github.com/ed-hawkins/rainfall-rescue-data-eire/tree/main/LEFT-OVER/Longford) : 2023-05-19 18:15:06 +0100 
+* [Louth](https://github.com/ed-hawkins/rainfall-rescue-data-eire/tree/main/LEFT-OVER/Louth) : 2023-05-19 18:15:06 +0100 
+* [Mayo](https://github.com/ed-hawkins/rainfall-rescue-data-eire/tree/main/LEFT-OVER/Mayo) : 2023-05-19 18:15:06 +0100 
+* [Meath](https://github.com/ed-hawkins/rainfall-rescue-data-eire/tree/main/LEFT-OVER/Meath) : 2023-05-19 18:15:06 +0100 
+* [Monaghan](https://github.com/ed-hawkins/rainfall-rescue-data-eire/tree/main/LEFT-OVER/Monaghan) : 2023-05-19 18:15:06 +0100 
+* [Queens-County-Laois](https://github.com/ed-hawkins/rainfall-rescue-data-eire/tree/main/LEFT-OVER/Queens-County-Laois) : 2023-05-19 18:15:06 +0100 
+* [Roscommon](https://github.com/ed-hawkins/rainfall-rescue-data-eire/tree/main/LEFT-OVER/Roscommon) : 2023-05-19 18:15:06 +0100 
+* [Sligo](https://github.com/ed-hawkins/rainfall-rescue-data-eire/tree/main/LEFT-OVER/Sligo) : 2023-05-19 18:15:06 +0100 
+* [Tipperary](https://github.com/ed-hawkins/rainfall-rescue-data-eire/tree/main/LEFT-OVER/Tipperary) : 2023-05-19 18:15:06 +0100 
+* [Waterford](https://github.com/ed-hawkins/rainfall-rescue-data-eire/tree/main/LEFT-OVER/Waterford) : 2023-05-19 18:15:06 +0100 
+* [Westmeath](https://github.com/ed-hawkins/rainfall-rescue-data-eire/tree/main/LEFT-OVER/Westmeath) : 2023-05-19 18:15:06 +0100 
+* [Wexford](https://github.com/ed-hawkins/rainfall-rescue-data-eire/tree/main/LEFT-OVER/Wexford) : 2023-05-19 18:15:06 +0100 
+* [Wicklow](https://github.com/ed-hawkins/rainfall-rescue-data-eire/tree/main/LEFT-OVER/Wicklow) : 2023-05-19 18:15:06 +0100 
 
 133 **rainfall-rescue/POOR-LOCATIONS** locations under [https://github.com/ed-hawkins/rainfall-rescue/tree/master/POOR-LOCATIONS](https://github.com/ed-hawkins/rainfall-rescue/tree/master/POOR-LOCATIONS):
 
