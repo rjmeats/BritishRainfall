@@ -1,0 +1,5339 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.647,
+          55.3
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "ACKLINGTON-AIRFIELD",
+        "county": "Northumberland",
+        "gridref": "NU225007",
+        "latitude": "55.300",
+        "longitude": "-1.647",
+        "elevation (ft)": "138"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.612,
+          55.302
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "ACKLINGTON-BROOMHILL-COLLIERY",
+        "county": "Northumberland",
+        "gridref": "NU247010",
+        "latitude": "55.302",
+        "longitude": "-1.612",
+        "elevation (ft)": "92"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.251,
+          54.898
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "ALLENDALE",
+        "county": "Northumberland",
+        "gridref": "NY840559",
+        "latitude": "54.898",
+        "longitude": "-2.251",
+        "elevation (ft)": "795"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.222,
+          54.806
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "ALLENHEADS",
+        "county": "Northumberland",
+        "gridref": "NY858457",
+        "latitude": "54.806",
+        "longitude": "-2.222",
+        "elevation (ft)": "1400"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.249,
+          54.82
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "ALLENHEADS",
+        "county": "Northumberland",
+        "gridref": "NY841473",
+        "latitude": "54.820",
+        "longitude": "-2.249",
+        "elevation (ft)": "1360"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.232,
+          54.829
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "ALLENHEADS",
+        "county": "Northumberland",
+        "gridref": "NY852483",
+        "latitude": "54.829",
+        "longitude": "-2.232",
+        "elevation (ft)": "1353"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.612,
+          55.387
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "ALNMOUTH-NETHER-GRANGE",
+        "county": "Northumberland",
+        "gridref": "NU247104",
+        "latitude": "55.387",
+        "longitude": "-1.612",
+        "elevation (ft)": "40"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.708,
+          55.415
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "ALNWICK-CASTLE",
+        "county": "Northumberland",
+        "gridref": "NU186135",
+        "latitude": "55.415",
+        "longitude": "-1.708",
+        "elevation (ft)": "178"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.91,
+          55.422
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "ALNWICK-GLANTON-PIKE",
+        "county": "Northumberland",
+        "gridref": "NU058142",
+        "latitude": "55.422",
+        "longitude": "-1.910",
+        "elevation (ft)": "517"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.709,
+          55.417
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "ALNWICK-MIX",
+        "county": "Northumberland",
+        "gridref": "NU185137",
+        "latitude": "55.417",
+        "longitude": "-1.709",
+        "elevation (ft)": "115"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.714,
+          55.435
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "ALNWICK-MIX",
+        "county": "Northumberland",
+        "gridref": "NU182157",
+        "latitude": "55.435",
+        "longitude": "-1.714",
+        "elevation (ft)": "400"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.709,
+          55.409
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "ALNWICK-MIX",
+        "county": "Northumberland",
+        "gridref": "NU185128",
+        "latitude": "55.409",
+        "longitude": "-1.709",
+        "elevation (ft)": "304"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.706,
+          55.413
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "ALNWICK-MIX",
+        "county": "Northumberland",
+        "gridref": "NU187133",
+        "latitude": "55.413",
+        "longitude": "-1.706",
+        "elevation (ft)": "214"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.073,
+          55.369
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "ALWINTON-BIDDLESTON",
+        "county": "Northumberland",
+        "gridref": "NT955083",
+        "latitude": "55.369",
+        "longitude": "-2.073",
+        "elevation (ft)": "820"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.11,
+          55.336
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "ALWINTON-HARBOTTLE",
+        "county": "Northumberland",
+        "gridref": "NT931047",
+        "latitude": "55.336",
+        "longitude": "-2.110",
+        "elevation (ft)": "500"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.582,
+          55.336
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "AMBLE",
+        "county": "Northumberland",
+        "gridref": "NU266047",
+        "latitude": "55.336",
+        "longitude": "-1.582",
+        "elevation (ft)": "12"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.957,
+          55.71
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "ANCROFT-CHESWICK",
+        "county": "Northumberland",
+        "gridref": "NU028463",
+        "latitude": "55.710",
+        "longitude": "-1.957",
+        "elevation (ft)": "100"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.854,
+          55.161
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "ANGERTON-HALL",
+        "county": "Northumberland",
+        "gridref": "NZ094852",
+        "latitude": "55.161",
+        "longitude": "-1.854",
+        "elevation (ft)": "320"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.723,
+          55.607
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "BAMBURGH",
+        "county": "Northumberland",
+        "gridref": "NU175348",
+        "latitude": "55.607",
+        "longitude": "-1.723",
+        "elevation (ft)": "70"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.716,
+          55.608
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "BAMBURGH",
+        "county": "Northumberland",
+        "gridref": "NU180350",
+        "latitude": "55.608",
+        "longitude": "-1.716",
+        "elevation (ft)": "75"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.368,
+          54.948
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "BARDON-MILL-ALLANS-GREEN",
+        "county": "Northumberland",
+        "gridref": "NY765615",
+        "latitude": "54.948",
+        "longitude": "-2.368",
+        "elevation (ft)": "1000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.331,
+          54.968
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "BARDON-MILL-BELTINGHAM-VICARAGE",
+        "county": "Northumberland",
+        "gridref": "NY789638",
+        "latitude": "54.968",
+        "longitude": "-2.331",
+        "elevation (ft)": "323"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.125,
+          55.051
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "BARRASFORD",
+        "county": "Northumberland",
+        "gridref": "NY921730",
+        "latitude": "55.051",
+        "longitude": "-2.125",
+        "elevation (ft)": "207"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.011,
+          55.649
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "BEAL-BARMOOR-CASTLE",
+        "county": "Northumberland",
+        "gridref": "NT994395",
+        "latitude": "55.649",
+        "longitude": "-2.011",
+        "elevation (ft)": "400"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.843,
+          55.209
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "BEAL-BARMOOR-CASTLE",
+        "county": "Northumberland",
+        "gridref": "NZ101905",
+        "latitude": "55.209",
+        "longitude": "-1.843",
+        "elevation (ft)": "330"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.936,
+          55.671
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "BEAL-LOWLYNN",
+        "county": "Northumberland",
+        "gridref": "NU041419",
+        "latitude": "55.671",
+        "longitude": "-1.936",
+        "elevation (ft)": "200"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.851,
+          55.613
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "BELFORD-MIDDLETON-HALL",
+        "county": "Northumberland",
+        "gridref": "NU095355",
+        "latitude": "55.613",
+        "longitude": "-1.851",
+        "elevation (ft)": "240"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.818,
+          55.583
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "BELFORD-NEWLANDS",
+        "county": "Northumberland",
+        "gridref": "NU116322",
+        "latitude": "55.583",
+        "longitude": "-1.818",
+        "elevation (ft)": "160"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.29,
+          55.147
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "BELLINGHAM-HESLEYSIDE",
+        "county": "Northumberland",
+        "gridref": "NY816837",
+        "latitude": "55.147",
+        "longitude": "-2.290",
+        "elevation (ft)": "373"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.302,
+          55.213
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "BELLINGHAM-HIGHGREEN",
+        "county": "Northumberland",
+        "gridref": "NY809910",
+        "latitude": "55.213",
+        "longitude": "-2.302",
+        "elevation (ft)": "849"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.181,
+          55.232
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "BELLINGHAM-OTTERBURN",
+        "county": "Northumberland",
+        "gridref": "NY886931",
+        "latitude": "55.232",
+        "longitude": "-2.181",
+        "elevation (ft)": "500"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.003,
+          55.771
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "BERWICK-ON-TWEED-CHURCH-STREET",
+        "county": "Northumberland",
+        "gridref": "NT999531",
+        "latitude": "55.771",
+        "longitude": "-2.003",
+        "elevation (ft)": "95"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.998,
+          55.769
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "BERWICK-ON-TWEED-RAMPARTS",
+        "county": "Northumberland",
+        "gridref": "NU002528",
+        "latitude": "55.769",
+        "longitude": "-1.998",
+        "elevation (ft)": "76"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.028,
+          55.055
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "BINGFIELD-HOUSE-NORTHUMBERLAND",
+        "county": "Northumberland",
+        "gridref": "NY982733",
+        "latitude": "55.055",
+        "longitude": "-2.028",
+        "elevation (ft)": "445"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.034,
+          54.879
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "BLANCHLAND-ACTON-BURN",
+        "county": "Northumberland",
+        "gridref": "NY979538",
+        "latitude": "54.879",
+        "longitude": "-2.034",
+        "elevation (ft)": "850"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.081,
+          54.851
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "BLANCHLAND-BIRKSIDE",
+        "county": "Northumberland",
+        "gridref": "NY949507",
+        "latitude": "54.851",
+        "longitude": "-2.081",
+        "elevation (ft)": "1090"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.045,
+          54.859
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "BLANCHLAND-COWBYERS",
+        "county": "Northumberland",
+        "gridref": "NY972516",
+        "latitude": "54.859",
+        "longitude": "-2.045",
+        "elevation (ft)": "1000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.078,
+          54.865
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "BLANCHLAND-PENNYPIE",
+        "county": "Northumberland",
+        "gridref": "NY951522",
+        "latitude": "54.865",
+        "longitude": "-2.078",
+        "elevation (ft)": "1270"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.539,
+          55.133
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "BLYTH-COWPEN-SEWAGE-WKS",
+        "county": "Northumberland",
+        "gridref": "NZ295822",
+        "latitude": "55.133",
+        "longitude": "-1.539",
+        "elevation (ft)": "15"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.262,
+          55.075
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "BOWER-MOOR",
+        "county": "Northumberland",
+        "gridref": "NY834757",
+        "latitude": "55.075",
+        "longitude": "-2.262",
+        "elevation (ft)": "600"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.929,
+          55.441
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "BRANTON-SCHOOL",
+        "county": "Northumberland",
+        "gridref": "NU046163",
+        "latitude": "55.441",
+        "longitude": "-1.929",
+        "elevation (ft)": "300"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.931,
+          55.04
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "BURNSIDE-NEWCASTLE-WW",
+        "county": "Northumberland",
+        "gridref": "NZ045717",
+        "latitude": "55.040",
+        "longitude": "-1.931",
+        "elevation (ft)": "419"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.92,
+          54.948
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "BYWELL",
+        "county": "Northumberland",
+        "gridref": "NZ052614",
+        "latitude": "54.948",
+        "longitude": "-1.920",
+        "elevation (ft)": "87"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.919,
+          55.384
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "CALLALY-CASTLE-GDNS",
+        "county": "Northumberland",
+        "gridref": "NU052100",
+        "latitude": "55.384",
+        "longitude": "-1.919",
+        "elevation (ft)": "360"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.397,
+          55.321
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "CATCLEUGH-NURSERY",
+        "county": "Northumberland",
+        "gridref": "NT749031",
+        "latitude": "55.321",
+        "longitude": "-2.397",
+        "elevation (ft)": "750"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.709,
+          55.523
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "CHATHILL-PRESTON-TOWER",
+        "county": "Northumberland",
+        "gridref": "NU185255",
+        "latitude": "55.523",
+        "longitude": "-1.709",
+        "elevation (ft)": "140"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.109,
+          55.504
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "CHEVIOT-BROADSTRUTHER",
+        "county": "Northumberland",
+        "gridref": "NT932234",
+        "latitude": "55.504",
+        "longitude": "-2.109",
+        "elevation (ft)": "1692"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.245,
+          55.395
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "CHEVIOT-HILLS-CARSHOPE",
+        "county": "Northumberland",
+        "gridref": "NT846112",
+        "latitude": "55.395",
+        "longitude": "-2.245",
+        "elevation (ft)": "904"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.06,
+          55.439
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "CHEVIOT-HILLS-LINHOPE",
+        "county": "Northumberland",
+        "gridref": "NT963161",
+        "latitude": "55.439",
+        "longitude": "-2.060",
+        "elevation (ft)": "760"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.179,
+          55.515
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "CHEVIOT-HILLS-SOUTHERNKNOWE",
+        "county": "Northumberland",
+        "gridref": "NT888246",
+        "latitude": "55.515",
+        "longitude": "-2.179",
+        "elevation (ft)": "650"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.919,
+          55.53
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "CHILLINGHAM-BARNS",
+        "county": "Northumberland",
+        "gridref": "NU052262",
+        "latitude": "55.530",
+        "longitude": "-1.919",
+        "elevation (ft)": "220"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.232,
+          55.588
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "COLDSTREAM-PAWSTON",
+        "county": "Northumberland",
+        "gridref": "NT855327",
+        "latitude": "55.588",
+        "longitude": "-2.232",
+        "elevation (ft)": "328"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.0,
+          54.971
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "CORBRIDGE-HOWDEN-DENE",
+        "county": "Northumberland",
+        "gridref": "NZ001640",
+        "latitude": "54.971",
+        "longitude": "-2.000",
+        "elevation (ft)": "200"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.016,
+          54.972
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "CORBRIDGE-MONKS-HOLME",
+        "county": "Northumberland",
+        "gridref": "NY991642",
+        "latitude": "54.972",
+        "longitude": "-2.016",
+        "elevation (ft)": "127"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.016,
+          54.961
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "CORBRIDGE-ON-TYNE-LAUDER-GRANGE",
+        "county": "Northumberland",
+        "gridref": "NY991629",
+        "latitude": "54.961",
+        "longitude": "-2.016",
+        "elevation (ft)": "275"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.143,
+          55.638
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "CORNHILL-PALLINSBURN",
+        "county": "Northumberland",
+        "gridref": "NT911383",
+        "latitude": "55.638",
+        "longitude": "-2.143",
+        "elevation (ft)": "135"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.566,
+          55.079
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "CRAMLINGTON-COLLIERY",
+        "county": "Northumberland",
+        "gridref": "NZ278761",
+        "latitude": "55.079",
+        "longitude": "-1.566",
+        "elevation (ft)": "228"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.593,
+          55.266
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "DEADWATER",
+        "county": "Northumberland",
+        "gridref": "NY624970",
+        "latitude": "55.266",
+        "longitude": "-2.593",
+        "elevation (ft)": "2000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.705,
+          55.51
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "DOXFORD-HALL",
+        "county": "Northumberland",
+        "gridref": "NU187241",
+        "latitude": "55.510",
+        "longitude": "-1.705",
+        "elevation (ft)": "175"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.628,
+          55.522
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "EMBLETON-NEWTON-HOUSE",
+        "county": "Northumberland",
+        "gridref": "NU236254",
+        "latitude": "55.522",
+        "longitude": "-1.628",
+        "elevation (ft)": "75"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.0,
+          55.255
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "EWESLEY-STATION-CHERTNERS",
+        "county": "Northumberland",
+        "gridref": "NZ001957",
+        "latitude": "55.255",
+        "longitude": "-2.000",
+        "elevation (ft)": "1000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.972,
+          55.243
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "EWESLEY-STATION-FALLOWLEES",
+        "county": "Northumberland",
+        "gridref": "NZ019943",
+        "latitude": "55.243",
+        "longitude": "-1.972",
+        "elevation (ft)": "850"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.995,
+          55.228
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "EWESLEY-STATION-REDPATH",
+        "county": "Northumberland",
+        "gridref": "NZ004926",
+        "latitude": "55.228",
+        "longitude": "-1.995",
+        "elevation (ft)": "850"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.025,
+          55.241
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "EWESLEY-STATION-TOD-CRAG",
+        "county": "Northumberland",
+        "gridref": "NY985941",
+        "latitude": "55.241",
+        "longitude": "-2.025",
+        "elevation (ft)": "1000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.437,
+          55.18
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "FALSTONE",
+        "county": "Northumberland",
+        "gridref": "NY723874",
+        "latitude": "55.180",
+        "longitude": "-2.437",
+        "elevation (ft)": "450"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.497,
+          55.118
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "FALSTONE-HOPE-HOUSE",
+        "county": "Northumberland",
+        "gridref": "NY684805",
+        "latitude": "55.118",
+        "longitude": "-2.497",
+        "elevation (ft)": "1027"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.429,
+          55.175
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "FALSTONE-RECTORY",
+        "county": "Northumberland",
+        "gridref": "NY728868",
+        "latitude": "55.175",
+        "longitude": "-2.429",
+        "elevation (ft)": "485"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.51,
+          55.167
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "FALSTONE-WICKHOPE",
+        "county": "Northumberland",
+        "gridref": "NY676860",
+        "latitude": "55.167",
+        "longitude": "-2.510",
+        "elevation (ft)": "550"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.72,
+          55.314
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "FELTON",
+        "county": "Northumberland",
+        "gridref": "NU179023",
+        "latitude": "55.314",
+        "longitude": "-1.720",
+        "elevation (ft)": "300"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.712,
+          55.3
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "FELTON-SCHOOL-GDNS",
+        "county": "Northumberland",
+        "gridref": "NU184007",
+        "latitude": "55.300",
+        "longitude": "-1.712",
+        "elevation (ft)": "180"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.734,
+          55.341
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "FELTON-SCHOOL-GDNS",
+        "county": "Northumberland",
+        "gridref": "NU170053",
+        "latitude": "55.341",
+        "longitude": "-1.734",
+        "elevation (ft)": "500"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.002,
+          55.316
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "FLOTTERTON",
+        "county": "Northumberland",
+        "gridref": "NU000024",
+        "latitude": "55.316",
+        "longitude": "-2.002",
+        "elevation (ft)": "416"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.089,
+          55.631
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "FORD-CASTLE-GARDENS",
+        "county": "Northumberland",
+        "gridref": "NT945375",
+        "latitude": "55.631",
+        "longitude": "-2.089",
+        "elevation (ft)": "220"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.056,
+          55.083
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "HALLINGTON-FAWCETT",
+        "county": "Northumberland",
+        "gridref": "NY965765",
+        "latitude": "55.083",
+        "longitude": "-2.056",
+        "elevation (ft)": "537"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.044,
+          55.079
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "HALLINGTON-RES",
+        "county": "Northumberland",
+        "gridref": "NY973761",
+        "latitude": "55.079",
+        "longitude": "-2.044",
+        "elevation (ft)": "470"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.47,
+          54.96
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "HALTWHISTLE-BELLISTER-CASTLE",
+        "county": "Northumberland",
+        "gridref": "NY700629",
+        "latitude": "54.960",
+        "longitude": "-2.470",
+        "elevation (ft)": "380"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.421,
+          54.938
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "HALTWHISTLE-PLENMELLOR-COLLIERIES",
+        "county": "Northumberland",
+        "gridref": "NY731604",
+        "latitude": "54.938",
+        "longitude": "-2.421",
+        "elevation (ft)": "959"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.505,
+          54.923
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "HALTWHISTLE-SHAFT-HILL",
+        "county": "Northumberland",
+        "gridref": "NY677588",
+        "latitude": "54.923",
+        "longitude": "-2.505",
+        "elevation (ft)": "626"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.425,
+          54.961
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "HALTWHISTLE-UNTHANK-HALL",
+        "county": "Northumberland",
+        "gridref": "NY729630",
+        "latitude": "54.961",
+        "longitude": "-2.425",
+        "elevation (ft)": "380"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.947,
+          55.151
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "HARTBURN-WALLINGTON",
+        "county": "Northumberland",
+        "gridref": "NZ035841",
+        "latitude": "55.151",
+        "longitude": "-1.947",
+        "elevation (ft)": "446"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.253,
+          54.976
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "HAYDON-BRIDGE-BEWICK",
+        "county": "Northumberland",
+        "gridref": "NY839646",
+        "latitude": "54.976",
+        "longitude": "-2.253",
+        "elevation (ft)": "291"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.325,
+          54.968
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "HAYDON-BRIDGE-RIDLEY",
+        "county": "Northumberland",
+        "gridref": "NY793638",
+        "latitude": "54.968",
+        "longitude": "-2.325",
+        "elevation (ft)": "340"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.245,
+          54.969
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "HAYDON-BRIDGE-SHAFTOE-TRUST-SCHOOL",
+        "county": "Northumberland",
+        "gridref": "NY844639",
+        "latitude": "54.969",
+        "longitude": "-2.245",
+        "elevation (ft)": "240"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.348,
+          54.919
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "HAYDON-BRIDGE-WHITFIELD",
+        "county": "Northumberland",
+        "gridref": "NY778583",
+        "latitude": "54.919",
+        "longitude": "-2.348",
+        "elevation (ft)": "806"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.795,
+          54.997
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "HEDDON-ON-THE-WALL-VICARAGE",
+        "county": "Northumberland",
+        "gridref": "NZ132669",
+        "latitude": "54.997",
+        "longitude": "-1.795",
+        "elevation (ft)": "435"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.219,
+          55.085
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "HERONS-HAUGH",
+        "county": "Northumberland",
+        "gridref": "NY861767",
+        "latitude": "55.085",
+        "longitude": "-2.219",
+        "elevation (ft)": "280"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.059,
+          54.988
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "HEXHAM-BEAUFRONT-CASTLE",
+        "county": "Northumberland",
+        "gridref": "NY963659",
+        "latitude": "54.988",
+        "longitude": "-2.059",
+        "elevation (ft)": "400"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.117,
+          54.963
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "HEXHAM-CAUSEY-HILL",
+        "county": "Northumberland",
+        "gridref": "NY926632",
+        "latitude": "54.963",
+        "longitude": "-2.117",
+        "elevation (ft)": "430"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.202,
+          55.076
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "HEXHAM-PARKEND",
+        "county": "Northumberland",
+        "gridref": "NY871757",
+        "latitude": "55.076",
+        "longitude": "-2.202",
+        "elevation (ft)": "276"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.117,
+          54.953
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "HEXHAM-PLOVER-HILL-TOP",
+        "county": "Northumberland",
+        "gridref": "NY926620",
+        "latitude": "54.953",
+        "longitude": "-2.117",
+        "elevation (ft)": "747"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.109,
+          54.963
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "HEXHAM-RES",
+        "county": "Northumberland",
+        "gridref": "NY931632",
+        "latitude": "54.963",
+        "longitude": "-2.109",
+        "elevation (ft)": "325"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.114,
+          54.956
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "HEXHAM-RIDGEWAY-ON-YARRIDGE",
+        "county": "Northumberland",
+        "gridref": "NY928624",
+        "latitude": "54.956",
+        "longitude": "-2.114",
+        "elevation (ft)": "650"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.058,
+          54.972
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "HEXHAM-WIDEHAUGH-NURSERY",
+        "county": "Northumberland",
+        "gridref": "NY964641",
+        "latitude": "54.972",
+        "longitude": "-2.058",
+        "elevation (ft)": "120"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.801,
+          55.671
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "HOLY-ISLAND-ST-AIDANS",
+        "county": "Northumberland",
+        "gridref": "NU126420",
+        "latitude": "55.671",
+        "longitude": "-1.801",
+        "elevation (ft)": "39"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.415,
+          55.353
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "HOPEHEAD",
+        "county": "Northumberland",
+        "gridref": "NT738066",
+        "latitude": "55.353",
+        "longitude": "-2.415",
+        "elevation (ft)": "1080"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.611,
+          55.45
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "HOWICK-HALL",
+        "county": "Northumberland",
+        "gridref": "NU247173",
+        "latitude": "55.450",
+        "longitude": "-1.611",
+        "elevation (ft)": "121"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.128,
+          55.036
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "HUMSHAUGH",
+        "county": "Northumberland",
+        "gridref": "NY919713",
+        "latitude": "55.036",
+        "longitude": "-2.128",
+        "elevation (ft)": "286"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.968,
+          55.511
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "ILDERTON-LILBURN-COTTAGE",
+        "county": "Northumberland",
+        "gridref": "NU021241",
+        "latitude": "55.511",
+        "longitude": "-1.968",
+        "elevation (ft)": "340"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.965,
+          55.512
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "ILDERTON-LILBURN-TOWER",
+        "county": "Northumberland",
+        "gridref": "NU023243",
+        "latitude": "55.512",
+        "longitude": "-1.965",
+        "elevation (ft)": "300"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.96,
+          55.513
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "ILDERTON-LILBURN-TOWER",
+        "county": "Northumberland",
+        "gridref": "NU026243",
+        "latitude": "55.513",
+        "longitude": "-1.960",
+        "elevation (ft)": "250"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.59,
+          55.234
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "KIELDER",
+        "county": "Northumberland",
+        "gridref": "NY626935",
+        "latitude": "55.234",
+        "longitude": "-2.590",
+        "elevation (ft)": "673"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.55,
+          55.302
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "KIELDER-CARRY-BURN",
+        "county": "Northumberland",
+        "gridref": "NT652010",
+        "latitude": "55.302",
+        "longitude": "-2.550",
+        "elevation (ft)": "1043"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.581,
+          55.229
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "KIELDER-CASTLE",
+        "county": "Northumberland",
+        "gridref": "NY631929",
+        "latitude": "55.229",
+        "longitude": "-2.581",
+        "elevation (ft)": "610"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.579,
+          55.235
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "KIELDER-CASTLE",
+        "county": "Northumberland",
+        "gridref": "NY632935",
+        "latitude": "55.235",
+        "longitude": "-2.579",
+        "elevation (ft)": "660"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.582,
+          55.224
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "KIELDER-CASTLE",
+        "county": "Northumberland",
+        "gridref": "NY631924",
+        "latitude": "55.224",
+        "longitude": "-2.582",
+        "elevation (ft)": "610"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.53,
+          55.273
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "KIELDER-KIELDER-HEAD",
+        "county": "Northumberland",
+        "gridref": "NY664978",
+        "latitude": "55.273",
+        "longitude": "-2.530",
+        "elevation (ft)": "807"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.495,
+          55.301
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "KIELDER-LITTLE-GUNNS-CLEUGH",
+        "county": "Northumberland",
+        "gridref": "NT687009",
+        "latitude": "55.301",
+        "longitude": "-2.495",
+        "elevation (ft)": "1110"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.466,
+          55.282
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "KIELDER-OH-ME-EDGE",
+        "county": "Northumberland",
+        "gridref": "NY705988",
+        "latitude": "55.282",
+        "longitude": "-2.466",
+        "elevation (ft)": "1480"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.541,
+          55.255
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "KIELDER-RIDGE-END",
+        "county": "Northumberland",
+        "gridref": "NY657958",
+        "latitude": "55.255",
+        "longitude": "-2.541",
+        "elevation (ft)": "845"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.173,
+          55.51
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "KIRKNEWTON-COLDBURN",
+        "county": "Northumberland",
+        "gridref": "NT892240",
+        "latitude": "55.510",
+        "longitude": "-2.173",
+        "elevation (ft)": "740"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.168,
+          55.548
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "KIRKNEWTON-HEATHPOOL",
+        "county": "Northumberland",
+        "gridref": "NT895283",
+        "latitude": "55.548",
+        "longitude": "-2.168",
+        "elevation (ft)": "420"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.005,
+          55.154
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "KIRKWHELPINGTON",
+        "county": "Northumberland",
+        "gridref": "NY998844",
+        "latitude": "55.154",
+        "longitude": "-2.005",
+        "elevation (ft)": "581"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.498,
+          55.064
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "LAMPERT",
+        "county": "Northumberland",
+        "gridref": "NY683745",
+        "latitude": "55.064",
+        "longitude": "-2.498",
+        "elevation (ft)": "780"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.797,
+          55.306
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "LONG-FRAMLINGTON-EMBLETON-HALL",
+        "county": "Northumberland",
+        "gridref": "NU130013",
+        "latitude": "55.306",
+        "longitude": "-1.797",
+        "elevation (ft)": "430"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.786,
+          55.273
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "LONG-HORSLEY-GHYLLHEUGH",
+        "county": "Northumberland",
+        "gridref": "NZ137977",
+        "latitude": "55.273",
+        "longitude": "-1.786",
+        "elevation (ft)": "275"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.785,
+          55.191
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "MAIDENHALL-STANTON-NOOK",
+        "county": "Northumberland",
+        "gridref": "NZ138886",
+        "latitude": "55.191",
+        "longitude": "-1.785",
+        "elevation (ft)": "277"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.84,
+          55.133
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "MELDON-GALLOWHILL-HALL",
+        "county": "Northumberland",
+        "gridref": "NZ103821",
+        "latitude": "55.133",
+        "longitude": "-1.840",
+        "elevation (ft)": "354"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.252,
+          55.588
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "MINDRUM",
+        "county": "Northumberland",
+        "gridref": "NT842327",
+        "latitude": "55.588",
+        "longitude": "-2.252",
+        "elevation (ft)": "300"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.251,
+          55.588
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "MINDRUM",
+        "county": "Northumberland",
+        "gridref": "NT843327",
+        "latitude": "55.588",
+        "longitude": "-2.251",
+        "elevation (ft)": "250"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.186,
+          55.594
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "MINDRUM-THORNINGTON-HOUSE",
+        "county": "Northumberland",
+        "gridref": "NT884334",
+        "latitude": "55.594",
+        "longitude": "-2.186",
+        "elevation (ft)": "300"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.694,
+          55.167
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "MORPETH",
+        "county": "Northumberland",
+        "gridref": "NZ196859",
+        "latitude": "55.167",
+        "longitude": "-1.694",
+        "elevation (ft)": "100"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.656,
+          55.156
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "MORPETH",
+        "county": "Northumberland",
+        "gridref": "NZ220847",
+        "latitude": "55.156",
+        "longitude": "-1.656",
+        "elevation (ft)": "163"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.595,
+          55.183
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "MORPETH-ASHINGTON",
+        "county": "Northumberland",
+        "gridref": "NZ259877",
+        "latitude": "55.183",
+        "longitude": "-1.595",
+        "elevation (ft)": "110"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.623,
+          55.17
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "MORPETH-BOTHALHAUGH",
+        "county": "Northumberland",
+        "gridref": "NZ241863",
+        "latitude": "55.170",
+        "longitude": "-1.623",
+        "elevation (ft)": "125"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.625,
+          55.17
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "MORPETH-BOTHALHAUGH",
+        "county": "Northumberland",
+        "gridref": "NZ240862",
+        "latitude": "55.170",
+        "longitude": "-1.625",
+        "elevation (ft)": "35"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.623,
+          55.171
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "MORPETH-BOTHALHAUGH",
+        "county": "Northumberland",
+        "gridref": "NZ241864",
+        "latitude": "55.171",
+        "longitude": "-1.623",
+        "elevation (ft)": "35"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.686,
+          55.215
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "MORPETH-COCKLE-PARK",
+        "county": "Northumberland",
+        "gridref": "NZ201912",
+        "latitude": "55.215",
+        "longitude": "-1.686",
+        "elevation (ft)": "325"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.568,
+          55.221
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "MORPETH-CRESSWELL",
+        "county": "Northumberland",
+        "gridref": "NZ276920",
+        "latitude": "55.221",
+        "longitude": "-1.568",
+        "elevation (ft)": "89"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.676,
+          55.226
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "MORPETH-EARSDON",
+        "county": "Northumberland",
+        "gridref": "NZ207925",
+        "latitude": "55.226",
+        "longitude": "-1.676",
+        "elevation (ft)": "200"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.695,
+          55.169
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "MORPETH-HIGH-STANNERS",
+        "county": "Northumberland",
+        "gridref": "NZ195861",
+        "latitude": "55.169",
+        "longitude": "-1.695",
+        "elevation (ft)": "90"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.651,
+          55.194
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "MORPETH-LONGHIRST-HALL",
+        "county": "Northumberland",
+        "gridref": "NZ223889",
+        "latitude": "55.194",
+        "longitude": "-1.651",
+        "elevation (ft)": "168"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.876,
+          55.192
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "MORPETH-LONGWITTON-HALL",
+        "county": "Northumberland",
+        "gridref": "NZ080886",
+        "latitude": "55.192",
+        "longitude": "-1.876",
+        "elevation (ft)": "570"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.835,
+          55.165
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "MORPETH-MELDON-PARK",
+        "county": "Northumberland",
+        "gridref": "NZ105854",
+        "latitude": "55.165",
+        "longitude": "-1.835",
+        "elevation (ft)": "350"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.601,
+          55.166
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "MORPETH-SHEEPWASH",
+        "county": "Northumberland",
+        "gridref": "NZ255858",
+        "latitude": "55.166",
+        "longitude": "-1.601",
+        "elevation (ft)": "24"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.678,
+          55.153
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "MORPETH-STOBHILL",
+        "county": "Northumberland",
+        "gridref": "NZ206843",
+        "latitude": "55.153",
+        "longitude": "-1.678",
+        "elevation (ft)": "150"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.706,
+          55.225
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "MORPETH-TRITLINGTON-SCHOOL",
+        "county": "Northumberland",
+        "gridref": "NZ188923",
+        "latitude": "55.225",
+        "longitude": "-1.706",
+        "elevation (ft)": "250"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.198,
+          55.009
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "NEWBOROUGH-HEXHAM",
+        "county": "Northumberland",
+        "gridref": "NY874682",
+        "latitude": "55.009",
+        "longitude": "-2.198",
+        "elevation (ft)": "295"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.133,
+          55.083
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "NEWCASTLE-CAMPHILL-WW",
+        "county": "Northumberland",
+        "gridref": "NY916765",
+        "latitude": "55.083",
+        "longitude": "-2.133",
+        "elevation (ft)": "650"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.614,
+          54.969
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "NEWCASTLE-CHRONICLE-OFFICE",
+        "county": "Northumberland",
+        "gridref": "NZ248639",
+        "latitude": "54.969",
+        "longitude": "-1.614",
+        "elevation (ft)": "148"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.65,
+          54.97
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "NEWCASTLE-CLIFTON-ROAD",
+        "county": "Northumberland",
+        "gridref": "NZ225640",
+        "latitude": "54.970",
+        "longitude": "-1.650",
+        "elevation (ft)": "315"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.605,
+          54.98
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "NEWCASTLE-GLADSTONE-TERRACE",
+        "county": "Northumberland",
+        "gridref": "NZ254651",
+        "latitude": "54.980",
+        "longitude": "-1.605",
+        "elevation (ft)": "150"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.619,
+          55.001
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "NEWCASTLE-GOSFORTH",
+        "county": "Northumberland",
+        "gridref": "NZ245675",
+        "latitude": "55.001",
+        "longitude": "-1.619",
+        "elevation (ft)": "246"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.117,
+          55.126
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "NEWCASTLE-GREEN-CRAG",
+        "county": "Northumberland",
+        "gridref": "NY926813",
+        "latitude": "55.126",
+        "longitude": "-2.117",
+        "elevation (ft)": "896"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.616,
+          54.979
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "NEWCASTLE-KINGS-COLLEGE",
+        "county": "Northumberland",
+        "gridref": "NZ247650",
+        "latitude": "54.979",
+        "longitude": "-1.616",
+        "elevation (ft)": "183"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.637,
+          54.987
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "NEWCASTLE-KINGS-COLLEGE",
+        "county": "Northumberland",
+        "gridref": "NZ233659",
+        "latitude": "54.987",
+        "longitude": "-1.637",
+        "elevation (ft)": "289"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.627,
+          54.977
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "NEWCASTLE-LEAZES-PARK",
+        "county": "Northumberland",
+        "gridref": "NZ240648",
+        "latitude": "54.977",
+        "longitude": "-1.627",
+        "elevation (ft)": "250"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.616,
+          54.969
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "NEWCASTLE-LIT-AND-PHIL-SOC",
+        "county": "Northumberland",
+        "gridref": "NZ247639",
+        "latitude": "54.969",
+        "longitude": "-1.616",
+        "elevation (ft)": "160"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.611,
+          54.976
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "NEWCASTLE-NORTHUMBERLAND-ROAD",
+        "county": "Northumberland",
+        "gridref": "NZ250647",
+        "latitude": "54.976",
+        "longitude": "-1.611",
+        "elevation (ft)": "150"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.631,
+          54.979
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "NEWCASTLE-ON-TYNE",
+        "county": "Northumberland",
+        "gridref": "NZ237650",
+        "latitude": "54.979",
+        "longitude": "-1.631",
+        "elevation (ft)": "187"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.501,
+          55.046
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "NEWCASTLE-ON-TYNE-EARSDON",
+        "county": "Northumberland",
+        "gridref": "NZ320725",
+        "latitude": "55.046",
+        "longitude": "-1.501",
+        "elevation (ft)": "185"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.606,
+          54.984
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "NEWCASTLE-OSBORNE-ROAD",
+        "county": "Northumberland",
+        "gridref": "NZ253656",
+        "latitude": "54.984",
+        "longitude": "-1.606",
+        "elevation (ft)": "170"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.628,
+          54.985
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "NEWCASTLE-PORTLAND-ROAD",
+        "county": "Northumberland",
+        "gridref": "NZ239657",
+        "latitude": "54.985",
+        "longitude": "-1.628",
+        "elevation (ft)": "240"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.628,
+          54.984
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "NEWCASTLE-PORTLAND-ROAD",
+        "county": "Northumberland",
+        "gridref": "NZ239656",
+        "latitude": "54.984",
+        "longitude": "-1.628",
+        "elevation (ft)": "240"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.631,
+          54.969
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "NEWCASTLE-RYE-HILL",
+        "county": "Northumberland",
+        "gridref": "NZ237639",
+        "latitude": "54.969",
+        "longitude": "-1.631",
+        "elevation (ft)": "220"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.686,
+          54.983
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "NEWCASTLE-THORN-TREE-FARM-DENTON",
+        "county": "Northumberland",
+        "gridref": "NZ202654",
+        "latitude": "54.983",
+        "longitude": "-1.686",
+        "elevation (ft)": "210"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.611,
+          54.989
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "NEWCASTLE-TOWN-MOOR",
+        "county": "Northumberland",
+        "gridref": "NZ250661",
+        "latitude": "54.989",
+        "longitude": "-1.611",
+        "elevation (ft)": "200"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.595,
+          54.988
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "NEWCASTLE-WELLBURN-JESMOND",
+        "county": "Northumberland",
+        "gridref": "NZ260660",
+        "latitude": "54.988",
+        "longitude": "-1.595",
+        "elevation (ft)": "161"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.689,
+          54.977
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "NEWCASTLE-WHICKHAM-VIEW-SCHOOL",
+        "county": "Northumberland",
+        "gridref": "NZ200647",
+        "latitude": "54.977",
+        "longitude": "-1.689",
+        "elevation (ft)": "210"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.113,
+          55.1
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "NEWCASTLE-WW-COLT-CRAG-RES",
+        "county": "Northumberland",
+        "gridref": "NY929784",
+        "latitude": "55.100",
+        "longitude": "-2.113",
+        "elevation (ft)": "654"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.036,
+          55.084
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "NEWCASTLE-WW-HALLINGTON-CHEVIOTT",
+        "county": "Northumberland",
+        "gridref": "NY978766",
+        "latitude": "55.084",
+        "longitude": "-2.036",
+        "elevation (ft)": "576"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.027,
+          55.078
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "NEWCASTLE-WW-HALLINGTON-VILLAGE",
+        "county": "Northumberland",
+        "gridref": "NY984759",
+        "latitude": "55.078",
+        "longitude": "-2.027",
+        "elevation (ft)": "467"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.01,
+          55.062
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "NEWCASTLE-WW-RYAL-COTTAGE",
+        "county": "Northumberland",
+        "gridref": "NY994742",
+        "latitude": "55.062",
+        "longitude": "-2.010",
+        "elevation (ft)": "463"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.884,
+          54.999
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "NEWCASTLE-WW-WHITTLE-DEAN-FILTERS",
+        "county": "Northumberland",
+        "gridref": "NZ075672",
+        "latitude": "54.999",
+        "longitude": "-1.884",
+        "elevation (ft)": "353"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.468,
+          55.019
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "NORTH-SHIELDS-BILLY-MILL-RES",
+        "county": "Northumberland",
+        "gridref": "NZ341695",
+        "latitude": "55.019",
+        "longitude": "-1.468",
+        "elevation (ft)": "197"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.461,
+          55.007
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "NORTH-SHIELDS-CHIRTON-COTTAGE",
+        "county": "Northumberland",
+        "gridref": "NZ346682",
+        "latitude": "55.007",
+        "longitude": "-1.461",
+        "elevation (ft)": "110"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.453,
+          55.018
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "NORTH-SHIELDS-CLEMENTHORPE",
+        "county": "Northumberland",
+        "gridref": "NZ350693",
+        "latitude": "55.018",
+        "longitude": "-1.453",
+        "elevation (ft)": "150"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.432,
+          55.01
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "NORTH-SHIELDS-LOW-LIGHTS",
+        "county": "Northumberland",
+        "gridref": "NZ364685",
+        "latitude": "55.010",
+        "longitude": "-1.432",
+        "elevation (ft)": "22"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.439,
+          55.009
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "NORTH-SHIELDS-POST-OFFICE",
+        "county": "Northumberland",
+        "gridref": "NZ360684",
+        "latitude": "55.009",
+        "longitude": "-1.439",
+        "elevation (ft)": "100"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.452,
+          55.009
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "NORTH-SHIELDS-ROSELLA",
+        "county": "Northumberland",
+        "gridref": "NZ351684",
+        "latitude": "55.009",
+        "longitude": "-1.452",
+        "elevation (ft)": "124"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.531,
+          54.996
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "NORTH-SHIELDS-WALLSEND",
+        "county": "Northumberland",
+        "gridref": "NZ300669",
+        "latitude": "54.996",
+        "longitude": "-1.531",
+        "elevation (ft)": "100"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.454,
+          55.052
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "NORTH-SHIELDS-WHITLEY-CONVALESCENT-HOME",
+        "county": "Northumberland",
+        "gridref": "NZ350732",
+        "latitude": "55.052",
+        "longitude": "-1.454",
+        "elevation (ft)": "38"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.451,
+          55.041
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "NORTH-SHIELDS-WHITLEY-VICARAGE",
+        "county": "Northumberland",
+        "gridref": "NZ352720",
+        "latitude": "55.041",
+        "longitude": "-1.451",
+        "elevation (ft)": "83"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.707,
+          55.536
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "NORTH-SUNDERLAND-CHATHILL",
+        "county": "Northumberland",
+        "gridref": "NU186270",
+        "latitude": "55.536",
+        "longitude": "-1.707",
+        "elevation (ft)": "120"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.122,
+          55.05
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "NORTH-TYNE-VALLEY",
+        "county": "Northumberland",
+        "gridref": "NY9230872890",
+        "latitude": "55.050",
+        "longitude": "-2.122",
+        "elevation (ft)": "300"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.179,
+          55.232
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "OTTERBURN-TOWER",
+        "county": "Northumberland",
+        "gridref": "NY887931",
+        "latitude": "55.232",
+        "longitude": "-2.179",
+        "elevation (ft)": "500"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.872,
+          54.962
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "OVINGHAM-W-TYNE-COLLIERY",
+        "county": "Northumberland",
+        "gridref": "NZ083630",
+        "latitude": "54.962",
+        "longitude": "-1.872",
+        "elevation (ft)": "179"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.767,
+          55.089
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "PONTELAND-KIRKLEY-HALL",
+        "county": "Northumberland",
+        "gridref": "NZ150772",
+        "latitude": "55.089",
+        "longitude": "-1.767",
+        "elevation (ft)": "220"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.252,
+          55.269
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "REDESDALE-HORSLEY",
+        "county": "Northumberland",
+        "gridref": "NY841972",
+        "latitude": "55.269",
+        "longitude": "-2.252",
+        "elevation (ft)": "600"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.468,
+          55.341
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "REDEWATER-BLACKCLEUGH",
+        "county": "Northumberland",
+        "gridref": "NT704053",
+        "latitude": "55.341",
+        "longitude": "-2.468",
+        "elevation (ft)": "1000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.379,
+          55.293
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "REDEWATER-BLAKEHOPE",
+        "county": "Northumberland",
+        "gridref": "NY760999",
+        "latitude": "55.293",
+        "longitude": "-2.379",
+        "elevation (ft)": "830"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.397,
+          55.323
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "REDEWATER-CATCLEUGH",
+        "county": "Northumberland",
+        "gridref": "NT749033",
+        "latitude": "55.323",
+        "longitude": "-2.397",
+        "elevation (ft)": "764"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.421,
+          55.322
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "REDEWATER-CHATTLEHOPE",
+        "county": "Northumberland",
+        "gridref": "NT734032",
+        "latitude": "55.322",
+        "longitude": "-2.421",
+        "elevation (ft)": "900"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.462,
+          55.313
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "REDEWATER-COUNTESS-CRAG",
+        "county": "Northumberland",
+        "gridref": "NT708022",
+        "latitude": "55.313",
+        "longitude": "-2.462",
+        "elevation (ft)": "1600"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.465,
+          55.311
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "REDEWATER-COUNTESS-CRAG",
+        "county": "Northumberland",
+        "gridref": "NT705019",
+        "latitude": "55.311",
+        "longitude": "-2.465",
+        "elevation (ft)": "1670"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.402,
+          55.303
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "REDEWATER-ELLIS-CRAG",
+        "county": "Northumberland",
+        "gridref": "NT746011",
+        "latitude": "55.303",
+        "longitude": "-2.402",
+        "elevation (ft)": "1200"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.449,
+          55.335
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "REDEWATER-GAME-PARK",
+        "county": "Northumberland",
+        "gridref": "NT716046",
+        "latitude": "55.335",
+        "longitude": "-2.449",
+        "elevation (ft)": "900"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.434,
+          55.342
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "REDEWATER-LUMSDEN-LAW-MIX",
+        "county": "Northumberland",
+        "gridref": "NT726054",
+        "latitude": "55.342",
+        "longitude": "-2.434",
+        "elevation (ft)": "1550"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.451,
+          55.342
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "REDEWATER-LUMSDEN-LAW-MIX",
+        "county": "Northumberland",
+        "gridref": "NT715054",
+        "latitude": "55.342",
+        "longitude": "-2.451",
+        "elevation (ft)": "1010"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.427,
+          55.341
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "REDEWATER-LUMSDEN-LAW-MIX",
+        "county": "Northumberland",
+        "gridref": "NT730053",
+        "latitude": "55.341",
+        "longitude": "-2.427",
+        "elevation (ft)": "1270"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.437,
+          55.346
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "REDEWATER-LUMSDEN-LAW-MIX",
+        "county": "Northumberland",
+        "gridref": "NT724059",
+        "latitude": "55.346",
+        "longitude": "-2.437",
+        "elevation (ft)": "1280"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.446,
+          55.341
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "REDEWATER-LUMSDEN-LAW-MIX",
+        "county": "Northumberland",
+        "gridref": "NT718053",
+        "latitude": "55.341",
+        "longitude": "-2.446",
+        "elevation (ft)": "1260"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.434,
+          55.337
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "REDEWATER-LUMSDEN-LAW-MIX",
+        "county": "Northumberland",
+        "gridref": "NT726049",
+        "latitude": "55.337",
+        "longitude": "-2.434",
+        "elevation (ft)": "1270"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.421,
+          55.34
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "REDEWATER-LUMSDEN-LAW-MIX",
+        "county": "Northumberland",
+        "gridref": "NT734052",
+        "latitude": "55.340",
+        "longitude": "-2.421",
+        "elevation (ft)": "1000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.419,
+          55.348
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "REDEWATER-LUMSDON",
+        "county": "Northumberland",
+        "gridref": "NT735061",
+        "latitude": "55.348",
+        "longitude": "-2.419",
+        "elevation (ft)": "1050"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.416,
+          55.331
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "REDEWATER-RAMSHOPE",
+        "county": "Northumberland",
+        "gridref": "NT737042",
+        "latitude": "55.331",
+        "longitude": "-2.416",
+        "elevation (ft)": "1200"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.413,
+          55.327
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "REDEWATER-REDE-VALLEY-MIX",
+        "county": "Northumberland",
+        "gridref": "NT739037",
+        "latitude": "55.327",
+        "longitude": "-2.413",
+        "elevation (ft)": "1020"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.512,
+          55.32
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "REDEWATER-REDE-VALLEY-MIX",
+        "county": "Northumberland",
+        "gridref": "NT676030",
+        "latitude": "55.320",
+        "longitude": "-2.512",
+        "elevation (ft)": "1730"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.463,
+          55.311
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "REDEWATER-REDE-VALLEY-MIX",
+        "county": "Northumberland",
+        "gridref": "NT707020",
+        "latitude": "55.311",
+        "longitude": "-2.463",
+        "elevation (ft)": "1600"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.356,
+          55.34
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "REDEWATER-REDE-VALLEY-MIX",
+        "county": "Northumberland",
+        "gridref": "NT775052",
+        "latitude": "55.340",
+        "longitude": "-2.356",
+        "elevation (ft)": "1600"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.439,
+          55.301
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "REDEWATER-REDE-VALLEY-MIX",
+        "county": "Northumberland",
+        "gridref": "NT722009",
+        "latitude": "55.301",
+        "longitude": "-2.439",
+        "elevation (ft)": "1580"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.419,
+          55.306
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "REDEWATER-REDE-VALLEY-MIX",
+        "county": "Northumberland",
+        "gridref": "NT735014",
+        "latitude": "55.306",
+        "longitude": "-2.419",
+        "elevation (ft)": "1400"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.441,
+          55.336
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "REDEWATER-REDE-VALLEY-MIX",
+        "county": "Northumberland",
+        "gridref": "NT721047",
+        "latitude": "55.336",
+        "longitude": "-2.441",
+        "elevation (ft)": "990"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.459,
+          55.328
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "REDEWATER-REDE-VALLEY-MIX",
+        "county": "Northumberland",
+        "gridref": "NT709037",
+        "latitude": "55.328",
+        "longitude": "-2.459",
+        "elevation (ft)": "1100"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.441,
+          55.312
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "REDEWATER-REDE-VALLEY-MIX",
+        "county": "Northumberland",
+        "gridref": "NT721021",
+        "latitude": "55.312",
+        "longitude": "-2.441",
+        "elevation (ft)": "900"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.413,
+          55.341
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "REDEWATER-REDE-VALLEY-MIX",
+        "county": "Northumberland",
+        "gridref": "NT739053",
+        "latitude": "55.341",
+        "longitude": "-2.413",
+        "elevation (ft)": "1200"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.438,
+          55.353
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "REDEWATER-REDE-VALLEY-MIX",
+        "county": "Northumberland",
+        "gridref": "NT723066",
+        "latitude": "55.353",
+        "longitude": "-2.438",
+        "elevation (ft)": "1200"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.467,
+          55.347
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "REDEWATER-REDE-VALLEY-MIX",
+        "county": "Northumberland",
+        "gridref": "NT705060",
+        "latitude": "55.347",
+        "longitude": "-2.467",
+        "elevation (ft)": "1120"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.49,
+          55.336
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "REDEWATER-REDE-VALLEY-MIX",
+        "county": "Northumberland",
+        "gridref": "NT690048",
+        "latitude": "55.336",
+        "longitude": "-2.490",
+        "elevation (ft)": "1780"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.4,
+          55.322
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "REDEWATER-REDE-VALLEY-MIX",
+        "county": "Northumberland",
+        "gridref": "NT7471203134",
+        "latitude": "55.322",
+        "longitude": "-2.400",
+        "elevation (ft)": "750"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.495,
+          55.326
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "REDEWATER-REDEWATER-MIX",
+        "county": "Northumberland",
+        "gridref": "NT687037",
+        "latitude": "55.326",
+        "longitude": "-2.495",
+        "elevation (ft)": "1300"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.478,
+          55.353
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "REDEWATER-REDEWATER-MIX",
+        "county": "Northumberland",
+        "gridref": "NT698067",
+        "latitude": "55.353",
+        "longitude": "-2.478",
+        "elevation (ft)": "1100"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.468,
+          55.322
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "REDEWATER-REDEWATER-MIX",
+        "county": "Northumberland",
+        "gridref": "NT704032",
+        "latitude": "55.322",
+        "longitude": "-2.468",
+        "elevation (ft)": "1350"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.366,
+          55.316
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "ROCHESTER-BYRNESS",
+        "county": "Northumberland",
+        "gridref": "NT769025",
+        "latitude": "55.316",
+        "longitude": "-2.366",
+        "elevation (ft)": "700"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.962,
+          55.478
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "RODDAM-HALL-ALNWICK",
+        "county": "Northumberland",
+        "gridref": "NU025204",
+        "latitude": "55.478",
+        "longitude": "-1.962",
+        "elevation (ft)": "545"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.819,
+          55.279
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "ROTHBURY-BRINCKBURN",
+        "county": "Northumberland",
+        "gridref": "NZ116983",
+        "latitude": "55.279",
+        "longitude": "-1.819",
+        "elevation (ft)": "257"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.915,
+          55.307
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "ROTHBURY-CEMETERY",
+        "county": "Northumberland",
+        "gridref": "NU055014",
+        "latitude": "55.307",
+        "longitude": "-1.915",
+        "elevation (ft)": "300"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.885,
+          55.314
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "ROTHBURY-CRAGSIDE",
+        "county": "Northumberland",
+        "gridref": "NU074022",
+        "latitude": "55.314",
+        "longitude": "-1.885",
+        "elevation (ft)": "400"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.905,
+          55.314
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "ROTHBURY-HEATHERLEA",
+        "county": "Northumberland",
+        "gridref": "NU061022",
+        "latitude": "55.314",
+        "longitude": "-1.905",
+        "elevation (ft)": "436"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.909,
+          55.31
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "ROTHBURY-WELL-CLOSE",
+        "county": "Northumberland",
+        "gridref": "NU059018",
+        "latitude": "55.310",
+        "longitude": "-1.909",
+        "elevation (ft)": "250"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.913,
+          55.303
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "ROTHBURY-WHITTON-TOWER",
+        "county": "Northumberland",
+        "gridref": "NU056010",
+        "latitude": "55.303",
+        "longitude": "-1.913",
+        "elevation (ft)": "410"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.0,
+          55.206
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "ROTHLEY-HARWOOD",
+        "county": "Northumberland",
+        "gridref": "NZ001902",
+        "latitude": "55.206",
+        "longitude": "-2.000",
+        "elevation (ft)": "770"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.932,
+          55.19
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "SCOTS-GAP-ROTHLEY-LAKE",
+        "county": "Northumberland",
+        "gridref": "NZ044884",
+        "latitude": "55.190",
+        "longitude": "-1.932",
+        "elevation (ft)": "665"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.865,
+          54.869
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "SHOTLEY-HALL",
+        "county": "Northumberland",
+        "gridref": "NZ087527",
+        "latitude": "54.869",
+        "longitude": "-1.865",
+        "elevation (ft)": "315"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.202,
+          55.076
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "SIMONBURN-PARK-END",
+        "county": "Northumberland",
+        "gridref": "NY872757",
+        "latitude": "55.076",
+        "longitude": "-2.202",
+        "elevation (ft)": "300"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.646,
+          55.467
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "STAMFORD",
+        "county": "Northumberland",
+        "gridref": "NU225193",
+        "latitude": "55.467",
+        "longitude": "-1.646",
+        "elevation (ft)": "175"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.883,
+          55.042
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "STAMFORDHAM",
+        "county": "Northumberland",
+        "gridref": "NZ076719",
+        "latitude": "55.042",
+        "longitude": "-1.883",
+        "elevation (ft)": "422"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.093,
+          55.082
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "SWINBURN-WOODFORD",
+        "county": "Northumberland",
+        "gridref": "NY9418776351",
+        "latitude": "55.082",
+        "longitude": "-2.093",
+        "elevation (ft)": "500"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.762,
+          54.996
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "THROCKLEY-FILTERS",
+        "county": "Northumberland",
+        "gridref": "NZ153668",
+        "latitude": "54.996",
+        "longitude": "-1.762",
+        "elevation (ft)": "300"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.417,
+          55.018
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "TYNEMOUTH-COASTGUARD-STN",
+        "county": "Northumberland",
+        "gridref": "NZ374694",
+        "latitude": "55.018",
+        "longitude": "-1.417",
+        "elevation (ft)": "118"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.429,
+          55.021
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "TYNEMOUTH-PERCY-PARK",
+        "county": "Northumberland",
+        "gridref": "NZ366697",
+        "latitude": "55.021",
+        "longitude": "-1.429",
+        "elevation (ft)": "96"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.423,
+          55.014
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "TYNEMOUTH-PIER-WORKS",
+        "county": "Northumberland",
+        "gridref": "NZ370690",
+        "latitude": "55.014",
+        "longitude": "-1.423",
+        "elevation (ft)": "65"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.465,
+          55.04
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "TYNEMOUTH-WEST-HOUSE-MONKSEATON",
+        "county": "Northumberland",
+        "gridref": "NZ343719",
+        "latitude": "55.040",
+        "longitude": "-1.465",
+        "elevation (ft)": "136"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.929,
+          55.238
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "TYNEMOUTH-WW-FONT-RES",
+        "county": "Northumberland",
+        "gridref": "NZ046938",
+        "latitude": "55.238",
+        "longitude": "-1.929",
+        "elevation (ft)": "620"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.149,
+          54.838
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "UPPER-DERWENT-HEATHERY-BURN",
+        "county": "Northumberland",
+        "gridref": "NY905492",
+        "latitude": "54.838",
+        "longitude": "-2.149",
+        "elevation (ft)": "1250"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.174,
+          54.826
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "UPPER-DERWENT-QUICKLEUGH",
+        "county": "Northumberland",
+        "gridref": "NY889479",
+        "latitude": "54.826",
+        "longitude": "-2.174",
+        "elevation (ft)": "1380"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.18,
+          55.424
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "USWAYFORD",
+        "county": "Northumberland",
+        "gridref": "NT887145",
+        "latitude": "55.424",
+        "longitude": "-2.180",
+        "elevation (ft)": "1230"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.539,
+          54.987
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "WALLSEND-CARVILLE-SCHOOL",
+        "county": "Northumberland",
+        "gridref": "NZ296659",
+        "latitude": "54.987",
+        "longitude": "-1.539",
+        "elevation (ft)": "90"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.373,
+          55.11
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "WARK-STONEHAUGH",
+        "county": "Northumberland",
+        "gridref": "NY763796",
+        "latitude": "55.110",
+        "longitude": "-2.373",
+        "elevation (ft)": "850"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.704,
+          54.986
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "WEST-DENTON",
+        "county": "Northumberland",
+        "gridref": "NZ190657",
+        "latitude": "54.986",
+        "longitude": "-1.704",
+        "elevation (ft)": "250"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.445,
+          55.035
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "WHITLEY-BAY-MARDEN-HOUSE",
+        "county": "Northumberland",
+        "gridref": "NZ356713",
+        "latitude": "55.035",
+        "longitude": "-1.445",
+        "elevation (ft)": "100"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.192,
+          54.866
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "WHITLEY-CHAPEL-LADLE-WELLS",
+        "county": "Northumberland",
+        "gridref": "NY878524",
+        "latitude": "54.866",
+        "longitude": "-2.192",
+        "elevation (ft)": "1250"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.991,
+          55.027
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "WHITTINGTON-NEWCASTLE-WW",
+        "county": "Northumberland",
+        "gridref": "NZ007703",
+        "latitude": "55.027",
+        "longitude": "-1.991",
+        "elevation (ft)": "528"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.9,
+          55.007
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "WHITTLE-DEAN-RES",
+        "county": "Northumberland",
+        "gridref": "NZ065680",
+        "latitude": "55.007",
+        "longitude": "-1.900",
+        "elevation (ft)": "380"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.599,
+          55.253
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "WIDDRINGTON",
+        "county": "Northumberland",
+        "gridref": "NZ256955",
+        "latitude": "55.253",
+        "longitude": "-1.599",
+        "elevation (ft)": "110"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.008,
+          55.583
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "WOOLER-DODDINGTON-VICARAGE",
+        "county": "Northumberland",
+        "gridref": "NT996322",
+        "latitude": "55.583",
+        "longitude": "-2.008",
+        "elevation (ft)": "140"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.019,
+          55.523
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "WOOLER-MIDDLETON-HALL",
+        "county": "Northumberland",
+        "gridref": "NT989255",
+        "latitude": "55.523",
+        "longitude": "-2.019",
+        "elevation (ft)": "400"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.115,
+          55.603
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "WOOLER-MILFIELD",
+        "county": "Northumberland",
+        "gridref": "NT928343",
+        "latitude": "55.603",
+        "longitude": "-2.115",
+        "elevation (ft)": "215"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.136,
+          55.586
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "WOOLER-MILFIELD",
+        "county": "Northumberland",
+        "gridref": "NT915325",
+        "latitude": "55.586",
+        "longitude": "-2.136",
+        "elevation (ft)": "695"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.017,
+          55.548
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "WOOLER-ST-NINIANS",
+        "county": "Northumberland",
+        "gridref": "NT990283",
+        "latitude": "55.548",
+        "longitude": "-2.017",
+        "elevation (ft)": "176"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.068,
+          55.585
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "WOOLER-THIRLINGS",
+        "county": "Northumberland",
+        "gridref": "NT958324",
+        "latitude": "55.585",
+        "longitude": "-2.068",
+        "elevation (ft)": "146"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.016,
+          55.548
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "WOOLER-VICTORIA-HOUSE",
+        "county": "Northumberland",
+        "gridref": "NT991283",
+        "latitude": "55.548",
+        "longitude": "-2.016",
+        "elevation (ft)": "176"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.94,
+          55.476
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "WOOPERTON",
+        "county": "Northumberland",
+        "gridref": "NU039202",
+        "latitude": "55.476",
+        "longitude": "-1.940",
+        "elevation (ft)": "300"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.826,
+          54.976
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "WYLAM-HALL",
+        "county": "Northumberland",
+        "gridref": "NZ112646",
+        "latitude": "54.976",
+        "longitude": "-1.826",
+        "elevation (ft)": "96"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.831,
+          54.989
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "WYLAM-HOLEYN-HALL",
+        "county": "Northumberland",
+        "gridref": "NZ109661",
+        "latitude": "54.989",
+        "longitude": "-1.831",
+        "elevation (ft)": "300"
+      }
+    }
+  ]
+}

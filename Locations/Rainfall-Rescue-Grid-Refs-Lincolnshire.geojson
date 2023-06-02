@@ -1,0 +1,6284 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.582,
+          53.313
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "AISTHORPE-HALL",
+        "county": "Lincolnshire",
+        "gridref": "SK946805",
+        "latitude": "53.313",
+        "longitude": "-0.582",
+        "elevation (ft)": "77"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.184,
+          53.257
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "ALFORD-CEMETERY",
+        "county": "Lincolnshire",
+        "gridref": "TF458755",
+        "latitude": "53.257",
+        "longitude": "0.184",
+        "elevation (ft)": "29"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.181,
+          53.257
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "ALFORD-CEMETERY",
+        "county": "Lincolnshire",
+        "gridref": "TF456756",
+        "latitude": "53.257",
+        "longitude": "0.181",
+        "elevation (ft)": "30"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.282,
+          53.316
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "ALFORD-SUTTON-BY-THE-SEA",
+        "county": "Lincolnshire",
+        "gridref": "TF521823",
+        "latitude": "53.316",
+        "longitude": "0.282",
+        "elevation (ft)": "9"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.18,
+          53.257
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "ALFORD-THE-SYCAMORES",
+        "county": "Lincolnshire",
+        "gridref": "TF455756",
+        "latitude": "53.257",
+        "longitude": "0.180",
+        "elevation (ft)": "22"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.314,
+          53.25
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "ANDERBY-PUMPING-STATION",
+        "county": "Lincolnshire",
+        "gridref": "TF545750",
+        "latitude": "53.250",
+        "longitude": "0.314",
+        "elevation (ft)": "9"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.268,
+          53.255
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "ANDERBY-PUMPING-STATION",
+        "county": "Lincolnshire",
+        "gridref": "TF514755",
+        "latitude": "53.255",
+        "longitude": "0.268",
+        "elevation (ft)": "9"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.34,
+          53.04
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "ANWICK-VICARAGE",
+        "county": "Lincolnshire",
+        "gridref": "TF114505",
+        "latitude": "53.040",
+        "longitude": "-0.340",
+        "elevation (ft)": "36"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.564,
+          53.623
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "APPLEBY-VIC",
+        "county": "Lincolnshire",
+        "gridref": "SE951150",
+        "latitude": "53.623",
+        "longitude": "-0.564",
+        "elevation (ft)": "35"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.564,
+          53.619
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "APPLEBY-VIC",
+        "county": "Lincolnshire",
+        "gridref": "SE951146",
+        "latitude": "53.619",
+        "longitude": "-0.564",
+        "elevation (ft)": "60"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.334,
+          53.206
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "BARDNEY-RAILWAY-STATION",
+        "county": "Lincolnshire",
+        "gridref": "TF114690",
+        "latitude": "53.206",
+        "longitude": "-0.334",
+        "elevation (ft)": "25"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.335,
+          53.205
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "BARDNEY-SUGAR-FACTORY",
+        "county": "Lincolnshire",
+        "gridref": "TF113688",
+        "latitude": "53.205",
+        "longitude": "-0.335",
+        "elevation (ft)": "17"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.392,
+          52.683
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "BARHOLM",
+        "county": "Lincolnshire",
+        "gridref": "TF088107",
+        "latitude": "52.683",
+        "longitude": "-0.392",
+        "elevation (ft)": "45"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.411,
+          53.574
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "BARNETBY-RAILWAY-STATION",
+        "county": "Lincolnshire",
+        "gridref": "TA053098",
+        "latitude": "53.574",
+        "longitude": "-0.411",
+        "elevation (ft)": "51"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.503,
+          53.637
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "BARTON-ON-HUMBER-SAXBY-RECTORY",
+        "county": "Lincolnshire",
+        "gridref": "SE991167",
+        "latitude": "53.637",
+        "longitude": "-0.503",
+        "elevation (ft)": "64"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.17,
+          53.249
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "BAUMBER-THE-OLD-VICARAGE",
+        "county": "Lincolnshire",
+        "gridref": "TF222740",
+        "latitude": "53.249",
+        "longitude": "-0.170",
+        "elevation (ft)": "200"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.34,
+          52.895
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "BILLINGBOROUGH",
+        "county": "Lincolnshire",
+        "gridref": "TF118343",
+        "latitude": "52.895",
+        "longitude": "-0.340",
+        "elevation (ft)": "50"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.402,
+          53.126
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "BLANKNEY-HALL-GDNS",
+        "county": "Lincolnshire",
+        "gridref": "TF070600",
+        "latitude": "53.126",
+        "longitude": "-0.402",
+        "elevation (ft)": "57"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.165,
+          53.007
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "BOSTON-AMBER-HILL",
+        "county": "Lincolnshire",
+        "gridref": "TF232471",
+        "latitude": "53.007",
+        "longitude": "-0.165",
+        "elevation (ft)": "18"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.019,
+          52.981
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "BOSTON-BARGATE-END",
+        "county": "Lincolnshire",
+        "gridref": "TF331445",
+        "latitude": "52.981",
+        "longitude": "-0.019",
+        "elevation (ft)": "9"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.006,
+          53.0
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "BOSTON-BARGATE-END",
+        "county": "Lincolnshire",
+        "gridref": "TF339466",
+        "latitude": "53.000",
+        "longitude": "-0.006",
+        "elevation (ft)": "9"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.029,
+          52.966
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "BOSTON-BLACK-SLUICE-SKIRBECK",
+        "county": "Lincolnshire",
+        "gridref": "TF325428",
+        "latitude": "52.966",
+        "longitude": "-0.029",
+        "elevation (ft)": "11"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.013,
+          52.972
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "BOSTON-CHURCH-ROAD-PUMPING-STATION",
+        "county": "Lincolnshire",
+        "gridref": "TF335435",
+        "latitude": "52.972",
+        "longitude": "-0.013",
+        "elevation (ft)": "7"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.025,
+          52.979
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "BOSTON-CHURCH-YARD",
+        "county": "Lincolnshire",
+        "gridref": "TF327442",
+        "latitude": "52.979",
+        "longitude": "-0.025",
+        "elevation (ft)": "22"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.031,
+          52.975
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "BOSTON-CLARKE",
+        "county": "Lincolnshire",
+        "gridref": "TF323438",
+        "latitude": "52.975",
+        "longitude": "-0.031",
+        "elevation (ft)": "11"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.025,
+          52.978
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "BOSTON-CLARKE",
+        "county": "Lincolnshire",
+        "gridref": "TF327441",
+        "latitude": "52.978",
+        "longitude": "-0.025",
+        "elevation (ft)": "13"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.046,
+          52.97
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "BOSTON-COOKS-LOCK",
+        "county": "Lincolnshire",
+        "gridref": "TF313432",
+        "latitude": "52.970",
+        "longitude": "-0.046",
+        "elevation (ft)": "11"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.022,
+          53.006
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "BOSTON-COWBRIDGE",
+        "county": "Lincolnshire",
+        "gridref": "TF328472",
+        "latitude": "53.006",
+        "longitude": "-0.022",
+        "elevation (ft)": "9"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.097,
+          53.121
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "BOSTON-EASTVILLE",
+        "county": "Lincolnshire",
+        "gridref": "TF404602",
+        "latitude": "53.121",
+        "longitude": "0.097",
+        "elevation (ft)": "3"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.007,
+          52.978
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "BOSTON-FREISTON-ROAD",
+        "county": "Lincolnshire",
+        "gridref": "TF339441",
+        "latitude": "52.978",
+        "longitude": "-0.007",
+        "elevation (ft)": "16"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.031,
+          52.981
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "BOSTON-GRAND-SLUICE",
+        "county": "Lincolnshire",
+        "gridref": "TF323444",
+        "latitude": "52.981",
+        "longitude": "-0.031",
+        "elevation (ft)": "18"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.029,
+          52.981
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "BOSTON-HAVEN-BANK",
+        "county": "Lincolnshire",
+        "gridref": "TF324444",
+        "latitude": "52.981",
+        "longitude": "-0.029",
+        "elevation (ft)": "11"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.062,
+          52.94
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "BOSTON-NORTH-SEA-CAMP",
+        "county": "Lincolnshire",
+        "gridref": "TF387400",
+        "latitude": "52.940",
+        "longitude": "0.062",
+        "elevation (ft)": "12"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.036,
+          52.975
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "BOSTON-SLEAFORD-ROAD",
+        "county": "Lincolnshire",
+        "gridref": "TF320438",
+        "latitude": "52.975",
+        "longitude": "-0.036",
+        "elevation (ft)": "9"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.019,
+          52.979
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "BOSTON-WHEELER",
+        "county": "Lincolnshire",
+        "gridref": "TF331442",
+        "latitude": "52.979",
+        "longitude": "-0.019",
+        "elevation (ft)": "16"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.024,
+          52.975
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "BOSTON-WHEELER",
+        "county": "Lincolnshire",
+        "gridref": "TF328438",
+        "latitude": "52.975",
+        "longitude": "-0.024",
+        "elevation (ft)": "24"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.033,
+          52.963
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "BOSTON-WHEELER",
+        "county": "Lincolnshire",
+        "gridref": "TF322424",
+        "latitude": "52.963",
+        "longitude": "-0.033",
+        "elevation (ft)": "25"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.025,
+          52.973
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "BOSTON-WHEELER",
+        "county": "Lincolnshire",
+        "gridref": "TF327436",
+        "latitude": "52.973",
+        "longitude": "-0.025",
+        "elevation (ft)": "13"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.371,
+          52.767
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "BOURNE-COUNCIL-SCHOOL",
+        "county": "Lincolnshire",
+        "gridref": "TF100201",
+        "latitude": "52.767",
+        "longitude": "-0.371",
+        "elevation (ft)": "23"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.265,
+          52.787
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "BOURNE-GUTHRAM",
+        "county": "Lincolnshire",
+        "gridref": "TF171225",
+        "latitude": "52.787",
+        "longitude": "-0.265",
+        "elevation (ft)": "19"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.374,
+          52.763
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "BOURNE-SECONDARY-SCHOOL",
+        "county": "Lincolnshire",
+        "gridref": "TF098196",
+        "latitude": "52.763",
+        "longitude": "-0.374",
+        "elevation (ft)": "30"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.5,
+          53.551
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "BRIGG-BRIDGE-STREET",
+        "county": "Lincolnshire",
+        "gridref": "SE995071",
+        "latitude": "53.551",
+        "longitude": "-0.500",
+        "elevation (ft)": "11"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.489,
+          53.554
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "BRIGG-GRAMMAR-SCHOOL",
+        "county": "Lincolnshire",
+        "gridref": "TA002074",
+        "latitude": "53.554",
+        "longitude": "-0.489",
+        "elevation (ft)": "32"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.486,
+          53.548
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "BRIGG-RAILWAY-STATION",
+        "county": "Lincolnshire",
+        "gridref": "TA004068",
+        "latitude": "53.548",
+        "longitude": "-0.486",
+        "elevation (ft)": "16"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.541,
+          53.539
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "BRIGG-SCAWBY-HALL",
+        "county": "Lincolnshire",
+        "gridref": "SE968057",
+        "latitude": "53.539",
+        "longitude": "-0.541",
+        "elevation (ft)": "80"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.512,
+          53.542
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "BRIGG-SUGAR-FACTORY",
+        "county": "Lincolnshire",
+        "gridref": "SE987061",
+        "latitude": "53.542",
+        "longitude": "-0.512",
+        "elevation (ft)": "13"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.486,
+          53.553
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "BRIGG-THORNHOLME",
+        "county": "Lincolnshire",
+        "gridref": "TA004073",
+        "latitude": "53.553",
+        "longitude": "-0.486",
+        "elevation (ft)": "22"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.484,
+          53.554
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "BRIGG-WRAWBY-ROAD",
+        "county": "Lincolnshire",
+        "gridref": "TA005074",
+        "latitude": "53.554",
+        "longitude": "-0.484",
+        "elevation (ft)": "22"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.279,
+          53.586
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "BROCKLESBY-PARK",
+        "county": "Lincolnshire",
+        "gridref": "TA140113",
+        "latitude": "53.586",
+        "longitude": "-0.279",
+        "elevation (ft)": "108"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.245,
+          53.202
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "BUCKNALL",
+        "county": "Lincolnshire",
+        "gridref": "TF173687",
+        "latitude": "53.202",
+        "longitude": "-0.245",
+        "elevation (ft)": "33"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.684,
+          53.65
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "BURTON-ON-STATHER-VICARAGE",
+        "county": "Lincolnshire",
+        "gridref": "SE871179",
+        "latitude": "53.650",
+        "longitude": "-0.684",
+        "elevation (ft)": "212"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.316,
+          53.494
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "CAISTOR",
+        "county": "Lincolnshire",
+        "gridref": "TA118010",
+        "latitude": "53.494",
+        "longitude": "-0.316",
+        "elevation (ft)": "283"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.284,
+          53.501
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "CAISTOR",
+        "county": "Lincolnshire",
+        "gridref": "TA139019",
+        "latitude": "53.501",
+        "longitude": "-0.284",
+        "elevation (ft)": "280"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.319,
+          53.507
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "CAISTOR-HUNDON-MANOR-CASTLEMOUNT",
+        "county": "Lincolnshire",
+        "gridref": "TA116025",
+        "latitude": "53.507",
+        "longitude": "-0.319",
+        "elevation (ft)": "180"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.321,
+          53.497
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "CAISTOR-HUNDON-MANOR-CASTLEMOUNT",
+        "county": "Lincolnshire",
+        "gridref": "TA115013",
+        "latitude": "53.497",
+        "longitude": "-0.321",
+        "elevation (ft)": "270"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.649,
+          53.112
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "CARLTON-LE-MOORLAND",
+        "county": "Lincolnshire",
+        "gridref": "SK905580",
+        "latitude": "53.112",
+        "longitude": "-0.649",
+        "elevation (ft)": "49"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.598,
+          52.997
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "CARLTON-SCROOP-HALL",
+        "county": "Lincolnshire",
+        "gridref": "SK942453",
+        "latitude": "52.997",
+        "longitude": "-0.598",
+        "elevation (ft)": "175"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.043,
+          53.072
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "CARRINGTON-GRANGE",
+        "county": "Lincolnshire",
+        "gridref": "TF312545",
+        "latitude": "53.072",
+        "longitude": "-0.043",
+        "elevation (ft)": "15"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.042,
+          53.066
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "CARRINGTON-HACKERLEY-BRIDGE-FARM",
+        "county": "Lincolnshire",
+        "gridref": "TF313539",
+        "latitude": "53.066",
+        "longitude": "-0.042",
+        "elevation (ft)": "12"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.03,
+          53.057
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "CARRINGTON-HACKERLEY-BRIDGE-FARM",
+        "county": "Lincolnshire",
+        "gridref": "TF321529",
+        "latitude": "53.057",
+        "longitude": "-0.030",
+        "elevation (ft)": "12"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.334,
+          53.23
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "CHAPEL-ST-LEONARDS-PUMPING-STATION",
+        "county": "Lincolnshire",
+        "gridref": "TF559729",
+        "latitude": "53.230",
+        "longitude": "0.334",
+        "elevation (ft)": "10"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.385,
+          53.419
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "CLAXBY-OSGODBY",
+        "county": "Lincolnshire",
+        "gridref": "TF074926",
+        "latitude": "53.419",
+        "longitude": "-0.385",
+        "elevation (ft)": "50"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.381,
+          53.419
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "CLAXBY-OSGODBY",
+        "county": "Lincolnshire",
+        "gridref": "TF077926",
+        "latitude": "53.419",
+        "longitude": "-0.381",
+        "elevation (ft)": "70"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.731,
+          53.032
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "CLAYPOLE",
+        "county": "Lincolnshire",
+        "gridref": "SK852491",
+        "latitude": "53.032",
+        "longitude": "-0.731",
+        "elevation (ft)": "70"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.018,
+          53.551
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "CLEETHORPES-KINGS-PARADE",
+        "county": "Lincolnshire",
+        "gridref": "TA314079",
+        "latitude": "53.551",
+        "longitude": "-0.018",
+        "elevation (ft)": "23"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.008,
+          53.544
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "CLEETHORPES-OUTFALL-PUMPING-STATION",
+        "county": "Lincolnshire",
+        "gridref": "TA321071",
+        "latitude": "53.544",
+        "longitude": "-0.008",
+        "elevation (ft)": "25"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.052,
+          53.566
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "CLEETHORPES-SIDNEY-PARK",
+        "county": "Lincolnshire",
+        "gridref": "TA291095",
+        "latitude": "53.566",
+        "longitude": "-0.052",
+        "elevation (ft)": "11"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.541,
+          53.134
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "COLEBY",
+        "county": "Lincolnshire",
+        "gridref": "SK977606",
+        "latitude": "53.134",
+        "longitude": "-0.541",
+        "elevation (ft)": "270"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.563,
+          52.799
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "CORBY-BIRKHOLME-LODGE",
+        "county": "Lincolnshire",
+        "gridref": "SK970233",
+        "latitude": "52.799",
+        "longitude": "-0.563",
+        "elevation (ft)": "300"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.485,
+          52.826
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "CORBY-IRNHAM-HALL",
+        "county": "Lincolnshire",
+        "gridref": "TF022265",
+        "latitude": "52.826",
+        "longitude": "-0.485",
+        "elevation (ft)": "200"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.519,
+          53.032
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "CRANWELL-AIRFIELD",
+        "county": "Lincolnshire",
+        "gridref": "SK994493",
+        "latitude": "53.032",
+        "longitude": "-0.519",
+        "elevation (ft)": "237"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.504,
+          53.032
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "CRANWELL-AIRFIELD",
+        "county": "Lincolnshire",
+        "gridref": "TF004493",
+        "latitude": "53.032",
+        "longitude": "-0.504",
+        "elevation (ft)": "203"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.254,
+          53.132
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "CROFT-WAINFLEET",
+        "county": "Lincolnshire",
+        "gridref": "TF509618",
+        "latitude": "53.132",
+        "longitude": "0.254",
+        "elevation (ft)": "12"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.167,
+          52.678
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "CROWLAND",
+        "county": "Lincolnshire",
+        "gridref": "TF240105",
+        "latitude": "52.678",
+        "longitude": "-0.167",
+        "elevation (ft)": "10"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.169,
+          52.68
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "CROWLAND-BANK-HOUSE",
+        "county": "Lincolnshire",
+        "gridref": "TF239107",
+        "latitude": "52.680",
+        "longitude": "-0.169",
+        "elevation (ft)": "10"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.74,
+          53.593
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "CROWLE-KEADBY",
+        "county": "Lincolnshire",
+        "gridref": "SE835114",
+        "latitude": "53.593",
+        "longitude": "-0.740",
+        "elevation (ft)": "10"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.87,
+          53.579
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "CROWLE-PUMPING-STATION",
+        "county": "Lincolnshire",
+        "gridref": "SE749098",
+        "latitude": "53.579",
+        "longitude": "-0.870",
+        "elevation (ft)": "11"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.827,
+          53.598
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "CROWLE-WHARF-ROAD",
+        "county": "Lincolnshire",
+        "gridref": "SE777119",
+        "latitude": "53.598",
+        "longitude": "-0.827",
+        "elevation (ft)": "17"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.485,
+          52.95
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "CULVERTHORPE-HALL",
+        "county": "Lincolnshire",
+        "gridref": "TF019402",
+        "latitude": "52.950",
+        "longitude": "-0.485",
+        "elevation (ft)": "200"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.48,
+          52.949
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "CULVERTHORPE-HALL",
+        "county": "Lincolnshire",
+        "gridref": "TF022402",
+        "latitude": "52.949",
+        "longitude": "-0.480",
+        "elevation (ft)": "190"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.205,
+          52.725
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "DEEPING-ST-NICHOLAS",
+        "county": "Lincolnshire",
+        "gridref": "TF213157",
+        "latitude": "52.725",
+        "longitude": "-0.205",
+        "elevation (ft)": "11"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.715,
+          52.883
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "DENTON",
+        "county": "Lincolnshire",
+        "gridref": "SK866325",
+        "latitude": "52.883",
+        "longitude": "-0.715",
+        "elevation (ft)": "300"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.347,
+          52.85
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "DOWSBY-THE-COTTAGE",
+        "county": "Lincolnshire",
+        "gridref": "TF114293",
+        "latitude": "52.850",
+        "longitude": "-0.347",
+        "elevation (ft)": "14"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.079,
+          53.249
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "DRIBY-PUMPING-STATION",
+        "county": "Lincolnshire",
+        "gridref": "TF388745",
+        "latitude": "53.249",
+        "longitude": "0.079",
+        "elevation (ft)": "134"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.495,
+          53.289
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "DUNHOLME-FIELD-STATION",
+        "county": "Lincolnshire",
+        "gridref": "TF004779",
+        "latitude": "53.289",
+        "longitude": "-0.495",
+        "elevation (ft)": "100"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.224,
+          52.983
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "EAST-HECKINGTON",
+        "county": "Lincolnshire",
+        "gridref": "TF193443",
+        "latitude": "52.983",
+        "longitude": "-0.224",
+        "elevation (ft)": "16"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.011,
+          53.148
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "EAST-KIRKBY-MANOR",
+        "county": "Lincolnshire",
+        "gridref": "TF331630",
+        "latitude": "53.148",
+        "longitude": "-0.011",
+        "elevation (ft)": "90"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.007,
+          53.137
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "EAST-KIRKBY-MANOR",
+        "county": "Lincolnshire",
+        "gridref": "TF334618",
+        "latitude": "53.137",
+        "longitude": "-0.007",
+        "elevation (ft)": "35"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.098,
+          53.09
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "EASTVILLE-STATION-FARM",
+        "county": "Lincolnshire",
+        "gridref": "TF406568",
+        "latitude": "53.090",
+        "longitude": "0.098",
+        "elevation (ft)": "8"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.016,
+          53.295
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "FARFORTH-MAIDENWELL-HOUSE",
+        "county": "Lincolnshire",
+        "gridref": "TF323794",
+        "latitude": "53.295",
+        "longitude": "-0.016",
+        "elevation (ft)": "380"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.524,
+          53.677
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "FERRIBY-SLUICE",
+        "county": "Lincolnshire",
+        "gridref": "SE976211",
+        "latitude": "53.677",
+        "longitude": "-0.524",
+        "elevation (ft)": "18"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.177,
+          53.147
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "FIRSBY",
+        "county": "Lincolnshire",
+        "gridref": "TF457633",
+        "latitude": "53.147",
+        "longitude": "0.177",
+        "elevation (ft)": "26"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.028,
+          52.959
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "FISHTOFT-SCHOOL",
+        "county": "Lincolnshire",
+        "gridref": "TF363421",
+        "latitude": "52.959",
+        "longitude": "0.028",
+        "elevation (ft)": "8"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.589,
+          53.043
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "FULBECK-HALL",
+        "county": "Lincolnshire",
+        "gridref": "SK947504",
+        "latitude": "53.043",
+        "longitude": "-0.589",
+        "elevation (ft)": "180"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.787,
+          53.416
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "GAINSBOROUGH-MORTON",
+        "county": "Lincolnshire",
+        "gridref": "SK807917",
+        "latitude": "53.416",
+        "longitude": "-0.787",
+        "elevation (ft)": "22"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.777,
+          53.412
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "GAINSBOROUGH-NORTH-SANDSFIELD",
+        "county": "Lincolnshire",
+        "gridref": "SK814913",
+        "latitude": "53.412",
+        "longitude": "-0.777",
+        "elevation (ft)": "23"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.773,
+          53.4
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "GAINSBOROUGH-RAILWAY-STATION",
+        "county": "Lincolnshire",
+        "gridref": "SK817899",
+        "latitude": "53.400",
+        "longitude": "-0.773",
+        "elevation (ft)": "30"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.77,
+          53.399
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "GAINSBOROUGH-RAILWAY-STATION",
+        "county": "Lincolnshire",
+        "gridref": "SK819898",
+        "latitude": "53.399",
+        "longitude": "-0.770",
+        "elevation (ft)": "76"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.738,
+          53.34
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "GATE-BURTON",
+        "county": "Lincolnshire",
+        "gridref": "SK841833",
+        "latitude": "53.340",
+        "longitude": "-0.738",
+        "elevation (ft)": "96"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.743,
+          53.338
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "GATE-BURTON",
+        "county": "Lincolnshire",
+        "gridref": "SK838831",
+        "latitude": "53.338",
+        "longitude": "-0.743",
+        "elevation (ft)": "97"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.451,
+          53.407
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "GLENTHAM-BISHOPBRIDGE",
+        "county": "Lincolnshire",
+        "gridref": "TF031911",
+        "latitude": "53.407",
+        "longitude": "-0.451",
+        "elevation (ft)": "20"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.087,
+          53.472
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "GRAINSBY-HALL",
+        "county": "Lincolnshire",
+        "gridref": "TF271990",
+        "latitude": "53.472",
+        "longitude": "-0.087",
+        "elevation (ft)": "75"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.079,
+          53.444
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "GRAINTHORPE-COUNTY-SCHOOL",
+        "county": "Lincolnshire",
+        "gridref": "TF382962",
+        "latitude": "53.444",
+        "longitude": "0.079",
+        "elevation (ft)": "9"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.642,
+          52.915
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "GRANTHAM",
+        "county": "Lincolnshire",
+        "gridref": "SK914361",
+        "latitude": "52.915",
+        "longitude": "-0.642",
+        "elevation (ft)": "179"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.633,
+          52.917
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "GRANTHAM-CENTRAL-SCHOOL",
+        "county": "Lincolnshire",
+        "gridref": "SK920364",
+        "latitude": "52.917",
+        "longitude": "-0.633",
+        "elevation (ft)": "192"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.72,
+          52.883
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "GRANTHAM-DENTON-HALL",
+        "county": "Lincolnshire",
+        "gridref": "SK862325",
+        "latitude": "52.883",
+        "longitude": "-0.720",
+        "elevation (ft)": "275"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.641,
+          52.911
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "GRANTHAM-GUILDHALL",
+        "county": "Lincolnshire",
+        "gridref": "SK915357",
+        "latitude": "52.911",
+        "longitude": "-0.641",
+        "elevation (ft)": "202"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.497,
+          52.943
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "GRANTHAM-HEYDOUR-VICARAGE",
+        "county": "Lincolnshire",
+        "gridref": "TF011395",
+        "latitude": "52.943",
+        "longitude": "-0.497",
+        "elevation (ft)": "244"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.642,
+          52.913
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "GRANTHAM-HIGH-STREET",
+        "county": "Lincolnshire",
+        "gridref": "SK914359",
+        "latitude": "52.913",
+        "longitude": "-0.642",
+        "elevation (ft)": "202"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.63,
+          52.879
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "GRANTHAM-LITTLE-PONTON-RECTORY",
+        "county": "Lincolnshire",
+        "gridref": "SK923322",
+        "latitude": "52.879",
+        "longitude": "-0.630",
+        "elevation (ft)": "250"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.625,
+          52.89
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "GRANTHAM-SALTERSFORD",
+        "county": "Lincolnshire",
+        "gridref": "SK926334",
+        "latitude": "52.890",
+        "longitude": "-0.625",
+        "elevation (ft)": "188"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.659,
+          52.795
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "GRANTHAM-STAINBY",
+        "county": "Lincolnshire",
+        "gridref": "SK905228",
+        "latitude": "52.795",
+        "longitude": "-0.659",
+        "elevation (ft)": "496"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.601,
+          52.955
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "GRANTHAM-SYSTON-PARK",
+        "county": "Lincolnshire",
+        "gridref": "SK941407",
+        "latitude": "52.955",
+        "longitude": "-0.601",
+        "elevation (ft)": "200"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.396,
+          52.694
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "GREATFORD-HALL-STAMFORD",
+        "county": "Lincolnshire",
+        "gridref": "TF085119",
+        "latitude": "52.694",
+        "longitude": "-0.396",
+        "elevation (ft)": "45"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.087,
+          53.561
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "GRIMSBY-ABBEY-ROAD",
+        "county": "Lincolnshire",
+        "gridref": "TA268089",
+        "latitude": "53.561",
+        "longitude": "-0.087",
+        "elevation (ft)": "23"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.081,
+          53.553
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "GRIMSBY-ABBEY-ROAD",
+        "county": "Lincolnshire",
+        "gridref": "TA272080",
+        "latitude": "53.553",
+        "longitude": "-0.081",
+        "elevation (ft)": "13"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.186,
+          53.552
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "GRIMSBY-AYLESBY",
+        "county": "Lincolnshire",
+        "gridref": "TA203077",
+        "latitude": "53.552",
+        "longitude": "-0.186",
+        "elevation (ft)": "55"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.197,
+          53.525
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "GRIMSBY-IRBY-ON-HUMBER",
+        "county": "Lincolnshire",
+        "gridref": "TA196047",
+        "latitude": "53.525",
+        "longitude": "-0.197",
+        "elevation (ft)": "175"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.11,
+          53.559
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "GRIMSBY-LITTLE-COATES-PUMPING-STATION",
+        "county": "Lincolnshire",
+        "gridref": "TA253086",
+        "latitude": "53.559",
+        "longitude": "-0.110",
+        "elevation (ft)": "14"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.087,
+          53.563
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "GRIMSBY-RAILWAY-STATION",
+        "county": "Lincolnshire",
+        "gridref": "TA268091",
+        "latitude": "53.563",
+        "longitude": "-0.087",
+        "elevation (ft)": "42"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.213,
+          53.551
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "GRIMSBY-RIBY",
+        "county": "Lincolnshire",
+        "gridref": "TA185075",
+        "latitude": "53.551",
+        "longitude": "-0.213",
+        "elevation (ft)": "106"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.1,
+          53.517
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "GRIMSBY-WALTHAM",
+        "county": "Lincolnshire",
+        "gridref": "TA261039",
+        "latitude": "53.517",
+        "longitude": "-0.100",
+        "elevation (ft)": "50"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.096,
+          53.558
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "GRIMSBY-WESTLANDS",
+        "county": "Lincolnshire",
+        "gridref": "TA262085",
+        "latitude": "53.558",
+        "longitude": "-0.096",
+        "elevation (ft)": "23"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.257,
+          53.612
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "HABROUGH-HOME-FARM",
+        "county": "Lincolnshire",
+        "gridref": "TA154142",
+        "latitude": "53.612",
+        "longitude": "-0.257",
+        "elevation (ft)": "50"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.512,
+          53.33
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "HACKTHORN-HALL",
+        "county": "Lincolnshire",
+        "gridref": "SK992825",
+        "latitude": "53.330",
+        "longitude": "-0.512",
+        "elevation (ft)": "105"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.011,
+          53.204
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "HAGWORTHINGHAM-MANOR-HOUSE",
+        "county": "Lincolnshire",
+        "gridref": "TF344693",
+        "latitude": "53.204",
+        "longitude": "0.011",
+        "elevation (ft)": "240"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.015,
+          53.201
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "HAGWORTHINGHAM-MANOR-HOUSE",
+        "county": "Lincolnshire",
+        "gridref": "TF347690",
+        "latitude": "53.201",
+        "longitude": "0.015",
+        "elevation (ft)": "200"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.026,
+          53.202
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "HAGWORTHINGHAM-MANOR-HOUSE",
+        "county": "Lincolnshire",
+        "gridref": "TF354691",
+        "latitude": "53.202",
+        "longitude": "0.026",
+        "elevation (ft)": "205"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.046,
+          53.226
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "HARRINGTON-HALL",
+        "county": "Lincolnshire",
+        "gridref": "TF367718",
+        "latitude": "53.226",
+        "longitude": "0.046",
+        "elevation (ft)": "163"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.03,
+          52.939
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "HOBHOLE-PUMPING-STATION",
+        "county": "Lincolnshire",
+        "gridref": "TF365399",
+        "latitude": "52.939",
+        "longitude": "0.030",
+        "elevation (ft)": "15"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.065,
+          52.869
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "HOLBEACH-BINGHAM-LODGE",
+        "county": "Lincolnshire",
+        "gridref": "TF391322",
+        "latitude": "52.869",
+        "longitude": "0.065",
+        "elevation (ft)": "10"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.049,
+          52.874
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "HOLBEACH-BINGHAM-LODGE",
+        "county": "Lincolnshire",
+        "gridref": "TF380327",
+        "latitude": "52.874",
+        "longitude": "0.049",
+        "elevation (ft)": "10"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.008,
+          52.797
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "HOLBEACH-MANOR-FARM",
+        "county": "Lincolnshire",
+        "gridref": "TF355241",
+        "latitude": "52.797",
+        "longitude": "0.008",
+        "elevation (ft)": "10"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.051,
+          52.864
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "HOLBEACH-MARSH-SOMERSET-HOUSE",
+        "county": "Lincolnshire",
+        "gridref": "TF382316",
+        "latitude": "52.864",
+        "longitude": "0.051",
+        "elevation (ft)": "0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.522,
+          52.733
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "HOLYWELL-HALL",
+        "county": "Lincolnshire",
+        "gridref": "SK999161",
+        "latitude": "52.733",
+        "longitude": "-0.522",
+        "elevation (ft)": "190"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.339,
+          52.902
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "HORBLING-THE-HALL",
+        "county": "Lincolnshire",
+        "gridref": "TF118351",
+        "latitude": "52.902",
+        "longitude": "-0.339",
+        "elevation (ft)": "35"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.511,
+          53.653
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "HORKSTOW",
+        "county": "Lincolnshire",
+        "gridref": "SE985184",
+        "latitude": "53.653",
+        "longitude": "-0.511",
+        "elevation (ft)": "75"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.11,
+          53.21
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "HORNCASTLE",
+        "county": "Lincolnshire",
+        "gridref": "TF263698",
+        "latitude": "53.210",
+        "longitude": "-0.110",
+        "elevation (ft)": "110"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.128,
+          53.208
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "HORNCASTLE",
+        "county": "Lincolnshire",
+        "gridref": "TF251695",
+        "latitude": "53.208",
+        "longitude": "-0.128",
+        "elevation (ft)": "120"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.256,
+          53.202
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "HORNCASTLE-BUCKNALL",
+        "county": "Lincolnshire",
+        "gridref": "TF166686",
+        "latitude": "53.202",
+        "longitude": "-0.256",
+        "elevation (ft)": "50"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.146,
+          53.252
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "HORNCASTLE-HEMINGBY",
+        "county": "Lincolnshire",
+        "gridref": "TF238744",
+        "latitude": "53.252",
+        "longitude": "-0.146",
+        "elevation (ft)": "158"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.115,
+          53.209
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "HORNCASTLE-LINC",
+        "county": "Lincolnshire",
+        "gridref": "TF260696",
+        "latitude": "53.209",
+        "longitude": "-0.115",
+        "elevation (ft)": "95"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.112,
+          53.207
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "HORNCASTLE-QUEEN-STREET",
+        "county": "Lincolnshire",
+        "gridref": "TF262694",
+        "latitude": "53.207",
+        "longitude": "-0.112",
+        "elevation (ft)": "100"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.053,
+          53.152
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "HORNCASTLE-REVESBY",
+        "county": "Lincolnshire",
+        "gridref": "TF303634",
+        "latitude": "53.152",
+        "longitude": "-0.053",
+        "elevation (ft)": "135"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.175,
+          53.617
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "IMMINGHAM-COMPRESSOR-STN",
+        "county": "Lincolnshire",
+        "gridref": "TA208149",
+        "latitude": "53.617",
+        "longitude": "-0.175",
+        "elevation (ft)": "13"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.74,
+          53.591
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "KEADBY-PUMPING-STATION",
+        "county": "Lincolnshire",
+        "gridref": "SE835112",
+        "latitude": "53.591",
+        "longitude": "-0.740",
+        "elevation (ft)": "20"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.74,
+          53.595
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "KEADBY-THE-HOLLIES",
+        "county": "Lincolnshire",
+        "gridref": "SE835117",
+        "latitude": "53.595",
+        "longitude": "-0.740",
+        "elevation (ft)": "16"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.227,
+          53.144
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "KIRKSTEAD",
+        "county": "Lincolnshire",
+        "gridref": "TF187622",
+        "latitude": "53.144",
+        "longitude": "-0.227",
+        "elevation (ft)": "20"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.218,
+          53.417
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "KIRMOND",
+        "county": "Lincolnshire",
+        "gridref": "TF185926",
+        "latitude": "53.417",
+        "longitude": "-0.218",
+        "elevation (ft)": "309"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.063,
+          52.925
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "KIRTON",
+        "county": "Lincolnshire",
+        "gridref": "TF303381",
+        "latitude": "52.925",
+        "longitude": "-0.063",
+        "elevation (ft)": "12"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.062,
+          52.928
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "KIRTON-AGRICULTURAL-INSTITUTE",
+        "county": "Lincolnshire",
+        "gridref": "TF304385",
+        "latitude": "52.928",
+        "longitude": "-0.062",
+        "elevation (ft)": "14"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.594,
+          53.479
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "KIRTON-IN-LINDSEY",
+        "county": "Lincolnshire",
+        "gridref": "SK934990",
+        "latitude": "53.479",
+        "longitude": "-0.594",
+        "elevation (ft)": "82"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.584,
+          53.055
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "LEADENHAM-RECTORY",
+        "county": "Lincolnshire",
+        "gridref": "SK950518",
+        "latitude": "53.055",
+        "longitude": "-0.584",
+        "elevation (ft)": "150"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.055,
+          53.069
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "LEAKE-LADE-BANK-ENGINES",
+        "county": "Lincolnshire",
+        "gridref": "TF378544",
+        "latitude": "53.069",
+        "longitude": "0.055",
+        "elevation (ft)": "10"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.426,
+          53.019
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "LEASINGHAM-RECTORY",
+        "county": "Lincolnshire",
+        "gridref": "TF057480",
+        "latitude": "53.019",
+        "longitude": "-0.426",
+        "elevation (ft)": "100"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.542,
+          53.231
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "LINCOLN-BEAUMONT-FEE",
+        "county": "Lincolnshire",
+        "gridref": "SK974714",
+        "latitude": "53.231",
+        "longitude": "-0.542",
+        "elevation (ft)": "48"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.553,
+          53.213
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "LINCOLN-BOULTHAM",
+        "county": "Lincolnshire",
+        "gridref": "SK967694",
+        "latitude": "53.213",
+        "longitude": "-0.553",
+        "elevation (ft)": "18"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.478,
+          53.192
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "LINCOLN-BRANSTON-HALL",
+        "county": "Lincolnshire",
+        "gridref": "TF018672",
+        "latitude": "53.192",
+        "longitude": "-0.478",
+        "elevation (ft)": "122"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.452,
+          53.188
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "LINCOLN-BRANSTON-HALL",
+        "county": "Lincolnshire",
+        "gridref": "TF035668",
+        "latitude": "53.188",
+        "longitude": "-0.452",
+        "elevation (ft)": "110"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.545,
+          53.229
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "LINCOLN-BRAYFORD-WHARF",
+        "county": "Lincolnshire",
+        "gridref": "SK972712",
+        "latitude": "53.229",
+        "longitude": "-0.545",
+        "elevation (ft)": "28"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.546,
+          53.242
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "LINCOLN-BURTON-ROAD",
+        "county": "Lincolnshire",
+        "gridref": "SK971727",
+        "latitude": "53.242",
+        "longitude": "-0.546",
+        "elevation (ft)": "250"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.538,
+          53.236
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "LINCOLN-COTTESFORD-PLACE",
+        "county": "Lincolnshire",
+        "gridref": "SK977720",
+        "latitude": "53.236",
+        "longitude": "-0.538",
+        "elevation (ft)": "220"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.533,
+          53.235
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "LINCOLN-DISNEY-PLACE",
+        "county": "Lincolnshire",
+        "gridref": "SK980719",
+        "latitude": "53.235",
+        "longitude": "-0.533",
+        "elevation (ft)": "215"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.654,
+          53.219
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "LINCOLN-DODDINGTON",
+        "county": "Lincolnshire",
+        "gridref": "SK900700",
+        "latitude": "53.219",
+        "longitude": "-0.654",
+        "elevation (ft)": "92"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.535,
+          53.233
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "LINCOLN-EARLY",
+        "county": "Lincolnshire",
+        "gridref": "SK979717",
+        "latitude": "53.233",
+        "longitude": "-0.535",
+        "elevation (ft)": "200"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.526,
+          53.231
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "LINCOLN-EASTBOURNE-ST",
+        "county": "Lincolnshire",
+        "gridref": "SK985714",
+        "latitude": "53.231",
+        "longitude": "-0.526",
+        "elevation (ft)": "51"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.508,
+          53.234
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "LINCOLN-MONKS-TOWER",
+        "county": "Lincolnshire",
+        "gridref": "SK997718",
+        "latitude": "53.234",
+        "longitude": "-0.508",
+        "elevation (ft)": "100"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.564,
+          53.201
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "LINCOLN-MOORLANDS-SKELLINGTHORPE",
+        "county": "Lincolnshire",
+        "gridref": "SK960681",
+        "latitude": "53.201",
+        "longitude": "-0.564",
+        "elevation (ft)": "27"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.549,
+          53.221
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "LINCOLN-NORTON",
+        "county": "Lincolnshire",
+        "gridref": "SK970703",
+        "latitude": "53.221",
+        "longitude": "-0.549",
+        "elevation (ft)": "26"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.551,
+          53.233
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "LINCOLN-NORTON",
+        "county": "Lincolnshire",
+        "gridref": "SK968716",
+        "latitude": "53.233",
+        "longitude": "-0.551",
+        "elevation (ft)": "25"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.541,
+          53.225
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "LINCOLN-NORTON",
+        "county": "Lincolnshire",
+        "gridref": "SK975708",
+        "latitude": "53.225",
+        "longitude": "-0.541",
+        "elevation (ft)": "23"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.544,
+          53.224
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "LINCOLN-RAILWAY-STATION",
+        "county": "Lincolnshire",
+        "gridref": "SK973707",
+        "latitude": "53.224",
+        "longitude": "-0.544",
+        "elevation (ft)": "26"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.443,
+          53.25
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "LINCOLN-REEPHAM",
+        "county": "Lincolnshire",
+        "gridref": "TF040737",
+        "latitude": "53.250",
+        "longitude": "-0.443",
+        "elevation (ft)": "60"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.66,
+          53.266
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "LINCOLN-SAXILBY",
+        "county": "Lincolnshire",
+        "gridref": "SK895752",
+        "latitude": "53.266",
+        "longitude": "-0.660",
+        "elevation (ft)": "25"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.536,
+          53.231
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "LINCOLN-SESSIONS-HOUSE",
+        "county": "Lincolnshire",
+        "gridref": "SK978714",
+        "latitude": "53.231",
+        "longitude": "-0.536",
+        "elevation (ft)": "59"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.542,
+          53.232
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "LINCOLN-SESSIONS-HOUSE",
+        "county": "Lincolnshire",
+        "gridref": "SK974715",
+        "latitude": "53.232",
+        "longitude": "-0.542",
+        "elevation (ft)": "42"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.608,
+          53.232
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "LINCOLN-SKELLINGTHORPE-HALL",
+        "county": "Lincolnshire",
+        "gridref": "SK930715",
+        "latitude": "53.232",
+        "longitude": "-0.608",
+        "elevation (ft)": "40"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.546,
+          53.218
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "LINCOLN-ST-BOTOLPHS",
+        "county": "Lincolnshire",
+        "gridref": "SK972700",
+        "latitude": "53.218",
+        "longitude": "-0.546",
+        "elevation (ft)": "25"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.549,
+          53.213
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "LINCOLN-ST-CATHERINES",
+        "county": "Lincolnshire",
+        "gridref": "SK970694",
+        "latitude": "53.213",
+        "longitude": "-0.549",
+        "elevation (ft)": "33"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.582,
+          53.201
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "LINCOLN-SWALLOWBECK",
+        "county": "Lincolnshire",
+        "gridref": "SK948680",
+        "latitude": "53.201",
+        "longitude": "-0.582",
+        "elevation (ft)": "34"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.56,
+          53.188
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "LINCOLN-SWALLOWBECK",
+        "county": "Lincolnshire",
+        "gridref": "SK963666",
+        "latitude": "53.188",
+        "longitude": "-0.560",
+        "elevation (ft)": "34"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.536,
+          53.233
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "LINCOLN-THE-CLOSE",
+        "county": "Lincolnshire",
+        "gridref": "SK978717",
+        "latitude": "53.233",
+        "longitude": "-0.536",
+        "elevation (ft)": "185"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.529,
+          53.234
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "LINCOLN-THE-QUARRY",
+        "county": "Lincolnshire",
+        "gridref": "SK983718",
+        "latitude": "53.234",
+        "longitude": "-0.529",
+        "elevation (ft)": "210"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.56,
+          53.235
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "LINCOLN-WEST-COMMON",
+        "county": "Lincolnshire",
+        "gridref": "SK962719",
+        "latitude": "53.235",
+        "longitude": "-0.560",
+        "elevation (ft)": "25"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.144,
+          53.142
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "LITTLE-STEEPING",
+        "county": "Lincolnshire",
+        "gridref": "TF435627",
+        "latitude": "53.142",
+        "longitude": "0.144",
+        "elevation (ft)": "20"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.148,
+          52.74
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "LONG-SUTTON-TYDD-GATE",
+        "county": "Lincolnshire",
+        "gridref": "TF451180",
+        "latitude": "52.740",
+        "longitude": "0.148",
+        "elevation (ft)": "23"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.123,
+          52.785
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "LONG-SUTTON-TYDD-GATE",
+        "county": "Lincolnshire",
+        "gridref": "TF433229",
+        "latitude": "52.785",
+        "longitude": "0.123",
+        "elevation (ft)": "18"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.119,
+          52.785
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "LONG-SUTTON-TYDD-GATE",
+        "county": "Lincolnshire",
+        "gridref": "TF430229",
+        "latitude": "52.785",
+        "longitude": "0.119",
+        "elevation (ft)": "13"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.158,
+          52.817
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "LONG-SUTTON-WHITE-HOUSE-FARM",
+        "county": "Lincolnshire",
+        "gridref": "TF455266",
+        "latitude": "52.817",
+        "longitude": "0.158",
+        "elevation (ft)": "10"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.139,
+          53.38
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "LOUTH-CALCETHORPE",
+        "county": "Lincolnshire",
+        "gridref": "TF239886",
+        "latitude": "53.380",
+        "longitude": "-0.139",
+        "elevation (ft)": "380"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.052,
+          53.374
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "LOUTH-ELKINGTON-HALL",
+        "county": "Lincolnshire",
+        "gridref": "TF297881",
+        "latitude": "53.374",
+        "longitude": "-0.052",
+        "elevation (ft)": "234"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.009,
+          53.365
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "LOUTH-GOSPELGATE",
+        "county": "Lincolnshire",
+        "gridref": "TF326872",
+        "latitude": "53.365",
+        "longitude": "-0.009",
+        "elevation (ft)": "111"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.135,
+          53.391
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "LOUTH-KELSTERN-GRANGE",
+        "county": "Lincolnshire",
+        "gridref": "TF241899",
+        "latitude": "53.391",
+        "longitude": "-0.135",
+        "elevation (ft)": "390"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.015,
+          53.366
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "LOUTH-THE-CEDARS",
+        "county": "Lincolnshire",
+        "gridref": "TF322873",
+        "latitude": "53.366",
+        "longitude": "-0.015",
+        "elevation (ft)": "120"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.012,
+          53.365
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "LOUTH-WESTGATE",
+        "county": "Lincolnshire",
+        "gridref": "TF324872",
+        "latitude": "53.365",
+        "longitude": "-0.012",
+        "elevation (ft)": "120"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.269,
+          53.338
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "MABLETHORPE",
+        "county": "Lincolnshire",
+        "gridref": "TF512847",
+        "latitude": "53.338",
+        "longitude": "0.269",
+        "elevation (ft)": "7"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.25,
+          53.315
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "MABLETHORPE-TRUSTHORPE-HALL",
+        "county": "Lincolnshire",
+        "gridref": "TF500821",
+        "latitude": "53.315",
+        "longitude": "0.250",
+        "elevation (ft)": "10"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.089,
+          53.361
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "MANBY-AIRFIELD",
+        "county": "Lincolnshire",
+        "gridref": "TF391869",
+        "latitude": "53.361",
+        "longitude": "0.089",
+        "elevation (ft)": "55"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.091,
+          53.131
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "MAREHAM-LE-FEN",
+        "county": "Lincolnshire",
+        "gridref": "TF278610",
+        "latitude": "53.131",
+        "longitude": "-0.091",
+        "elevation (ft)": "11"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.085,
+          53.134
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "MAREHAM-LE-FEN",
+        "county": "Lincolnshire",
+        "gridref": "TF282614",
+        "latitude": "53.134",
+        "longitude": "-0.085",
+        "elevation (ft)": "20"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.401,
+          52.72
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "MARKET-DEEPING-WILSTHORPE",
+        "county": "Lincolnshire",
+        "gridref": "TF081148",
+        "latitude": "52.720",
+        "longitude": "-0.401",
+        "elevation (ft)": "51"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.4,
+          53.348
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "MARKET-RASEN-FALDINGWORTH",
+        "county": "Lincolnshire",
+        "gridref": "TF066847",
+        "latitude": "53.348",
+        "longitude": "-0.400",
+        "elevation (ft)": "100"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.337,
+          53.384
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "MARKET-RASEN-RAILWAY-STATION",
+        "county": "Lincolnshire",
+        "gridref": "TF107887",
+        "latitude": "53.384",
+        "longitude": "-0.337",
+        "elevation (ft)": "100"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.34,
+          53.388
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "MARKET-RASEN-RAILWAY-STATION",
+        "county": "Lincolnshire",
+        "gridref": "TF105892",
+        "latitude": "53.388",
+        "longitude": "-0.340",
+        "elevation (ft)": "84"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.261,
+          53.401
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "MARKET-RASEN-TEALBY",
+        "county": "Lincolnshire",
+        "gridref": "TF157908",
+        "latitude": "53.401",
+        "longitude": "-0.261",
+        "elevation (ft)": "251"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.268,
+          53.247
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "MUMBY-PUMPING-STN",
+        "county": "Lincolnshire",
+        "gridref": "TF514746",
+        "latitude": "53.247",
+        "longitude": "0.268",
+        "elevation (ft)": "29"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.463,
+          53.107
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "NAVENBY-CROP-FACTORY",
+        "county": "Lincolnshire",
+        "gridref": "TF030578",
+        "latitude": "53.107",
+        "longitude": "-0.463",
+        "elevation (ft)": "125"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.529,
+          53.109
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "NAVENBY-RECTORY",
+        "county": "Lincolnshire",
+        "gridref": "SK986579",
+        "latitude": "53.109",
+        "longitude": "-0.529",
+        "elevation (ft)": "216"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.364,
+          53.703
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "NEW-HOLLAND-RAILWAY-STATION",
+        "county": "Lincolnshire",
+        "gridref": "TA081242",
+        "latitude": "53.703",
+        "longitude": "-0.364",
+        "elevation (ft)": "18"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.666,
+          53.64
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "NORMANBY",
+        "county": "Lincolnshire",
+        "gridref": "SE883168",
+        "latitude": "53.640",
+        "longitude": "-0.666",
+        "elevation (ft)": "185"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.031,
+          53.482
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "NORTH-COTES",
+        "county": "Lincolnshire",
+        "gridref": "TA349003",
+        "latitude": "53.482",
+        "longitude": "0.031",
+        "elevation (ft)": "10"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.06,
+          53.47
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "NORTH-THORESBY-RECTORY",
+        "county": "Lincolnshire",
+        "gridref": "TF289988",
+        "latitude": "53.470",
+        "longitude": "-0.060",
+        "elevation (ft)": "46"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.283,
+          53.382
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "NORTH-WILLINGHAM-HOUSE",
+        "county": "Lincolnshire",
+        "gridref": "TF143886",
+        "latitude": "53.382",
+        "longitude": "-0.283",
+        "elevation (ft)": "125"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.67,
+          53.119
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "NORTON-DISNEY-THE-VICARAGE",
+        "county": "Lincolnshire",
+        "gridref": "SK891588",
+        "latitude": "53.119",
+        "longitude": "-0.670",
+        "elevation (ft)": "41"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.118,
+          53.014
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "OLD-LEAKE-LEVERTON",
+        "county": "Lincolnshire",
+        "gridref": "TF422484",
+        "latitude": "53.014",
+        "longitude": "0.118",
+        "elevation (ft)": "9"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.426,
+          53.182
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "POTTERHANWORTH-OLD-HALL",
+        "county": "Lincolnshire",
+        "gridref": "TF053661",
+        "latitude": "53.182",
+        "longitude": "-0.426",
+        "elevation (ft)": "55"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.386,
+          53.042
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "RUSKINGTON",
+        "county": "Lincolnshire",
+        "gridref": "TF083506",
+        "latitude": "53.042",
+        "longitude": "-0.386",
+        "elevation (ft)": "30"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.583,
+          53.304
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "SCAMPTON-HOUSE",
+        "county": "Lincolnshire",
+        "gridref": "SK945795",
+        "latitude": "53.304",
+        "longitude": "-0.583",
+        "elevation (ft)": "80"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.647,
+          53.577
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "SCUNTHORPE-BRUMBY-SEC-MOD-SCHOOL",
+        "county": "Lincolnshire",
+        "gridref": "SE897098",
+        "latitude": "53.577",
+        "longitude": "-0.647",
+        "elevation (ft)": "100"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.66,
+          53.593
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "SCUNTHORPE-HENDERSON-AVENUE",
+        "county": "Lincolnshire",
+        "gridref": "SE888116",
+        "latitude": "53.593",
+        "longitude": "-0.660",
+        "elevation (ft)": "140"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.015,
+          53.044
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "SIBSEY-IVYDENE",
+        "county": "Lincolnshire",
+        "gridref": "TF352515",
+        "latitude": "53.044",
+        "longitude": "0.015",
+        "elevation (ft)": "20"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.317,
+          53.102
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "SKEGNESS-BURGH-SLUICE-PUMPING-STATION",
+        "county": "Lincolnshire",
+        "gridref": "TF552586",
+        "latitude": "53.102",
+        "longitude": "0.317",
+        "elevation (ft)": "20"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.34,
+          53.15
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "SKEGNESS-MARINE-GDNS",
+        "county": "Lincolnshire",
+        "gridref": "TF566640",
+        "latitude": "53.150",
+        "longitude": "0.340",
+        "elevation (ft)": "10"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.338,
+          53.143
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "SKEGNESS-MARINE-GDNS",
+        "county": "Lincolnshire",
+        "gridref": "TF565632",
+        "latitude": "53.143",
+        "longitude": "0.338",
+        "elevation (ft)": "10"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.344,
+          53.142
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "SKEGNESS-MARINE-GDNS",
+        "county": "Lincolnshire",
+        "gridref": "TF569631",
+        "latitude": "53.142",
+        "longitude": "0.344",
+        "elevation (ft)": "13"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.412,
+          53.069
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "SLEAFORD-BLOXHOLM",
+        "county": "Lincolnshire",
+        "gridref": "TF065536",
+        "latitude": "53.069",
+        "longitude": "-0.412",
+        "elevation (ft)": "80"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.451,
+          52.983
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "SLEAFORD-KESTEVEN-MENTAL-HOSPITAL",
+        "county": "Lincolnshire",
+        "gridref": "TF041440",
+        "latitude": "52.983",
+        "longitude": "-0.451",
+        "elevation (ft)": "100"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.47,
+          53.001
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "SLEAFORD-RAUCEBY-HALL",
+        "county": "Lincolnshire",
+        "gridref": "TF028459",
+        "latitude": "53.001",
+        "longitude": "-0.470",
+        "elevation (ft)": "125"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.257,
+          53.033
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "SOUTH-KYME",
+        "county": "Lincolnshire",
+        "gridref": "TF170498",
+        "latitude": "53.033",
+        "longitude": "-0.257",
+        "elevation (ft)": "9"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.154,
+          52.783
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "SPALDING-GRAMMAR-SCHOOL",
+        "county": "Lincolnshire",
+        "gridref": "TF246222",
+        "latitude": "52.783",
+        "longitude": "-0.154",
+        "elevation (ft)": "14"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.129,
+          52.805
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "SPALDING-MARSH-FARM",
+        "county": "Lincolnshire",
+        "gridref": "TF262247",
+        "latitude": "52.805",
+        "longitude": "-0.129",
+        "elevation (ft)": "0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.202,
+          52.781
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "SPALDING-PODE-HOLE",
+        "county": "Lincolnshire",
+        "gridref": "TF214219",
+        "latitude": "52.781",
+        "longitude": "-0.202",
+        "elevation (ft)": "20"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.157,
+          52.786
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "SPALDING-SURVEYORS-DEPOT",
+        "county": "Lincolnshire",
+        "gridref": "TF244225",
+        "latitude": "52.786",
+        "longitude": "-0.157",
+        "elevation (ft)": "15"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.094,
+          52.804
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "SPALDING-WESTON-ST-MARY",
+        "county": "Lincolnshire",
+        "gridref": "TF286246",
+        "latitude": "52.804",
+        "longitude": "-0.094",
+        "elevation (ft)": "10"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.113,
+          52.748
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "SPALDING-WESTON-ST-MARY",
+        "county": "Lincolnshire",
+        "gridref": "TF275184",
+        "latitude": "52.748",
+        "longitude": "-0.113",
+        "elevation (ft)": "10"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.093,
+          53.174
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "SPILSBY",
+        "county": "Lincolnshire",
+        "gridref": "TF400661",
+        "latitude": "53.174",
+        "longitude": "0.093",
+        "elevation (ft)": "160"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.093,
+          53.172
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "SPILSBY",
+        "county": "Lincolnshire",
+        "gridref": "TF400659",
+        "latitude": "53.172",
+        "longitude": "0.093",
+        "elevation (ft)": "130"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.096,
+          53.176
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "SPILSBY",
+        "county": "Lincolnshire",
+        "gridref": "TF402664",
+        "latitude": "53.176",
+        "longitude": "0.096",
+        "elevation (ft)": "160"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.093,
+          53.171
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "SPILSBY",
+        "county": "Lincolnshire",
+        "gridref": "TF400658",
+        "latitude": "53.171",
+        "longitude": "0.093",
+        "elevation (ft)": "124"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.113,
+          53.219
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "SPILSBY-DALBY-GRANGE",
+        "county": "Lincolnshire",
+        "gridref": "TF412712",
+        "latitude": "53.219",
+        "longitude": "0.113",
+        "elevation (ft)": "250"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.065,
+          53.157
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "SPILSBY-EAST-KEAL",
+        "county": "Lincolnshire",
+        "gridref": "TF382642",
+        "latitude": "53.157",
+        "longitude": "0.065",
+        "elevation (ft)": "181"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.055,
+          53.152
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "SPILSBY-EAST-KEAL",
+        "county": "Lincolnshire",
+        "gridref": "TF375636",
+        "latitude": "53.152",
+        "longitude": "0.055",
+        "elevation (ft)": "180"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.118,
+          53.221
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "SPILSBY-FORDINGTON-WW",
+        "county": "Lincolnshire",
+        "gridref": "TF415714",
+        "latitude": "53.221",
+        "longitude": "0.118",
+        "elevation (ft)": "180"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.011,
+          53.143
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "SPILSBY-HAGNABY-PRIORY",
+        "county": "Lincolnshire",
+        "gridref": "TF346625",
+        "latitude": "53.143",
+        "longitude": "0.011",
+        "elevation (ft)": "47"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.12,
+          53.165
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "SPILSBY-HALTON-HOLGATE",
+        "county": "Lincolnshire",
+        "gridref": "TF418652",
+        "latitude": "53.165",
+        "longitude": "0.120",
+        "elevation (ft)": "89"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.112,
+          53.193
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "SPILSBY-PARTNEY",
+        "county": "Lincolnshire",
+        "gridref": "TF412683",
+        "latitude": "53.193",
+        "longitude": "0.112",
+        "elevation (ft)": "73"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.08,
+          53.213
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "SPILSBY-PARTNEY",
+        "county": "Lincolnshire",
+        "gridref": "TF390705",
+        "latitude": "53.213",
+        "longitude": "0.080",
+        "elevation (ft)": "100"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.055,
+          53.182
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "SPILSBY-RAITHBY-HALL-GDNS",
+        "county": "Lincolnshire",
+        "gridref": "TF374670",
+        "latitude": "53.182",
+        "longitude": "0.055",
+        "elevation (ft)": "200"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.199,
+          53.196
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "SPILSBY-WELTON-LE-MARSH-RECTORY",
+        "county": "Lincolnshire",
+        "gridref": "TF470688",
+        "latitude": "53.196",
+        "longitude": "0.199",
+        "elevation (ft)": "80"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.681,
+          53.397
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "SPRINGTHORPE-RECTORY",
+        "county": "Lincolnshire",
+        "gridref": "SK878897",
+        "latitude": "53.397",
+        "longitude": "-0.681",
+        "elevation (ft)": "75"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.483,
+          52.653
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "STAMFORD-BARN-HILL-HOUSE",
+        "county": "Lincolnshire",
+        "gridref": "TF027072",
+        "latitude": "52.653",
+        "longitude": "-0.483",
+        "elevation (ft)": "116"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.477,
+          52.658
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "STAMFORD-NORTHFIELDS",
+        "county": "Lincolnshire",
+        "gridref": "TF031078",
+        "latitude": "52.658",
+        "longitude": "-0.477",
+        "elevation (ft)": "166"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.477,
+          52.651
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "STAMFORD-ST-GEORGES-SQUARE",
+        "county": "Lincolnshire",
+        "gridref": "TF031070",
+        "latitude": "52.651",
+        "longitude": "-0.477",
+        "elevation (ft)": "88"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.489,
+          52.652
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "STAMFORD-ST-GEORGES-SQUARE",
+        "county": "Lincolnshire",
+        "gridref": "TF023071",
+        "latitude": "52.652",
+        "longitude": "-0.489",
+        "elevation (ft)": "150"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.654,
+          52.871
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "STROXTON-RECTORY",
+        "county": "Lincolnshire",
+        "gridref": "SK907312",
+        "latitude": "52.871",
+        "longitude": "-0.654",
+        "elevation (ft)": "350"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.697,
+          53.031
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "STUBTON-NEWARK",
+        "county": "Lincolnshire",
+        "gridref": "SK875490",
+        "latitude": "53.031",
+        "longitude": "-0.697",
+        "elevation (ft)": "94"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.452,
+          53.272
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "SUDBROOKE-MANOR-LINCOLN",
+        "county": "Lincolnshire",
+        "gridref": "TF033761",
+        "latitude": "53.272",
+        "longitude": "-0.452",
+        "elevation (ft)": "55"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.186,
+          52.757
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "SUTTON-BRIDGE",
+        "county": "Lincolnshire",
+        "gridref": "TF476200",
+        "latitude": "52.757",
+        "longitude": "0.186",
+        "elevation (ft)": "21"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.247,
+          52.774
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "SUTTON-BRIDGE-WINGLAND-GRANGE",
+        "county": "Lincolnshire",
+        "gridref": "TF517220",
+        "latitude": "52.774",
+        "longitude": "0.247",
+        "elevation (ft)": "12"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.028,
+          52.677
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "SUTTON-ST-EDMUNDS-ASHTREE-FARM",
+        "county": "Lincolnshire",
+        "gridref": "TF372107",
+        "latitude": "52.677",
+        "longitude": "0.028",
+        "elevation (ft)": "5"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.04,
+          52.75
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "SUTTON-ST-JAMES-CLIFTONS-BRIDGE",
+        "county": "Lincolnshire",
+        "gridref": "TF378189",
+        "latitude": "52.750",
+        "longitude": "0.040",
+        "elevation (ft)": "8"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.691,
+          53.162
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "SWINDERBY-LING-MOOR",
+        "county": "Lincolnshire",
+        "gridref": "SK876636",
+        "latitude": "53.162",
+        "longitude": "-0.691",
+        "elevation (ft)": "50"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.514,
+          53.054
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "TEMPLE-BRUER",
+        "county": "Lincolnshire",
+        "gridref": "SK997518",
+        "latitude": "53.054",
+        "longitude": "-0.514",
+        "elevation (ft)": "220"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.356,
+          53.646
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "THORNTON-CURTIS",
+        "county": "Lincolnshire",
+        "gridref": "TA088179",
+        "latitude": "53.646",
+        "longitude": "-0.356",
+        "elevation (ft)": "66"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.354,
+          53.645
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "THORNTON-CURTIS-SCHOOL",
+        "county": "Lincolnshire",
+        "gridref": "TA089177",
+        "latitude": "53.645",
+        "longitude": "-0.354",
+        "elevation (ft)": "70"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.746,
+          53.3
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "TORKSEY",
+        "county": "Lincolnshire",
+        "gridref": "SK837788",
+        "latitude": "53.300",
+        "longitude": "-0.746",
+        "elevation (ft)": "18"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.747,
+          53.292
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "TORKSEY",
+        "county": "Lincolnshire",
+        "gridref": "SK836780",
+        "latitude": "53.292",
+        "longitude": "-0.747",
+        "elevation (ft)": "16"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.073,
+          53.16
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "TWENTYLANDS-PUMPING-STATION",
+        "county": "Lincolnshire",
+        "gridref": "TF387646",
+        "latitude": "53.160",
+        "longitude": "0.073",
+        "elevation (ft)": "108"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.172,
+          52.741
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "TYDD-NORTH-LEVEL-SLUICE",
+        "county": "Lincolnshire",
+        "gridref": "TF467181",
+        "latitude": "52.741",
+        "longitude": "0.172",
+        "elevation (ft)": "10"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.271,
+          53.638
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "ULCEBY-KILLINGHOLME",
+        "county": "Lincolnshire",
+        "gridref": "TA144171",
+        "latitude": "53.638",
+        "longitude": "-0.271",
+        "elevation (ft)": "60"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.269,
+          53.54
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "ULCEBY-LIMBER-GRANGE",
+        "county": "Lincolnshire",
+        "gridref": "TA148062",
+        "latitude": "53.540",
+        "longitude": "-0.269",
+        "elevation (ft)": "210"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.358,
+          53.63
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "ULCEBY-WOOTTON-LODGE",
+        "county": "Lincolnshire",
+        "gridref": "TA087161",
+        "latitude": "53.630",
+        "longitude": "-0.358",
+        "elevation (ft)": "100"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.529,
+          53.173
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "WADDINGTON-AIRFIELD",
+        "county": "Lincolnshire",
+        "gridref": "SK984650",
+        "latitude": "53.173",
+        "longitude": "-0.529",
+        "elevation (ft)": "233"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.553,
+          53.302
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "WADDINGTON-AIRFIELD",
+        "county": "Lincolnshire",
+        "gridref": "SK965793",
+        "latitude": "53.302",
+        "longitude": "-0.553",
+        "elevation (ft)": "186"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.232,
+          53.103
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "WAINFLEET-BRIDGE-HOUSE",
+        "county": "Lincolnshire",
+        "gridref": "TF495585",
+        "latitude": "53.103",
+        "longitude": "0.232",
+        "elevation (ft)": "17"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.195,
+          53.122
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "WAINFLEET-THORPE-CULVERT",
+        "county": "Lincolnshire",
+        "gridref": "TF470606",
+        "latitude": "53.122",
+        "longitude": "0.195",
+        "elevation (ft)": "10"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.556,
+          53.079
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "WELBOURN",
+        "county": "Lincolnshire",
+        "gridref": "SK968545",
+        "latitude": "53.079",
+        "longitude": "-0.556",
+        "elevation (ft)": "120"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.558,
+          53.075
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "WELBOURN",
+        "county": "Lincolnshire",
+        "gridref": "SK967541",
+        "latitude": "53.075",
+        "longitude": "-0.558",
+        "elevation (ft)": "120"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.536,
+          53.097
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "WELLINGORE",
+        "county": "Lincolnshire",
+        "gridref": "SK981565",
+        "latitude": "53.097",
+        "longitude": "-0.536",
+        "elevation (ft)": "245"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.531,
+          53.092
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "WELLINGORE",
+        "county": "Lincolnshire",
+        "gridref": "SK985560",
+        "latitude": "53.092",
+        "longitude": "-0.531",
+        "elevation (ft)": "240"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.741,
+          53.549
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "WEST-BUTTERWICK-CROFT-HOUSE",
+        "county": "Lincolnshire",
+        "gridref": "SE835065",
+        "latitude": "53.549",
+        "longitude": "-0.741",
+        "elevation (ft)": "20"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.633,
+          53.675
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "WEST-HALTON-RECTORY",
+        "county": "Lincolnshire",
+        "gridref": "SE904207",
+        "latitude": "53.675",
+        "longitude": "-0.633",
+        "elevation (ft)": "39"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.04,
+          52.783
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "WHAPLODE-IRBY-HALL-FARM",
+        "county": "Lincolnshire",
+        "gridref": "TF323224",
+        "latitude": "52.783",
+        "longitude": "-0.040",
+        "elevation (ft)": "11"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.136,
+          53.065
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "WILDMORE",
+        "county": "Lincolnshire",
+        "gridref": "TF250536",
+        "latitude": "53.065",
+        "longitude": "-0.136",
+        "elevation (ft)": "12"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.688,
+          53.35
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "WILLINGHAM-BY-STOW",
+        "county": "Lincolnshire",
+        "gridref": "SK874845",
+        "latitude": "53.350",
+        "longitude": "-0.688",
+        "elevation (ft)": "70"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.151,
+          53.319
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "WITHERN-PUMPING-STATION",
+        "county": "Lincolnshire",
+        "gridref": "TF434824",
+        "latitude": "53.319",
+        "longitude": "0.151",
+        "elevation (ft)": "32"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.131,
+          53.455
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "WOLD-NEWTON-MANOR",
+        "county": "Lincolnshire",
+        "gridref": "TF242970",
+        "latitude": "53.455",
+        "longitude": "-0.131",
+        "elevation (ft)": "230"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.211,
+          53.154
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "WOODHALL-SPA-MIX",
+        "county": "Lincolnshire",
+        "gridref": "TF197634",
+        "latitude": "53.154",
+        "longitude": "-0.211",
+        "elevation (ft)": "37"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.211,
+          53.153
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "WOODHALL-SPA-MIX",
+        "county": "Lincolnshire",
+        "gridref": "TF197633",
+        "latitude": "53.153",
+        "longitude": "-0.211",
+        "elevation (ft)": "38"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.173,
+          53.138
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "WOODHALL-SPA-WW",
+        "county": "Lincolnshire",
+        "gridref": "TF223617",
+        "latitude": "53.138",
+        "longitude": "-0.173",
+        "elevation (ft)": "45"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.748,
+          52.909
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "WOOLSTHORPE",
+        "county": "Lincolnshire",
+        "gridref": "SK843353",
+        "latitude": "52.909",
+        "longitude": "-0.748",
+        "elevation (ft)": "182"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.755,
+          52.907
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "WOOLSTHORPE-GRANGE-FARM",
+        "county": "Lincolnshire",
+        "gridref": "SK838351",
+        "latitude": "52.907",
+        "longitude": "-0.755",
+        "elevation (ft)": "186"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.122,
+          53.038
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "WRANGLE",
+        "county": "Lincolnshire",
+        "gridref": "TF424511",
+        "latitude": "53.038",
+        "longitude": "0.122",
+        "elevation (ft)": "10"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.949,
+          53.519
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "WROOT-CANDY-FARM-PUMPING-STATION",
+        "county": "Lincolnshire",
+        "gridref": "SE698030",
+        "latitude": "53.519",
+        "longitude": "-0.949",
+        "elevation (ft)": "3"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.898,
+          53.507
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "WROOT-PUMPING-STATION",
+        "county": "Lincolnshire",
+        "gridref": "SE732017",
+        "latitude": "53.507",
+        "longitude": "-0.898",
+        "elevation (ft)": "7"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.005,
+          52.954
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "WYBERTON-SLIPPERY-GOWT-FARM",
+        "county": "Lincolnshire",
+        "gridref": "TF341415",
+        "latitude": "52.954",
+        "longitude": "-0.005",
+        "elevation (ft)": "10"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.023,
+          52.956
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "WYBERTON-TYTTON-HALL",
+        "county": "Lincolnshire",
+        "gridref": "TF329417",
+        "latitude": "52.956",
+        "longitude": "-0.023",
+        "elevation (ft)": "10"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.448,
+          52.738
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "WYTHAM-ON-THE-HILL",
+        "county": "Lincolnshire",
+        "gridref": "TF049167",
+        "latitude": "52.738",
+        "longitude": "-0.448",
+        "elevation (ft)": "167"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.02,
+          53.422
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "YARBOROUGH-THE-RECTORY",
+        "county": "Lincolnshire",
+        "gridref": "TF343936",
+        "latitude": "53.422",
+        "longitude": "0.020",
+        "elevation (ft)": "42"
+      }
+    }
+  ]
+}

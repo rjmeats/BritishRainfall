@@ -1,0 +1,2840 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.98,
+          55.863
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "AIRDRIE-BROOMKNOLL-STREET",
+        "county": "Lanarkshire",
+        "gridref": "NS762651",
+        "latitude": "55.863",
+        "longitude": "-3.980",
+        "elevation (ft)": "402"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.801,
+          55.864
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "AIRDRIE-FORRESTBURN-RES",
+        "county": "Lanarkshire",
+        "gridref": "NS874649",
+        "latitude": "55.864",
+        "longitude": "-3.801",
+        "elevation (ft)": "720"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.879,
+          55.887
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "AIRDRIE-HILLEND",
+        "county": "Lanarkshire",
+        "gridref": "NS826676",
+        "latitude": "55.887",
+        "longitude": "-3.879",
+        "elevation (ft)": "620"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.611,
+          55.764
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "AUCHENGRAY-LANARK",
+        "county": "Lanarkshire",
+        "gridref": "NS9903453478",
+        "latitude": "55.764",
+        "longitude": "-3.611",
+        "elevation (ft)": "770"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.065,
+          55.792
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "AUCHINRAITH-HAMILTON",
+        "county": "Lanarkshire",
+        "gridref": "NS706573",
+        "latitude": "55.792",
+        "longitude": "-4.065",
+        "elevation (ft)": "150"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.111,
+          55.852
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "BAILLIESTON",
+        "county": "Lanarkshire",
+        "gridref": "NS679641",
+        "latitude": "55.852",
+        "longitude": "-4.111",
+        "elevation (ft)": "230"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.526,
+          55.623
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "BIGGAR",
+        "county": "Lanarkshire",
+        "gridref": "NT040377",
+        "latitude": "55.623",
+        "longitude": "-3.526",
+        "elevation (ft)": "691"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.515,
+          55.631
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "BIGGAR-CAMBUS-WALLACE",
+        "county": "Lanarkshire",
+        "gridref": "NT047385",
+        "latitude": "55.631",
+        "longitude": "-3.515",
+        "elevation (ft)": "748"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.581,
+          55.647
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "BIGGAR-SHIELDHILL",
+        "county": "Lanarkshire",
+        "gridref": "NT006404",
+        "latitude": "55.647",
+        "longitude": "-3.581",
+        "elevation (ft)": "850"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.57,
+          55.645
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "BIGGAR-SHIELDHILL",
+        "county": "Lanarkshire",
+        "gridref": "NT013402",
+        "latitude": "55.645",
+        "longitude": "-3.570",
+        "elevation (ft)": "900"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.571,
+          55.644
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "BIGGAR-SHIELDHILL",
+        "county": "Lanarkshire",
+        "gridref": "NT012401",
+        "latitude": "55.644",
+        "longitude": "-3.571",
+        "elevation (ft)": "900"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.658,
+          55.573
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "BIGGAR-WISTON",
+        "county": "Lanarkshire",
+        "gridref": "NS9558632244",
+        "latitude": "55.573",
+        "longitude": "-3.658",
+        "elevation (ft)": "860"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.774,
+          55.647
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "BONNINGTON-WEIR",
+        "county": "Lanarkshire",
+        "gridref": "NS8845940714",
+        "latitude": "55.647",
+        "longitude": "-3.774",
+        "elevation (ft)": "572"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.09,
+          55.81
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "BOTHWELL-CASTLE",
+        "county": "Lanarkshire",
+        "gridref": "NS691594",
+        "latitude": "55.810",
+        "longitude": "-4.090",
+        "elevation (ft)": "146"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.061,
+          55.796
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "BOTHWELL-CASTLE",
+        "county": "Lanarkshire",
+        "gridref": "NS709578",
+        "latitude": "55.796",
+        "longitude": "-4.061",
+        "elevation (ft)": "150"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.053,
+          55.795
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "BOTHWELL-SEWAGE-PURIFICATION-WORKS",
+        "county": "Lanarkshire",
+        "gridref": "NS714576",
+        "latitude": "55.795",
+        "longitude": "-4.053",
+        "elevation (ft)": "112"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.247,
+          55.768
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "BUSBY-THORNTON-HALL",
+        "county": "Lanarkshire",
+        "gridref": "NS5915755019",
+        "latitude": "55.768",
+        "longitude": "-4.247",
+        "elevation (ft)": "441"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.243,
+          55.77
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "BUSBY-THORNTON-HALL",
+        "county": "Lanarkshire",
+        "gridref": "NS5938055204",
+        "latitude": "55.770",
+        "longitude": "-4.243",
+        "elevation (ft)": "453"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.17,
+          55.818
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "CAMBUSLANG-BUSHEY-HILL",
+        "county": "Lanarkshire",
+        "gridref": "NS6412060437",
+        "latitude": "55.818",
+        "longitude": "-4.170",
+        "elevation (ft)": "147"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.171,
+          55.805
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "CAMBUSLANG-GREENLEES-FILTERS",
+        "county": "Lanarkshire",
+        "gridref": "NS640590",
+        "latitude": "55.805",
+        "longitude": "-4.171",
+        "elevation (ft)": "322"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.588,
+          55.487
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "CAMPS-RESERVOIR-NO-THREE",
+        "county": "Lanarkshire",
+        "gridref": "NS9976922610",
+        "latitude": "55.487",
+        "longitude": "-3.588",
+        "elevation (ft)": "969"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.841,
+          55.732
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "CARLUKE",
+        "county": "Lanarkshire",
+        "gridref": "NS8449150293",
+        "latitude": "55.732",
+        "longitude": "-3.841",
+        "elevation (ft)": "640"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.847,
+          55.735
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "CARLUKE",
+        "county": "Lanarkshire",
+        "gridref": "NS841506",
+        "latitude": "55.735",
+        "longitude": "-3.847",
+        "elevation (ft)": "630"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.794,
+          55.729
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "CARLUKE-COLDSTREAM-RES",
+        "county": "Lanarkshire",
+        "gridref": "NS874498",
+        "latitude": "55.729",
+        "longitude": "-3.794",
+        "elevation (ft)": "800"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.823,
+          55.761
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "CARLUKE-GAIR-RES",
+        "county": "Lanarkshire",
+        "gridref": "NS857535",
+        "latitude": "55.761",
+        "longitude": "-3.823",
+        "elevation (ft)": "665"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.888,
+          55.749
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "CARLUKE-LAW-JUNCTION",
+        "county": "Lanarkshire",
+        "gridref": "NS8158452207",
+        "latitude": "55.749",
+        "longitude": "-3.888",
+        "elevation (ft)": "534"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.901,
+          55.732
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "CARLUKE-MAULDSLIE-CASTLE",
+        "county": "Lanarkshire",
+        "gridref": "NS807504",
+        "latitude": "55.732",
+        "longitude": "-3.901",
+        "elevation (ft)": "140"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.744,
+          55.749
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "CARLUKE-SPRINGFIELD-RES",
+        "county": "Lanarkshire",
+        "gridref": "NS906520",
+        "latitude": "55.749",
+        "longitude": "-3.744",
+        "elevation (ft)": "860"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.691,
+          55.632
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "CARMICHAEL-HOUSE",
+        "county": "Lanarkshire",
+        "gridref": "NS9365438951",
+        "latitude": "55.632",
+        "longitude": "-3.691",
+        "elevation (ft)": "786"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.251,
+          55.788
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "CARMUNNOCK-CARNBOOTH",
+        "county": "Lanarkshire",
+        "gridref": "NS58985730",
+        "latitude": "55.788",
+        "longitude": "-4.251",
+        "elevation (ft)": "365"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.222,
+          55.79
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "CARMUNNOCK-WATERWORKS",
+        "county": "Lanarkshire",
+        "gridref": "NS608574",
+        "latitude": "55.790",
+        "longitude": "-4.222",
+        "elevation (ft)": "540"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.631,
+          55.701
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "CARNWATH",
+        "county": "Lanarkshire",
+        "gridref": "NS9759146446",
+        "latitude": "55.701",
+        "longitude": "-3.631",
+        "elevation (ft)": "700"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.624,
+          55.698
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "CARNWATH",
+        "county": "Lanarkshire",
+        "gridref": "NS980462",
+        "latitude": "55.698",
+        "longitude": "-3.624",
+        "elevation (ft)": "706"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.107,
+          55.904
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "CHRYSTON-SCHOOLHOUSE",
+        "county": "Lanarkshire",
+        "gridref": "NS684699",
+        "latitude": "55.904",
+        "longitude": "-4.107",
+        "elevation (ft)": "298"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.755,
+          55.695
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "CLEGHORN",
+        "county": "Lanarkshire",
+        "gridref": "NS898460",
+        "latitude": "55.695",
+        "longitude": "-3.755",
+        "elevation (ft)": "720"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.059,
+          55.855
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "COATBRIDGE",
+        "county": "Lanarkshire",
+        "gridref": "NS712643",
+        "latitude": "55.855",
+        "longitude": "-4.059",
+        "elevation (ft)": "256"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.01,
+          55.865
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "COATBRIDGE-DUNBETH-PUBLIC-PARK",
+        "county": "Lanarkshire",
+        "gridref": "NS743654",
+        "latitude": "55.865",
+        "longitude": "-4.010",
+        "elevation (ft)": "325"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.089,
+          55.876
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "COATBRIDGE-LOCHWOOD",
+        "county": "Lanarkshire",
+        "gridref": "NS6939766749",
+        "latitude": "55.876",
+        "longitude": "-4.089",
+        "elevation (ft)": "290"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.051,
+          55.85
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "COATBRIDGE-WEST-END-PARK",
+        "county": "Lanarkshire",
+        "gridref": "NS717638",
+        "latitude": "55.850",
+        "longitude": "-4.051",
+        "elevation (ft)": "240"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.014,
+          55.85
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "COATBRIDGE-WHIFFLET-PUBLIC-PARK",
+        "county": "Lanarkshire",
+        "gridref": "NS740637",
+        "latitude": "55.850",
+        "longitude": "-4.014",
+        "elevation (ft)": "295"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.047,
+          55.853
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "COATBRIDGE-WOODSIDE-HOUSE",
+        "county": "Lanarkshire",
+        "gridref": "NS7194564066",
+        "latitude": "55.853",
+        "longitude": "-4.047",
+        "elevation (ft)": "275"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.514,
+          55.528
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "COULTER-RES",
+        "county": "Lanarkshire",
+        "gridref": "NT0452927036",
+        "latitude": "55.528",
+        "longitude": "-3.514",
+        "elevation (ft)": "1250"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.529,
+          55.532
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "COULTER-RES",
+        "county": "Lanarkshire",
+        "gridref": "NT036275",
+        "latitude": "55.532",
+        "longitude": "-3.529",
+        "elevation (ft)": "1157"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.527,
+          55.532
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "COULTER-RES",
+        "county": "Lanarkshire",
+        "gridref": "NT037275",
+        "latitude": "55.532",
+        "longitude": "-3.527",
+        "elevation (ft)": "1080"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.589,
+          55.487
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "CRAWFORD-CAMPS-RES",
+        "county": "Lanarkshire",
+        "gridref": "NS997226",
+        "latitude": "55.487",
+        "longitude": "-3.589",
+        "elevation (ft)": "969"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.529,
+          55.484
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "CRAWFORD-CAMPS-RES",
+        "county": "Lanarkshire",
+        "gridref": "NT0349522183",
+        "latitude": "55.484",
+        "longitude": "-3.529",
+        "elevation (ft)": "1705"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.519,
+          55.511
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "CRAWFORD-CAMPS-RES-HILLSHAW",
+        "county": "Lanarkshire",
+        "gridref": "NT042252",
+        "latitude": "55.511",
+        "longitude": "-3.519",
+        "elevation (ft)": "1805"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.563,
+          55.486
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "CRAWFORD-CAMPS-RES-KNEESEND",
+        "county": "Lanarkshire",
+        "gridref": "NT013225",
+        "latitude": "55.486",
+        "longitude": "-3.563",
+        "elevation (ft)": "1205"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.563,
+          55.472
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "CRAWFORD-CAMPS-RES-PEAT-RIG",
+        "county": "Lanarkshire",
+        "gridref": "NT013209",
+        "latitude": "55.472",
+        "longitude": "-3.563",
+        "elevation (ft)": "1485"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.526,
+          55.463
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "CRAWFORD-CAMPS-RES-RISINGCLAW",
+        "county": "Lanarkshire",
+        "gridref": "NT036199",
+        "latitude": "55.463",
+        "longitude": "-3.526",
+        "elevation (ft)": "1610"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.538,
+          55.477
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "CRAWFORD-CAMPS-RES-WHITECAMP",
+        "county": "Lanarkshire",
+        "gridref": "NT029214",
+        "latitude": "55.477",
+        "longitude": "-3.538",
+        "elevation (ft)": "1155"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.632,
+          55.334
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "DAER-CROOKBURN",
+        "county": "Lanarkshire",
+        "gridref": "NS966056",
+        "latitude": "55.334",
+        "longitude": "-3.632",
+        "elevation (ft)": "1124"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.634,
+          55.31
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "DAER-DAERHEAD",
+        "county": "Lanarkshire",
+        "gridref": "NS964030",
+        "latitude": "55.310",
+        "longitude": "-3.634",
+        "elevation (ft)": "1304"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.617,
+          55.366
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "DAER-GARLS-CRAIG",
+        "county": "Lanarkshire",
+        "gridref": "NS976092",
+        "latitude": "55.366",
+        "longitude": "-3.617",
+        "elevation (ft)": "985"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.638,
+          55.372
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "DAER-HITTERIL",
+        "county": "Lanarkshire",
+        "gridref": "NS963099",
+        "latitude": "55.372",
+        "longitude": "-3.638",
+        "elevation (ft)": "950"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.626,
+          55.344
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "DAER-KIRKHOPE",
+        "county": "Lanarkshire",
+        "gridref": "NS9696206744",
+        "latitude": "55.344",
+        "longitude": "-3.626",
+        "elevation (ft)": "1103"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.636,
+          55.333
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "DAER-KIRKHOPE",
+        "county": "Lanarkshire",
+        "gridref": "NS963055",
+        "latitude": "55.333",
+        "longitude": "-3.636",
+        "elevation (ft)": "1170"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.651,
+          55.345
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "DAER-KIRKHOPE-CLEUCH",
+        "county": "Lanarkshire",
+        "gridref": "NS954069",
+        "latitude": "55.345",
+        "longitude": "-3.651",
+        "elevation (ft)": "1360"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.612,
+          55.323
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "DAER-LAMB-SIKE",
+        "county": "Lanarkshire",
+        "gridref": "NS978044",
+        "latitude": "55.323",
+        "longitude": "-3.612",
+        "elevation (ft)": "1310"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.636,
+          55.326
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "DAER-LOWER-CARSEHOPE",
+        "county": "Lanarkshire",
+        "gridref": "NS963048",
+        "latitude": "55.326",
+        "longitude": "-3.636",
+        "elevation (ft)": "1180"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.606,
+          55.364
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "DAER-SWEETSHAW-BURN",
+        "county": "Lanarkshire",
+        "gridref": "NS983090",
+        "latitude": "55.364",
+        "longitude": "-3.606",
+        "elevation (ft)": "1152"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.604,
+          55.364
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "DAER-SWEETSHAWHEAD",
+        "county": "Lanarkshire",
+        "gridref": "NS984089",
+        "latitude": "55.364",
+        "longitude": "-3.604",
+        "elevation (ft)": "1150"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.652,
+          55.302
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "DAER-THICK-CLEUCH",
+        "county": "Lanarkshire",
+        "gridref": "NS952021",
+        "latitude": "55.302",
+        "longitude": "-3.652",
+        "elevation (ft)": "1485"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.673,
+          55.319
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "DAER-UPPER-CARSEHOPE",
+        "county": "Lanarkshire",
+        "gridref": "NS939040",
+        "latitude": "55.319",
+        "longitude": "-3.673",
+        "elevation (ft)": "1600"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.583,
+          55.338
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "DAER-WHITEBURN",
+        "county": "Lanarkshire",
+        "gridref": "NS997060",
+        "latitude": "55.338",
+        "longitude": "-3.583",
+        "elevation (ft)": "1250"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.98,
+          55.772
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "DALZELL-HOUSE",
+        "county": "Lanarkshire",
+        "gridref": "NS759550",
+        "latitude": "55.772",
+        "longitude": "-3.980",
+        "elevation (ft)": "89"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.924,
+          55.535
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "DOUGLAS-MONKSFOOT",
+        "county": "Lanarkshire",
+        "gridref": "NS787285",
+        "latitude": "55.535",
+        "longitude": "-3.924",
+        "elevation (ft)": "780"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.828,
+          55.563
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "DOUGLAS-NEWMAINS",
+        "county": "Lanarkshire",
+        "gridref": "NS848314",
+        "latitude": "55.563",
+        "longitude": "-3.828",
+        "elevation (ft)": "780"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.674,
+          55.394
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "ELVANFOOT-PEDEN-RES",
+        "county": "Lanarkshire",
+        "gridref": "NS9406612434",
+        "latitude": "55.394",
+        "longitude": "-3.674",
+        "elevation (ft)": "1030"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.672,
+          55.393
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "ELVANFOOT-PEDEN-RES",
+        "county": "Lanarkshire",
+        "gridref": "NS942123",
+        "latitude": "55.393",
+        "longitude": "-3.672",
+        "elevation (ft)": "964"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.684,
+          55.373
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "ELVANFOOT-POTRENICK-BURN",
+        "county": "Lanarkshire",
+        "gridref": "NS934101",
+        "latitude": "55.373",
+        "longitude": "-3.684",
+        "elevation (ft)": "1018"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.11,
+          55.877
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "GARTCOSH-GARTLOCH-HOSPITAL",
+        "county": "Lanarkshire",
+        "gridref": "NS681669",
+        "latitude": "55.877",
+        "longitude": "-4.110",
+        "elevation (ft)": "291"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.134,
+          55.636
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "GILMOURTON-AVONDALE",
+        "county": "Lanarkshire",
+        "gridref": "NS6574640114",
+        "latitude": "55.636",
+        "longitude": "-4.134",
+        "elevation (ft)": "600"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.212,
+          55.865
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "GLASGOW-ALEXANDRA-PARK",
+        "county": "Lanarkshire",
+        "gridref": "NS617658",
+        "latitude": "55.865",
+        "longitude": "-4.212",
+        "elevation (ft)": "141"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.316,
+          55.846
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "GLASGOW-BELLAHOUSTON-PARK",
+        "county": "Lanarkshire",
+        "gridref": "NS551638",
+        "latitude": "55.846",
+        "longitude": "-4.316",
+        "elevation (ft)": "80"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.199,
+          55.846
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "GLASGOW-BELVEDERE-HOSPITAL",
+        "county": "Lanarkshire",
+        "gridref": "NS624636",
+        "latitude": "55.846",
+        "longitude": "-4.199",
+        "elevation (ft)": "60"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.291,
+          55.879
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "GLASGOW-BOTANIC-GDNS",
+        "county": "Lanarkshire",
+        "gridref": "NS568675",
+        "latitude": "55.879",
+        "longitude": "-4.291",
+        "elevation (ft)": "131"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.295,
+          55.855
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "GLASGOW-CESSNOCK-PARK",
+        "county": "Lanarkshire",
+        "gridref": "NS564648",
+        "latitude": "55.855",
+        "longitude": "-4.295",
+        "elevation (ft)": "34"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.311,
+          55.847
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "GLASGOW-DUMBRECK",
+        "county": "Lanarkshire",
+        "gridref": "NS5542163951",
+        "latitude": "55.847",
+        "longitude": "-4.311",
+        "elevation (ft)": "76"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.33,
+          55.863
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "GLASGOW-ELDER-PARK",
+        "county": "Lanarkshire",
+        "gridref": "NS543658",
+        "latitude": "55.863",
+        "longitude": "-4.330",
+        "elevation (ft)": "25"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.251,
+          55.86
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "GLASGOW-GEORGE-SQUARE",
+        "county": "Lanarkshire",
+        "gridref": "NS592653",
+        "latitude": "55.860",
+        "longitude": "-4.251",
+        "elevation (ft)": "40"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.24,
+          55.853
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "GLASGOW-GREEN",
+        "county": "Lanarkshire",
+        "gridref": "NS599645",
+        "latitude": "55.853",
+        "longitude": "-4.240",
+        "elevation (ft)": "35"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.284,
+          55.871
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "GLASGOW-KELVINGROVE-PARK",
+        "county": "Lanarkshire",
+        "gridref": "NS572666",
+        "latitude": "55.871",
+        "longitude": "-4.284",
+        "elevation (ft)": "48"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.264,
+          55.805
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "GLASGOW-LINN-PARK",
+        "county": "Lanarkshire",
+        "gridref": "NS582592",
+        "latitude": "55.805",
+        "longitude": "-4.264",
+        "elevation (ft)": "164"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.24,
+          55.859
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "GLASGOW-MACFARLANE-OBSERVATORY",
+        "county": "Lanarkshire",
+        "gridref": "NS59876515",
+        "latitude": "55.859",
+        "longitude": "-4.240",
+        "elevation (ft)": "46"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.284,
+          55.845
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "GLASGOW-MAXWELL-DRIVE",
+        "county": "Lanarkshire",
+        "gridref": "NS5708463725",
+        "latitude": "55.845",
+        "longitude": "-4.284",
+        "elevation (ft)": "60"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.093,
+          55.822
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "GLASGOW-MEADOW-BANK",
+        "county": "Lanarkshire",
+        "gridref": "NS6897260721",
+        "latitude": "55.822",
+        "longitude": "-4.093",
+        "elevation (ft)": "75"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.299,
+          55.878
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "GLASGOW-OBSERVATORY",
+        "county": "Lanarkshire",
+        "gridref": "NS562674",
+        "latitude": "55.878",
+        "longitude": "-4.299",
+        "elevation (ft)": "182"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.286,
+          55.879
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "GLASGOW-OSO",
+        "county": "Lanarkshire",
+        "gridref": "NS5707167404",
+        "latitude": "55.879",
+        "longitude": "-4.286",
+        "elevation (ft)": "166"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.194,
+          55.871
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "GLASGOW-RIDDRIE",
+        "county": "Lanarkshire",
+        "gridref": "NS6279266423",
+        "latitude": "55.871",
+        "longitude": "-4.194",
+        "elevation (ft)": "252"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.275,
+          55.888
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "GLASGOW-RUCHILL-PARK",
+        "county": "Lanarkshire",
+        "gridref": "NS578684",
+        "latitude": "55.888",
+        "longitude": "-4.275",
+        "elevation (ft)": "222"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.231,
+          55.82
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "GLASGOW-RUTHERGLEN",
+        "county": "Lanarkshire",
+        "gridref": "NS603608",
+        "latitude": "55.820",
+        "longitude": "-4.231",
+        "elevation (ft)": "100"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.224,
+          55.89
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "GLASGOW-SPRINGBURN-PARK",
+        "county": "Lanarkshire",
+        "gridref": "NS610685",
+        "latitude": "55.890",
+        "longitude": "-4.224",
+        "elevation (ft)": "351"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.268,
+          55.87
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "GLASGOW-ST-GEORGES-ROAD",
+        "county": "Lanarkshire",
+        "gridref": "NS5815766442",
+        "latitude": "55.870",
+        "longitude": "-4.268",
+        "elevation (ft)": "80"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.298,
+          55.878
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "GLASGOW-THOMSON",
+        "county": "Lanarkshire",
+        "gridref": "NS5632867387",
+        "latitude": "55.878",
+        "longitude": "-4.298",
+        "elevation (ft)": "180"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.175,
+          55.848
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "GLASGOW-TOLLCROSS-PARK",
+        "county": "Lanarkshire",
+        "gridref": "NS639638",
+        "latitude": "55.848",
+        "longitude": "-4.175",
+        "elevation (ft)": "85"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.29,
+          55.872
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "GLASGOW-UNIVERSITY",
+        "county": "Lanarkshire",
+        "gridref": "NS5680366645",
+        "latitude": "55.872",
+        "longitude": "-4.290",
+        "elevation (ft)": "139"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.33,
+          55.877
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "GLASGOW-VICTORIA-PARK",
+        "county": "Lanarkshire",
+        "gridref": "NS543673",
+        "latitude": "55.877",
+        "longitude": "-4.330",
+        "elevation (ft)": "30"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.06,
+          55.776
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "HAMILTON-ARDENCLUTHA",
+        "county": "Lanarkshire",
+        "gridref": "NS709555",
+        "latitude": "55.776",
+        "longitude": "-4.060",
+        "elevation (ft)": "260"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.061,
+          55.767
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "HAMILTON-ARDENCLUTHA",
+        "county": "Lanarkshire",
+        "gridref": "NS708545",
+        "latitude": "55.767",
+        "longitude": "-4.061",
+        "elevation (ft)": "260"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.044,
+          55.767
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "HAMILTON-WELLHALL-ROAD",
+        "county": "Lanarkshire",
+        "gridref": "NS7186354520",
+        "latitude": "55.767",
+        "longitude": "-4.044",
+        "elevation (ft)": "260"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.058,
+          55.776
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "HAMILTON-WELLHALL-ROAD",
+        "county": "Lanarkshire",
+        "gridref": "NS7103855591",
+        "latitude": "55.776",
+        "longitude": "-4.058",
+        "elevation (ft)": "234"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.063,
+          55.779
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "HAMILTON-WELLHALL-ROAD",
+        "county": "Lanarkshire",
+        "gridref": "NS7072455894",
+        "latitude": "55.779",
+        "longitude": "-4.063",
+        "elevation (ft)": "200"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.046,
+          55.783
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "HAMILTON-WOODLEA",
+        "county": "Lanarkshire",
+        "gridref": "NS7178256305",
+        "latitude": "55.783",
+        "longitude": "-4.046",
+        "elevation (ft)": "192"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.083,
+          55.767
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "HAMILTON-WW-TOWNHILL",
+        "county": "Lanarkshire",
+        "gridref": "NS694546",
+        "latitude": "55.767",
+        "longitude": "-4.083",
+        "elevation (ft)": "430"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.617,
+          55.561
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "LAMINGTON",
+        "county": "Lanarkshire",
+        "gridref": "NS981309",
+        "latitude": "55.561",
+        "longitude": "-3.617",
+        "elevation (ft)": "730"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.572,
+          55.543
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "LAMINGTON-COWGILL-RES",
+        "county": "Lanarkshire",
+        "gridref": "NT009288",
+        "latitude": "55.543",
+        "longitude": "-3.572",
+        "elevation (ft)": "1012"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.795,
+          55.681
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "LANARK-BARONALD",
+        "county": "Lanarkshire",
+        "gridref": "NS8721944526",
+        "latitude": "55.681",
+        "longitude": "-3.795",
+        "elevation (ft)": "505"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.901,
+          55.692
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "LANARK-FENCE",
+        "county": "Lanarkshire",
+        "gridref": "NS8061945915",
+        "latitude": "55.692",
+        "longitude": "-3.901",
+        "elevation (ft)": "445"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.778,
+          55.678
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "LANARK-RHYBER-LODGE",
+        "county": "Lanarkshire",
+        "gridref": "NS883442",
+        "latitude": "55.678",
+        "longitude": "-3.778",
+        "elevation (ft)": "700"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.787,
+          55.681
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "LANARK-RIDGE-PARK",
+        "county": "Lanarkshire",
+        "gridref": "NS8771244486",
+        "latitude": "55.681",
+        "longitude": "-3.787",
+        "elevation (ft)": "634"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.808,
+          55.677
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "LANARK-SUNNYSIDE",
+        "county": "Lanarkshire",
+        "gridref": "NS8637244042",
+        "latitude": "55.677",
+        "longitude": "-3.808",
+        "elevation (ft)": "384"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.761,
+          55.418
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "LEADHILLS-LANARK",
+        "county": "Lanarkshire",
+        "gridref": "NS886151",
+        "latitude": "55.418",
+        "longitude": "-3.761",
+        "elevation (ft)": "1280"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.758,
+          55.419
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "LEADHILLS-LANARK",
+        "county": "Lanarkshire",
+        "gridref": "NS888153",
+        "latitude": "55.419",
+        "longitude": "-3.758",
+        "elevation (ft)": "1270"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.88,
+          55.649
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "LESMAHAGOW-AUCHTYFARDLE",
+        "county": "Lanarkshire",
+        "gridref": "NS8181641079",
+        "latitude": "55.649",
+        "longitude": "-3.880",
+        "elevation (ft)": "578"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0,
+          55.789
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "MOTHERWELL-ELVAN-STREET",
+        "county": "Lanarkshire",
+        "gridref": "NS7466556847",
+        "latitude": "55.789",
+        "longitude": "-4.000",
+        "elevation (ft)": "200"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.875,
+          55.795
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "MOTHERWELL-MURDOSTOUN-CASTLE",
+        "county": "Lanarkshire",
+        "gridref": "NS825573",
+        "latitude": "55.795",
+        "longitude": "-3.875",
+        "elevation (ft)": "550"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.912,
+          55.853
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "ROUGHRIGG-RES",
+        "county": "Lanarkshire",
+        "gridref": "NS804639",
+        "latitude": "55.853",
+        "longitude": "-3.912",
+        "elevation (ft)": "664"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.912,
+          55.855
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "ROUGHRIGG-RES",
+        "county": "Lanarkshire",
+        "gridref": "NS804641",
+        "latitude": "55.855",
+        "longitude": "-3.912",
+        "elevation (ft)": "694"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.788,
+          55.832
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "SHOTTS-RES",
+        "county": "Lanarkshire",
+        "gridref": "NS8808461299",
+        "latitude": "55.832",
+        "longitude": "-3.788",
+        "elevation (ft)": "812"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.825,
+          55.676
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "STONEBYRES-WEIR",
+        "county": "Lanarkshire",
+        "gridref": "NS8532144065",
+        "latitude": "55.676",
+        "longitude": "-3.825",
+        "elevation (ft)": "306"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.058,
+          55.707
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "STONEHOUSE-GLASSFORD-FILTERS",
+        "county": "Lanarkshire",
+        "gridref": "NS708479",
+        "latitude": "55.707",
+        "longitude": "-4.058",
+        "elevation (ft)": "775"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.995,
+          55.691
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "STONEHOUSE-SANATORIUM",
+        "county": "Lanarkshire",
+        "gridref": "NS747460",
+        "latitude": "55.691",
+        "longitude": "-3.995",
+        "elevation (ft)": "526"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.134,
+          55.61
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "STRATHAVEN-DUNGAVEL",
+        "county": "Lanarkshire",
+        "gridref": "NS657372",
+        "latitude": "55.610",
+        "longitude": "-4.134",
+        "elevation (ft)": "798"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.989,
+          55.613
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "STRATHAVEN-DUNSIDE-RES",
+        "county": "Lanarkshire",
+        "gridref": "NS748373",
+        "latitude": "55.613",
+        "longitude": "-3.989",
+        "elevation (ft)": "1010"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.989,
+          55.612
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "STRATHAVEN-DUNSIDE-RES",
+        "county": "Lanarkshire",
+        "gridref": "NS748372",
+        "latitude": "55.612",
+        "longitude": "-3.989",
+        "elevation (ft)": "1002"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.055,
+          55.682
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "STRATHAVEN-EAST-OVERTON-HOUSE",
+        "county": "Lanarkshire",
+        "gridref": "NS709451",
+        "latitude": "55.682",
+        "longitude": "-4.055",
+        "elevation (ft)": "700"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.123,
+          55.59
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "STRATHAVEN-GLENGAVEL-RES",
+        "county": "Lanarkshire",
+        "gridref": "NS663350",
+        "latitude": "55.590",
+        "longitude": "-4.123",
+        "elevation (ft)": "837"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.123,
+          55.591
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "STRATHAVEN-GLENGAVEL-RES",
+        "county": "Lanarkshire",
+        "gridref": "NS663351",
+        "latitude": "55.591",
+        "longitude": "-4.123",
+        "elevation (ft)": "839"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.011,
+          55.625
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "STRATHAVEN-KYPE",
+        "county": "Lanarkshire",
+        "gridref": "NS735387",
+        "latitude": "55.625",
+        "longitude": "-4.011",
+        "elevation (ft)": "941"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.595,
+          55.605
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "SYMINGTON-BIRKWOOD",
+        "county": "Lanarkshire",
+        "gridref": "NS9958535698",
+        "latitude": "55.605",
+        "longitude": "-3.595",
+        "elevation (ft)": "725"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.697,
+          55.603
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "TINTO-HILLS-LOCH-LYOCH-RES",
+        "county": "Lanarkshire",
+        "gridref": "NS932357",
+        "latitude": "55.603",
+        "longitude": "-3.697",
+        "elevation (ft)": "917"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.916,
+          55.776
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "WISHAW",
+        "county": "Lanarkshire",
+        "gridref": "NS7992955270",
+        "latitude": "55.776",
+        "longitude": "-3.916",
+        "elevation (ft)": "450"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.917,
+          55.775
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "WISHAW",
+        "county": "Lanarkshire",
+        "gridref": "NS7984555212",
+        "latitude": "55.775",
+        "longitude": "-3.917",
+        "elevation (ft)": "480"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.899,
+          55.775
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "WISHAW-CORONATION-STREET",
+        "county": "Lanarkshire",
+        "gridref": "NS810552",
+        "latitude": "55.775",
+        "longitude": "-3.899",
+        "elevation (ft)": "510"
+      }
+    }
+  ]
+}

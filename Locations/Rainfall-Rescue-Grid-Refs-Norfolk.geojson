@@ -1,0 +1,7355 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.545,
+          52.64
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "ACLE",
+        "county": "Norfolk",
+        "gridref": "TG399105",
+        "latitude": "52.640",
+        "longitude": "1.545",
+        "elevation (ft)": "30"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.547,
+          52.638
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "ACLE",
+        "county": "Norfolk",
+        "gridref": "TG400103",
+        "latitude": "52.638",
+        "longitude": "1.547",
+        "elevation (ft)": "30"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.5,
+          52.626
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "ACLE-LINGWOOD-LODGE",
+        "county": "Norfolk",
+        "gridref": "TG370089",
+        "latitude": "52.626",
+        "longitude": "1.500",
+        "elevation (ft)": "90"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.148,
+          52.515
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "ASHWELLTHORPE-TACOLNESTON-HALL",
+        "county": "Norfolk",
+        "gridref": "TM137955",
+        "latitude": "52.515",
+        "longitude": "1.148",
+        "elevation (ft)": "200"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.888,
+          52.513
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "ATTLEBOROUGH-BRECCLES-HALL",
+        "county": "Norfolk",
+        "gridref": "TL961945",
+        "latitude": "52.513",
+        "longitude": "0.888",
+        "elevation (ft)": "120"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.989,
+          52.449
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "ATTLEBOROUGH-QUIDENHAM-HALL",
+        "county": "Norfolk",
+        "gridref": "TM032876",
+        "latitude": "52.449",
+        "longitude": "0.989",
+        "elevation (ft)": "100"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.254,
+          52.793
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "AYLSHAM-BURGH-ROAD",
+        "county": "Norfolk",
+        "gridref": "TG195267",
+        "latitude": "52.793",
+        "longitude": "1.254",
+        "elevation (ft)": "86"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.251,
+          52.794
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "AYLSHAM-BURGH-ROAD",
+        "county": "Norfolk",
+        "gridref": "TG193268",
+        "latitude": "52.794",
+        "longitude": "1.251",
+        "elevation (ft)": "120"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.308,
+          52.756
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "AYLSHAM-BUXTON",
+        "county": "Norfolk",
+        "gridref": "TG233227",
+        "latitude": "52.756",
+        "longitude": "1.308",
+        "elevation (ft)": "25"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.258,
+          52.799
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "AYLSHAM-MILL-HOUSE",
+        "county": "Norfolk",
+        "gridref": "TG197274",
+        "latitude": "52.799",
+        "longitude": "1.258",
+        "elevation (ft)": "50"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.246,
+          52.797
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "AYLSHAM-THE-MOUNT",
+        "county": "Norfolk",
+        "gridref": "TG1891727110",
+        "latitude": "52.797",
+        "longitude": "1.246",
+        "elevation (ft)": "90"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.249,
+          52.796
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "AYLSHAM-WILDERNESS",
+        "county": "Norfolk",
+        "gridref": "TG1912627019",
+        "latitude": "52.796",
+        "longitude": "1.249",
+        "elevation (ft)": "100"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.262,
+          52.804
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "AYLSHAM-WILDERNESS",
+        "county": "Norfolk",
+        "gridref": "TG200279",
+        "latitude": "52.804",
+        "longitude": "1.262",
+        "elevation (ft)": "80"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.233,
+          52.787
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "AYLSHAM-WOODGATE",
+        "county": "Norfolk",
+        "gridref": "TG181259",
+        "latitude": "52.787",
+        "longitude": "1.233",
+        "elevation (ft)": "100"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.259,
+          52.798
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "AYLSHAM-WOODGATE",
+        "county": "Norfolk",
+        "gridref": "TG198273",
+        "latitude": "52.798",
+        "longitude": "1.259",
+        "elevation (ft)": "50"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.162,
+          52.887
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "BACONSTHORPE-RECTORY",
+        "county": "Norfolk",
+        "gridref": "TG128368",
+        "latitude": "52.887",
+        "longitude": "1.162",
+        "elevation (ft)": "280"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.533,
+          52.515
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "BECCLES-RAVENINGHAM-HALL",
+        "county": "Norfolk",
+        "gridref": "TM398966",
+        "latitude": "52.515",
+        "longitude": "1.533",
+        "elevation (ft)": "60"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.014,
+          52.953
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "BLAKENEY",
+        "county": "Norfolk",
+        "gridref": "TG025438",
+        "latitude": "52.953",
+        "longitude": "1.014",
+        "elevation (ft)": "29"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.232,
+          52.809
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "BLICKLING-RECTORY",
+        "county": "Norfolk",
+        "gridref": "TG179284",
+        "latitude": "52.809",
+        "longitude": "1.232",
+        "elevation (ft)": "90"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.236,
+          52.37
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "BROCKDISH-RECTORY",
+        "county": "Norfolk",
+        "gridref": "TM204796",
+        "latitude": "52.370",
+        "longitude": "1.236",
+        "elevation (ft)": "115"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.708,
+          52.519
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "BUCKENHAM-TOFTS-HALL",
+        "county": "Norfolk",
+        "gridref": "TL838947",
+        "latitude": "52.519",
+        "longitude": "0.708",
+        "elevation (ft)": "75"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.458,
+          52.479
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "BUNGAY-BROOME-RECTORY",
+        "county": "Norfolk",
+        "gridref": "TM349924",
+        "latitude": "52.479",
+        "longitude": "1.458",
+        "elevation (ft)": "50"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.506,
+          52.637
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "BURLINGHAM-HORTICULTURAL-STATION",
+        "county": "Norfolk",
+        "gridref": "TG373101",
+        "latitude": "52.637",
+        "longitude": "1.506",
+        "elevation (ft)": "89"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.727,
+          52.946
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "BURNHAM-MARKET",
+        "county": "Norfolk",
+        "gridref": "TF833422",
+        "latitude": "52.946",
+        "longitude": "0.727",
+        "elevation (ft)": "50"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.728,
+          52.947
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "BURNHAM-MARKET-SCHOOL-HOUSE",
+        "county": "Norfolk",
+        "gridref": "TF834423",
+        "latitude": "52.947",
+        "longitude": "0.728",
+        "elevation (ft)": "50"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.733,
+          52.95
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "BURNHAM-MARKET-SCHOOL-HOUSE",
+        "county": "Norfolk",
+        "gridref": "TF837427",
+        "latitude": "52.950",
+        "longitude": "0.733",
+        "elevation (ft)": "50"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.721,
+          52.944
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "BURNHAM-MARKET-WESTGATE",
+        "county": "Norfolk",
+        "gridref": "TF829420",
+        "latitude": "52.944",
+        "longitude": "0.721",
+        "elevation (ft)": "30"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.683,
+          52.945
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "BURNHAM-OVERY-NORFOLK",
+        "county": "Norfolk",
+        "gridref": "TF803420",
+        "latitude": "52.945",
+        "longitude": "0.683",
+        "elevation (ft)": "102"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.733,
+          52.958
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "BURNHAM-OVERY-NORFOLK",
+        "county": "Norfolk",
+        "gridref": "TF836436",
+        "latitude": "52.958",
+        "longitude": "0.733",
+        "elevation (ft)": "10"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.3,
+          52.753
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "BUXTON-SUNNYMEAD",
+        "county": "Norfolk",
+        "gridref": "TG228224",
+        "latitude": "52.753",
+        "longitude": "1.300",
+        "elevation (ft)": "50"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.012,
+          52.729
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "BYLAUGH-PARK",
+        "county": "Norfolk",
+        "gridref": "TG035189",
+        "latitude": "52.729",
+        "longitude": "1.012",
+        "elevation (ft)": "130"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.699,
+          52.649
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "CAISTER-HALL",
+        "county": "Norfolk",
+        "gridref": "TG503121",
+        "latitude": "52.649",
+        "longitude": "1.699",
+        "elevation (ft)": "15"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.514,
+          52.593
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "CANTLEY",
+        "county": "Norfolk",
+        "gridref": "TG381053",
+        "latitude": "52.593",
+        "longitude": "1.514",
+        "elevation (ft)": "50"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.087,
+          52.607
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "CARLETON-FOREHOE",
+        "county": "Norfolk",
+        "gridref": "TG091055",
+        "latitude": "52.607",
+        "longitude": "1.087",
+        "elevation (ft)": "85"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.883,
+          52.54
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "CASTON-FLAXMOOR",
+        "county": "Norfolk",
+        "gridref": "TL956975",
+        "latitude": "52.540",
+        "longitude": "0.883",
+        "elevation (ft)": "150"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.887,
+          52.542
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "CASTON-RECTORY",
+        "county": "Norfolk",
+        "gridref": "TL959977",
+        "latitude": "52.542",
+        "longitude": "0.887",
+        "elevation (ft)": "148"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.48,
+          52.545
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "CATSHOLM-PUMPING-STATION",
+        "county": "Norfolk",
+        "gridref": "TL683970",
+        "latitude": "52.545",
+        "longitude": "0.480",
+        "elevation (ft)": "5"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.162,
+          52.77
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "CAWSTON-NEW-STREET",
+        "county": "Norfolk",
+        "gridref": "TG134238",
+        "latitude": "52.770",
+        "longitude": "1.162",
+        "elevation (ft)": "135"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.354,
+          52.757
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "CLENCHWARTON",
+        "county": "Norfolk",
+        "gridref": "TF5894120300",
+        "latitude": "52.757",
+        "longitude": "0.354",
+        "elevation (ft)": "10"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.373,
+          52.76
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "CLENCHWARTON",
+        "county": "Norfolk",
+        "gridref": "TF6020120631",
+        "latitude": "52.760",
+        "longitude": "0.373",
+        "elevation (ft)": "10"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.95,
+          52.941
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "COCKTHORPE-OLD-HOUSE",
+        "county": "Norfolk",
+        "gridref": "TF983422",
+        "latitude": "52.941",
+        "longitude": "0.950",
+        "elevation (ft)": "120"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.308,
+          52.817
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "COLBY-SCHOOL",
+        "county": "Norfolk",
+        "gridref": "TG230295",
+        "latitude": "52.817",
+        "longitude": "1.308",
+        "elevation (ft)": "50"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.366,
+          52.726
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "COLTISHALL",
+        "county": "Norfolk",
+        "gridref": "TG274196",
+        "latitude": "52.726",
+        "longitude": "1.366",
+        "elevation (ft)": "30"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.374,
+          52.727
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "COLTISHALL",
+        "county": "Norfolk",
+        "gridref": "TG279197",
+        "latitude": "52.727",
+        "longitude": "1.374",
+        "elevation (ft)": "25"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.349,
+          52.757
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "COLTISHALL-AIRFIELD",
+        "county": "Norfolk",
+        "gridref": "TG261230",
+        "latitude": "52.757",
+        "longitude": "1.349",
+        "elevation (ft)": "55"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.299,
+          52.929
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "CROMER-COLNE-LODGE",
+        "county": "Norfolk",
+        "gridref": "TG218419",
+        "latitude": "52.929",
+        "longitude": "1.299",
+        "elevation (ft)": "90"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.277,
+          52.924
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "CROMER-HOLT-ROAD",
+        "county": "Norfolk",
+        "gridref": "TG204413",
+        "latitude": "52.924",
+        "longitude": "1.277",
+        "elevation (ft)": "175"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.285,
+          52.93
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "CROMER-HOWARDS-HILL",
+        "county": "Norfolk",
+        "gridref": "TG209420",
+        "latitude": "52.930",
+        "longitude": "1.285",
+        "elevation (ft)": "196"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.285,
+          52.931
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "CROMER-HOWARDS-HILL",
+        "county": "Norfolk",
+        "gridref": "TG209421",
+        "latitude": "52.931",
+        "longitude": "1.285",
+        "elevation (ft)": "178"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.316,
+          52.91
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "CROMER-NORTHREPPS",
+        "county": "Norfolk",
+        "gridref": "TG231399",
+        "latitude": "52.910",
+        "longitude": "1.316",
+        "elevation (ft)": "226"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.333,
+          52.914
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "CROMER-THE-WARREN",
+        "county": "Norfolk",
+        "gridref": "TG242404",
+        "latitude": "52.914",
+        "longitude": "1.333",
+        "elevation (ft)": "101"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.577,
+          52.496
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "DENTON-LODGE",
+        "county": "Norfolk",
+        "gridref": "TL7506791826",
+        "latitude": "52.496",
+        "longitude": "0.577",
+        "elevation (ft)": "90"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.581,
+          52.498
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "DENTON-LODGE",
+        "county": "Norfolk",
+        "gridref": "TL753920",
+        "latitude": "52.498",
+        "longitude": "0.581",
+        "elevation (ft)": "120"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.36,
+          52.437
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "DENTON-RECTORY",
+        "county": "Norfolk",
+        "gridref": "TM285874",
+        "latitude": "52.437",
+        "longitude": "1.360",
+        "elevation (ft)": "20"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.381,
+          52.588
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "DENVER",
+        "county": "Norfolk",
+        "gridref": "TF614016",
+        "latitude": "52.588",
+        "longitude": "0.381",
+        "elevation (ft)": "80"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.342,
+          52.584
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "DENVER",
+        "county": "Norfolk",
+        "gridref": "TF588010",
+        "latitude": "52.584",
+        "longitude": "0.342",
+        "elevation (ft)": "10"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.38,
+          52.594
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "DENVER",
+        "county": "Norfolk",
+        "gridref": "TF613022",
+        "latitude": "52.594",
+        "longitude": "0.380",
+        "elevation (ft)": "100"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.033,
+          52.658
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "DEREHAM-MATTISHALL",
+        "county": "Norfolk",
+        "gridref": "TG052110",
+        "latitude": "52.658",
+        "longitude": "1.033",
+        "elevation (ft)": "165"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.513,
+          52.847
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "DERSINGHAM",
+        "county": "Norfolk",
+        "gridref": "TF693307",
+        "latitude": "52.847",
+        "longitude": "0.513",
+        "elevation (ft)": "85"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.11,
+          52.38
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "DISS",
+        "county": "Norfolk",
+        "gridref": "TM118803",
+        "latitude": "52.380",
+        "longitude": "1.110",
+        "elevation (ft)": "96"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.053,
+          52.383
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "DISS-BRESSINGHAM-HALL",
+        "county": "Norfolk",
+        "gridref": "TM079805",
+        "latitude": "52.383",
+        "longitude": "1.053",
+        "elevation (ft)": "100"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.191,
+          52.408
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "DISS-DICKLEBURGH",
+        "county": "Norfolk",
+        "gridref": "TM171836",
+        "latitude": "52.408",
+        "longitude": "1.191",
+        "elevation (ft)": "120"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.106,
+          52.377
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "DISS-EARLY",
+        "county": "Norfolk",
+        "gridref": "TM115800",
+        "latitude": "52.377",
+        "longitude": "1.106",
+        "elevation (ft)": "95"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.074,
+          52.383
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "DISS-ROYDON-HALL",
+        "county": "Norfolk",
+        "gridref": "TM0933080547",
+        "latitude": "52.383",
+        "longitude": "1.074",
+        "elevation (ft)": "150"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.083,
+          52.382
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "DISS-ROYDON-HALL",
+        "county": "Norfolk",
+        "gridref": "TM0995180519",
+        "latitude": "52.382",
+        "longitude": "1.083",
+        "elevation (ft)": "150"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.109,
+          52.377
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "DISS-STEWART",
+        "county": "Norfolk",
+        "gridref": "TM117800",
+        "latitude": "52.377",
+        "longitude": "1.109",
+        "elevation (ft)": "115"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.11,
+          52.378
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "DISS-THE-CEDARS",
+        "county": "Norfolk",
+        "gridref": "TM118801",
+        "latitude": "52.378",
+        "longitude": "1.110",
+        "elevation (ft)": "108"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.445,
+          52.463
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "DITCHINGHAM",
+        "county": "Norfolk",
+        "gridref": "TM341906",
+        "latitude": "52.463",
+        "longitude": "1.445",
+        "elevation (ft)": "25"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.464,
+          52.601
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "DOWNHAM-GRANGE-CRIMPLESHAM",
+        "county": "Norfolk",
+        "gridref": "TF670032",
+        "latitude": "52.601",
+        "longitude": "0.464",
+        "elevation (ft)": "110"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.516,
+          52.567
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "DOWNHAM-GRANGE-CRIMPLESHAM",
+        "county": "Norfolk",
+        "gridref": "TL706995",
+        "latitude": "52.567",
+        "longitude": "0.516",
+        "elevation (ft)": "10"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.366,
+          52.603
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "DOWNHAM-HIGH-STREET",
+        "county": "Norfolk",
+        "gridref": "TF603032",
+        "latitude": "52.603",
+        "longitude": "0.366",
+        "elevation (ft)": "16"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.382,
+          52.603
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "DOWNHAM-HIGH-STREET",
+        "county": "Norfolk",
+        "gridref": "TF614032",
+        "latitude": "52.603",
+        "longitude": "0.382",
+        "elevation (ft)": "112"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.407,
+          52.604
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "DOWNHAM-MARKET-BEXWELL",
+        "county": "Norfolk",
+        "gridref": "TF631034",
+        "latitude": "52.604",
+        "longitude": "0.407",
+        "elevation (ft)": "112"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.37,
+          52.603
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "DOWNHAM-MARKET-DIAL-HOUSE",
+        "county": "Norfolk",
+        "gridref": "TF606031",
+        "latitude": "52.603",
+        "longitude": "0.370",
+        "elevation (ft)": "50"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.466,
+          52.624
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "DOWNHAM-MARKET-STRADSETT",
+        "county": "Norfolk",
+        "gridref": "TF670058",
+        "latitude": "52.624",
+        "longitude": "0.466",
+        "elevation (ft)": "55"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.225,
+          52.679
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "DRAYTON",
+        "county": "Norfolk",
+        "gridref": "TG180139",
+        "latitude": "52.679",
+        "longitude": "1.225",
+        "elevation (ft)": "65"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.227,
+          52.677
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "DRAYTON",
+        "county": "Norfolk",
+        "gridref": "TG182137",
+        "latitude": "52.677",
+        "longitude": "1.227",
+        "elevation (ft)": "60"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.689,
+          52.819
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "EAST-AND-WEST-RUDHAM",
+        "county": "Norfolk",
+        "gridref": "TF813280",
+        "latitude": "52.819",
+        "longitude": "0.689",
+        "elevation (ft)": "180"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.711,
+          52.82
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "EAST-AND-WEST-RUDHAM",
+        "county": "Norfolk",
+        "gridref": "TF828282",
+        "latitude": "52.820",
+        "longitude": "0.711",
+        "elevation (ft)": "150"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.881,
+          52.739
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "EAST-BILNEY-HALL",
+        "county": "Norfolk",
+        "gridref": "TF946196",
+        "latitude": "52.739",
+        "longitude": "0.881",
+        "elevation (ft)": "155"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.948,
+          52.68
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "EAST-DEREHAM-THE-LABORATORY",
+        "county": "Norfolk",
+        "gridref": "TF994132",
+        "latitude": "52.680",
+        "longitude": "0.948",
+        "elevation (ft)": "200"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.937,
+          52.68
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "EAST-DERHAM-MIX",
+        "county": "Norfolk",
+        "gridref": "TF986131",
+        "latitude": "52.680",
+        "longitude": "0.937",
+        "elevation (ft)": "160"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.938,
+          52.683
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "EAST-DERHAM-MIX",
+        "county": "Norfolk",
+        "gridref": "TF986135",
+        "latitude": "52.683",
+        "longitude": "0.938",
+        "elevation (ft)": "161"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.502,
+          52.718
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "EAST-WINCH-HOLLAND-HOUSE",
+        "county": "Norfolk",
+        "gridref": "TF691163",
+        "latitude": "52.718",
+        "longitude": "0.502",
+        "elevation (ft)": "55"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.419,
+          52.828
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "EDINGTHORPE-THE-WARREN",
+        "county": "Norfolk",
+        "gridref": "TG304311",
+        "latitude": "52.828",
+        "longitude": "1.419",
+        "elevation (ft)": "100"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.834,
+          52.899
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "EGMERE",
+        "county": "Norfolk",
+        "gridref": "TF907373",
+        "latitude": "52.899",
+        "longitude": "0.834",
+        "elevation (ft)": "150"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.479,
+          52.473
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "ELLINGHAM-BECCLES",
+        "county": "Norfolk",
+        "gridref": "TM3639591830",
+        "latitude": "52.473",
+        "longitude": "1.479",
+        "elevation (ft)": "15"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.19,
+          52.64
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "EMNETH",
+        "county": "Norfolk",
+        "gridref": "TF483070",
+        "latitude": "52.640",
+        "longitude": "0.190",
+        "elevation (ft)": "6"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.214,
+          52.838
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "ERPINGHAM-WOLTERTON-PARK",
+        "county": "Norfolk",
+        "gridref": "TG166316",
+        "latitude": "52.838",
+        "longitude": "1.214",
+        "elevation (ft)": "115"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.854,
+          52.803
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "FAKENHAM-COLKIRK",
+        "county": "Norfolk",
+        "gridref": "TF925266",
+        "latitude": "52.803",
+        "longitude": "0.854",
+        "elevation (ft)": "210"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.8,
+          52.858
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "FAKENHAM-CRANMER-HALL",
+        "county": "Norfolk",
+        "gridref": "TF886326",
+        "latitude": "52.858",
+        "longitude": "0.800",
+        "elevation (ft)": "160"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.887,
+          52.827
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "FAKENHAM-PENSTHORPE",
+        "county": "Norfolk",
+        "gridref": "TF946294",
+        "latitude": "52.827",
+        "longitude": "0.887",
+        "elevation (ft)": "153"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.844,
+          52.832
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "FAKENHAM-WELLS-ROAD",
+        "county": "Norfolk",
+        "gridref": "TF917298",
+        "latitude": "52.832",
+        "longitude": "0.844",
+        "elevation (ft)": "120"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.206,
+          52.721
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "FELTHORPE",
+        "county": "Norfolk",
+        "gridref": "TG165185",
+        "latitude": "52.721",
+        "longitude": "1.206",
+        "elevation (ft)": "75"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.983,
+          52.913
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "FIELD-DALLING",
+        "county": "Norfolk",
+        "gridref": "TG007392",
+        "latitude": "52.913",
+        "longitude": "0.983",
+        "elevation (ft)": "158"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.101,
+          52.911
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "FIELD-DALLING",
+        "county": "Norfolk",
+        "gridref": "TG086393",
+        "latitude": "52.911",
+        "longitude": "1.101",
+        "elevation (ft)": "211"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.65,
+          52.662
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "FILBY-NORWICH",
+        "county": "Norfolk",
+        "gridref": "TG469134",
+        "latitude": "52.662",
+        "longitude": "1.650",
+        "elevation (ft)": "11"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.49,
+          52.627
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "FINCHAM-DOWNHAM-MARKET",
+        "county": "Norfolk",
+        "gridref": "TF686062",
+        "latitude": "52.627",
+        "longitude": "0.490",
+        "elevation (ft)": "50"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.958,
+          52.839
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "FULMODESTON-SCHOOL",
+        "county": "Norfolk",
+        "gridref": "TF993309",
+        "latitude": "52.839",
+        "longitude": "0.958",
+        "elevation (ft)": "214"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.946,
+          52.39
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "GARBOLDISHAM",
+        "county": "Norfolk",
+        "gridref": "TM005809",
+        "latitude": "52.390",
+        "longitude": "0.946",
+        "elevation (ft)": "100"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.95,
+          52.405
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "GARBOLDISHAM",
+        "county": "Norfolk",
+        "gridref": "TM007826",
+        "latitude": "52.405",
+        "longitude": "0.950",
+        "elevation (ft)": "100"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.56,
+          52.745
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "GAYTON",
+        "county": "Norfolk",
+        "gridref": "TF729194",
+        "latitude": "52.745",
+        "longitude": "0.560",
+        "elevation (ft)": "100"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.564,
+          52.744
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "GAYTON",
+        "county": "Norfolk",
+        "gridref": "TF732194",
+        "latitude": "52.744",
+        "longitude": "0.564",
+        "elevation (ft)": "66"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.568,
+          52.756
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "GAYTON-WW",
+        "county": "Norfolk",
+        "gridref": "TF734207",
+        "latitude": "52.756",
+        "longitude": "0.568",
+        "elevation (ft)": "131"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.516,
+          52.472
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "GELDESTON",
+        "county": "Norfolk",
+        "gridref": "TM389918",
+        "latitude": "52.472",
+        "longitude": "1.516",
+        "elevation (ft)": "10"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.515,
+          52.472
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "GELDESTON",
+        "county": "Norfolk",
+        "gridref": "TM388918",
+        "latitude": "52.472",
+        "longitude": "1.515",
+        "elevation (ft)": "38"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.524,
+          52.475
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "GELDESTON",
+        "county": "Norfolk",
+        "gridref": "TM394922",
+        "latitude": "52.475",
+        "longitude": "1.524",
+        "elevation (ft)": "61"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.535,
+          52.469
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "GELDESTON",
+        "county": "Norfolk",
+        "gridref": "TM402915",
+        "latitude": "52.469",
+        "longitude": "1.535",
+        "elevation (ft)": "45"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.738,
+          52.572
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "GORLESTON-COASTGUARD-STATION",
+        "county": "Norfolk",
+        "gridref": "TG534037",
+        "latitude": "52.572",
+        "longitude": "1.738",
+        "elevation (ft)": "5"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.728,
+          52.582
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "GREAT-CRESSINGHAM",
+        "county": "Norfolk",
+        "gridref": "TF849017",
+        "latitude": "52.582",
+        "longitude": "0.728",
+        "elevation (ft)": "90"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.769,
+          52.698
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "GREAT-DUNHAM-RECTORY",
+        "county": "Norfolk",
+        "gridref": "TF872147",
+        "latitude": "52.698",
+        "longitude": "0.769",
+        "elevation (ft)": "250"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.803,
+          52.685
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "GREAT-FRANSHAM",
+        "county": "Norfolk",
+        "gridref": "TF8954613333",
+        "latitude": "52.685",
+        "longitude": "0.803",
+        "elevation (ft)": "230"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.663,
+          52.774
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "GREAT-MASSINGHAM",
+        "county": "Norfolk",
+        "gridref": "TF7976422931",
+        "latitude": "52.774",
+        "longitude": "0.663",
+        "elevation (ft)": "245"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.655,
+          52.781
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "GREAT-MASSINGHAM",
+        "county": "Norfolk",
+        "gridref": "TF7913123710",
+        "latitude": "52.781",
+        "longitude": "0.655",
+        "elevation (ft)": "269"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.663,
+          52.778
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "GREAT-MASSINGHAM",
+        "county": "Norfolk",
+        "gridref": "TF797234",
+        "latitude": "52.778",
+        "longitude": "0.663",
+        "elevation (ft)": "250"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.732,
+          52.616
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "GREAT-YARMOUTH",
+        "county": "Norfolk",
+        "gridref": "TG527086",
+        "latitude": "52.616",
+        "longitude": "1.732",
+        "elevation (ft)": "10"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.551,
+          52.766
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "GRIMSTON-SCHOOL-HOUSE",
+        "county": "Norfolk",
+        "gridref": "TF7220221786",
+        "latitude": "52.766",
+        "longitude": "0.551",
+        "elevation (ft)": "62"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.303,
+          52.711
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "HAINFORD-GROVE-COTTAGE",
+        "county": "Norfolk",
+        "gridref": "TG232177",
+        "latitude": "52.711",
+        "longitude": "1.303",
+        "elevation (ft)": "50"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.289,
+          52.856
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "HANWORTH-RECTORY",
+        "county": "Norfolk",
+        "gridref": "TG215338",
+        "latitude": "52.856",
+        "longitude": "1.289",
+        "elevation (ft)": "95"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.206,
+          52.524
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "HAPTON",
+        "county": "Norfolk",
+        "gridref": "TM176966",
+        "latitude": "52.524",
+        "longitude": "1.206",
+        "elevation (ft)": "120"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.019,
+          52.593
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "HARDINGHAM",
+        "county": "Norfolk",
+        "gridref": "TG0460603707",
+        "latitude": "52.593",
+        "longitude": "1.019",
+        "elevation (ft)": "170"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.975,
+          52.488
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "HARGHAM-HALL",
+        "county": "Norfolk",
+        "gridref": "TM021919",
+        "latitude": "52.488",
+        "longitude": "0.975",
+        "elevation (ft)": "100"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.294,
+          52.412
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "HARLESTON-STARSTON",
+        "county": "Norfolk",
+        "gridref": "TM241844",
+        "latitude": "52.412",
+        "longitude": "1.294",
+        "elevation (ft)": "120"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.188,
+          52.748
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "HAVERLAND",
+        "county": "Norfolk",
+        "gridref": "TG152214",
+        "latitude": "52.748",
+        "longitude": "1.188",
+        "elevation (ft)": "140"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.401,
+          52.485
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "HEDENHAM-RECTORY",
+        "county": "Norfolk",
+        "gridref": "TM310929",
+        "latitude": "52.485",
+        "longitude": "1.401",
+        "elevation (ft)": "90"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.687,
+          52.696
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "HEMSBY-SCHOOL",
+        "county": "Norfolk",
+        "gridref": "TG492173",
+        "latitude": "52.696",
+        "longitude": "1.687",
+        "elevation (ft)": "25"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.274,
+          52.755
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "HEVINGHAM-RIPPON-HALL",
+        "county": "Norfolk",
+        "gridref": "TG210225",
+        "latitude": "52.755",
+        "longitude": "1.274",
+        "elevation (ft)": "90"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.566,
+          52.755
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "HICKLING-OLD-RECTORY",
+        "county": "Norfolk",
+        "gridref": "TG407235",
+        "latitude": "52.755",
+        "longitude": "1.566",
+        "elevation (ft)": "10"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.694,
+          52.568
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "HILBOROUGH-HALL-GARDENS",
+        "county": "Norfolk",
+        "gridref": "TF827001",
+        "latitude": "52.568",
+        "longitude": "0.694",
+        "elevation (ft)": "95"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.553,
+          52.799
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "HILLINGTON",
+        "county": "Norfolk",
+        "gridref": "TF722254",
+        "latitude": "52.799",
+        "longitude": "0.553",
+        "elevation (ft)": "89"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.556,
+          52.804
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "HILLINGTON",
+        "county": "Norfolk",
+        "gridref": "TF724260",
+        "latitude": "52.804",
+        "longitude": "0.556",
+        "elevation (ft)": "93"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.551,
+          52.799
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "HILLINGTON-SCHOOL",
+        "county": "Norfolk",
+        "gridref": "TF721254",
+        "latitude": "52.799",
+        "longitude": "0.551",
+        "elevation (ft)": "78"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.023,
+          52.823
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "HINDOLVESTON-SCHOOL-HOUSE",
+        "county": "Norfolk",
+        "gridref": "TG038293",
+        "latitude": "52.823",
+        "longitude": "1.023",
+        "elevation (ft)": "212"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.005,
+          52.821
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "HINDOLVESTON-SCHOOL-HOUSE",
+        "county": "Norfolk",
+        "gridref": "TG026291",
+        "latitude": "52.821",
+        "longitude": "1.005",
+        "elevation (ft)": "190"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.952,
+          52.894
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "HINDRINGHAM",
+        "county": "Norfolk",
+        "gridref": "TF987370",
+        "latitude": "52.894",
+        "longitude": "0.952",
+        "elevation (ft)": "185"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.939,
+          52.89
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "HINDRINGHAM",
+        "county": "Norfolk",
+        "gridref": "TF978365",
+        "latitude": "52.890",
+        "longitude": "0.939",
+        "elevation (ft)": "150"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.983,
+          52.58
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "HINGHAM",
+        "county": "Norfolk",
+        "gridref": "TG022022",
+        "latitude": "52.580",
+        "longitude": "0.983",
+        "elevation (ft)": "195"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.976,
+          52.581
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "HINGHAM-HALL",
+        "county": "Norfolk",
+        "gridref": "TG017023",
+        "latitude": "52.581",
+        "longitude": "0.976",
+        "elevation (ft)": "190"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.957,
+          52.61
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "HINGHAM-SOUTHBURGH",
+        "county": "Norfolk",
+        "gridref": "TG003055",
+        "latitude": "52.610",
+        "longitude": "0.957",
+        "elevation (ft)": "190"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.069,
+          52.677
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "HOCKERING",
+        "county": "Norfolk",
+        "gridref": "TG076132",
+        "latitude": "52.677",
+        "longitude": "1.069",
+        "elevation (ft)": "145"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.803,
+          52.95
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "HOLKHAM-HALL-NORFOLK",
+        "county": "Norfolk",
+        "gridref": "TF884429",
+        "latitude": "52.950",
+        "longitude": "0.803",
+        "elevation (ft)": "39"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.797,
+          52.924
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "HOLKHAM-LONGLANDS",
+        "county": "Norfolk",
+        "gridref": "TF881399",
+        "latitude": "52.924",
+        "longitude": "0.797",
+        "elevation (ft)": "200"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.531,
+          52.961
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "HOLME-NEXT-SEA-HOLME-HOUSE",
+        "county": "Norfolk",
+        "gridref": "TF701434",
+        "latitude": "52.961",
+        "longitude": "0.531",
+        "elevation (ft)": "10"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.029,
+          52.881
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "HOLT-BRINTON-GRANGE",
+        "county": "Norfolk",
+        "gridref": "TG039358",
+        "latitude": "52.881",
+        "longitude": "1.029",
+        "elevation (ft)": "140"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.062,
+          52.908
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "HOLT-LETHERINGSETT-HALL",
+        "county": "Norfolk",
+        "gridref": "TG060389",
+        "latitude": "52.908",
+        "longitude": "1.062",
+        "elevation (ft)": "50"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.091,
+          52.898
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "HOLT-LODGE",
+        "county": "Norfolk",
+        "gridref": "TG0803537898",
+        "latitude": "52.898",
+        "longitude": "1.091",
+        "elevation (ft)": "210"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.088,
+          52.905
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "HOLT-LODGE",
+        "county": "Norfolk",
+        "gridref": "TG0775938671",
+        "latitude": "52.905",
+        "longitude": "1.088",
+        "elevation (ft)": "210"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.121,
+          52.667
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "HONINGHAM-HALL",
+        "county": "Norfolk",
+        "gridref": "TG111122",
+        "latitude": "52.667",
+        "longitude": "1.121",
+        "elevation (ft)": "110"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.488,
+          52.694
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "HORNING-PUMPING-STATION",
+        "county": "Norfolk",
+        "gridref": "TG358164",
+        "latitude": "52.694",
+        "longitude": "1.488",
+        "elevation (ft)": "9"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.282,
+          52.67
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "HORSHAM-ST-FAITH-AIRFIELD",
+        "county": "Norfolk",
+        "gridref": "TG220131",
+        "latitude": "52.670",
+        "longitude": "1.282",
+        "elevation (ft)": "99"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.515,
+          52.947
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "HUNSTANTON",
+        "county": "Norfolk",
+        "gridref": "TF690418",
+        "latitude": "52.947",
+        "longitude": "0.515",
+        "elevation (ft)": "60"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.499,
+          52.953
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "HUNSTANTON-LE-STRANGE-ARMS-HOTEL",
+        "county": "Norfolk",
+        "gridref": "TF680424",
+        "latitude": "52.953",
+        "longitude": "0.499",
+        "elevation (ft)": "20"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.992,
+          52.432
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "KENNINGHALL-COUNCIL-SCHOOL",
+        "county": "Norfolk",
+        "gridref": "TM035858",
+        "latitude": "52.432",
+        "longitude": "0.992",
+        "elevation (ft)": "160"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.257,
+          52.594
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "KESWICK-OLD-HALL",
+        "county": "Norfolk",
+        "gridref": "TG207046",
+        "latitude": "52.594",
+        "longitude": "1.257",
+        "elevation (ft)": "90"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.193,
+          52.576
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "KETTERINGHAM-PARK",
+        "county": "Norfolk",
+        "gridref": "TG1645502418",
+        "latitude": "52.576",
+        "longitude": "1.193",
+        "elevation (ft)": "135"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.424,
+          52.759
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "KINGS-LYNN-BURLINGHAM",
+        "county": "Norfolk",
+        "gridref": "TF637207",
+        "latitude": "52.759",
+        "longitude": "0.424",
+        "elevation (ft)": "25"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.407,
+          52.757
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "KINGS-LYNN-BURLINGHAM",
+        "county": "Norfolk",
+        "gridref": "TF625204",
+        "latitude": "52.757",
+        "longitude": "0.407",
+        "elevation (ft)": "26"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.395,
+          52.754
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "KINGS-LYNN-BURLINGHAM",
+        "county": "Norfolk",
+        "gridref": "TF617201",
+        "latitude": "52.754",
+        "longitude": "0.395",
+        "elevation (ft)": "63"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.388,
+          52.739
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "KINGS-LYNN-FREEBRIDGE",
+        "county": "Norfolk",
+        "gridref": "TF613184",
+        "latitude": "52.739",
+        "longitude": "0.388",
+        "elevation (ft)": "19"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.4,
+          52.743
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "KINGS-LYNN-MANURE-WORKS",
+        "county": "Norfolk",
+        "gridref": "TF621188",
+        "latitude": "52.743",
+        "longitude": "0.400",
+        "elevation (ft)": "0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.433,
+          52.719
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "KINGS-LYNN-NORTH-RUNCTON-LODGE",
+        "county": "Norfolk",
+        "gridref": "TF644163",
+        "latitude": "52.719",
+        "longitude": "0.433",
+        "elevation (ft)": "50"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.478,
+          52.651
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "KINGS-LYNN-SHOULDHAM",
+        "county": "Norfolk",
+        "gridref": "TF677088",
+        "latitude": "52.651",
+        "longitude": "0.478",
+        "elevation (ft)": "45"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.484,
+          52.651
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "KINGS-LYNN-SHOULDHAM",
+        "county": "Norfolk",
+        "gridref": "TF681088",
+        "latitude": "52.651",
+        "longitude": "0.484",
+        "elevation (ft)": "75"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.408,
+          52.756
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "KINGS-LYNN-TECHNICAL-COLLEGE",
+        "county": "Norfolk",
+        "gridref": "TF626203",
+        "latitude": "52.756",
+        "longitude": "0.408",
+        "elevation (ft)": "14"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.513,
+          52.702
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "KINGS-LYNN-WEST-BILNEY-HALL",
+        "county": "Norfolk",
+        "gridref": "TF699146",
+        "latitude": "52.702",
+        "longitude": "0.513",
+        "elevation (ft)": "50"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.435,
+          52.675
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "KINGS-LYNN-WORMEGAY-SCHOOL",
+        "county": "Norfolk",
+        "gridref": "TF647114",
+        "latitude": "52.675",
+        "longitude": "0.435",
+        "elevation (ft)": "36"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.986,
+          52.931
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "LANGHAM",
+        "county": "Norfolk",
+        "gridref": "TG008412",
+        "latitude": "52.931",
+        "longitude": "0.986",
+        "elevation (ft)": "134"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.654,
+          52.785
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "LITTLE-MASSINGHAM-RECTORY",
+        "county": "Norfolk",
+        "gridref": "TF791241",
+        "latitude": "52.785",
+        "longitude": "0.654",
+        "elevation (ft)": "278"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.397,
+          52.572
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "LODDON-BERGH-APTON",
+        "county": "Norfolk",
+        "gridref": "TG303026",
+        "latitude": "52.572",
+        "longitude": "1.397",
+        "elevation (ft)": "115"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.402,
+          52.555
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "LODDON-BERGH-APTON",
+        "county": "Norfolk",
+        "gridref": "TG307007",
+        "latitude": "52.555",
+        "longitude": "1.402",
+        "elevation (ft)": "110"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.471,
+          52.54
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "LODDON-CHEDGRAVE-MANOR",
+        "county": "Norfolk",
+        "gridref": "TM355992",
+        "latitude": "52.540",
+        "longitude": "1.471",
+        "elevation (ft)": "17"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.273,
+          52.501
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "LONG-STRATTON-FRITTON-RECTORY",
+        "county": "Norfolk",
+        "gridref": "TM2223294307",
+        "latitude": "52.501",
+        "longitude": "1.273",
+        "elevation (ft)": "100"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.287,
+          52.496
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "LONG-STRATTON-FRITTON-RECTORY",
+        "county": "Norfolk",
+        "gridref": "TM2323593753",
+        "latitude": "52.496",
+        "longitude": "1.287",
+        "elevation (ft)": "120"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.28,
+          52.49
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "LONG-STRATTON-FRITTON-RECTORY",
+        "county": "Norfolk",
+        "gridref": "TM2277393065",
+        "latitude": "52.490",
+        "longitude": "1.280",
+        "elevation (ft)": "120"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.186,
+          52.47
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "LONG-STRATTON-GREAT-MOULTON-RECTORY",
+        "county": "Norfolk",
+        "gridref": "TM165906",
+        "latitude": "52.470",
+        "longitude": "1.186",
+        "elevation (ft)": "150"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.569,
+          52.648
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "MARHAM-AIRFIELD",
+        "county": "Norfolk",
+        "gridref": "TF739087",
+        "latitude": "52.648",
+        "longitude": "0.569",
+        "elevation (ft)": "76"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.538,
+          52.667
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "MARHAM-PUMPING-STATION",
+        "county": "Norfolk",
+        "gridref": "TF717107",
+        "latitude": "52.667",
+        "longitude": "0.538",
+        "elevation (ft)": "20"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.013,
+          52.847
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "MELTON-CONSTABLE-PARK",
+        "county": "Norfolk",
+        "gridref": "TG0300031958",
+        "latitude": "52.847",
+        "longitude": "1.013",
+        "elevation (ft)": "287"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.548,
+          52.522
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "METHWOLD-DUCHY-OF-LANCASTER-SCHOOL",
+        "county": "Norfolk",
+        "gridref": "TL730946",
+        "latitude": "52.522",
+        "longitude": "0.548",
+        "elevation (ft)": "40"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.458,
+          52.716
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "MIDDLETON-HALL-NORFOLK",
+        "county": "Norfolk",
+        "gridref": "TF6615915958",
+        "latitude": "52.716",
+        "longitude": "0.458",
+        "elevation (ft)": "114"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.456,
+          52.719
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "MIDDLETON-HALL-NORFOLK",
+        "county": "Norfolk",
+        "gridref": "TF660163",
+        "latitude": "52.719",
+        "longitude": "0.456",
+        "elevation (ft)": "110"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.238,
+          52.559
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "MULBARTON",
+        "county": "Norfolk",
+        "gridref": "TG196006",
+        "latitude": "52.559",
+        "longitude": "1.238",
+        "elevation (ft)": "150"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.413,
+          52.888
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "MUNDESLEY-INGLESIDE",
+        "county": "Norfolk",
+        "gridref": "TG297377",
+        "latitude": "52.888",
+        "longitude": "1.413",
+        "elevation (ft)": "150"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.44,
+          52.875
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "MUNDESLEY-ON-SEA",
+        "county": "Norfolk",
+        "gridref": "TG316364",
+        "latitude": "52.875",
+        "longitude": "1.440",
+        "elevation (ft)": "65"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.439,
+          52.874
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "MUNDESLEY-RAXAWA-HOUSE",
+        "county": "Norfolk",
+        "gridref": "TG315363",
+        "latitude": "52.874",
+        "longitude": "1.439",
+        "elevation (ft)": "60"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.585,
+          52.686
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "NARBOROUGH-HALL",
+        "county": "Norfolk",
+        "gridref": "TF748130",
+        "latitude": "52.686",
+        "longitude": "0.585",
+        "elevation (ft)": "45"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.612,
+          52.694
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "NARBOROUGH-NARFORD-HALL",
+        "county": "Norfolk",
+        "gridref": "TF766139",
+        "latitude": "52.694",
+        "longitude": "0.612",
+        "elevation (ft)": "50"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.992,
+          52.406
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "NORTH-LOPHAM",
+        "county": "Norfolk",
+        "gridref": "TM036829",
+        "latitude": "52.406",
+        "longitude": "0.992",
+        "elevation (ft)": "165"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.447,
+          52.781
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "NORTH-WALSHAM-DILHAM",
+        "county": "Norfolk",
+        "gridref": "TG326259",
+        "latitude": "52.781",
+        "longitude": "1.447",
+        "elevation (ft)": "45"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.311,
+          52.859
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "NORTH-WALSHAM-GUNTON-PARK",
+        "county": "Norfolk",
+        "gridref": "TG2298534154",
+        "latitude": "52.859",
+        "longitude": "1.311",
+        "elevation (ft)": "105"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.413,
+          52.856
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "NORTH-WALSHAM-KNAPTON",
+        "county": "Norfolk",
+        "gridref": "TG299342",
+        "latitude": "52.856",
+        "longitude": "1.413",
+        "elevation (ft)": "128"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.483,
+          52.804
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "NORTH-WALSHAM-THE-PASTON-SCHOOL",
+        "county": "Norfolk",
+        "gridref": "TG348286",
+        "latitude": "52.804",
+        "longitude": "1.483",
+        "elevation (ft)": "20"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.387,
+          52.823
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "NORTH-WALSHAM-THE-PASTON-SCHOOL",
+        "county": "Norfolk",
+        "gridref": "TG283304",
+        "latitude": "52.823",
+        "longitude": "1.387",
+        "elevation (ft)": "100"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.391,
+          52.821
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "NORTH-WALSHAM-THE-PASTON-SCHOOL",
+        "county": "Norfolk",
+        "gridref": "TG285302",
+        "latitude": "52.821",
+        "longitude": "1.391",
+        "elevation (ft)": "140"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.385,
+          52.82
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "NORTH-WALSHAM-THE-PASTON-SCHOOL",
+        "county": "Norfolk",
+        "gridref": "TG282301",
+        "latitude": "52.820",
+        "longitude": "1.385",
+        "elevation (ft)": "100"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.409,
+          52.786
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "NORTH-WALSHAM-WORSTEAD",
+        "county": "Norfolk",
+        "gridref": "TG300264",
+        "latitude": "52.786",
+        "longitude": "1.409",
+        "elevation (ft)": "79"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.371,
+          52.826
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "NORTH-WALSHAM-WORSTEAD-LODGE",
+        "county": "Norfolk",
+        "gridref": "TG272307",
+        "latitude": "52.826",
+        "longitude": "1.371",
+        "elevation (ft)": "120"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.438,
+          52.792
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "NORTH-WOOTTON",
+        "county": "Norfolk",
+        "gridref": "TF645244",
+        "latitude": "52.792",
+        "longitude": "0.438",
+        "elevation (ft)": "35"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.429,
+          52.791
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "NORTH-WOOTTON",
+        "county": "Norfolk",
+        "gridref": "TF639243",
+        "latitude": "52.791",
+        "longitude": "0.429",
+        "elevation (ft)": "33"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.458,
+          52.627
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "NORWICH-BRUNDALL",
+        "county": "Norfolk",
+        "gridref": "TG341088",
+        "latitude": "52.627",
+        "longitude": "1.458",
+        "elevation (ft)": "50"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.44,
+          52.622
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "NORWICH-BRUNDALL",
+        "county": "Norfolk",
+        "gridref": "TG329082",
+        "latitude": "52.622",
+        "longitude": "1.440",
+        "elevation (ft)": "66"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.31,
+          52.616
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "NORWICH-CARROW-HOUSE",
+        "county": "Norfolk",
+        "gridref": "TG242072",
+        "latitude": "52.616",
+        "longitude": "1.310",
+        "elevation (ft)": "30"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.296,
+          52.66
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "NORWICH-CATTON-HALL",
+        "county": "Norfolk",
+        "gridref": "TG2300812058",
+        "latitude": "52.660",
+        "longitude": "1.296",
+        "elevation (ft)": "100"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.271,
+          52.615
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "NORWICH-CLAREMONT-ROAD",
+        "county": "Norfolk",
+        "gridref": "TG2151006904",
+        "latitude": "52.615",
+        "longitude": "1.271",
+        "elevation (ft)": "100"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.303,
+          52.663
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "NORWICH-CLAREMONT-ROAD",
+        "county": "Norfolk",
+        "gridref": "TG2347912367",
+        "latitude": "52.663",
+        "longitude": "1.303",
+        "elevation (ft)": "80"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.217,
+          52.669
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "NORWICH-COSTESSEY",
+        "county": "Norfolk",
+        "gridref": "TG176127",
+        "latitude": "52.669",
+        "longitude": "1.217",
+        "elevation (ft)": "50"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.236,
+          52.613
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "NORWICH-CRINGLEFORD",
+        "county": "Norfolk",
+        "gridref": "TG192066",
+        "latitude": "52.613",
+        "longitude": "1.236",
+        "elevation (ft)": "75"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.282,
+          52.57
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "NORWICH-DUNSTON-HALL",
+        "county": "Norfolk",
+        "gridref": "TG225020",
+        "latitude": "52.570",
+        "longitude": "1.282",
+        "elevation (ft)": "100"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.263,
+          52.616
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "NORWICH-EATON",
+        "county": "Norfolk",
+        "gridref": "TG210070",
+        "latitude": "52.616",
+        "longitude": "1.263",
+        "elevation (ft)": "98"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.273,
+          52.62
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "NORWICH-EATON",
+        "county": "Norfolk",
+        "gridref": "TG216075",
+        "latitude": "52.620",
+        "longitude": "1.273",
+        "elevation (ft)": "98"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.279,
+          52.625
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "NORWICH-ESSEX-ST",
+        "county": "Norfolk",
+        "gridref": "TG220081",
+        "latitude": "52.625",
+        "longitude": "1.279",
+        "elevation (ft)": "88"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.267,
+          52.63
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "NORWICH-HEIGHAM-CEMETERY",
+        "county": "Norfolk",
+        "gridref": "TG212086",
+        "latitude": "52.630",
+        "longitude": "1.267",
+        "elevation (ft)": "93"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.284,
+          52.616
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "NORWICH-IPSWICH-ROAD",
+        "county": "Norfolk",
+        "gridref": "TG224071",
+        "latitude": "52.616",
+        "longitude": "1.284",
+        "elevation (ft)": "110"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.293,
+          52.627
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "NORWICH-LITERARY-INSTITUTION",
+        "county": "Norfolk",
+        "gridref": "TG229083",
+        "latitude": "52.627",
+        "longitude": "1.293",
+        "elevation (ft)": "53"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.141,
+          52.629
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "NORWICH-MARLINGFORD-HALL",
+        "county": "Norfolk",
+        "gridref": "TG127081",
+        "latitude": "52.629",
+        "longitude": "1.141",
+        "elevation (ft)": "83"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.279,
+          52.642
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "NORWICH-MIX",
+        "county": "Norfolk",
+        "gridref": "TG219099",
+        "latitude": "52.642",
+        "longitude": "1.279",
+        "elevation (ft)": "11"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.284,
+          52.62
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "NORWICH-NEWMARKET-ROAD",
+        "county": "Norfolk",
+        "gridref": "TG224075",
+        "latitude": "52.620",
+        "longitude": "1.284",
+        "elevation (ft)": "89"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.38,
+          52.613
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "NORWICH-POSTWICK",
+        "county": "Norfolk",
+        "gridref": "TG289070",
+        "latitude": "52.613",
+        "longitude": "1.380",
+        "elevation (ft)": "5"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.327,
+          52.661
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "NORWICH-SPROWSTON",
+        "county": "Norfolk",
+        "gridref": "TG250122",
+        "latitude": "52.661",
+        "longitude": "1.327",
+        "elevation (ft)": "93"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.341,
+          52.664
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "NORWICH-SPROWSTON",
+        "county": "Norfolk",
+        "gridref": "TG260126",
+        "latitude": "52.664",
+        "longitude": "1.341",
+        "elevation (ft)": "90"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.293,
+          52.623
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "NORWICH-ST-CATHERINES",
+        "county": "Norfolk",
+        "gridref": "TG230079",
+        "latitude": "52.623",
+        "longitude": "1.293",
+        "elevation (ft)": "120"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.308,
+          52.629
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "NORWICH-THORPE",
+        "county": "Norfolk",
+        "gridref": "TG240086",
+        "latitude": "52.629",
+        "longitude": "1.308",
+        "elevation (ft)": "55"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.343,
+          52.627
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "NORWICH-THORPE",
+        "county": "Norfolk",
+        "gridref": "TG263085",
+        "latitude": "52.627",
+        "longitude": "1.343",
+        "elevation (ft)": "78"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.343,
+          52.63
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "NORWICH-THORPE",
+        "county": "Norfolk",
+        "gridref": "TG263088",
+        "latitude": "52.630",
+        "longitude": "1.343",
+        "elevation (ft)": "139"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.433,
+          52.645
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "NORWICH-THORPE",
+        "county": "Norfolk",
+        "gridref": "TG323108",
+        "latitude": "52.645",
+        "longitude": "1.433",
+        "elevation (ft)": "82"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.332,
+          52.629
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "NORWICH-THORPE",
+        "county": "Norfolk",
+        "gridref": "TG256086",
+        "latitude": "52.629",
+        "longitude": "1.332",
+        "elevation (ft)": "115"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.346,
+          52.628
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "NORWICH-THORPE",
+        "county": "Norfolk",
+        "gridref": "TG265086",
+        "latitude": "52.628",
+        "longitude": "1.346",
+        "elevation (ft)": "55"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.293,
+          52.625
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "NORWICH-UPPER-SURREY-ST",
+        "county": "Norfolk",
+        "gridref": "TG230080",
+        "latitude": "52.625",
+        "longitude": "1.293",
+        "elevation (ft)": "100"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.271,
+          52.639
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "NORWICH-WW",
+        "county": "Norfolk",
+        "gridref": "TG214096",
+        "latitude": "52.639",
+        "longitude": "1.271",
+        "elevation (ft)": "34"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.59,
+          52.674
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "OBY",
+        "county": "Norfolk",
+        "gridref": "TG428145",
+        "latitude": "52.674",
+        "longitude": "1.590",
+        "elevation (ft)": "50"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.036,
+          52.471
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "OLD-BUCKENHAM-HALL",
+        "county": "Norfolk",
+        "gridref": "TM063902",
+        "latitude": "52.471",
+        "longitude": "1.036",
+        "elevation (ft)": "150"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.036,
+          52.479
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "OLD-BUCKENHAM-THE-GRANGE",
+        "county": "Norfolk",
+        "gridref": "TM063911",
+        "latitude": "52.479",
+        "longitude": "1.036",
+        "elevation (ft)": "158"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.256,
+          52.602
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "OUTWELL-WELL-CREEK-SLUICE",
+        "county": "Norfolk",
+        "gridref": "TF529029",
+        "latitude": "52.602",
+        "longitude": "0.256",
+        "elevation (ft)": "16"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.243,
+          52.417
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "PULHAM-ST-MARY-BROOK-HOUSE",
+        "county": "Norfolk",
+        "gridref": "TM2064484784",
+        "latitude": "52.417",
+        "longitude": "1.243",
+        "elevation (ft)": "120"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.247,
+          52.42
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "PULHAM-ST-MARY-HILL-HOUSE",
+        "county": "Norfolk",
+        "gridref": "TM209852",
+        "latitude": "52.420",
+        "longitude": "1.247",
+        "elevation (ft)": "120"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.232,
+          52.428
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "PULHAM-ST-MARY-MAGDALENE-SCHOOL",
+        "county": "Norfolk",
+        "gridref": "TM198860",
+        "latitude": "52.428",
+        "longitude": "1.232",
+        "elevation (ft)": "140"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.107,
+          52.762
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "REEPHAM",
+        "county": "Norfolk",
+        "gridref": "TG097228",
+        "latitude": "52.762",
+        "longitude": "1.107",
+        "elevation (ft)": "136"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.112,
+          52.764
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "REEPHAM",
+        "county": "Norfolk",
+        "gridref": "TG1004422976",
+        "latitude": "52.764",
+        "longitude": "1.112",
+        "elevation (ft)": "120"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.077,
+          52.757
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "REEPHAM",
+        "county": "Norfolk",
+        "gridref": "TG077222",
+        "latitude": "52.757",
+        "longitude": "1.077",
+        "elevation (ft)": "160"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.106,
+          52.72
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "REEPHAM-GREAT-WITCHINGHAM",
+        "county": "Norfolk",
+        "gridref": "TG099181",
+        "latitude": "52.720",
+        "longitude": "1.106",
+        "elevation (ft)": "60"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.106,
+          52.758
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "REEPHAM-WHITWELL",
+        "county": "Norfolk",
+        "gridref": "TG097223",
+        "latitude": "52.758",
+        "longitude": "1.106",
+        "elevation (ft)": "130"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.223,
+          52.397
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "RUSHALL-VICARAGE",
+        "county": "Norfolk",
+        "gridref": "TM1937982600",
+        "latitude": "52.397",
+        "longitude": "1.223",
+        "elevation (ft)": "117"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.419,
+          52.681
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "SALHOUSE",
+        "county": "Norfolk",
+        "gridref": "TG312147",
+        "latitude": "52.681",
+        "longitude": "1.419",
+        "elevation (ft)": "50"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.515,
+          52.83
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "SANDRINGHAM",
+        "county": "Norfolk",
+        "gridref": "TF695288",
+        "latitude": "52.830",
+        "longitude": "0.515",
+        "elevation (ft)": "121"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.673,
+          52.457
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "SANTON-BRANDON",
+        "county": "Norfolk",
+        "gridref": "TL817877",
+        "latitude": "52.457",
+        "longitude": "0.673",
+        "elevation (ft)": "32"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.287,
+          52.526
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "SAXLINGHAM-NETHERGATE",
+        "county": "Norfolk",
+        "gridref": "TM231971",
+        "latitude": "52.526",
+        "longitude": "1.287",
+        "elevation (ft)": "83"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.152,
+          52.367
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "SCOLE-RECTORY",
+        "county": "Norfolk",
+        "gridref": "TM1468478992",
+        "latitude": "52.367",
+        "longitude": "1.152",
+        "elevation (ft)": "90"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.173,
+          52.936
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "SHERINGHAM-HALL",
+        "county": "Norfolk",
+        "gridref": "TG133423",
+        "latitude": "52.936",
+        "longitude": "1.173",
+        "elevation (ft)": "136"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.213,
+          52.934
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "SHERINGHAM-HOUSE",
+        "county": "Norfolk",
+        "gridref": "TG1599942229",
+        "latitude": "52.934",
+        "longitude": "1.213",
+        "elevation (ft)": "150"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.217,
+          52.939
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "SHERINGHAM-PINE-GROVE",
+        "county": "Norfolk",
+        "gridref": "TG1627042819",
+        "latitude": "52.939",
+        "longitude": "1.217",
+        "elevation (ft)": "70"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.201,
+          52.944
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "SHERINGHAM-SKELDING",
+        "county": "Norfolk",
+        "gridref": "TG1520143355",
+        "latitude": "52.944",
+        "longitude": "1.201",
+        "elevation (ft)": "80"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.204,
+          52.942
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "SHERINGHAM-SKELDING",
+        "county": "Norfolk",
+        "gridref": "TG1536643127",
+        "latitude": "52.942",
+        "longitude": "1.204",
+        "elevation (ft)": "70"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.207,
+          52.942
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "SHERINGHAM-SKELDING",
+        "county": "Norfolk",
+        "gridref": "TG1560243111",
+        "latitude": "52.942",
+        "longitude": "1.207",
+        "elevation (ft)": "70"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.501,
+          52.877
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "SNETTISHAM-THE-HOLLIES",
+        "county": "Norfolk",
+        "gridref": "TF684340",
+        "latitude": "52.877",
+        "longitude": "0.501",
+        "elevation (ft)": "47"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.501,
+          52.879
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "SNETTISHAM-WISTERIA-HOUSE",
+        "county": "Norfolk",
+        "gridref": "TF684342",
+        "latitude": "52.879",
+        "longitude": "0.501",
+        "elevation (ft)": "50"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.497,
+          52.664
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "SOUTH-WALSHAM",
+        "county": "Norfolk",
+        "gridref": "TG366131",
+        "latitude": "52.664",
+        "longitude": "1.497",
+        "elevation (ft)": "22"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.384,
+          52.525
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "SOUTHERY",
+        "county": "Norfolk",
+        "gridref": "TL618946",
+        "latitude": "52.525",
+        "longitude": "0.384",
+        "elevation (ft)": "13"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.376,
+          52.513
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "SOUTHERY-PUMPING-STATION",
+        "county": "Norfolk",
+        "gridref": "TL613932",
+        "latitude": "52.513",
+        "longitude": "0.376",
+        "elevation (ft)": "0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.067,
+          52.726
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "SPARHAM-HALL",
+        "county": "Norfolk",
+        "gridref": "TG072187",
+        "latitude": "52.726",
+        "longitude": "1.067",
+        "elevation (ft)": "100"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.083,
+          52.535
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "SPOONER-ROW-SCHOOL",
+        "county": "Norfolk",
+        "gridref": "TM092975",
+        "latitude": "52.535",
+        "longitude": "1.083",
+        "elevation (ft)": "160"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.111,
+          52.53
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "SPOONER-ROW-WATTLEFIELD-HALL",
+        "county": "Norfolk",
+        "gridref": "TM111970",
+        "latitude": "52.530",
+        "longitude": "1.111",
+        "elevation (ft)": "161"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.732,
+          52.668
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "SPORLE",
+        "county": "Norfolk",
+        "gridref": "TF848113",
+        "latitude": "52.668",
+        "longitude": "0.732",
+        "elevation (ft)": "230"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.309,
+          52.652
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "SPROWSTON-COUNCIL-SCHOOL",
+        "county": "Norfolk",
+        "gridref": "TG239112",
+        "latitude": "52.652",
+        "longitude": "1.309",
+        "elevation (ft)": "110"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.319,
+          52.666
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "SPROWSTON-OAK-LODGE",
+        "county": "Norfolk",
+        "gridref": "TG245128",
+        "latitude": "52.666",
+        "longitude": "1.319",
+        "elevation (ft)": "100"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.673,
+          52.9
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "STANHOE-HALL",
+        "county": "Norfolk",
+        "gridref": "TF799370",
+        "latitude": "52.900",
+        "longitude": "0.673",
+        "elevation (ft)": "210"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.475,
+          52.585
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "STOKE-FERRY-WEREHAM",
+        "county": "Norfolk",
+        "gridref": "TF678015",
+        "latitude": "52.585",
+        "longitude": "0.475",
+        "elevation (ft)": "66"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.359,
+          52.626
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "STOW-BARDOLPH-STOW-FEN-PUMPING-STATION",
+        "county": "Norfolk",
+        "gridref": "TF598058",
+        "latitude": "52.626",
+        "longitude": "0.359",
+        "elevation (ft)": "8"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.363,
+          52.644
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "STOW-BRIDGE-CRABBS-ABBEY",
+        "county": "Norfolk",
+        "gridref": "TF600078",
+        "latitude": "52.644",
+        "longitude": "0.363",
+        "elevation (ft)": "8"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.231,
+          52.484
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "STRATTON-ST-MARY-RECTORY",
+        "county": "Norfolk",
+        "gridref": "TM195923",
+        "latitude": "52.484",
+        "longitude": "1.231",
+        "elevation (ft)": "140"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.712,
+          52.666
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "SWAFFHAM",
+        "county": "Norfolk",
+        "gridref": "TF834110",
+        "latitude": "52.666",
+        "longitude": "0.712",
+        "elevation (ft)": "245"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.689,
+          52.644
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "SWAFFHAM",
+        "county": "Norfolk",
+        "gridref": "TF820085",
+        "latitude": "52.644",
+        "longitude": "0.689",
+        "elevation (ft)": "245"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.687,
+          52.648
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "SWAFFHAM",
+        "county": "Norfolk",
+        "gridref": "TF818089",
+        "latitude": "52.648",
+        "longitude": "0.687",
+        "elevation (ft)": "250"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.688,
+          52.653
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "SWAFFHAM",
+        "county": "Norfolk",
+        "gridref": "TF818095",
+        "latitude": "52.653",
+        "longitude": "0.688",
+        "elevation (ft)": "239"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.69,
+          52.64
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "SWAFFHAM-CEMETERY",
+        "county": "Norfolk",
+        "gridref": "TF821081",
+        "latitude": "52.640",
+        "longitude": "0.690",
+        "elevation (ft)": "210"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.775,
+          52.68
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "SWAFFHAM-DUNHAM",
+        "county": "Norfolk",
+        "gridref": "TF877128",
+        "latitude": "52.680",
+        "longitude": "0.775",
+        "elevation (ft)": "320"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.76,
+          52.681
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "SWAFFHAM-DUNHAM",
+        "county": "Norfolk",
+        "gridref": "TF866128",
+        "latitude": "52.681",
+        "longitude": "0.760",
+        "elevation (ft)": "252"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.692,
+          52.646
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "SWAFFHAM-GRAMMAR-SCHOOL",
+        "county": "Norfolk",
+        "gridref": "TF822087",
+        "latitude": "52.646",
+        "longitude": "0.692",
+        "elevation (ft)": "242"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.69,
+          52.642
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "SWAFFHAM-GRAMMAR-SCHOOL",
+        "county": "Norfolk",
+        "gridref": "TF820083",
+        "latitude": "52.642",
+        "longitude": "0.690",
+        "elevation (ft)": "247"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.741,
+          52.602
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "SWAFFHAM-PICKENHAM",
+        "county": "Norfolk",
+        "gridref": "TF857040",
+        "latitude": "52.602",
+        "longitude": "0.741",
+        "elevation (ft)": "104"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.819,
+          52.582
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "SWAFFHAM-SAHAM-TONEY",
+        "county": "Norfolk",
+        "gridref": "TF911020",
+        "latitude": "52.582",
+        "longitude": "0.819",
+        "elevation (ft)": "127"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.684,
+          52.645
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "SWAFFHAM-THE-VILLA",
+        "county": "Norfolk",
+        "gridref": "TF817086",
+        "latitude": "52.645",
+        "longitude": "0.684",
+        "elevation (ft)": "245"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.687,
+          52.649
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "SWAFFHAM-THE-VILLA",
+        "county": "Norfolk",
+        "gridref": "TF8187409134",
+        "latitude": "52.649",
+        "longitude": "0.687",
+        "elevation (ft)": "246"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.4,
+          52.842
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "SWAFIELD-RECTORY",
+        "county": "Norfolk",
+        "gridref": "TG291326",
+        "latitude": "52.842",
+        "longitude": "1.400",
+        "elevation (ft)": "100"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.155,
+          52.722
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "SWANINGTON-HEATH-HOUSE",
+        "county": "Norfolk",
+        "gridref": "TG1315718534",
+        "latitude": "52.722",
+        "longitude": "1.155",
+        "elevation (ft)": "91"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.157,
+          52.728
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "SWANINGTON-RECTORY",
+        "county": "Norfolk",
+        "gridref": "TG133192",
+        "latitude": "52.728",
+        "longitude": "1.157",
+        "elevation (ft)": "90"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.981,
+          52.717
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "SWANTON-MORLEY-RECTORY",
+        "county": "Norfolk",
+        "gridref": "TG0144917458",
+        "latitude": "52.717",
+        "longitude": "0.981",
+        "elevation (ft)": "105"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.72,
+          52.861
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "SYDERSTONE-THE-RECTORY",
+        "county": "Norfolk",
+        "gridref": "TF832327",
+        "latitude": "52.861",
+        "longitude": "0.720",
+        "elevation (ft)": "210"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.179,
+          52.696
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "TAVERHAM-DEIGHTON-HILLS",
+        "county": "Norfolk",
+        "gridref": "TG1491215622",
+        "latitude": "52.696",
+        "longitude": "1.179",
+        "elevation (ft)": "100"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.295,
+          52.755
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "TERRINGTON",
+        "county": "Norfolk",
+        "gridref": "TF550199",
+        "latitude": "52.755",
+        "longitude": "0.295",
+        "elevation (ft)": "18"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.312,
+          52.759
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "TERRINGTON-ST-CLEMENT",
+        "county": "Norfolk",
+        "gridref": "TF561204",
+        "latitude": "52.759",
+        "longitude": "0.312",
+        "elevation (ft)": "8"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.3,
+          52.759
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "TERRINGTON-ST-CLEMENT",
+        "county": "Norfolk",
+        "gridref": "TF553204",
+        "latitude": "52.759",
+        "longitude": "0.300",
+        "elevation (ft)": "13"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.29,
+          52.744
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "TERRINGTON-ST-CLEMENT",
+        "county": "Norfolk",
+        "gridref": "TF547187",
+        "latitude": "52.744",
+        "longitude": "0.290",
+        "elevation (ft)": "13"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.755,
+          52.415
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "THETFORD",
+        "county": "Norfolk",
+        "gridref": "TL874832",
+        "latitude": "52.415",
+        "longitude": "0.755",
+        "elevation (ft)": "75"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.756,
+          52.443
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "THETFORD-CROXTON",
+        "county": "Norfolk",
+        "gridref": "TL874863",
+        "latitude": "52.443",
+        "longitude": "0.756",
+        "elevation (ft)": "170"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.754,
+          52.409
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "THETFORD-FORD-STREET-GDNS",
+        "county": "Norfolk",
+        "gridref": "TL874826",
+        "latitude": "52.409",
+        "longitude": "0.754",
+        "elevation (ft)": "44"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.781,
+          52.422
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "THETFORD-KILVERSTONE-HALL",
+        "county": "Norfolk",
+        "gridref": "TL892841",
+        "latitude": "52.422",
+        "longitude": "0.781",
+        "elevation (ft)": "70"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.68,
+          52.514
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "THETFORD-LYNFORD-HALL",
+        "county": "Norfolk",
+        "gridref": "TL8193894005",
+        "latitude": "52.514",
+        "longitude": "0.680",
+        "elevation (ft)": "50"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.676,
+          52.488
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "THETFORD-LYNFORD-NURSERY",
+        "county": "Norfolk",
+        "gridref": "TL818912",
+        "latitude": "52.488",
+        "longitude": "0.676",
+        "elevation (ft)": "99"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.742,
+          52.427
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "THETFORD-WW",
+        "county": "Norfolk",
+        "gridref": "TL865845",
+        "latitude": "52.427",
+        "longitude": "0.742",
+        "elevation (ft)": "170"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.875,
+          52.852
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "THORPLAND-HALL",
+        "county": "Norfolk",
+        "gridref": "TF937321",
+        "latitude": "52.852",
+        "longitude": "0.875",
+        "elevation (ft)": "140"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.296,
+          52.708
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "TILNEY-ST-LAWRENCE-AYLMER-HALL",
+        "county": "Norfolk",
+        "gridref": "TF552147",
+        "latitude": "52.708",
+        "longitude": "0.296",
+        "elevation (ft)": "9"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.814,
+          52.75
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "TITTLESHALL",
+        "county": "Norfolk",
+        "gridref": "TF900206",
+        "latitude": "52.750",
+        "longitude": "0.814",
+        "elevation (ft)": "285"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.584,
+          52.508
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "TOFT-MONKS-SCHOOL",
+        "county": "Norfolk",
+        "gridref": "TM433961",
+        "latitude": "52.508",
+        "longitude": "1.584",
+        "elevation (ft)": "60"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.501,
+          52.838
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "WALCOTT-ON-SEA",
+        "county": "Norfolk",
+        "gridref": "TG359325",
+        "latitude": "52.838",
+        "longitude": "1.501",
+        "elevation (ft)": "20"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.4,
+          52.642
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "WALLINGTON-HALL",
+        "county": "Norfolk",
+        "gridref": "TF625076",
+        "latitude": "52.642",
+        "longitude": "0.400",
+        "elevation (ft)": "58"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.874,
+          52.891
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "WALSINGHAM",
+        "county": "Norfolk",
+        "gridref": "TF9346036483",
+        "latitude": "52.891",
+        "longitude": "0.874",
+        "elevation (ft)": "60"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.822,
+          52.572
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "WATTON",
+        "county": "Norfolk",
+        "gridref": "TF913008",
+        "latitude": "52.572",
+        "longitude": "0.822",
+        "elevation (ft)": "166"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.833,
+          52.569
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "WATTON",
+        "county": "Norfolk",
+        "gridref": "TF920005",
+        "latitude": "52.569",
+        "longitude": "0.833",
+        "elevation (ft)": "187"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.827,
+          52.576
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "WATTON",
+        "county": "Norfolk",
+        "gridref": "TF916013",
+        "latitude": "52.576",
+        "longitude": "0.827",
+        "elevation (ft)": "160"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.83,
+          52.569
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "WATTON",
+        "county": "Norfolk",
+        "gridref": "TF918005",
+        "latitude": "52.569",
+        "longitude": "0.830",
+        "elevation (ft)": "190"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.821,
+          52.549
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "WATTON-MERTON-HALL",
+        "county": "Norfolk",
+        "gridref": "TL914983",
+        "latitude": "52.549",
+        "longitude": "0.821",
+        "elevation (ft)": "160"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.839,
+          52.586
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "WATTON-OVINGTON-RECTORY",
+        "county": "Norfolk",
+        "gridref": "TF924025",
+        "latitude": "52.586",
+        "longitude": "0.839",
+        "elevation (ft)": "169"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.793,
+          52.724
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "WEASENHAM-LITCHAM",
+        "county": "Norfolk",
+        "gridref": "TF887177",
+        "latitude": "52.724",
+        "longitude": "0.793",
+        "elevation (ft)": "190"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.856,
+          52.956
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "WELLS-NEXT-THE-SEA",
+        "county": "Norfolk",
+        "gridref": "TF9197243628",
+        "latitude": "52.956",
+        "longitude": "0.856",
+        "elevation (ft)": "16"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.845,
+          52.959
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "WELLS-WW",
+        "county": "Norfolk",
+        "gridref": "TF912440",
+        "latitude": "52.959",
+        "longitude": "0.845",
+        "elevation (ft)": "8"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.852,
+          52.679
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "WENDLING-ASTRANTIA",
+        "county": "Norfolk",
+        "gridref": "TF929128",
+        "latitude": "52.679",
+        "longitude": "0.852",
+        "elevation (ft)": "170"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.442,
+          52.578
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "WEST-DEREHAM",
+        "county": "Norfolk",
+        "gridref": "TF6553600582",
+        "latitude": "52.578",
+        "longitude": "0.442",
+        "elevation (ft)": "20"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.737,
+          52.786
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "WEST-RAYNHAM-AIRFIELD",
+        "county": "Norfolk",
+        "gridref": "TF847245",
+        "latitude": "52.786",
+        "longitude": "0.737",
+        "elevation (ft)": "250"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.241,
+          52.938
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "WEST-RUNTON",
+        "county": "Norfolk",
+        "gridref": "TG179428",
+        "latitude": "52.938",
+        "longitude": "1.241",
+        "elevation (ft)": "113"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.686,
+          52.503
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "WEST-TOFTS",
+        "county": "Norfolk",
+        "gridref": "TL8243692833",
+        "latitude": "52.503",
+        "longitude": "0.686",
+        "elevation (ft)": "91"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.703,
+          52.495
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "WEST-TOFTS",
+        "county": "Norfolk",
+        "gridref": "TL836920",
+        "latitude": "52.495",
+        "longitude": "0.703",
+        "elevation (ft)": "100"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.172,
+          52.698
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "WEST-WALTON",
+        "county": "Norfolk",
+        "gridref": "TF469134",
+        "latitude": "52.698",
+        "longitude": "0.172",
+        "elevation (ft)": "16"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.217,
+          52.847
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "WICKMERE",
+        "county": "Norfolk",
+        "gridref": "TG167326",
+        "latitude": "52.847",
+        "longitude": "1.217",
+        "elevation (ft)": "130"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.349,
+          52.699
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "WIGGENHALL-ST-GERMANS-SLUICE",
+        "county": "Norfolk",
+        "gridref": "TF588139",
+        "latitude": "52.699",
+        "longitude": "0.349",
+        "elevation (ft)": "9"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.365,
+          52.699
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "WIGGENHALL-ST-GERMANS-SLUICE",
+        "county": "Norfolk",
+        "gridref": "TF599139",
+        "latitude": "52.699",
+        "longitude": "0.365",
+        "elevation (ft)": "8"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.39,
+          52.619
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "WIMBOTSHAM-SCHOOL",
+        "county": "Norfolk",
+        "gridref": "TF619050",
+        "latitude": "52.619",
+        "longitude": "0.390",
+        "elevation (ft)": "43"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.04,
+          52.942
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "WIVETON-GLAVEN-CORNER",
+        "county": "Norfolk",
+        "gridref": "TG044426",
+        "latitude": "52.942",
+        "longitude": "1.040",
+        "elevation (ft)": "100"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.396,
+          52.764
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "WORSTEAD-FRANKFORT-MANOR",
+        "county": "Norfolk",
+        "gridref": "TG292239",
+        "latitude": "52.764",
+        "longitude": "1.396",
+        "elevation (ft)": "70"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.427,
+          52.787
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "WORSTEAD-LYNGATE-COTTAGE",
+        "county": "Norfolk",
+        "gridref": "TG312265",
+        "latitude": "52.787",
+        "longitude": "1.427",
+        "elevation (ft)": "50"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.412,
+          52.801
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "WORSTEAD-THE-GRANGE",
+        "county": "Norfolk",
+        "gridref": "TG301281",
+        "latitude": "52.801",
+        "longitude": "1.412",
+        "elevation (ft)": "40"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.457,
+          52.771
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "WORSTEAD-THE-ROOKERY-DILHAM",
+        "county": "Norfolk",
+        "gridref": "TG333249",
+        "latitude": "52.771",
+        "longitude": "1.457",
+        "elevation (ft)": "53"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.406,
+          52.703
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "WROXHAM",
+        "county": "Norfolk",
+        "gridref": "TG302171",
+        "latitude": "52.703",
+        "longitude": "1.406",
+        "elevation (ft)": "45"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.486,
+          52.745
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "WROXHAM-BARTON-HALL",
+        "county": "Norfolk",
+        "gridref": "TG354221",
+        "latitude": "52.745",
+        "longitude": "1.486",
+        "elevation (ft)": "25"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.427,
+          52.727
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "WROXHAM-HOVETON-HALL",
+        "county": "Norfolk",
+        "gridref": "TG315199",
+        "latitude": "52.727",
+        "longitude": "1.427",
+        "elevation (ft)": "25"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.428,
+          52.706
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "WROXHAM-HOVETON-HOME-FARM",
+        "county": "Norfolk",
+        "gridref": "TG317176",
+        "latitude": "52.706",
+        "longitude": "1.428",
+        "elevation (ft)": "32"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.431,
+          52.707
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "WROXHAM-HOVETON-HOUSE",
+        "county": "Norfolk",
+        "gridref": "TG319177",
+        "latitude": "52.707",
+        "longitude": "1.431",
+        "elevation (ft)": "20"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.108,
+          52.57
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "WYMONDHAM-BROWICK-HALL",
+        "county": "Norfolk",
+        "gridref": "TG107015",
+        "latitude": "52.570",
+        "longitude": "1.108",
+        "elevation (ft)": "118"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.142,
+          52.57
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "WYMONDHAM-BROWICK-HALL",
+        "county": "Norfolk",
+        "gridref": "TG130015",
+        "latitude": "52.570",
+        "longitude": "1.142",
+        "elevation (ft)": "140"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.178,
+          52.6
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "WYMONDHAM-HETHERSETT",
+        "county": "Norfolk",
+        "gridref": "TG153050",
+        "latitude": "52.600",
+        "longitude": "1.178",
+        "elevation (ft)": "163"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.171,
+          52.603
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "WYMONDHAM-HETHERSETT",
+        "county": "Norfolk",
+        "gridref": "TG148053",
+        "latitude": "52.603",
+        "longitude": "1.171",
+        "elevation (ft)": "165"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.043,
+          52.555
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "WYMONDHAM-MORLEY-SCHOOL",
+        "county": "Norfolk",
+        "gridref": "TM064996",
+        "latitude": "52.555",
+        "longitude": "1.043",
+        "elevation (ft)": "157"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.731,
+          52.597
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "YARMOUTH",
+        "county": "Norfolk",
+        "gridref": "TG528065",
+        "latitude": "52.597",
+        "longitude": "1.731",
+        "elevation (ft)": "10"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.73,
+          52.603
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "YARMOUTH-DENE-SIDE",
+        "county": "Norfolk",
+        "gridref": "TG527071",
+        "latitude": "52.603",
+        "longitude": "1.730",
+        "elevation (ft)": "20"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.572,
+          52.602
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "YARMOUTH-HALVERGATE-HALL",
+        "county": "Norfolk",
+        "gridref": "TG420065",
+        "latitude": "52.602",
+        "longitude": "1.572",
+        "elevation (ft)": "48"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.542,
+          52.611
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "YARMOUTH-HALVERGATE-HALL",
+        "county": "Norfolk",
+        "gridref": "TG399073",
+        "latitude": "52.611",
+        "longitude": "1.542",
+        "elevation (ft)": "15"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.726,
+          52.608
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "YARMOUTH-MARKET-PLACE",
+        "county": "Norfolk",
+        "gridref": "TG524077",
+        "latitude": "52.608",
+        "longitude": "1.726",
+        "elevation (ft)": "25"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.727,
+          52.613
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "YARMOUTH-MARKET-PLACE",
+        "county": "Norfolk",
+        "gridref": "TG524082",
+        "latitude": "52.613",
+        "longitude": "1.727",
+        "elevation (ft)": "7"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.651,
+          52.678
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "YARMOUTH-ORMESBY-ST-MICHAEL",
+        "county": "Norfolk",
+        "gridref": "TG469152",
+        "latitude": "52.678",
+        "longitude": "1.651",
+        "elevation (ft)": "22"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.735,
+          52.604
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "YARMOUTH-SAILORS-HOME",
+        "county": "Norfolk",
+        "gridref": "TG530072",
+        "latitude": "52.604",
+        "longitude": "1.735",
+        "elevation (ft)": "27"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.718,
+          52.679
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "YARMOUTH-SCRATBY",
+        "county": "Norfolk",
+        "gridref": "TG514155",
+        "latitude": "52.679",
+        "longitude": "1.718",
+        "elevation (ft)": "70"
+      }
+    }
+  ]
+}

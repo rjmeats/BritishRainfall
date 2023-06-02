@@ -1,0 +1,5381 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.226,
+          50.512
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "ALBASTON-NANAIMO-HOUSE",
+        "county": "Cornwall",
+        "gridref": "SX422704",
+        "latitude": "50.512",
+        "longitude": "-4.226",
+        "elevation (ft)": "500"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.711,
+          50.475
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "BODMIN-CASTLE-HILL-HOUSE",
+        "county": "Cornwall",
+        "gridref": "SX077674",
+        "latitude": "50.475",
+        "longitude": "-4.711",
+        "elevation (ft)": "484"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.716,
+          50.472
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "BODMIN-CASTLE-ST",
+        "county": "Cornwall",
+        "gridref": "SX073671",
+        "latitude": "50.472",
+        "longitude": "-4.716",
+        "elevation (ft)": "300"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.722,
+          50.471
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "BODMIN-FORE-ST",
+        "county": "Cornwall",
+        "gridref": "SX069670",
+        "latitude": "50.471",
+        "longitude": "-4.722",
+        "elevation (ft)": "336"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.704,
+          50.44
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "BODMIN-LANHYDROCK",
+        "county": "Cornwall",
+        "gridref": "SX081635",
+        "latitude": "50.440",
+        "longitude": "-4.704",
+        "elevation (ft)": "390"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.714,
+          50.474
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "BODMIN-LANHYDROCK",
+        "county": "Cornwall",
+        "gridref": "SX075673",
+        "latitude": "50.474",
+        "longitude": "-4.714",
+        "elevation (ft)": "480"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.72,
+          50.47
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "BODMIN-POLGWIN",
+        "county": "Cornwall",
+        "gridref": "SX071669",
+        "latitude": "50.470",
+        "longitude": "-4.720",
+        "elevation (ft)": "290"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.715,
+          50.473
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "BODMIN-POLGWIN",
+        "county": "Cornwall",
+        "gridref": "SX074672",
+        "latitude": "50.473",
+        "longitude": "-4.715",
+        "elevation (ft)": "340"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.863,
+          50.448
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "BODMIN-ST-WENN-VICARAGE",
+        "county": "Cornwall",
+        "gridref": "SW968648",
+        "latitude": "50.448",
+        "longitude": "-4.863",
+        "elevation (ft)": "381"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.602,
+          50.492
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "BODMIN-WARLEGGAN",
+        "county": "Cornwall",
+        "gridref": "SX155690",
+        "latitude": "50.492",
+        "longitude": "-4.602",
+        "elevation (ft)": "650"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.571,
+          50.561
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "BOLVENTOR-VICARAGE",
+        "county": "Cornwall",
+        "gridref": "SX180766",
+        "latitude": "50.561",
+        "longitude": "-4.571",
+        "elevation (ft)": "845"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.12,
+          50.091
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "BOSAHAN",
+        "county": "Cornwall",
+        "gridref": "SW769259",
+        "latitude": "50.091",
+        "longitude": "-5.120",
+        "elevation (ft)": "240"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.565,
+          50.158
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "BOSPORTHENIS-NEW-MILL",
+        "county": "Cornwall",
+        "gridref": "SW454347",
+        "latitude": "50.158",
+        "longitude": "-5.565",
+        "elevation (ft)": "540"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.741,
+          50.668
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "BOSSINEY",
+        "county": "Cornwall",
+        "gridref": "SX064889",
+        "latitude": "50.668",
+        "longitude": "-4.741",
+        "elevation (ft)": "290"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.397,
+          50.727
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "BOYTON-DITCHEN",
+        "county": "Cornwall",
+        "gridref": "SX309947",
+        "latitude": "50.727",
+        "longitude": "-4.397",
+        "elevation (ft)": "455"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.547,
+          50.828
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "BUDE",
+        "county": "Cornwall",
+        "gridref": "SS207062",
+        "latitude": "50.828",
+        "longitude": "-4.547",
+        "elevation (ft)": "16"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.542,
+          50.83
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "BUDE-BRAMBLE-HILL",
+        "county": "Cornwall",
+        "gridref": "SS211064",
+        "latitude": "50.830",
+        "longitude": "-4.542",
+        "elevation (ft)": "80"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.54,
+          50.837
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "BUDE-BRAMBLE-HILL",
+        "county": "Cornwall",
+        "gridref": "SS212072",
+        "latitude": "50.837",
+        "longitude": "-4.540",
+        "elevation (ft)": "50"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.315,
+          50.504
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "CALLINGTON-CHURCH-STREET",
+        "county": "Cornwall",
+        "gridref": "SX359696",
+        "latitude": "50.504",
+        "longitude": "-4.315",
+        "elevation (ft)": "490"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.226,
+          50.516
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "CALLINGTON-DRAKEWALLS-PLACE",
+        "county": "Cornwall",
+        "gridref": "SX422708",
+        "latitude": "50.516",
+        "longitude": "-4.226",
+        "elevation (ft)": "650"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.306,
+          50.512
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "CALLINGTON-HINGSTON-DOWN",
+        "county": "Cornwall",
+        "gridref": "SX366705",
+        "latitude": "50.512",
+        "longitude": "-4.306",
+        "elevation (ft)": "850"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.277,
+          50.505
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "CALLINGTON-MOUNT-LODGE",
+        "county": "Cornwall",
+        "gridref": "SX386697",
+        "latitude": "50.505",
+        "longitude": "-4.277",
+        "elevation (ft)": "400"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.322,
+          50.491
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "CALLINGTON-PENCREBAR",
+        "county": "Cornwall",
+        "gridref": "SX354683",
+        "latitude": "50.491",
+        "longitude": "-4.322",
+        "elevation (ft)": "450"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.304,
+          50.212
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "CAMBORNE-RECTORY",
+        "county": "Cornwall",
+        "gridref": "SW644399",
+        "latitude": "50.212",
+        "longitude": "-5.304",
+        "elevation (ft)": "317"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.289,
+          50.217
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "CAMBORNE-REDBROOK-RD",
+        "county": "Cornwall",
+        "gridref": "SW654404",
+        "latitude": "50.217",
+        "longitude": "-5.289",
+        "elevation (ft)": "349"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.293,
+          50.21
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "CAMBORNE-REDBROOK-RD",
+        "county": "Cornwall",
+        "gridref": "SW651396",
+        "latitude": "50.210",
+        "longitude": "-5.293",
+        "elevation (ft)": "402"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.306,
+          50.224
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "CAMBORNE-ROSEWARNE",
+        "county": "Cornwall",
+        "gridref": "SW643412",
+        "latitude": "50.224",
+        "longitude": "-5.306",
+        "elevation (ft)": "250"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.297,
+          50.214
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "CAMBORNE-UNION-STREET",
+        "county": "Cornwall",
+        "gridref": "SW648400",
+        "latitude": "50.214",
+        "longitude": "-5.297",
+        "elevation (ft)": "330"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.325,
+          50.224
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "CAMBORNE-UPLANDS",
+        "county": "Cornwall",
+        "gridref": "SW629413",
+        "latitude": "50.224",
+        "longitude": "-5.325",
+        "elevation (ft)": "210"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.638,
+          50.619
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "CAMELFORD-ADVENT",
+        "county": "Cornwall",
+        "gridref": "SX135832",
+        "latitude": "50.619",
+        "longitude": "-4.638",
+        "elevation (ft)": "905"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.648,
+          50.619
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "CAMELFORD-ADVENT",
+        "county": "Cornwall",
+        "gridref": "SX127832",
+        "latitude": "50.619",
+        "longitude": "-4.648",
+        "elevation (ft)": "890"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.702,
+          50.609
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "CAMELFORD-LANTEGLOS-RECTORY",
+        "county": "Cornwall",
+        "gridref": "SX089823",
+        "latitude": "50.609",
+        "longitude": "-4.702",
+        "elevation (ft)": "450"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.68,
+          50.618
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "CAMELFORD-ROUGHTOR-VIEW",
+        "county": "Cornwall",
+        "gridref": "SX104832",
+        "latitude": "50.618",
+        "longitude": "-4.680",
+        "elevation (ft)": "700"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.646,
+          50.598
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "CAMELFORD-STANNON-CLAY-WORKS",
+        "county": "Cornwall",
+        "gridref": "SX128809",
+        "latitude": "50.598",
+        "longitude": "-4.646",
+        "elevation (ft)": "850"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.01,
+          50.531
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "CONSTANTINE-BAY",
+        "county": "Cornwall",
+        "gridref": "SW868745",
+        "latitude": "50.531",
+        "longitude": "-5.010",
+        "elevation (ft)": "102"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.142,
+          50.107
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "CONSTANTINE-PONS-A-VERRAN",
+        "county": "Cornwall",
+        "gridref": "SW754277",
+        "latitude": "50.107",
+        "longitude": "-5.142",
+        "elevation (ft)": "60"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.324,
+          50.471
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "CORNWALL-NEWTON-FERRERS",
+        "county": "Cornwall",
+        "gridref": "SX352660",
+        "latitude": "50.471",
+        "longitude": "-4.324",
+        "elevation (ft)": "375"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.633,
+          50.742
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "CRACKINGTON-HAVEN",
+        "county": "Cornwall",
+        "gridref": "SX143969",
+        "latitude": "50.742",
+        "longitude": "-4.633",
+        "elevation (ft)": "50"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.279,
+          50.18
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "CROWAN-BOSWYN-RES",
+        "county": "Cornwall",
+        "gridref": "SW660362",
+        "latitude": "50.180",
+        "longitude": "-5.279",
+        "elevation (ft)": "511"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.248,
+          50.081
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "CULDROSE-RN-AIR-STATION",
+        "county": "Cornwall",
+        "gridref": "SW677252",
+        "latitude": "50.081",
+        "longitude": "-5.248",
+        "elevation (ft)": "268"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.723,
+          50.619
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "DELABOLE",
+        "county": "Cornwall",
+        "gridref": "SX075835",
+        "latitude": "50.619",
+        "longitude": "-4.723",
+        "elevation (ft)": "650"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.176,
+          50.36
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "DEVONPORT-CREMYLL",
+        "county": "Cornwall",
+        "gridref": "SX453534",
+        "latitude": "50.360",
+        "longitude": "-4.176",
+        "elevation (ft)": "25"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.186,
+          50.355
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "DEVONPORT-EMPACOMBE",
+        "county": "Cornwall",
+        "gridref": "SX446529",
+        "latitude": "50.355",
+        "longitude": "-4.186",
+        "elevation (ft)": "20"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.093,
+          50.215
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "DEVORAN-DEVORAN-HOUSE",
+        "county": "Cornwall",
+        "gridref": "SW794396",
+        "latitude": "50.215",
+        "longitude": "-5.093",
+        "elevation (ft)": "120"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.094,
+          50.212
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "DEVORAN-DEVORAN-HOUSE",
+        "county": "Cornwall",
+        "gridref": "SW793392",
+        "latitude": "50.212",
+        "longitude": "-5.094",
+        "elevation (ft)": "50"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.372,
+          50.363
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "DOWNDERRY-THE-WATCH-HOUSE",
+        "county": "Cornwall",
+        "gridref": "SX314541",
+        "latitude": "50.363",
+        "longitude": "-4.372",
+        "elevation (ft)": "100"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.454,
+          50.355
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "EAST-LOOE",
+        "county": "Cornwall",
+        "gridref": "SX255535",
+        "latitude": "50.355",
+        "longitude": "-4.454",
+        "elevation (ft)": "50"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.487,
+          50.651
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "EGLOSKERRY-TREGEARE",
+        "county": "Cornwall",
+        "gridref": "SX243864",
+        "latitude": "50.651",
+        "longitude": "-4.487",
+        "elevation (ft)": "513"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.1,
+          50.202
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "FALMOUTH-CARCLEW",
+        "county": "Cornwall",
+        "gridref": "SW789381",
+        "latitude": "50.202",
+        "longitude": "-5.100",
+        "elevation (ft)": "180"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.022,
+          50.291
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "FALMOUTH-FLUSHING-TREFUSIS",
+        "county": "Cornwall",
+        "gridref": "SW848477",
+        "latitude": "50.291",
+        "longitude": "-5.022",
+        "elevation (ft)": "300"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.061,
+          50.167
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "FALMOUTH-FLUSHING-TREFUSIS",
+        "county": "Cornwall",
+        "gridref": "SW815341",
+        "latitude": "50.167",
+        "longitude": "-5.061",
+        "elevation (ft)": "200"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.071,
+          50.146
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "FALMOUTH-GYLLYNGVASE",
+        "county": "Cornwall",
+        "gridref": "SW807318",
+        "latitude": "50.146",
+        "longitude": "-5.071",
+        "elevation (ft)": "50"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.076,
+          50.153
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "FALMOUTH-KIMBERLEY",
+        "county": "Cornwall",
+        "gridref": "SW803326",
+        "latitude": "50.153",
+        "longitude": "-5.076",
+        "elevation (ft)": "120"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.077,
+          50.15
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "FALMOUTH-OBSERVATORY",
+        "county": "Cornwall",
+        "gridref": "SW802323",
+        "latitude": "50.150",
+        "longitude": "-5.077",
+        "elevation (ft)": "169"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.071,
+          50.15
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "FALMOUTH-OBSERVATORY",
+        "county": "Cornwall",
+        "gridref": "SW807323",
+        "latitude": "50.150",
+        "longitude": "-5.071",
+        "elevation (ft)": "150"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.072,
+          50.15
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "FALMOUTH-OBSERVATORY",
+        "county": "Cornwall",
+        "gridref": "SW806323",
+        "latitude": "50.150",
+        "longitude": "-5.072",
+        "elevation (ft)": "167"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.048,
+          50.148
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "FALMOUTH-PENDENNIS-CASTLE",
+        "county": "Cornwall",
+        "gridref": "SW823319",
+        "latitude": "50.148",
+        "longitude": "-5.048",
+        "elevation (ft)": "200"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.004,
+          50.15
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "FALMOUTH-ST-MAWES-PLACE",
+        "county": "Cornwall",
+        "gridref": "SW855320",
+        "latitude": "50.150",
+        "longitude": "-5.004",
+        "elevation (ft)": "12"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.639,
+          50.333
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "FOWEY",
+        "county": "Cornwall",
+        "gridref": "SX123514",
+        "latitude": "50.333",
+        "longitude": "-4.639",
+        "elevation (ft)": "51"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.673,
+          50.328
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "FOWEY-MENABILLY",
+        "county": "Cornwall",
+        "gridref": "SX098509",
+        "latitude": "50.328",
+        "longitude": "-4.673",
+        "elevation (ft)": "150"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.651,
+          50.363
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "FOWEY-TORFREY",
+        "county": "Cornwall",
+        "gridref": "SX115548",
+        "latitude": "50.363",
+        "longitude": "-4.651",
+        "elevation (ft)": "280"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.79,
+          50.237
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "GORRAN-HAVEN-LAMLEDRA",
+        "county": "Cornwall",
+        "gridref": "SX011411",
+        "latitude": "50.237",
+        "longitude": "-4.790",
+        "elevation (ft)": "220"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.81,
+          50.285
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "GRAMPOUND-HELIGAN",
+        "county": "Cornwall",
+        "gridref": "SW999465",
+        "latitude": "50.285",
+        "longitude": "-4.810",
+        "elevation (ft)": "290"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.519,
+          50.132
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "GULVAL-EXPERIMENTAL-STATION",
+        "county": "Cornwall",
+        "gridref": "SW486317",
+        "latitude": "50.132",
+        "longitude": "-5.519",
+        "elevation (ft)": "40"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.223,
+          50.516
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "GUNNISLAKE-DELAWARE-SCHOOL",
+        "county": "Cornwall",
+        "gridref": "SX424708",
+        "latitude": "50.516",
+        "longitude": "-4.223",
+        "elevation (ft)": "573"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.225,
+          50.514
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "GUNNISLAKE-DELAWARE-SCHOOL",
+        "county": "Cornwall",
+        "gridref": "SX423706",
+        "latitude": "50.514",
+        "longitude": "-4.225",
+        "elevation (ft)": "574"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.227,
+          50.515
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "GUNNISLAKE-DELAWARE-SCHOOL",
+        "county": "Cornwall",
+        "gridref": "SX422707",
+        "latitude": "50.515",
+        "longitude": "-4.227",
+        "elevation (ft)": "570"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.174,
+          50.218
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "GWENNAP-TREVINCE",
+        "county": "Cornwall",
+        "gridref": "SW737402",
+        "latitude": "50.218",
+        "longitude": "-5.174",
+        "elevation (ft)": "235"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.218,
+          50.161
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "HALWIN-COUNCIL-SCHOOL",
+        "county": "Cornwall",
+        "gridref": "SW702339",
+        "latitude": "50.161",
+        "longitude": "-5.218",
+        "elevation (ft)": "540"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.39,
+          50.211
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "HAYLE-GWYTHIAN-ROAD",
+        "county": "Cornwall",
+        "gridref": "SW582400",
+        "latitude": "50.211",
+        "longitude": "-5.390",
+        "elevation (ft)": "167"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.393,
+          50.207
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "HAYLE-GWYTHIAN-ROAD",
+        "county": "Cornwall",
+        "gridref": "SW580396",
+        "latitude": "50.207",
+        "longitude": "-5.393",
+        "elevation (ft)": "98"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.442,
+          50.172
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "HAYLE-ST-ERTH",
+        "county": "Cornwall",
+        "gridref": "SW543359",
+        "latitude": "50.172",
+        "longitude": "-5.442",
+        "elevation (ft)": "50"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.736,
+          50.513
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "HELLAND-TREDETHY",
+        "county": "Cornwall",
+        "gridref": "SX061717",
+        "latitude": "50.513",
+        "longitude": "-4.736",
+        "elevation (ft)": "340"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.275,
+          50.101
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "HELSTON",
+        "county": "Cornwall",
+        "gridref": "SW659275",
+        "latitude": "50.101",
+        "longitude": "-5.275",
+        "elevation (ft)": "105"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.272,
+          50.106
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "HELSTON-TENDERAH",
+        "county": "Cornwall",
+        "gridref": "SW661280",
+        "latitude": "50.106",
+        "longitude": "-5.272",
+        "elevation (ft)": "210"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.556,
+          50.734
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "JACOBSTOW-RECTORY",
+        "county": "Cornwall",
+        "gridref": "SX197958",
+        "latitude": "50.734",
+        "longitude": "-4.556",
+        "elevation (ft)": "380"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.963,
+          50.322
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "LADOCK-PUMPING-STATION",
+        "county": "Cornwall",
+        "gridref": "SW892511",
+        "latitude": "50.322",
+        "longitude": "-4.963",
+        "elevation (ft)": "98"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.697,
+          50.073
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "LANDS-END-ST-SENNEN",
+        "county": "Cornwall",
+        "gridref": "SW356258",
+        "latitude": "50.073",
+        "longitude": "-5.697",
+        "elevation (ft)": "290"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.696,
+          50.071
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "LANDS-END-ST-SENNEN",
+        "county": "Cornwall",
+        "gridref": "SW356255",
+        "latitude": "50.071",
+        "longitude": "-5.696",
+        "elevation (ft)": "308"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.513,
+          50.605
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "LAUNCESTON-ALTARNUN",
+        "county": "Cornwall",
+        "gridref": "SX223814",
+        "latitude": "50.605",
+        "longitude": "-4.513",
+        "elevation (ft)": "620"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.319,
+          50.606
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "LAUNCESTON-HEXWORTHY",
+        "county": "Cornwall",
+        "gridref": "SX360810",
+        "latitude": "50.606",
+        "longitude": "-4.319",
+        "elevation (ft)": "410"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.331,
+          50.594
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "LAUNCESTON-LANDUE",
+        "county": "Cornwall",
+        "gridref": "SX351797",
+        "latitude": "50.594",
+        "longitude": "-4.331",
+        "elevation (ft)": "225"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.453,
+          50.569
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "LAUNCESTON-NORTH-HILL",
+        "county": "Cornwall",
+        "gridref": "SX264772",
+        "latitude": "50.569",
+        "longitude": "-4.453",
+        "elevation (ft)": "475"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.461,
+          50.572
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "LAUNCESTON-NORTH-HILL",
+        "county": "Cornwall",
+        "gridref": "SX258776",
+        "latitude": "50.572",
+        "longitude": "-4.461",
+        "elevation (ft)": "510"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.396,
+          50.633
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "LAUNCESTON-OLD-TREE-HOUSE",
+        "county": "Cornwall",
+        "gridref": "SX306842",
+        "latitude": "50.633",
+        "longitude": "-4.396",
+        "elevation (ft)": "600"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.353,
+          50.632
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "LAUNCESTON-PENDRUCCOMBE",
+        "county": "Cornwall",
+        "gridref": "SX336840",
+        "latitude": "50.632",
+        "longitude": "-4.353",
+        "elevation (ft)": "469"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.389,
+          50.615
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "LAUNCESTON-SOUTH-PETHERWIN",
+        "county": "Cornwall",
+        "gridref": "SX311822",
+        "latitude": "50.615",
+        "longitude": "-4.389",
+        "elevation (ft)": "470"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.353,
+          50.634
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "LAUNCESTON-TAMAR-TERRACE",
+        "county": "Cornwall",
+        "gridref": "SX337842",
+        "latitude": "50.634",
+        "longitude": "-4.353",
+        "elevation (ft)": "446"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.441,
+          50.182
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "LELANT-TREGILLY",
+        "county": "Cornwall",
+        "gridref": "SW544370",
+        "latitude": "50.182",
+        "longitude": "-5.441",
+        "elevation (ft)": "60"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.436,
+          50.187
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "LELANT-TREGILLY",
+        "county": "Cornwall",
+        "gridref": "SW548375",
+        "latitude": "50.187",
+        "longitude": "-5.436",
+        "elevation (ft)": "50"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.455,
+          50.181
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "LELANT-TREVETHOE-HOUSE",
+        "county": "Cornwall",
+        "gridref": "SW534369",
+        "latitude": "50.181",
+        "longitude": "-5.455",
+        "elevation (ft)": "100"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.617,
+          50.383
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "LERRYN-LUCASTES",
+        "county": "Cornwall",
+        "gridref": "SX140570",
+        "latitude": "50.383",
+        "longitude": "-4.617",
+        "elevation (ft)": "45"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.471,
+          50.455
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "LISKEARD-DEAN-TERRACE",
+        "county": "Cornwall",
+        "gridref": "SX247646",
+        "latitude": "50.455",
+        "longitude": "-4.471",
+        "elevation (ft)": "375"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.579,
+          50.459
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "LISKEARD-LEWARNE",
+        "county": "Cornwall",
+        "gridref": "SX170652",
+        "latitude": "50.459",
+        "longitude": "-4.579",
+        "elevation (ft)": "420"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.422,
+          50.416
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "LISKEARD-LITTLE-TRETHEW",
+        "county": "Cornwall",
+        "gridref": "SX280602",
+        "latitude": "50.416",
+        "longitude": "-4.422",
+        "elevation (ft)": "320"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.471,
+          50.444
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "LISKEARD-PENMILDER",
+        "county": "Cornwall",
+        "gridref": "SX246633",
+        "latitude": "50.444",
+        "longitude": "-4.471",
+        "elevation (ft)": "320"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.474,
+          50.441
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "LISKEARD-PENMILDER",
+        "county": "Cornwall",
+        "gridref": "SX244631",
+        "latitude": "50.441",
+        "longitude": "-4.474",
+        "elevation (ft)": "250"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.464,
+          50.481
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "LISKEARD-ST-CLEER",
+        "county": "Cornwall",
+        "gridref": "SX252675",
+        "latitude": "50.481",
+        "longitude": "-4.464",
+        "elevation (ft)": "620"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.537,
+          50.44
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "LISKEARD-ST-PINNOCK-RECTORY",
+        "county": "Cornwall",
+        "gridref": "SX199630",
+        "latitude": "50.440",
+        "longitude": "-4.537",
+        "elevation (ft)": "400"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.456,
+          50.452
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "LISKEARD-TREDHOWR",
+        "county": "Cornwall",
+        "gridref": "SX257642",
+        "latitude": "50.452",
+        "longitude": "-4.456",
+        "elevation (ft)": "480"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.449,
+          50.467
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "LISKEARD-TREVENTON",
+        "county": "Cornwall",
+        "gridref": "SX263659",
+        "latitude": "50.467",
+        "longitude": "-4.449",
+        "elevation (ft)": "360"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.943,
+          50.513
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "LITTLE-PETHERICK-ST-PETROC",
+        "county": "Cornwall",
+        "gridref": "SW914722",
+        "latitude": "50.513",
+        "longitude": "-4.943",
+        "elevation (ft)": "150"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.199,
+          49.968
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "LIZARD",
+        "county": "Cornwall",
+        "gridref": "SW707124",
+        "latitude": "49.968",
+        "longitude": "-5.199",
+        "elevation (ft)": "180"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.207,
+          49.963
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "LIZARD",
+        "county": "Cornwall",
+        "gridref": "SW701119",
+        "latitude": "49.963",
+        "longitude": "-5.207",
+        "elevation (ft)": "244"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.203,
+          49.967
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "LIZARD-TREGULLAS-HOUSE",
+        "county": "Cornwall",
+        "gridref": "SW704123",
+        "latitude": "49.967",
+        "longitude": "-5.203",
+        "elevation (ft)": "244"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.434,
+          50.391
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "LOOE-BRAY",
+        "county": "Cornwall",
+        "gridref": "SX270574",
+        "latitude": "50.391",
+        "longitude": "-4.434",
+        "elevation (ft)": "450"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.45,
+          50.383
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "LOOE-MORVAL",
+        "county": "Cornwall",
+        "gridref": "SX259566",
+        "latitude": "50.383",
+        "longitude": "-4.450",
+        "elevation (ft)": "150"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.488,
+          50.373
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "LOOE-POLTEANA",
+        "county": "Cornwall",
+        "gridref": "SX232555",
+        "latitude": "50.373",
+        "longitude": "-4.488",
+        "elevation (ft)": "60"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.661,
+          50.403
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "LOSTWITHIEL-LANWITHAN",
+        "county": "Cornwall",
+        "gridref": "SX110593",
+        "latitude": "50.403",
+        "longitude": "-4.661",
+        "elevation (ft)": "80"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.674,
+          50.407
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "LOSTWITHIEL-THE-TERRACE",
+        "county": "Cornwall",
+        "gridref": "SX101597",
+        "latitude": "50.407",
+        "longitude": "-4.674",
+        "elevation (ft)": "110"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.493,
+          50.145
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "LUDGVAN",
+        "county": "Cornwall",
+        "gridref": "SW505330",
+        "latitude": "50.145",
+        "longitude": "-5.493",
+        "elevation (ft)": "250"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.191,
+          50.346
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "MAKER-VICARAGE",
+        "county": "Cornwall",
+        "gridref": "SX442518",
+        "latitude": "50.346",
+        "longitude": "-4.191",
+        "elevation (ft)": "310"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.462,
+          50.123
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "MARAZION",
+        "county": "Cornwall",
+        "gridref": "SW526305",
+        "latitude": "50.123",
+        "longitude": "-5.462",
+        "elevation (ft)": "30"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.534,
+          50.8
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "MARHAMCHURCH-WIDCOTE",
+        "county": "Cornwall",
+        "gridref": "SS215031",
+        "latitude": "50.800",
+        "longitude": "-4.534",
+        "elevation (ft)": "72"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.028,
+          50.472
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "MAWGAN-PORTH-TRENANCE",
+        "county": "Cornwall",
+        "gridref": "SW852680",
+        "latitude": "50.472",
+        "longitude": "-5.028",
+        "elevation (ft)": "250"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.096,
+          50.106
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "MAWNAN-ANCHORAGE",
+        "county": "Cornwall",
+        "gridref": "SW787275",
+        "latitude": "50.106",
+        "longitude": "-5.096",
+        "elevation (ft)": "205"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.396,
+          50.428
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "MENHENIOT-COLDRENICK",
+        "county": "Cornwall",
+        "gridref": "SX299614",
+        "latitude": "50.428",
+        "longitude": "-4.396",
+        "elevation (ft)": "301"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.793,
+          50.272
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "MEVAGISSEY",
+        "county": "Cornwall",
+        "gridref": "SX010450",
+        "latitude": "50.272",
+        "longitude": "-4.793",
+        "elevation (ft)": "100"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.548,
+          50.902
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "MORWENSTOW-TONACOMBE-MANOR",
+        "county": "Cornwall",
+        "gridref": "SS209145",
+        "latitude": "50.902",
+        "longitude": "-4.548",
+        "elevation (ft)": "450"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.553,
+          50.91
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "MORWENSTOW-VICARAGE",
+        "county": "Cornwall",
+        "gridref": "SS206154",
+        "latitude": "50.910",
+        "longitude": "-4.553",
+        "elevation (ft)": "331"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.244,
+          50.025
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "MULLION-COUNCIL-SCHOOL",
+        "county": "Cornwall",
+        "gridref": "SW677189",
+        "latitude": "50.025",
+        "longitude": "-5.244",
+        "elevation (ft)": "206"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.253,
+          50.023
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "MULLION-POLURRIAN-HOTEL",
+        "county": "Cornwall",
+        "gridref": "SW670186",
+        "latitude": "50.023",
+        "longitude": "-5.253",
+        "elevation (ft)": "200"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.096,
+          50.421
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "NEWQUAY",
+        "county": "Cornwall",
+        "gridref": "SW801624",
+        "latitude": "50.421",
+        "longitude": "-5.096",
+        "elevation (ft)": "80"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.098,
+          50.424
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "NEWQUAY",
+        "county": "Cornwall",
+        "gridref": "SW800628",
+        "latitude": "50.424",
+        "longitude": "-5.098",
+        "elevation (ft)": "90"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.083,
+          50.416
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "NEWQUAY",
+        "county": "Cornwall",
+        "gridref": "SW811619",
+        "latitude": "50.416",
+        "longitude": "-5.083",
+        "elevation (ft)": "130"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.081,
+          50.411
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "NEWQUAY-MOUNT-WISE",
+        "county": "Cornwall",
+        "gridref": "SW812613",
+        "latitude": "50.411",
+        "longitude": "-5.081",
+        "elevation (ft)": "182"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.084,
+          50.41
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "NEWQUAY-RES",
+        "county": "Cornwall",
+        "gridref": "SW810612",
+        "latitude": "50.410",
+        "longitude": "-5.084",
+        "elevation (ft)": "214"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.017,
+          50.386
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "NEWQUAY-TRESILLIAN-HOUSE",
+        "county": "Cornwall",
+        "gridref": "SW856584",
+        "latitude": "50.386",
+        "longitude": "-5.017",
+        "elevation (ft)": "280"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.481,
+          50.562
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "NORTH-HILL-BASTREET",
+        "county": "Cornwall",
+        "gridref": "SX243765",
+        "latitude": "50.562",
+        "longitude": "-4.481",
+        "elevation (ft)": "765"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.392,
+          50.759
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "NORTH-TAMERTON-DAVIES",
+        "county": "Cornwall",
+        "gridref": "SX314982",
+        "latitude": "50.759",
+        "longitude": "-4.392",
+        "elevation (ft)": "390"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.407,
+          50.738
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "NORTH-TAMERTON-OGBEARE",
+        "county": "Cornwall",
+        "gridref": "SX302959",
+        "latitude": "50.738",
+        "longitude": "-4.407",
+        "elevation (ft)": "460"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.406,
+          50.738
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "NORTH-TAMERTON-OGBEARE",
+        "county": "Cornwall",
+        "gridref": "SX303959",
+        "latitude": "50.738",
+        "longitude": "-4.406",
+        "elevation (ft)": "440"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.941,
+          50.541
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "PADSTOW-BARRYS-LANE",
+        "county": "Cornwall",
+        "gridref": "SW917754",
+        "latitude": "50.541",
+        "longitude": "-4.941",
+        "elevation (ft)": "45"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.941,
+          50.542
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "PADSTOW-THE-NOOK",
+        "county": "Cornwall",
+        "gridref": "SW917755",
+        "latitude": "50.542",
+        "longitude": "-4.941",
+        "elevation (ft)": "80"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.944,
+          50.542
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "PADSTOW-THE-NOOK",
+        "county": "Cornwall",
+        "gridref": "SW914755",
+        "latitude": "50.542",
+        "longitude": "-4.944",
+        "elevation (ft)": "110"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.677,
+          50.342
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "PAR-STATION-PENELLICK",
+        "county": "Cornwall",
+        "gridref": "SX096526",
+        "latitude": "50.342",
+        "longitude": "-4.677",
+        "elevation (ft)": "240"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.007,
+          50.269
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "PENCALENICK-NEAR-TRURO",
+        "county": "Cornwall",
+        "gridref": "SW858453",
+        "latitude": "50.269",
+        "longitude": "-5.007",
+        "elevation (ft)": "100"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.765,
+          50.506
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "PENCARROW",
+        "county": "Cornwall",
+        "gridref": "SX040710",
+        "latitude": "50.506",
+        "longitude": "-4.765",
+        "elevation (ft)": "270"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.09,
+          50.162
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "PENRYN-ASHFIELD",
+        "county": "Cornwall",
+        "gridref": "SW793336",
+        "latitude": "50.162",
+        "longitude": "-5.090",
+        "elevation (ft)": "95"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.092,
+          50.186
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "PENRYN-ENYS",
+        "county": "Cornwall",
+        "gridref": "SW793363",
+        "latitude": "50.186",
+        "longitude": "-5.092",
+        "elevation (ft)": "100"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.114,
+          50.162
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "PENRYN-RES-ONE",
+        "county": "Cornwall",
+        "gridref": "SW777337",
+        "latitude": "50.162",
+        "longitude": "-5.114",
+        "elevation (ft)": "206"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.142,
+          50.18
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "PENRYN-ROSKROW",
+        "county": "Cornwall",
+        "gridref": "SW758358",
+        "latitude": "50.180",
+        "longitude": "-5.142",
+        "elevation (ft)": "550"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.407,
+          50.504
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "PENSILVA-PENLEE-LYNDHURST",
+        "county": "Cornwall",
+        "gridref": "SX294699",
+        "latitude": "50.504",
+        "longitude": "-4.407",
+        "elevation (ft)": "700"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.542,
+          50.125
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "PENZANCE-COUNTY-SCHOOL",
+        "county": "Cornwall",
+        "gridref": "SW469309",
+        "latitude": "50.125",
+        "longitude": "-5.542",
+        "elevation (ft)": "155"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.547,
+          50.112
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "PENZANCE-LOWER-LARIGGAN",
+        "county": "Cornwall",
+        "gridref": "SW464295",
+        "latitude": "50.112",
+        "longitude": "-5.547",
+        "elevation (ft)": "70"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.538,
+          50.117
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "PENZANCE-MORRAB",
+        "county": "Cornwall",
+        "gridref": "SW471301",
+        "latitude": "50.117",
+        "longitude": "-5.538",
+        "elevation (ft)": "94"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.535,
+          50.116
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "PENZANCE-MORRAB",
+        "county": "Cornwall",
+        "gridref": "SW474299",
+        "latitude": "50.116",
+        "longitude": "-5.535",
+        "elevation (ft)": "33"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.54,
+          50.116
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "PENZANCE-MORRAB",
+        "county": "Cornwall",
+        "gridref": "SW470300",
+        "latitude": "50.116",
+        "longitude": "-5.540",
+        "elevation (ft)": "70"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.538,
+          50.116
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "PENZANCE-MORRAB",
+        "county": "Cornwall",
+        "gridref": "SW471300",
+        "latitude": "50.116",
+        "longitude": "-5.538",
+        "elevation (ft)": "55"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.535,
+          50.119
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "PENZANCE-MORRAB",
+        "county": "Cornwall",
+        "gridref": "SW474303",
+        "latitude": "50.119",
+        "longitude": "-5.535",
+        "elevation (ft)": "50"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.563,
+          50.129
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "PENZANCE-POLTAIR",
+        "county": "Cornwall",
+        "gridref": "SW454315",
+        "latitude": "50.129",
+        "longitude": "-5.563",
+        "elevation (ft)": "243"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.56,
+          50.12
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "PENZANCE-ROSEHILL",
+        "county": "Cornwall",
+        "gridref": "SW456305",
+        "latitude": "50.120",
+        "longitude": "-5.560",
+        "elevation (ft)": "212"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.547,
+          50.122
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "PENZANCE-ST-CLAIR",
+        "county": "Cornwall",
+        "gridref": "SW465306",
+        "latitude": "50.122",
+        "longitude": "-5.547",
+        "elevation (ft)": "213"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.576,
+          50.127
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "PENZANCE-TRENGWAINTON-HOUSE",
+        "county": "Cornwall",
+        "gridref": "SW445313",
+        "latitude": "50.127",
+        "longitude": "-5.576",
+        "elevation (ft)": "400"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.542,
+          50.118
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "PENZANCE-TREVEAN",
+        "county": "Cornwall",
+        "gridref": "SW469302",
+        "latitude": "50.118",
+        "longitude": "-5.542",
+        "elevation (ft)": "90"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.578,
+          50.111
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "PENZANCE-TREWIDDEN",
+        "county": "Cornwall",
+        "gridref": "SW443296",
+        "latitude": "50.111",
+        "longitude": "-5.578",
+        "elevation (ft)": "275"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.413,
+          50.195
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "PHILLACK-RECTORY",
+        "county": "Cornwall",
+        "gridref": "SW565384",
+        "latitude": "50.195",
+        "longitude": "-5.413",
+        "elevation (ft)": "70"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.518,
+          50.332
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "POLPERRO-TALLAND-HILL",
+        "county": "Cornwall",
+        "gridref": "SX208510",
+        "latitude": "50.332",
+        "longitude": "-4.518",
+        "elevation (ft)": "120"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.654,
+          50.046
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "PORTHCURNO",
+        "county": "Cornwall",
+        "gridref": "SW385226",
+        "latitude": "50.046",
+        "longitude": "-5.654",
+        "elevation (ft)": "180"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.313,
+          50.088
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "PORTHLEVEN",
+        "county": "Cornwall",
+        "gridref": "SW631261",
+        "latitude": "50.088",
+        "longitude": "-5.313",
+        "elevation (ft)": "100"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.782,
+          50.26
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "PORTMELLON",
+        "county": "Cornwall",
+        "gridref": "SX018437",
+        "latitude": "50.260",
+        "longitude": "-4.782",
+        "elevation (ft)": "120"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.958,
+          50.296
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "PROBUS-LAMELLYN",
+        "county": "Cornwall",
+        "gridref": "SW894482",
+        "latitude": "50.296",
+        "longitude": "-4.958",
+        "elevation (ft)": "240"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.212,
+          50.322
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "RAME-RECTORY",
+        "county": "Cornwall",
+        "gridref": "SX426492",
+        "latitude": "50.322",
+        "longitude": "-4.212",
+        "elevation (ft)": "300"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.229,
+          50.236
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "REDRUTH-GREEN-LANE-NURSERIES",
+        "county": "Cornwall",
+        "gridref": "SW698423",
+        "latitude": "50.236",
+        "longitude": "-5.229",
+        "elevation (ft)": "270"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.292,
+          50.244
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "REDRUTH-TEHIDY",
+        "county": "Cornwall",
+        "gridref": "SW654434",
+        "latitude": "50.244",
+        "longitude": "-5.292",
+        "elevation (ft)": "287"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.233,
+          50.232
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "REDRUTH-TOLVEAN",
+        "county": "Cornwall",
+        "gridref": "SW695419",
+        "latitude": "50.232",
+        "longitude": "-5.233",
+        "elevation (ft)": "365"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.232,
+          50.229
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "REDRUTH-TREWIRGIE",
+        "county": "Cornwall",
+        "gridref": "SW696416",
+        "latitude": "50.229",
+        "longitude": "-5.232",
+        "elevation (ft)": "400"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.838,
+          50.407
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "ROCHE-GLENCOE",
+        "county": "Cornwall",
+        "gridref": "SW984601",
+        "latitude": "50.407",
+        "longitude": "-4.838",
+        "elevation (ft)": "602"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.847,
+          50.589
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "ROSCARROCK",
+        "county": "Cornwall",
+        "gridref": "SW986804",
+        "latitude": "50.589",
+        "longitude": "-4.847",
+        "elevation (ft)": "183"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.183,
+          49.988
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "RUAN-MINOR",
+        "county": "Cornwall",
+        "gridref": "SW719146",
+        "latitude": "49.988",
+        "longitude": "-5.183",
+        "elevation (ft)": "180"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.182,
+          49.994
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "RUAN-MINOR",
+        "county": "Cornwall",
+        "gridref": "SW720152",
+        "latitude": "49.994",
+        "longitude": "-5.182",
+        "elevation (ft)": "210"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.179,
+          49.999
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "RUAN-MINOR-POLTESCO",
+        "county": "Cornwall",
+        "gridref": "SW723158",
+        "latitude": "49.999",
+        "longitude": "-5.179",
+        "elevation (ft)": "120"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.308,
+          50.125
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "SITHNEY-COUNCIL-SCHOOL",
+        "county": "Cornwall",
+        "gridref": "SW636301",
+        "latitude": "50.125",
+        "longitude": "-5.308",
+        "elevation (ft)": "296"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.282,
+          50.13
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "SITHNEY-TREGATHENEN-RES",
+        "county": "Cornwall",
+        "gridref": "SW655306",
+        "latitude": "50.130",
+        "longitude": "-5.282",
+        "elevation (ft)": "400"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.202,
+          50.311
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "ST-AGNES-CHURCH-TOWN",
+        "county": "Cornwall",
+        "gridref": "SW721506",
+        "latitude": "50.311",
+        "longitude": "-5.202",
+        "elevation (ft)": "320"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.768,
+          50.336
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "ST-AUSTELL-CHARLESTOWN-OLD-VIC",
+        "county": "Cornwall",
+        "gridref": "SX031521",
+        "latitude": "50.336",
+        "longitude": "-4.768",
+        "elevation (ft)": "204"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.802,
+          50.335
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "ST-AUSTELL-COSGARNE",
+        "county": "Cornwall",
+        "gridref": "SX006521",
+        "latitude": "50.335",
+        "longitude": "-4.802",
+        "elevation (ft)": "194"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.791,
+          50.336
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "ST-AUSTELL-POLCARNE",
+        "county": "Cornwall",
+        "gridref": "SX014521",
+        "latitude": "50.336",
+        "longitude": "-4.791",
+        "elevation (ft)": "206"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.786,
+          50.34
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "ST-AUSTELL-POLTAIR-PUBLIC-GDNS",
+        "county": "Cornwall",
+        "gridref": "SX018525",
+        "latitude": "50.340",
+        "longitude": "-4.786",
+        "elevation (ft)": "310"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.814,
+          50.333
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "ST-AUSTELL-ST-MEWAN",
+        "county": "Cornwall",
+        "gridref": "SW998518",
+        "latitude": "50.333",
+        "longitude": "-4.814",
+        "elevation (ft)": "275"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.754,
+          50.365
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "ST-AUSTELL-TRETHURGY",
+        "county": "Cornwall",
+        "gridref": "SX042553",
+        "latitude": "50.365",
+        "longitude": "-4.754",
+        "elevation (ft)": "450"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.784,
+          50.339
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "ST-AUSTELL-TREVARNA",
+        "county": "Cornwall",
+        "gridref": "SX020525",
+        "latitude": "50.339",
+        "longitude": "-4.784",
+        "elevation (ft)": "300"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.803,
+          50.34
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "ST-AUSTELL-TREVARRICK",
+        "county": "Cornwall",
+        "gridref": "SX006526",
+        "latitude": "50.340",
+        "longitude": "-4.803",
+        "elevation (ft)": "170"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.638,
+          50.559
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "ST-BREWARD-DE-LANK-FILTER-WORKS",
+        "county": "Cornwall",
+        "gridref": "SX132765",
+        "latitude": "50.559",
+        "longitude": "-4.638",
+        "elevation (ft)": "725"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.488,
+          50.511
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "ST-CLEER-TREGARRIC",
+        "county": "Cornwall",
+        "gridref": "SX236708",
+        "latitude": "50.511",
+        "longitude": "-4.488",
+        "elevation (ft)": "800"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.183,
+          50.236
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "ST-DAY-SCHOOL",
+        "county": "Cornwall",
+        "gridref": "SW731421",
+        "latitude": "50.236",
+        "longitude": "-5.183",
+        "elevation (ft)": "390"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.126,
+          50.246
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "ST-DAY-SCHOOL",
+        "county": "Cornwall",
+        "gridref": "SW772431",
+        "latitude": "50.246",
+        "longitude": "-5.126",
+        "elevation (ft)": "346"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.842,
+          50.578
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "ST-ENDELLION-PARK-VILLA",
+        "county": "Cornwall",
+        "gridref": "SW988792",
+        "latitude": "50.578",
+        "longitude": "-4.842",
+        "elevation (ft)": "277"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.978,
+          50.389
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "ST-ENODER-RETYN",
+        "county": "Cornwall",
+        "gridref": "SW884586",
+        "latitude": "50.389",
+        "longitude": "-4.978",
+        "elevation (ft)": "230"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.985,
+          50.474
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "ST-EVAL-AIRFIELD-MET-OFFICE",
+        "county": "Cornwall",
+        "gridref": "SW883681",
+        "latitude": "50.474",
+        "longitude": "-4.985",
+        "elevation (ft)": "345"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.311,
+          50.394
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "ST-GERMANS-FAIRFIELD",
+        "county": "Cornwall",
+        "gridref": "SX358574",
+        "latitude": "50.394",
+        "longitude": "-4.311",
+        "elevation (ft)": "170"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.501,
+          50.199
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "ST-IVES-BUSSOW-MOOR-RES",
+        "county": "Cornwall",
+        "gridref": "SW502390",
+        "latitude": "50.199",
+        "longitude": "-5.501",
+        "elevation (ft)": "398"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.484,
+          50.213
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "ST-IVES-CEMETERY",
+        "county": "Cornwall",
+        "gridref": "SW515406",
+        "latitude": "50.213",
+        "longitude": "-5.484",
+        "elevation (ft)": "124"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.494,
+          50.208
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "ST-IVES-HALSETOWN-VICARAGE",
+        "county": "Cornwall",
+        "gridref": "SW508401",
+        "latitude": "50.208",
+        "longitude": "-5.494",
+        "elevation (ft)": "324"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.476,
+          50.202
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "ST-IVES-LISCORVAH",
+        "county": "Cornwall",
+        "gridref": "SW520392",
+        "latitude": "50.202",
+        "longitude": "-5.476",
+        "elevation (ft)": "300"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.24,
+          50.363
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "ST-JOHNS-DEVONPORT",
+        "county": "Cornwall",
+        "gridref": "SX408538",
+        "latitude": "50.363",
+        "longitude": "-4.240",
+        "elevation (ft)": "20"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.677,
+          50.124
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "ST-JUST",
+        "county": "Cornwall",
+        "gridref": "SW373314",
+        "latitude": "50.124",
+        "longitude": "-5.677",
+        "elevation (ft)": "400"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.119,
+          50.048
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "ST-KEVERNE-LANARTH",
+        "county": "Cornwall",
+        "gridref": "SW768211",
+        "latitude": "50.048",
+        "longitude": "-5.119",
+        "elevation (ft)": "290"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.147,
+          50.046
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "ST-KEVERNE-ROSUIC-COTTAGE",
+        "county": "Cornwall",
+        "gridref": "SW748209",
+        "latitude": "50.046",
+        "longitude": "-5.147",
+        "elevation (ft)": "250"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.467,
+          50.416
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "ST-KEYNE-LOCRENTON",
+        "county": "Cornwall",
+        "gridref": "SX248602",
+        "latitude": "50.416",
+        "longitude": "-4.467",
+        "elevation (ft)": "250"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.32,
+          49.915
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "ST-MARYS-COASTGUARD-STATION",
+        "county": "Cornwall",
+        "gridref": "SV900106",
+        "latitude": "49.915",
+        "longitude": "-6.320",
+        "elevation (ft)": "77"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.303,
+          49.929
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "ST-MARYS-COASTGUARD-STATION",
+        "county": "Cornwall",
+        "gridref": "SV912120",
+        "latitude": "49.929",
+        "longitude": "-6.303",
+        "elevation (ft)": "165"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.313,
+          49.914
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "ST-MARYS-COASTGUARD-STATION",
+        "county": "Cornwall",
+        "gridref": "SV905105",
+        "latitude": "49.914",
+        "longitude": "-6.313",
+        "elevation (ft)": "20"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.297,
+          49.923
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "ST-MARYS-COASTGUARD-STATION",
+        "county": "Cornwall",
+        "gridref": "SV917114",
+        "latitude": "49.923",
+        "longitude": "-6.297",
+        "elevation (ft)": "100"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.006,
+          50.158
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "ST-MAWES-LAWN-BANK",
+        "county": "Cornwall",
+        "gridref": "SW853330",
+        "latitude": "50.158",
+        "longitude": "-5.006",
+        "elevation (ft)": "60"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.998,
+          50.439
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "ST-MAWGAN-AIRFIELD",
+        "county": "Cornwall",
+        "gridref": "SW872641",
+        "latitude": "50.439",
+        "longitude": "-4.998",
+        "elevation (ft)": "337"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.253,
+          50.447
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "ST-MELLION-ELLBRIDGE",
+        "county": "Cornwall",
+        "gridref": "SX401632",
+        "latitude": "50.447",
+        "longitude": "-4.253",
+        "elevation (ft)": "200"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.241,
+          50.46
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "ST-MELLION-PENTILLIE-CASTLE",
+        "county": "Cornwall",
+        "gridref": "SX410646",
+        "latitude": "50.460",
+        "longitude": "-4.241",
+        "elevation (ft)": "150"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.241,
+          50.459
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "ST-MELLION-PENTILLIE-CASTLE",
+        "county": "Cornwall",
+        "gridref": "SX410645",
+        "latitude": "50.459",
+        "longitude": "-4.241",
+        "elevation (ft)": "150"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.272,
+          50.467
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "ST-MELLION-RECTORY",
+        "county": "Cornwall",
+        "gridref": "SX388655",
+        "latitude": "50.467",
+        "longitude": "-4.272",
+        "elevation (ft)": "400"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.476,
+          50.118
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "ST-MICHAELS-MOUNT",
+        "county": "Cornwall",
+        "gridref": "SW516300",
+        "latitude": "50.118",
+        "longitude": "-5.476",
+        "elevation (ft)": "50"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.874,
+          50.557
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "ST-MINVER-LUNDY-BAY",
+        "county": "Cornwall",
+        "gridref": "SW965770",
+        "latitude": "50.557",
+        "longitude": "-4.874",
+        "elevation (ft)": "180"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.924,
+          50.564
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "ST-MINVER-TREBETHERICK",
+        "county": "Cornwall",
+        "gridref": "SW930779",
+        "latitude": "50.564",
+        "longitude": "-4.924",
+        "elevation (ft)": "100"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.939,
+          50.512
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "ST-PETROC-MINOR-PADSTOW",
+        "county": "Cornwall",
+        "gridref": "SW917721",
+        "latitude": "50.512",
+        "longitude": "-4.939",
+        "elevation (ft)": "96"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.188,
+          49.991
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "ST-RUAN-RECTORY",
+        "county": "Cornwall",
+        "gridref": "SW716149",
+        "latitude": "49.991",
+        "longitude": "-5.188",
+        "elevation (ft)": "100"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.859,
+          50.331
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "ST-STEPHEN-HENDRA-PUMPING-STATION",
+        "county": "Cornwall",
+        "gridref": "SW966518",
+        "latitude": "50.331",
+        "longitude": "-4.859",
+        "elevation (ft)": "234"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.866,
+          50.459
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "ST-WENN-TREWOLLACK",
+        "county": "Cornwall",
+        "gridref": "SW967660",
+        "latitude": "50.459",
+        "longitude": "-4.866",
+        "elevation (ft)": "251"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.316,
+          50.547
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "STOKE-CLIMSLAND-SCHOOL",
+        "county": "Cornwall",
+        "gridref": "SX360744",
+        "latitude": "50.547",
+        "longitude": "-4.316",
+        "elevation (ft)": "450"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.496,
+          50.873
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "STRATTON-KILKHAMPTON-PENSTOWE",
+        "county": "Cornwall",
+        "gridref": "SS245111",
+        "latitude": "50.873",
+        "longitude": "-4.496",
+        "elevation (ft)": "475"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.525,
+          50.841
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "STRATTON-POUGHILL-TRELANA",
+        "county": "Cornwall",
+        "gridref": "SS223076",
+        "latitude": "50.841",
+        "longitude": "-4.525",
+        "elevation (ft)": "200"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.528,
+          50.845
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "STRATTON-POUGHILL-TRELANA",
+        "county": "Cornwall",
+        "gridref": "SS221081",
+        "latitude": "50.845",
+        "longitude": "-4.528",
+        "elevation (ft)": "200"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.5,
+          50.749
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "STRATTON-WEEK-ST-MARY",
+        "county": "Cornwall",
+        "gridref": "SX237974",
+        "latitude": "50.749",
+        "longitude": "-4.500",
+        "elevation (ft)": "510"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.755,
+          50.668
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "TINTAGEL",
+        "county": "Cornwall",
+        "gridref": "SX054889",
+        "latitude": "50.668",
+        "longitude": "-4.755",
+        "elevation (ft)": "280"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.755,
+          50.669
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "TINTAGEL-KING-ARTHURS-CASTLE-HOTEL",
+        "county": "Cornwall",
+        "gridref": "SX054890",
+        "latitude": "50.669",
+        "longitude": "-4.755",
+        "elevation (ft)": "245"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.283,
+          50.367
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "TORPOINT-TRETHILL-HOUSE",
+        "county": "Cornwall",
+        "gridref": "SX377544",
+        "latitude": "50.367",
+        "longitude": "-4.283",
+        "elevation (ft)": "200"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.206,
+          50.389
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "TORPOINT-WILCOVE",
+        "county": "Cornwall",
+        "gridref": "SX432566",
+        "latitude": "50.389",
+        "longitude": "-4.206",
+        "elevation (ft)": "40"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.914,
+          50.558
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "TREBETHERICK-PENDALEN",
+        "county": "Cornwall",
+        "gridref": "SW937772",
+        "latitude": "50.558",
+        "longitude": "-4.914",
+        "elevation (ft)": "150"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.892,
+          50.568
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "TREGLINES-ST-MINVER",
+        "county": "Cornwall",
+        "gridref": "SW953783",
+        "latitude": "50.568",
+        "longitude": "-4.892",
+        "elevation (ft)": "140"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.943,
+          50.26
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "TREGONY-TREWARTHENICK",
+        "county": "Cornwall",
+        "gridref": "SW903441",
+        "latitude": "50.260",
+        "longitude": "-4.943",
+        "elevation (ft)": "200"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.84,
+          50.576
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "TRELIGHTS-GWEL-MOR",
+        "county": "Cornwall",
+        "gridref": "SW990790",
+        "latitude": "50.576",
+        "longitude": "-4.840",
+        "elevation (ft)": "365"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.328,
+          49.948
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "TRESCO-ABBEY",
+        "county": "Cornwall",
+        "gridref": "SV896143",
+        "latitude": "49.948",
+        "longitude": "-6.328",
+        "elevation (ft)": "40"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.324,
+          49.951
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "TRESCO-ROWESFIELD",
+        "county": "Cornwall",
+        "gridref": "SV899146",
+        "latitude": "49.951",
+        "longitude": "-6.324",
+        "elevation (ft)": "40"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.979,
+          50.545
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "TREVONE-PENTONWARRA",
+        "county": "Cornwall",
+        "gridref": "SW890759",
+        "latitude": "50.545",
+        "longitude": "-4.979",
+        "elevation (ft)": "25"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.045,
+          50.265
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "TRURO-AGAR-VILLA",
+        "county": "Cornwall",
+        "gridref": "SW830450",
+        "latitude": "50.265",
+        "longitude": "-5.045",
+        "elevation (ft)": "50"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.044,
+          50.266
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "TRURO-ALVERTON",
+        "county": "Cornwall",
+        "gridref": "SW831451",
+        "latitude": "50.266",
+        "longitude": "-5.044",
+        "elevation (ft)": "30"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.077,
+          50.238
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "TRURO-KILLIOW",
+        "county": "Cornwall",
+        "gridref": "SW807421",
+        "latitude": "50.238",
+        "longitude": "-5.077",
+        "elevation (ft)": "230"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.035,
+          50.263
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "TRURO-PENARTH",
+        "county": "Cornwall",
+        "gridref": "SW837446",
+        "latitude": "50.263",
+        "longitude": "-5.035",
+        "elevation (ft)": "200"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.052,
+          50.202
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "TRURO-PORTHGWIDDEN",
+        "county": "Cornwall",
+        "gridref": "SW823380",
+        "latitude": "50.202",
+        "longitude": "-5.052",
+        "elevation (ft)": "65"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.056,
+          50.264
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "TRURO-ROYAL-INSTITUTION",
+        "county": "Cornwall",
+        "gridref": "SW823449",
+        "latitude": "50.264",
+        "longitude": "-5.056",
+        "elevation (ft)": "83"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.991,
+          50.23
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "TRURO-ST-MICHAEL-PENKEVIL",
+        "county": "Cornwall",
+        "gridref": "SW867410",
+        "latitude": "50.230",
+        "longitude": "-4.991",
+        "elevation (ft)": "230"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.052,
+          50.259
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "TRURO-STRANGWAYS-TERRACE",
+        "county": "Cornwall",
+        "gridref": "SW825444",
+        "latitude": "50.259",
+        "longitude": "-5.052",
+        "elevation (ft)": "90"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.068,
+          50.265
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "TRURO-TREGOLLS",
+        "county": "Cornwall",
+        "gridref": "SW814450",
+        "latitude": "50.265",
+        "longitude": "-5.068",
+        "elevation (ft)": "100"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.043,
+          50.264
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "TRURO-TREGOLLS",
+        "county": "Cornwall",
+        "gridref": "SW832448",
+        "latitude": "50.264",
+        "longitude": "-5.043",
+        "elevation (ft)": "65"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.023,
+          50.278
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "TRURO-WW-LOWER-TREGURRA",
+        "county": "Cornwall",
+        "gridref": "SW847464",
+        "latitude": "50.278",
+        "longitude": "-5.023",
+        "elevation (ft)": "50"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.831,
+          50.516
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "WADEBRIDGE-BRYN",
+        "county": "Cornwall",
+        "gridref": "SW993722",
+        "latitude": "50.516",
+        "longitude": "-4.831",
+        "elevation (ft)": "50"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.832,
+          50.513
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "WADEBRIDGE-GUINEA-PORT",
+        "county": "Cornwall",
+        "gridref": "SW993720",
+        "latitude": "50.513",
+        "longitude": "-4.832",
+        "elevation (ft)": "23"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.855,
+          50.511
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "WADEBRIDGE-ST-BREOCK",
+        "county": "Cornwall",
+        "gridref": "SW977718",
+        "latitude": "50.511",
+        "longitude": "-4.855",
+        "elevation (ft)": "170"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.821,
+          50.513
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "WADEBRIDGE-ST-BREOCK",
+        "county": "Cornwall",
+        "gridref": "SX000719",
+        "latitude": "50.513",
+        "longitude": "-4.821",
+        "elevation (ft)": "20"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.795,
+          50.559
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "WADEBRIDGE-ST-KEW",
+        "county": "Cornwall",
+        "gridref": "SX021770",
+        "latitude": "50.559",
+        "longitude": "-4.795",
+        "elevation (ft)": "100"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.802,
+          50.575
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "WADEBRIDGE-TREHARROCK",
+        "county": "Cornwall",
+        "gridref": "SX017788",
+        "latitude": "50.575",
+        "longitude": "-4.802",
+        "elevation (ft)": "320"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.853,
+          50.52
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "WADEBRIDGE-TREVANSON",
+        "county": "Cornwall",
+        "gridref": "SW978728",
+        "latitude": "50.520",
+        "longitude": "-4.853",
+        "elevation (ft)": "155"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.845,
+          50.535
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "WADEBRIDGE-TREWORNAN",
+        "county": "Cornwall",
+        "gridref": "SW984744",
+        "latitude": "50.535",
+        "longitude": "-4.845",
+        "elevation (ft)": "30"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.251,
+          50.131
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "WENDRON-BODERWENNACK",
+        "county": "Cornwall",
+        "gridref": "SW677306",
+        "latitude": "50.131",
+        "longitude": "-5.251",
+        "elevation (ft)": "458"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.247,
+          50.184
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "WENDRON-NINE-MAIDENS",
+        "county": "Cornwall",
+        "gridref": "SW682365",
+        "latitude": "50.184",
+        "longitude": "-5.247",
+        "elevation (ft)": "700"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.828,
+          50.453
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "WITHIEL-RECTORY",
+        "county": "Cornwall",
+        "gridref": "SW993652",
+        "latitude": "50.453",
+        "longitude": "-4.828",
+        "elevation (ft)": "360"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.085,
+          50.318
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "ZELAH-CHYVERTON",
+        "county": "Cornwall",
+        "gridref": "SW805510",
+        "latitude": "50.318",
+        "longitude": "-5.085",
+        "elevation (ft)": "320"
+      }
+    }
+  ]
+}

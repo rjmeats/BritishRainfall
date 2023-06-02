@@ -1,0 +1,6851 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.515,
+          53.076
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "ALDERWASLEY",
+        "county": "Derbyshire",
+        "gridref": "SK326533",
+        "latitude": "53.076",
+        "longitude": "-1.515",
+        "elevation (ft)": "541"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.516,
+          53.074
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "ALDERWASLEY",
+        "county": "Derbyshire",
+        "gridref": "SK325531",
+        "latitude": "53.074",
+        "longitude": "-1.516",
+        "elevation (ft)": "540"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.842,
+          53.445
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "ALPORT-MOOR",
+        "county": "Derbyshire",
+        "gridref": "SK106943",
+        "latitude": "53.445",
+        "longitude": "-1.842",
+        "elevation (ft)": "1790"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.801,
+          53.42
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "ALPORT-MOOR-ALPORT-CASTLE",
+        "county": "Derbyshire",
+        "gridref": "SK133915",
+        "latitude": "53.420",
+        "longitude": "-1.801",
+        "elevation (ft)": "955"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.801,
+          53.424
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "ALPORT-MOOR-ALPORT-CASTLE",
+        "county": "Derbyshire",
+        "gridref": "SK133919",
+        "latitude": "53.424",
+        "longitude": "-1.801",
+        "elevation (ft)": "975"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.813,
+          53.439
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "ALPORT-MOOR-GLETHERING-CLOUGH",
+        "county": "Derbyshire",
+        "gridref": "SK125936",
+        "latitude": "53.439",
+        "longitude": "-1.813",
+        "elevation (ft)": "1640"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.484,
+          53.074
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "AMBERGATE-RES",
+        "county": "Derbyshire",
+        "gridref": "SK347531",
+        "latitude": "53.074",
+        "longitude": "-1.484",
+        "elevation (ft)": "690"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.479,
+          53.069
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "AMBERGATE-RES",
+        "county": "Derbyshire",
+        "gridref": "SK350526",
+        "latitude": "53.069",
+        "longitude": "-1.479",
+        "elevation (ft)": "680"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.738,
+          53.015
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "ASHBOURNE-THE-MANSION",
+        "county": "Derbyshire",
+        "gridref": "SK177464",
+        "latitude": "53.015",
+        "longitude": "-1.738",
+        "elevation (ft)": "396"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.745,
+          53.014
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "ASHBOURNE-VICARAGE",
+        "county": "Derbyshire",
+        "gridref": "SK172463",
+        "latitude": "53.014",
+        "longitude": "-1.745",
+        "elevation (ft)": "500"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.733,
+          53.021
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "ASHBOURNE-WINDMILL-LANE",
+        "county": "Derbyshire",
+        "gridref": "SK180471",
+        "latitude": "53.021",
+        "longitude": "-1.733",
+        "elevation (ft)": "535"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.724,
+          53.01
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "ASHBOURNE-WW",
+        "county": "Derbyshire",
+        "gridref": "SK186459",
+        "latitude": "53.010",
+        "longitude": "-1.724",
+        "elevation (ft)": "582"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.69,
+          52.993
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "ASHBOURNE-YELDERSLEY-HALL",
+        "county": "Derbyshire",
+        "gridref": "SK209440",
+        "latitude": "52.993",
+        "longitude": "-1.690",
+        "elevation (ft)": "560"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.899,
+          53.413
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "ASHOP-HEAD",
+        "county": "Derbyshire",
+        "gridref": "SK068907",
+        "latitude": "53.413",
+        "longitude": "-1.899",
+        "elevation (ft)": "1650"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.713,
+          53.372
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "ASHOPTON-COCKBRIDGE-FARM",
+        "county": "Derbyshire",
+        "gridref": "SK192862",
+        "latitude": "53.372",
+        "longitude": "-1.713",
+        "elevation (ft)": "620"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.681,
+          53.384
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "ASHOPTON-CUTTHROAT-BRIDGE",
+        "county": "Derbyshire",
+        "gridref": "SK213875",
+        "latitude": "53.384",
+        "longitude": "-1.681",
+        "elevation (ft)": "994"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.737,
+          53.381
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "ASHOPTON-GRIMBO-CARR",
+        "county": "Derbyshire",
+        "gridref": "SK176872",
+        "latitude": "53.381",
+        "longitude": "-1.737",
+        "elevation (ft)": "1100"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.756,
+          53.389
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "ASHOPTON-HAGLEE",
+        "county": "Derbyshire",
+        "gridref": "SK163881",
+        "latitude": "53.389",
+        "longitude": "-1.756",
+        "elevation (ft)": "783"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.71,
+          53.373
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "ASHOPTON-INN",
+        "county": "Derbyshire",
+        "gridref": "SK194863",
+        "latitude": "53.373",
+        "longitude": "-1.710",
+        "elevation (ft)": "610"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.647,
+          53.387
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "ASHOPTON-MOSCAR-FLAT",
+        "county": "Derbyshire",
+        "gridref": "SK236879",
+        "latitude": "53.387",
+        "longitude": "-1.647",
+        "elevation (ft)": "1154"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.719,
+          53.366
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "ASHOPTON-WIN-HILL",
+        "county": "Derbyshire",
+        "gridref": "SK188855",
+        "latitude": "53.366",
+        "longitude": "-1.719",
+        "elevation (ft)": "1155"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.719,
+          53.365
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "ASHOPTON-WIN-HILL",
+        "county": "Derbyshire",
+        "gridref": "SK188854",
+        "latitude": "53.365",
+        "longitude": "-1.719",
+        "elevation (ft)": "1240"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.741,
+          53.374
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "ASHOPTON-WOOLER-KNOLL",
+        "county": "Derbyshire",
+        "gridref": "SK173864",
+        "latitude": "53.374",
+        "longitude": "-1.741",
+        "elevation (ft)": "1080"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.693,
+          53.219
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "BAKEWELL-ASHFORD-ROAD",
+        "county": "Derbyshire",
+        "gridref": "SK206691",
+        "latitude": "53.219",
+        "longitude": "-1.693",
+        "elevation (ft)": "500"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.677,
+          53.212
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "BAKEWELL-CATCLIFF",
+        "county": "Derbyshire",
+        "gridref": "SK217684",
+        "latitude": "53.212",
+        "longitude": "-1.677",
+        "elevation (ft)": "411"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.658,
+          53.272
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "BAKEWELL-STONY-MIDDLETON",
+        "county": "Derbyshire",
+        "gridref": "SK229751",
+        "latitude": "53.272",
+        "longitude": "-1.658",
+        "elevation (ft)": "692"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.658,
+          53.275
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "BAKEWELL-STONY-MIDDLETON",
+        "county": "Derbyshire",
+        "gridref": "SK229754",
+        "latitude": "53.275",
+        "longitude": "-1.658",
+        "elevation (ft)": "660"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.694,
+          53.346
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "BAMFORD",
+        "county": "Derbyshire",
+        "gridref": "SK205833",
+        "latitude": "53.346",
+        "longitude": "-1.694",
+        "elevation (ft)": "500"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.698,
+          53.343
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "BAMFORD-ENGINEERS-OFFICE",
+        "county": "Derbyshire",
+        "gridref": "SK202829",
+        "latitude": "53.343",
+        "longitude": "-1.698",
+        "elevation (ft)": "509"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.683,
+          53.343
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "BAMFORD-FILTERS",
+        "county": "Derbyshire",
+        "gridref": "SK212830",
+        "latitude": "53.343",
+        "longitude": "-1.683",
+        "elevation (ft)": "656"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.704,
+          53.362
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "BAMFORD-YORKSHIRE-BRIDGE-WEIR",
+        "county": "Derbyshire",
+        "gridref": "SK198850",
+        "latitude": "53.362",
+        "longitude": "-1.704",
+        "elevation (ft)": "560"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.788,
+          53.475
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "BARROW-CLOUGH",
+        "county": "Derbyshire",
+        "gridref": "SK142976",
+        "latitude": "53.475",
+        "longitude": "-1.788",
+        "elevation (ft)": "1330"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.618,
+          53.251
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "BASLOW-OVER-END",
+        "county": "Derbyshire",
+        "gridref": "SK256727",
+        "latitude": "53.251",
+        "longitude": "-1.618",
+        "elevation (ft)": "500"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.618,
+          53.247
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "BASLOW-TITHEACRE",
+        "county": "Derbyshire",
+        "gridref": "SK256723",
+        "latitude": "53.247",
+        "longitude": "-1.618",
+        "elevation (ft)": "500"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.622,
+          53.247
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "BASLOW-TITHEACRE",
+        "county": "Derbyshire",
+        "gridref": "SK253723",
+        "latitude": "53.247",
+        "longitude": "-1.622",
+        "elevation (ft)": "425"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.478,
+          53.025
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "BELPER-FERNSLOPE",
+        "county": "Derbyshire",
+        "gridref": "SK351477",
+        "latitude": "53.025",
+        "longitude": "-1.478",
+        "elevation (ft)": "356"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.486,
+          53.017
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "BELPER-HERBERT-STRUTT-SCHOOL",
+        "county": "Derbyshire",
+        "gridref": "SK346468",
+        "latitude": "53.017",
+        "longitude": "-1.486",
+        "elevation (ft)": "203"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.48,
+          53.001
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "BELPER-MILFORD",
+        "county": "Derbyshire",
+        "gridref": "SK350450",
+        "latitude": "53.001",
+        "longitude": "-1.480",
+        "elevation (ft)": "210"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.486,
+          53.028
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "BELPER-QUARRY-BANK",
+        "county": "Derbyshire",
+        "gridref": "SK346480",
+        "latitude": "53.028",
+        "longitude": "-1.486",
+        "elevation (ft)": "225"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.483,
+          53.031
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "BELPER-QUARRY-BANK",
+        "county": "Derbyshire",
+        "gridref": "SK348483",
+        "latitude": "53.031",
+        "longitude": "-1.483",
+        "elevation (ft)": "280"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.768,
+          53.131
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "BIGGIN-SCHOOL",
+        "county": "Derbyshire",
+        "gridref": "SK156593",
+        "latitude": "53.131",
+        "longitude": "-1.768",
+        "elevation (ft)": "991"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.768,
+          53.42
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "BIRCHINLEE-MOOR-COTE-RIDGE",
+        "county": "Derbyshire",
+        "gridref": "SK155915",
+        "latitude": "53.420",
+        "longitude": "-1.768",
+        "elevation (ft)": "1440"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.831,
+          53.476
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "BLACK-CLOUGH-WOODHEAD",
+        "county": "Derbyshire",
+        "gridref": "SK113977",
+        "latitude": "53.476",
+        "longitude": "-1.831",
+        "elevation (ft)": "1700"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.78,
+          53.389
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "BLACKDEAN-MOOR-CROOKSTONE",
+        "county": "Derbyshire",
+        "gridref": "SK147880",
+        "latitude": "53.389",
+        "longitude": "-1.780",
+        "elevation (ft)": "1460"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.81,
+          53.398
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "BLACKDEN-BROOK",
+        "county": "Derbyshire",
+        "gridref": "SK127890",
+        "latitude": "53.398",
+        "longitude": "-1.810",
+        "elevation (ft)": "1070"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.848,
+          53.461
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "BLEAKLOW-HILL",
+        "county": "Derbyshire",
+        "gridref": "SK102960",
+        "latitude": "53.461",
+        "longitude": "-1.848",
+        "elevation (ft)": "2050"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.861,
+          53.478
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "BLEAKLOW-HILL-DOWSTONE-ROCKS",
+        "county": "Derbyshire",
+        "gridref": "SK093979",
+        "latitude": "53.478",
+        "longitude": "-1.861",
+        "elevation (ft)": "1718"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.81,
+          53.482
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "BLEAKLOW-HILL-FAR-BLACK-CLOUGH",
+        "county": "Derbyshire",
+        "gridref": "SK127984",
+        "latitude": "53.482",
+        "longitude": "-1.810",
+        "elevation (ft)": "1683"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.828,
+          53.463
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "BLEAKLOW-STONES",
+        "county": "Derbyshire",
+        "gridref": "SK115963",
+        "latitude": "53.463",
+        "longitude": "-1.828",
+        "elevation (ft)": "2060"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.305,
+          53.234
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "BOLSOVER-COLLIERY",
+        "county": "Derbyshire",
+        "gridref": "SK465710",
+        "latitude": "53.234",
+        "longitude": "-1.305",
+        "elevation (ft)": "275"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.468,
+          53.122
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "BRACKENFIELD-LINDWAY-RES",
+        "county": "Derbyshire",
+        "gridref": "SK357584",
+        "latitude": "53.122",
+        "longitude": "-1.468",
+        "elevation (ft)": "447"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.785,
+          53.316
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "BRADWELL-MOSS-RAKE-HEAD",
+        "county": "Derbyshire",
+        "gridref": "SK144799",
+        "latitude": "53.316",
+        "longitude": "-1.785",
+        "elevation (ft)": "1435"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.758,
+          53.327
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "BRADWELL-PARADISE-FARM",
+        "county": "Derbyshire",
+        "gridref": "SK162811",
+        "latitude": "53.327",
+        "longitude": "-1.758",
+        "elevation (ft)": "1060"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.681,
+          52.973
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "BRAILSFORD-SHIRLEY-HOUSE",
+        "county": "Derbyshire",
+        "gridref": "SK215418",
+        "latitude": "52.973",
+        "longitude": "-1.681",
+        "elevation (ft)": "425"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.434,
+          52.969
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "BREADSALL-PRIORY",
+        "county": "Derbyshire",
+        "gridref": "SK381414",
+        "latitude": "52.969",
+        "longitude": "-1.434",
+        "elevation (ft)": "370"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.304,
+          52.898
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "BREASTON",
+        "county": "Derbyshire",
+        "gridref": "SK469336",
+        "latitude": "52.898",
+        "longitude": "-1.304",
+        "elevation (ft)": "115"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.556,
+          52.8
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "BRETBY-PARK-BURTON",
+        "county": "Derbyshire",
+        "gridref": "SK300225",
+        "latitude": "52.800",
+        "longitude": "-1.556",
+        "elevation (ft)": "340"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.747,
+          53.462
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "BROADHEAD-CLOUGH",
+        "county": "Derbyshire",
+        "gridref": "SK169962",
+        "latitude": "53.462",
+        "longitude": "-1.747",
+        "elevation (ft)": "1010"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.609,
+          53.343
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "BURBAGE-HOUSE",
+        "county": "Derbyshire",
+        "gridref": "SK261830",
+        "latitude": "53.343",
+        "longitude": "-1.609",
+        "elevation (ft)": "1277"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.614,
+          53.318
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "BURBAGE-LOWER-BURBAGE",
+        "county": "Derbyshire",
+        "gridref": "SK258802",
+        "latitude": "53.318",
+        "longitude": "-1.614",
+        "elevation (ft)": "924"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.901,
+          53.252
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "BUXTON-ASHWOOD-DALE-SEWAGE-WORKS",
+        "county": "Derbyshire",
+        "gridref": "SK067728",
+        "latitude": "53.252",
+        "longitude": "-1.901",
+        "elevation (ft)": "1010"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.946,
+          53.232
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "BUXTON-AXE-EDGE",
+        "county": "Derbyshire",
+        "gridref": "SK037705",
+        "latitude": "53.232",
+        "longitude": "-1.946",
+        "elevation (ft)": "1620"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.958,
+          53.251
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "BUXTON-BERRY-CLOUGH",
+        "county": "Derbyshire",
+        "gridref": "SK029727",
+        "latitude": "53.251",
+        "longitude": "-1.958",
+        "elevation (ft)": "1550"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.949,
+          53.252
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "BUXTON-BURBAGE-EDGE",
+        "county": "Derbyshire",
+        "gridref": "SK035728",
+        "latitude": "53.252",
+        "longitude": "-1.949",
+        "elevation (ft)": "1400"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.892,
+          53.296
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "BUXTON-DOVE-HOLES",
+        "county": "Derbyshire",
+        "gridref": "SK073777",
+        "latitude": "53.296",
+        "longitude": "-1.892",
+        "elevation (ft)": "1095"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.973,
+          53.242
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "BUXTON-GOYTS-MOSS",
+        "county": "Derbyshire",
+        "gridref": "SK019717",
+        "latitude": "53.242",
+        "longitude": "-1.973",
+        "elevation (ft)": "1410"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.98,
+          53.271
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "BUXTON-GOYTSHEAD",
+        "county": "Derbyshire",
+        "gridref": "SK014749",
+        "latitude": "53.271",
+        "longitude": "-1.980",
+        "elevation (ft)": "910"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.983,
+          53.27
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "BUXTON-GOYTSHEAD",
+        "county": "Derbyshire",
+        "gridref": "SK012748",
+        "latitude": "53.270",
+        "longitude": "-1.983",
+        "elevation (ft)": "924"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.871,
+          53.269
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "BUXTON-GREEN-FAIRFIELD",
+        "county": "Derbyshire",
+        "gridref": "SK087747",
+        "latitude": "53.269",
+        "longitude": "-1.871",
+        "elevation (ft)": "1120"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.852,
+          53.207
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "BUXTON-HURDLOW-TOP",
+        "county": "Derbyshire",
+        "gridref": "SK100678",
+        "latitude": "53.207",
+        "longitude": "-1.852",
+        "elevation (ft)": "1267"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.922,
+          53.273
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "BUXTON-LIGHTWOOD",
+        "county": "Derbyshire",
+        "gridref": "SK053751",
+        "latitude": "53.273",
+        "longitude": "-1.922",
+        "elevation (ft)": "1300"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.92,
+          53.272
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "BUXTON-LIGHTWOOD",
+        "county": "Derbyshire",
+        "gridref": "SK054750",
+        "latitude": "53.272",
+        "longitude": "-1.920",
+        "elevation (ft)": "1191"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.955,
+          53.274
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "BUXTON-LONGHILL",
+        "county": "Derbyshire",
+        "gridref": "SK031752",
+        "latitude": "53.274",
+        "longitude": "-1.955",
+        "elevation (ft)": "1390"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.954,
+          53.238
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "BUXTON-PORTOBELLO-BAR",
+        "county": "Derbyshire",
+        "gridref": "SK032712",
+        "latitude": "53.238",
+        "longitude": "-1.954",
+        "elevation (ft)": "1600"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.94,
+          53.238
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "BUXTON-STANLEY-MOOR",
+        "county": "Derbyshire",
+        "gridref": "SK041712",
+        "latitude": "53.238",
+        "longitude": "-1.940",
+        "elevation (ft)": "1340"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.916,
+          53.26
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "BUXTON-TERRACE-SLOPES",
+        "county": "Derbyshire",
+        "gridref": "SK057736",
+        "latitude": "53.260",
+        "longitude": "-1.916",
+        "elevation (ft)": "988"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.914,
+          53.258
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "BUXTON-TERRACE-SLOPES",
+        "county": "Derbyshire",
+        "gridref": "SK058734",
+        "latitude": "53.258",
+        "longitude": "-1.914",
+        "elevation (ft)": "1007"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.958,
+          53.266
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "BUXTON-WILD-MOOR",
+        "county": "Derbyshire",
+        "gridref": "SK029743",
+        "latitude": "53.266",
+        "longitude": "-1.958",
+        "elevation (ft)": "1140"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.778,
+          53.342
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "CASTLETON-DERBYSHIRE",
+        "county": "Derbyshire",
+        "gridref": "SK149828",
+        "latitude": "53.342",
+        "longitude": "-1.778",
+        "elevation (ft)": "625"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.803,
+          53.335
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "CASTLETON-ROWTER-FARM",
+        "county": "Derbyshire",
+        "gridref": "SK132820",
+        "latitude": "53.335",
+        "longitude": "-1.803",
+        "elevation (ft)": "1395"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.899,
+          53.319
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "CHAPEL-EN-LE-FRITH",
+        "county": "Derbyshire",
+        "gridref": "SK068802",
+        "latitude": "53.319",
+        "longitude": "-1.899",
+        "elevation (ft)": "965"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.916,
+          53.325
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "CHAPEL-EN-LE-FRITH",
+        "county": "Derbyshire",
+        "gridref": "SK057809",
+        "latitude": "53.325",
+        "longitude": "-1.916",
+        "elevation (ft)": "728"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.887,
+          53.337
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "CHAPEL-EN-LE-FRITH-FORD-HALL",
+        "county": "Derbyshire",
+        "gridref": "SK076822",
+        "latitude": "53.337",
+        "longitude": "-1.887",
+        "elevation (ft)": "900"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.609,
+          53.227
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "CHATSWORTH-GDNS",
+        "county": "Derbyshire",
+        "gridref": "SK262701",
+        "latitude": "53.227",
+        "longitude": "-1.609",
+        "elevation (ft)": "436"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.423,
+          53.24
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "CHESTERFIELD",
+        "county": "Derbyshire",
+        "gridref": "SK386716",
+        "latitude": "53.240",
+        "longitude": "-1.423",
+        "elevation (ft)": "250"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.52,
+          53.269
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "CHESTERFIELD-BARLOW-RES",
+        "county": "Derbyshire",
+        "gridref": "SK321748",
+        "latitude": "53.269",
+        "longitude": "-1.520",
+        "elevation (ft)": "612"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.394,
+          53.255
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "CHESTERFIELD-BRIMINGTON-HALL",
+        "county": "Derbyshire",
+        "gridref": "SK405733",
+        "latitude": "53.255",
+        "longitude": "-1.394",
+        "elevation (ft)": "400"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.44,
+          53.236
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "CHESTERFIELD-GAS-WORKS",
+        "county": "Derbyshire",
+        "gridref": "SK375711",
+        "latitude": "53.236",
+        "longitude": "-1.440",
+        "elevation (ft)": "279"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.309,
+          53.168
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "CHESTERFIELD-HARDWICK-HALL",
+        "county": "Derbyshire",
+        "gridref": "SK463637",
+        "latitude": "53.168",
+        "longitude": "-1.309",
+        "elevation (ft)": "594"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.509,
+          53.207
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "CHESTERFIELD-HUNGER-HILL",
+        "county": "Derbyshire",
+        "gridref": "SK329679",
+        "latitude": "53.207",
+        "longitude": "-1.509",
+        "elevation (ft)": "643"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.499,
+          53.247
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "CHESTERFIELD-LINACRE-RES",
+        "county": "Derbyshire",
+        "gridref": "SK335723",
+        "latitude": "53.247",
+        "longitude": "-1.499",
+        "elevation (ft)": "475"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.495,
+          53.248
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "CHESTERFIELD-LINACRE-RES",
+        "county": "Derbyshire",
+        "gridref": "SK338725",
+        "latitude": "53.248",
+        "longitude": "-1.495",
+        "elevation (ft)": "430"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.502,
+          53.249
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "CHESTERFIELD-MIDDLE-LINACRE",
+        "county": "Derbyshire",
+        "gridref": "SK333726",
+        "latitude": "53.249",
+        "longitude": "-1.502",
+        "elevation (ft)": "600"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.426,
+          53.241
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "CHESTERFIELD-SCHOOL",
+        "county": "Derbyshire",
+        "gridref": "SK384717",
+        "latitude": "53.241",
+        "longitude": "-1.426",
+        "elevation (ft)": "298"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.421,
+          53.248
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "CHESTERFIELD-SEWAGE-WORKS",
+        "county": "Derbyshire",
+        "gridref": "SK387725",
+        "latitude": "53.248",
+        "longitude": "-1.421",
+        "elevation (ft)": "222"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.414,
+          53.266
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "CHESTERFIELD-SEWAGE-WORKS",
+        "county": "Derbyshire",
+        "gridref": "SK392745",
+        "latitude": "53.266",
+        "longitude": "-1.414",
+        "elevation (ft)": "225"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.459,
+          53.231
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "CHESTERFIELD-ST-THOMAS-BRAMPTON",
+        "county": "Derbyshire",
+        "gridref": "SK362706",
+        "latitude": "53.231",
+        "longitude": "-1.459",
+        "elevation (ft)": "314"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.401,
+          53.247
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "CHESTERFIELD-TAPTON-GROVE",
+        "county": "Derbyshire",
+        "gridref": "SK401724",
+        "latitude": "53.247",
+        "longitude": "-1.401",
+        "elevation (ft)": "400"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.514,
+          53.249
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "CHESTERFIELD-UPPER-LINACRE",
+        "county": "Derbyshire",
+        "gridref": "SK325726",
+        "latitude": "53.249",
+        "longitude": "-1.514",
+        "elevation (ft)": "600"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.511,
+          53.249
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "CHESTERFIELD-UPPER-LINACRE",
+        "county": "Derbyshire",
+        "gridref": "SK327725",
+        "latitude": "53.249",
+        "longitude": "-1.511",
+        "elevation (ft)": "600"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.493,
+          53.25
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "CHESTERFIELD-UPPER-LINACRE",
+        "county": "Derbyshire",
+        "gridref": "SK339727",
+        "latitude": "53.250",
+        "longitude": "-1.493",
+        "elevation (ft)": "521"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.443,
+          53.222
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "CHESTERFIELD-WALTON-SANATORIUM",
+        "county": "Derbyshire",
+        "gridref": "SK373696",
+        "latitude": "53.222",
+        "longitude": "-1.443",
+        "elevation (ft)": "450"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.239,
+          53.241
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "CHESTERFIELD-WHALEY-WELL",
+        "county": "Derbyshire",
+        "gridref": "SK509718",
+        "latitude": "53.241",
+        "longitude": "-1.239",
+        "elevation (ft)": "337"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.504,
+          53.221
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "CHESTERFIELD-WHISPERING-WELL",
+        "county": "Derbyshire",
+        "gridref": "SK332694",
+        "latitude": "53.221",
+        "longitude": "-1.504",
+        "elevation (ft)": "575"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.558,
+          52.765
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "CHURCH-GRESLEY-MAURICE-LEA-PARK",
+        "county": "Derbyshire",
+        "gridref": "SK299187",
+        "latitude": "52.765",
+        "longitude": "-1.558",
+        "elevation (ft)": "400"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.473,
+          53.188
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "CLAY-CROSS-PRESS-RES",
+        "county": "Derbyshire",
+        "gridref": "SK353658",
+        "latitude": "53.188",
+        "longitude": "-1.473",
+        "elevation (ft)": "810"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.38,
+          53.033
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "CODNOR-CROSS-HILL",
+        "county": "Derbyshire",
+        "gridref": "SK417486",
+        "latitude": "53.033",
+        "longitude": "-1.380",
+        "elevation (ft)": "372"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.381,
+          53.032
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "CODNOR-CROSS-HILL",
+        "county": "Derbyshire",
+        "gridref": "SK416485",
+        "latitude": "53.032",
+        "longitude": "-1.381",
+        "elevation (ft)": "394"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.342,
+          53.061
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "CODNOR-PARK",
+        "county": "Derbyshire",
+        "gridref": "SK442517",
+        "latitude": "53.061",
+        "longitude": "-1.342",
+        "elevation (ft)": "243"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.883,
+          53.431
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "COLDHARBOUR-MOOR-SUMMIT-NO-THIRTY-NINE",
+        "county": "Derbyshire",
+        "gridref": "SK079927",
+        "latitude": "53.431",
+        "longitude": "-1.883",
+        "elevation (ft)": "1670"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.913,
+          53.284
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "COMBS-MOSS",
+        "county": "Derbyshire",
+        "gridref": "SK059763",
+        "latitude": "53.284",
+        "longitude": "-1.913",
+        "elevation (ft)": "1669"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.948,
+          53.317
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "COMBS-RES",
+        "county": "Derbyshire",
+        "gridref": "SK035799",
+        "latitude": "53.317",
+        "longitude": "-1.948",
+        "elevation (ft)": "850"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.723,
+          53.38
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "CROOK-HILL",
+        "county": "Derbyshire",
+        "gridref": "SK185870",
+        "latitude": "53.380",
+        "longitude": "-1.723",
+        "elevation (ft)": "1100"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.747,
+          52.939
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "CUBLEY-PUMPING-STATION",
+        "county": "Derbyshire",
+        "gridref": "SK171380",
+        "latitude": "52.939",
+        "longitude": "-1.747",
+        "elevation (ft)": "362"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.85,
+          53.354
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "DALEHEAD",
+        "county": "Derbyshire",
+        "gridref": "SK101841",
+        "latitude": "53.354",
+        "longitude": "-1.850",
+        "elevation (ft)": "1030"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.601,
+          53.172
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "DARLEY-DALE-STANCLIFFE-HALL",
+        "county": "Derbyshire",
+        "gridref": "SK268640",
+        "latitude": "53.172",
+        "longitude": "-1.601",
+        "elevation (ft)": "560"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.592,
+          53.162
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "DARLEY-DALE-WHITWORTH-INST",
+        "county": "Derbyshire",
+        "gridref": "SK274628",
+        "latitude": "53.162",
+        "longitude": "-1.592",
+        "elevation (ft)": "361"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.588,
+          53.164
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "DARLEY-HALL",
+        "county": "Derbyshire",
+        "gridref": "SK276630",
+        "latitude": "53.164",
+        "longitude": "-1.588",
+        "elevation (ft)": "400"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.479,
+          52.924
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "DERBY-ALL-SAINTS",
+        "county": "Derbyshire",
+        "gridref": "SK351364",
+        "latitude": "52.924",
+        "longitude": "-1.479",
+        "elevation (ft)": "170"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.505,
+          52.926
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "DERBY-ALL-SAINTS",
+        "county": "Derbyshire",
+        "gridref": "SK334366",
+        "latitude": "52.926",
+        "longitude": "-1.505",
+        "elevation (ft)": "250"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.496,
+          52.923
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "DERBY-ALL-SAINTS",
+        "county": "Derbyshire",
+        "gridref": "SK340363",
+        "latitude": "52.923",
+        "longitude": "-1.496",
+        "elevation (ft)": "200"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.488,
+          52.933
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "DERBY-ALL-SAINTS",
+        "county": "Derbyshire",
+        "gridref": "SK345374",
+        "latitude": "52.933",
+        "longitude": "-1.488",
+        "elevation (ft)": "198"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.472,
+          52.911
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "DERBY-ARBORETUM",
+        "county": "Derbyshire",
+        "gridref": "SK356350",
+        "latitude": "52.911",
+        "longitude": "-1.472",
+        "elevation (ft)": "196"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.505,
+          52.902
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "DERBY-BRAYFIELD-ROAD",
+        "county": "Derbyshire",
+        "gridref": "SK334339",
+        "latitude": "52.902",
+        "longitude": "-1.505",
+        "elevation (ft)": "233"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.442,
+          52.963
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "DERBY-BREADSALL-LODGE",
+        "county": "Derbyshire",
+        "gridref": "SK376408",
+        "latitude": "52.963",
+        "longitude": "-1.442",
+        "elevation (ft)": "280"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.482,
+          52.913
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "DERBY-CHRISTCHURCH-VICARAGE",
+        "county": "Derbyshire",
+        "gridref": "SK349352",
+        "latitude": "52.913",
+        "longitude": "-1.482",
+        "elevation (ft)": "265"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.467,
+          52.927
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "DERBY-CORPORATION-HIGHWAY-DEPOT",
+        "county": "Derbyshire",
+        "gridref": "SK359367",
+        "latitude": "52.927",
+        "longitude": "-1.467",
+        "elevation (ft)": "159"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.49,
+          52.989
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "DERBY-DUFFIELD",
+        "county": "Derbyshire",
+        "gridref": "SK343436",
+        "latitude": "52.989",
+        "longitude": "-1.490",
+        "elevation (ft)": "200"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.482,
+          52.927
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "DERBY-DUFFIELD",
+        "county": "Derbyshire",
+        "gridref": "SK349368",
+        "latitude": "52.927",
+        "longitude": "-1.482",
+        "elevation (ft)": "184"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.392,
+          52.888
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "DERBY-ELVASTON-AND-CHELLASTON",
+        "county": "Derbyshire",
+        "gridref": "SK410325",
+        "latitude": "52.888",
+        "longitude": "-1.392",
+        "elevation (ft)": "125"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.441,
+          52.871
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "DERBY-ELVASTON-AND-CHELLASTON",
+        "county": "Derbyshire",
+        "gridref": "SK377305",
+        "latitude": "52.871",
+        "longitude": "-1.441",
+        "elevation (ft)": "170"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.505,
+          52.925
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "DERBY-HEYWORTH-STREET",
+        "county": "Derbyshire",
+        "gridref": "SK334365",
+        "latitude": "52.925",
+        "longitude": "-1.505",
+        "elevation (ft)": "240"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.517,
+          53.01
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "DERBY-HOLMESIDE-HAZELWOOD",
+        "county": "Derbyshire",
+        "gridref": "SK325460",
+        "latitude": "53.010",
+        "longitude": "-1.517",
+        "elevation (ft)": "500"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.5,
+          52.902
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "DERBY-LITTLEOVER-CRESCENT",
+        "county": "Derbyshire",
+        "gridref": "SK337340",
+        "latitude": "52.902",
+        "longitude": "-1.500",
+        "elevation (ft)": "230"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.506,
+          52.936
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "DERBY-MARKEATON-PARK",
+        "county": "Derbyshire",
+        "gridref": "SK333377",
+        "latitude": "52.936",
+        "longitude": "-1.506",
+        "elevation (ft)": "190"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.459,
+          52.91
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "DERBY-MIDLAND-RAILWAY",
+        "county": "Derbyshire",
+        "gridref": "SK365349",
+        "latitude": "52.910",
+        "longitude": "-1.459",
+        "elevation (ft)": "156"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.462,
+          52.891
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "DERBY-OSMASTON",
+        "county": "Derbyshire",
+        "gridref": "SK363328",
+        "latitude": "52.891",
+        "longitude": "-1.462",
+        "elevation (ft)": "210"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.471,
+          52.916
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "DERBY-ROYAL-INFIRMARY",
+        "county": "Derbyshire",
+        "gridref": "SK357355",
+        "latitude": "52.916",
+        "longitude": "-1.471",
+        "elevation (ft)": "175"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.407,
+          52.92
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "DERBY-SPONDON-THE-OLD-HALL",
+        "county": "Derbyshire",
+        "gridref": "SK400360",
+        "latitude": "52.920",
+        "longitude": "-1.407",
+        "elevation (ft)": "262"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.405,
+          52.921
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "DERBY-SPONDON-THE-OLD-HALL",
+        "county": "Derbyshire",
+        "gridref": "SK401361",
+        "latitude": "52.921",
+        "longitude": "-1.405",
+        "elevation (ft)": "270"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.41,
+          52.917
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "DERBY-SPONDON-THE-OLD-HALL",
+        "county": "Derbyshire",
+        "gridref": "SK398357",
+        "latitude": "52.917",
+        "longitude": "-1.410",
+        "elevation (ft)": "230"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.358,
+          52.966
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "DERBY-WEST-HALLAM",
+        "county": "Derbyshire",
+        "gridref": "SK432411",
+        "latitude": "52.966",
+        "longitude": "-1.358",
+        "elevation (ft)": "357"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.726,
+          53.392
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "DERWENT-BRIDGE-END",
+        "county": "Derbyshire",
+        "gridref": "SK183884",
+        "latitude": "53.392",
+        "longitude": "-1.726",
+        "elevation (ft)": "624"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.771,
+          53.446
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "DERWENT-DALE-BACK-DYKE",
+        "county": "Derbyshire",
+        "gridref": "SK153944",
+        "latitude": "53.446",
+        "longitude": "-1.771",
+        "elevation (ft)": "1546"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.776,
+          53.438
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "DERWENT-DALE-BANKTOP-HEY",
+        "county": "Derbyshire",
+        "gridref": "SK150935",
+        "latitude": "53.438",
+        "longitude": "-1.776",
+        "elevation (ft)": "1340"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.753,
+          53.423
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "DERWENT-DALE-BIRCHINLEE",
+        "county": "Derbyshire",
+        "gridref": "SK165918",
+        "latitude": "53.423",
+        "longitude": "-1.753",
+        "elevation (ft)": "890"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.749,
+          53.428
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "DERWENT-DALE-HOWDEN-DAM",
+        "county": "Derbyshire",
+        "gridref": "SK168924",
+        "latitude": "53.428",
+        "longitude": "-1.749",
+        "elevation (ft)": "845"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.754,
+          53.46
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "DERWENT-DALE-MOSLEY-BANK",
+        "county": "Derbyshire",
+        "gridref": "SK164959",
+        "latitude": "53.460",
+        "longitude": "-1.754",
+        "elevation (ft)": "1350"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.761,
+          53.437
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "DERWENT-DALE-RIDGE-FARM",
+        "county": "Derbyshire",
+        "gridref": "SK160934",
+        "latitude": "53.437",
+        "longitude": "-1.761",
+        "elevation (ft)": "1175"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.759,
+          53.434
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "DERWENT-DALE-RIDGE-FARM",
+        "county": "Derbyshire",
+        "gridref": "SK161931",
+        "latitude": "53.434",
+        "longitude": "-1.759",
+        "elevation (ft)": "883"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.795,
+          53.461
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "DERWENT-DALE-ROUNDHILL",
+        "county": "Derbyshire",
+        "gridref": "SK137960",
+        "latitude": "53.461",
+        "longitude": "-1.795",
+        "elevation (ft)": "1675"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.744,
+          53.416
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "DERWENT-DALE-SHIRE-OWLERS",
+        "county": "Derbyshire",
+        "gridref": "SK171911",
+        "latitude": "53.416",
+        "longitude": "-1.744",
+        "elevation (ft)": "825"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.747,
+          53.452
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "DERWENT-DALE-SLIPPERY-STONES",
+        "county": "Derbyshire",
+        "gridref": "SK169951",
+        "latitude": "53.452",
+        "longitude": "-1.747",
+        "elevation (ft)": "908"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.741,
+          53.414
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "DERWENT-DALE-WALKER-HOUSE",
+        "county": "Derbyshire",
+        "gridref": "SK173908",
+        "latitude": "53.414",
+        "longitude": "-1.741",
+        "elevation (ft)": "758"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.753,
+          53.401
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "DERWENT-LOCKERBROOK-FARM",
+        "county": "Derbyshire",
+        "gridref": "SK165894",
+        "latitude": "53.401",
+        "longitude": "-1.753",
+        "elevation (ft)": "1174"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.746,
+          53.402
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "DERWENT-LOCKERBROOK-PLANTATION",
+        "county": "Derbyshire",
+        "gridref": "SK170895",
+        "latitude": "53.402",
+        "longitude": "-1.746",
+        "elevation (ft)": "782"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.725,
+          53.394
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "DERWENT-VICARAGE",
+        "county": "Derbyshire",
+        "gridref": "SK184886",
+        "latitude": "53.394",
+        "longitude": "-1.725",
+        "elevation (ft)": "675"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.334,
+          52.89
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "DRAYCOTT-PUMPING-STATION",
+        "county": "Derbyshire",
+        "gridref": "SK449327",
+        "latitude": "52.890",
+        "longitude": "-1.334",
+        "elevation (ft)": "118"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.49,
+          52.99
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "DUFFIELD-CASTLE-HILL-HOUSE",
+        "county": "Derbyshire",
+        "gridref": "SK343438",
+        "latitude": "52.990",
+        "longitude": "-1.490",
+        "elevation (ft)": "220"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.504,
+          52.984
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "DUFFIELD-KIRKSTYLES",
+        "county": "Derbyshire",
+        "gridref": "SK334431",
+        "latitude": "52.984",
+        "longitude": "-1.504",
+        "elevation (ft)": "235"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.362,
+          53.325
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "ECKINGTON-MOSBROUGH-CE-SCHOOL",
+        "county": "Derbyshire",
+        "gridref": "SK426811",
+        "latitude": "53.325",
+        "longitude": "-1.362",
+        "elevation (ft)": "330"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.85,
+          53.355
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "EDALE-DALE-HEAD",
+        "county": "Derbyshire",
+        "gridref": "SK101842",
+        "latitude": "53.355",
+        "longitude": "-1.850",
+        "elevation (ft)": "1015"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.758,
+          53.373
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "EDALE-END",
+        "county": "Derbyshire",
+        "gridref": "SK162863",
+        "latitude": "53.373",
+        "longitude": "-1.758",
+        "elevation (ft)": "632"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.8,
+          53.365
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "EDALE-MILL",
+        "county": "Derbyshire",
+        "gridref": "SK134854",
+        "latitude": "53.365",
+        "longitude": "-1.800",
+        "elevation (ft)": "725"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.848,
+          53.364
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "EDALE-UPPER-BOOTH",
+        "county": "Derbyshire",
+        "gridref": "SK102853",
+        "latitude": "53.364",
+        "longitude": "-1.848",
+        "elevation (ft)": "910"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.054,
+          53.41
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "ERNECROFT-COMPSTALL",
+        "county": "Derbyshire",
+        "gridref": "SJ965904",
+        "latitude": "53.410",
+        "longitude": "-2.054",
+        "elevation (ft)": "310"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.603,
+          52.87
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "ETWALL-BLAKELEY-LODGE",
+        "county": "Derbyshire",
+        "gridref": "SK268304",
+        "latitude": "52.870",
+        "longitude": "-1.603",
+        "elevation (ft)": "189"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.605,
+          52.885
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "ETWALL-HALL",
+        "county": "Derbyshire",
+        "gridref": "SK267320",
+        "latitude": "52.885",
+        "longitude": "-1.605",
+        "elevation (ft)": "235"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.594,
+          52.865
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "ETWALL-SEWAGE-FARM",
+        "county": "Derbyshire",
+        "gridref": "SK274298",
+        "latitude": "52.865",
+        "longitude": "-1.594",
+        "elevation (ft)": "201"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.689,
+          53.288
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "EYAM-EYAM-VIEW",
+        "county": "Derbyshire",
+        "gridref": "SK208768",
+        "latitude": "53.288",
+        "longitude": "-1.689",
+        "elevation (ft)": "945"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.674,
+          53.283
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "EYAM-RECTORY",
+        "county": "Derbyshire",
+        "gridref": "SK218763",
+        "latitude": "53.283",
+        "longitude": "-1.674",
+        "elevation (ft)": "856"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.738,
+          53.4
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "FAIRHOLMES-NURSERY",
+        "county": "Derbyshire",
+        "gridref": "SK175893",
+        "latitude": "53.400",
+        "longitude": "-1.738",
+        "elevation (ft)": "790"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.741,
+          53.4
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "FAIRHOLMES-NURSERY",
+        "county": "Derbyshire",
+        "gridref": "SK173893",
+        "latitude": "53.400",
+        "longitude": "-1.741",
+        "elevation (ft)": "685"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.871,
+          53.424
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "FEATHERBED-MOSS-REDGATE-CLOUGH",
+        "county": "Derbyshire",
+        "gridref": "SK087919",
+        "latitude": "53.424",
+        "longitude": "-1.871",
+        "elevation (ft)": "1730"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.868,
+          53.432
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "FEATHERBED-TOP",
+        "county": "Derbyshire",
+        "gridref": "SK089928",
+        "latitude": "53.432",
+        "longitude": "-1.868",
+        "elevation (ft)": "1665"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.971,
+          53.286
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "FERNILEE-BROWNHILL-FARM",
+        "county": "Derbyshire",
+        "gridref": "SK020766",
+        "latitude": "53.286",
+        "longitude": "-1.971",
+        "elevation (ft)": "1040"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.976,
+          53.291
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "FERNILEE-UPPER-HALL",
+        "county": "Derbyshire",
+        "gridref": "SK017771",
+        "latitude": "53.291",
+        "longitude": "-1.976",
+        "elevation (ft)": "940"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.967,
+          53.295
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "FERNILEE-WYTHEN",
+        "county": "Derbyshire",
+        "gridref": "SK023776",
+        "latitude": "53.295",
+        "longitude": "-1.967",
+        "elevation (ft)": "1100"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.961,
+          53.295
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "FERNILEE-WYTHEN",
+        "county": "Derbyshire",
+        "gridref": "SK027776",
+        "latitude": "53.295",
+        "longitude": "-1.961",
+        "elevation (ft)": "1215"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.551,
+          52.873
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "FINDERN-MILL-HILL-FARM",
+        "county": "Derbyshire",
+        "gridref": "SK303307",
+        "latitude": "52.873",
+        "longitude": "-1.551",
+        "elevation (ft)": "243"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.55,
+          52.868
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "FINDERN-THE-LONGLANDS",
+        "county": "Derbyshire",
+        "gridref": "SK304302",
+        "latitude": "52.868",
+        "longitude": "-1.550",
+        "elevation (ft)": "186"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.616,
+          53.292
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "FROGGATT-EDGE-STOKE-FLAT",
+        "county": "Derbyshire",
+        "gridref": "SK257773",
+        "latitude": "53.292",
+        "longitude": "-1.616",
+        "elevation (ft)": "924"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.941,
+          53.443
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "GLOSSOP-FOOT-OF-HILLS",
+        "county": "Derbyshire",
+        "gridref": "SK040940",
+        "latitude": "53.443",
+        "longitude": "-1.941",
+        "elevation (ft)": "500"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.944,
+          53.448
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "GLOSSOP-HALL",
+        "county": "Derbyshire",
+        "gridref": "SK038946",
+        "latitude": "53.448",
+        "longitude": "-1.944",
+        "elevation (ft)": "533"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.952,
+          53.447
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "GLOSSOP-SPIRE-HOLLIN",
+        "county": "Derbyshire",
+        "gridref": "SK033945",
+        "latitude": "53.447",
+        "longitude": "-1.952",
+        "elevation (ft)": "545"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.935,
+          53.459
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "GLOSSOP-WW-SWINESHAW",
+        "county": "Derbyshire",
+        "gridref": "SK044958",
+        "latitude": "53.459",
+        "longitude": "-1.935",
+        "elevation (ft)": "733"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.857,
+          53.365
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "GRAIN-CLOUGH",
+        "county": "Derbyshire",
+        "gridref": "SK096854",
+        "latitude": "53.365",
+        "longitude": "-1.857",
+        "elevation (ft)": "999"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.386,
+          53.204
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "GRASSMOOR-COLLIERY",
+        "county": "Derbyshire",
+        "gridref": "SK411676",
+        "latitude": "53.204",
+        "longitude": "-1.386",
+        "elevation (ft)": "370"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.386,
+          53.202
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "GRASSMOOR-COLLIERY",
+        "county": "Derbyshire",
+        "gridref": "SK411674",
+        "latitude": "53.202",
+        "longitude": "-1.386",
+        "elevation (ft)": "370"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.743,
+          53.381
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "GRIMBOCAR",
+        "county": "Derbyshire",
+        "gridref": "SK172872",
+        "latitude": "53.381",
+        "longitude": "-1.743",
+        "elevation (ft)": "700"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.614,
+          53.297
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "GRINDLEFORD-GROUSE-INN",
+        "county": "Derbyshire",
+        "gridref": "SK258779",
+        "latitude": "53.297",
+        "longitude": "-1.614",
+        "elevation (ft)": "990"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.638,
+          53.298
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "GRINDLEFORD-THE-GRANGE",
+        "county": "Derbyshire",
+        "gridref": "SK242779",
+        "latitude": "53.298",
+        "longitude": "-1.638",
+        "elevation (ft)": "550"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.823,
+          53.377
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "GRINDSLOW",
+        "county": "Derbyshire",
+        "gridref": "SK119867",
+        "latitude": "53.377",
+        "longitude": "-1.823",
+        "elevation (ft)": "940"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.761,
+          53.393
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "HAGG-FARM",
+        "county": "Derbyshire",
+        "gridref": "SK160885",
+        "latitude": "53.393",
+        "longitude": "-1.761",
+        "elevation (ft)": "700"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.655,
+          53.329
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "HATHERSAGE",
+        "county": "Derbyshire",
+        "gridref": "SK231814",
+        "latitude": "53.329",
+        "longitude": "-1.655",
+        "elevation (ft)": "525"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.898,
+          53.381
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "HAYFIELD-BROAD-CLOUGH",
+        "county": "Derbyshire",
+        "gridref": "SK069871",
+        "latitude": "53.381",
+        "longitude": "-1.898",
+        "elevation (ft)": "1420"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.89,
+          53.386
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "HAYFIELD-CLUTHER-ROCKS",
+        "county": "Derbyshire",
+        "gridref": "SK074877",
+        "latitude": "53.386",
+        "longitude": "-1.890",
+        "elevation (ft)": "1830"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.902,
+          53.361
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "HAYFIELD-DIMPUS-CLOUGH",
+        "county": "Derbyshire",
+        "gridref": "SK066849",
+        "latitude": "53.361",
+        "longitude": "-1.902",
+        "elevation (ft)": "1450"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.904,
+          53.363
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "HAYFIELD-DIMPUS-CLOUGH",
+        "county": "Derbyshire",
+        "gridref": "SK065851",
+        "latitude": "53.363",
+        "longitude": "-1.904",
+        "elevation (ft)": "1250"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.886,
+          53.371
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "HAYFIELD-EDALE-CROSS",
+        "county": "Derbyshire",
+        "gridref": "SK077860",
+        "latitude": "53.371",
+        "longitude": "-1.886",
+        "elevation (ft)": "1760"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.89,
+          53.366
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "HAYFIELD-EDALE-CROSS",
+        "county": "Derbyshire",
+        "gridref": "SK074855",
+        "latitude": "53.366",
+        "longitude": "-1.890",
+        "elevation (ft)": "1420"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.905,
+          53.391
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "HAYFIELD-HOLLIN-HEAD",
+        "county": "Derbyshire",
+        "gridref": "SK064883",
+        "latitude": "53.391",
+        "longitude": "-1.905",
+        "elevation (ft)": "950"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.869,
+          53.391
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "HAYFIELD-KINDER",
+        "county": "Derbyshire",
+        "gridref": "SK088882",
+        "latitude": "53.391",
+        "longitude": "-1.869",
+        "elevation (ft)": "2020"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.871,
+          53.387
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "HAYFIELD-KINDER",
+        "county": "Derbyshire",
+        "gridref": "SK087878",
+        "latitude": "53.387",
+        "longitude": "-1.871",
+        "elevation (ft)": "2050"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.92,
+          53.389
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "HAYFIELD-KINDER-FILTERS",
+        "county": "Derbyshire",
+        "gridref": "SK054880",
+        "latitude": "53.389",
+        "longitude": "-1.920",
+        "elevation (ft)": "800"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.916,
+          53.402
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "HAYFIELD-LEYGATEHEAD-MOOR",
+        "county": "Derbyshire",
+        "gridref": "SK057895",
+        "latitude": "53.402",
+        "longitude": "-1.916",
+        "elevation (ft)": "1550"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.92,
+          53.401
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "HAYFIELD-LEYGATEHEAD-MOOR",
+        "county": "Derbyshire",
+        "gridref": "SK054894",
+        "latitude": "53.401",
+        "longitude": "-1.920",
+        "elevation (ft)": "1530"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.91,
+          53.409
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "HAYFIELD-MILL-HILL",
+        "county": "Derbyshire",
+        "gridref": "SK061902",
+        "latitude": "53.409",
+        "longitude": "-1.910",
+        "elevation (ft)": "1730"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.917,
+          53.405
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "HAYFIELD-MILL-HILL",
+        "county": "Derbyshire",
+        "gridref": "SK056898",
+        "latitude": "53.405",
+        "longitude": "-1.917",
+        "elevation (ft)": "1625"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.905,
+          53.371
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "HAYFIELD-OAKEN-CLOUGH",
+        "county": "Derbyshire",
+        "gridref": "SK064860",
+        "latitude": "53.371",
+        "longitude": "-1.905",
+        "elevation (ft)": "1250"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.934,
+          53.398
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "HAYFIELD-PARK-HALL-MOOR",
+        "county": "Derbyshire",
+        "gridref": "SK045890",
+        "latitude": "53.398",
+        "longitude": "-1.934",
+        "elevation (ft)": "1260"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.928,
+          53.395
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "HAYFIELD-PARK-HALL-MOOR",
+        "county": "Derbyshire",
+        "gridref": "SK049887",
+        "latitude": "53.395",
+        "longitude": "-1.928",
+        "elevation (ft)": "1170"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.88,
+          53.387
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "HAYFIELD-RED-BROOK",
+        "county": "Derbyshire",
+        "gridref": "SK081878",
+        "latitude": "53.387",
+        "longitude": "-1.880",
+        "elevation (ft)": "1950"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.886,
+          53.394
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "HAYFIELD-SANDY-HEYS",
+        "county": "Derbyshire",
+        "gridref": "SK077886",
+        "latitude": "53.394",
+        "longitude": "-1.886",
+        "elevation (ft)": "1500"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.889,
+          53.401
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "HAYFIELD-SANDY-HEYS",
+        "county": "Derbyshire",
+        "gridref": "SK075894",
+        "latitude": "53.401",
+        "longitude": "-1.889",
+        "elevation (ft)": "2040"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.916,
+          53.378
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "HAYFIELD-TUNSTEAD-CLOUGH",
+        "county": "Derbyshire",
+        "gridref": "SK057868",
+        "latitude": "53.378",
+        "longitude": "-1.916",
+        "elevation (ft)": "960"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.913,
+          53.379
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "HAYFIELD-TUNSTEAD-CLOUGH",
+        "county": "Derbyshire",
+        "gridref": "SK059869",
+        "latitude": "53.379",
+        "longitude": "-1.913",
+        "elevation (ft)": "1125"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.905,
+          53.387
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "HAYFIELD-UPPER-HOUSE",
+        "county": "Derbyshire",
+        "gridref": "SK064878",
+        "latitude": "53.387",
+        "longitude": "-1.905",
+        "elevation (ft)": "1170"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.917,
+          53.388
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "HAYFIELD-UPPER-HOUSE",
+        "county": "Derbyshire",
+        "gridref": "SK056879",
+        "latitude": "53.388",
+        "longitude": "-1.917",
+        "elevation (ft)": "940"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.901,
+          53.388
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "HAYFIELD-UPPER-MOOR",
+        "county": "Derbyshire",
+        "gridref": "SK067879",
+        "latitude": "53.388",
+        "longitude": "-1.901",
+        "elevation (ft)": "1362"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.504,
+          53.01
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "HAZELWOOD-CHEVIN",
+        "county": "Derbyshire",
+        "gridref": "SK334460",
+        "latitude": "53.010",
+        "longitude": "-1.504",
+        "elevation (ft)": "503"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.389,
+          53.022
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "HEANOR-DENBY",
+        "county": "Derbyshire",
+        "gridref": "SK411474",
+        "latitude": "53.022",
+        "longitude": "-1.389",
+        "elevation (ft)": "440"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.419,
+          53.124
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "HIGHAM-HIGHAM-CLIFFE",
+        "county": "Derbyshire",
+        "gridref": "SK390587",
+        "latitude": "53.124",
+        "longitude": "-1.419",
+        "elevation (ft)": "515"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.589,
+          53.29
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "HOLMESFIELD-BARBROOK-RES",
+        "county": "Derbyshire",
+        "gridref": "SK275771",
+        "latitude": "53.290",
+        "longitude": "-1.589",
+        "elevation (ft)": "1080"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.605,
+          53.304
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "HOLMESFIELD-WHITE-EDGE",
+        "county": "Derbyshire",
+        "gridref": "SK264786",
+        "latitude": "53.304",
+        "longitude": "-1.605",
+        "elevation (ft)": "1209"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.749,
+          53.337
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "HOPE-CEMENT-WORKS",
+        "county": "Derbyshire",
+        "gridref": "SK168823",
+        "latitude": "53.337",
+        "longitude": "-1.749",
+        "elevation (ft)": "580"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.743,
+          53.347
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "HOPE-KILLHILL-BRIDGE",
+        "county": "Derbyshire",
+        "gridref": "SK172834",
+        "latitude": "53.347",
+        "longitude": "-1.743",
+        "elevation (ft)": "545"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.745,
+          53.351
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "HOPE-KILLHILL-BRIDGE",
+        "county": "Derbyshire",
+        "gridref": "SK171838",
+        "latitude": "53.351",
+        "longitude": "-1.745",
+        "elevation (ft)": "565"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.539,
+          53.288
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "HORSLEY-GATE",
+        "county": "Derbyshire",
+        "gridref": "SK308769",
+        "latitude": "53.288",
+        "longitude": "-1.539",
+        "elevation (ft)": "650"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.886,
+          53.428
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "HURST-BROOK-VALLEY",
+        "county": "Derbyshire",
+        "gridref": "SK077924",
+        "latitude": "53.428",
+        "longitude": "-1.886",
+        "elevation (ft)": "1500"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.293,
+          52.95
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "ILKESTON-NEW-STANTON",
+        "county": "Derbyshire",
+        "gridref": "SK476394",
+        "latitude": "52.950",
+        "longitude": "-1.293",
+        "elevation (ft)": "132"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.295,
+          52.943
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "ILKESTON-NEW-STANTON",
+        "county": "Derbyshire",
+        "gridref": "SK475386",
+        "latitude": "52.943",
+        "longitude": "-1.295",
+        "elevation (ft)": "150"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.284,
+          52.951
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "ILKESTON-SEWAGE-WORKS",
+        "county": "Derbyshire",
+        "gridref": "SK482395",
+        "latitude": "52.951",
+        "longitude": "-1.284",
+        "elevation (ft)": "133"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.866,
+          53.371
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "JACOBS-LADDER",
+        "county": "Derbyshire",
+        "gridref": "SK090860",
+        "latitude": "53.371",
+        "longitude": "-1.866",
+        "elevation (ft)": "1115"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.293,
+          53.333
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "KILLAMARSH-NORWOOD",
+        "county": "Derbyshire",
+        "gridref": "SK472820",
+        "latitude": "53.333",
+        "longitude": "-1.293",
+        "elevation (ft)": "238"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.902,
+          53.41
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "KINDERSCOUT-HAYFIELD",
+        "county": "Derbyshire",
+        "gridref": "SK066904",
+        "latitude": "53.410",
+        "longitude": "-1.902",
+        "elevation (ft)": "1600"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.576,
+          52.952
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "KIRK-LANGLEY-LANGLEY-HALL",
+        "county": "Derbyshire",
+        "gridref": "SK286395",
+        "latitude": "52.952",
+        "longitude": "-1.576",
+        "elevation (ft)": "396"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.836,
+          53.428
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "LADY-CLOUGH-MOOR",
+        "county": "Derbyshire",
+        "gridref": "SK110924",
+        "latitude": "53.428",
+        "longitude": "-1.836",
+        "elevation (ft)": "1720"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.833,
+          53.43
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "LADY-CLOUGH-MOOR",
+        "county": "Derbyshire",
+        "gridref": "SK112926",
+        "latitude": "53.430",
+        "longitude": "-1.833",
+        "elevation (ft)": "1720"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.693,
+          53.379
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "LADYBOWER",
+        "county": "Derbyshire",
+        "gridref": "SK205869",
+        "latitude": "53.379",
+        "longitude": "-1.693",
+        "elevation (ft)": "985"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.758,
+          53.302
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "LITTLE-HUCKLOW",
+        "county": "Derbyshire",
+        "gridref": "SK162784",
+        "latitude": "53.302",
+        "longitude": "-1.758",
+        "elevation (ft)": "1012"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.512,
+          52.903
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "LITTLEOVER-HILLTOP",
+        "county": "Derbyshire",
+        "gridref": "SK329341",
+        "latitude": "52.903",
+        "longitude": "-1.512",
+        "elevation (ft)": "325"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.517,
+          52.903
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "LITTLEOVER-HILLTOP",
+        "county": "Derbyshire",
+        "gridref": "SK326341",
+        "latitude": "52.903",
+        "longitude": "-1.517",
+        "elevation (ft)": "346"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.521,
+          52.901
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "LITTLEOVER-THE-KNOLL",
+        "county": "Derbyshire",
+        "gridref": "SK323338",
+        "latitude": "52.901",
+        "longitude": "-1.521",
+        "elevation (ft)": "300"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.273,
+          52.9
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "LONG-EATON-TOWN-HALL",
+        "county": "Derbyshire",
+        "gridref": "SK490339",
+        "latitude": "52.900",
+        "longitude": "-1.273",
+        "elevation (ft)": "105"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.527,
+          52.922
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "MACKWORTH",
+        "county": "Derbyshire",
+        "gridref": "SK319362",
+        "latitude": "52.922",
+        "longitude": "-1.527",
+        "elevation (ft)": "293"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.817,
+          53.35
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "MAM-NICK",
+        "county": "Derbyshire",
+        "gridref": "SK123837",
+        "latitude": "53.350",
+        "longitude": "-1.817",
+        "elevation (ft)": "1368"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.564,
+          53.122
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "MATLOCK-BATH-LOWER-TOWER",
+        "county": "Derbyshire",
+        "gridref": "SK293584",
+        "latitude": "53.122",
+        "longitude": "-1.564",
+        "elevation (ft)": "500"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.551,
+          53.144
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "MATLOCK-ROCKSIDE",
+        "county": "Derbyshire",
+        "gridref": "SK301609",
+        "latitude": "53.144",
+        "longitude": "-1.551",
+        "elevation (ft)": "637"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.519,
+          53.103
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "MATLOCK-THE-GABLES",
+        "county": "Derbyshire",
+        "gridref": "SK323563",
+        "latitude": "53.103",
+        "longitude": "-1.519",
+        "elevation (ft)": "450"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.549,
+          53.14
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "MATLOCK-THE-GABLES",
+        "county": "Derbyshire",
+        "gridref": "SK303604",
+        "latitude": "53.140",
+        "longitude": "-1.549",
+        "elevation (ft)": "450"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.558,
+          53.112
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "MATLOCK-WILLERSLEY-GARDENS",
+        "county": "Derbyshire",
+        "gridref": "SK297573",
+        "latitude": "53.112",
+        "longitude": "-1.558",
+        "elevation (ft)": "440"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.429,
+          52.825
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "MELBOURNE-THE-GRANGE",
+        "county": "Derbyshire",
+        "gridref": "SK386254",
+        "latitude": "52.825",
+        "longitude": "-1.429",
+        "elevation (ft)": "180"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.427,
+          52.82
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "MELBOURNE-THE-HOLLOW",
+        "county": "Derbyshire",
+        "gridref": "SK387249",
+        "latitude": "52.820",
+        "longitude": "-1.427",
+        "elevation (ft)": "182"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.424,
+          52.82
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "MELBOURNE-VICARAGE",
+        "county": "Derbyshire",
+        "gridref": "SK389249",
+        "latitude": "52.820",
+        "longitude": "-1.424",
+        "elevation (ft)": "180"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.548,
+          52.903
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "MICKLEOVER",
+        "county": "Derbyshire",
+        "gridref": "SK305341",
+        "latitude": "52.903",
+        "longitude": "-1.548",
+        "elevation (ft)": "310"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.563,
+          52.894
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "MICKLEOVER-HOSPITAL",
+        "county": "Derbyshire",
+        "gridref": "SK295330",
+        "latitude": "52.894",
+        "longitude": "-1.563",
+        "elevation (ft)": "320"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.549,
+          52.903
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "MICKLEOVER-MANOR",
+        "county": "Derbyshire",
+        "gridref": "SK304341",
+        "latitude": "52.903",
+        "longitude": "-1.549",
+        "elevation (ft)": "250"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.833,
+          53.403
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "MIDDLE-SEAL-CLOUGH",
+        "county": "Derbyshire",
+        "gridref": "SK112896",
+        "latitude": "53.403",
+        "longitude": "-1.833",
+        "elevation (ft)": "1320"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.839,
+          53.405
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "MIDDLE-SEAL-CLOUGH",
+        "county": "Derbyshire",
+        "gridref": "SK108898",
+        "latitude": "53.405",
+        "longitude": "-1.839",
+        "elevation (ft)": "1075"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.719,
+          53.401
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "MILL-BROOK",
+        "county": "Derbyshire",
+        "gridref": "SK188894",
+        "latitude": "53.401",
+        "longitude": "-1.719",
+        "elevation (ft)": "770"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.775,
+          53.195
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "MONYASH-RECTORY",
+        "county": "Derbyshire",
+        "gridref": "SK151665",
+        "latitude": "53.195",
+        "longitude": "-1.775",
+        "elevation (ft)": "884"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.412,
+          52.963
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "MORLEY-DERBY",
+        "county": "Derbyshire",
+        "gridref": "SK396408",
+        "latitude": "52.963",
+        "longitude": "-1.412",
+        "elevation (ft)": "406"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.427,
+          52.957
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "MORLEY-DERBYSHIRE-FARM-INST",
+        "county": "Derbyshire",
+        "gridref": "SK386401",
+        "latitude": "52.957",
+        "longitude": "-1.427",
+        "elevation (ft)": "350"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.413,
+          52.966
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "MORLEY-HALL",
+        "county": "Derbyshire",
+        "gridref": "SK395411",
+        "latitude": "52.966",
+        "longitude": "-1.413",
+        "elevation (ft)": "445"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.786,
+          53.384
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "NETHER-MOOR",
+        "county": "Derbyshire",
+        "gridref": "SK143875",
+        "latitude": "53.384",
+        "longitude": "-1.786",
+        "elevation (ft)": "1460"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.875,
+          53.409
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "NETHER-RED-CLOUGH",
+        "county": "Derbyshire",
+        "gridref": "SK084903",
+        "latitude": "53.409",
+        "longitude": "-1.875",
+        "elevation (ft)": "1370"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.456,
+          53.334
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "NORTON-CHANTREY-GRANGE",
+        "county": "Derbyshire",
+        "gridref": "SK363820",
+        "latitude": "53.334",
+        "longitude": "-1.456",
+        "elevation (ft)": "700"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.761,
+          53.413
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "OUZELDEN-CLOUGH",
+        "county": "Derbyshire",
+        "gridref": "SK160907",
+        "latitude": "53.413",
+        "longitude": "-1.761",
+        "elevation (ft)": "885"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.835,
+          53.31
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "PEAK-FOREST",
+        "county": "Derbyshire",
+        "gridref": "SK111792",
+        "latitude": "53.310",
+        "longitude": "-1.835",
+        "elevation (ft)": "1050"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.82,
+          53.322
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "PEAK-FOREST-ELDON-HILL",
+        "county": "Derbyshire",
+        "gridref": "SK121806",
+        "latitude": "53.322",
+        "longitude": "-1.820",
+        "elevation (ft)": "1350"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.848,
+          53.292
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "PEAK-FOREST-MIDDLE-HILL",
+        "county": "Derbyshire",
+        "gridref": "SK102772",
+        "latitude": "53.292",
+        "longitude": "-1.848",
+        "elevation (ft)": "1080"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.865,
+          53.32
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "PEAK-FOREST-SPARROWPIT",
+        "county": "Derbyshire",
+        "gridref": "SK091804",
+        "latitude": "53.320",
+        "longitude": "-1.865",
+        "elevation (ft)": "1200"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.787,
+          53.3
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "PEAK-FOREST-WHITE-RAKE",
+        "county": "Derbyshire",
+        "gridref": "SK143781",
+        "latitude": "53.300",
+        "longitude": "-1.787",
+        "elevation (ft)": "1220"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.553,
+          52.837
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "REPTON-GREENSHOT",
+        "county": "Derbyshire",
+        "gridref": "SK302267",
+        "latitude": "52.837",
+        "longitude": "-1.553",
+        "elevation (ft)": "230"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.552,
+          52.84
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "REPTON-THE-CROFT",
+        "county": "Derbyshire",
+        "gridref": "SK303270",
+        "latitude": "52.840",
+        "longitude": "-1.552",
+        "elevation (ft)": "170"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.794,
+          53.457
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "RIDGEWALK-MOOR",
+        "county": "Derbyshire",
+        "gridref": "SK138956",
+        "latitude": "53.457",
+        "longitude": "-1.794",
+        "elevation (ft)": "1650"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.791,
+          53.402
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "RIVER-ASHOP-WEIR",
+        "county": "Derbyshire",
+        "gridref": "SK140895",
+        "latitude": "53.402",
+        "longitude": "-1.791",
+        "elevation (ft)": "795"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.708,
+          52.965
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "RODSLEY-PUMPING-STATION",
+        "county": "Derbyshire",
+        "gridref": "SK197409",
+        "latitude": "52.965",
+        "longitude": "-1.708",
+        "elevation (ft)": "414"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.78,
+          53.452
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "RONKSLEY-MOOR",
+        "county": "Derbyshire",
+        "gridref": "SK147951",
+        "latitude": "53.452",
+        "longitude": "-1.780",
+        "elevation (ft)": "1660"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.847,
+          53.338
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "RUSHUP-EDGE",
+        "county": "Derbyshire",
+        "gridref": "SK103824",
+        "latitude": "53.338",
+        "longitude": "-1.847",
+        "elevation (ft)": "1245"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.3,
+          52.879
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "SAWLEY",
+        "county": "Derbyshire",
+        "gridref": "SK472315",
+        "latitude": "52.879",
+        "longitude": "-1.300",
+        "elevation (ft)": "100"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.357,
+          52.869
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "SHARDLOW",
+        "county": "Derbyshire",
+        "gridref": "SK434304",
+        "latitude": "52.869",
+        "longitude": "-1.357",
+        "elevation (ft)": "111"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.351,
+          52.871
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "SHARDLOW",
+        "county": "Derbyshire",
+        "gridref": "SK438306",
+        "latitude": "52.871",
+        "longitude": "-1.351",
+        "elevation (ft)": "110"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.766,
+          52.99
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "SNELSTON-HALL",
+        "county": "Derbyshire",
+        "gridref": "SK158436",
+        "latitude": "52.990",
+        "longitude": "-1.766",
+        "elevation (ft)": "490"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.787,
+          52.984
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "SNELSTON-RECTORY",
+        "county": "Derbyshire",
+        "gridref": "SK144430",
+        "latitude": "52.984",
+        "longitude": "-1.787",
+        "elevation (ft)": "420"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.436,
+          53.077
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "SOUTH-WINGFIELD",
+        "county": "Derbyshire",
+        "gridref": "SK379535",
+        "latitude": "53.077",
+        "longitude": "-1.436",
+        "elevation (ft)": "256"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.32,
+          53.302
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "SPINKHILL-MT-ST-MARYS-COLLEGE",
+        "county": "Derbyshire",
+        "gridref": "SK454786",
+        "latitude": "53.302",
+        "longitude": "-1.320",
+        "elevation (ft)": "350"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.423,
+          52.912
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "SPONDON-DERBY-SEWAGE-WORKS",
+        "county": "Derbyshire",
+        "gridref": "SK389351",
+        "latitude": "52.912",
+        "longitude": "-1.423",
+        "elevation (ft)": "135"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.63,
+          53.352
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "STANAGE-REDMIRES",
+        "county": "Derbyshire",
+        "gridref": "SK247840",
+        "latitude": "53.352",
+        "longitude": "-1.630",
+        "elevation (ft)": "1395"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.63,
+          53.352
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "STANAGE-REDMIRES",
+        "county": "Derbyshire",
+        "gridref": "SK247842",
+        "latitude": "53.352",
+        "longitude": "-1.630",
+        "elevation (ft)": "1395"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.629,
+          53.352
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "STANAGE-REDMIRES",
+        "county": "Derbyshire",
+        "gridref": "SK248840",
+        "latitude": "53.352",
+        "longitude": "-1.629",
+        "elevation (ft)": "1395"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.602,
+          53.172
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "STANCLIFFE-HALL",
+        "county": "Derbyshire",
+        "gridref": "SK267639",
+        "latitude": "53.172",
+        "longitude": "-1.602",
+        "elevation (ft)": "530"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.446,
+          52.84
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "STANTON-BY-BRIDGE",
+        "county": "Derbyshire",
+        "gridref": "SK374271",
+        "latitude": "52.840",
+        "longitude": "-1.446",
+        "elevation (ft)": "144"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.213,
+          53.185
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "STUFFYNWOOD-HALL-MANSFIELD",
+        "county": "Derbyshire",
+        "gridref": "SK527656",
+        "latitude": "53.185",
+        "longitude": "-1.213",
+        "elevation (ft)": "389"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.767,
+          52.885
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "SUDBURY-HALL",
+        "county": "Derbyshire",
+        "gridref": "SK158320",
+        "latitude": "52.885",
+        "longitude": "-1.767",
+        "elevation (ft)": "225"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.831,
+          53.407
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "THE-PEAK-FAIRBROOK",
+        "county": "Derbyshire",
+        "gridref": "SK113900",
+        "latitude": "53.407",
+        "longitude": "-1.831",
+        "elevation (ft)": "1009"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.842,
+          53.408
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "THE-PEAK-NUNGRAIN",
+        "county": "Derbyshire",
+        "gridref": "SK106901",
+        "latitude": "53.408",
+        "longitude": "-1.842",
+        "elevation (ft)": "1320"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.778,
+          53.274
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "TIDESWELL",
+        "county": "Derbyshire",
+        "gridref": "SK149752",
+        "latitude": "53.274",
+        "longitude": "-1.778",
+        "elevation (ft)": "1000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.739,
+          53.283
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "TIDESWELL-STANLEY-LODGE",
+        "county": "Derbyshire",
+        "gridref": "SK175763",
+        "latitude": "53.283",
+        "longitude": "-1.739",
+        "elevation (ft)": "910"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.757,
+          53.274
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "TIDESWELL-STERNDALE-HOUSE-LITTON",
+        "county": "Derbyshire",
+        "gridref": "SK163753",
+        "latitude": "53.274",
+        "longitude": "-1.757",
+        "elevation (ft)": "999"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.808,
+          53.288
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "TIDESWELL-WHESTON",
+        "county": "Derbyshire",
+        "gridref": "SK129768",
+        "latitude": "53.288",
+        "longitude": "-1.808",
+        "elevation (ft)": "1140"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.541,
+          53.312
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "TOTLEY-HALL",
+        "county": "Derbyshire",
+        "gridref": "SK307795",
+        "latitude": "53.312",
+        "longitude": "-1.541",
+        "elevation (ft)": "640"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.285,
+          52.899
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "TRENT-COLLEGE",
+        "county": "Derbyshire",
+        "gridref": "SK482338",
+        "latitude": "52.899",
+        "longitude": "-1.285",
+        "elevation (ft)": "120"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.676,
+          52.876
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "TUTBURY-FOSTON",
+        "county": "Derbyshire",
+        "gridref": "SK219310",
+        "latitude": "52.876",
+        "longitude": "-1.676",
+        "elevation (ft)": "178"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.845,
+          53.365
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "UPPER-BOOTH",
+        "county": "Derbyshire",
+        "gridref": "SK104854",
+        "latitude": "53.365",
+        "longitude": "-1.845",
+        "elevation (ft)": "950"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.85,
+          53.414
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "URCHIN-CLOUGH",
+        "county": "Derbyshire",
+        "gridref": "SK101908",
+        "latitude": "53.414",
+        "longitude": "-1.850",
+        "elevation (ft)": "1190"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.771,
+          53.432
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "WEST-END-BRIDGE",
+        "county": "Derbyshire",
+        "gridref": "SK153928",
+        "latitude": "53.432",
+        "longitude": "-1.771",
+        "elevation (ft)": "878"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.816,
+          53.453
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "WESTEND-DEEP-GRAIN",
+        "county": "Derbyshire",
+        "gridref": "SK123951",
+        "latitude": "53.453",
+        "longitude": "-1.816",
+        "elevation (ft)": "1360"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.798,
+          53.433
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "WESTEND-MOOR",
+        "county": "Derbyshire",
+        "gridref": "SK135929",
+        "latitude": "53.433",
+        "longitude": "-1.798",
+        "elevation (ft)": "1560"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.782,
+          53.437
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "WESTEND-MOOR-BLACKLOW-COTE",
+        "county": "Derbyshire",
+        "gridref": "SK146934",
+        "latitude": "53.437",
+        "longitude": "-1.782",
+        "elevation (ft)": "970"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.783,
+          53.439
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "WESTEND-MOOR-BLACKLOW-COTE",
+        "county": "Derbyshire",
+        "gridref": "SK145936",
+        "latitude": "53.439",
+        "longitude": "-1.783",
+        "elevation (ft)": "970"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.973,
+          53.329
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "WHALEY-BRIDGE-MOSLEY-HALL",
+        "county": "Derbyshire",
+        "gridref": "SK019813",
+        "latitude": "53.329",
+        "longitude": "-1.973",
+        "elevation (ft)": "760"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.516,
+          53.095
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "WHATSTANDWELL-MEERBROOK-SOUGH",
+        "county": "Derbyshire",
+        "gridref": "SK325554",
+        "latitude": "53.095",
+        "longitude": "-1.516",
+        "elevation (ft)": "245"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.52,
+          52.847
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "WILLINGTON-SWADLINCOTE-AND-ASHBY-WW",
+        "county": "Derbyshire",
+        "gridref": "SK324278",
+        "latitude": "52.847",
+        "longitude": "-1.520",
+        "elevation (ft)": "134"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.615,
+          53.033
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "WIRKSWORTH-BIGGIN",
+        "county": "Derbyshire",
+        "gridref": "SK259485",
+        "latitude": "53.033",
+        "longitude": "-1.615",
+        "elevation (ft)": "480"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.569,
+          53.082
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "WIRKSWORTH-BRIDGE-HOUSE",
+        "county": "Derbyshire",
+        "gridref": "SK290539",
+        "latitude": "53.082",
+        "longitude": "-1.569",
+        "elevation (ft)": "500"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.572,
+          53.082
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "WIRKSWORTH-BRIDGE-HOUSE",
+        "county": "Derbyshire",
+        "gridref": "SK288540",
+        "latitude": "53.082",
+        "longitude": "-1.572",
+        "elevation (ft)": "495"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.573,
+          53.082
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "WIRKSWORTH-MANOR-HOUSE",
+        "county": "Derbyshire",
+        "gridref": "SK287539",
+        "latitude": "53.082",
+        "longitude": "-1.573",
+        "elevation (ft)": "498"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.561,
+          53.081
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "WIRKSWORTH-WASH-GREEN",
+        "county": "Derbyshire",
+        "gridref": "SK295538",
+        "latitude": "53.081",
+        "longitude": "-1.561",
+        "elevation (ft)": "738"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.576,
+          53.081
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "WIRKSWORTH-WEST-END",
+        "county": "Derbyshire",
+        "gridref": "SK285538",
+        "latitude": "53.081",
+        "longitude": "-1.576",
+        "elevation (ft)": "560"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.573,
+          53.089
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "WIRKSWORTH-WEST-END",
+        "county": "Derbyshire",
+        "gridref": "SK287547",
+        "latitude": "53.089",
+        "longitude": "-1.573",
+        "elevation (ft)": "590"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.831,
+          53.496
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "WOODHEAD-STATION",
+        "county": "Derbyshire",
+        "gridref": "SK113999",
+        "latitude": "53.496",
+        "longitude": "-1.831",
+        "elevation (ft)": "878"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.776,
+          53.409
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "WOODLAND-DALE-ROWLEE",
+        "county": "Derbyshire",
+        "gridref": "SK150903",
+        "latitude": "53.409",
+        "longitude": "-1.776",
+        "elevation (ft)": "1540"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.807,
+          53.4
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "WOODLAND-DALE-WOODLANDS",
+        "county": "Derbyshire",
+        "gridref": "SK129893",
+        "latitude": "53.400",
+        "longitude": "-1.807",
+        "elevation (ft)": "1063"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.826,
+          53.274
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "WORMHILL-HARGATE-WALL",
+        "county": "Derbyshire",
+        "gridref": "SK117752",
+        "latitude": "53.274",
+        "longitude": "-1.826",
+        "elevation (ft)": "1140"
+      }
+    }
+  ]
+}
