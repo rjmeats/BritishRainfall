@@ -1,0 +1,656 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.361,
+          60.305
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "AITH-EAST-BURRAFIRTH",
+        "county": "Shetland",
+        "gridref": "HU354580",
+        "latitude": "60.305",
+        "longitude": "-1.361",
+        "elevation (ft)": "30"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.855,
+          60.761
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "BALTASOUND",
+        "county": "Shetland",
+        "gridref": "HP625092",
+        "latitude": "60.761",
+        "longitude": "-0.855",
+        "elevation (ft)": "31"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.886,
+          60.762
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "BALTASOUND",
+        "county": "Shetland",
+        "gridref": "HP608093",
+        "latitude": "60.762",
+        "longitude": "-0.886",
+        "elevation (ft)": "78"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.442,
+          60.32
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "BIXTER-VEMENTRY",
+        "county": "Shetland",
+        "gridref": "HU309597",
+        "latitude": "60.320",
+        "longitude": "-1.442",
+        "elevation (ft)": "25"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.347,
+          60.373
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "BRAE",
+        "county": "Shetland",
+        "gridref": "HU361656",
+        "latitude": "60.373",
+        "longitude": "-1.347",
+        "elevation (ft)": "60"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.121,
+          60.12
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "BRESSAY-LIGHTHOUSE",
+        "county": "Shetland",
+        "gridref": "HU4892637625",
+        "latitude": "60.120",
+        "longitude": "-1.121",
+        "elevation (ft)": "50"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.111,
+          60.152
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "BRESSAY-MANSE",
+        "county": "Shetland",
+        "gridref": "HU494411",
+        "latitude": "60.152",
+        "longitude": "-1.111",
+        "elevation (ft)": "10"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.331,
+          60.086
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "BURRA-ISLE",
+        "county": "Shetland",
+        "gridref": "HU373337",
+        "latitude": "60.086",
+        "longitude": "-1.331",
+        "elevation (ft)": "100"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.26,
+          60.362
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "DELTING-OLNAFIRTH-PUBLIC-SCHOOL",
+        "county": "Shetland",
+        "gridref": "HU4090864470",
+        "latitude": "60.362",
+        "longitude": "-1.260",
+        "elevation (ft)": "158"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.055,
+          60.556
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "EAST-YELL-SHETLAND",
+        "county": "Shetland",
+        "gridref": "HU519862",
+        "latitude": "60.556",
+        "longitude": "-1.055",
+        "elevation (ft)": "177"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.627,
+          60.489
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "ESHANESS",
+        "county": "Shetland",
+        "gridref": "HU2058178449",
+        "latitude": "60.489",
+        "longitude": "-1.627",
+        "elevation (ft)": "160"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.611,
+          59.552
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "FAIR-ISLE-NORTH",
+        "county": "Shetland",
+        "gridref": "HZ221741",
+        "latitude": "59.552",
+        "longitude": "-1.611",
+        "elevation (ft)": "225"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.654,
+          59.514
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "FAIR-ISLE-SOUTH",
+        "county": "Shetland",
+        "gridref": "HZ197698",
+        "latitude": "59.514",
+        "longitude": "-1.654",
+        "elevation (ft)": "28"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.892,
+          60.594
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "FETLAR-MANSE",
+        "county": "Shetland",
+        "gridref": "HU608906",
+        "latitude": "60.594",
+        "longitude": "-0.892",
+        "elevation (ft)": "30"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.146,
+          60.155
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "LERWICK-FORT-CHARLOTTE",
+        "county": "Shetland",
+        "gridref": "HU4749841456",
+        "latitude": "60.155",
+        "longitude": "-1.146",
+        "elevation (ft)": "59"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.141,
+          60.149
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "LERWICK-FORT-CHARLOTTE",
+        "county": "Shetland",
+        "gridref": "HU4782140758",
+        "latitude": "60.149",
+        "longitude": "-1.141",
+        "elevation (ft)": "100"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.153,
+          60.154
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "LERWICK-MONTFIELD",
+        "county": "Shetland",
+        "gridref": "HU4711441307",
+        "latitude": "60.154",
+        "longitude": "-1.153",
+        "elevation (ft)": "60"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.184,
+          60.138
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "LERWICK-OBSERVATORY",
+        "county": "Shetland",
+        "gridref": "HU454396",
+        "latitude": "60.138",
+        "longitude": "-1.184",
+        "elevation (ft)": "269"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.143,
+          60.154
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "LERWICK-OBSERVATORY",
+        "county": "Shetland",
+        "gridref": "HU476413",
+        "latitude": "60.154",
+        "longitude": "-1.143",
+        "elevation (ft)": "30"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.188,
+          60.14
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "LERWICK-OBSERVATORY",
+        "county": "Shetland",
+        "gridref": "HU452398",
+        "latitude": "60.140",
+        "longitude": "-1.188",
+        "elevation (ft)": "248"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.331,
+          60.54
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "NORTHMAVINE-LOCHEND",
+        "county": "Shetland",
+        "gridref": "HU368842",
+        "latitude": "60.540",
+        "longitude": "-1.331",
+        "elevation (ft)": "10"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.265,
+          60.008
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "SANDWICK-SHETLAND",
+        "county": "Shetland",
+        "gridref": "HU411250",
+        "latitude": "60.008",
+        "longitude": "-1.265",
+        "elevation (ft)": "330"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.763,
+          60.425
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "SKERRIES-SHETLAND",
+        "county": "Shetland",
+        "gridref": "HU682719",
+        "latitude": "60.425",
+        "longitude": "-0.763",
+        "elevation (ft)": "60"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.263,
+          60.441
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "SULLOM-VOE",
+        "county": "Shetland",
+        "gridref": "HU4063973249",
+        "latitude": "60.441",
+        "longitude": "-1.263",
+        "elevation (ft)": "16"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.275,
+          59.854
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "SUMBURGH-HEAD",
+        "county": "Shetland",
+        "gridref": "HU407079",
+        "latitude": "59.854",
+        "longitude": "-1.275",
+        "elevation (ft)": "260"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.303,
+          59.884
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "SUMBURGH-LINKS",
+        "county": "Shetland",
+        "gridref": "HU3909111140",
+        "latitude": "59.884",
+        "longitude": "-1.303",
+        "elevation (ft)": "19"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.301,
+          59.932
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "SUMBURGHEAD-DUNROSSNESS",
+        "county": "Shetland",
+        "gridref": "HU3917516527",
+        "latitude": "59.932",
+        "longitude": "-1.301",
+        "elevation (ft)": "100"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.927,
+          60.695
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "UYESOUND",
+        "county": "Shetland",
+        "gridref": "HP587018",
+        "latitude": "60.695",
+        "longitude": "-0.927",
+        "elevation (ft)": "100"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.008,
+          60.34
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "WHALSAY-SALTNESS",
+        "county": "Shetland",
+        "gridref": "HU5486462161",
+        "latitude": "60.340",
+        "longitude": "-1.008",
+        "elevation (ft)": "250"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.02,
+          60.344
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "WHALSAY-SALTNESS",
+        "county": "Shetland",
+        "gridref": "HU542626",
+        "latitude": "60.344",
+        "longitude": "-1.020",
+        "elevation (ft)": "30"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.019,
+          60.344
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "WHALSEY",
+        "county": "Shetland",
+        "gridref": "HU5424462647",
+        "latitude": "60.344",
+        "longitude": "-1.019",
+        "elevation (ft)": "60"
+      }
+    }
+  ]
+}

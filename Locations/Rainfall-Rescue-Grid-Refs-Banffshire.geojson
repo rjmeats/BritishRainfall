@@ -1,0 +1,635 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.217,
+          57.471
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "ABERLOUR-MIX",
+        "county": "Banffshire",
+        "gridref": "NJ271430",
+        "latitude": "57.471",
+        "longitude": "-3.217",
+        "elevation (ft)": "300"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.358,
+          57.415
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "BALLINDALLOCK",
+        "county": "Banffshire",
+        "gridref": "NJ185369",
+        "latitude": "57.415",
+        "longitude": "-3.358",
+        "elevation (ft)": "630"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.524,
+          57.663
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "BANFF-CASTLE",
+        "county": "Banffshire",
+        "gridref": "NJ6884063767",
+        "latitude": "57.663",
+        "longitude": "-2.524",
+        "elevation (ft)": "75"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.522,
+          57.667
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "BANFF-CASTLE",
+        "county": "Banffshire",
+        "gridref": "NJ6893864189",
+        "latitude": "57.667",
+        "longitude": "-2.522",
+        "elevation (ft)": "60"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.528,
+          57.66
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "BANFF-MIX",
+        "county": "Banffshire",
+        "gridref": "NJ686635",
+        "latitude": "57.660",
+        "longitude": "-2.528",
+        "elevation (ft)": "115"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.52,
+          57.658
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "BANFF-MIX",
+        "county": "Banffshire",
+        "gridref": "NJ691633",
+        "latitude": "57.658",
+        "longitude": "-2.520",
+        "elevation (ft)": "7"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.531,
+          57.663
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "BANFF-MIX",
+        "county": "Banffshire",
+        "gridref": "NJ684638",
+        "latitude": "57.663",
+        "longitude": "-2.531",
+        "elevation (ft)": "130"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.579,
+          57.675
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "BOYNDIE-WHITEHILLS",
+        "county": "Banffshire",
+        "gridref": "NJ6554265172",
+        "latitude": "57.675",
+        "longitude": "-2.579",
+        "elevation (ft)": "68"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.967,
+          57.676
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "BUCKIE-CHURCH-STREET",
+        "county": "Banffshire",
+        "gridref": "NJ4245465532",
+        "latitude": "57.676",
+        "longitude": "-2.967",
+        "elevation (ft)": "80"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.937,
+          57.655
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "BUCKIE-ROCHOMIE",
+        "county": "Banffshire",
+        "gridref": "NJ442632",
+        "latitude": "57.655",
+        "longitude": "-2.937",
+        "elevation (ft)": "287"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.021,
+          57.329
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "CABRACH-MANSE",
+        "county": "Banffshire",
+        "gridref": "NJ3863926926",
+        "latitude": "57.329",
+        "longitude": "-3.021",
+        "elevation (ft)": "1025"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.186,
+          57.491
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "CRAIGELLACHIE",
+        "county": "Banffshire",
+        "gridref": "NJ290451",
+        "latitude": "57.491",
+        "longitude": "-3.186",
+        "elevation (ft)": "339"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.835,
+          57.678
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "CULLEN-HOUSE",
+        "county": "Banffshire",
+        "gridref": "NJ503656",
+        "latitude": "57.678",
+        "longitude": "-2.835",
+        "elevation (ft)": "150"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.276,
+          57.453
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "DAILUAINE-HOUSE",
+        "county": "Banffshire",
+        "gridref": "NJ2352440987",
+        "latitude": "57.453",
+        "longitude": "-3.276",
+        "elevation (ft)": "500"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.049,
+          57.483
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "DRUMMUIR-CASTLE",
+        "county": "Banffshire",
+        "gridref": "NJ372441",
+        "latitude": "57.483",
+        "longitude": "-3.049",
+        "elevation (ft)": "620"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.125,
+          57.444
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "DUFFTOWN-MIX",
+        "county": "Banffshire",
+        "gridref": "NJ3259939910",
+        "latitude": "57.444",
+        "longitude": "-3.125",
+        "elevation (ft)": "579"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.118,
+          57.443
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "DUFFTOWN-MIX",
+        "county": "Banffshire",
+        "gridref": "NJ3300139693",
+        "latitude": "57.443",
+        "longitude": "-3.118",
+        "elevation (ft)": "552"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.201,
+          57.388
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "DUFFTOWN-MIX",
+        "county": "Banffshire",
+        "gridref": "NJ2790033711",
+        "latitude": "57.388",
+        "longitude": "-3.201",
+        "elevation (ft)": "995"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.125,
+          57.444
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "DUFFTOWN-MIX",
+        "county": "Banffshire",
+        "gridref": "NJ326399",
+        "latitude": "57.444",
+        "longitude": "-3.125",
+        "elevation (ft)": "550"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.579,
+          57.497
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "EASTERFIELD-SCHOOL",
+        "county": "Banffshire",
+        "gridref": "NJ654454",
+        "latitude": "57.497",
+        "longitude": "-2.579",
+        "elevation (ft)": "450"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.379,
+          57.638
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "GAMRIE-CLENTERTY-PUBLIC-SCHOOL",
+        "county": "Banffshire",
+        "gridref": "NJ7748060951",
+        "latitude": "57.638",
+        "longitude": "-2.379",
+        "elevation (ft)": "420"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.291,
+          57.284
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "GLENLIVET-CLASHNOIR",
+        "county": "Banffshire",
+        "gridref": "NJ223222",
+        "latitude": "57.284",
+        "longitude": "-3.291",
+        "elevation (ft)": "1085"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.956,
+          57.549
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "KEITH-ISLA-BANK-MILLS",
+        "county": "Banffshire",
+        "gridref": "NJ4289251424",
+        "latitude": "57.549",
+        "longitude": "-2.956",
+        "elevation (ft)": "360"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.954,
+          57.552
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "KEITH-STATION",
+        "county": "Banffshire",
+        "gridref": "NJ430517",
+        "latitude": "57.552",
+        "longitude": "-2.954",
+        "elevation (ft)": "364"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.703,
+          57.519
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "MAYEN-HOUSE",
+        "county": "Banffshire",
+        "gridref": "NJ5800247825",
+        "latitude": "57.519",
+        "longitude": "-2.703",
+        "elevation (ft)": "360"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.745,
+          57.525
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "MILLTOWN-ROTHIEMAY-CASTLE",
+        "county": "Banffshire",
+        "gridref": "NJ5549248528",
+        "latitude": "57.525",
+        "longitude": "-2.745",
+        "elevation (ft)": "290"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.382,
+          57.252
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "TOMINTOUL",
+        "county": "Banffshire",
+        "gridref": "NJ1668918751",
+        "latitude": "57.252",
+        "longitude": "-3.382",
+        "elevation (ft)": "1100"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.382,
+          57.255
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "TOMINTOUL",
+        "county": "Banffshire",
+        "gridref": "NJ1673119135",
+        "latitude": "57.255",
+        "longitude": "-3.382",
+        "elevation (ft)": "1103"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.359,
+          57.156
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "TOMINTOUL-INCHRORY",
+        "county": "Banffshire",
+        "gridref": "NJ1789408095",
+        "latitude": "57.156",
+        "longitude": "-3.359",
+        "elevation (ft)": "1310"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.505,
+          57.556
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "TURRIFF-FORGLEN-GDNS",
+        "county": "Banffshire",
+        "gridref": "NJ699519",
+        "latitude": "57.556",
+        "longitude": "-2.505",
+        "elevation (ft)": "220"
+      }
+    }
+  ]
+}

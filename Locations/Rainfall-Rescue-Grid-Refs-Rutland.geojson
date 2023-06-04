@@ -1,0 +1,698 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.733,
+          52.6
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "AYSTON-HALL",
+        "county": "Rutland",
+        "gridref": "SK859010",
+        "latitude": "52.600",
+        "longitude": "-0.733",
+        "elevation (ft)": "475"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.695,
+          52.682
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "BURLEY-ON-THE-HILL",
+        "county": "Rutland",
+        "gridref": "SK883102",
+        "latitude": "52.682",
+        "longitude": "-0.695",
+        "elevation (ft)": "506"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.654,
+          52.732
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "COTTESMORE-AIRFIELD",
+        "county": "Rutland",
+        "gridref": "SK910158",
+        "latitude": "52.732",
+        "longitude": "-0.654",
+        "elevation (ft)": "440"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.596,
+          52.665
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "EMPINGHAM",
+        "county": "Rutland",
+        "gridref": "SK950083",
+        "latitude": "52.665",
+        "longitude": "-0.596",
+        "elevation (ft)": "193"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.521,
+          52.667
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "GREAT-CASTERTON-RECTORY",
+        "county": "Rutland",
+        "gridref": "TF001087",
+        "latitude": "52.667",
+        "longitude": "-0.521",
+        "elevation (ft)": "126"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.506,
+          52.694
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "GREAT-CASTERTON-WALK-FARM",
+        "county": "Rutland",
+        "gridref": "TF011118",
+        "latitude": "52.694",
+        "longitude": "-0.506",
+        "elevation (ft)": "230"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.669,
+          52.658
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "HAMBLETON-MANOR",
+        "county": "Rutland",
+        "gridref": "SK901075",
+        "latitude": "52.658",
+        "longitude": "-0.669",
+        "elevation (ft)": "400"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.548,
+          52.628
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "KETTON",
+        "county": "Rutland",
+        "gridref": "SK984044",
+        "latitude": "52.628",
+        "longitude": "-0.548",
+        "elevation (ft)": "106"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.554,
+          52.627
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "KETTON-HALL",
+        "county": "Rutland",
+        "gridref": "SK980042",
+        "latitude": "52.627",
+        "longitude": "-0.554",
+        "elevation (ft)": "130"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.543,
+          52.627
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "KETTON-THE-HOLMES",
+        "county": "Rutland",
+        "gridref": "SK987043",
+        "latitude": "52.627",
+        "longitude": "-0.543",
+        "elevation (ft)": "110"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.551,
+          52.628
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "KETTON-VICARAGE",
+        "county": "Rutland",
+        "gridref": "SK982043",
+        "latitude": "52.628",
+        "longitude": "-0.551",
+        "elevation (ft)": "110"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.698,
+          52.549
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "LIDDINGTON-UPPINGHAM-WW",
+        "county": "Rutland",
+        "gridref": "SP8835195408",
+        "latitude": "52.549",
+        "longitude": "-0.698",
+        "elevation (ft)": "152"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.656,
+          52.629
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "LYNDON-RUTLAND",
+        "county": "Rutland",
+        "gridref": "SK910043",
+        "latitude": "52.629",
+        "longitude": "-0.656",
+        "elevation (ft)": "305"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.684,
+          52.737
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "MARKET-OVERTON",
+        "county": "Rutland",
+        "gridref": "SK889162",
+        "latitude": "52.737",
+        "longitude": "-0.684",
+        "elevation (ft)": "475"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.725,
+          52.667
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "OAKHAM",
+        "county": "Rutland",
+        "gridref": "SK863085",
+        "latitude": "52.667",
+        "longitude": "-0.725",
+        "elevation (ft)": "350"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.721,
+          52.714
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "OAKHAM-ASHWELL-LODGE",
+        "county": "Rutland",
+        "gridref": "SK8650413658",
+        "latitude": "52.714",
+        "longitude": "-0.721",
+        "elevation (ft)": "350"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.731,
+          52.673
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "OAKHAM-FRITHAM-HOUSE",
+        "county": "Rutland",
+        "gridref": "SK859091",
+        "latitude": "52.673",
+        "longitude": "-0.731",
+        "elevation (ft)": "360"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.632,
+          52.72
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "OAKHAM-GREETHAM",
+        "county": "Rutland",
+        "gridref": "SK925145",
+        "latitude": "52.720",
+        "longitude": "-0.632",
+        "elevation (ft)": "377"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.733,
+          52.669
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "OAKHAM-SCHOOL",
+        "county": "Rutland",
+        "gridref": "SK858087",
+        "latitude": "52.669",
+        "longitude": "-0.733",
+        "elevation (ft)": "350"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.584,
+          52.752
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "OAKHAM-STOCKEN-HALL",
+        "county": "Rutland",
+        "gridref": "SK957181",
+        "latitude": "52.752",
+        "longitude": "-0.584",
+        "elevation (ft)": "295"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.635,
+          52.668
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "OAKHAM-WHITWELL",
+        "county": "Rutland",
+        "gridref": "SK924087",
+        "latitude": "52.668",
+        "longitude": "-0.635",
+        "elevation (ft)": "320"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.469,
+          52.684
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "RYHALL",
+        "county": "Rutland",
+        "gridref": "TF036107",
+        "latitude": "52.684",
+        "longitude": "-0.469",
+        "elevation (ft)": "100"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.649,
+          52.751
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "THISTLETON-RECTORY",
+        "county": "Rutland",
+        "gridref": "SK913179",
+        "latitude": "52.751",
+        "longitude": "-0.649",
+        "elevation (ft)": "405"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.54,
+          52.673
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "TICKENCOTE",
+        "county": "Rutland",
+        "gridref": "SK988094",
+        "latitude": "52.673",
+        "longitude": "-0.540",
+        "elevation (ft)": "166"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.553,
+          52.69
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "TICKENCOTE-WARREN",
+        "county": "Rutland",
+        "gridref": "SK979112",
+        "latitude": "52.690",
+        "longitude": "-0.553",
+        "elevation (ft)": "254"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.498,
+          52.644
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "TINWELL-SOUTH-VIEW-FARM",
+        "county": "Rutland",
+        "gridref": "TF017062",
+        "latitude": "52.644",
+        "longitude": "-0.498",
+        "elevation (ft)": "130"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.49,
+          52.681
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "TOLETHORPE-HALL-STAMFORD",
+        "county": "Rutland",
+        "gridref": "TF022103",
+        "latitude": "52.681",
+        "longitude": "-0.490",
+        "elevation (ft)": "161"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.75,
+          52.615
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "UPPINGHAM-RIDLINGTON",
+        "county": "Rutland",
+        "gridref": "SK847026",
+        "latitude": "52.615",
+        "longitude": "-0.750",
+        "elevation (ft)": "527"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.725,
+          52.59
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "UPPINGHAM-SCHOOL",
+        "county": "Rutland",
+        "gridref": "SP865999",
+        "latitude": "52.590",
+        "longitude": "-0.725",
+        "elevation (ft)": "460"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.729,
+          52.587
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "UPPINGHAM-SCHOOL",
+        "county": "Rutland",
+        "gridref": "SP862996",
+        "latitude": "52.587",
+        "longitude": "-0.729",
+        "elevation (ft)": "480"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.662,
+          52.57
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "UPPINGHAM-SEATON-MILL",
+        "county": "Rutland",
+        "gridref": "SP908977",
+        "latitude": "52.570",
+        "longitude": "-0.662",
+        "elevation (ft)": "150"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.726,
+          52.587
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "UPPINGHAM-WEST-DEYNE",
+        "county": "Rutland",
+        "gridref": "SP864996",
+        "latitude": "52.587",
+        "longitude": "-0.726",
+        "elevation (ft)": "486"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.687,
+          52.618
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "WING-THE-COTTAGE",
+        "county": "Rutland",
+        "gridref": "SK890031",
+        "latitude": "52.618",
+        "longitude": "-0.687",
+        "elevation (ft)": "370"
+      }
+    }
+  ]
+}

@@ -1,0 +1,866 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.351,
+          53.395
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "AMLWCH-DYFFRYN-ADDA",
+        "county": "Anglesey",
+        "gridref": "SH438913",
+        "latitude": "53.395",
+        "longitude": "-4.351",
+        "elevation (ft)": "178"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.144,
+          53.237
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "BANGOR-RHIANVA",
+        "county": "Anglesey",
+        "gridref": "SH570733",
+        "latitude": "53.237",
+        "longitude": "-4.144",
+        "elevation (ft)": "24"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.088,
+          53.275
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "BEAUMARIS-FRYARS",
+        "county": "Anglesey",
+        "gridref": "SH609774",
+        "latitude": "53.275",
+        "longitude": "-4.088",
+        "elevation (ft)": "20"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.1,
+          53.277
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "BEAUMARIS-HENLLYS",
+        "county": "Anglesey",
+        "gridref": "SH601776",
+        "latitude": "53.277",
+        "longitude": "-4.100",
+        "elevation (ft)": "150"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.476,
+          53.299
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "BODEDERN-PRESADDFED",
+        "county": "Anglesey",
+        "gridref": "SH351809",
+        "latitude": "53.299",
+        "longitude": "-4.476",
+        "elevation (ft)": "150"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.406,
+          53.39
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "BODEWRYD",
+        "county": "Anglesey",
+        "gridref": "SH401908",
+        "latitude": "53.390",
+        "longitude": "-4.406",
+        "elevation (ft)": "150"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.412,
+          53.39
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "BODEWRYD",
+        "county": "Anglesey",
+        "gridref": "SH397908",
+        "latitude": "53.390",
+        "longitude": "-4.412",
+        "elevation (ft)": "170"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.272,
+          53.169
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "BRYN-SIENCYN-TREFARTHEN",
+        "county": "Anglesey",
+        "gridref": "SH482659",
+        "latitude": "53.169",
+        "longitude": "-4.272",
+        "elevation (ft)": "30"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.443,
+          53.402
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "CEMAES-BAY-WW",
+        "county": "Anglesey",
+        "gridref": "SH377923",
+        "latitude": "53.402",
+        "longitude": "-4.443",
+        "elevation (ft)": "30"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.635,
+          53.315
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "HOLYHEAD",
+        "county": "Anglesey",
+        "gridref": "SH245830",
+        "latitude": "53.315",
+        "longitude": "-4.635",
+        "elevation (ft)": "44"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.535,
+          53.252
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "HOLYHEAD",
+        "county": "Anglesey",
+        "gridref": "SH310758",
+        "latitude": "53.252",
+        "longitude": "-4.535",
+        "elevation (ft)": "32"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.634,
+          53.316
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "HOLYHEAD-SALT-ISLAND",
+        "county": "Anglesey",
+        "gridref": "SH246831",
+        "latitude": "53.316",
+        "longitude": "-4.634",
+        "elevation (ft)": "48"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.624,
+          53.318
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "HOLYHEAD-SALT-ISLAND",
+        "county": "Anglesey",
+        "gridref": "SH253833",
+        "latitude": "53.318",
+        "longitude": "-4.624",
+        "elevation (ft)": "15"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.65,
+          53.319
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "HOLYHEAD-SOLDIERS-POINT",
+        "county": "Anglesey",
+        "gridref": "SH236835",
+        "latitude": "53.319",
+        "longitude": "-4.650",
+        "elevation (ft)": "27"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.237,
+          53.188
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "LLANDDANIEL-FAB-PORTHAMEL",
+        "county": "Anglesey",
+        "gridref": "SH506680",
+        "latitude": "53.188",
+        "longitude": "-4.237",
+        "elevation (ft)": "70"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.408,
+          53.14
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "LLANDWYN-ISLAND",
+        "county": "Anglesey",
+        "gridref": "SH390630",
+        "latitude": "53.140",
+        "longitude": "-4.408",
+        "elevation (ft)": "40"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.35,
+          53.332
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "LLANERCHYMEDD-LLWYDIARTH-ESGOB",
+        "county": "Anglesey",
+        "gridref": "SH436843",
+        "latitude": "53.332",
+        "longitude": "-4.350",
+        "elevation (ft)": "112"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.338,
+          53.343
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "LLANERCHYMEDD-LLWYDIARTH-ESGOB",
+        "county": "Anglesey",
+        "gridref": "SH444854",
+        "latitude": "53.343",
+        "longitude": "-4.338",
+        "elevation (ft)": "175"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.502,
+          53.226
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "LLANFAELOG",
+        "county": "Anglesey",
+        "gridref": "SH3308072811",
+        "latitude": "53.226",
+        "longitude": "-4.502",
+        "elevation (ft)": "50"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.494,
+          53.228
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "LLANFAELOG",
+        "county": "Anglesey",
+        "gridref": "SH336730",
+        "latitude": "53.228",
+        "longitude": "-4.494",
+        "elevation (ft)": "50"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.528,
+          53.391
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "LLANFAIRYNGHORNWY-HOLYHEAD",
+        "county": "Anglesey",
+        "gridref": "SH320912",
+        "latitude": "53.391",
+        "longitude": "-4.528",
+        "elevation (ft)": "120"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.417,
+          53.179
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "LLANGADWALADR-BODORGAN",
+        "county": "Anglesey",
+        "gridref": "SH386674",
+        "latitude": "53.179",
+        "longitude": "-4.417",
+        "elevation (ft)": "100"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.335,
+          53.269
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "LLANGEFNI-CEFNI-RES",
+        "county": "Anglesey",
+        "gridref": "SH444772",
+        "latitude": "53.269",
+        "longitude": "-4.335",
+        "elevation (ft)": "90"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.316,
+          53.256
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "LLANGEFNI-FRONHEULOG",
+        "county": "Anglesey",
+        "gridref": "SH4558375739",
+        "latitude": "53.256",
+        "longitude": "-4.316",
+        "elevation (ft)": "125"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.313,
+          53.251
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "LLANGEFNI-GLANABER",
+        "county": "Anglesey",
+        "gridref": "SH457751",
+        "latitude": "53.251",
+        "longitude": "-4.313",
+        "elevation (ft)": "70"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.312,
+          53.263
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "LLANGEFNI-PENRHOS",
+        "county": "Anglesey",
+        "gridref": "SH459765",
+        "latitude": "53.263",
+        "longitude": "-4.312",
+        "elevation (ft)": "132"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.317,
+          53.24
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "LLANGRISTIOLUS-LLEDWIGAN",
+        "county": "Anglesey",
+        "gridref": "SH455740",
+        "latitude": "53.240",
+        "longitude": "-4.317",
+        "elevation (ft)": "100"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.328,
+          53.303
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "LLANGWYLLOG-TRESCAWEN",
+        "county": "Anglesey",
+        "gridref": "SH450810",
+        "latitude": "53.303",
+        "longitude": "-4.328",
+        "elevation (ft)": "239"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.175,
+          53.259
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "LLANSADRWN-GADLYS-COTTAGE",
+        "county": "Anglesey",
+        "gridref": "SH5499075737",
+        "latitude": "53.259",
+        "longitude": "-4.175",
+        "elevation (ft)": "340"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.179,
+          53.255
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "LLANSADRWN-TREFFOS",
+        "county": "Anglesey",
+        "gridref": "SH547753",
+        "latitude": "53.255",
+        "longitude": "-4.179",
+        "elevation (ft)": "318"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.421,
+          53.318
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "LLANTRISANT-RECTORY",
+        "county": "Anglesey",
+        "gridref": "SH388829",
+        "latitude": "53.318",
+        "longitude": "-4.421",
+        "elevation (ft)": "300"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.258,
+          53.349
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "LLIGWY",
+        "county": "Anglesey",
+        "gridref": "SH498860",
+        "latitude": "53.349",
+        "longitude": "-4.258",
+        "elevation (ft)": "180"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.263,
+          53.333
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "MARIAN-GLAS-OLD-PARCIAU",
+        "county": "Anglesey",
+        "gridref": "SH494842",
+        "latitude": "53.333",
+        "longitude": "-4.263",
+        "elevation (ft)": "300"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.304,
+          53.148
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "MENAIFRON",
+        "county": "Anglesey",
+        "gridref": "SH460637",
+        "latitude": "53.148",
+        "longitude": "-4.304",
+        "elevation (ft)": "14"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.374,
+          53.176
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "NEWBOROUGH-FOREST",
+        "county": "Anglesey",
+        "gridref": "SH414669",
+        "latitude": "53.176",
+        "longitude": "-4.374",
+        "elevation (ft)": "5"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.115,
+          53.252
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "PEN-Y-PARC",
+        "county": "Anglesey",
+        "gridref": "SH590749",
+        "latitude": "53.252",
+        "longitude": "-4.115",
+        "elevation (ft)": "372"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.079,
+          53.291
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "PENMON-TROS-YR-AFON",
+        "county": "Anglesey",
+        "gridref": "SH615791",
+        "latitude": "53.291",
+        "longitude": "-4.079",
+        "elevation (ft)": "40"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.223,
+          53.251
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "PENMYNYDD-VICARAGE",
+        "county": "Anglesey",
+        "gridref": "SH518750",
+        "latitude": "53.251",
+        "longitude": "-4.223",
+        "elevation (ft)": "300"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.275,
+          53.354
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "PENRHOSLLIGWY-SCHOOL",
+        "county": "Anglesey",
+        "gridref": "SH487865",
+        "latitude": "53.354",
+        "longitude": "-4.275",
+        "elevation (ft)": "140"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.163,
+          53.235
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "PLAS-CADNANT",
+        "county": "Anglesey",
+        "gridref": "SH557731",
+        "latitude": "53.235",
+        "longitude": "-4.163",
+        "elevation (ft)": "156"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.217,
+          53.202
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "PLAS-NEWYDD-GARDENS",
+        "county": "Anglesey",
+        "gridref": "SH520695",
+        "latitude": "53.202",
+        "longitude": "-4.217",
+        "elevation (ft)": "50"
+      }
+    }
+  ]
+}

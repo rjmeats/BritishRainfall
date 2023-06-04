@@ -1,0 +1,488 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.908,
+          55.541
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "BOWHILL-SELKIRK",
+        "county": "Selkirkshire",
+        "gridref": "NT428278",
+        "latitude": "55.541",
+        "longitude": "-2.908",
+        "elevation (ft)": "537"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.865,
+          55.589
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "CADDONFOOT-FAIRNILEE",
+        "county": "Selkirkshire",
+        "gridref": "NT456332",
+        "latitude": "55.589",
+        "longitude": "-2.865",
+        "elevation (ft)": "450"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.236,
+          55.398
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "ETTRICK-CROOK-COTTAGE",
+        "county": "Selkirkshire",
+        "gridref": "NT218123",
+        "latitude": "55.398",
+        "longitude": "-3.236",
+        "elevation (ft)": "925"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.171,
+          55.419
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "ETTRICK-MANSE",
+        "county": "Selkirkshire",
+        "gridref": "NT259145",
+        "latitude": "55.419",
+        "longitude": "-3.171",
+        "elevation (ft)": "808"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.161,
+          55.419
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "ETTRICK-SCHOOL",
+        "county": "Selkirkshire",
+        "gridref": "NT266145",
+        "latitude": "55.419",
+        "longitude": "-3.161",
+        "elevation (ft)": "745"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.801,
+          55.611
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "GALASHIELS-ABBOTSFORD-ROAD",
+        "county": "Selkirkshire",
+        "gridref": "NT497356",
+        "latitude": "55.611",
+        "longitude": "-2.801",
+        "elevation (ft)": "416"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.954,
+          55.659
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "GALASHIELS-CADDON-HEAD",
+        "county": "Selkirkshire",
+        "gridref": "NT401410",
+        "latitude": "55.659",
+        "longitude": "-2.954",
+        "elevation (ft)": "1050"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.905,
+          55.606
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "GALASHIELS-CLOVENFORDS",
+        "county": "Selkirkshire",
+        "gridref": "NT431351",
+        "latitude": "55.606",
+        "longitude": "-2.905",
+        "elevation (ft)": "450"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.928,
+          55.653
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "GALASHIELS-CRAIG-HEAD",
+        "county": "Selkirkshire",
+        "gridref": "NT417403",
+        "latitude": "55.653",
+        "longitude": "-2.928",
+        "elevation (ft)": "900"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.896,
+          55.644
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "GALASHIELS-KNOWS-DEAN-RES",
+        "county": "Selkirkshire",
+        "gridref": "NT437393",
+        "latitude": "55.644",
+        "longitude": "-2.896",
+        "elevation (ft)": "892"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.775,
+          55.607
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "GALASHIELS-SEWAGE-WORKS",
+        "county": "Selkirkshire",
+        "gridref": "NT513351",
+        "latitude": "55.607",
+        "longitude": "-2.775",
+        "elevation (ft)": "316"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.906,
+          55.643
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "GALASHIELS-STANTLING-CRAIG",
+        "county": "Selkirkshire",
+        "gridref": "NT431392",
+        "latitude": "55.643",
+        "longitude": "-2.906",
+        "elevation (ft)": "800"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.788,
+          55.551
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "LINDEAN-RES",
+        "county": "Selkirkshire",
+        "gridref": "NT504289",
+        "latitude": "55.551",
+        "longitude": "-2.788",
+        "elevation (ft)": "860"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.222,
+          55.451
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "LOCH-O-THE-LOWES-QUAVERBURN-COTTAGE",
+        "county": "Selkirkshire",
+        "gridref": "NT228181",
+        "latitude": "55.451",
+        "longitude": "-3.222",
+        "elevation (ft)": "845"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.821,
+          55.558
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "SELKIRK-BROOMHILL",
+        "county": "Selkirkshire",
+        "gridref": "NT483297",
+        "latitude": "55.558",
+        "longitude": "-2.821",
+        "elevation (ft)": "575"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.854,
+          55.548
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "SELKIRK-BURN-MILL",
+        "county": "Selkirkshire",
+        "gridref": "NT462286",
+        "latitude": "55.548",
+        "longitude": "-2.854",
+        "elevation (ft)": "390"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.834,
+          55.548
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "SELKIRK-BYETHORN",
+        "county": "Selkirkshire",
+        "gridref": "NT475286",
+        "latitude": "55.548",
+        "longitude": "-2.834",
+        "elevation (ft)": "600"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.884,
+          55.541
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "SELKIRK-PHILIPHAUGH",
+        "county": "Selkirkshire",
+        "gridref": "NT443278",
+        "latitude": "55.541",
+        "longitude": "-2.884",
+        "elevation (ft)": "460"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.956,
+          55.562
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "SELKIRK-THE-HANGINGSHAW",
+        "county": "Selkirkshire",
+        "gridref": "NT398302",
+        "latitude": "55.562",
+        "longitude": "-2.956",
+        "elevation (ft)": "670"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.787,
+          55.537
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "SELKIRK-WHITMUIR-HALL",
+        "county": "Selkirkshire",
+        "gridref": "NT504273",
+        "latitude": "55.537",
+        "longitude": "-2.787",
+        "elevation (ft)": "809"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.961,
+          55.62
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "WALKERBURN-ELIBANK",
+        "county": "Selkirkshire",
+        "gridref": "NT396367",
+        "latitude": "55.620",
+        "longitude": "-2.961",
+        "elevation (ft)": "440"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.847,
+          55.489
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "WOLL",
+        "county": "Selkirkshire",
+        "gridref": "NT466220",
+        "latitude": "55.489",
+        "longitude": "-2.847",
+        "elevation (ft)": "625"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.019,
+          55.539
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "YARROW-HOUSE",
+        "county": "Selkirkshire",
+        "gridref": "NT358277",
+        "latitude": "55.539",
+        "longitude": "-3.019",
+        "elevation (ft)": "630"
+      }
+    }
+  ]
+}

@@ -1,0 +1,215 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.089,
+          53.941
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "YORK-BISHOPTHORPE-ROAD",
+        "county": "Yorkshire York",
+        "gridref": "SE599498",
+        "latitude": "53.941",
+        "longitude": "-1.089",
+        "elevation (ft)": "54"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.087,
+          53.965
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "YORK-BOOTHAM",
+        "county": "Yorkshire York",
+        "gridref": "SE600525",
+        "latitude": "53.965",
+        "longitude": "-1.087",
+        "elevation (ft)": "50"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.091,
+          53.969
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "YORK-BURTON-CROFT",
+        "county": "Yorkshire York",
+        "gridref": "SE597529",
+        "latitude": "53.969",
+        "longitude": "-1.091",
+        "elevation (ft)": "50"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.104,
+          53.944
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "YORK-CHALFONTS",
+        "county": "Yorkshire York",
+        "gridref": "SE589501",
+        "latitude": "53.944",
+        "longitude": "-1.104",
+        "elevation (ft)": "70"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.083,
+          53.953
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "YORK-CHERRY-HILL",
+        "county": "Yorkshire York",
+        "gridref": "SE603512",
+        "latitude": "53.953",
+        "longitude": "-1.083",
+        "elevation (ft)": "50"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.084,
+          53.959
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "YORK-CONEY-STREET",
+        "county": "Yorkshire York",
+        "gridref": "SE602518",
+        "latitude": "53.959",
+        "longitude": "-1.084",
+        "elevation (ft)": "40"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.056,
+          53.965
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "YORK-HEWORTH",
+        "county": "Yorkshire York",
+        "gridref": "SE620525",
+        "latitude": "53.965",
+        "longitude": "-1.056",
+        "elevation (ft)": "48"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.089,
+          53.962
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "YORK-MUSEUM",
+        "county": "Yorkshire York",
+        "gridref": "SE599521",
+        "latitude": "53.962",
+        "longitude": "-1.089",
+        "elevation (ft)": "57"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.064,
+          53.95
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "YORK-THE-RETREAT",
+        "county": "Yorkshire York",
+        "gridref": "SE615508",
+        "latitude": "53.950",
+        "longitude": "-1.064",
+        "elevation (ft)": "74"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.066,
+          53.951
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle-stroked",
+        "marker-size": "small",
+        "marker-color": "66ff33",
+        "name": "YORK-THE-RETREAT",
+        "county": "Yorkshire York",
+        "gridref": "SE614509",
+        "latitude": "53.951",
+        "longitude": "-1.066",
+        "elevation (ft)": "90"
+      }
+    }
+  ]
+}
