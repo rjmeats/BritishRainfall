@@ -14,6 +14,7 @@ Contents of my repository:
 
 |Folder|Contents|
 |:--|:--|
+|DailyReadings|Contains files relating to daily rainfall records.|
 |Locations|Contains files providing links to the many different locations in main Rainfall Rescue GitHub site, organised in convenient ways.|
 |Obituaries|Obiturary content extracted from British Rainfall almanacs.|
 |Scratch|Area for ease of sharing content, mostly images extracted from British Rainfall almanac.|
