@@ -6,3 +6,6 @@ volumes are available as individual PDF files on the [Met Office Archive site](h
 * **BR_Obituaries_text.pdf** contains text extracted from these obituary page images using the Tesseract-OCR tool. The main purpose
 of the text file is to provide a searchable version of the combined obituaries; BR_Obituaries.pdf or the original British Rainfall volumes can then be used 
 to read the relevant material more easily.
+
+* **Alexander_Buchan_Obituary.pdf** contains the full obituary pages for Alexander Buchan, from Symon's Meteorological Magazine, July 1907 edition - British Rainfall only has a short obituary for him, 
+referencing this fuller one.  The scanned magazine is available on the [Met Office Archive site](https://digital.nmla.metoffice.gov.uk/IO_d4bc41c5-baea-4e98-9664-3d85e5dacc68/). 
