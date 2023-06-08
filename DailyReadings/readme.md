@@ -1,6 +1,6 @@
 # Daily Rainfall Readings
 
-Various files relating daily rainfall readings.
+Various files relating to daily rainfall readings.
 
 |File|Contents|
 |----|--------|
