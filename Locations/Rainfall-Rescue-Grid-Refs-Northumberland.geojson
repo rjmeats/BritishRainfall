@@ -13,7 +13,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "ACKLINGTON-AIRFIELD",
         "county": "Northumberland",
         "gridref": "NU225007",
@@ -34,7 +34,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "ACKLINGTON-BROOMHILL-COLLIERY",
         "county": "Northumberland",
         "gridref": "NU247010",
@@ -55,7 +55,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "ALLENDALE",
         "county": "Northumberland",
         "gridref": "NY840559",
@@ -76,7 +76,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "ALLENHEADS",
         "county": "Northumberland",
         "gridref": "NY858457",
@@ -97,7 +97,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "ALLENHEADS",
         "county": "Northumberland",
         "gridref": "NY841473",
@@ -118,7 +118,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "ALLENHEADS",
         "county": "Northumberland",
         "gridref": "NY852483",
@@ -139,7 +139,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "ALNMOUTH-NETHER-GRANGE",
         "county": "Northumberland",
         "gridref": "NU247104",
@@ -160,7 +160,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "ALNWICK-CASTLE",
         "county": "Northumberland",
         "gridref": "NU186135",
@@ -181,7 +181,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "ALNWICK-GLANTON-PIKE",
         "county": "Northumberland",
         "gridref": "NU058142",
@@ -202,7 +202,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "ALNWICK-MIX",
         "county": "Northumberland",
         "gridref": "NU185137",
@@ -223,7 +223,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "ALNWICK-MIX",
         "county": "Northumberland",
         "gridref": "NU182157",
@@ -244,7 +244,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "ALNWICK-MIX",
         "county": "Northumberland",
         "gridref": "NU185128",
@@ -265,7 +265,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "ALNWICK-MIX",
         "county": "Northumberland",
         "gridref": "NU187133",
@@ -286,7 +286,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "ALWINTON-BIDDLESTON",
         "county": "Northumberland",
         "gridref": "NT955083",
@@ -307,7 +307,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "ALWINTON-HARBOTTLE",
         "county": "Northumberland",
         "gridref": "NT931047",
@@ -328,7 +328,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "AMBLE",
         "county": "Northumberland",
         "gridref": "NU266047",
@@ -349,7 +349,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "ANCROFT-CHESWICK",
         "county": "Northumberland",
         "gridref": "NU028463",
@@ -370,7 +370,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "ANGERTON-HALL",
         "county": "Northumberland",
         "gridref": "NZ094852",
@@ -391,7 +391,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "BAMBURGH",
         "county": "Northumberland",
         "gridref": "NU175348",
@@ -412,7 +412,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "BAMBURGH",
         "county": "Northumberland",
         "gridref": "NU180350",
@@ -433,7 +433,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "BARDON-MILL-ALLANS-GREEN",
         "county": "Northumberland",
         "gridref": "NY765615",
@@ -454,7 +454,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "BARDON-MILL-BELTINGHAM-VICARAGE",
         "county": "Northumberland",
         "gridref": "NY789638",
@@ -475,7 +475,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "BARRASFORD",
         "county": "Northumberland",
         "gridref": "NY921730",
@@ -496,7 +496,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "BEAL-BARMOOR-CASTLE",
         "county": "Northumberland",
         "gridref": "NT994395",
@@ -517,7 +517,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "BEAL-BARMOOR-CASTLE",
         "county": "Northumberland",
         "gridref": "NZ101905",
@@ -538,7 +538,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "BEAL-LOWLYNN",
         "county": "Northumberland",
         "gridref": "NU041419",
@@ -559,7 +559,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "BELFORD-MIDDLETON-HALL",
         "county": "Northumberland",
         "gridref": "NU095355",
@@ -580,7 +580,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "BELFORD-NEWLANDS",
         "county": "Northumberland",
         "gridref": "NU116322",
@@ -601,7 +601,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "BELLINGHAM-HESLEYSIDE",
         "county": "Northumberland",
         "gridref": "NY816837",
@@ -622,7 +622,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "BELLINGHAM-HIGHGREEN",
         "county": "Northumberland",
         "gridref": "NY809910",
@@ -643,7 +643,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "BELLINGHAM-OTTERBURN",
         "county": "Northumberland",
         "gridref": "NY886931",
@@ -664,7 +664,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "BERWICK-ON-TWEED-CHURCH-STREET",
         "county": "Northumberland",
         "gridref": "NT999531",
@@ -685,7 +685,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "BERWICK-ON-TWEED-RAMPARTS",
         "county": "Northumberland",
         "gridref": "NU002528",
@@ -706,7 +706,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "BINGFIELD-HOUSE-NORTHUMBERLAND",
         "county": "Northumberland",
         "gridref": "NY982733",
@@ -727,7 +727,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "BLANCHLAND-ACTON-BURN",
         "county": "Northumberland",
         "gridref": "NY979538",
@@ -748,7 +748,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "BLANCHLAND-BIRKSIDE",
         "county": "Northumberland",
         "gridref": "NY949507",
@@ -769,7 +769,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "BLANCHLAND-COWBYERS",
         "county": "Northumberland",
         "gridref": "NY972516",
@@ -790,7 +790,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "BLANCHLAND-PENNYPIE",
         "county": "Northumberland",
         "gridref": "NY951522",
@@ -811,7 +811,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "BLYTH-COWPEN-SEWAGE-WKS",
         "county": "Northumberland",
         "gridref": "NZ295822",
@@ -832,7 +832,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "BOWER-MOOR",
         "county": "Northumberland",
         "gridref": "NY834757",
@@ -853,7 +853,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "BRANTON-SCHOOL",
         "county": "Northumberland",
         "gridref": "NU046163",
@@ -874,7 +874,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "BURNSIDE-NEWCASTLE-WW",
         "county": "Northumberland",
         "gridref": "NZ045717",
@@ -895,7 +895,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "BYWELL",
         "county": "Northumberland",
         "gridref": "NZ052614",
@@ -916,7 +916,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "CALLALY-CASTLE-GDNS",
         "county": "Northumberland",
         "gridref": "NU052100",
@@ -937,7 +937,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "CATCLEUGH-NURSERY",
         "county": "Northumberland",
         "gridref": "NT749031",
@@ -958,7 +958,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "CHATHILL-PRESTON-TOWER",
         "county": "Northumberland",
         "gridref": "NU185255",
@@ -979,7 +979,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "CHEVIOT-BROADSTRUTHER",
         "county": "Northumberland",
         "gridref": "NT932234",
@@ -1000,7 +1000,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "CHEVIOT-HILLS-CARSHOPE",
         "county": "Northumberland",
         "gridref": "NT846112",
@@ -1021,7 +1021,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "CHEVIOT-HILLS-LINHOPE",
         "county": "Northumberland",
         "gridref": "NT963161",
@@ -1042,7 +1042,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "CHEVIOT-HILLS-SOUTHERNKNOWE",
         "county": "Northumberland",
         "gridref": "NT888246",
@@ -1063,7 +1063,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "CHILLINGHAM-BARNS",
         "county": "Northumberland",
         "gridref": "NU052262",
@@ -1084,7 +1084,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "COLDSTREAM-PAWSTON",
         "county": "Northumberland",
         "gridref": "NT855327",
@@ -1105,7 +1105,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "CORBRIDGE-HOWDEN-DENE",
         "county": "Northumberland",
         "gridref": "NZ001640",
@@ -1126,7 +1126,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "CORBRIDGE-MONKS-HOLME",
         "county": "Northumberland",
         "gridref": "NY991642",
@@ -1147,7 +1147,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "CORBRIDGE-ON-TYNE-LAUDER-GRANGE",
         "county": "Northumberland",
         "gridref": "NY991629",
@@ -1168,7 +1168,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "CORNHILL-PALLINSBURN",
         "county": "Northumberland",
         "gridref": "NT911383",
@@ -1189,7 +1189,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "CRAMLINGTON-COLLIERY",
         "county": "Northumberland",
         "gridref": "NZ278761",
@@ -1210,7 +1210,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "DEADWATER",
         "county": "Northumberland",
         "gridref": "NY624970",
@@ -1231,7 +1231,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "DOXFORD-HALL",
         "county": "Northumberland",
         "gridref": "NU187241",
@@ -1252,7 +1252,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "EMBLETON-NEWTON-HOUSE",
         "county": "Northumberland",
         "gridref": "NU236254",
@@ -1273,7 +1273,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "EWESLEY-STATION-CHERTNERS",
         "county": "Northumberland",
         "gridref": "NZ001957",
@@ -1294,7 +1294,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "EWESLEY-STATION-FALLOWLEES",
         "county": "Northumberland",
         "gridref": "NZ019943",
@@ -1315,7 +1315,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "EWESLEY-STATION-REDPATH",
         "county": "Northumberland",
         "gridref": "NZ004926",
@@ -1336,7 +1336,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "EWESLEY-STATION-TOD-CRAG",
         "county": "Northumberland",
         "gridref": "NY985941",
@@ -1357,7 +1357,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "FALSTONE",
         "county": "Northumberland",
         "gridref": "NY723874",
@@ -1378,7 +1378,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "FALSTONE-HOPE-HOUSE",
         "county": "Northumberland",
         "gridref": "NY684805",
@@ -1399,7 +1399,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "FALSTONE-RECTORY",
         "county": "Northumberland",
         "gridref": "NY728868",
@@ -1420,7 +1420,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "FALSTONE-WICKHOPE",
         "county": "Northumberland",
         "gridref": "NY676860",
@@ -1441,7 +1441,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "FELTON",
         "county": "Northumberland",
         "gridref": "NU179023",
@@ -1462,7 +1462,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "FELTON-SCHOOL-GDNS",
         "county": "Northumberland",
         "gridref": "NU184007",
@@ -1483,7 +1483,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "FELTON-SCHOOL-GDNS",
         "county": "Northumberland",
         "gridref": "NU170053",
@@ -1504,7 +1504,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "FLOTTERTON",
         "county": "Northumberland",
         "gridref": "NU000024",
@@ -1525,7 +1525,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "FORD-CASTLE-GARDENS",
         "county": "Northumberland",
         "gridref": "NT945375",
@@ -1546,7 +1546,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "HALLINGTON-FAWCETT",
         "county": "Northumberland",
         "gridref": "NY965765",
@@ -1567,7 +1567,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "HALLINGTON-RES",
         "county": "Northumberland",
         "gridref": "NY973761",
@@ -1588,7 +1588,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "HALTWHISTLE-BELLISTER-CASTLE",
         "county": "Northumberland",
         "gridref": "NY700629",
@@ -1609,7 +1609,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "HALTWHISTLE-PLENMELLOR-COLLIERIES",
         "county": "Northumberland",
         "gridref": "NY731604",
@@ -1630,7 +1630,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "HALTWHISTLE-SHAFT-HILL",
         "county": "Northumberland",
         "gridref": "NY677588",
@@ -1651,7 +1651,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "HALTWHISTLE-UNTHANK-HALL",
         "county": "Northumberland",
         "gridref": "NY729630",
@@ -1672,7 +1672,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "HARTBURN-WALLINGTON",
         "county": "Northumberland",
         "gridref": "NZ035841",
@@ -1693,7 +1693,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "HAYDON-BRIDGE-BEWICK",
         "county": "Northumberland",
         "gridref": "NY839646",
@@ -1714,7 +1714,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "HAYDON-BRIDGE-RIDLEY",
         "county": "Northumberland",
         "gridref": "NY793638",
@@ -1735,7 +1735,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "HAYDON-BRIDGE-SHAFTOE-TRUST-SCHOOL",
         "county": "Northumberland",
         "gridref": "NY844639",
@@ -1756,7 +1756,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "HAYDON-BRIDGE-WHITFIELD",
         "county": "Northumberland",
         "gridref": "NY778583",
@@ -1777,7 +1777,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "HEDDON-ON-THE-WALL-VICARAGE",
         "county": "Northumberland",
         "gridref": "NZ132669",
@@ -1798,7 +1798,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "HERONS-HAUGH",
         "county": "Northumberland",
         "gridref": "NY861767",
@@ -1819,7 +1819,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "HEXHAM-BEAUFRONT-CASTLE",
         "county": "Northumberland",
         "gridref": "NY963659",
@@ -1840,7 +1840,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "HEXHAM-CAUSEY-HILL",
         "county": "Northumberland",
         "gridref": "NY926632",
@@ -1861,7 +1861,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "HEXHAM-PARKEND",
         "county": "Northumberland",
         "gridref": "NY871757",
@@ -1882,7 +1882,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "HEXHAM-PLOVER-HILL-TOP",
         "county": "Northumberland",
         "gridref": "NY926620",
@@ -1903,7 +1903,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "HEXHAM-RES",
         "county": "Northumberland",
         "gridref": "NY931632",
@@ -1924,7 +1924,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "HEXHAM-RIDGEWAY-ON-YARRIDGE",
         "county": "Northumberland",
         "gridref": "NY928624",
@@ -1945,7 +1945,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "HEXHAM-WIDEHAUGH-NURSERY",
         "county": "Northumberland",
         "gridref": "NY964641",
@@ -1966,7 +1966,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "HOLY-ISLAND-ST-AIDANS",
         "county": "Northumberland",
         "gridref": "NU126420",
@@ -1987,7 +1987,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "HOPEHEAD",
         "county": "Northumberland",
         "gridref": "NT738066",
@@ -2008,7 +2008,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "HOWICK-HALL",
         "county": "Northumberland",
         "gridref": "NU247173",
@@ -2029,7 +2029,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "HUMSHAUGH",
         "county": "Northumberland",
         "gridref": "NY919713",
@@ -2050,7 +2050,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "ILDERTON-LILBURN-COTTAGE",
         "county": "Northumberland",
         "gridref": "NU021241",
@@ -2071,7 +2071,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "ILDERTON-LILBURN-TOWER",
         "county": "Northumberland",
         "gridref": "NU023243",
@@ -2092,7 +2092,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "ILDERTON-LILBURN-TOWER",
         "county": "Northumberland",
         "gridref": "NU026243",
@@ -2113,7 +2113,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "KIELDER",
         "county": "Northumberland",
         "gridref": "NY626935",
@@ -2134,7 +2134,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "KIELDER-CARRY-BURN",
         "county": "Northumberland",
         "gridref": "NT652010",
@@ -2155,7 +2155,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "KIELDER-CASTLE",
         "county": "Northumberland",
         "gridref": "NY631929",
@@ -2176,7 +2176,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "KIELDER-CASTLE",
         "county": "Northumberland",
         "gridref": "NY632935",
@@ -2197,7 +2197,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "KIELDER-CASTLE",
         "county": "Northumberland",
         "gridref": "NY631924",
@@ -2218,7 +2218,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "KIELDER-KIELDER-HEAD",
         "county": "Northumberland",
         "gridref": "NY664978",
@@ -2239,7 +2239,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "KIELDER-LITTLE-GUNNS-CLEUGH",
         "county": "Northumberland",
         "gridref": "NT687009",
@@ -2260,7 +2260,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "KIELDER-OH-ME-EDGE",
         "county": "Northumberland",
         "gridref": "NY705988",
@@ -2281,7 +2281,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "KIELDER-RIDGE-END",
         "county": "Northumberland",
         "gridref": "NY657958",
@@ -2302,7 +2302,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "KIRKNEWTON-COLDBURN",
         "county": "Northumberland",
         "gridref": "NT892240",
@@ -2323,7 +2323,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "KIRKNEWTON-HEATHPOOL",
         "county": "Northumberland",
         "gridref": "NT895283",
@@ -2344,7 +2344,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "KIRKWHELPINGTON",
         "county": "Northumberland",
         "gridref": "NY998844",
@@ -2365,7 +2365,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "LAMPERT",
         "county": "Northumberland",
         "gridref": "NY683745",
@@ -2386,7 +2386,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "LONG-FRAMLINGTON-EMBLETON-HALL",
         "county": "Northumberland",
         "gridref": "NU130013",
@@ -2407,7 +2407,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "LONG-HORSLEY-GHYLLHEUGH",
         "county": "Northumberland",
         "gridref": "NZ137977",
@@ -2428,7 +2428,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "MAIDENHALL-STANTON-NOOK",
         "county": "Northumberland",
         "gridref": "NZ138886",
@@ -2449,7 +2449,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "MELDON-GALLOWHILL-HALL",
         "county": "Northumberland",
         "gridref": "NZ103821",
@@ -2470,7 +2470,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "MINDRUM",
         "county": "Northumberland",
         "gridref": "NT842327",
@@ -2491,7 +2491,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "MINDRUM",
         "county": "Northumberland",
         "gridref": "NT843327",
@@ -2512,7 +2512,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "MINDRUM-THORNINGTON-HOUSE",
         "county": "Northumberland",
         "gridref": "NT884334",
@@ -2533,7 +2533,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "MORPETH",
         "county": "Northumberland",
         "gridref": "NZ196859",
@@ -2554,7 +2554,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "MORPETH",
         "county": "Northumberland",
         "gridref": "NZ220847",
@@ -2575,7 +2575,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "MORPETH-ASHINGTON",
         "county": "Northumberland",
         "gridref": "NZ259877",
@@ -2596,7 +2596,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "MORPETH-BOTHALHAUGH",
         "county": "Northumberland",
         "gridref": "NZ241863",
@@ -2617,7 +2617,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "MORPETH-BOTHALHAUGH",
         "county": "Northumberland",
         "gridref": "NZ240862",
@@ -2638,7 +2638,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "MORPETH-BOTHALHAUGH",
         "county": "Northumberland",
         "gridref": "NZ241864",
@@ -2659,7 +2659,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "MORPETH-COCKLE-PARK",
         "county": "Northumberland",
         "gridref": "NZ201912",
@@ -2680,7 +2680,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "MORPETH-CRESSWELL",
         "county": "Northumberland",
         "gridref": "NZ276920",
@@ -2701,7 +2701,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "MORPETH-EARSDON",
         "county": "Northumberland",
         "gridref": "NZ207925",
@@ -2722,7 +2722,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "MORPETH-HIGH-STANNERS",
         "county": "Northumberland",
         "gridref": "NZ195861",
@@ -2743,7 +2743,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "MORPETH-LONGHIRST-HALL",
         "county": "Northumberland",
         "gridref": "NZ223889",
@@ -2764,7 +2764,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "MORPETH-LONGWITTON-HALL",
         "county": "Northumberland",
         "gridref": "NZ080886",
@@ -2785,7 +2785,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "MORPETH-MELDON-PARK",
         "county": "Northumberland",
         "gridref": "NZ105854",
@@ -2806,7 +2806,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "MORPETH-SHEEPWASH",
         "county": "Northumberland",
         "gridref": "NZ255858",
@@ -2827,7 +2827,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "MORPETH-STOBHILL",
         "county": "Northumberland",
         "gridref": "NZ206843",
@@ -2848,7 +2848,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "MORPETH-TRITLINGTON-SCHOOL",
         "county": "Northumberland",
         "gridref": "NZ188923",
@@ -2869,7 +2869,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "NEWBOROUGH-HEXHAM",
         "county": "Northumberland",
         "gridref": "NY874682",
@@ -2890,7 +2890,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "NEWCASTLE-CAMPHILL-WW",
         "county": "Northumberland",
         "gridref": "NY916765",
@@ -2911,7 +2911,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "NEWCASTLE-CHRONICLE-OFFICE",
         "county": "Northumberland",
         "gridref": "NZ248639",
@@ -2932,7 +2932,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "NEWCASTLE-CLIFTON-ROAD",
         "county": "Northumberland",
         "gridref": "NZ225640",
@@ -2953,7 +2953,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "NEWCASTLE-GLADSTONE-TERRACE",
         "county": "Northumberland",
         "gridref": "NZ254651",
@@ -2974,7 +2974,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "NEWCASTLE-GOSFORTH",
         "county": "Northumberland",
         "gridref": "NZ245675",
@@ -2995,7 +2995,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "NEWCASTLE-GREEN-CRAG",
         "county": "Northumberland",
         "gridref": "NY926813",
@@ -3016,7 +3016,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "NEWCASTLE-KINGS-COLLEGE",
         "county": "Northumberland",
         "gridref": "NZ247650",
@@ -3037,7 +3037,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "NEWCASTLE-KINGS-COLLEGE",
         "county": "Northumberland",
         "gridref": "NZ233659",
@@ -3058,7 +3058,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "NEWCASTLE-LEAZES-PARK",
         "county": "Northumberland",
         "gridref": "NZ240648",
@@ -3079,7 +3079,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "NEWCASTLE-LIT-AND-PHIL-SOC",
         "county": "Northumberland",
         "gridref": "NZ247639",
@@ -3100,7 +3100,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "NEWCASTLE-NORTHUMBERLAND-ROAD",
         "county": "Northumberland",
         "gridref": "NZ250647",
@@ -3121,7 +3121,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "NEWCASTLE-ON-TYNE",
         "county": "Northumberland",
         "gridref": "NZ237650",
@@ -3142,7 +3142,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "NEWCASTLE-ON-TYNE-EARSDON",
         "county": "Northumberland",
         "gridref": "NZ320725",
@@ -3163,7 +3163,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "NEWCASTLE-OSBORNE-ROAD",
         "county": "Northumberland",
         "gridref": "NZ253656",
@@ -3184,7 +3184,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "NEWCASTLE-PORTLAND-ROAD",
         "county": "Northumberland",
         "gridref": "NZ239657",
@@ -3205,7 +3205,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "NEWCASTLE-PORTLAND-ROAD",
         "county": "Northumberland",
         "gridref": "NZ239656",
@@ -3226,7 +3226,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "NEWCASTLE-RYE-HILL",
         "county": "Northumberland",
         "gridref": "NZ237639",
@@ -3247,7 +3247,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "NEWCASTLE-THORN-TREE-FARM-DENTON",
         "county": "Northumberland",
         "gridref": "NZ202654",
@@ -3268,7 +3268,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "NEWCASTLE-TOWN-MOOR",
         "county": "Northumberland",
         "gridref": "NZ250661",
@@ -3289,7 +3289,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "NEWCASTLE-WELLBURN-JESMOND",
         "county": "Northumberland",
         "gridref": "NZ260660",
@@ -3310,7 +3310,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "NEWCASTLE-WHICKHAM-VIEW-SCHOOL",
         "county": "Northumberland",
         "gridref": "NZ200647",
@@ -3331,7 +3331,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "NEWCASTLE-WW-COLT-CRAG-RES",
         "county": "Northumberland",
         "gridref": "NY929784",
@@ -3352,7 +3352,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "NEWCASTLE-WW-HALLINGTON-CHEVIOTT",
         "county": "Northumberland",
         "gridref": "NY978766",
@@ -3373,7 +3373,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "NEWCASTLE-WW-HALLINGTON-VILLAGE",
         "county": "Northumberland",
         "gridref": "NY984759",
@@ -3394,7 +3394,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "NEWCASTLE-WW-RYAL-COTTAGE",
         "county": "Northumberland",
         "gridref": "NY994742",
@@ -3415,7 +3415,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "NEWCASTLE-WW-WHITTLE-DEAN-FILTERS",
         "county": "Northumberland",
         "gridref": "NZ075672",
@@ -3436,7 +3436,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "NORTH-SHIELDS-BILLY-MILL-RES",
         "county": "Northumberland",
         "gridref": "NZ341695",
@@ -3457,7 +3457,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "NORTH-SHIELDS-CHIRTON-COTTAGE",
         "county": "Northumberland",
         "gridref": "NZ346682",
@@ -3478,7 +3478,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "NORTH-SHIELDS-CLEMENTHORPE",
         "county": "Northumberland",
         "gridref": "NZ350693",
@@ -3499,7 +3499,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "NORTH-SHIELDS-LOW-LIGHTS",
         "county": "Northumberland",
         "gridref": "NZ364685",
@@ -3520,7 +3520,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "NORTH-SHIELDS-POST-OFFICE",
         "county": "Northumberland",
         "gridref": "NZ360684",
@@ -3541,7 +3541,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "NORTH-SHIELDS-ROSELLA",
         "county": "Northumberland",
         "gridref": "NZ351684",
@@ -3562,7 +3562,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "NORTH-SHIELDS-WALLSEND",
         "county": "Northumberland",
         "gridref": "NZ300669",
@@ -3583,7 +3583,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "NORTH-SHIELDS-WHITLEY-CONVALESCENT-HOME",
         "county": "Northumberland",
         "gridref": "NZ350732",
@@ -3604,7 +3604,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "NORTH-SHIELDS-WHITLEY-VICARAGE",
         "county": "Northumberland",
         "gridref": "NZ352720",
@@ -3625,7 +3625,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "NORTH-SUNDERLAND-CHATHILL",
         "county": "Northumberland",
         "gridref": "NU186270",
@@ -3646,7 +3646,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "NORTH-TYNE-VALLEY",
         "county": "Northumberland",
         "gridref": "NY9230872890",
@@ -3667,7 +3667,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "OTTERBURN-TOWER",
         "county": "Northumberland",
         "gridref": "NY887931",
@@ -3688,7 +3688,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "OVINGHAM-W-TYNE-COLLIERY",
         "county": "Northumberland",
         "gridref": "NZ083630",
@@ -3709,7 +3709,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "PONTELAND-KIRKLEY-HALL",
         "county": "Northumberland",
         "gridref": "NZ150772",
@@ -3730,7 +3730,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "REDESDALE-HORSLEY",
         "county": "Northumberland",
         "gridref": "NY841972",
@@ -3751,7 +3751,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "REDEWATER-BLACKCLEUGH",
         "county": "Northumberland",
         "gridref": "NT704053",
@@ -3772,7 +3772,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "REDEWATER-BLAKEHOPE",
         "county": "Northumberland",
         "gridref": "NY760999",
@@ -3793,7 +3793,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "REDEWATER-CATCLEUGH",
         "county": "Northumberland",
         "gridref": "NT749033",
@@ -3814,7 +3814,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "REDEWATER-CHATTLEHOPE",
         "county": "Northumberland",
         "gridref": "NT734032",
@@ -3835,7 +3835,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "REDEWATER-COUNTESS-CRAG",
         "county": "Northumberland",
         "gridref": "NT708022",
@@ -3856,7 +3856,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "REDEWATER-COUNTESS-CRAG",
         "county": "Northumberland",
         "gridref": "NT705019",
@@ -3877,7 +3877,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "REDEWATER-ELLIS-CRAG",
         "county": "Northumberland",
         "gridref": "NT746011",
@@ -3898,7 +3898,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "REDEWATER-GAME-PARK",
         "county": "Northumberland",
         "gridref": "NT716046",
@@ -3919,7 +3919,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "REDEWATER-LUMSDEN-LAW-MIX",
         "county": "Northumberland",
         "gridref": "NT726054",
@@ -3940,7 +3940,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "REDEWATER-LUMSDEN-LAW-MIX",
         "county": "Northumberland",
         "gridref": "NT715054",
@@ -3961,7 +3961,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "REDEWATER-LUMSDEN-LAW-MIX",
         "county": "Northumberland",
         "gridref": "NT730053",
@@ -3982,7 +3982,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "REDEWATER-LUMSDEN-LAW-MIX",
         "county": "Northumberland",
         "gridref": "NT724059",
@@ -4003,7 +4003,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "REDEWATER-LUMSDEN-LAW-MIX",
         "county": "Northumberland",
         "gridref": "NT718053",
@@ -4024,7 +4024,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "REDEWATER-LUMSDEN-LAW-MIX",
         "county": "Northumberland",
         "gridref": "NT726049",
@@ -4045,7 +4045,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "REDEWATER-LUMSDEN-LAW-MIX",
         "county": "Northumberland",
         "gridref": "NT734052",
@@ -4066,7 +4066,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "REDEWATER-LUMSDON",
         "county": "Northumberland",
         "gridref": "NT735061",
@@ -4087,7 +4087,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "REDEWATER-RAMSHOPE",
         "county": "Northumberland",
         "gridref": "NT737042",
@@ -4108,7 +4108,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "REDEWATER-REDE-VALLEY-MIX",
         "county": "Northumberland",
         "gridref": "NT739037",
@@ -4129,7 +4129,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "REDEWATER-REDE-VALLEY-MIX",
         "county": "Northumberland",
         "gridref": "NT676030",
@@ -4150,7 +4150,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "REDEWATER-REDE-VALLEY-MIX",
         "county": "Northumberland",
         "gridref": "NT707020",
@@ -4171,7 +4171,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "REDEWATER-REDE-VALLEY-MIX",
         "county": "Northumberland",
         "gridref": "NT775052",
@@ -4192,7 +4192,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "REDEWATER-REDE-VALLEY-MIX",
         "county": "Northumberland",
         "gridref": "NT722009",
@@ -4213,7 +4213,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "REDEWATER-REDE-VALLEY-MIX",
         "county": "Northumberland",
         "gridref": "NT735014",
@@ -4234,7 +4234,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "REDEWATER-REDE-VALLEY-MIX",
         "county": "Northumberland",
         "gridref": "NT721047",
@@ -4255,7 +4255,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "REDEWATER-REDE-VALLEY-MIX",
         "county": "Northumberland",
         "gridref": "NT709037",
@@ -4276,7 +4276,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "REDEWATER-REDE-VALLEY-MIX",
         "county": "Northumberland",
         "gridref": "NT721021",
@@ -4297,7 +4297,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "REDEWATER-REDE-VALLEY-MIX",
         "county": "Northumberland",
         "gridref": "NT739053",
@@ -4318,7 +4318,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "REDEWATER-REDE-VALLEY-MIX",
         "county": "Northumberland",
         "gridref": "NT723066",
@@ -4339,7 +4339,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "REDEWATER-REDE-VALLEY-MIX",
         "county": "Northumberland",
         "gridref": "NT705060",
@@ -4360,7 +4360,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "REDEWATER-REDE-VALLEY-MIX",
         "county": "Northumberland",
         "gridref": "NT690048",
@@ -4381,7 +4381,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "REDEWATER-REDE-VALLEY-MIX",
         "county": "Northumberland",
         "gridref": "NT7471203134",
@@ -4402,7 +4402,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "REDEWATER-REDEWATER-MIX",
         "county": "Northumberland",
         "gridref": "NT687037",
@@ -4423,7 +4423,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "REDEWATER-REDEWATER-MIX",
         "county": "Northumberland",
         "gridref": "NT698067",
@@ -4444,7 +4444,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "REDEWATER-REDEWATER-MIX",
         "county": "Northumberland",
         "gridref": "NT704032",
@@ -4465,7 +4465,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "ROCHESTER-BYRNESS",
         "county": "Northumberland",
         "gridref": "NT769025",
@@ -4486,7 +4486,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "RODDAM-HALL-ALNWICK",
         "county": "Northumberland",
         "gridref": "NU025204",
@@ -4507,7 +4507,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "ROTHBURY-BRINCKBURN",
         "county": "Northumberland",
         "gridref": "NZ116983",
@@ -4528,7 +4528,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "ROTHBURY-CEMETERY",
         "county": "Northumberland",
         "gridref": "NU055014",
@@ -4549,7 +4549,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "ROTHBURY-CRAGSIDE",
         "county": "Northumberland",
         "gridref": "NU074022",
@@ -4570,7 +4570,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "ROTHBURY-HEATHERLEA",
         "county": "Northumberland",
         "gridref": "NU061022",
@@ -4591,7 +4591,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "ROTHBURY-WELL-CLOSE",
         "county": "Northumberland",
         "gridref": "NU059018",
@@ -4612,7 +4612,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "ROTHBURY-WHITTON-TOWER",
         "county": "Northumberland",
         "gridref": "NU056010",
@@ -4633,7 +4633,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "ROTHLEY-HARWOOD",
         "county": "Northumberland",
         "gridref": "NZ001902",
@@ -4654,7 +4654,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "SCOTS-GAP-ROTHLEY-LAKE",
         "county": "Northumberland",
         "gridref": "NZ044884",
@@ -4675,7 +4675,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "SHOTLEY-HALL",
         "county": "Northumberland",
         "gridref": "NZ087527",
@@ -4696,7 +4696,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "SIMONBURN-PARK-END",
         "county": "Northumberland",
         "gridref": "NY872757",
@@ -4717,7 +4717,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "STAMFORD",
         "county": "Northumberland",
         "gridref": "NU225193",
@@ -4738,7 +4738,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "STAMFORDHAM",
         "county": "Northumberland",
         "gridref": "NZ076719",
@@ -4759,7 +4759,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "SWINBURN-WOODFORD",
         "county": "Northumberland",
         "gridref": "NY9418776351",
@@ -4780,7 +4780,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "THROCKLEY-FILTERS",
         "county": "Northumberland",
         "gridref": "NZ153668",
@@ -4801,7 +4801,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "TYNEMOUTH-COASTGUARD-STN",
         "county": "Northumberland",
         "gridref": "NZ374694",
@@ -4822,7 +4822,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "TYNEMOUTH-PERCY-PARK",
         "county": "Northumberland",
         "gridref": "NZ366697",
@@ -4843,7 +4843,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "TYNEMOUTH-PIER-WORKS",
         "county": "Northumberland",
         "gridref": "NZ370690",
@@ -4864,7 +4864,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "TYNEMOUTH-WEST-HOUSE-MONKSEATON",
         "county": "Northumberland",
         "gridref": "NZ343719",
@@ -4885,7 +4885,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "TYNEMOUTH-WW-FONT-RES",
         "county": "Northumberland",
         "gridref": "NZ046938",
@@ -4906,7 +4906,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "UPPER-DERWENT-HEATHERY-BURN",
         "county": "Northumberland",
         "gridref": "NY905492",
@@ -4927,7 +4927,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "UPPER-DERWENT-QUICKLEUGH",
         "county": "Northumberland",
         "gridref": "NY889479",
@@ -4948,7 +4948,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "USWAYFORD",
         "county": "Northumberland",
         "gridref": "NT887145",
@@ -4969,7 +4969,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "WALLSEND-CARVILLE-SCHOOL",
         "county": "Northumberland",
         "gridref": "NZ296659",
@@ -4990,7 +4990,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "WARK-STONEHAUGH",
         "county": "Northumberland",
         "gridref": "NY763796",
@@ -5011,7 +5011,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "WEST-DENTON",
         "county": "Northumberland",
         "gridref": "NZ190657",
@@ -5032,7 +5032,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "WHITLEY-BAY-MARDEN-HOUSE",
         "county": "Northumberland",
         "gridref": "NZ356713",
@@ -5053,7 +5053,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "WHITLEY-CHAPEL-LADLE-WELLS",
         "county": "Northumberland",
         "gridref": "NY878524",
@@ -5074,7 +5074,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "WHITTINGTON-NEWCASTLE-WW",
         "county": "Northumberland",
         "gridref": "NZ007703",
@@ -5095,7 +5095,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "WHITTLE-DEAN-RES",
         "county": "Northumberland",
         "gridref": "NZ065680",
@@ -5116,7 +5116,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "WIDDRINGTON",
         "county": "Northumberland",
         "gridref": "NZ256955",
@@ -5137,7 +5137,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "WOOLER-DODDINGTON-VICARAGE",
         "county": "Northumberland",
         "gridref": "NT996322",
@@ -5158,7 +5158,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "WOOLER-MIDDLETON-HALL",
         "county": "Northumberland",
         "gridref": "NT989255",
@@ -5179,7 +5179,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "WOOLER-MILFIELD",
         "county": "Northumberland",
         "gridref": "NT928343",
@@ -5200,7 +5200,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "WOOLER-MILFIELD",
         "county": "Northumberland",
         "gridref": "NT915325",
@@ -5221,7 +5221,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "WOOLER-ST-NINIANS",
         "county": "Northumberland",
         "gridref": "NT990283",
@@ -5242,7 +5242,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "WOOLER-THIRLINGS",
         "county": "Northumberland",
         "gridref": "NT958324",
@@ -5263,7 +5263,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "WOOLER-VICTORIA-HOUSE",
         "county": "Northumberland",
         "gridref": "NT991283",
@@ -5284,7 +5284,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "WOOPERTON",
         "county": "Northumberland",
         "gridref": "NU039202",
@@ -5305,7 +5305,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "WYLAM-HALL",
         "county": "Northumberland",
         "gridref": "NZ112646",
@@ -5326,7 +5326,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "WYLAM-HOLEYN-HALL",
         "county": "Northumberland",
         "gridref": "NZ109661",

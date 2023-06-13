@@ -13,7 +13,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "ALDERWASLEY",
         "county": "Derbyshire",
         "gridref": "SK326533",
@@ -34,7 +34,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "ALDERWASLEY",
         "county": "Derbyshire",
         "gridref": "SK325531",
@@ -55,7 +55,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "ALPORT-MOOR",
         "county": "Derbyshire",
         "gridref": "SK106943",
@@ -76,7 +76,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "ALPORT-MOOR-ALPORT-CASTLE",
         "county": "Derbyshire",
         "gridref": "SK133915",
@@ -97,7 +97,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "ALPORT-MOOR-ALPORT-CASTLE",
         "county": "Derbyshire",
         "gridref": "SK133919",
@@ -118,7 +118,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "ALPORT-MOOR-GLETHERING-CLOUGH",
         "county": "Derbyshire",
         "gridref": "SK125936",
@@ -139,7 +139,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "AMBERGATE-RES",
         "county": "Derbyshire",
         "gridref": "SK347531",
@@ -160,7 +160,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "AMBERGATE-RES",
         "county": "Derbyshire",
         "gridref": "SK350526",
@@ -181,7 +181,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "ASHBOURNE-THE-MANSION",
         "county": "Derbyshire",
         "gridref": "SK177464",
@@ -202,7 +202,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "ASHBOURNE-VICARAGE",
         "county": "Derbyshire",
         "gridref": "SK172463",
@@ -223,7 +223,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "ASHBOURNE-WINDMILL-LANE",
         "county": "Derbyshire",
         "gridref": "SK180471",
@@ -244,7 +244,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "ASHBOURNE-WW",
         "county": "Derbyshire",
         "gridref": "SK186459",
@@ -265,7 +265,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "ASHBOURNE-YELDERSLEY-HALL",
         "county": "Derbyshire",
         "gridref": "SK209440",
@@ -286,7 +286,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "ASHOP-HEAD",
         "county": "Derbyshire",
         "gridref": "SK068907",
@@ -307,7 +307,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "ASHOPTON-COCKBRIDGE-FARM",
         "county": "Derbyshire",
         "gridref": "SK192862",
@@ -328,7 +328,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "ASHOPTON-CUTTHROAT-BRIDGE",
         "county": "Derbyshire",
         "gridref": "SK213875",
@@ -349,7 +349,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "ASHOPTON-GRIMBO-CARR",
         "county": "Derbyshire",
         "gridref": "SK176872",
@@ -370,7 +370,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "ASHOPTON-HAGLEE",
         "county": "Derbyshire",
         "gridref": "SK163881",
@@ -391,7 +391,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "ASHOPTON-INN",
         "county": "Derbyshire",
         "gridref": "SK194863",
@@ -412,7 +412,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "ASHOPTON-MOSCAR-FLAT",
         "county": "Derbyshire",
         "gridref": "SK236879",
@@ -433,7 +433,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "ASHOPTON-WIN-HILL",
         "county": "Derbyshire",
         "gridref": "SK188855",
@@ -454,7 +454,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "ASHOPTON-WIN-HILL",
         "county": "Derbyshire",
         "gridref": "SK188854",
@@ -475,7 +475,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "ASHOPTON-WOOLER-KNOLL",
         "county": "Derbyshire",
         "gridref": "SK173864",
@@ -496,7 +496,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "BAKEWELL-ASHFORD-ROAD",
         "county": "Derbyshire",
         "gridref": "SK206691",
@@ -517,7 +517,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "BAKEWELL-CATCLIFF",
         "county": "Derbyshire",
         "gridref": "SK217684",
@@ -538,7 +538,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "BAKEWELL-STONY-MIDDLETON",
         "county": "Derbyshire",
         "gridref": "SK229751",
@@ -559,7 +559,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "BAKEWELL-STONY-MIDDLETON",
         "county": "Derbyshire",
         "gridref": "SK229754",
@@ -580,7 +580,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "BAMFORD",
         "county": "Derbyshire",
         "gridref": "SK205833",
@@ -601,7 +601,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "BAMFORD-ENGINEERS-OFFICE",
         "county": "Derbyshire",
         "gridref": "SK202829",
@@ -622,7 +622,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "BAMFORD-FILTERS",
         "county": "Derbyshire",
         "gridref": "SK212830",
@@ -643,7 +643,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "BAMFORD-YORKSHIRE-BRIDGE-WEIR",
         "county": "Derbyshire",
         "gridref": "SK198850",
@@ -664,7 +664,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "BARROW-CLOUGH",
         "county": "Derbyshire",
         "gridref": "SK142976",
@@ -685,7 +685,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "BASLOW-OVER-END",
         "county": "Derbyshire",
         "gridref": "SK256727",
@@ -706,7 +706,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "BASLOW-TITHEACRE",
         "county": "Derbyshire",
         "gridref": "SK256723",
@@ -727,7 +727,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "BASLOW-TITHEACRE",
         "county": "Derbyshire",
         "gridref": "SK253723",
@@ -748,7 +748,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "BELPER-FERNSLOPE",
         "county": "Derbyshire",
         "gridref": "SK351477",
@@ -769,7 +769,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "BELPER-HERBERT-STRUTT-SCHOOL",
         "county": "Derbyshire",
         "gridref": "SK346468",
@@ -790,7 +790,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "BELPER-MILFORD",
         "county": "Derbyshire",
         "gridref": "SK350450",
@@ -811,7 +811,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "BELPER-QUARRY-BANK",
         "county": "Derbyshire",
         "gridref": "SK346480",
@@ -832,7 +832,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "BELPER-QUARRY-BANK",
         "county": "Derbyshire",
         "gridref": "SK348483",
@@ -853,7 +853,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "BIGGIN-SCHOOL",
         "county": "Derbyshire",
         "gridref": "SK156593",
@@ -874,7 +874,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "BIRCHINLEE-MOOR-COTE-RIDGE",
         "county": "Derbyshire",
         "gridref": "SK155915",
@@ -895,7 +895,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "BLACK-CLOUGH-WOODHEAD",
         "county": "Derbyshire",
         "gridref": "SK113977",
@@ -916,7 +916,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "BLACKDEAN-MOOR-CROOKSTONE",
         "county": "Derbyshire",
         "gridref": "SK147880",
@@ -937,7 +937,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "BLACKDEN-BROOK",
         "county": "Derbyshire",
         "gridref": "SK127890",
@@ -958,7 +958,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "BLEAKLOW-HILL",
         "county": "Derbyshire",
         "gridref": "SK102960",
@@ -979,7 +979,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "BLEAKLOW-HILL-DOWSTONE-ROCKS",
         "county": "Derbyshire",
         "gridref": "SK093979",
@@ -1000,7 +1000,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "BLEAKLOW-HILL-FAR-BLACK-CLOUGH",
         "county": "Derbyshire",
         "gridref": "SK127984",
@@ -1021,7 +1021,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "BLEAKLOW-STONES",
         "county": "Derbyshire",
         "gridref": "SK115963",
@@ -1042,7 +1042,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "BOLSOVER-COLLIERY",
         "county": "Derbyshire",
         "gridref": "SK465710",
@@ -1063,7 +1063,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "BRACKENFIELD-LINDWAY-RES",
         "county": "Derbyshire",
         "gridref": "SK357584",
@@ -1084,7 +1084,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "BRADWELL-MOSS-RAKE-HEAD",
         "county": "Derbyshire",
         "gridref": "SK144799",
@@ -1105,7 +1105,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "BRADWELL-PARADISE-FARM",
         "county": "Derbyshire",
         "gridref": "SK162811",
@@ -1126,7 +1126,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "BRAILSFORD-SHIRLEY-HOUSE",
         "county": "Derbyshire",
         "gridref": "SK215418",
@@ -1147,7 +1147,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "BREADSALL-PRIORY",
         "county": "Derbyshire",
         "gridref": "SK381414",
@@ -1168,7 +1168,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "BREASTON",
         "county": "Derbyshire",
         "gridref": "SK469336",
@@ -1189,7 +1189,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "BRETBY-PARK-BURTON",
         "county": "Derbyshire",
         "gridref": "SK300225",
@@ -1210,7 +1210,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "BROADHEAD-CLOUGH",
         "county": "Derbyshire",
         "gridref": "SK169962",
@@ -1231,7 +1231,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "BURBAGE-HOUSE",
         "county": "Derbyshire",
         "gridref": "SK261830",
@@ -1252,7 +1252,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "BURBAGE-LOWER-BURBAGE",
         "county": "Derbyshire",
         "gridref": "SK258802",
@@ -1273,7 +1273,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "BUXTON-ASHWOOD-DALE-SEWAGE-WORKS",
         "county": "Derbyshire",
         "gridref": "SK067728",
@@ -1294,7 +1294,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "BUXTON-AXE-EDGE",
         "county": "Derbyshire",
         "gridref": "SK037705",
@@ -1315,7 +1315,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "BUXTON-BERRY-CLOUGH",
         "county": "Derbyshire",
         "gridref": "SK029727",
@@ -1336,7 +1336,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "BUXTON-BURBAGE-EDGE",
         "county": "Derbyshire",
         "gridref": "SK035728",
@@ -1357,7 +1357,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "BUXTON-DOVE-HOLES",
         "county": "Derbyshire",
         "gridref": "SK073777",
@@ -1378,7 +1378,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "BUXTON-GOYTS-MOSS",
         "county": "Derbyshire",
         "gridref": "SK019717",
@@ -1399,7 +1399,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "BUXTON-GOYTSHEAD",
         "county": "Derbyshire",
         "gridref": "SK014749",
@@ -1420,7 +1420,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "BUXTON-GOYTSHEAD",
         "county": "Derbyshire",
         "gridref": "SK012748",
@@ -1441,7 +1441,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "BUXTON-GREEN-FAIRFIELD",
         "county": "Derbyshire",
         "gridref": "SK087747",
@@ -1462,7 +1462,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "BUXTON-HURDLOW-TOP",
         "county": "Derbyshire",
         "gridref": "SK100678",
@@ -1483,7 +1483,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "BUXTON-LIGHTWOOD",
         "county": "Derbyshire",
         "gridref": "SK053751",
@@ -1504,7 +1504,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "BUXTON-LIGHTWOOD",
         "county": "Derbyshire",
         "gridref": "SK054750",
@@ -1525,7 +1525,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "BUXTON-LONGHILL",
         "county": "Derbyshire",
         "gridref": "SK031752",
@@ -1546,7 +1546,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "BUXTON-PORTOBELLO-BAR",
         "county": "Derbyshire",
         "gridref": "SK032712",
@@ -1567,7 +1567,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "BUXTON-STANLEY-MOOR",
         "county": "Derbyshire",
         "gridref": "SK041712",
@@ -1588,7 +1588,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "BUXTON-TERRACE-SLOPES",
         "county": "Derbyshire",
         "gridref": "SK057736",
@@ -1609,7 +1609,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "BUXTON-TERRACE-SLOPES",
         "county": "Derbyshire",
         "gridref": "SK058734",
@@ -1630,7 +1630,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "BUXTON-WILD-MOOR",
         "county": "Derbyshire",
         "gridref": "SK029743",
@@ -1651,7 +1651,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "CASTLETON-DERBYSHIRE",
         "county": "Derbyshire",
         "gridref": "SK149828",
@@ -1672,7 +1672,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "CASTLETON-ROWTER-FARM",
         "county": "Derbyshire",
         "gridref": "SK132820",
@@ -1693,7 +1693,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "CHAPEL-EN-LE-FRITH",
         "county": "Derbyshire",
         "gridref": "SK068802",
@@ -1714,7 +1714,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "CHAPEL-EN-LE-FRITH",
         "county": "Derbyshire",
         "gridref": "SK057809",
@@ -1735,7 +1735,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "CHAPEL-EN-LE-FRITH-FORD-HALL",
         "county": "Derbyshire",
         "gridref": "SK076822",
@@ -1756,7 +1756,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "CHATSWORTH-GDNS",
         "county": "Derbyshire",
         "gridref": "SK262701",
@@ -1777,7 +1777,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "CHESTERFIELD",
         "county": "Derbyshire",
         "gridref": "SK386716",
@@ -1798,7 +1798,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "CHESTERFIELD-BARLOW-RES",
         "county": "Derbyshire",
         "gridref": "SK321748",
@@ -1819,7 +1819,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "CHESTERFIELD-BRIMINGTON-HALL",
         "county": "Derbyshire",
         "gridref": "SK405733",
@@ -1840,7 +1840,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "CHESTERFIELD-GAS-WORKS",
         "county": "Derbyshire",
         "gridref": "SK375711",
@@ -1861,7 +1861,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "CHESTERFIELD-HARDWICK-HALL",
         "county": "Derbyshire",
         "gridref": "SK463637",
@@ -1882,7 +1882,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "CHESTERFIELD-HUNGER-HILL",
         "county": "Derbyshire",
         "gridref": "SK329679",
@@ -1903,7 +1903,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "CHESTERFIELD-LINACRE-RES",
         "county": "Derbyshire",
         "gridref": "SK335723",
@@ -1924,7 +1924,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "CHESTERFIELD-LINACRE-RES",
         "county": "Derbyshire",
         "gridref": "SK338725",
@@ -1945,7 +1945,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "CHESTERFIELD-MIDDLE-LINACRE",
         "county": "Derbyshire",
         "gridref": "SK333726",
@@ -1966,7 +1966,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "CHESTERFIELD-SCHOOL",
         "county": "Derbyshire",
         "gridref": "SK384717",
@@ -1987,7 +1987,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "CHESTERFIELD-SEWAGE-WORKS",
         "county": "Derbyshire",
         "gridref": "SK387725",
@@ -2008,7 +2008,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "CHESTERFIELD-SEWAGE-WORKS",
         "county": "Derbyshire",
         "gridref": "SK392745",
@@ -2029,7 +2029,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "CHESTERFIELD-ST-THOMAS-BRAMPTON",
         "county": "Derbyshire",
         "gridref": "SK362706",
@@ -2050,7 +2050,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "CHESTERFIELD-TAPTON-GROVE",
         "county": "Derbyshire",
         "gridref": "SK401724",
@@ -2071,7 +2071,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "CHESTERFIELD-UPPER-LINACRE",
         "county": "Derbyshire",
         "gridref": "SK325726",
@@ -2092,7 +2092,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "CHESTERFIELD-UPPER-LINACRE",
         "county": "Derbyshire",
         "gridref": "SK327725",
@@ -2113,7 +2113,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "CHESTERFIELD-UPPER-LINACRE",
         "county": "Derbyshire",
         "gridref": "SK339727",
@@ -2134,7 +2134,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "CHESTERFIELD-WALTON-SANATORIUM",
         "county": "Derbyshire",
         "gridref": "SK373696",
@@ -2155,7 +2155,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "CHESTERFIELD-WHALEY-WELL",
         "county": "Derbyshire",
         "gridref": "SK509718",
@@ -2176,7 +2176,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "CHESTERFIELD-WHISPERING-WELL",
         "county": "Derbyshire",
         "gridref": "SK332694",
@@ -2197,7 +2197,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "CHURCH-GRESLEY-MAURICE-LEA-PARK",
         "county": "Derbyshire",
         "gridref": "SK299187",
@@ -2218,7 +2218,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "CLAY-CROSS-PRESS-RES",
         "county": "Derbyshire",
         "gridref": "SK353658",
@@ -2239,7 +2239,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "CODNOR-CROSS-HILL",
         "county": "Derbyshire",
         "gridref": "SK417486",
@@ -2260,7 +2260,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "CODNOR-CROSS-HILL",
         "county": "Derbyshire",
         "gridref": "SK416485",
@@ -2281,7 +2281,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "CODNOR-PARK",
         "county": "Derbyshire",
         "gridref": "SK442517",
@@ -2302,7 +2302,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "COLDHARBOUR-MOOR-SUMMIT-NO-THIRTY-NINE",
         "county": "Derbyshire",
         "gridref": "SK079927",
@@ -2323,7 +2323,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "COMBS-MOSS",
         "county": "Derbyshire",
         "gridref": "SK059763",
@@ -2344,7 +2344,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "COMBS-RES",
         "county": "Derbyshire",
         "gridref": "SK035799",
@@ -2365,7 +2365,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "CROOK-HILL",
         "county": "Derbyshire",
         "gridref": "SK185870",
@@ -2386,7 +2386,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "CUBLEY-PUMPING-STATION",
         "county": "Derbyshire",
         "gridref": "SK171380",
@@ -2407,7 +2407,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "DALEHEAD",
         "county": "Derbyshire",
         "gridref": "SK101841",
@@ -2428,7 +2428,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "DARLEY-DALE-STANCLIFFE-HALL",
         "county": "Derbyshire",
         "gridref": "SK268640",
@@ -2449,7 +2449,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "DARLEY-DALE-WHITWORTH-INST",
         "county": "Derbyshire",
         "gridref": "SK274628",
@@ -2470,7 +2470,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "DARLEY-HALL",
         "county": "Derbyshire",
         "gridref": "SK276630",
@@ -2491,7 +2491,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "DERBY-ALL-SAINTS",
         "county": "Derbyshire",
         "gridref": "SK351364",
@@ -2512,7 +2512,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "DERBY-ALL-SAINTS",
         "county": "Derbyshire",
         "gridref": "SK334366",
@@ -2533,7 +2533,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "DERBY-ALL-SAINTS",
         "county": "Derbyshire",
         "gridref": "SK340363",
@@ -2554,7 +2554,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "DERBY-ALL-SAINTS",
         "county": "Derbyshire",
         "gridref": "SK345374",
@@ -2575,7 +2575,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "DERBY-ARBORETUM",
         "county": "Derbyshire",
         "gridref": "SK356350",
@@ -2596,7 +2596,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "DERBY-BRAYFIELD-ROAD",
         "county": "Derbyshire",
         "gridref": "SK334339",
@@ -2617,7 +2617,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "DERBY-BREADSALL-LODGE",
         "county": "Derbyshire",
         "gridref": "SK376408",
@@ -2638,7 +2638,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "DERBY-CHRISTCHURCH-VICARAGE",
         "county": "Derbyshire",
         "gridref": "SK349352",
@@ -2659,7 +2659,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "DERBY-CORPORATION-HIGHWAY-DEPOT",
         "county": "Derbyshire",
         "gridref": "SK359367",
@@ -2680,7 +2680,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "DERBY-DUFFIELD",
         "county": "Derbyshire",
         "gridref": "SK343436",
@@ -2701,7 +2701,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "DERBY-DUFFIELD",
         "county": "Derbyshire",
         "gridref": "SK349368",
@@ -2722,7 +2722,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "DERBY-ELVASTON-AND-CHELLASTON",
         "county": "Derbyshire",
         "gridref": "SK410325",
@@ -2743,7 +2743,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "DERBY-ELVASTON-AND-CHELLASTON",
         "county": "Derbyshire",
         "gridref": "SK377305",
@@ -2764,7 +2764,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "DERBY-HEYWORTH-STREET",
         "county": "Derbyshire",
         "gridref": "SK334365",
@@ -2785,7 +2785,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "DERBY-HOLMESIDE-HAZELWOOD",
         "county": "Derbyshire",
         "gridref": "SK325460",
@@ -2806,7 +2806,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "DERBY-LITTLEOVER-CRESCENT",
         "county": "Derbyshire",
         "gridref": "SK337340",
@@ -2827,7 +2827,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "DERBY-MARKEATON-PARK",
         "county": "Derbyshire",
         "gridref": "SK333377",
@@ -2848,7 +2848,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "DERBY-MIDLAND-RAILWAY",
         "county": "Derbyshire",
         "gridref": "SK365349",
@@ -2869,7 +2869,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "DERBY-OSMASTON",
         "county": "Derbyshire",
         "gridref": "SK363328",
@@ -2890,7 +2890,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "DERBY-ROYAL-INFIRMARY",
         "county": "Derbyshire",
         "gridref": "SK357355",
@@ -2911,7 +2911,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "DERBY-SPONDON-THE-OLD-HALL",
         "county": "Derbyshire",
         "gridref": "SK400360",
@@ -2932,7 +2932,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "DERBY-SPONDON-THE-OLD-HALL",
         "county": "Derbyshire",
         "gridref": "SK401361",
@@ -2953,7 +2953,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "DERBY-SPONDON-THE-OLD-HALL",
         "county": "Derbyshire",
         "gridref": "SK398357",
@@ -2974,7 +2974,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "DERBY-WEST-HALLAM",
         "county": "Derbyshire",
         "gridref": "SK432411",
@@ -2995,7 +2995,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "DERWENT-BRIDGE-END",
         "county": "Derbyshire",
         "gridref": "SK183884",
@@ -3016,7 +3016,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "DERWENT-DALE-BACK-DYKE",
         "county": "Derbyshire",
         "gridref": "SK153944",
@@ -3037,7 +3037,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "DERWENT-DALE-BANKTOP-HEY",
         "county": "Derbyshire",
         "gridref": "SK150935",
@@ -3058,7 +3058,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "DERWENT-DALE-BIRCHINLEE",
         "county": "Derbyshire",
         "gridref": "SK165918",
@@ -3079,7 +3079,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "DERWENT-DALE-HOWDEN-DAM",
         "county": "Derbyshire",
         "gridref": "SK168924",
@@ -3100,7 +3100,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "DERWENT-DALE-MOSLEY-BANK",
         "county": "Derbyshire",
         "gridref": "SK164959",
@@ -3121,7 +3121,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "DERWENT-DALE-RIDGE-FARM",
         "county": "Derbyshire",
         "gridref": "SK160934",
@@ -3142,7 +3142,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "DERWENT-DALE-RIDGE-FARM",
         "county": "Derbyshire",
         "gridref": "SK161931",
@@ -3163,7 +3163,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "DERWENT-DALE-ROUNDHILL",
         "county": "Derbyshire",
         "gridref": "SK137960",
@@ -3184,7 +3184,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "DERWENT-DALE-SHIRE-OWLERS",
         "county": "Derbyshire",
         "gridref": "SK171911",
@@ -3205,7 +3205,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "DERWENT-DALE-SLIPPERY-STONES",
         "county": "Derbyshire",
         "gridref": "SK169951",
@@ -3226,7 +3226,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "DERWENT-DALE-WALKER-HOUSE",
         "county": "Derbyshire",
         "gridref": "SK173908",
@@ -3247,7 +3247,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "DERWENT-LOCKERBROOK-FARM",
         "county": "Derbyshire",
         "gridref": "SK165894",
@@ -3268,7 +3268,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "DERWENT-LOCKERBROOK-PLANTATION",
         "county": "Derbyshire",
         "gridref": "SK170895",
@@ -3289,7 +3289,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "DERWENT-VICARAGE",
         "county": "Derbyshire",
         "gridref": "SK184886",
@@ -3310,7 +3310,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "DRAYCOTT-PUMPING-STATION",
         "county": "Derbyshire",
         "gridref": "SK449327",
@@ -3331,7 +3331,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "DUFFIELD-CASTLE-HILL-HOUSE",
         "county": "Derbyshire",
         "gridref": "SK343438",
@@ -3352,7 +3352,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "DUFFIELD-KIRKSTYLES",
         "county": "Derbyshire",
         "gridref": "SK334431",
@@ -3373,7 +3373,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "ECKINGTON-MOSBROUGH-CE-SCHOOL",
         "county": "Derbyshire",
         "gridref": "SK426811",
@@ -3394,7 +3394,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "EDALE-DALE-HEAD",
         "county": "Derbyshire",
         "gridref": "SK101842",
@@ -3415,7 +3415,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "EDALE-END",
         "county": "Derbyshire",
         "gridref": "SK162863",
@@ -3436,7 +3436,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "EDALE-MILL",
         "county": "Derbyshire",
         "gridref": "SK134854",
@@ -3457,7 +3457,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "EDALE-UPPER-BOOTH",
         "county": "Derbyshire",
         "gridref": "SK102853",
@@ -3478,7 +3478,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "ERNECROFT-COMPSTALL",
         "county": "Derbyshire",
         "gridref": "SJ965904",
@@ -3499,7 +3499,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "ETWALL-BLAKELEY-LODGE",
         "county": "Derbyshire",
         "gridref": "SK268304",
@@ -3520,7 +3520,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "ETWALL-HALL",
         "county": "Derbyshire",
         "gridref": "SK267320",
@@ -3541,7 +3541,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "ETWALL-SEWAGE-FARM",
         "county": "Derbyshire",
         "gridref": "SK274298",
@@ -3562,7 +3562,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "EYAM-EYAM-VIEW",
         "county": "Derbyshire",
         "gridref": "SK208768",
@@ -3583,7 +3583,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "EYAM-RECTORY",
         "county": "Derbyshire",
         "gridref": "SK218763",
@@ -3604,7 +3604,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "FAIRHOLMES-NURSERY",
         "county": "Derbyshire",
         "gridref": "SK175893",
@@ -3625,7 +3625,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "FAIRHOLMES-NURSERY",
         "county": "Derbyshire",
         "gridref": "SK173893",
@@ -3646,7 +3646,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "FEATHERBED-MOSS-REDGATE-CLOUGH",
         "county": "Derbyshire",
         "gridref": "SK087919",
@@ -3667,7 +3667,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "FEATHERBED-TOP",
         "county": "Derbyshire",
         "gridref": "SK089928",
@@ -3688,7 +3688,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "FERNILEE-BROWNHILL-FARM",
         "county": "Derbyshire",
         "gridref": "SK020766",
@@ -3709,7 +3709,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "FERNILEE-UPPER-HALL",
         "county": "Derbyshire",
         "gridref": "SK017771",
@@ -3730,7 +3730,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "FERNILEE-WYTHEN",
         "county": "Derbyshire",
         "gridref": "SK023776",
@@ -3751,7 +3751,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "FERNILEE-WYTHEN",
         "county": "Derbyshire",
         "gridref": "SK027776",
@@ -3772,7 +3772,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "FINDERN-MILL-HILL-FARM",
         "county": "Derbyshire",
         "gridref": "SK303307",
@@ -3793,7 +3793,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "FINDERN-THE-LONGLANDS",
         "county": "Derbyshire",
         "gridref": "SK304302",
@@ -3814,7 +3814,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "FROGGATT-EDGE-STOKE-FLAT",
         "county": "Derbyshire",
         "gridref": "SK257773",
@@ -3835,7 +3835,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "GLOSSOP-FOOT-OF-HILLS",
         "county": "Derbyshire",
         "gridref": "SK040940",
@@ -3856,7 +3856,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "GLOSSOP-HALL",
         "county": "Derbyshire",
         "gridref": "SK038946",
@@ -3877,7 +3877,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "GLOSSOP-SPIRE-HOLLIN",
         "county": "Derbyshire",
         "gridref": "SK033945",
@@ -3898,7 +3898,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "GLOSSOP-WW-SWINESHAW",
         "county": "Derbyshire",
         "gridref": "SK044958",
@@ -3919,7 +3919,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "GRAIN-CLOUGH",
         "county": "Derbyshire",
         "gridref": "SK096854",
@@ -3940,7 +3940,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "GRASSMOOR-COLLIERY",
         "county": "Derbyshire",
         "gridref": "SK411676",
@@ -3961,7 +3961,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "GRASSMOOR-COLLIERY",
         "county": "Derbyshire",
         "gridref": "SK411674",
@@ -3982,7 +3982,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "GRIMBOCAR",
         "county": "Derbyshire",
         "gridref": "SK172872",
@@ -4003,7 +4003,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "GRINDLEFORD-GROUSE-INN",
         "county": "Derbyshire",
         "gridref": "SK258779",
@@ -4024,7 +4024,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "GRINDLEFORD-THE-GRANGE",
         "county": "Derbyshire",
         "gridref": "SK242779",
@@ -4045,7 +4045,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "GRINDSLOW",
         "county": "Derbyshire",
         "gridref": "SK119867",
@@ -4066,7 +4066,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "HAGG-FARM",
         "county": "Derbyshire",
         "gridref": "SK160885",
@@ -4087,7 +4087,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "HATHERSAGE",
         "county": "Derbyshire",
         "gridref": "SK231814",
@@ -4108,7 +4108,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "HAYFIELD-BROAD-CLOUGH",
         "county": "Derbyshire",
         "gridref": "SK069871",
@@ -4129,7 +4129,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "HAYFIELD-CLUTHER-ROCKS",
         "county": "Derbyshire",
         "gridref": "SK074877",
@@ -4150,7 +4150,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "HAYFIELD-DIMPUS-CLOUGH",
         "county": "Derbyshire",
         "gridref": "SK066849",
@@ -4171,7 +4171,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "HAYFIELD-DIMPUS-CLOUGH",
         "county": "Derbyshire",
         "gridref": "SK065851",
@@ -4192,7 +4192,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "HAYFIELD-EDALE-CROSS",
         "county": "Derbyshire",
         "gridref": "SK077860",
@@ -4213,7 +4213,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "HAYFIELD-EDALE-CROSS",
         "county": "Derbyshire",
         "gridref": "SK074855",
@@ -4234,7 +4234,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "HAYFIELD-HOLLIN-HEAD",
         "county": "Derbyshire",
         "gridref": "SK064883",
@@ -4255,7 +4255,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "HAYFIELD-KINDER",
         "county": "Derbyshire",
         "gridref": "SK088882",
@@ -4276,7 +4276,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "HAYFIELD-KINDER",
         "county": "Derbyshire",
         "gridref": "SK087878",
@@ -4297,7 +4297,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "HAYFIELD-KINDER-FILTERS",
         "county": "Derbyshire",
         "gridref": "SK054880",
@@ -4318,7 +4318,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "HAYFIELD-LEYGATEHEAD-MOOR",
         "county": "Derbyshire",
         "gridref": "SK057895",
@@ -4339,7 +4339,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "HAYFIELD-LEYGATEHEAD-MOOR",
         "county": "Derbyshire",
         "gridref": "SK054894",
@@ -4360,7 +4360,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "HAYFIELD-MILL-HILL",
         "county": "Derbyshire",
         "gridref": "SK061902",
@@ -4381,7 +4381,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "HAYFIELD-MILL-HILL",
         "county": "Derbyshire",
         "gridref": "SK056898",
@@ -4402,7 +4402,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "HAYFIELD-OAKEN-CLOUGH",
         "county": "Derbyshire",
         "gridref": "SK064860",
@@ -4423,7 +4423,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "HAYFIELD-PARK-HALL-MOOR",
         "county": "Derbyshire",
         "gridref": "SK045890",
@@ -4444,7 +4444,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "HAYFIELD-PARK-HALL-MOOR",
         "county": "Derbyshire",
         "gridref": "SK049887",
@@ -4465,7 +4465,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "HAYFIELD-RED-BROOK",
         "county": "Derbyshire",
         "gridref": "SK081878",
@@ -4486,7 +4486,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "HAYFIELD-SANDY-HEYS",
         "county": "Derbyshire",
         "gridref": "SK077886",
@@ -4507,7 +4507,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "HAYFIELD-SANDY-HEYS",
         "county": "Derbyshire",
         "gridref": "SK075894",
@@ -4528,7 +4528,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "HAYFIELD-TUNSTEAD-CLOUGH",
         "county": "Derbyshire",
         "gridref": "SK057868",
@@ -4549,7 +4549,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "HAYFIELD-TUNSTEAD-CLOUGH",
         "county": "Derbyshire",
         "gridref": "SK059869",
@@ -4570,7 +4570,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "HAYFIELD-UPPER-HOUSE",
         "county": "Derbyshire",
         "gridref": "SK064878",
@@ -4591,7 +4591,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "HAYFIELD-UPPER-HOUSE",
         "county": "Derbyshire",
         "gridref": "SK056879",
@@ -4612,7 +4612,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "HAYFIELD-UPPER-MOOR",
         "county": "Derbyshire",
         "gridref": "SK067879",
@@ -4633,7 +4633,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "HAZELWOOD-CHEVIN",
         "county": "Derbyshire",
         "gridref": "SK334460",
@@ -4654,7 +4654,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "HEANOR-DENBY",
         "county": "Derbyshire",
         "gridref": "SK411474",
@@ -4675,7 +4675,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "HIGHAM-HIGHAM-CLIFFE",
         "county": "Derbyshire",
         "gridref": "SK390587",
@@ -4696,7 +4696,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "HOLMESFIELD-BARBROOK-RES",
         "county": "Derbyshire",
         "gridref": "SK275771",
@@ -4717,7 +4717,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "HOLMESFIELD-WHITE-EDGE",
         "county": "Derbyshire",
         "gridref": "SK264786",
@@ -4738,7 +4738,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "HOPE-CEMENT-WORKS",
         "county": "Derbyshire",
         "gridref": "SK168823",
@@ -4759,7 +4759,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "HOPE-KILLHILL-BRIDGE",
         "county": "Derbyshire",
         "gridref": "SK172834",
@@ -4780,7 +4780,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "HOPE-KILLHILL-BRIDGE",
         "county": "Derbyshire",
         "gridref": "SK171838",
@@ -4801,7 +4801,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "HORSLEY-GATE",
         "county": "Derbyshire",
         "gridref": "SK308769",
@@ -4822,7 +4822,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "HURST-BROOK-VALLEY",
         "county": "Derbyshire",
         "gridref": "SK077924",
@@ -4843,7 +4843,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "ILKESTON-NEW-STANTON",
         "county": "Derbyshire",
         "gridref": "SK476394",
@@ -4864,7 +4864,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "ILKESTON-NEW-STANTON",
         "county": "Derbyshire",
         "gridref": "SK475386",
@@ -4885,7 +4885,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "ILKESTON-SEWAGE-WORKS",
         "county": "Derbyshire",
         "gridref": "SK482395",
@@ -4906,7 +4906,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "JACOBS-LADDER",
         "county": "Derbyshire",
         "gridref": "SK090860",
@@ -4927,7 +4927,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "KILLAMARSH-NORWOOD",
         "county": "Derbyshire",
         "gridref": "SK472820",
@@ -4948,7 +4948,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "KINDERSCOUT-HAYFIELD",
         "county": "Derbyshire",
         "gridref": "SK066904",
@@ -4969,7 +4969,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "KIRK-LANGLEY-LANGLEY-HALL",
         "county": "Derbyshire",
         "gridref": "SK286395",
@@ -4990,7 +4990,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "LADY-CLOUGH-MOOR",
         "county": "Derbyshire",
         "gridref": "SK110924",
@@ -5011,7 +5011,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "LADY-CLOUGH-MOOR",
         "county": "Derbyshire",
         "gridref": "SK112926",
@@ -5032,7 +5032,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "LADYBOWER",
         "county": "Derbyshire",
         "gridref": "SK205869",
@@ -5053,7 +5053,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "LITTLE-HUCKLOW",
         "county": "Derbyshire",
         "gridref": "SK162784",
@@ -5074,7 +5074,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "LITTLEOVER-HILLTOP",
         "county": "Derbyshire",
         "gridref": "SK329341",
@@ -5095,7 +5095,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "LITTLEOVER-HILLTOP",
         "county": "Derbyshire",
         "gridref": "SK326341",
@@ -5116,7 +5116,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "LITTLEOVER-THE-KNOLL",
         "county": "Derbyshire",
         "gridref": "SK323338",
@@ -5137,7 +5137,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "LONG-EATON-TOWN-HALL",
         "county": "Derbyshire",
         "gridref": "SK490339",
@@ -5158,7 +5158,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "MACKWORTH",
         "county": "Derbyshire",
         "gridref": "SK319362",
@@ -5179,7 +5179,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "MAM-NICK",
         "county": "Derbyshire",
         "gridref": "SK123837",
@@ -5200,7 +5200,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "MATLOCK-BATH-LOWER-TOWER",
         "county": "Derbyshire",
         "gridref": "SK293584",
@@ -5221,7 +5221,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "MATLOCK-ROCKSIDE",
         "county": "Derbyshire",
         "gridref": "SK301609",
@@ -5242,7 +5242,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "MATLOCK-THE-GABLES",
         "county": "Derbyshire",
         "gridref": "SK323563",
@@ -5263,7 +5263,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "MATLOCK-THE-GABLES",
         "county": "Derbyshire",
         "gridref": "SK303604",
@@ -5284,7 +5284,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "MATLOCK-WILLERSLEY-GARDENS",
         "county": "Derbyshire",
         "gridref": "SK297573",
@@ -5305,7 +5305,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "MELBOURNE-THE-GRANGE",
         "county": "Derbyshire",
         "gridref": "SK386254",
@@ -5326,7 +5326,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "MELBOURNE-THE-HOLLOW",
         "county": "Derbyshire",
         "gridref": "SK387249",
@@ -5347,7 +5347,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "MELBOURNE-VICARAGE",
         "county": "Derbyshire",
         "gridref": "SK389249",
@@ -5368,7 +5368,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "MICKLEOVER",
         "county": "Derbyshire",
         "gridref": "SK305341",
@@ -5389,7 +5389,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "MICKLEOVER-HOSPITAL",
         "county": "Derbyshire",
         "gridref": "SK295330",
@@ -5410,7 +5410,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "MICKLEOVER-MANOR",
         "county": "Derbyshire",
         "gridref": "SK304341",
@@ -5431,7 +5431,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "MIDDLE-SEAL-CLOUGH",
         "county": "Derbyshire",
         "gridref": "SK112896",
@@ -5452,7 +5452,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "MIDDLE-SEAL-CLOUGH",
         "county": "Derbyshire",
         "gridref": "SK108898",
@@ -5473,7 +5473,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "MILL-BROOK",
         "county": "Derbyshire",
         "gridref": "SK188894",
@@ -5494,7 +5494,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "MONYASH-RECTORY",
         "county": "Derbyshire",
         "gridref": "SK151665",
@@ -5515,7 +5515,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "MORLEY-DERBY",
         "county": "Derbyshire",
         "gridref": "SK396408",
@@ -5536,7 +5536,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "MORLEY-DERBYSHIRE-FARM-INST",
         "county": "Derbyshire",
         "gridref": "SK386401",
@@ -5557,7 +5557,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "MORLEY-HALL",
         "county": "Derbyshire",
         "gridref": "SK395411",
@@ -5578,7 +5578,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "NETHER-MOOR",
         "county": "Derbyshire",
         "gridref": "SK143875",
@@ -5599,7 +5599,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "NETHER-RED-CLOUGH",
         "county": "Derbyshire",
         "gridref": "SK084903",
@@ -5620,7 +5620,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "NORTON-CHANTREY-GRANGE",
         "county": "Derbyshire",
         "gridref": "SK363820",
@@ -5641,7 +5641,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "OUZELDEN-CLOUGH",
         "county": "Derbyshire",
         "gridref": "SK160907",
@@ -5662,7 +5662,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "PEAK-FOREST",
         "county": "Derbyshire",
         "gridref": "SK111792",
@@ -5683,7 +5683,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "PEAK-FOREST-ELDON-HILL",
         "county": "Derbyshire",
         "gridref": "SK121806",
@@ -5704,7 +5704,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "PEAK-FOREST-MIDDLE-HILL",
         "county": "Derbyshire",
         "gridref": "SK102772",
@@ -5725,7 +5725,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "PEAK-FOREST-SPARROWPIT",
         "county": "Derbyshire",
         "gridref": "SK091804",
@@ -5746,7 +5746,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "PEAK-FOREST-WHITE-RAKE",
         "county": "Derbyshire",
         "gridref": "SK143781",
@@ -5767,7 +5767,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "REPTON-GREENSHOT",
         "county": "Derbyshire",
         "gridref": "SK302267",
@@ -5788,7 +5788,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "REPTON-THE-CROFT",
         "county": "Derbyshire",
         "gridref": "SK303270",
@@ -5809,7 +5809,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "RIDGEWALK-MOOR",
         "county": "Derbyshire",
         "gridref": "SK138956",
@@ -5830,7 +5830,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "RIVER-ASHOP-WEIR",
         "county": "Derbyshire",
         "gridref": "SK140895",
@@ -5851,7 +5851,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "RODSLEY-PUMPING-STATION",
         "county": "Derbyshire",
         "gridref": "SK197409",
@@ -5872,7 +5872,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "RONKSLEY-MOOR",
         "county": "Derbyshire",
         "gridref": "SK147951",
@@ -5893,7 +5893,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "RUSHUP-EDGE",
         "county": "Derbyshire",
         "gridref": "SK103824",
@@ -5914,7 +5914,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "SAWLEY",
         "county": "Derbyshire",
         "gridref": "SK472315",
@@ -5935,7 +5935,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "SHARDLOW",
         "county": "Derbyshire",
         "gridref": "SK434304",
@@ -5956,7 +5956,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "SHARDLOW",
         "county": "Derbyshire",
         "gridref": "SK438306",
@@ -5977,7 +5977,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "SNELSTON-HALL",
         "county": "Derbyshire",
         "gridref": "SK158436",
@@ -5998,7 +5998,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "SNELSTON-RECTORY",
         "county": "Derbyshire",
         "gridref": "SK144430",
@@ -6019,7 +6019,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "SOUTH-WINGFIELD",
         "county": "Derbyshire",
         "gridref": "SK379535",
@@ -6040,7 +6040,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "SPINKHILL-MT-ST-MARYS-COLLEGE",
         "county": "Derbyshire",
         "gridref": "SK454786",
@@ -6061,7 +6061,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "SPONDON-DERBY-SEWAGE-WORKS",
         "county": "Derbyshire",
         "gridref": "SK389351",
@@ -6082,7 +6082,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "STANAGE-REDMIRES",
         "county": "Derbyshire",
         "gridref": "SK247840",
@@ -6103,7 +6103,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "STANAGE-REDMIRES",
         "county": "Derbyshire",
         "gridref": "SK247842",
@@ -6124,7 +6124,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "STANAGE-REDMIRES",
         "county": "Derbyshire",
         "gridref": "SK248840",
@@ -6145,7 +6145,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "STANCLIFFE-HALL",
         "county": "Derbyshire",
         "gridref": "SK267639",
@@ -6166,7 +6166,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "STANTON-BY-BRIDGE",
         "county": "Derbyshire",
         "gridref": "SK374271",
@@ -6187,7 +6187,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "STUFFYNWOOD-HALL-MANSFIELD",
         "county": "Derbyshire",
         "gridref": "SK527656",
@@ -6208,7 +6208,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "SUDBURY-HALL",
         "county": "Derbyshire",
         "gridref": "SK158320",
@@ -6229,7 +6229,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "THE-PEAK-FAIRBROOK",
         "county": "Derbyshire",
         "gridref": "SK113900",
@@ -6250,7 +6250,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "THE-PEAK-NUNGRAIN",
         "county": "Derbyshire",
         "gridref": "SK106901",
@@ -6271,7 +6271,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "TIDESWELL",
         "county": "Derbyshire",
         "gridref": "SK149752",
@@ -6292,7 +6292,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "TIDESWELL-STANLEY-LODGE",
         "county": "Derbyshire",
         "gridref": "SK175763",
@@ -6313,7 +6313,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "TIDESWELL-STERNDALE-HOUSE-LITTON",
         "county": "Derbyshire",
         "gridref": "SK163753",
@@ -6334,7 +6334,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "TIDESWELL-WHESTON",
         "county": "Derbyshire",
         "gridref": "SK129768",
@@ -6355,7 +6355,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "TOTLEY-HALL",
         "county": "Derbyshire",
         "gridref": "SK307795",
@@ -6376,7 +6376,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "TRENT-COLLEGE",
         "county": "Derbyshire",
         "gridref": "SK482338",
@@ -6397,7 +6397,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "TUTBURY-FOSTON",
         "county": "Derbyshire",
         "gridref": "SK219310",
@@ -6418,7 +6418,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "UPPER-BOOTH",
         "county": "Derbyshire",
         "gridref": "SK104854",
@@ -6439,7 +6439,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "URCHIN-CLOUGH",
         "county": "Derbyshire",
         "gridref": "SK101908",
@@ -6460,7 +6460,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "WEST-END-BRIDGE",
         "county": "Derbyshire",
         "gridref": "SK153928",
@@ -6481,7 +6481,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "WESTEND-DEEP-GRAIN",
         "county": "Derbyshire",
         "gridref": "SK123951",
@@ -6502,7 +6502,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "WESTEND-MOOR",
         "county": "Derbyshire",
         "gridref": "SK135929",
@@ -6523,7 +6523,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "WESTEND-MOOR-BLACKLOW-COTE",
         "county": "Derbyshire",
         "gridref": "SK146934",
@@ -6544,7 +6544,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "WESTEND-MOOR-BLACKLOW-COTE",
         "county": "Derbyshire",
         "gridref": "SK145936",
@@ -6565,7 +6565,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "WHALEY-BRIDGE-MOSLEY-HALL",
         "county": "Derbyshire",
         "gridref": "SK019813",
@@ -6586,7 +6586,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "WHATSTANDWELL-MEERBROOK-SOUGH",
         "county": "Derbyshire",
         "gridref": "SK325554",
@@ -6607,7 +6607,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "WILLINGTON-SWADLINCOTE-AND-ASHBY-WW",
         "county": "Derbyshire",
         "gridref": "SK324278",
@@ -6628,7 +6628,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "WIRKSWORTH-BIGGIN",
         "county": "Derbyshire",
         "gridref": "SK259485",
@@ -6649,7 +6649,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "WIRKSWORTH-BRIDGE-HOUSE",
         "county": "Derbyshire",
         "gridref": "SK290539",
@@ -6670,7 +6670,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "WIRKSWORTH-BRIDGE-HOUSE",
         "county": "Derbyshire",
         "gridref": "SK288540",
@@ -6691,7 +6691,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "WIRKSWORTH-MANOR-HOUSE",
         "county": "Derbyshire",
         "gridref": "SK287539",
@@ -6712,7 +6712,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "WIRKSWORTH-WASH-GREEN",
         "county": "Derbyshire",
         "gridref": "SK295538",
@@ -6733,7 +6733,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "WIRKSWORTH-WEST-END",
         "county": "Derbyshire",
         "gridref": "SK285538",
@@ -6754,7 +6754,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "WIRKSWORTH-WEST-END",
         "county": "Derbyshire",
         "gridref": "SK287547",
@@ -6775,7 +6775,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "WOODHEAD-STATION",
         "county": "Derbyshire",
         "gridref": "SK113999",
@@ -6796,7 +6796,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "WOODLAND-DALE-ROWLEE",
         "county": "Derbyshire",
         "gridref": "SK150903",
@@ -6817,7 +6817,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "WOODLAND-DALE-WOODLANDS",
         "county": "Derbyshire",
         "gridref": "SK129893",
@@ -6838,7 +6838,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "WORMHILL-HARGATE-WALL",
         "county": "Derbyshire",
         "gridref": "SK117752",

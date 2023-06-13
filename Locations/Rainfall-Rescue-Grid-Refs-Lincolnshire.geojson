@@ -13,7 +13,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "AISTHORPE-HALL",
         "county": "Lincolnshire",
         "gridref": "SK946805",
@@ -34,7 +34,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "ALFORD-CEMETERY",
         "county": "Lincolnshire",
         "gridref": "TF458755",
@@ -55,7 +55,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "ALFORD-CEMETERY",
         "county": "Lincolnshire",
         "gridref": "TF456756",
@@ -76,7 +76,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "ALFORD-SUTTON-BY-THE-SEA",
         "county": "Lincolnshire",
         "gridref": "TF521823",
@@ -97,7 +97,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "ALFORD-THE-SYCAMORES",
         "county": "Lincolnshire",
         "gridref": "TF455756",
@@ -118,7 +118,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "ANDERBY-PUMPING-STATION",
         "county": "Lincolnshire",
         "gridref": "TF545750",
@@ -139,7 +139,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "ANDERBY-PUMPING-STATION",
         "county": "Lincolnshire",
         "gridref": "TF514755",
@@ -160,7 +160,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "ANWICK-VICARAGE",
         "county": "Lincolnshire",
         "gridref": "TF114505",
@@ -181,7 +181,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "APPLEBY-VIC",
         "county": "Lincolnshire",
         "gridref": "SE951150",
@@ -202,7 +202,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "APPLEBY-VIC",
         "county": "Lincolnshire",
         "gridref": "SE951146",
@@ -223,7 +223,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "BARDNEY-RAILWAY-STATION",
         "county": "Lincolnshire",
         "gridref": "TF114690",
@@ -244,7 +244,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "BARDNEY-SUGAR-FACTORY",
         "county": "Lincolnshire",
         "gridref": "TF113688",
@@ -265,7 +265,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "BARHOLM",
         "county": "Lincolnshire",
         "gridref": "TF088107",
@@ -286,7 +286,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "BARNETBY-RAILWAY-STATION",
         "county": "Lincolnshire",
         "gridref": "TA053098",
@@ -307,7 +307,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "BARTON-ON-HUMBER-SAXBY-RECTORY",
         "county": "Lincolnshire",
         "gridref": "SE991167",
@@ -328,7 +328,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "BAUMBER-THE-OLD-VICARAGE",
         "county": "Lincolnshire",
         "gridref": "TF222740",
@@ -349,7 +349,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "BILLINGBOROUGH",
         "county": "Lincolnshire",
         "gridref": "TF118343",
@@ -370,7 +370,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "BLANKNEY-HALL-GDNS",
         "county": "Lincolnshire",
         "gridref": "TF070600",
@@ -391,7 +391,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "BOSTON-AMBER-HILL",
         "county": "Lincolnshire",
         "gridref": "TF232471",
@@ -412,7 +412,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "BOSTON-BARGATE-END",
         "county": "Lincolnshire",
         "gridref": "TF331445",
@@ -433,7 +433,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "BOSTON-BARGATE-END",
         "county": "Lincolnshire",
         "gridref": "TF339466",
@@ -454,7 +454,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "BOSTON-BLACK-SLUICE-SKIRBECK",
         "county": "Lincolnshire",
         "gridref": "TF325428",
@@ -475,7 +475,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "BOSTON-CHURCH-ROAD-PUMPING-STATION",
         "county": "Lincolnshire",
         "gridref": "TF335435",
@@ -496,7 +496,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "BOSTON-CHURCH-YARD",
         "county": "Lincolnshire",
         "gridref": "TF327442",
@@ -517,7 +517,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "BOSTON-CLARKE",
         "county": "Lincolnshire",
         "gridref": "TF323438",
@@ -538,7 +538,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "BOSTON-CLARKE",
         "county": "Lincolnshire",
         "gridref": "TF327441",
@@ -559,7 +559,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "BOSTON-COOKS-LOCK",
         "county": "Lincolnshire",
         "gridref": "TF313432",
@@ -580,7 +580,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "BOSTON-COWBRIDGE",
         "county": "Lincolnshire",
         "gridref": "TF328472",
@@ -601,7 +601,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "BOSTON-EASTVILLE",
         "county": "Lincolnshire",
         "gridref": "TF404602",
@@ -622,7 +622,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "BOSTON-FREISTON-ROAD",
         "county": "Lincolnshire",
         "gridref": "TF339441",
@@ -643,7 +643,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "BOSTON-GRAND-SLUICE",
         "county": "Lincolnshire",
         "gridref": "TF323444",
@@ -664,7 +664,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "BOSTON-HAVEN-BANK",
         "county": "Lincolnshire",
         "gridref": "TF324444",
@@ -685,7 +685,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "BOSTON-NORTH-SEA-CAMP",
         "county": "Lincolnshire",
         "gridref": "TF387400",
@@ -706,7 +706,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "BOSTON-SLEAFORD-ROAD",
         "county": "Lincolnshire",
         "gridref": "TF320438",
@@ -727,7 +727,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "BOSTON-WHEELER",
         "county": "Lincolnshire",
         "gridref": "TF331442",
@@ -748,7 +748,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "BOSTON-WHEELER",
         "county": "Lincolnshire",
         "gridref": "TF328438",
@@ -769,7 +769,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "BOSTON-WHEELER",
         "county": "Lincolnshire",
         "gridref": "TF322424",
@@ -790,7 +790,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "BOSTON-WHEELER",
         "county": "Lincolnshire",
         "gridref": "TF327436",
@@ -811,7 +811,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "BOURNE-COUNCIL-SCHOOL",
         "county": "Lincolnshire",
         "gridref": "TF100201",
@@ -832,7 +832,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "BOURNE-GUTHRAM",
         "county": "Lincolnshire",
         "gridref": "TF171225",
@@ -853,7 +853,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "BOURNE-SECONDARY-SCHOOL",
         "county": "Lincolnshire",
         "gridref": "TF098196",
@@ -874,7 +874,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "BRIGG-BRIDGE-STREET",
         "county": "Lincolnshire",
         "gridref": "SE995071",
@@ -895,7 +895,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "BRIGG-GRAMMAR-SCHOOL",
         "county": "Lincolnshire",
         "gridref": "TA002074",
@@ -916,7 +916,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "BRIGG-RAILWAY-STATION",
         "county": "Lincolnshire",
         "gridref": "TA004068",
@@ -937,7 +937,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "BRIGG-SCAWBY-HALL",
         "county": "Lincolnshire",
         "gridref": "SE968057",
@@ -958,7 +958,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "BRIGG-SUGAR-FACTORY",
         "county": "Lincolnshire",
         "gridref": "SE987061",
@@ -979,7 +979,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "BRIGG-THORNHOLME",
         "county": "Lincolnshire",
         "gridref": "TA004073",
@@ -1000,7 +1000,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "BRIGG-WRAWBY-ROAD",
         "county": "Lincolnshire",
         "gridref": "TA005074",
@@ -1021,7 +1021,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "BROCKLESBY-PARK",
         "county": "Lincolnshire",
         "gridref": "TA140113",
@@ -1042,7 +1042,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "BUCKNALL",
         "county": "Lincolnshire",
         "gridref": "TF173687",
@@ -1063,7 +1063,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "BURTON-ON-STATHER-VICARAGE",
         "county": "Lincolnshire",
         "gridref": "SE871179",
@@ -1084,7 +1084,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "CAISTOR",
         "county": "Lincolnshire",
         "gridref": "TA118010",
@@ -1105,7 +1105,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "CAISTOR",
         "county": "Lincolnshire",
         "gridref": "TA139019",
@@ -1126,7 +1126,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "CAISTOR-HUNDON-MANOR-CASTLEMOUNT",
         "county": "Lincolnshire",
         "gridref": "TA116025",
@@ -1147,7 +1147,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "CAISTOR-HUNDON-MANOR-CASTLEMOUNT",
         "county": "Lincolnshire",
         "gridref": "TA115013",
@@ -1168,7 +1168,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "CARLTON-LE-MOORLAND",
         "county": "Lincolnshire",
         "gridref": "SK905580",
@@ -1189,7 +1189,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "CARLTON-SCROOP-HALL",
         "county": "Lincolnshire",
         "gridref": "SK942453",
@@ -1210,7 +1210,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "CARRINGTON-GRANGE",
         "county": "Lincolnshire",
         "gridref": "TF312545",
@@ -1231,7 +1231,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "CARRINGTON-HACKERLEY-BRIDGE-FARM",
         "county": "Lincolnshire",
         "gridref": "TF313539",
@@ -1252,7 +1252,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "CARRINGTON-HACKERLEY-BRIDGE-FARM",
         "county": "Lincolnshire",
         "gridref": "TF321529",
@@ -1273,7 +1273,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "CHAPEL-ST-LEONARDS-PUMPING-STATION",
         "county": "Lincolnshire",
         "gridref": "TF559729",
@@ -1294,7 +1294,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "CLAXBY-OSGODBY",
         "county": "Lincolnshire",
         "gridref": "TF074926",
@@ -1315,7 +1315,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "CLAXBY-OSGODBY",
         "county": "Lincolnshire",
         "gridref": "TF077926",
@@ -1336,7 +1336,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "CLAYPOLE",
         "county": "Lincolnshire",
         "gridref": "SK852491",
@@ -1357,7 +1357,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "CLEETHORPES-KINGS-PARADE",
         "county": "Lincolnshire",
         "gridref": "TA314079",
@@ -1378,7 +1378,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "CLEETHORPES-OUTFALL-PUMPING-STATION",
         "county": "Lincolnshire",
         "gridref": "TA321071",
@@ -1399,7 +1399,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "CLEETHORPES-SIDNEY-PARK",
         "county": "Lincolnshire",
         "gridref": "TA291095",
@@ -1420,7 +1420,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "COLEBY",
         "county": "Lincolnshire",
         "gridref": "SK977606",
@@ -1441,7 +1441,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "CORBY-BIRKHOLME-LODGE",
         "county": "Lincolnshire",
         "gridref": "SK970233",
@@ -1462,7 +1462,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "CORBY-IRNHAM-HALL",
         "county": "Lincolnshire",
         "gridref": "TF022265",
@@ -1483,7 +1483,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "CRANWELL-AIRFIELD",
         "county": "Lincolnshire",
         "gridref": "SK994493",
@@ -1504,7 +1504,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "CRANWELL-AIRFIELD",
         "county": "Lincolnshire",
         "gridref": "TF004493",
@@ -1525,7 +1525,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "CROFT-WAINFLEET",
         "county": "Lincolnshire",
         "gridref": "TF509618",
@@ -1546,7 +1546,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "CROWLAND",
         "county": "Lincolnshire",
         "gridref": "TF240105",
@@ -1567,7 +1567,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "CROWLAND-BANK-HOUSE",
         "county": "Lincolnshire",
         "gridref": "TF239107",
@@ -1588,7 +1588,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "CROWLE-KEADBY",
         "county": "Lincolnshire",
         "gridref": "SE835114",
@@ -1609,7 +1609,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "CROWLE-PUMPING-STATION",
         "county": "Lincolnshire",
         "gridref": "SE749098",
@@ -1630,7 +1630,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "CROWLE-WHARF-ROAD",
         "county": "Lincolnshire",
         "gridref": "SE777119",
@@ -1651,7 +1651,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "CULVERTHORPE-HALL",
         "county": "Lincolnshire",
         "gridref": "TF019402",
@@ -1672,7 +1672,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "CULVERTHORPE-HALL",
         "county": "Lincolnshire",
         "gridref": "TF022402",
@@ -1693,7 +1693,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "DEEPING-ST-NICHOLAS",
         "county": "Lincolnshire",
         "gridref": "TF213157",
@@ -1714,7 +1714,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "DENTON",
         "county": "Lincolnshire",
         "gridref": "SK866325",
@@ -1735,7 +1735,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "DOWSBY-THE-COTTAGE",
         "county": "Lincolnshire",
         "gridref": "TF114293",
@@ -1756,7 +1756,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "DRIBY-PUMPING-STATION",
         "county": "Lincolnshire",
         "gridref": "TF388745",
@@ -1777,7 +1777,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "DUNHOLME-FIELD-STATION",
         "county": "Lincolnshire",
         "gridref": "TF004779",
@@ -1798,7 +1798,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "EAST-HECKINGTON",
         "county": "Lincolnshire",
         "gridref": "TF193443",
@@ -1819,7 +1819,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "EAST-KIRKBY-MANOR",
         "county": "Lincolnshire",
         "gridref": "TF331630",
@@ -1840,7 +1840,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "EAST-KIRKBY-MANOR",
         "county": "Lincolnshire",
         "gridref": "TF334618",
@@ -1861,7 +1861,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "EASTVILLE-STATION-FARM",
         "county": "Lincolnshire",
         "gridref": "TF406568",
@@ -1882,7 +1882,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "FARFORTH-MAIDENWELL-HOUSE",
         "county": "Lincolnshire",
         "gridref": "TF323794",
@@ -1903,7 +1903,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "FERRIBY-SLUICE",
         "county": "Lincolnshire",
         "gridref": "SE976211",
@@ -1924,7 +1924,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "FIRSBY",
         "county": "Lincolnshire",
         "gridref": "TF457633",
@@ -1945,7 +1945,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "FISHTOFT-SCHOOL",
         "county": "Lincolnshire",
         "gridref": "TF363421",
@@ -1966,7 +1966,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "FULBECK-HALL",
         "county": "Lincolnshire",
         "gridref": "SK947504",
@@ -1987,7 +1987,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "GAINSBOROUGH-MORTON",
         "county": "Lincolnshire",
         "gridref": "SK807917",
@@ -2008,7 +2008,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "GAINSBOROUGH-NORTH-SANDSFIELD",
         "county": "Lincolnshire",
         "gridref": "SK814913",
@@ -2029,7 +2029,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "GAINSBOROUGH-RAILWAY-STATION",
         "county": "Lincolnshire",
         "gridref": "SK817899",
@@ -2050,7 +2050,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "GAINSBOROUGH-RAILWAY-STATION",
         "county": "Lincolnshire",
         "gridref": "SK819898",
@@ -2071,7 +2071,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "GATE-BURTON",
         "county": "Lincolnshire",
         "gridref": "SK841833",
@@ -2092,7 +2092,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "GATE-BURTON",
         "county": "Lincolnshire",
         "gridref": "SK838831",
@@ -2113,7 +2113,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "GLENTHAM-BISHOPBRIDGE",
         "county": "Lincolnshire",
         "gridref": "TF031911",
@@ -2134,7 +2134,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "GRAINSBY-HALL",
         "county": "Lincolnshire",
         "gridref": "TF271990",
@@ -2155,7 +2155,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "GRAINTHORPE-COUNTY-SCHOOL",
         "county": "Lincolnshire",
         "gridref": "TF382962",
@@ -2176,7 +2176,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "GRANTHAM",
         "county": "Lincolnshire",
         "gridref": "SK914361",
@@ -2197,7 +2197,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "GRANTHAM-CENTRAL-SCHOOL",
         "county": "Lincolnshire",
         "gridref": "SK920364",
@@ -2218,7 +2218,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "GRANTHAM-DENTON-HALL",
         "county": "Lincolnshire",
         "gridref": "SK862325",
@@ -2239,7 +2239,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "GRANTHAM-GUILDHALL",
         "county": "Lincolnshire",
         "gridref": "SK915357",
@@ -2260,7 +2260,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "GRANTHAM-HEYDOUR-VICARAGE",
         "county": "Lincolnshire",
         "gridref": "TF011395",
@@ -2281,7 +2281,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "GRANTHAM-HIGH-STREET",
         "county": "Lincolnshire",
         "gridref": "SK914359",
@@ -2302,7 +2302,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "GRANTHAM-LITTLE-PONTON-RECTORY",
         "county": "Lincolnshire",
         "gridref": "SK923322",
@@ -2323,7 +2323,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "GRANTHAM-SALTERSFORD",
         "county": "Lincolnshire",
         "gridref": "SK926334",
@@ -2344,7 +2344,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "GRANTHAM-STAINBY",
         "county": "Lincolnshire",
         "gridref": "SK905228",
@@ -2365,7 +2365,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "GRANTHAM-SYSTON-PARK",
         "county": "Lincolnshire",
         "gridref": "SK941407",
@@ -2386,7 +2386,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "GREATFORD-HALL-STAMFORD",
         "county": "Lincolnshire",
         "gridref": "TF085119",
@@ -2407,7 +2407,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "GRIMSBY-ABBEY-ROAD",
         "county": "Lincolnshire",
         "gridref": "TA268089",
@@ -2428,7 +2428,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "GRIMSBY-ABBEY-ROAD",
         "county": "Lincolnshire",
         "gridref": "TA272080",
@@ -2449,7 +2449,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "GRIMSBY-AYLESBY",
         "county": "Lincolnshire",
         "gridref": "TA203077",
@@ -2470,7 +2470,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "GRIMSBY-IRBY-ON-HUMBER",
         "county": "Lincolnshire",
         "gridref": "TA196047",
@@ -2491,7 +2491,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "GRIMSBY-LITTLE-COATES-PUMPING-STATION",
         "county": "Lincolnshire",
         "gridref": "TA253086",
@@ -2512,7 +2512,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "GRIMSBY-RAILWAY-STATION",
         "county": "Lincolnshire",
         "gridref": "TA268091",
@@ -2533,7 +2533,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "GRIMSBY-RIBY",
         "county": "Lincolnshire",
         "gridref": "TA185075",
@@ -2554,7 +2554,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "GRIMSBY-WALTHAM",
         "county": "Lincolnshire",
         "gridref": "TA261039",
@@ -2575,7 +2575,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "GRIMSBY-WESTLANDS",
         "county": "Lincolnshire",
         "gridref": "TA262085",
@@ -2596,7 +2596,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "HABROUGH-HOME-FARM",
         "county": "Lincolnshire",
         "gridref": "TA154142",
@@ -2617,7 +2617,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "HACKTHORN-HALL",
         "county": "Lincolnshire",
         "gridref": "SK992825",
@@ -2638,7 +2638,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "HAGWORTHINGHAM-MANOR-HOUSE",
         "county": "Lincolnshire",
         "gridref": "TF344693",
@@ -2659,7 +2659,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "HAGWORTHINGHAM-MANOR-HOUSE",
         "county": "Lincolnshire",
         "gridref": "TF347690",
@@ -2680,7 +2680,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "HAGWORTHINGHAM-MANOR-HOUSE",
         "county": "Lincolnshire",
         "gridref": "TF354691",
@@ -2701,7 +2701,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "HARRINGTON-HALL",
         "county": "Lincolnshire",
         "gridref": "TF367718",
@@ -2722,7 +2722,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "HOBHOLE-PUMPING-STATION",
         "county": "Lincolnshire",
         "gridref": "TF365399",
@@ -2743,7 +2743,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "HOLBEACH-BINGHAM-LODGE",
         "county": "Lincolnshire",
         "gridref": "TF391322",
@@ -2764,7 +2764,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "HOLBEACH-BINGHAM-LODGE",
         "county": "Lincolnshire",
         "gridref": "TF380327",
@@ -2785,7 +2785,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "HOLBEACH-MANOR-FARM",
         "county": "Lincolnshire",
         "gridref": "TF355241",
@@ -2806,7 +2806,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "HOLBEACH-MARSH-SOMERSET-HOUSE",
         "county": "Lincolnshire",
         "gridref": "TF382316",
@@ -2827,7 +2827,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "HOLYWELL-HALL",
         "county": "Lincolnshire",
         "gridref": "SK999161",
@@ -2848,7 +2848,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "HORBLING-THE-HALL",
         "county": "Lincolnshire",
         "gridref": "TF118351",
@@ -2869,7 +2869,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "HORKSTOW",
         "county": "Lincolnshire",
         "gridref": "SE985184",
@@ -2890,7 +2890,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "HORNCASTLE",
         "county": "Lincolnshire",
         "gridref": "TF263698",
@@ -2911,7 +2911,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "HORNCASTLE",
         "county": "Lincolnshire",
         "gridref": "TF251695",
@@ -2932,7 +2932,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "HORNCASTLE-BUCKNALL",
         "county": "Lincolnshire",
         "gridref": "TF166686",
@@ -2953,7 +2953,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "HORNCASTLE-HEMINGBY",
         "county": "Lincolnshire",
         "gridref": "TF238744",
@@ -2974,7 +2974,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "HORNCASTLE-LINC",
         "county": "Lincolnshire",
         "gridref": "TF260696",
@@ -2995,7 +2995,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "HORNCASTLE-QUEEN-STREET",
         "county": "Lincolnshire",
         "gridref": "TF262694",
@@ -3016,7 +3016,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "HORNCASTLE-REVESBY",
         "county": "Lincolnshire",
         "gridref": "TF303634",
@@ -3037,7 +3037,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "IMMINGHAM-COMPRESSOR-STN",
         "county": "Lincolnshire",
         "gridref": "TA208149",
@@ -3058,7 +3058,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "KEADBY-PUMPING-STATION",
         "county": "Lincolnshire",
         "gridref": "SE835112",
@@ -3079,7 +3079,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "KEADBY-THE-HOLLIES",
         "county": "Lincolnshire",
         "gridref": "SE835117",
@@ -3100,7 +3100,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "KIRKSTEAD",
         "county": "Lincolnshire",
         "gridref": "TF187622",
@@ -3121,7 +3121,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "KIRMOND",
         "county": "Lincolnshire",
         "gridref": "TF185926",
@@ -3142,7 +3142,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "KIRTON",
         "county": "Lincolnshire",
         "gridref": "TF303381",
@@ -3163,7 +3163,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "KIRTON-AGRICULTURAL-INSTITUTE",
         "county": "Lincolnshire",
         "gridref": "TF304385",
@@ -3184,7 +3184,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "KIRTON-IN-LINDSEY",
         "county": "Lincolnshire",
         "gridref": "SK934990",
@@ -3205,7 +3205,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "LEADENHAM-RECTORY",
         "county": "Lincolnshire",
         "gridref": "SK950518",
@@ -3226,7 +3226,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "LEAKE-LADE-BANK-ENGINES",
         "county": "Lincolnshire",
         "gridref": "TF378544",
@@ -3247,7 +3247,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "LEASINGHAM-RECTORY",
         "county": "Lincolnshire",
         "gridref": "TF057480",
@@ -3268,7 +3268,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "LINCOLN-BEAUMONT-FEE",
         "county": "Lincolnshire",
         "gridref": "SK974714",
@@ -3289,7 +3289,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "LINCOLN-BOULTHAM",
         "county": "Lincolnshire",
         "gridref": "SK967694",
@@ -3310,7 +3310,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "LINCOLN-BRANSTON-HALL",
         "county": "Lincolnshire",
         "gridref": "TF018672",
@@ -3331,7 +3331,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "LINCOLN-BRANSTON-HALL",
         "county": "Lincolnshire",
         "gridref": "TF035668",
@@ -3352,7 +3352,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "LINCOLN-BRAYFORD-WHARF",
         "county": "Lincolnshire",
         "gridref": "SK972712",
@@ -3373,7 +3373,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "LINCOLN-BURTON-ROAD",
         "county": "Lincolnshire",
         "gridref": "SK971727",
@@ -3394,7 +3394,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "LINCOLN-COTTESFORD-PLACE",
         "county": "Lincolnshire",
         "gridref": "SK977720",
@@ -3415,7 +3415,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "LINCOLN-DISNEY-PLACE",
         "county": "Lincolnshire",
         "gridref": "SK980719",
@@ -3436,7 +3436,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "LINCOLN-DODDINGTON",
         "county": "Lincolnshire",
         "gridref": "SK900700",
@@ -3457,7 +3457,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "LINCOLN-EARLY",
         "county": "Lincolnshire",
         "gridref": "SK979717",
@@ -3478,7 +3478,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "LINCOLN-EASTBOURNE-ST",
         "county": "Lincolnshire",
         "gridref": "SK985714",
@@ -3499,7 +3499,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "LINCOLN-MONKS-TOWER",
         "county": "Lincolnshire",
         "gridref": "SK997718",
@@ -3520,7 +3520,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "LINCOLN-MOORLANDS-SKELLINGTHORPE",
         "county": "Lincolnshire",
         "gridref": "SK960681",
@@ -3541,7 +3541,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "LINCOLN-NORTON",
         "county": "Lincolnshire",
         "gridref": "SK970703",
@@ -3562,7 +3562,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "LINCOLN-NORTON",
         "county": "Lincolnshire",
         "gridref": "SK968716",
@@ -3583,7 +3583,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "LINCOLN-NORTON",
         "county": "Lincolnshire",
         "gridref": "SK975708",
@@ -3604,7 +3604,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "LINCOLN-RAILWAY-STATION",
         "county": "Lincolnshire",
         "gridref": "SK973707",
@@ -3625,7 +3625,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "LINCOLN-REEPHAM",
         "county": "Lincolnshire",
         "gridref": "TF040737",
@@ -3646,7 +3646,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "LINCOLN-SAXILBY",
         "county": "Lincolnshire",
         "gridref": "SK895752",
@@ -3667,7 +3667,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "LINCOLN-SESSIONS-HOUSE",
         "county": "Lincolnshire",
         "gridref": "SK978714",
@@ -3688,7 +3688,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "LINCOLN-SESSIONS-HOUSE",
         "county": "Lincolnshire",
         "gridref": "SK974715",
@@ -3709,7 +3709,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "LINCOLN-SKELLINGTHORPE-HALL",
         "county": "Lincolnshire",
         "gridref": "SK930715",
@@ -3730,7 +3730,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "LINCOLN-ST-BOTOLPHS",
         "county": "Lincolnshire",
         "gridref": "SK972700",
@@ -3751,7 +3751,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "LINCOLN-ST-CATHERINES",
         "county": "Lincolnshire",
         "gridref": "SK970694",
@@ -3772,7 +3772,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "LINCOLN-SWALLOWBECK",
         "county": "Lincolnshire",
         "gridref": "SK948680",
@@ -3793,7 +3793,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "LINCOLN-SWALLOWBECK",
         "county": "Lincolnshire",
         "gridref": "SK963666",
@@ -3814,7 +3814,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "LINCOLN-THE-CLOSE",
         "county": "Lincolnshire",
         "gridref": "SK978717",
@@ -3835,7 +3835,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "LINCOLN-THE-QUARRY",
         "county": "Lincolnshire",
         "gridref": "SK983718",
@@ -3856,7 +3856,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "LINCOLN-WEST-COMMON",
         "county": "Lincolnshire",
         "gridref": "SK962719",
@@ -3877,7 +3877,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "LITTLE-STEEPING",
         "county": "Lincolnshire",
         "gridref": "TF435627",
@@ -3898,7 +3898,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "LONG-SUTTON-TYDD-GATE",
         "county": "Lincolnshire",
         "gridref": "TF451180",
@@ -3919,7 +3919,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "LONG-SUTTON-TYDD-GATE",
         "county": "Lincolnshire",
         "gridref": "TF433229",
@@ -3940,7 +3940,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "LONG-SUTTON-TYDD-GATE",
         "county": "Lincolnshire",
         "gridref": "TF430229",
@@ -3961,7 +3961,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "LONG-SUTTON-WHITE-HOUSE-FARM",
         "county": "Lincolnshire",
         "gridref": "TF455266",
@@ -3982,7 +3982,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "LOUTH-CALCETHORPE",
         "county": "Lincolnshire",
         "gridref": "TF239886",
@@ -4003,7 +4003,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "LOUTH-ELKINGTON-HALL",
         "county": "Lincolnshire",
         "gridref": "TF297881",
@@ -4024,7 +4024,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "LOUTH-GOSPELGATE",
         "county": "Lincolnshire",
         "gridref": "TF326872",
@@ -4045,7 +4045,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "LOUTH-KELSTERN-GRANGE",
         "county": "Lincolnshire",
         "gridref": "TF241899",
@@ -4066,7 +4066,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "LOUTH-THE-CEDARS",
         "county": "Lincolnshire",
         "gridref": "TF322873",
@@ -4087,7 +4087,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "LOUTH-WESTGATE",
         "county": "Lincolnshire",
         "gridref": "TF324872",
@@ -4108,7 +4108,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "MABLETHORPE",
         "county": "Lincolnshire",
         "gridref": "TF512847",
@@ -4129,7 +4129,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "MABLETHORPE-TRUSTHORPE-HALL",
         "county": "Lincolnshire",
         "gridref": "TF500821",
@@ -4150,7 +4150,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "MANBY-AIRFIELD",
         "county": "Lincolnshire",
         "gridref": "TF391869",
@@ -4171,7 +4171,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "MAREHAM-LE-FEN",
         "county": "Lincolnshire",
         "gridref": "TF278610",
@@ -4192,7 +4192,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "MAREHAM-LE-FEN",
         "county": "Lincolnshire",
         "gridref": "TF282614",
@@ -4213,7 +4213,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "MARKET-DEEPING-WILSTHORPE",
         "county": "Lincolnshire",
         "gridref": "TF081148",
@@ -4234,7 +4234,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "MARKET-RASEN-FALDINGWORTH",
         "county": "Lincolnshire",
         "gridref": "TF066847",
@@ -4255,7 +4255,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "MARKET-RASEN-RAILWAY-STATION",
         "county": "Lincolnshire",
         "gridref": "TF107887",
@@ -4276,7 +4276,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "MARKET-RASEN-RAILWAY-STATION",
         "county": "Lincolnshire",
         "gridref": "TF105892",
@@ -4297,7 +4297,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "MARKET-RASEN-TEALBY",
         "county": "Lincolnshire",
         "gridref": "TF157908",
@@ -4318,7 +4318,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "MUMBY-PUMPING-STN",
         "county": "Lincolnshire",
         "gridref": "TF514746",
@@ -4339,7 +4339,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "NAVENBY-CROP-FACTORY",
         "county": "Lincolnshire",
         "gridref": "TF030578",
@@ -4360,7 +4360,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "NAVENBY-RECTORY",
         "county": "Lincolnshire",
         "gridref": "SK986579",
@@ -4381,7 +4381,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "NEW-HOLLAND-RAILWAY-STATION",
         "county": "Lincolnshire",
         "gridref": "TA081242",
@@ -4402,7 +4402,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "NORMANBY",
         "county": "Lincolnshire",
         "gridref": "SE883168",
@@ -4423,7 +4423,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "NORTH-COTES",
         "county": "Lincolnshire",
         "gridref": "TA349003",
@@ -4444,7 +4444,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "NORTH-THORESBY-RECTORY",
         "county": "Lincolnshire",
         "gridref": "TF289988",
@@ -4465,7 +4465,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "NORTH-WILLINGHAM-HOUSE",
         "county": "Lincolnshire",
         "gridref": "TF143886",
@@ -4486,7 +4486,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "NORTON-DISNEY-THE-VICARAGE",
         "county": "Lincolnshire",
         "gridref": "SK891588",
@@ -4507,7 +4507,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "OLD-LEAKE-LEVERTON",
         "county": "Lincolnshire",
         "gridref": "TF422484",
@@ -4528,7 +4528,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "POTTERHANWORTH-OLD-HALL",
         "county": "Lincolnshire",
         "gridref": "TF053661",
@@ -4549,7 +4549,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "RUSKINGTON",
         "county": "Lincolnshire",
         "gridref": "TF083506",
@@ -4570,7 +4570,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "SCAMPTON-HOUSE",
         "county": "Lincolnshire",
         "gridref": "SK945795",
@@ -4591,7 +4591,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "SCUNTHORPE-BRUMBY-SEC-MOD-SCHOOL",
         "county": "Lincolnshire",
         "gridref": "SE897098",
@@ -4612,7 +4612,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "SCUNTHORPE-HENDERSON-AVENUE",
         "county": "Lincolnshire",
         "gridref": "SE888116",
@@ -4633,7 +4633,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "SIBSEY-IVYDENE",
         "county": "Lincolnshire",
         "gridref": "TF352515",
@@ -4654,7 +4654,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "SKEGNESS-BURGH-SLUICE-PUMPING-STATION",
         "county": "Lincolnshire",
         "gridref": "TF552586",
@@ -4675,7 +4675,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "SKEGNESS-MARINE-GDNS",
         "county": "Lincolnshire",
         "gridref": "TF566640",
@@ -4696,7 +4696,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "SKEGNESS-MARINE-GDNS",
         "county": "Lincolnshire",
         "gridref": "TF565632",
@@ -4717,7 +4717,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "SKEGNESS-MARINE-GDNS",
         "county": "Lincolnshire",
         "gridref": "TF569631",
@@ -4738,7 +4738,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "SLEAFORD-BLOXHOLM",
         "county": "Lincolnshire",
         "gridref": "TF065536",
@@ -4759,7 +4759,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "SLEAFORD-KESTEVEN-MENTAL-HOSPITAL",
         "county": "Lincolnshire",
         "gridref": "TF041440",
@@ -4780,7 +4780,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "SLEAFORD-RAUCEBY-HALL",
         "county": "Lincolnshire",
         "gridref": "TF028459",
@@ -4801,7 +4801,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "SOUTH-KYME",
         "county": "Lincolnshire",
         "gridref": "TF170498",
@@ -4822,7 +4822,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "SPALDING-GRAMMAR-SCHOOL",
         "county": "Lincolnshire",
         "gridref": "TF246222",
@@ -4843,7 +4843,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "SPALDING-MARSH-FARM",
         "county": "Lincolnshire",
         "gridref": "TF262247",
@@ -4864,7 +4864,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "SPALDING-PODE-HOLE",
         "county": "Lincolnshire",
         "gridref": "TF214219",
@@ -4885,7 +4885,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "SPALDING-SURVEYORS-DEPOT",
         "county": "Lincolnshire",
         "gridref": "TF244225",
@@ -4906,7 +4906,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "SPALDING-WESTON-ST-MARY",
         "county": "Lincolnshire",
         "gridref": "TF286246",
@@ -4927,7 +4927,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "SPALDING-WESTON-ST-MARY",
         "county": "Lincolnshire",
         "gridref": "TF275184",
@@ -4948,7 +4948,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "SPILSBY",
         "county": "Lincolnshire",
         "gridref": "TF400661",
@@ -4969,7 +4969,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "SPILSBY",
         "county": "Lincolnshire",
         "gridref": "TF400659",
@@ -4990,7 +4990,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "SPILSBY",
         "county": "Lincolnshire",
         "gridref": "TF402664",
@@ -5011,7 +5011,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "SPILSBY",
         "county": "Lincolnshire",
         "gridref": "TF400658",
@@ -5032,7 +5032,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "SPILSBY-DALBY-GRANGE",
         "county": "Lincolnshire",
         "gridref": "TF412712",
@@ -5053,7 +5053,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "SPILSBY-EAST-KEAL",
         "county": "Lincolnshire",
         "gridref": "TF382642",
@@ -5074,7 +5074,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "SPILSBY-EAST-KEAL",
         "county": "Lincolnshire",
         "gridref": "TF375636",
@@ -5095,7 +5095,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "SPILSBY-FORDINGTON-WW",
         "county": "Lincolnshire",
         "gridref": "TF415714",
@@ -5116,7 +5116,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "SPILSBY-HAGNABY-PRIORY",
         "county": "Lincolnshire",
         "gridref": "TF346625",
@@ -5137,7 +5137,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "SPILSBY-HALTON-HOLGATE",
         "county": "Lincolnshire",
         "gridref": "TF418652",
@@ -5158,7 +5158,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "SPILSBY-PARTNEY",
         "county": "Lincolnshire",
         "gridref": "TF412683",
@@ -5179,7 +5179,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "SPILSBY-PARTNEY",
         "county": "Lincolnshire",
         "gridref": "TF390705",
@@ -5200,7 +5200,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "SPILSBY-RAITHBY-HALL-GDNS",
         "county": "Lincolnshire",
         "gridref": "TF374670",
@@ -5221,7 +5221,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "SPILSBY-WELTON-LE-MARSH-RECTORY",
         "county": "Lincolnshire",
         "gridref": "TF470688",
@@ -5242,7 +5242,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "SPRINGTHORPE-RECTORY",
         "county": "Lincolnshire",
         "gridref": "SK878897",
@@ -5263,7 +5263,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "STAMFORD-BARN-HILL-HOUSE",
         "county": "Lincolnshire",
         "gridref": "TF027072",
@@ -5284,7 +5284,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "STAMFORD-NORTHFIELDS",
         "county": "Lincolnshire",
         "gridref": "TF031078",
@@ -5305,7 +5305,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "STAMFORD-ST-GEORGES-SQUARE",
         "county": "Lincolnshire",
         "gridref": "TF031070",
@@ -5326,7 +5326,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "STAMFORD-ST-GEORGES-SQUARE",
         "county": "Lincolnshire",
         "gridref": "TF023071",
@@ -5347,7 +5347,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "STROXTON-RECTORY",
         "county": "Lincolnshire",
         "gridref": "SK907312",
@@ -5368,7 +5368,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "STUBTON-NEWARK",
         "county": "Lincolnshire",
         "gridref": "SK875490",
@@ -5389,7 +5389,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "SUDBROOKE-MANOR-LINCOLN",
         "county": "Lincolnshire",
         "gridref": "TF033761",
@@ -5410,7 +5410,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "SUTTON-BRIDGE",
         "county": "Lincolnshire",
         "gridref": "TF476200",
@@ -5431,7 +5431,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "SUTTON-BRIDGE-WINGLAND-GRANGE",
         "county": "Lincolnshire",
         "gridref": "TF517220",
@@ -5452,7 +5452,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "SUTTON-ST-EDMUNDS-ASHTREE-FARM",
         "county": "Lincolnshire",
         "gridref": "TF372107",
@@ -5473,7 +5473,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "SUTTON-ST-JAMES-CLIFTONS-BRIDGE",
         "county": "Lincolnshire",
         "gridref": "TF378189",
@@ -5494,7 +5494,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "SWINDERBY-LING-MOOR",
         "county": "Lincolnshire",
         "gridref": "SK876636",
@@ -5515,7 +5515,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "TEMPLE-BRUER",
         "county": "Lincolnshire",
         "gridref": "SK997518",
@@ -5536,7 +5536,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "THORNTON-CURTIS",
         "county": "Lincolnshire",
         "gridref": "TA088179",
@@ -5557,7 +5557,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "THORNTON-CURTIS-SCHOOL",
         "county": "Lincolnshire",
         "gridref": "TA089177",
@@ -5578,7 +5578,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "TORKSEY",
         "county": "Lincolnshire",
         "gridref": "SK837788",
@@ -5599,7 +5599,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "TORKSEY",
         "county": "Lincolnshire",
         "gridref": "SK836780",
@@ -5620,7 +5620,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "TWENTYLANDS-PUMPING-STATION",
         "county": "Lincolnshire",
         "gridref": "TF387646",
@@ -5641,7 +5641,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "TYDD-NORTH-LEVEL-SLUICE",
         "county": "Lincolnshire",
         "gridref": "TF467181",
@@ -5662,7 +5662,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "ULCEBY-KILLINGHOLME",
         "county": "Lincolnshire",
         "gridref": "TA144171",
@@ -5683,7 +5683,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "ULCEBY-LIMBER-GRANGE",
         "county": "Lincolnshire",
         "gridref": "TA148062",
@@ -5704,7 +5704,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "ULCEBY-WOOTTON-LODGE",
         "county": "Lincolnshire",
         "gridref": "TA087161",
@@ -5725,7 +5725,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "WADDINGTON-AIRFIELD",
         "county": "Lincolnshire",
         "gridref": "SK984650",
@@ -5746,7 +5746,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "WADDINGTON-AIRFIELD",
         "county": "Lincolnshire",
         "gridref": "SK965793",
@@ -5767,7 +5767,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "WAINFLEET-BRIDGE-HOUSE",
         "county": "Lincolnshire",
         "gridref": "TF495585",
@@ -5788,7 +5788,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "WAINFLEET-THORPE-CULVERT",
         "county": "Lincolnshire",
         "gridref": "TF470606",
@@ -5809,7 +5809,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "WELBOURN",
         "county": "Lincolnshire",
         "gridref": "SK968545",
@@ -5830,7 +5830,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "WELBOURN",
         "county": "Lincolnshire",
         "gridref": "SK967541",
@@ -5851,7 +5851,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "WELLINGORE",
         "county": "Lincolnshire",
         "gridref": "SK981565",
@@ -5872,7 +5872,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "WELLINGORE",
         "county": "Lincolnshire",
         "gridref": "SK985560",
@@ -5893,7 +5893,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "WEST-BUTTERWICK-CROFT-HOUSE",
         "county": "Lincolnshire",
         "gridref": "SE835065",
@@ -5914,7 +5914,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "WEST-HALTON-RECTORY",
         "county": "Lincolnshire",
         "gridref": "SE904207",
@@ -5935,7 +5935,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "WHAPLODE-IRBY-HALL-FARM",
         "county": "Lincolnshire",
         "gridref": "TF323224",
@@ -5956,7 +5956,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "WILDMORE",
         "county": "Lincolnshire",
         "gridref": "TF250536",
@@ -5977,7 +5977,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "WILLINGHAM-BY-STOW",
         "county": "Lincolnshire",
         "gridref": "SK874845",
@@ -5998,7 +5998,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "WITHERN-PUMPING-STATION",
         "county": "Lincolnshire",
         "gridref": "TF434824",
@@ -6019,7 +6019,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "WOLD-NEWTON-MANOR",
         "county": "Lincolnshire",
         "gridref": "TF242970",
@@ -6040,7 +6040,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "WOODHALL-SPA-MIX",
         "county": "Lincolnshire",
         "gridref": "TF197634",
@@ -6061,7 +6061,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "WOODHALL-SPA-MIX",
         "county": "Lincolnshire",
         "gridref": "TF197633",
@@ -6082,7 +6082,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "WOODHALL-SPA-WW",
         "county": "Lincolnshire",
         "gridref": "TF223617",
@@ -6103,7 +6103,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "WOOLSTHORPE",
         "county": "Lincolnshire",
         "gridref": "SK843353",
@@ -6124,7 +6124,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "WOOLSTHORPE-GRANGE-FARM",
         "county": "Lincolnshire",
         "gridref": "SK838351",
@@ -6145,7 +6145,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "WRANGLE",
         "county": "Lincolnshire",
         "gridref": "TF424511",
@@ -6166,7 +6166,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "WROOT-CANDY-FARM-PUMPING-STATION",
         "county": "Lincolnshire",
         "gridref": "SE698030",
@@ -6187,7 +6187,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "WROOT-PUMPING-STATION",
         "county": "Lincolnshire",
         "gridref": "SE732017",
@@ -6208,7 +6208,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "WYBERTON-SLIPPERY-GOWT-FARM",
         "county": "Lincolnshire",
         "gridref": "TF341415",
@@ -6229,7 +6229,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "WYBERTON-TYTTON-HALL",
         "county": "Lincolnshire",
         "gridref": "TF329417",
@@ -6250,7 +6250,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "WYTHAM-ON-THE-HILL",
         "county": "Lincolnshire",
         "gridref": "TF049167",
@@ -6271,7 +6271,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "YARBOROUGH-THE-RECTORY",
         "county": "Lincolnshire",
         "gridref": "TF343936",

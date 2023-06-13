@@ -13,7 +13,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "AITH-EAST-BURRAFIRTH",
         "county": "Shetland",
         "gridref": "HU354580",
@@ -34,7 +34,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "BALTASOUND",
         "county": "Shetland",
         "gridref": "HP625092",
@@ -55,7 +55,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "BALTASOUND",
         "county": "Shetland",
         "gridref": "HP608093",
@@ -76,7 +76,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "BIXTER-VEMENTRY",
         "county": "Shetland",
         "gridref": "HU309597",
@@ -97,7 +97,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "BRAE",
         "county": "Shetland",
         "gridref": "HU361656",
@@ -118,7 +118,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "BRESSAY-LIGHTHOUSE",
         "county": "Shetland",
         "gridref": "HU4892637625",
@@ -139,7 +139,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "BRESSAY-MANSE",
         "county": "Shetland",
         "gridref": "HU494411",
@@ -160,7 +160,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "BURRA-ISLE",
         "county": "Shetland",
         "gridref": "HU373337",
@@ -181,7 +181,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "DELTING-OLNAFIRTH-PUBLIC-SCHOOL",
         "county": "Shetland",
         "gridref": "HU4090864470",
@@ -202,7 +202,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "EAST-YELL-SHETLAND",
         "county": "Shetland",
         "gridref": "HU519862",
@@ -223,7 +223,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "ESHANESS",
         "county": "Shetland",
         "gridref": "HU2058178449",
@@ -244,7 +244,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "FAIR-ISLE-NORTH",
         "county": "Shetland",
         "gridref": "HZ221741",
@@ -265,7 +265,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "FAIR-ISLE-SOUTH",
         "county": "Shetland",
         "gridref": "HZ197698",
@@ -286,7 +286,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "FETLAR-MANSE",
         "county": "Shetland",
         "gridref": "HU608906",
@@ -307,7 +307,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "LERWICK-FORT-CHARLOTTE",
         "county": "Shetland",
         "gridref": "HU4749841456",
@@ -328,7 +328,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "LERWICK-FORT-CHARLOTTE",
         "county": "Shetland",
         "gridref": "HU4782140758",
@@ -349,7 +349,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "LERWICK-MONTFIELD",
         "county": "Shetland",
         "gridref": "HU4711441307",
@@ -370,7 +370,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "LERWICK-OBSERVATORY",
         "county": "Shetland",
         "gridref": "HU454396",
@@ -391,7 +391,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "LERWICK-OBSERVATORY",
         "county": "Shetland",
         "gridref": "HU476413",
@@ -412,7 +412,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "LERWICK-OBSERVATORY",
         "county": "Shetland",
         "gridref": "HU452398",
@@ -433,7 +433,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "NORTHMAVINE-LOCHEND",
         "county": "Shetland",
         "gridref": "HU368842",
@@ -454,7 +454,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "SANDWICK-SHETLAND",
         "county": "Shetland",
         "gridref": "HU411250",
@@ -475,7 +475,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "SKERRIES-SHETLAND",
         "county": "Shetland",
         "gridref": "HU682719",
@@ -496,7 +496,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "SULLOM-VOE",
         "county": "Shetland",
         "gridref": "HU4063973249",
@@ -517,7 +517,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "SUMBURGH-HEAD",
         "county": "Shetland",
         "gridref": "HU407079",
@@ -538,7 +538,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "SUMBURGH-LINKS",
         "county": "Shetland",
         "gridref": "HU3909111140",
@@ -559,7 +559,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "SUMBURGHEAD-DUNROSSNESS",
         "county": "Shetland",
         "gridref": "HU3917516527",
@@ -580,7 +580,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "UYESOUND",
         "county": "Shetland",
         "gridref": "HP587018",
@@ -601,7 +601,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "WHALSAY-SALTNESS",
         "county": "Shetland",
         "gridref": "HU5486462161",
@@ -622,7 +622,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "WHALSAY-SALTNESS",
         "county": "Shetland",
         "gridref": "HU542626",
@@ -643,7 +643,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "WHALSEY",
         "county": "Shetland",
         "gridref": "HU5424462647",

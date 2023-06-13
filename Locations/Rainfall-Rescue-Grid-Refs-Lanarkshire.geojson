@@ -13,7 +13,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "AIRDRIE-BROOMKNOLL-STREET",
         "county": "Lanarkshire",
         "gridref": "NS762651",
@@ -34,7 +34,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "AIRDRIE-FORRESTBURN-RES",
         "county": "Lanarkshire",
         "gridref": "NS874649",
@@ -55,7 +55,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "AIRDRIE-HILLEND",
         "county": "Lanarkshire",
         "gridref": "NS826676",
@@ -76,7 +76,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "AUCHENGRAY-LANARK",
         "county": "Lanarkshire",
         "gridref": "NS9903453478",
@@ -97,7 +97,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "AUCHINRAITH-HAMILTON",
         "county": "Lanarkshire",
         "gridref": "NS706573",
@@ -118,7 +118,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "BAILLIESTON",
         "county": "Lanarkshire",
         "gridref": "NS679641",
@@ -139,7 +139,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "BIGGAR",
         "county": "Lanarkshire",
         "gridref": "NT040377",
@@ -160,7 +160,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "BIGGAR-CAMBUS-WALLACE",
         "county": "Lanarkshire",
         "gridref": "NT047385",
@@ -181,7 +181,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "BIGGAR-SHIELDHILL",
         "county": "Lanarkshire",
         "gridref": "NT006404",
@@ -202,7 +202,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "BIGGAR-SHIELDHILL",
         "county": "Lanarkshire",
         "gridref": "NT013402",
@@ -223,7 +223,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "BIGGAR-SHIELDHILL",
         "county": "Lanarkshire",
         "gridref": "NT012401",
@@ -244,7 +244,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "BIGGAR-WISTON",
         "county": "Lanarkshire",
         "gridref": "NS9558632244",
@@ -265,7 +265,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "BONNINGTON-WEIR",
         "county": "Lanarkshire",
         "gridref": "NS8845940714",
@@ -286,7 +286,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "BOTHWELL-CASTLE",
         "county": "Lanarkshire",
         "gridref": "NS691594",
@@ -307,7 +307,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "BOTHWELL-CASTLE",
         "county": "Lanarkshire",
         "gridref": "NS709578",
@@ -328,7 +328,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "BOTHWELL-SEWAGE-PURIFICATION-WORKS",
         "county": "Lanarkshire",
         "gridref": "NS714576",
@@ -349,7 +349,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "BUSBY-THORNTON-HALL",
         "county": "Lanarkshire",
         "gridref": "NS5915755019",
@@ -370,7 +370,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "BUSBY-THORNTON-HALL",
         "county": "Lanarkshire",
         "gridref": "NS5938055204",
@@ -391,7 +391,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "CAMBUSLANG-BUSHEY-HILL",
         "county": "Lanarkshire",
         "gridref": "NS6412060437",
@@ -412,7 +412,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "CAMBUSLANG-GREENLEES-FILTERS",
         "county": "Lanarkshire",
         "gridref": "NS640590",
@@ -433,7 +433,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "CAMPS-RESERVOIR-NO-THREE",
         "county": "Lanarkshire",
         "gridref": "NS9976922610",
@@ -454,7 +454,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "CARLUKE",
         "county": "Lanarkshire",
         "gridref": "NS8449150293",
@@ -475,7 +475,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "CARLUKE",
         "county": "Lanarkshire",
         "gridref": "NS841506",
@@ -496,7 +496,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "CARLUKE-COLDSTREAM-RES",
         "county": "Lanarkshire",
         "gridref": "NS874498",
@@ -517,7 +517,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "CARLUKE-GAIR-RES",
         "county": "Lanarkshire",
         "gridref": "NS857535",
@@ -538,7 +538,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "CARLUKE-LAW-JUNCTION",
         "county": "Lanarkshire",
         "gridref": "NS8158452207",
@@ -559,7 +559,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "CARLUKE-MAULDSLIE-CASTLE",
         "county": "Lanarkshire",
         "gridref": "NS807504",
@@ -580,7 +580,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "CARLUKE-SPRINGFIELD-RES",
         "county": "Lanarkshire",
         "gridref": "NS906520",
@@ -601,7 +601,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "CARMICHAEL-HOUSE",
         "county": "Lanarkshire",
         "gridref": "NS9365438951",
@@ -622,7 +622,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "CARMUNNOCK-CARNBOOTH",
         "county": "Lanarkshire",
         "gridref": "NS58985730",
@@ -643,7 +643,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "CARMUNNOCK-WATERWORKS",
         "county": "Lanarkshire",
         "gridref": "NS608574",
@@ -664,7 +664,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "CARNWATH",
         "county": "Lanarkshire",
         "gridref": "NS9759146446",
@@ -685,7 +685,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "CARNWATH",
         "county": "Lanarkshire",
         "gridref": "NS980462",
@@ -706,7 +706,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "CHRYSTON-SCHOOLHOUSE",
         "county": "Lanarkshire",
         "gridref": "NS684699",
@@ -727,7 +727,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "CLEGHORN",
         "county": "Lanarkshire",
         "gridref": "NS898460",
@@ -748,7 +748,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "COATBRIDGE",
         "county": "Lanarkshire",
         "gridref": "NS712643",
@@ -769,7 +769,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "COATBRIDGE-DUNBETH-PUBLIC-PARK",
         "county": "Lanarkshire",
         "gridref": "NS743654",
@@ -790,7 +790,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "COATBRIDGE-LOCHWOOD",
         "county": "Lanarkshire",
         "gridref": "NS6939766749",
@@ -811,7 +811,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "COATBRIDGE-WEST-END-PARK",
         "county": "Lanarkshire",
         "gridref": "NS717638",
@@ -832,7 +832,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "COATBRIDGE-WHIFFLET-PUBLIC-PARK",
         "county": "Lanarkshire",
         "gridref": "NS740637",
@@ -853,7 +853,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "COATBRIDGE-WOODSIDE-HOUSE",
         "county": "Lanarkshire",
         "gridref": "NS7194564066",
@@ -874,7 +874,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "COULTER-RES",
         "county": "Lanarkshire",
         "gridref": "NT0452927036",
@@ -895,7 +895,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "COULTER-RES",
         "county": "Lanarkshire",
         "gridref": "NT036275",
@@ -916,7 +916,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "COULTER-RES",
         "county": "Lanarkshire",
         "gridref": "NT037275",
@@ -937,7 +937,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "CRAWFORD-CAMPS-RES",
         "county": "Lanarkshire",
         "gridref": "NS997226",
@@ -958,7 +958,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "CRAWFORD-CAMPS-RES",
         "county": "Lanarkshire",
         "gridref": "NT0349522183",
@@ -979,7 +979,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "CRAWFORD-CAMPS-RES-HILLSHAW",
         "county": "Lanarkshire",
         "gridref": "NT042252",
@@ -1000,7 +1000,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "CRAWFORD-CAMPS-RES-KNEESEND",
         "county": "Lanarkshire",
         "gridref": "NT013225",
@@ -1021,7 +1021,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "CRAWFORD-CAMPS-RES-PEAT-RIG",
         "county": "Lanarkshire",
         "gridref": "NT013209",
@@ -1042,7 +1042,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "CRAWFORD-CAMPS-RES-RISINGCLAW",
         "county": "Lanarkshire",
         "gridref": "NT036199",
@@ -1063,7 +1063,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "CRAWFORD-CAMPS-RES-WHITECAMP",
         "county": "Lanarkshire",
         "gridref": "NT029214",
@@ -1084,7 +1084,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "DAER-CROOKBURN",
         "county": "Lanarkshire",
         "gridref": "NS966056",
@@ -1105,7 +1105,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "DAER-DAERHEAD",
         "county": "Lanarkshire",
         "gridref": "NS964030",
@@ -1126,7 +1126,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "DAER-GARLS-CRAIG",
         "county": "Lanarkshire",
         "gridref": "NS976092",
@@ -1147,7 +1147,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "DAER-HITTERIL",
         "county": "Lanarkshire",
         "gridref": "NS963099",
@@ -1168,7 +1168,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "DAER-KIRKHOPE",
         "county": "Lanarkshire",
         "gridref": "NS9696206744",
@@ -1189,7 +1189,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "DAER-KIRKHOPE",
         "county": "Lanarkshire",
         "gridref": "NS963055",
@@ -1210,7 +1210,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "DAER-KIRKHOPE-CLEUCH",
         "county": "Lanarkshire",
         "gridref": "NS954069",
@@ -1231,7 +1231,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "DAER-LAMB-SIKE",
         "county": "Lanarkshire",
         "gridref": "NS978044",
@@ -1252,7 +1252,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "DAER-LOWER-CARSEHOPE",
         "county": "Lanarkshire",
         "gridref": "NS963048",
@@ -1273,7 +1273,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "DAER-SWEETSHAW-BURN",
         "county": "Lanarkshire",
         "gridref": "NS983090",
@@ -1294,7 +1294,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "DAER-SWEETSHAWHEAD",
         "county": "Lanarkshire",
         "gridref": "NS984089",
@@ -1315,7 +1315,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "DAER-THICK-CLEUCH",
         "county": "Lanarkshire",
         "gridref": "NS952021",
@@ -1336,7 +1336,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "DAER-UPPER-CARSEHOPE",
         "county": "Lanarkshire",
         "gridref": "NS939040",
@@ -1357,7 +1357,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "DAER-WHITEBURN",
         "county": "Lanarkshire",
         "gridref": "NS997060",
@@ -1378,7 +1378,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "DALZELL-HOUSE",
         "county": "Lanarkshire",
         "gridref": "NS759550",
@@ -1399,7 +1399,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "DOUGLAS-MONKSFOOT",
         "county": "Lanarkshire",
         "gridref": "NS787285",
@@ -1420,7 +1420,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "DOUGLAS-NEWMAINS",
         "county": "Lanarkshire",
         "gridref": "NS848314",
@@ -1441,7 +1441,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "ELVANFOOT-PEDEN-RES",
         "county": "Lanarkshire",
         "gridref": "NS9406612434",
@@ -1462,7 +1462,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "ELVANFOOT-PEDEN-RES",
         "county": "Lanarkshire",
         "gridref": "NS942123",
@@ -1483,7 +1483,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "ELVANFOOT-POTRENICK-BURN",
         "county": "Lanarkshire",
         "gridref": "NS934101",
@@ -1504,7 +1504,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "GARTCOSH-GARTLOCH-HOSPITAL",
         "county": "Lanarkshire",
         "gridref": "NS681669",
@@ -1525,7 +1525,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "GILMOURTON-AVONDALE",
         "county": "Lanarkshire",
         "gridref": "NS6574640114",
@@ -1546,7 +1546,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "GLASGOW-ALEXANDRA-PARK",
         "county": "Lanarkshire",
         "gridref": "NS617658",
@@ -1567,7 +1567,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "GLASGOW-BELLAHOUSTON-PARK",
         "county": "Lanarkshire",
         "gridref": "NS551638",
@@ -1588,7 +1588,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "GLASGOW-BELVEDERE-HOSPITAL",
         "county": "Lanarkshire",
         "gridref": "NS624636",
@@ -1609,7 +1609,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "GLASGOW-BOTANIC-GDNS",
         "county": "Lanarkshire",
         "gridref": "NS568675",
@@ -1630,7 +1630,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "GLASGOW-CESSNOCK-PARK",
         "county": "Lanarkshire",
         "gridref": "NS564648",
@@ -1651,7 +1651,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "GLASGOW-DUMBRECK",
         "county": "Lanarkshire",
         "gridref": "NS5542163951",
@@ -1672,7 +1672,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "GLASGOW-ELDER-PARK",
         "county": "Lanarkshire",
         "gridref": "NS543658",
@@ -1693,7 +1693,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "GLASGOW-GEORGE-SQUARE",
         "county": "Lanarkshire",
         "gridref": "NS592653",
@@ -1714,7 +1714,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "GLASGOW-GREEN",
         "county": "Lanarkshire",
         "gridref": "NS599645",
@@ -1735,7 +1735,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "GLASGOW-KELVINGROVE-PARK",
         "county": "Lanarkshire",
         "gridref": "NS572666",
@@ -1756,7 +1756,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "GLASGOW-LINN-PARK",
         "county": "Lanarkshire",
         "gridref": "NS582592",
@@ -1777,7 +1777,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "GLASGOW-MACFARLANE-OBSERVATORY",
         "county": "Lanarkshire",
         "gridref": "NS59876515",
@@ -1798,7 +1798,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "GLASGOW-MAXWELL-DRIVE",
         "county": "Lanarkshire",
         "gridref": "NS5708463725",
@@ -1819,7 +1819,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "GLASGOW-MEADOW-BANK",
         "county": "Lanarkshire",
         "gridref": "NS6897260721",
@@ -1840,7 +1840,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "GLASGOW-OBSERVATORY",
         "county": "Lanarkshire",
         "gridref": "NS562674",
@@ -1861,7 +1861,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "GLASGOW-OSO",
         "county": "Lanarkshire",
         "gridref": "NS5707167404",
@@ -1882,7 +1882,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "GLASGOW-RIDDRIE",
         "county": "Lanarkshire",
         "gridref": "NS6279266423",
@@ -1903,7 +1903,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "GLASGOW-RUCHILL-PARK",
         "county": "Lanarkshire",
         "gridref": "NS578684",
@@ -1924,7 +1924,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "GLASGOW-RUTHERGLEN",
         "county": "Lanarkshire",
         "gridref": "NS603608",
@@ -1945,7 +1945,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "GLASGOW-SPRINGBURN-PARK",
         "county": "Lanarkshire",
         "gridref": "NS610685",
@@ -1966,7 +1966,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "GLASGOW-ST-GEORGES-ROAD",
         "county": "Lanarkshire",
         "gridref": "NS5815766442",
@@ -1987,7 +1987,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "GLASGOW-THOMSON",
         "county": "Lanarkshire",
         "gridref": "NS5632867387",
@@ -2008,7 +2008,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "GLASGOW-TOLLCROSS-PARK",
         "county": "Lanarkshire",
         "gridref": "NS639638",
@@ -2029,7 +2029,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "GLASGOW-UNIVERSITY",
         "county": "Lanarkshire",
         "gridref": "NS5680366645",
@@ -2050,7 +2050,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "GLASGOW-VICTORIA-PARK",
         "county": "Lanarkshire",
         "gridref": "NS543673",
@@ -2071,7 +2071,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "HAMILTON-ARDENCLUTHA",
         "county": "Lanarkshire",
         "gridref": "NS709555",
@@ -2092,7 +2092,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "HAMILTON-ARDENCLUTHA",
         "county": "Lanarkshire",
         "gridref": "NS708545",
@@ -2113,7 +2113,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "HAMILTON-WELLHALL-ROAD",
         "county": "Lanarkshire",
         "gridref": "NS7186354520",
@@ -2134,7 +2134,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "HAMILTON-WELLHALL-ROAD",
         "county": "Lanarkshire",
         "gridref": "NS7103855591",
@@ -2155,7 +2155,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "HAMILTON-WELLHALL-ROAD",
         "county": "Lanarkshire",
         "gridref": "NS7072455894",
@@ -2176,7 +2176,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "HAMILTON-WOODLEA",
         "county": "Lanarkshire",
         "gridref": "NS7178256305",
@@ -2197,7 +2197,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "HAMILTON-WW-TOWNHILL",
         "county": "Lanarkshire",
         "gridref": "NS694546",
@@ -2218,7 +2218,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "LAMINGTON",
         "county": "Lanarkshire",
         "gridref": "NS981309",
@@ -2239,7 +2239,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "LAMINGTON-COWGILL-RES",
         "county": "Lanarkshire",
         "gridref": "NT009288",
@@ -2260,7 +2260,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "LANARK-BARONALD",
         "county": "Lanarkshire",
         "gridref": "NS8721944526",
@@ -2281,7 +2281,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "LANARK-FENCE",
         "county": "Lanarkshire",
         "gridref": "NS8061945915",
@@ -2302,7 +2302,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "LANARK-RHYBER-LODGE",
         "county": "Lanarkshire",
         "gridref": "NS883442",
@@ -2323,7 +2323,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "LANARK-RIDGE-PARK",
         "county": "Lanarkshire",
         "gridref": "NS8771244486",
@@ -2344,7 +2344,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "LANARK-SUNNYSIDE",
         "county": "Lanarkshire",
         "gridref": "NS8637244042",
@@ -2365,7 +2365,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "LEADHILLS-LANARK",
         "county": "Lanarkshire",
         "gridref": "NS886151",
@@ -2386,7 +2386,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "LEADHILLS-LANARK",
         "county": "Lanarkshire",
         "gridref": "NS888153",
@@ -2407,7 +2407,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "LESMAHAGOW-AUCHTYFARDLE",
         "county": "Lanarkshire",
         "gridref": "NS8181641079",
@@ -2428,7 +2428,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "MOTHERWELL-ELVAN-STREET",
         "county": "Lanarkshire",
         "gridref": "NS7466556847",
@@ -2449,7 +2449,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "MOTHERWELL-MURDOSTOUN-CASTLE",
         "county": "Lanarkshire",
         "gridref": "NS825573",
@@ -2470,7 +2470,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "ROUGHRIGG-RES",
         "county": "Lanarkshire",
         "gridref": "NS804639",
@@ -2491,7 +2491,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "ROUGHRIGG-RES",
         "county": "Lanarkshire",
         "gridref": "NS804641",
@@ -2512,7 +2512,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "SHOTTS-RES",
         "county": "Lanarkshire",
         "gridref": "NS8808461299",
@@ -2533,7 +2533,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "STONEBYRES-WEIR",
         "county": "Lanarkshire",
         "gridref": "NS8532144065",
@@ -2554,7 +2554,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "STONEHOUSE-GLASSFORD-FILTERS",
         "county": "Lanarkshire",
         "gridref": "NS708479",
@@ -2575,7 +2575,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "STONEHOUSE-SANATORIUM",
         "county": "Lanarkshire",
         "gridref": "NS747460",
@@ -2596,7 +2596,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "STRATHAVEN-DUNGAVEL",
         "county": "Lanarkshire",
         "gridref": "NS657372",
@@ -2617,7 +2617,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "STRATHAVEN-DUNSIDE-RES",
         "county": "Lanarkshire",
         "gridref": "NS748373",
@@ -2638,7 +2638,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "STRATHAVEN-DUNSIDE-RES",
         "county": "Lanarkshire",
         "gridref": "NS748372",
@@ -2659,7 +2659,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "STRATHAVEN-EAST-OVERTON-HOUSE",
         "county": "Lanarkshire",
         "gridref": "NS709451",
@@ -2680,7 +2680,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "STRATHAVEN-GLENGAVEL-RES",
         "county": "Lanarkshire",
         "gridref": "NS663350",
@@ -2701,7 +2701,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "STRATHAVEN-GLENGAVEL-RES",
         "county": "Lanarkshire",
         "gridref": "NS663351",
@@ -2722,7 +2722,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "STRATHAVEN-KYPE",
         "county": "Lanarkshire",
         "gridref": "NS735387",
@@ -2743,7 +2743,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "SYMINGTON-BIRKWOOD",
         "county": "Lanarkshire",
         "gridref": "NS9958535698",
@@ -2764,7 +2764,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "TINTO-HILLS-LOCH-LYOCH-RES",
         "county": "Lanarkshire",
         "gridref": "NS932357",
@@ -2785,7 +2785,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "WISHAW",
         "county": "Lanarkshire",
         "gridref": "NS7992955270",
@@ -2806,7 +2806,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "WISHAW",
         "county": "Lanarkshire",
         "gridref": "NS7984555212",
@@ -2827,7 +2827,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "WISHAW-CORONATION-STREET",
         "county": "Lanarkshire",
         "gridref": "NS810552",

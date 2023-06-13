@@ -13,7 +13,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "ABERLOUR-MIX",
         "county": "Banffshire",
         "gridref": "NJ271430",
@@ -34,7 +34,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "BALLINDALLOCK",
         "county": "Banffshire",
         "gridref": "NJ185369",
@@ -55,7 +55,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "BANFF-CASTLE",
         "county": "Banffshire",
         "gridref": "NJ6884063767",
@@ -76,7 +76,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "BANFF-CASTLE",
         "county": "Banffshire",
         "gridref": "NJ6893864189",
@@ -97,7 +97,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "BANFF-MIX",
         "county": "Banffshire",
         "gridref": "NJ686635",
@@ -118,7 +118,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "BANFF-MIX",
         "county": "Banffshire",
         "gridref": "NJ691633",
@@ -139,7 +139,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "BANFF-MIX",
         "county": "Banffshire",
         "gridref": "NJ684638",
@@ -160,7 +160,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "BOYNDIE-WHITEHILLS",
         "county": "Banffshire",
         "gridref": "NJ6554265172",
@@ -181,7 +181,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "BUCKIE-CHURCH-STREET",
         "county": "Banffshire",
         "gridref": "NJ4245465532",
@@ -202,7 +202,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "BUCKIE-ROCHOMIE",
         "county": "Banffshire",
         "gridref": "NJ442632",
@@ -223,7 +223,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "CABRACH-MANSE",
         "county": "Banffshire",
         "gridref": "NJ3863926926",
@@ -244,7 +244,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "CRAIGELLACHIE",
         "county": "Banffshire",
         "gridref": "NJ290451",
@@ -265,7 +265,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "CULLEN-HOUSE",
         "county": "Banffshire",
         "gridref": "NJ503656",
@@ -286,7 +286,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "DAILUAINE-HOUSE",
         "county": "Banffshire",
         "gridref": "NJ2352440987",
@@ -307,7 +307,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "DRUMMUIR-CASTLE",
         "county": "Banffshire",
         "gridref": "NJ372441",
@@ -328,7 +328,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "DUFFTOWN-MIX",
         "county": "Banffshire",
         "gridref": "NJ3259939910",
@@ -349,7 +349,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "DUFFTOWN-MIX",
         "county": "Banffshire",
         "gridref": "NJ3300139693",
@@ -370,7 +370,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "DUFFTOWN-MIX",
         "county": "Banffshire",
         "gridref": "NJ2790033711",
@@ -391,7 +391,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "DUFFTOWN-MIX",
         "county": "Banffshire",
         "gridref": "NJ326399",
@@ -412,7 +412,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "EASTERFIELD-SCHOOL",
         "county": "Banffshire",
         "gridref": "NJ654454",
@@ -433,7 +433,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "GAMRIE-CLENTERTY-PUBLIC-SCHOOL",
         "county": "Banffshire",
         "gridref": "NJ7748060951",
@@ -454,7 +454,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "GLENLIVET-CLASHNOIR",
         "county": "Banffshire",
         "gridref": "NJ223222",
@@ -475,7 +475,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "KEITH-ISLA-BANK-MILLS",
         "county": "Banffshire",
         "gridref": "NJ4289251424",
@@ -496,7 +496,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "KEITH-STATION",
         "county": "Banffshire",
         "gridref": "NJ430517",
@@ -517,7 +517,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "MAYEN-HOUSE",
         "county": "Banffshire",
         "gridref": "NJ5800247825",
@@ -538,7 +538,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "MILLTOWN-ROTHIEMAY-CASTLE",
         "county": "Banffshire",
         "gridref": "NJ5549248528",
@@ -559,7 +559,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "TOMINTOUL",
         "county": "Banffshire",
         "gridref": "NJ1668918751",
@@ -580,7 +580,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "TOMINTOUL",
         "county": "Banffshire",
         "gridref": "NJ1673119135",
@@ -601,7 +601,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "TOMINTOUL-INCHRORY",
         "county": "Banffshire",
         "gridref": "NJ1789408095",
@@ -622,7 +622,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "TURRIFF-FORGLEN-GDNS",
         "county": "Banffshire",
         "gridref": "NJ699519",

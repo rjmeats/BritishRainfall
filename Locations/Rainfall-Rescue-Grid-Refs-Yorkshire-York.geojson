@@ -13,7 +13,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "YORK-BISHOPTHORPE-ROAD",
         "county": "Yorkshire York",
         "gridref": "SE599498",
@@ -34,7 +34,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "YORK-BOOTHAM",
         "county": "Yorkshire York",
         "gridref": "SE600525",
@@ -55,7 +55,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "YORK-BURTON-CROFT",
         "county": "Yorkshire York",
         "gridref": "SE597529",
@@ -76,7 +76,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "YORK-CHALFONTS",
         "county": "Yorkshire York",
         "gridref": "SE589501",
@@ -97,7 +97,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "YORK-CHERRY-HILL",
         "county": "Yorkshire York",
         "gridref": "SE603512",
@@ -118,7 +118,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "YORK-CONEY-STREET",
         "county": "Yorkshire York",
         "gridref": "SE602518",
@@ -139,7 +139,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "YORK-HEWORTH",
         "county": "Yorkshire York",
         "gridref": "SE620525",
@@ -160,7 +160,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "YORK-MUSEUM",
         "county": "Yorkshire York",
         "gridref": "SE599521",
@@ -181,7 +181,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "YORK-THE-RETREAT",
         "county": "Yorkshire York",
         "gridref": "SE615508",
@@ -202,7 +202,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "YORK-THE-RETREAT",
         "county": "Yorkshire York",
         "gridref": "SE614509",

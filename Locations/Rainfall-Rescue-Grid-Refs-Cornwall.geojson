@@ -13,7 +13,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "ALBASTON-NANAIMO-HOUSE",
         "county": "Cornwall",
         "gridref": "SX422704",
@@ -34,7 +34,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "BODMIN-CASTLE-HILL-HOUSE",
         "county": "Cornwall",
         "gridref": "SX077674",
@@ -55,7 +55,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "BODMIN-CASTLE-ST",
         "county": "Cornwall",
         "gridref": "SX073671",
@@ -76,7 +76,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "BODMIN-FORE-ST",
         "county": "Cornwall",
         "gridref": "SX069670",
@@ -97,7 +97,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "BODMIN-LANHYDROCK",
         "county": "Cornwall",
         "gridref": "SX081635",
@@ -118,7 +118,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "BODMIN-LANHYDROCK",
         "county": "Cornwall",
         "gridref": "SX075673",
@@ -139,7 +139,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "BODMIN-POLGWIN",
         "county": "Cornwall",
         "gridref": "SX071669",
@@ -160,7 +160,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "BODMIN-POLGWIN",
         "county": "Cornwall",
         "gridref": "SX074672",
@@ -181,7 +181,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "BODMIN-ST-WENN-VICARAGE",
         "county": "Cornwall",
         "gridref": "SW968648",
@@ -202,7 +202,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "BODMIN-WARLEGGAN",
         "county": "Cornwall",
         "gridref": "SX155690",
@@ -223,7 +223,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "BOLVENTOR-VICARAGE",
         "county": "Cornwall",
         "gridref": "SX180766",
@@ -244,7 +244,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "BOSAHAN",
         "county": "Cornwall",
         "gridref": "SW769259",
@@ -265,7 +265,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "BOSPORTHENIS-NEW-MILL",
         "county": "Cornwall",
         "gridref": "SW454347",
@@ -286,7 +286,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "BOSSINEY",
         "county": "Cornwall",
         "gridref": "SX064889",
@@ -307,7 +307,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "BOYTON-DITCHEN",
         "county": "Cornwall",
         "gridref": "SX309947",
@@ -328,7 +328,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "BUDE",
         "county": "Cornwall",
         "gridref": "SS207062",
@@ -349,7 +349,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "BUDE-BRAMBLE-HILL",
         "county": "Cornwall",
         "gridref": "SS211064",
@@ -370,7 +370,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "BUDE-BRAMBLE-HILL",
         "county": "Cornwall",
         "gridref": "SS212072",
@@ -391,7 +391,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "CALLINGTON-CHURCH-STREET",
         "county": "Cornwall",
         "gridref": "SX359696",
@@ -412,7 +412,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "CALLINGTON-DRAKEWALLS-PLACE",
         "county": "Cornwall",
         "gridref": "SX422708",
@@ -433,7 +433,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "CALLINGTON-HINGSTON-DOWN",
         "county": "Cornwall",
         "gridref": "SX366705",
@@ -454,7 +454,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "CALLINGTON-MOUNT-LODGE",
         "county": "Cornwall",
         "gridref": "SX386697",
@@ -475,7 +475,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "CALLINGTON-PENCREBAR",
         "county": "Cornwall",
         "gridref": "SX354683",
@@ -496,7 +496,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "CAMBORNE-RECTORY",
         "county": "Cornwall",
         "gridref": "SW644399",
@@ -517,7 +517,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "CAMBORNE-REDBROOK-RD",
         "county": "Cornwall",
         "gridref": "SW654404",
@@ -538,7 +538,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "CAMBORNE-REDBROOK-RD",
         "county": "Cornwall",
         "gridref": "SW651396",
@@ -559,7 +559,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "CAMBORNE-ROSEWARNE",
         "county": "Cornwall",
         "gridref": "SW643412",
@@ -580,7 +580,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "CAMBORNE-UNION-STREET",
         "county": "Cornwall",
         "gridref": "SW648400",
@@ -601,7 +601,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "CAMBORNE-UPLANDS",
         "county": "Cornwall",
         "gridref": "SW629413",
@@ -622,7 +622,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "CAMELFORD-ADVENT",
         "county": "Cornwall",
         "gridref": "SX135832",
@@ -643,7 +643,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "CAMELFORD-ADVENT",
         "county": "Cornwall",
         "gridref": "SX127832",
@@ -664,7 +664,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "CAMELFORD-LANTEGLOS-RECTORY",
         "county": "Cornwall",
         "gridref": "SX089823",
@@ -685,7 +685,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "CAMELFORD-ROUGHTOR-VIEW",
         "county": "Cornwall",
         "gridref": "SX104832",
@@ -706,7 +706,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "CAMELFORD-STANNON-CLAY-WORKS",
         "county": "Cornwall",
         "gridref": "SX128809",
@@ -727,7 +727,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "CONSTANTINE-BAY",
         "county": "Cornwall",
         "gridref": "SW868745",
@@ -748,7 +748,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "CONSTANTINE-PONS-A-VERRAN",
         "county": "Cornwall",
         "gridref": "SW754277",
@@ -769,7 +769,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "CORNWALL-NEWTON-FERRERS",
         "county": "Cornwall",
         "gridref": "SX352660",
@@ -790,7 +790,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "CRACKINGTON-HAVEN",
         "county": "Cornwall",
         "gridref": "SX143969",
@@ -811,7 +811,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "CROWAN-BOSWYN-RES",
         "county": "Cornwall",
         "gridref": "SW660362",
@@ -832,7 +832,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "CULDROSE-RN-AIR-STATION",
         "county": "Cornwall",
         "gridref": "SW677252",
@@ -853,7 +853,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "DELABOLE",
         "county": "Cornwall",
         "gridref": "SX075835",
@@ -874,7 +874,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "DEVONPORT-CREMYLL",
         "county": "Cornwall",
         "gridref": "SX453534",
@@ -895,7 +895,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "DEVONPORT-EMPACOMBE",
         "county": "Cornwall",
         "gridref": "SX446529",
@@ -916,7 +916,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "DEVORAN-DEVORAN-HOUSE",
         "county": "Cornwall",
         "gridref": "SW794396",
@@ -937,7 +937,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "DEVORAN-DEVORAN-HOUSE",
         "county": "Cornwall",
         "gridref": "SW793392",
@@ -958,7 +958,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "DOWNDERRY-THE-WATCH-HOUSE",
         "county": "Cornwall",
         "gridref": "SX314541",
@@ -979,7 +979,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "EAST-LOOE",
         "county": "Cornwall",
         "gridref": "SX255535",
@@ -1000,7 +1000,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "EGLOSKERRY-TREGEARE",
         "county": "Cornwall",
         "gridref": "SX243864",
@@ -1021,7 +1021,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "FALMOUTH-CARCLEW",
         "county": "Cornwall",
         "gridref": "SW789381",
@@ -1042,7 +1042,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "FALMOUTH-FLUSHING-TREFUSIS",
         "county": "Cornwall",
         "gridref": "SW848477",
@@ -1063,7 +1063,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "FALMOUTH-FLUSHING-TREFUSIS",
         "county": "Cornwall",
         "gridref": "SW815341",
@@ -1084,7 +1084,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "FALMOUTH-GYLLYNGVASE",
         "county": "Cornwall",
         "gridref": "SW807318",
@@ -1105,7 +1105,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "FALMOUTH-KIMBERLEY",
         "county": "Cornwall",
         "gridref": "SW803326",
@@ -1126,7 +1126,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "FALMOUTH-OBSERVATORY",
         "county": "Cornwall",
         "gridref": "SW802323",
@@ -1147,7 +1147,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "FALMOUTH-OBSERVATORY",
         "county": "Cornwall",
         "gridref": "SW807323",
@@ -1168,7 +1168,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "FALMOUTH-OBSERVATORY",
         "county": "Cornwall",
         "gridref": "SW806323",
@@ -1189,7 +1189,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "FALMOUTH-PENDENNIS-CASTLE",
         "county": "Cornwall",
         "gridref": "SW823319",
@@ -1210,7 +1210,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "FALMOUTH-ST-MAWES-PLACE",
         "county": "Cornwall",
         "gridref": "SW855320",
@@ -1231,7 +1231,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "FOWEY",
         "county": "Cornwall",
         "gridref": "SX123514",
@@ -1252,7 +1252,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "FOWEY-MENABILLY",
         "county": "Cornwall",
         "gridref": "SX098509",
@@ -1273,7 +1273,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "FOWEY-TORFREY",
         "county": "Cornwall",
         "gridref": "SX115548",
@@ -1294,7 +1294,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "GORRAN-HAVEN-LAMLEDRA",
         "county": "Cornwall",
         "gridref": "SX011411",
@@ -1315,7 +1315,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "GRAMPOUND-HELIGAN",
         "county": "Cornwall",
         "gridref": "SW999465",
@@ -1336,7 +1336,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "GULVAL-EXPERIMENTAL-STATION",
         "county": "Cornwall",
         "gridref": "SW486317",
@@ -1357,7 +1357,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "GUNNISLAKE-DELAWARE-SCHOOL",
         "county": "Cornwall",
         "gridref": "SX424708",
@@ -1378,7 +1378,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "GUNNISLAKE-DELAWARE-SCHOOL",
         "county": "Cornwall",
         "gridref": "SX423706",
@@ -1399,7 +1399,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "GUNNISLAKE-DELAWARE-SCHOOL",
         "county": "Cornwall",
         "gridref": "SX422707",
@@ -1420,7 +1420,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "GWENNAP-TREVINCE",
         "county": "Cornwall",
         "gridref": "SW737402",
@@ -1441,7 +1441,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "HALWIN-COUNCIL-SCHOOL",
         "county": "Cornwall",
         "gridref": "SW702339",
@@ -1462,7 +1462,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "HAYLE-GWYTHIAN-ROAD",
         "county": "Cornwall",
         "gridref": "SW582400",
@@ -1483,7 +1483,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "HAYLE-GWYTHIAN-ROAD",
         "county": "Cornwall",
         "gridref": "SW580396",
@@ -1504,7 +1504,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "HAYLE-ST-ERTH",
         "county": "Cornwall",
         "gridref": "SW543359",
@@ -1525,7 +1525,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "HELLAND-TREDETHY",
         "county": "Cornwall",
         "gridref": "SX061717",
@@ -1546,7 +1546,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "HELSTON",
         "county": "Cornwall",
         "gridref": "SW659275",
@@ -1567,7 +1567,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "HELSTON-TENDERAH",
         "county": "Cornwall",
         "gridref": "SW661280",
@@ -1588,7 +1588,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "JACOBSTOW-RECTORY",
         "county": "Cornwall",
         "gridref": "SX197958",
@@ -1609,7 +1609,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "LADOCK-PUMPING-STATION",
         "county": "Cornwall",
         "gridref": "SW892511",
@@ -1630,7 +1630,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "LANDS-END-ST-SENNEN",
         "county": "Cornwall",
         "gridref": "SW356258",
@@ -1651,7 +1651,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "LANDS-END-ST-SENNEN",
         "county": "Cornwall",
         "gridref": "SW356255",
@@ -1672,7 +1672,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "LAUNCESTON-ALTARNUN",
         "county": "Cornwall",
         "gridref": "SX223814",
@@ -1693,7 +1693,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "LAUNCESTON-HEXWORTHY",
         "county": "Cornwall",
         "gridref": "SX360810",
@@ -1714,7 +1714,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "LAUNCESTON-LANDUE",
         "county": "Cornwall",
         "gridref": "SX351797",
@@ -1735,7 +1735,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "LAUNCESTON-NORTH-HILL",
         "county": "Cornwall",
         "gridref": "SX264772",
@@ -1756,7 +1756,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "LAUNCESTON-NORTH-HILL",
         "county": "Cornwall",
         "gridref": "SX258776",
@@ -1777,7 +1777,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "LAUNCESTON-OLD-TREE-HOUSE",
         "county": "Cornwall",
         "gridref": "SX306842",
@@ -1798,7 +1798,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "LAUNCESTON-PENDRUCCOMBE",
         "county": "Cornwall",
         "gridref": "SX336840",
@@ -1819,7 +1819,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "LAUNCESTON-SOUTH-PETHERWIN",
         "county": "Cornwall",
         "gridref": "SX311822",
@@ -1840,7 +1840,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "LAUNCESTON-TAMAR-TERRACE",
         "county": "Cornwall",
         "gridref": "SX337842",
@@ -1861,7 +1861,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "LELANT-TREGILLY",
         "county": "Cornwall",
         "gridref": "SW544370",
@@ -1882,7 +1882,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "LELANT-TREGILLY",
         "county": "Cornwall",
         "gridref": "SW548375",
@@ -1903,7 +1903,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "LELANT-TREVETHOE-HOUSE",
         "county": "Cornwall",
         "gridref": "SW534369",
@@ -1924,7 +1924,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "LERRYN-LUCASTES",
         "county": "Cornwall",
         "gridref": "SX140570",
@@ -1945,7 +1945,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "LISKEARD-DEAN-TERRACE",
         "county": "Cornwall",
         "gridref": "SX247646",
@@ -1966,7 +1966,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "LISKEARD-LEWARNE",
         "county": "Cornwall",
         "gridref": "SX170652",
@@ -1987,7 +1987,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "LISKEARD-LITTLE-TRETHEW",
         "county": "Cornwall",
         "gridref": "SX280602",
@@ -2008,7 +2008,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "LISKEARD-PENMILDER",
         "county": "Cornwall",
         "gridref": "SX246633",
@@ -2029,7 +2029,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "LISKEARD-PENMILDER",
         "county": "Cornwall",
         "gridref": "SX244631",
@@ -2050,7 +2050,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "LISKEARD-ST-CLEER",
         "county": "Cornwall",
         "gridref": "SX252675",
@@ -2071,7 +2071,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "LISKEARD-ST-PINNOCK-RECTORY",
         "county": "Cornwall",
         "gridref": "SX199630",
@@ -2092,7 +2092,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "LISKEARD-TREDHOWR",
         "county": "Cornwall",
         "gridref": "SX257642",
@@ -2113,7 +2113,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "LISKEARD-TREVENTON",
         "county": "Cornwall",
         "gridref": "SX263659",
@@ -2134,7 +2134,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "LITTLE-PETHERICK-ST-PETROC",
         "county": "Cornwall",
         "gridref": "SW914722",
@@ -2155,7 +2155,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "LIZARD",
         "county": "Cornwall",
         "gridref": "SW707124",
@@ -2176,7 +2176,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "LIZARD",
         "county": "Cornwall",
         "gridref": "SW701119",
@@ -2197,7 +2197,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "LIZARD-TREGULLAS-HOUSE",
         "county": "Cornwall",
         "gridref": "SW704123",
@@ -2218,7 +2218,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "LOOE-BRAY",
         "county": "Cornwall",
         "gridref": "SX270574",
@@ -2239,7 +2239,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "LOOE-MORVAL",
         "county": "Cornwall",
         "gridref": "SX259566",
@@ -2260,7 +2260,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "LOOE-POLTEANA",
         "county": "Cornwall",
         "gridref": "SX232555",
@@ -2281,7 +2281,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "LOSTWITHIEL-LANWITHAN",
         "county": "Cornwall",
         "gridref": "SX110593",
@@ -2302,7 +2302,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "LOSTWITHIEL-THE-TERRACE",
         "county": "Cornwall",
         "gridref": "SX101597",
@@ -2323,7 +2323,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "LUDGVAN",
         "county": "Cornwall",
         "gridref": "SW505330",
@@ -2344,7 +2344,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "MAKER-VICARAGE",
         "county": "Cornwall",
         "gridref": "SX442518",
@@ -2365,7 +2365,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "MARAZION",
         "county": "Cornwall",
         "gridref": "SW526305",
@@ -2386,7 +2386,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "MARHAMCHURCH-WIDCOTE",
         "county": "Cornwall",
         "gridref": "SS215031",
@@ -2407,7 +2407,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "MAWGAN-PORTH-TRENANCE",
         "county": "Cornwall",
         "gridref": "SW852680",
@@ -2428,7 +2428,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "MAWNAN-ANCHORAGE",
         "county": "Cornwall",
         "gridref": "SW787275",
@@ -2449,7 +2449,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "MENHENIOT-COLDRENICK",
         "county": "Cornwall",
         "gridref": "SX299614",
@@ -2470,7 +2470,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "MEVAGISSEY",
         "county": "Cornwall",
         "gridref": "SX010450",
@@ -2491,7 +2491,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "MORWENSTOW-TONACOMBE-MANOR",
         "county": "Cornwall",
         "gridref": "SS209145",
@@ -2512,7 +2512,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "MORWENSTOW-VICARAGE",
         "county": "Cornwall",
         "gridref": "SS206154",
@@ -2533,7 +2533,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "MULLION-COUNCIL-SCHOOL",
         "county": "Cornwall",
         "gridref": "SW677189",
@@ -2554,7 +2554,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "MULLION-POLURRIAN-HOTEL",
         "county": "Cornwall",
         "gridref": "SW670186",
@@ -2575,7 +2575,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "NEWQUAY",
         "county": "Cornwall",
         "gridref": "SW801624",
@@ -2596,7 +2596,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "NEWQUAY",
         "county": "Cornwall",
         "gridref": "SW800628",
@@ -2617,7 +2617,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "NEWQUAY",
         "county": "Cornwall",
         "gridref": "SW811619",
@@ -2638,7 +2638,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "NEWQUAY-MOUNT-WISE",
         "county": "Cornwall",
         "gridref": "SW812613",
@@ -2659,7 +2659,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "NEWQUAY-RES",
         "county": "Cornwall",
         "gridref": "SW810612",
@@ -2680,7 +2680,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "NEWQUAY-TRESILLIAN-HOUSE",
         "county": "Cornwall",
         "gridref": "SW856584",
@@ -2701,7 +2701,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "NORTH-HILL-BASTREET",
         "county": "Cornwall",
         "gridref": "SX243765",
@@ -2722,7 +2722,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "NORTH-TAMERTON-DAVIES",
         "county": "Cornwall",
         "gridref": "SX314982",
@@ -2743,7 +2743,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "NORTH-TAMERTON-OGBEARE",
         "county": "Cornwall",
         "gridref": "SX302959",
@@ -2764,7 +2764,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "NORTH-TAMERTON-OGBEARE",
         "county": "Cornwall",
         "gridref": "SX303959",
@@ -2785,7 +2785,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "PADSTOW-BARRYS-LANE",
         "county": "Cornwall",
         "gridref": "SW917754",
@@ -2806,7 +2806,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "PADSTOW-THE-NOOK",
         "county": "Cornwall",
         "gridref": "SW917755",
@@ -2827,7 +2827,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "PADSTOW-THE-NOOK",
         "county": "Cornwall",
         "gridref": "SW914755",
@@ -2848,7 +2848,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "PAR-STATION-PENELLICK",
         "county": "Cornwall",
         "gridref": "SX096526",
@@ -2869,7 +2869,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "PENCALENICK-NEAR-TRURO",
         "county": "Cornwall",
         "gridref": "SW858453",
@@ -2890,7 +2890,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "PENCARROW",
         "county": "Cornwall",
         "gridref": "SX040710",
@@ -2911,7 +2911,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "PENRYN-ASHFIELD",
         "county": "Cornwall",
         "gridref": "SW793336",
@@ -2932,7 +2932,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "PENRYN-ENYS",
         "county": "Cornwall",
         "gridref": "SW793363",
@@ -2953,7 +2953,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "PENRYN-RES-ONE",
         "county": "Cornwall",
         "gridref": "SW777337",
@@ -2974,7 +2974,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "PENRYN-ROSKROW",
         "county": "Cornwall",
         "gridref": "SW758358",
@@ -2995,7 +2995,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "PENSILVA-PENLEE-LYNDHURST",
         "county": "Cornwall",
         "gridref": "SX294699",
@@ -3016,7 +3016,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "PENZANCE-COUNTY-SCHOOL",
         "county": "Cornwall",
         "gridref": "SW469309",
@@ -3037,7 +3037,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "PENZANCE-LOWER-LARIGGAN",
         "county": "Cornwall",
         "gridref": "SW464295",
@@ -3058,7 +3058,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "PENZANCE-MORRAB",
         "county": "Cornwall",
         "gridref": "SW471301",
@@ -3079,7 +3079,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "PENZANCE-MORRAB",
         "county": "Cornwall",
         "gridref": "SW474299",
@@ -3100,7 +3100,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "PENZANCE-MORRAB",
         "county": "Cornwall",
         "gridref": "SW470300",
@@ -3121,7 +3121,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "PENZANCE-MORRAB",
         "county": "Cornwall",
         "gridref": "SW471300",
@@ -3142,7 +3142,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "PENZANCE-MORRAB",
         "county": "Cornwall",
         "gridref": "SW474303",
@@ -3163,7 +3163,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "PENZANCE-POLTAIR",
         "county": "Cornwall",
         "gridref": "SW454315",
@@ -3184,7 +3184,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "PENZANCE-ROSEHILL",
         "county": "Cornwall",
         "gridref": "SW456305",
@@ -3205,7 +3205,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "PENZANCE-ST-CLAIR",
         "county": "Cornwall",
         "gridref": "SW465306",
@@ -3226,7 +3226,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "PENZANCE-TRENGWAINTON-HOUSE",
         "county": "Cornwall",
         "gridref": "SW445313",
@@ -3247,7 +3247,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "PENZANCE-TREVEAN",
         "county": "Cornwall",
         "gridref": "SW469302",
@@ -3268,7 +3268,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "PENZANCE-TREWIDDEN",
         "county": "Cornwall",
         "gridref": "SW443296",
@@ -3289,7 +3289,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "PHILLACK-RECTORY",
         "county": "Cornwall",
         "gridref": "SW565384",
@@ -3310,7 +3310,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "POLPERRO-TALLAND-HILL",
         "county": "Cornwall",
         "gridref": "SX208510",
@@ -3331,7 +3331,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "PORTHCURNO",
         "county": "Cornwall",
         "gridref": "SW385226",
@@ -3352,7 +3352,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "PORTHLEVEN",
         "county": "Cornwall",
         "gridref": "SW631261",
@@ -3373,7 +3373,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "PORTMELLON",
         "county": "Cornwall",
         "gridref": "SX018437",
@@ -3394,7 +3394,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "PROBUS-LAMELLYN",
         "county": "Cornwall",
         "gridref": "SW894482",
@@ -3415,7 +3415,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "RAME-RECTORY",
         "county": "Cornwall",
         "gridref": "SX426492",
@@ -3436,7 +3436,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "REDRUTH-GREEN-LANE-NURSERIES",
         "county": "Cornwall",
         "gridref": "SW698423",
@@ -3457,7 +3457,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "REDRUTH-TEHIDY",
         "county": "Cornwall",
         "gridref": "SW654434",
@@ -3478,7 +3478,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "REDRUTH-TOLVEAN",
         "county": "Cornwall",
         "gridref": "SW695419",
@@ -3499,7 +3499,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "REDRUTH-TREWIRGIE",
         "county": "Cornwall",
         "gridref": "SW696416",
@@ -3520,7 +3520,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "ROCHE-GLENCOE",
         "county": "Cornwall",
         "gridref": "SW984601",
@@ -3541,7 +3541,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "ROSCARROCK",
         "county": "Cornwall",
         "gridref": "SW986804",
@@ -3562,7 +3562,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "RUAN-MINOR",
         "county": "Cornwall",
         "gridref": "SW719146",
@@ -3583,7 +3583,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "RUAN-MINOR",
         "county": "Cornwall",
         "gridref": "SW720152",
@@ -3604,7 +3604,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "RUAN-MINOR-POLTESCO",
         "county": "Cornwall",
         "gridref": "SW723158",
@@ -3625,7 +3625,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "SITHNEY-COUNCIL-SCHOOL",
         "county": "Cornwall",
         "gridref": "SW636301",
@@ -3646,7 +3646,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "SITHNEY-TREGATHENEN-RES",
         "county": "Cornwall",
         "gridref": "SW655306",
@@ -3667,7 +3667,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "ST-AGNES-CHURCH-TOWN",
         "county": "Cornwall",
         "gridref": "SW721506",
@@ -3688,7 +3688,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "ST-AUSTELL-CHARLESTOWN-OLD-VIC",
         "county": "Cornwall",
         "gridref": "SX031521",
@@ -3709,7 +3709,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "ST-AUSTELL-COSGARNE",
         "county": "Cornwall",
         "gridref": "SX006521",
@@ -3730,7 +3730,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "ST-AUSTELL-POLCARNE",
         "county": "Cornwall",
         "gridref": "SX014521",
@@ -3751,7 +3751,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "ST-AUSTELL-POLTAIR-PUBLIC-GDNS",
         "county": "Cornwall",
         "gridref": "SX018525",
@@ -3772,7 +3772,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "ST-AUSTELL-ST-MEWAN",
         "county": "Cornwall",
         "gridref": "SW998518",
@@ -3793,7 +3793,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "ST-AUSTELL-TRETHURGY",
         "county": "Cornwall",
         "gridref": "SX042553",
@@ -3814,7 +3814,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "ST-AUSTELL-TREVARNA",
         "county": "Cornwall",
         "gridref": "SX020525",
@@ -3835,7 +3835,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "ST-AUSTELL-TREVARRICK",
         "county": "Cornwall",
         "gridref": "SX006526",
@@ -3856,7 +3856,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "ST-BREWARD-DE-LANK-FILTER-WORKS",
         "county": "Cornwall",
         "gridref": "SX132765",
@@ -3877,7 +3877,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "ST-CLEER-TREGARRIC",
         "county": "Cornwall",
         "gridref": "SX236708",
@@ -3898,7 +3898,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "ST-DAY-SCHOOL",
         "county": "Cornwall",
         "gridref": "SW731421",
@@ -3919,7 +3919,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "ST-DAY-SCHOOL",
         "county": "Cornwall",
         "gridref": "SW772431",
@@ -3940,7 +3940,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "ST-ENDELLION-PARK-VILLA",
         "county": "Cornwall",
         "gridref": "SW988792",
@@ -3961,7 +3961,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "ST-ENODER-RETYN",
         "county": "Cornwall",
         "gridref": "SW884586",
@@ -3982,7 +3982,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "ST-EVAL-AIRFIELD-MET-OFFICE",
         "county": "Cornwall",
         "gridref": "SW883681",
@@ -4003,7 +4003,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "ST-GERMANS-FAIRFIELD",
         "county": "Cornwall",
         "gridref": "SX358574",
@@ -4024,7 +4024,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "ST-IVES-BUSSOW-MOOR-RES",
         "county": "Cornwall",
         "gridref": "SW502390",
@@ -4045,7 +4045,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "ST-IVES-CEMETERY",
         "county": "Cornwall",
         "gridref": "SW515406",
@@ -4066,7 +4066,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "ST-IVES-HALSETOWN-VICARAGE",
         "county": "Cornwall",
         "gridref": "SW508401",
@@ -4087,7 +4087,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "ST-IVES-LISCORVAH",
         "county": "Cornwall",
         "gridref": "SW520392",
@@ -4108,7 +4108,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "ST-JOHNS-DEVONPORT",
         "county": "Cornwall",
         "gridref": "SX408538",
@@ -4129,7 +4129,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "ST-JUST",
         "county": "Cornwall",
         "gridref": "SW373314",
@@ -4150,7 +4150,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "ST-KEVERNE-LANARTH",
         "county": "Cornwall",
         "gridref": "SW768211",
@@ -4171,7 +4171,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "ST-KEVERNE-ROSUIC-COTTAGE",
         "county": "Cornwall",
         "gridref": "SW748209",
@@ -4192,7 +4192,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "ST-KEYNE-LOCRENTON",
         "county": "Cornwall",
         "gridref": "SX248602",
@@ -4213,7 +4213,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "ST-MARYS-COASTGUARD-STATION",
         "county": "Cornwall",
         "gridref": "SV900106",
@@ -4234,7 +4234,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "ST-MARYS-COASTGUARD-STATION",
         "county": "Cornwall",
         "gridref": "SV912120",
@@ -4255,7 +4255,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "ST-MARYS-COASTGUARD-STATION",
         "county": "Cornwall",
         "gridref": "SV905105",
@@ -4276,7 +4276,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "ST-MARYS-COASTGUARD-STATION",
         "county": "Cornwall",
         "gridref": "SV917114",
@@ -4297,7 +4297,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "ST-MAWES-LAWN-BANK",
         "county": "Cornwall",
         "gridref": "SW853330",
@@ -4318,7 +4318,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "ST-MAWGAN-AIRFIELD",
         "county": "Cornwall",
         "gridref": "SW872641",
@@ -4339,7 +4339,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "ST-MELLION-ELLBRIDGE",
         "county": "Cornwall",
         "gridref": "SX401632",
@@ -4360,7 +4360,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "ST-MELLION-PENTILLIE-CASTLE",
         "county": "Cornwall",
         "gridref": "SX410646",
@@ -4381,7 +4381,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "ST-MELLION-PENTILLIE-CASTLE",
         "county": "Cornwall",
         "gridref": "SX410645",
@@ -4402,7 +4402,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "ST-MELLION-RECTORY",
         "county": "Cornwall",
         "gridref": "SX388655",
@@ -4423,7 +4423,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "ST-MICHAELS-MOUNT",
         "county": "Cornwall",
         "gridref": "SW516300",
@@ -4444,7 +4444,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "ST-MINVER-LUNDY-BAY",
         "county": "Cornwall",
         "gridref": "SW965770",
@@ -4465,7 +4465,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "ST-MINVER-TREBETHERICK",
         "county": "Cornwall",
         "gridref": "SW930779",
@@ -4486,7 +4486,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "ST-PETROC-MINOR-PADSTOW",
         "county": "Cornwall",
         "gridref": "SW917721",
@@ -4507,7 +4507,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "ST-RUAN-RECTORY",
         "county": "Cornwall",
         "gridref": "SW716149",
@@ -4528,7 +4528,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "ST-STEPHEN-HENDRA-PUMPING-STATION",
         "county": "Cornwall",
         "gridref": "SW966518",
@@ -4549,7 +4549,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "ST-WENN-TREWOLLACK",
         "county": "Cornwall",
         "gridref": "SW967660",
@@ -4570,7 +4570,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "STOKE-CLIMSLAND-SCHOOL",
         "county": "Cornwall",
         "gridref": "SX360744",
@@ -4591,7 +4591,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "STRATTON-KILKHAMPTON-PENSTOWE",
         "county": "Cornwall",
         "gridref": "SS245111",
@@ -4612,7 +4612,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "STRATTON-POUGHILL-TRELANA",
         "county": "Cornwall",
         "gridref": "SS223076",
@@ -4633,7 +4633,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "STRATTON-POUGHILL-TRELANA",
         "county": "Cornwall",
         "gridref": "SS221081",
@@ -4654,7 +4654,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "STRATTON-WEEK-ST-MARY",
         "county": "Cornwall",
         "gridref": "SX237974",
@@ -4675,7 +4675,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "TINTAGEL",
         "county": "Cornwall",
         "gridref": "SX054889",
@@ -4696,7 +4696,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "TINTAGEL-KING-ARTHURS-CASTLE-HOTEL",
         "county": "Cornwall",
         "gridref": "SX054890",
@@ -4717,7 +4717,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "TORPOINT-TRETHILL-HOUSE",
         "county": "Cornwall",
         "gridref": "SX377544",
@@ -4738,7 +4738,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "TORPOINT-WILCOVE",
         "county": "Cornwall",
         "gridref": "SX432566",
@@ -4759,7 +4759,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "TREBETHERICK-PENDALEN",
         "county": "Cornwall",
         "gridref": "SW937772",
@@ -4780,7 +4780,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "TREGLINES-ST-MINVER",
         "county": "Cornwall",
         "gridref": "SW953783",
@@ -4801,7 +4801,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "TREGONY-TREWARTHENICK",
         "county": "Cornwall",
         "gridref": "SW903441",
@@ -4822,7 +4822,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "TRELIGHTS-GWEL-MOR",
         "county": "Cornwall",
         "gridref": "SW990790",
@@ -4843,7 +4843,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "TRESCO-ABBEY",
         "county": "Cornwall",
         "gridref": "SV896143",
@@ -4864,7 +4864,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "TRESCO-ROWESFIELD",
         "county": "Cornwall",
         "gridref": "SV899146",
@@ -4885,7 +4885,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "TREVONE-PENTONWARRA",
         "county": "Cornwall",
         "gridref": "SW890759",
@@ -4906,7 +4906,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "TRURO-AGAR-VILLA",
         "county": "Cornwall",
         "gridref": "SW830450",
@@ -4927,7 +4927,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "TRURO-ALVERTON",
         "county": "Cornwall",
         "gridref": "SW831451",
@@ -4948,7 +4948,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "TRURO-KILLIOW",
         "county": "Cornwall",
         "gridref": "SW807421",
@@ -4969,7 +4969,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "TRURO-PENARTH",
         "county": "Cornwall",
         "gridref": "SW837446",
@@ -4990,7 +4990,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "TRURO-PORTHGWIDDEN",
         "county": "Cornwall",
         "gridref": "SW823380",
@@ -5011,7 +5011,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "TRURO-ROYAL-INSTITUTION",
         "county": "Cornwall",
         "gridref": "SW823449",
@@ -5032,7 +5032,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "TRURO-ST-MICHAEL-PENKEVIL",
         "county": "Cornwall",
         "gridref": "SW867410",
@@ -5053,7 +5053,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "TRURO-STRANGWAYS-TERRACE",
         "county": "Cornwall",
         "gridref": "SW825444",
@@ -5074,7 +5074,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "TRURO-TREGOLLS",
         "county": "Cornwall",
         "gridref": "SW814450",
@@ -5095,7 +5095,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "TRURO-TREGOLLS",
         "county": "Cornwall",
         "gridref": "SW832448",
@@ -5116,7 +5116,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "TRURO-WW-LOWER-TREGURRA",
         "county": "Cornwall",
         "gridref": "SW847464",
@@ -5137,7 +5137,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "WADEBRIDGE-BRYN",
         "county": "Cornwall",
         "gridref": "SW993722",
@@ -5158,7 +5158,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "WADEBRIDGE-GUINEA-PORT",
         "county": "Cornwall",
         "gridref": "SW993720",
@@ -5179,7 +5179,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "WADEBRIDGE-ST-BREOCK",
         "county": "Cornwall",
         "gridref": "SW977718",
@@ -5200,7 +5200,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "WADEBRIDGE-ST-BREOCK",
         "county": "Cornwall",
         "gridref": "SX000719",
@@ -5221,7 +5221,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "WADEBRIDGE-ST-KEW",
         "county": "Cornwall",
         "gridref": "SX021770",
@@ -5242,7 +5242,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "WADEBRIDGE-TREHARROCK",
         "county": "Cornwall",
         "gridref": "SX017788",
@@ -5263,7 +5263,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "WADEBRIDGE-TREVANSON",
         "county": "Cornwall",
         "gridref": "SW978728",
@@ -5284,7 +5284,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "WADEBRIDGE-TREWORNAN",
         "county": "Cornwall",
         "gridref": "SW984744",
@@ -5305,7 +5305,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "WENDRON-BODERWENNACK",
         "county": "Cornwall",
         "gridref": "SW677306",
@@ -5326,7 +5326,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "WENDRON-NINE-MAIDENS",
         "county": "Cornwall",
         "gridref": "SW682365",
@@ -5347,7 +5347,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "WITHIEL-RECTORY",
         "county": "Cornwall",
         "gridref": "SW993652",
@@ -5368,7 +5368,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "ZELAH-CHYVERTON",
         "county": "Cornwall",
         "gridref": "SW805510",

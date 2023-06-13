@@ -13,7 +13,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "ACLE",
         "county": "Norfolk",
         "gridref": "TG399105",
@@ -34,7 +34,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "ACLE",
         "county": "Norfolk",
         "gridref": "TG400103",
@@ -55,7 +55,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "ACLE-LINGWOOD-LODGE",
         "county": "Norfolk",
         "gridref": "TG370089",
@@ -76,7 +76,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "ASHWELLTHORPE-TACOLNESTON-HALL",
         "county": "Norfolk",
         "gridref": "TM137955",
@@ -97,7 +97,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "ATTLEBOROUGH-BRECCLES-HALL",
         "county": "Norfolk",
         "gridref": "TL961945",
@@ -118,7 +118,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "ATTLEBOROUGH-QUIDENHAM-HALL",
         "county": "Norfolk",
         "gridref": "TM032876",
@@ -139,7 +139,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "AYLSHAM-BURGH-ROAD",
         "county": "Norfolk",
         "gridref": "TG195267",
@@ -160,7 +160,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "AYLSHAM-BURGH-ROAD",
         "county": "Norfolk",
         "gridref": "TG193268",
@@ -181,7 +181,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "AYLSHAM-BUXTON",
         "county": "Norfolk",
         "gridref": "TG233227",
@@ -202,7 +202,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "AYLSHAM-MILL-HOUSE",
         "county": "Norfolk",
         "gridref": "TG197274",
@@ -223,7 +223,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "AYLSHAM-THE-MOUNT",
         "county": "Norfolk",
         "gridref": "TG1891727110",
@@ -244,7 +244,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "AYLSHAM-WILDERNESS",
         "county": "Norfolk",
         "gridref": "TG1912627019",
@@ -265,7 +265,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "AYLSHAM-WILDERNESS",
         "county": "Norfolk",
         "gridref": "TG200279",
@@ -286,7 +286,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "AYLSHAM-WOODGATE",
         "county": "Norfolk",
         "gridref": "TG181259",
@@ -307,7 +307,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "AYLSHAM-WOODGATE",
         "county": "Norfolk",
         "gridref": "TG198273",
@@ -328,7 +328,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "BACONSTHORPE-RECTORY",
         "county": "Norfolk",
         "gridref": "TG128368",
@@ -349,7 +349,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "BECCLES-RAVENINGHAM-HALL",
         "county": "Norfolk",
         "gridref": "TM398966",
@@ -370,7 +370,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "BLAKENEY",
         "county": "Norfolk",
         "gridref": "TG025438",
@@ -391,7 +391,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "BLICKLING-RECTORY",
         "county": "Norfolk",
         "gridref": "TG179284",
@@ -412,7 +412,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "BROCKDISH-RECTORY",
         "county": "Norfolk",
         "gridref": "TM204796",
@@ -433,7 +433,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "BUCKENHAM-TOFTS-HALL",
         "county": "Norfolk",
         "gridref": "TL838947",
@@ -454,7 +454,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "BUNGAY-BROOME-RECTORY",
         "county": "Norfolk",
         "gridref": "TM349924",
@@ -475,7 +475,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "BURLINGHAM-HORTICULTURAL-STATION",
         "county": "Norfolk",
         "gridref": "TG373101",
@@ -496,7 +496,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "BURNHAM-MARKET",
         "county": "Norfolk",
         "gridref": "TF833422",
@@ -517,7 +517,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "BURNHAM-MARKET-SCHOOL-HOUSE",
         "county": "Norfolk",
         "gridref": "TF834423",
@@ -538,7 +538,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "BURNHAM-MARKET-SCHOOL-HOUSE",
         "county": "Norfolk",
         "gridref": "TF837427",
@@ -559,7 +559,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "BURNHAM-MARKET-WESTGATE",
         "county": "Norfolk",
         "gridref": "TF829420",
@@ -580,7 +580,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "BURNHAM-OVERY-NORFOLK",
         "county": "Norfolk",
         "gridref": "TF803420",
@@ -601,7 +601,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "BURNHAM-OVERY-NORFOLK",
         "county": "Norfolk",
         "gridref": "TF836436",
@@ -622,7 +622,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "BUXTON-SUNNYMEAD",
         "county": "Norfolk",
         "gridref": "TG228224",
@@ -643,7 +643,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "BYLAUGH-PARK",
         "county": "Norfolk",
         "gridref": "TG035189",
@@ -664,7 +664,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "CAISTER-HALL",
         "county": "Norfolk",
         "gridref": "TG503121",
@@ -685,7 +685,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "CANTLEY",
         "county": "Norfolk",
         "gridref": "TG381053",
@@ -706,7 +706,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "CARLETON-FOREHOE",
         "county": "Norfolk",
         "gridref": "TG091055",
@@ -727,7 +727,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "CASTON-FLAXMOOR",
         "county": "Norfolk",
         "gridref": "TL956975",
@@ -748,7 +748,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "CASTON-RECTORY",
         "county": "Norfolk",
         "gridref": "TL959977",
@@ -769,7 +769,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "CATSHOLM-PUMPING-STATION",
         "county": "Norfolk",
         "gridref": "TL683970",
@@ -790,7 +790,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "CAWSTON-NEW-STREET",
         "county": "Norfolk",
         "gridref": "TG134238",
@@ -811,7 +811,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "CLENCHWARTON",
         "county": "Norfolk",
         "gridref": "TF5894120300",
@@ -832,7 +832,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "CLENCHWARTON",
         "county": "Norfolk",
         "gridref": "TF6020120631",
@@ -853,7 +853,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "COCKTHORPE-OLD-HOUSE",
         "county": "Norfolk",
         "gridref": "TF983422",
@@ -874,7 +874,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "COLBY-SCHOOL",
         "county": "Norfolk",
         "gridref": "TG230295",
@@ -895,7 +895,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "COLTISHALL",
         "county": "Norfolk",
         "gridref": "TG274196",
@@ -916,7 +916,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "COLTISHALL",
         "county": "Norfolk",
         "gridref": "TG279197",
@@ -937,7 +937,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "COLTISHALL-AIRFIELD",
         "county": "Norfolk",
         "gridref": "TG261230",
@@ -958,7 +958,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "CROMER-COLNE-LODGE",
         "county": "Norfolk",
         "gridref": "TG218419",
@@ -979,7 +979,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "CROMER-HOLT-ROAD",
         "county": "Norfolk",
         "gridref": "TG204413",
@@ -1000,7 +1000,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "CROMER-HOWARDS-HILL",
         "county": "Norfolk",
         "gridref": "TG209420",
@@ -1021,7 +1021,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "CROMER-HOWARDS-HILL",
         "county": "Norfolk",
         "gridref": "TG209421",
@@ -1042,7 +1042,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "CROMER-NORTHREPPS",
         "county": "Norfolk",
         "gridref": "TG231399",
@@ -1063,7 +1063,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "CROMER-THE-WARREN",
         "county": "Norfolk",
         "gridref": "TG242404",
@@ -1084,7 +1084,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "DENTON-LODGE",
         "county": "Norfolk",
         "gridref": "TL7506791826",
@@ -1105,7 +1105,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "DENTON-LODGE",
         "county": "Norfolk",
         "gridref": "TL753920",
@@ -1126,7 +1126,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "DENTON-RECTORY",
         "county": "Norfolk",
         "gridref": "TM285874",
@@ -1147,7 +1147,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "DENVER",
         "county": "Norfolk",
         "gridref": "TF614016",
@@ -1168,7 +1168,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "DENVER",
         "county": "Norfolk",
         "gridref": "TF588010",
@@ -1189,7 +1189,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "DENVER",
         "county": "Norfolk",
         "gridref": "TF613022",
@@ -1210,7 +1210,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "DEREHAM-MATTISHALL",
         "county": "Norfolk",
         "gridref": "TG052110",
@@ -1231,7 +1231,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "DERSINGHAM",
         "county": "Norfolk",
         "gridref": "TF693307",
@@ -1252,7 +1252,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "DISS",
         "county": "Norfolk",
         "gridref": "TM118803",
@@ -1273,7 +1273,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "DISS-BRESSINGHAM-HALL",
         "county": "Norfolk",
         "gridref": "TM079805",
@@ -1294,7 +1294,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "DISS-DICKLEBURGH",
         "county": "Norfolk",
         "gridref": "TM171836",
@@ -1315,7 +1315,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "DISS-EARLY",
         "county": "Norfolk",
         "gridref": "TM115800",
@@ -1336,7 +1336,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "DISS-ROYDON-HALL",
         "county": "Norfolk",
         "gridref": "TM0933080547",
@@ -1357,7 +1357,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "DISS-ROYDON-HALL",
         "county": "Norfolk",
         "gridref": "TM0995180519",
@@ -1378,7 +1378,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "DISS-STEWART",
         "county": "Norfolk",
         "gridref": "TM117800",
@@ -1399,7 +1399,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "DISS-THE-CEDARS",
         "county": "Norfolk",
         "gridref": "TM118801",
@@ -1420,7 +1420,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "DITCHINGHAM",
         "county": "Norfolk",
         "gridref": "TM341906",
@@ -1441,7 +1441,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "DOWNHAM-GRANGE-CRIMPLESHAM",
         "county": "Norfolk",
         "gridref": "TF670032",
@@ -1462,7 +1462,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "DOWNHAM-GRANGE-CRIMPLESHAM",
         "county": "Norfolk",
         "gridref": "TL706995",
@@ -1483,7 +1483,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "DOWNHAM-HIGH-STREET",
         "county": "Norfolk",
         "gridref": "TF603032",
@@ -1504,7 +1504,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "DOWNHAM-HIGH-STREET",
         "county": "Norfolk",
         "gridref": "TF614032",
@@ -1525,7 +1525,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "DOWNHAM-MARKET-BEXWELL",
         "county": "Norfolk",
         "gridref": "TF631034",
@@ -1546,7 +1546,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "DOWNHAM-MARKET-DIAL-HOUSE",
         "county": "Norfolk",
         "gridref": "TF606031",
@@ -1567,7 +1567,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "DOWNHAM-MARKET-STRADSETT",
         "county": "Norfolk",
         "gridref": "TF670058",
@@ -1588,7 +1588,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "DRAYTON",
         "county": "Norfolk",
         "gridref": "TG180139",
@@ -1609,7 +1609,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "DRAYTON",
         "county": "Norfolk",
         "gridref": "TG182137",
@@ -1630,7 +1630,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "EAST-AND-WEST-RUDHAM",
         "county": "Norfolk",
         "gridref": "TF813280",
@@ -1651,7 +1651,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "EAST-AND-WEST-RUDHAM",
         "county": "Norfolk",
         "gridref": "TF828282",
@@ -1672,7 +1672,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "EAST-BILNEY-HALL",
         "county": "Norfolk",
         "gridref": "TF946196",
@@ -1693,7 +1693,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "EAST-DEREHAM-THE-LABORATORY",
         "county": "Norfolk",
         "gridref": "TF994132",
@@ -1714,7 +1714,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "EAST-DERHAM-MIX",
         "county": "Norfolk",
         "gridref": "TF986131",
@@ -1735,7 +1735,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "EAST-DERHAM-MIX",
         "county": "Norfolk",
         "gridref": "TF986135",
@@ -1756,7 +1756,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "EAST-WINCH-HOLLAND-HOUSE",
         "county": "Norfolk",
         "gridref": "TF691163",
@@ -1777,7 +1777,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "EDINGTHORPE-THE-WARREN",
         "county": "Norfolk",
         "gridref": "TG304311",
@@ -1798,7 +1798,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "EGMERE",
         "county": "Norfolk",
         "gridref": "TF907373",
@@ -1819,7 +1819,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "ELLINGHAM-BECCLES",
         "county": "Norfolk",
         "gridref": "TM3639591830",
@@ -1840,7 +1840,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "EMNETH",
         "county": "Norfolk",
         "gridref": "TF483070",
@@ -1861,7 +1861,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "ERPINGHAM-WOLTERTON-PARK",
         "county": "Norfolk",
         "gridref": "TG166316",
@@ -1882,7 +1882,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "FAKENHAM-COLKIRK",
         "county": "Norfolk",
         "gridref": "TF925266",
@@ -1903,7 +1903,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "FAKENHAM-CRANMER-HALL",
         "county": "Norfolk",
         "gridref": "TF886326",
@@ -1924,7 +1924,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "FAKENHAM-PENSTHORPE",
         "county": "Norfolk",
         "gridref": "TF946294",
@@ -1945,7 +1945,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "FAKENHAM-WELLS-ROAD",
         "county": "Norfolk",
         "gridref": "TF917298",
@@ -1966,7 +1966,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "FELTHORPE",
         "county": "Norfolk",
         "gridref": "TG165185",
@@ -1987,7 +1987,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "FIELD-DALLING",
         "county": "Norfolk",
         "gridref": "TG007392",
@@ -2008,7 +2008,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "FIELD-DALLING",
         "county": "Norfolk",
         "gridref": "TG086393",
@@ -2029,7 +2029,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "FILBY-NORWICH",
         "county": "Norfolk",
         "gridref": "TG469134",
@@ -2050,7 +2050,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "FINCHAM-DOWNHAM-MARKET",
         "county": "Norfolk",
         "gridref": "TF686062",
@@ -2071,7 +2071,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "FULMODESTON-SCHOOL",
         "county": "Norfolk",
         "gridref": "TF993309",
@@ -2092,7 +2092,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "GARBOLDISHAM",
         "county": "Norfolk",
         "gridref": "TM005809",
@@ -2113,7 +2113,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "GARBOLDISHAM",
         "county": "Norfolk",
         "gridref": "TM007826",
@@ -2134,7 +2134,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "GAYTON",
         "county": "Norfolk",
         "gridref": "TF729194",
@@ -2155,7 +2155,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "GAYTON",
         "county": "Norfolk",
         "gridref": "TF732194",
@@ -2176,7 +2176,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "GAYTON-WW",
         "county": "Norfolk",
         "gridref": "TF734207",
@@ -2197,7 +2197,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "GELDESTON",
         "county": "Norfolk",
         "gridref": "TM389918",
@@ -2218,7 +2218,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "GELDESTON",
         "county": "Norfolk",
         "gridref": "TM388918",
@@ -2239,7 +2239,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "GELDESTON",
         "county": "Norfolk",
         "gridref": "TM394922",
@@ -2260,7 +2260,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "GELDESTON",
         "county": "Norfolk",
         "gridref": "TM402915",
@@ -2281,7 +2281,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "GORLESTON-COASTGUARD-STATION",
         "county": "Norfolk",
         "gridref": "TG534037",
@@ -2302,7 +2302,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "GREAT-CRESSINGHAM",
         "county": "Norfolk",
         "gridref": "TF849017",
@@ -2323,7 +2323,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "GREAT-DUNHAM-RECTORY",
         "county": "Norfolk",
         "gridref": "TF872147",
@@ -2344,7 +2344,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "GREAT-FRANSHAM",
         "county": "Norfolk",
         "gridref": "TF8954613333",
@@ -2365,7 +2365,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "GREAT-MASSINGHAM",
         "county": "Norfolk",
         "gridref": "TF7976422931",
@@ -2386,7 +2386,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "GREAT-MASSINGHAM",
         "county": "Norfolk",
         "gridref": "TF7913123710",
@@ -2407,7 +2407,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "GREAT-MASSINGHAM",
         "county": "Norfolk",
         "gridref": "TF797234",
@@ -2428,7 +2428,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "GREAT-YARMOUTH",
         "county": "Norfolk",
         "gridref": "TG527086",
@@ -2449,7 +2449,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "GRIMSTON-SCHOOL-HOUSE",
         "county": "Norfolk",
         "gridref": "TF7220221786",
@@ -2470,7 +2470,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "HAINFORD-GROVE-COTTAGE",
         "county": "Norfolk",
         "gridref": "TG232177",
@@ -2491,7 +2491,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "HANWORTH-RECTORY",
         "county": "Norfolk",
         "gridref": "TG215338",
@@ -2512,7 +2512,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "HAPTON",
         "county": "Norfolk",
         "gridref": "TM176966",
@@ -2533,7 +2533,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "HARDINGHAM",
         "county": "Norfolk",
         "gridref": "TG0460603707",
@@ -2554,7 +2554,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "HARGHAM-HALL",
         "county": "Norfolk",
         "gridref": "TM021919",
@@ -2575,7 +2575,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "HARLESTON-STARSTON",
         "county": "Norfolk",
         "gridref": "TM241844",
@@ -2596,7 +2596,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "HAVERLAND",
         "county": "Norfolk",
         "gridref": "TG152214",
@@ -2617,7 +2617,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "HEDENHAM-RECTORY",
         "county": "Norfolk",
         "gridref": "TM310929",
@@ -2638,7 +2638,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "HEMSBY-SCHOOL",
         "county": "Norfolk",
         "gridref": "TG492173",
@@ -2659,7 +2659,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "HEVINGHAM-RIPPON-HALL",
         "county": "Norfolk",
         "gridref": "TG210225",
@@ -2680,7 +2680,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "HICKLING-OLD-RECTORY",
         "county": "Norfolk",
         "gridref": "TG407235",
@@ -2701,7 +2701,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "HILBOROUGH-HALL-GARDENS",
         "county": "Norfolk",
         "gridref": "TF827001",
@@ -2722,7 +2722,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "HILLINGTON",
         "county": "Norfolk",
         "gridref": "TF722254",
@@ -2743,7 +2743,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "HILLINGTON",
         "county": "Norfolk",
         "gridref": "TF724260",
@@ -2764,7 +2764,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "HILLINGTON-SCHOOL",
         "county": "Norfolk",
         "gridref": "TF721254",
@@ -2785,7 +2785,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "HINDOLVESTON-SCHOOL-HOUSE",
         "county": "Norfolk",
         "gridref": "TG038293",
@@ -2806,7 +2806,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "HINDOLVESTON-SCHOOL-HOUSE",
         "county": "Norfolk",
         "gridref": "TG026291",
@@ -2827,7 +2827,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "HINDRINGHAM",
         "county": "Norfolk",
         "gridref": "TF987370",
@@ -2848,7 +2848,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "HINDRINGHAM",
         "county": "Norfolk",
         "gridref": "TF978365",
@@ -2869,7 +2869,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "HINGHAM",
         "county": "Norfolk",
         "gridref": "TG022022",
@@ -2890,7 +2890,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "HINGHAM-HALL",
         "county": "Norfolk",
         "gridref": "TG017023",
@@ -2911,7 +2911,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "HINGHAM-SOUTHBURGH",
         "county": "Norfolk",
         "gridref": "TG003055",
@@ -2932,7 +2932,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "HOCKERING",
         "county": "Norfolk",
         "gridref": "TG076132",
@@ -2953,7 +2953,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "HOLKHAM-HALL-NORFOLK",
         "county": "Norfolk",
         "gridref": "TF884429",
@@ -2974,7 +2974,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "HOLKHAM-LONGLANDS",
         "county": "Norfolk",
         "gridref": "TF881399",
@@ -2995,7 +2995,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "HOLME-NEXT-SEA-HOLME-HOUSE",
         "county": "Norfolk",
         "gridref": "TF701434",
@@ -3016,7 +3016,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "HOLT-BRINTON-GRANGE",
         "county": "Norfolk",
         "gridref": "TG039358",
@@ -3037,7 +3037,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "HOLT-LETHERINGSETT-HALL",
         "county": "Norfolk",
         "gridref": "TG060389",
@@ -3058,7 +3058,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "HOLT-LODGE",
         "county": "Norfolk",
         "gridref": "TG0803537898",
@@ -3079,7 +3079,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "HOLT-LODGE",
         "county": "Norfolk",
         "gridref": "TG0775938671",
@@ -3100,7 +3100,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "HONINGHAM-HALL",
         "county": "Norfolk",
         "gridref": "TG111122",
@@ -3121,7 +3121,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "HORNING-PUMPING-STATION",
         "county": "Norfolk",
         "gridref": "TG358164",
@@ -3142,7 +3142,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "HORSHAM-ST-FAITH-AIRFIELD",
         "county": "Norfolk",
         "gridref": "TG220131",
@@ -3163,7 +3163,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "HUNSTANTON",
         "county": "Norfolk",
         "gridref": "TF690418",
@@ -3184,7 +3184,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "HUNSTANTON-LE-STRANGE-ARMS-HOTEL",
         "county": "Norfolk",
         "gridref": "TF680424",
@@ -3205,7 +3205,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "KENNINGHALL-COUNCIL-SCHOOL",
         "county": "Norfolk",
         "gridref": "TM035858",
@@ -3226,7 +3226,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "KESWICK-OLD-HALL",
         "county": "Norfolk",
         "gridref": "TG207046",
@@ -3247,7 +3247,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "KETTERINGHAM-PARK",
         "county": "Norfolk",
         "gridref": "TG1645502418",
@@ -3268,7 +3268,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "KINGS-LYNN-BURLINGHAM",
         "county": "Norfolk",
         "gridref": "TF637207",
@@ -3289,7 +3289,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "KINGS-LYNN-BURLINGHAM",
         "county": "Norfolk",
         "gridref": "TF625204",
@@ -3310,7 +3310,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "KINGS-LYNN-BURLINGHAM",
         "county": "Norfolk",
         "gridref": "TF617201",
@@ -3331,7 +3331,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "KINGS-LYNN-FREEBRIDGE",
         "county": "Norfolk",
         "gridref": "TF613184",
@@ -3352,7 +3352,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "KINGS-LYNN-MANURE-WORKS",
         "county": "Norfolk",
         "gridref": "TF621188",
@@ -3373,7 +3373,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "KINGS-LYNN-NORTH-RUNCTON-LODGE",
         "county": "Norfolk",
         "gridref": "TF644163",
@@ -3394,7 +3394,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "KINGS-LYNN-SHOULDHAM",
         "county": "Norfolk",
         "gridref": "TF677088",
@@ -3415,7 +3415,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "KINGS-LYNN-SHOULDHAM",
         "county": "Norfolk",
         "gridref": "TF681088",
@@ -3436,7 +3436,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "KINGS-LYNN-TECHNICAL-COLLEGE",
         "county": "Norfolk",
         "gridref": "TF626203",
@@ -3457,7 +3457,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "KINGS-LYNN-WEST-BILNEY-HALL",
         "county": "Norfolk",
         "gridref": "TF699146",
@@ -3478,7 +3478,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "KINGS-LYNN-WORMEGAY-SCHOOL",
         "county": "Norfolk",
         "gridref": "TF647114",
@@ -3499,7 +3499,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "LANGHAM",
         "county": "Norfolk",
         "gridref": "TG008412",
@@ -3520,7 +3520,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "LITTLE-MASSINGHAM-RECTORY",
         "county": "Norfolk",
         "gridref": "TF791241",
@@ -3541,7 +3541,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "LODDON-BERGH-APTON",
         "county": "Norfolk",
         "gridref": "TG303026",
@@ -3562,7 +3562,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "LODDON-BERGH-APTON",
         "county": "Norfolk",
         "gridref": "TG307007",
@@ -3583,7 +3583,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "LODDON-CHEDGRAVE-MANOR",
         "county": "Norfolk",
         "gridref": "TM355992",
@@ -3604,7 +3604,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "LONG-STRATTON-FRITTON-RECTORY",
         "county": "Norfolk",
         "gridref": "TM2223294307",
@@ -3625,7 +3625,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "LONG-STRATTON-FRITTON-RECTORY",
         "county": "Norfolk",
         "gridref": "TM2323593753",
@@ -3646,7 +3646,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "LONG-STRATTON-FRITTON-RECTORY",
         "county": "Norfolk",
         "gridref": "TM2277393065",
@@ -3667,7 +3667,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "LONG-STRATTON-GREAT-MOULTON-RECTORY",
         "county": "Norfolk",
         "gridref": "TM165906",
@@ -3688,7 +3688,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "MARHAM-AIRFIELD",
         "county": "Norfolk",
         "gridref": "TF739087",
@@ -3709,7 +3709,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "MARHAM-PUMPING-STATION",
         "county": "Norfolk",
         "gridref": "TF717107",
@@ -3730,7 +3730,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "MELTON-CONSTABLE-PARK",
         "county": "Norfolk",
         "gridref": "TG0300031958",
@@ -3751,7 +3751,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "METHWOLD-DUCHY-OF-LANCASTER-SCHOOL",
         "county": "Norfolk",
         "gridref": "TL730946",
@@ -3772,7 +3772,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "MIDDLETON-HALL-NORFOLK",
         "county": "Norfolk",
         "gridref": "TF6615915958",
@@ -3793,7 +3793,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "MIDDLETON-HALL-NORFOLK",
         "county": "Norfolk",
         "gridref": "TF660163",
@@ -3814,7 +3814,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "MULBARTON",
         "county": "Norfolk",
         "gridref": "TG196006",
@@ -3835,7 +3835,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "MUNDESLEY-INGLESIDE",
         "county": "Norfolk",
         "gridref": "TG297377",
@@ -3856,7 +3856,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "MUNDESLEY-ON-SEA",
         "county": "Norfolk",
         "gridref": "TG316364",
@@ -3877,7 +3877,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "MUNDESLEY-RAXAWA-HOUSE",
         "county": "Norfolk",
         "gridref": "TG315363",
@@ -3898,7 +3898,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "NARBOROUGH-HALL",
         "county": "Norfolk",
         "gridref": "TF748130",
@@ -3919,7 +3919,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "NARBOROUGH-NARFORD-HALL",
         "county": "Norfolk",
         "gridref": "TF766139",
@@ -3940,7 +3940,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "NORTH-LOPHAM",
         "county": "Norfolk",
         "gridref": "TM036829",
@@ -3961,7 +3961,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "NORTH-WALSHAM-DILHAM",
         "county": "Norfolk",
         "gridref": "TG326259",
@@ -3982,7 +3982,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "NORTH-WALSHAM-GUNTON-PARK",
         "county": "Norfolk",
         "gridref": "TG2298534154",
@@ -4003,7 +4003,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "NORTH-WALSHAM-KNAPTON",
         "county": "Norfolk",
         "gridref": "TG299342",
@@ -4024,7 +4024,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "NORTH-WALSHAM-THE-PASTON-SCHOOL",
         "county": "Norfolk",
         "gridref": "TG348286",
@@ -4045,7 +4045,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "NORTH-WALSHAM-THE-PASTON-SCHOOL",
         "county": "Norfolk",
         "gridref": "TG283304",
@@ -4066,7 +4066,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "NORTH-WALSHAM-THE-PASTON-SCHOOL",
         "county": "Norfolk",
         "gridref": "TG285302",
@@ -4087,7 +4087,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "NORTH-WALSHAM-THE-PASTON-SCHOOL",
         "county": "Norfolk",
         "gridref": "TG282301",
@@ -4108,7 +4108,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "NORTH-WALSHAM-WORSTEAD",
         "county": "Norfolk",
         "gridref": "TG300264",
@@ -4129,7 +4129,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "NORTH-WALSHAM-WORSTEAD-LODGE",
         "county": "Norfolk",
         "gridref": "TG272307",
@@ -4150,7 +4150,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "NORTH-WOOTTON",
         "county": "Norfolk",
         "gridref": "TF645244",
@@ -4171,7 +4171,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "NORTH-WOOTTON",
         "county": "Norfolk",
         "gridref": "TF639243",
@@ -4192,7 +4192,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "NORWICH-BRUNDALL",
         "county": "Norfolk",
         "gridref": "TG341088",
@@ -4213,7 +4213,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "NORWICH-BRUNDALL",
         "county": "Norfolk",
         "gridref": "TG329082",
@@ -4234,7 +4234,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "NORWICH-CARROW-HOUSE",
         "county": "Norfolk",
         "gridref": "TG242072",
@@ -4255,7 +4255,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "NORWICH-CATTON-HALL",
         "county": "Norfolk",
         "gridref": "TG2300812058",
@@ -4276,7 +4276,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "NORWICH-CLAREMONT-ROAD",
         "county": "Norfolk",
         "gridref": "TG2151006904",
@@ -4297,7 +4297,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "NORWICH-CLAREMONT-ROAD",
         "county": "Norfolk",
         "gridref": "TG2347912367",
@@ -4318,7 +4318,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "NORWICH-COSTESSEY",
         "county": "Norfolk",
         "gridref": "TG176127",
@@ -4339,7 +4339,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "NORWICH-CRINGLEFORD",
         "county": "Norfolk",
         "gridref": "TG192066",
@@ -4360,7 +4360,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "NORWICH-DUNSTON-HALL",
         "county": "Norfolk",
         "gridref": "TG225020",
@@ -4381,7 +4381,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "NORWICH-EATON",
         "county": "Norfolk",
         "gridref": "TG210070",
@@ -4402,7 +4402,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "NORWICH-EATON",
         "county": "Norfolk",
         "gridref": "TG216075",
@@ -4423,7 +4423,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "NORWICH-ESSEX-ST",
         "county": "Norfolk",
         "gridref": "TG220081",
@@ -4444,7 +4444,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "NORWICH-HEIGHAM-CEMETERY",
         "county": "Norfolk",
         "gridref": "TG212086",
@@ -4465,7 +4465,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "NORWICH-IPSWICH-ROAD",
         "county": "Norfolk",
         "gridref": "TG224071",
@@ -4486,7 +4486,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "NORWICH-LITERARY-INSTITUTION",
         "county": "Norfolk",
         "gridref": "TG229083",
@@ -4507,7 +4507,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "NORWICH-MARLINGFORD-HALL",
         "county": "Norfolk",
         "gridref": "TG127081",
@@ -4528,7 +4528,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "NORWICH-MIX",
         "county": "Norfolk",
         "gridref": "TG219099",
@@ -4549,7 +4549,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "NORWICH-NEWMARKET-ROAD",
         "county": "Norfolk",
         "gridref": "TG224075",
@@ -4570,7 +4570,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "NORWICH-POSTWICK",
         "county": "Norfolk",
         "gridref": "TG289070",
@@ -4591,7 +4591,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "NORWICH-SPROWSTON",
         "county": "Norfolk",
         "gridref": "TG250122",
@@ -4612,7 +4612,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "NORWICH-SPROWSTON",
         "county": "Norfolk",
         "gridref": "TG260126",
@@ -4633,7 +4633,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "NORWICH-ST-CATHERINES",
         "county": "Norfolk",
         "gridref": "TG230079",
@@ -4654,7 +4654,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "NORWICH-THORPE",
         "county": "Norfolk",
         "gridref": "TG240086",
@@ -4675,7 +4675,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "NORWICH-THORPE",
         "county": "Norfolk",
         "gridref": "TG263085",
@@ -4696,7 +4696,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "NORWICH-THORPE",
         "county": "Norfolk",
         "gridref": "TG263088",
@@ -4717,7 +4717,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "NORWICH-THORPE",
         "county": "Norfolk",
         "gridref": "TG323108",
@@ -4738,7 +4738,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "NORWICH-THORPE",
         "county": "Norfolk",
         "gridref": "TG256086",
@@ -4759,7 +4759,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "NORWICH-THORPE",
         "county": "Norfolk",
         "gridref": "TG265086",
@@ -4780,7 +4780,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "NORWICH-UPPER-SURREY-ST",
         "county": "Norfolk",
         "gridref": "TG230080",
@@ -4801,7 +4801,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "NORWICH-WW",
         "county": "Norfolk",
         "gridref": "TG214096",
@@ -4822,7 +4822,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "OBY",
         "county": "Norfolk",
         "gridref": "TG428145",
@@ -4843,7 +4843,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "OLD-BUCKENHAM-HALL",
         "county": "Norfolk",
         "gridref": "TM063902",
@@ -4864,7 +4864,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "OLD-BUCKENHAM-THE-GRANGE",
         "county": "Norfolk",
         "gridref": "TM063911",
@@ -4885,7 +4885,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "OUTWELL-WELL-CREEK-SLUICE",
         "county": "Norfolk",
         "gridref": "TF529029",
@@ -4906,7 +4906,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "PULHAM-ST-MARY-BROOK-HOUSE",
         "county": "Norfolk",
         "gridref": "TM2064484784",
@@ -4927,7 +4927,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "PULHAM-ST-MARY-HILL-HOUSE",
         "county": "Norfolk",
         "gridref": "TM209852",
@@ -4948,7 +4948,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "PULHAM-ST-MARY-MAGDALENE-SCHOOL",
         "county": "Norfolk",
         "gridref": "TM198860",
@@ -4969,7 +4969,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "REEPHAM",
         "county": "Norfolk",
         "gridref": "TG097228",
@@ -4990,7 +4990,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "REEPHAM",
         "county": "Norfolk",
         "gridref": "TG1004422976",
@@ -5011,7 +5011,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "REEPHAM",
         "county": "Norfolk",
         "gridref": "TG077222",
@@ -5032,7 +5032,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "REEPHAM-GREAT-WITCHINGHAM",
         "county": "Norfolk",
         "gridref": "TG099181",
@@ -5053,7 +5053,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "REEPHAM-WHITWELL",
         "county": "Norfolk",
         "gridref": "TG097223",
@@ -5074,7 +5074,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "RUSHALL-VICARAGE",
         "county": "Norfolk",
         "gridref": "TM1937982600",
@@ -5095,7 +5095,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "SALHOUSE",
         "county": "Norfolk",
         "gridref": "TG312147",
@@ -5116,7 +5116,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "SANDRINGHAM",
         "county": "Norfolk",
         "gridref": "TF695288",
@@ -5137,7 +5137,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "SANTON-BRANDON",
         "county": "Norfolk",
         "gridref": "TL817877",
@@ -5158,7 +5158,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "SAXLINGHAM-NETHERGATE",
         "county": "Norfolk",
         "gridref": "TM231971",
@@ -5179,7 +5179,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "SCOLE-RECTORY",
         "county": "Norfolk",
         "gridref": "TM1468478992",
@@ -5200,7 +5200,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "SHERINGHAM-HALL",
         "county": "Norfolk",
         "gridref": "TG133423",
@@ -5221,7 +5221,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "SHERINGHAM-HOUSE",
         "county": "Norfolk",
         "gridref": "TG1599942229",
@@ -5242,7 +5242,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "SHERINGHAM-PINE-GROVE",
         "county": "Norfolk",
         "gridref": "TG1627042819",
@@ -5263,7 +5263,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "SHERINGHAM-SKELDING",
         "county": "Norfolk",
         "gridref": "TG1520143355",
@@ -5284,7 +5284,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "SHERINGHAM-SKELDING",
         "county": "Norfolk",
         "gridref": "TG1536643127",
@@ -5305,7 +5305,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "SHERINGHAM-SKELDING",
         "county": "Norfolk",
         "gridref": "TG1560243111",
@@ -5326,7 +5326,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "SNETTISHAM-THE-HOLLIES",
         "county": "Norfolk",
         "gridref": "TF684340",
@@ -5347,7 +5347,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "SNETTISHAM-WISTERIA-HOUSE",
         "county": "Norfolk",
         "gridref": "TF684342",
@@ -5368,7 +5368,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "SOUTH-WALSHAM",
         "county": "Norfolk",
         "gridref": "TG366131",
@@ -5389,7 +5389,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "SOUTHERY",
         "county": "Norfolk",
         "gridref": "TL618946",
@@ -5410,7 +5410,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "SOUTHERY-PUMPING-STATION",
         "county": "Norfolk",
         "gridref": "TL613932",
@@ -5431,7 +5431,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "SPARHAM-HALL",
         "county": "Norfolk",
         "gridref": "TG072187",
@@ -5452,7 +5452,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "SPOONER-ROW-SCHOOL",
         "county": "Norfolk",
         "gridref": "TM092975",
@@ -5473,7 +5473,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "SPOONER-ROW-WATTLEFIELD-HALL",
         "county": "Norfolk",
         "gridref": "TM111970",
@@ -5494,7 +5494,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "SPORLE",
         "county": "Norfolk",
         "gridref": "TF848113",
@@ -5515,7 +5515,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "SPROWSTON-COUNCIL-SCHOOL",
         "county": "Norfolk",
         "gridref": "TG239112",
@@ -5536,7 +5536,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "SPROWSTON-OAK-LODGE",
         "county": "Norfolk",
         "gridref": "TG245128",
@@ -5557,7 +5557,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "STANHOE-HALL",
         "county": "Norfolk",
         "gridref": "TF799370",
@@ -5578,7 +5578,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "STOKE-FERRY-WEREHAM",
         "county": "Norfolk",
         "gridref": "TF678015",
@@ -5599,7 +5599,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "STOW-BARDOLPH-STOW-FEN-PUMPING-STATION",
         "county": "Norfolk",
         "gridref": "TF598058",
@@ -5620,7 +5620,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "STOW-BRIDGE-CRABBS-ABBEY",
         "county": "Norfolk",
         "gridref": "TF600078",
@@ -5641,7 +5641,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "STRATTON-ST-MARY-RECTORY",
         "county": "Norfolk",
         "gridref": "TM195923",
@@ -5662,7 +5662,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "SWAFFHAM",
         "county": "Norfolk",
         "gridref": "TF834110",
@@ -5683,7 +5683,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "SWAFFHAM",
         "county": "Norfolk",
         "gridref": "TF820085",
@@ -5704,7 +5704,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "SWAFFHAM",
         "county": "Norfolk",
         "gridref": "TF818089",
@@ -5725,7 +5725,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "SWAFFHAM",
         "county": "Norfolk",
         "gridref": "TF818095",
@@ -5746,7 +5746,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "SWAFFHAM-CEMETERY",
         "county": "Norfolk",
         "gridref": "TF821081",
@@ -5767,7 +5767,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "SWAFFHAM-DUNHAM",
         "county": "Norfolk",
         "gridref": "TF877128",
@@ -5788,7 +5788,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "SWAFFHAM-DUNHAM",
         "county": "Norfolk",
         "gridref": "TF866128",
@@ -5809,7 +5809,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "SWAFFHAM-GRAMMAR-SCHOOL",
         "county": "Norfolk",
         "gridref": "TF822087",
@@ -5830,7 +5830,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "SWAFFHAM-GRAMMAR-SCHOOL",
         "county": "Norfolk",
         "gridref": "TF820083",
@@ -5851,7 +5851,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "SWAFFHAM-PICKENHAM",
         "county": "Norfolk",
         "gridref": "TF857040",
@@ -5872,7 +5872,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "SWAFFHAM-SAHAM-TONEY",
         "county": "Norfolk",
         "gridref": "TF911020",
@@ -5893,7 +5893,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "SWAFFHAM-THE-VILLA",
         "county": "Norfolk",
         "gridref": "TF817086",
@@ -5914,7 +5914,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "SWAFFHAM-THE-VILLA",
         "county": "Norfolk",
         "gridref": "TF8187409134",
@@ -5935,7 +5935,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "SWAFIELD-RECTORY",
         "county": "Norfolk",
         "gridref": "TG291326",
@@ -5956,7 +5956,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "SWANINGTON-HEATH-HOUSE",
         "county": "Norfolk",
         "gridref": "TG1315718534",
@@ -5977,7 +5977,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "SWANINGTON-RECTORY",
         "county": "Norfolk",
         "gridref": "TG133192",
@@ -5998,7 +5998,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "SWANTON-MORLEY-RECTORY",
         "county": "Norfolk",
         "gridref": "TG0144917458",
@@ -6019,7 +6019,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "SYDERSTONE-THE-RECTORY",
         "county": "Norfolk",
         "gridref": "TF832327",
@@ -6040,7 +6040,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "TAVERHAM-DEIGHTON-HILLS",
         "county": "Norfolk",
         "gridref": "TG1491215622",
@@ -6061,7 +6061,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "TERRINGTON",
         "county": "Norfolk",
         "gridref": "TF550199",
@@ -6082,7 +6082,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "TERRINGTON-ST-CLEMENT",
         "county": "Norfolk",
         "gridref": "TF561204",
@@ -6103,7 +6103,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "TERRINGTON-ST-CLEMENT",
         "county": "Norfolk",
         "gridref": "TF553204",
@@ -6124,7 +6124,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "TERRINGTON-ST-CLEMENT",
         "county": "Norfolk",
         "gridref": "TF547187",
@@ -6145,7 +6145,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "THETFORD",
         "county": "Norfolk",
         "gridref": "TL874832",
@@ -6166,7 +6166,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "THETFORD-CROXTON",
         "county": "Norfolk",
         "gridref": "TL874863",
@@ -6187,7 +6187,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "THETFORD-FORD-STREET-GDNS",
         "county": "Norfolk",
         "gridref": "TL874826",
@@ -6208,7 +6208,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "THETFORD-KILVERSTONE-HALL",
         "county": "Norfolk",
         "gridref": "TL892841",
@@ -6229,7 +6229,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "THETFORD-LYNFORD-HALL",
         "county": "Norfolk",
         "gridref": "TL8193894005",
@@ -6250,7 +6250,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "THETFORD-LYNFORD-NURSERY",
         "county": "Norfolk",
         "gridref": "TL818912",
@@ -6271,7 +6271,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "THETFORD-WW",
         "county": "Norfolk",
         "gridref": "TL865845",
@@ -6292,7 +6292,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "THORPLAND-HALL",
         "county": "Norfolk",
         "gridref": "TF937321",
@@ -6313,7 +6313,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "TILNEY-ST-LAWRENCE-AYLMER-HALL",
         "county": "Norfolk",
         "gridref": "TF552147",
@@ -6334,7 +6334,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "TITTLESHALL",
         "county": "Norfolk",
         "gridref": "TF900206",
@@ -6355,7 +6355,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "TOFT-MONKS-SCHOOL",
         "county": "Norfolk",
         "gridref": "TM433961",
@@ -6376,7 +6376,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "WALCOTT-ON-SEA",
         "county": "Norfolk",
         "gridref": "TG359325",
@@ -6397,7 +6397,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "WALLINGTON-HALL",
         "county": "Norfolk",
         "gridref": "TF625076",
@@ -6418,7 +6418,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "WALSINGHAM",
         "county": "Norfolk",
         "gridref": "TF9346036483",
@@ -6439,7 +6439,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "WATTON",
         "county": "Norfolk",
         "gridref": "TF913008",
@@ -6460,7 +6460,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "WATTON",
         "county": "Norfolk",
         "gridref": "TF920005",
@@ -6481,7 +6481,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "WATTON",
         "county": "Norfolk",
         "gridref": "TF916013",
@@ -6502,7 +6502,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "WATTON",
         "county": "Norfolk",
         "gridref": "TF918005",
@@ -6523,7 +6523,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "WATTON-MERTON-HALL",
         "county": "Norfolk",
         "gridref": "TL914983",
@@ -6544,7 +6544,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "WATTON-OVINGTON-RECTORY",
         "county": "Norfolk",
         "gridref": "TF924025",
@@ -6565,7 +6565,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "WEASENHAM-LITCHAM",
         "county": "Norfolk",
         "gridref": "TF887177",
@@ -6586,7 +6586,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "WELLS-NEXT-THE-SEA",
         "county": "Norfolk",
         "gridref": "TF9197243628",
@@ -6607,7 +6607,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "WELLS-WW",
         "county": "Norfolk",
         "gridref": "TF912440",
@@ -6628,7 +6628,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "WENDLING-ASTRANTIA",
         "county": "Norfolk",
         "gridref": "TF929128",
@@ -6649,7 +6649,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "WEST-DEREHAM",
         "county": "Norfolk",
         "gridref": "TF6553600582",
@@ -6670,7 +6670,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "WEST-RAYNHAM-AIRFIELD",
         "county": "Norfolk",
         "gridref": "TF847245",
@@ -6691,7 +6691,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "WEST-RUNTON",
         "county": "Norfolk",
         "gridref": "TG179428",
@@ -6712,7 +6712,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "WEST-TOFTS",
         "county": "Norfolk",
         "gridref": "TL8243692833",
@@ -6733,7 +6733,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "WEST-TOFTS",
         "county": "Norfolk",
         "gridref": "TL836920",
@@ -6754,7 +6754,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "WEST-WALTON",
         "county": "Norfolk",
         "gridref": "TF469134",
@@ -6775,7 +6775,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "WICKMERE",
         "county": "Norfolk",
         "gridref": "TG167326",
@@ -6796,7 +6796,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "WIGGENHALL-ST-GERMANS-SLUICE",
         "county": "Norfolk",
         "gridref": "TF588139",
@@ -6817,7 +6817,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "WIGGENHALL-ST-GERMANS-SLUICE",
         "county": "Norfolk",
         "gridref": "TF599139",
@@ -6838,7 +6838,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "WIMBOTSHAM-SCHOOL",
         "county": "Norfolk",
         "gridref": "TF619050",
@@ -6859,7 +6859,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "WIVETON-GLAVEN-CORNER",
         "county": "Norfolk",
         "gridref": "TG044426",
@@ -6880,7 +6880,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "WORSTEAD-FRANKFORT-MANOR",
         "county": "Norfolk",
         "gridref": "TG292239",
@@ -6901,7 +6901,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "WORSTEAD-LYNGATE-COTTAGE",
         "county": "Norfolk",
         "gridref": "TG312265",
@@ -6922,7 +6922,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "WORSTEAD-THE-GRANGE",
         "county": "Norfolk",
         "gridref": "TG301281",
@@ -6943,7 +6943,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "WORSTEAD-THE-ROOKERY-DILHAM",
         "county": "Norfolk",
         "gridref": "TG333249",
@@ -6964,7 +6964,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "WROXHAM",
         "county": "Norfolk",
         "gridref": "TG302171",
@@ -6985,7 +6985,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "WROXHAM-BARTON-HALL",
         "county": "Norfolk",
         "gridref": "TG354221",
@@ -7006,7 +7006,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "WROXHAM-HOVETON-HALL",
         "county": "Norfolk",
         "gridref": "TG315199",
@@ -7027,7 +7027,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "WROXHAM-HOVETON-HOME-FARM",
         "county": "Norfolk",
         "gridref": "TG317176",
@@ -7048,7 +7048,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "WROXHAM-HOVETON-HOUSE",
         "county": "Norfolk",
         "gridref": "TG319177",
@@ -7069,7 +7069,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "WYMONDHAM-BROWICK-HALL",
         "county": "Norfolk",
         "gridref": "TG107015",
@@ -7090,7 +7090,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "WYMONDHAM-BROWICK-HALL",
         "county": "Norfolk",
         "gridref": "TG130015",
@@ -7111,7 +7111,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "WYMONDHAM-HETHERSETT",
         "county": "Norfolk",
         "gridref": "TG153050",
@@ -7132,7 +7132,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "WYMONDHAM-HETHERSETT",
         "county": "Norfolk",
         "gridref": "TG148053",
@@ -7153,7 +7153,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "WYMONDHAM-MORLEY-SCHOOL",
         "county": "Norfolk",
         "gridref": "TM064996",
@@ -7174,7 +7174,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "YARMOUTH",
         "county": "Norfolk",
         "gridref": "TG528065",
@@ -7195,7 +7195,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "YARMOUTH-DENE-SIDE",
         "county": "Norfolk",
         "gridref": "TG527071",
@@ -7216,7 +7216,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "YARMOUTH-HALVERGATE-HALL",
         "county": "Norfolk",
         "gridref": "TG420065",
@@ -7237,7 +7237,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "YARMOUTH-HALVERGATE-HALL",
         "county": "Norfolk",
         "gridref": "TG399073",
@@ -7258,7 +7258,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "YARMOUTH-MARKET-PLACE",
         "county": "Norfolk",
         "gridref": "TG524077",
@@ -7279,7 +7279,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "YARMOUTH-MARKET-PLACE",
         "county": "Norfolk",
         "gridref": "TG524082",
@@ -7300,7 +7300,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "YARMOUTH-ORMESBY-ST-MICHAEL",
         "county": "Norfolk",
         "gridref": "TG469152",
@@ -7321,7 +7321,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "YARMOUTH-SAILORS-HOME",
         "county": "Norfolk",
         "gridref": "TG530072",
@@ -7342,7 +7342,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "YARMOUTH-SCRATBY",
         "county": "Norfolk",
         "gridref": "TG514155",

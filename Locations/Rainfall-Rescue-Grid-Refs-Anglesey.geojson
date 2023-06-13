@@ -13,7 +13,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "AMLWCH-DYFFRYN-ADDA",
         "county": "Anglesey",
         "gridref": "SH438913",
@@ -34,7 +34,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "BANGOR-RHIANVA",
         "county": "Anglesey",
         "gridref": "SH570733",
@@ -55,7 +55,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "BEAUMARIS-FRYARS",
         "county": "Anglesey",
         "gridref": "SH609774",
@@ -76,7 +76,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "BEAUMARIS-HENLLYS",
         "county": "Anglesey",
         "gridref": "SH601776",
@@ -97,7 +97,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "BODEDERN-PRESADDFED",
         "county": "Anglesey",
         "gridref": "SH351809",
@@ -118,7 +118,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "BODEWRYD",
         "county": "Anglesey",
         "gridref": "SH401908",
@@ -139,7 +139,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "BODEWRYD",
         "county": "Anglesey",
         "gridref": "SH397908",
@@ -160,7 +160,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "BRYN-SIENCYN-TREFARTHEN",
         "county": "Anglesey",
         "gridref": "SH482659",
@@ -181,7 +181,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "CEMAES-BAY-WW",
         "county": "Anglesey",
         "gridref": "SH377923",
@@ -202,7 +202,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "HOLYHEAD",
         "county": "Anglesey",
         "gridref": "SH245830",
@@ -223,7 +223,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "HOLYHEAD",
         "county": "Anglesey",
         "gridref": "SH310758",
@@ -244,7 +244,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "HOLYHEAD-SALT-ISLAND",
         "county": "Anglesey",
         "gridref": "SH246831",
@@ -265,7 +265,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "HOLYHEAD-SALT-ISLAND",
         "county": "Anglesey",
         "gridref": "SH253833",
@@ -286,7 +286,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "HOLYHEAD-SOLDIERS-POINT",
         "county": "Anglesey",
         "gridref": "SH236835",
@@ -307,7 +307,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "LLANDDANIEL-FAB-PORTHAMEL",
         "county": "Anglesey",
         "gridref": "SH506680",
@@ -328,7 +328,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "LLANDWYN-ISLAND",
         "county": "Anglesey",
         "gridref": "SH390630",
@@ -349,7 +349,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "LLANERCHYMEDD-LLWYDIARTH-ESGOB",
         "county": "Anglesey",
         "gridref": "SH436843",
@@ -370,7 +370,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "LLANERCHYMEDD-LLWYDIARTH-ESGOB",
         "county": "Anglesey",
         "gridref": "SH444854",
@@ -391,7 +391,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "LLANFAELOG",
         "county": "Anglesey",
         "gridref": "SH3308072811",
@@ -412,7 +412,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "LLANFAELOG",
         "county": "Anglesey",
         "gridref": "SH336730",
@@ -433,7 +433,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "LLANFAIRYNGHORNWY-HOLYHEAD",
         "county": "Anglesey",
         "gridref": "SH320912",
@@ -454,7 +454,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "LLANGADWALADR-BODORGAN",
         "county": "Anglesey",
         "gridref": "SH386674",
@@ -475,7 +475,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "LLANGEFNI-CEFNI-RES",
         "county": "Anglesey",
         "gridref": "SH444772",
@@ -496,7 +496,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "LLANGEFNI-FRONHEULOG",
         "county": "Anglesey",
         "gridref": "SH4558375739",
@@ -517,7 +517,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "LLANGEFNI-GLANABER",
         "county": "Anglesey",
         "gridref": "SH457751",
@@ -538,7 +538,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "LLANGEFNI-PENRHOS",
         "county": "Anglesey",
         "gridref": "SH459765",
@@ -559,7 +559,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "LLANGRISTIOLUS-LLEDWIGAN",
         "county": "Anglesey",
         "gridref": "SH455740",
@@ -580,7 +580,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "LLANGWYLLOG-TRESCAWEN",
         "county": "Anglesey",
         "gridref": "SH450810",
@@ -601,7 +601,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "LLANSADRWN-GADLYS-COTTAGE",
         "county": "Anglesey",
         "gridref": "SH5499075737",
@@ -622,7 +622,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "LLANSADRWN-TREFFOS",
         "county": "Anglesey",
         "gridref": "SH547753",
@@ -643,7 +643,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "LLANTRISANT-RECTORY",
         "county": "Anglesey",
         "gridref": "SH388829",
@@ -664,7 +664,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "LLIGWY",
         "county": "Anglesey",
         "gridref": "SH498860",
@@ -685,7 +685,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "MARIAN-GLAS-OLD-PARCIAU",
         "county": "Anglesey",
         "gridref": "SH494842",
@@ -706,7 +706,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "MENAIFRON",
         "county": "Anglesey",
         "gridref": "SH460637",
@@ -727,7 +727,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "NEWBOROUGH-FOREST",
         "county": "Anglesey",
         "gridref": "SH414669",
@@ -748,7 +748,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "PEN-Y-PARC",
         "county": "Anglesey",
         "gridref": "SH590749",
@@ -769,7 +769,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "PENMON-TROS-YR-AFON",
         "county": "Anglesey",
         "gridref": "SH615791",
@@ -790,7 +790,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "PENMYNYDD-VICARAGE",
         "county": "Anglesey",
         "gridref": "SH518750",
@@ -811,7 +811,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "PENRHOSLLIGWY-SCHOOL",
         "county": "Anglesey",
         "gridref": "SH487865",
@@ -832,7 +832,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "PLAS-CADNANT",
         "county": "Anglesey",
         "gridref": "SH557731",
@@ -853,7 +853,7 @@
       "properties": {
         "marker-symbol": "circle-stroked",
         "marker-size": "small",
-        "marker-color": "66ff33",
+        "marker-color": "#66ff33",
         "name": "PLAS-NEWYDD-GARDENS",
         "county": "Anglesey",
         "gridref": "SH520695",
