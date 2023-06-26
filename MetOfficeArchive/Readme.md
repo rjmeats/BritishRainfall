@@ -18,7 +18,7 @@ Each row in the spreadsheet relates to a particular archive document. Fields in 
 * **Document Label** : is the text at the bottom of the hierarchy which provides the link to the document - e.g. '1886' 
 
 * **Document Type** : derived field, to identify what type of document this is, for the common types, e.g. 'Climatological Return' or 'Daily Weather Report'
-* **Country** **County** and **Location**: derived fields for documents which relate to a particular location. The 'County' field is used flexibly, so is not always a county name, especially where the country is 'Rest of World'.
+* **Country**, **County**, and **Location**: derived fields for documents which relate to a particular location. The 'County' field is used flexibly, so is not always a county name, especially where the country is 'Rest of World'.
 
 * **Hierarchy Position** and **Level** : give a summary indication of where the document lives in the overall hierarchy. Useful for sorting.
 * **Archive ref no** : Met Office classification scheme: see https://www.metoffice.gov.uk/research/library-and-archive/archive/collections
