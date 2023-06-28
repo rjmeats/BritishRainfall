@@ -9,5 +9,5 @@ Various files relating to daily rainfall readings.
 |BR_1903_JuneDailyReadings2.pdf|.. as above, but rotated to make the station names easier to read|
 |BR_1903_JuneChapter.pdf|.. and the full chapter in British Rainfall 1903 in which the table is found|
 |BR_1904-1911_DailyReadings.pdf|Pages extracted from British Rainfall 1904-1911 giving daily rainfall readings for the full year for 10 'representative' stations|
-|DR_Anglesey_1871-1880C.pdf|Trial scan by the Met Office of daily rainfall records for Anglesey for the 1870s decade|
 |BR_Early_Anglesey.pdf|Pages extracted from British Rainfall up to 1881 which give rainfall figures for Anglesey stations|
+|DR_Anglesey_1871-1880C.pdf|Trial scan by the Met Office of daily rainfall records for Anglesey for the 1870s decade|
