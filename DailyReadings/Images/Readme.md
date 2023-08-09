@@ -1,4 +1,4 @@
-# Image files showing sample Rainfall Record cards showing daily readings for a year
+# Images of sample Rainfall Record cards holding daily readings for a year
 
 * Three sample images provided by the Met Office:
 
