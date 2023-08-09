@@ -12,3 +12,4 @@ Various files relating to daily rainfall readings.
 |BR_Early_Anglesey.pdf|Pages extracted from British Rainfall 1860-1881 which give rainfall figures for Anglesey stations|
 |DR_Anglesey_1871-1880C.pdf|Trial scan by the Met Office of daily rainfall records for Anglesey for the 1870s decade|
 |TYRain_Anglesey_1870s_and_1880s.pdf|Ten-year rainfall sheets for Anglesey for the 1870s and 1880s|
+|Images|JPEG files containing images of daily rainfall readings|
