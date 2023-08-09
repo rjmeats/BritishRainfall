@@ -1,4 +1,6 @@
-# Images of sample Rainfall Record cards holding daily readings for a year
+# Images of sample Rainfall Record cards holding daily readings
+
+Most of the the rainfall cards hold daily readings for a full year 
 
 * Three sample images provided by the Met Office:
 
