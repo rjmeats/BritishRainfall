@@ -11,7 +11,7 @@ The images being processed are the samples in [this folder](../Images). Most of 
 Slightly rotated versions of the images were processed with Amazon Web Service's [Amazon Textract](https://aws.amazon.com/textract/) machine-learning text extraction service.
 
 |Folder|Contents|
-|----|--------|
+|:---|:-------|
 |../Images|The source images|
 |RotatedImages|The source images with slight rotations applied to try to make the column alignment as vertical as possible.|
 |AmazonTextract-DetectedText|What Amazon Textract found in the images, as i) a CSV file listing the 'word blocks' found and ii) as an image showing where word blocks come from.|
