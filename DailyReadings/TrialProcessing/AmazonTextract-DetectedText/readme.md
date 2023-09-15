@@ -1,8 +1,8 @@
-# Text detected by Amazon Textract in images of sample daily rainfall records
+# Text detected by Amazon Textract in daily rainfall records
 
 These [images](../RotatedImages) of sample daily rainfall records were processed using Amazon Textract's 'Detect Document Text' API. 
 
-The 'word blocks' detected in each image are recorded here, with two files for each image:
+The 'word blocks' detected by Textract in each image are recorded here, with two files for each image:
 
 * a CSV file which lists some details of each detected word block, including: 
   * the unique block ID
