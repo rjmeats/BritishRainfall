@@ -14,5 +14,5 @@ Slightly rotated versions of the images were processed with Amazon Web Service's
 |:---|:-------|
 |../Images|The source images|
 |RotatedImages|The source images with slight rotations applied to try to make the column alignment as vertical as possible.|
-|AmazonTextract&#x2011;DetectedText|What Amazon Textract found in the images, as<br/>i) a CSV file listing the 'word blocks' found <br/>ii) an image showing where word blocks come from.|
+|AmazonTextract&#x2011;DetectedText|What Amazon Textract found in the images, as:<br/>i) a CSV file listing the 'word blocks' found <br/>ii) an image showing where word blocks come from.|
 
