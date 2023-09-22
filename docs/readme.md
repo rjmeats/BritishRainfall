@@ -2,5 +2,5 @@
 
 Contains ..
 
-[Daily Rainfall](DailyRainfallContent)
-[Daily Rainfall](DailyRainfallContent/readme.md)
+[Daily Rainfall](DailyRainfallSheets)
+[Daily Rainfall](DailyRainfallSheets/readme.md)
