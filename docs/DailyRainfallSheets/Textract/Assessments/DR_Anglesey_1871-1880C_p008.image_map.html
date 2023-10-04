@@ -1,0 +1,394 @@
+
+<html>
+<head/>
+<body>
+
+<script>
+function f(d, w, actual, assessment) {
+  alert("\n" + d + "\n" + "\nActual text: " + actual + "\nExtracted text: " + w + "\nAssessment: " + assessment);
+}
+
+function f_adj(d, w, adj_w, adj, actual, assessment) {
+  alert("\n" + d + "\n" + "\nActual text: " + actual + "\nExtracted text: " + w + "\nAdjustment: " + adj + "\nAdjusted text: " + adj_w + "\nAssessment: " + assessment);
+}
+</script>
+
+<img src="DR_Anglesey_1871-1880C_p008.image_map.jpg" alt="DR_Anglesey_1871-1880C_p008.image_map" usemap="#words_map" width="1200]">
+<map name="words_map">
+
+    <area shape="rect" coords="173,418,244,464" onclick="f_adj('January 1', '//', '.11', 'Prefixed a decimal point; Replaced &quot;//&quot; with &quot;11&quot;', '.11', '✅ OK after adjustment')" >
+    <area shape="rect" coords="173,464,244,508" onclick="f_adj('January 2', '03', '.03', 'Prefixed a decimal point', '.03', '✅ OK after adjustment')" >
+    <area shape="rect" coords="173,508,244,553" onclick="f_adj('January 3', '96', '.96', 'Prefixed a decimal point', '.96', '✅ OK after adjustment')" >
+    <area shape="rect" coords="173,553,244,597" onclick="f_adj('January 4', '12', '.12', 'Prefixed a decimal point', '.12', '✅ OK after adjustment')" >
+    <area shape="rect" coords="173,597,244,636" onclick="f_adj('January 5', '32', '.32', 'Prefixed a decimal point', '.32', '✅ OK after adjustment')" >
+    <area shape="rect" coords="173,636,244,684" onclick="f_adj('January 6', '51', '.51', 'Prefixed a decimal point', '.51', '✅ OK after adjustment')" >
+    <area shape="rect" coords="173,684,244,730" onclick="f_adj('January 7', '15', '.15', 'Prefixed a decimal point', '.15', '✅ OK after adjustment')" >
+    <area shape="rect" coords="173,730,244,774" onclick="f('January 8', '<None>', '-', '❌ Missed')" >
+    <area shape="rect" coords="173,774,244,817" onclick="f('January 9', '<None>', '-', '❌ Missed')" >
+    <area shape="rect" coords="173,817,244,858" onclick="f('January 10', '-', '-', '✅ OK')" >
+    <area shape="rect" coords="173,858,244,898" onclick="f_adj('January 11', '10', '.10', 'Prefixed a decimal point', '.10', '✅ OK after adjustment')" >
+    <area shape="rect" coords="173,898,244,943" onclick="f_adj('January 12', '04', '.04', 'Prefixed a decimal point', '.04', '✅ OK after adjustment')" >
+    <area shape="rect" coords="173,943,244,984" onclick="f_adj('January 13', '06', '.06', 'Prefixed a decimal point', '.06', '✅ OK after adjustment')" >
+    <area shape="rect" coords="173,984,244,1032" onclick="f_adj('January 14', '35', '.35', 'Prefixed a decimal point', '.35', '✅ OK after adjustment')" >
+    <area shape="rect" coords="173,1032,244,1079" onclick="f_adj('January 15', '36', '.36', 'Prefixed a decimal point', '.36', '✅ OK after adjustment')" >
+    <area shape="rect" coords="173,1079,244,1117" onclick="f_adj('January 16', '90', '.90', 'Prefixed a decimal point', '.90', '✅ OK after adjustment')" >
+    <area shape="rect" coords="173,1117,244,1162" onclick="f_adj('January 17', '16', '.16', 'Prefixed a decimal point', '.16', '✅ OK after adjustment')" >
+    <area shape="rect" coords="173,1162,244,1206" onclick="f('January 18', '1.02', '1.02', '✅ OK')" >
+    <area shape="rect" coords="173,1206,244,1250" onclick="f_adj('January 19', '15', '.15', 'Prefixed a decimal point', '.15', '✅ OK after adjustment')" >
+    <area shape="rect" coords="173,1250,244,1289" onclick="f_adj('January 20', '04', '.04', 'Prefixed a decimal point', '.04', '✅ OK after adjustment')" >
+    <area shape="rect" coords="173,1289,244,1335" onclick="f_adj('January 21', '48', '.48', 'Prefixed a decimal point', '.48', '✅ OK after adjustment')" >
+    <area shape="rect" coords="173,1335,244,1385" onclick="f_adj('January 22', '01', '.01', 'Prefixed a decimal point', '.01', '✅ OK after adjustment')" >
+    <area shape="rect" coords="173,1385,244,1421" onclick="f_adj('January 23', '22', '.22', 'Prefixed a decimal point', '.22', '✅ OK after adjustment')" >
+    <area shape="rect" coords="173,1421,244,1470" onclick="f_adj('January 24', '40', '.40', 'Prefixed a decimal point', '.40', '✅ OK after adjustment')" >
+    <area shape="rect" coords="173,1470,244,1515" onclick="f_adj('January 25', '01', '.01', 'Prefixed a decimal point', '.01', '✅ OK after adjustment')" >
+    <area shape="rect" coords="173,1515,244,1553" onclick="f_adj('January 26', '38', '.38', 'Prefixed a decimal point', '.38', '✅ OK after adjustment')" >
+    <area shape="rect" coords="173,1553,244,1600" onclick="f_adj('January 27', '52', '.52', 'Prefixed a decimal point', '.52', '✅ OK after adjustment')" >
+    <area shape="rect" coords="173,1600,244,1643" onclick="f_adj('January 28', '04', '.04', 'Prefixed a decimal point', '.04', '✅ OK after adjustment')" >
+    <area shape="rect" coords="173,1643,244,1684" onclick="f('January 29', '-', '-', '✅ OK')" >
+    <area shape="rect" coords="173,1684,244,1727" onclick="f_adj('January 30', '04', '.04', 'Prefixed a decimal point', '.04', '✅ OK after adjustment')" >
+    <area shape="rect" coords="173,1727,244,1770" onclick="f_adj('January 31', '40', '.40', 'Prefixed a decimal point', '.40', '✅ OK after adjustment')" >
+    <area shape="rect" coords="251,418,320,464" onclick="f_adj('February 1', '60', '.60', 'Prefixed a decimal point', '.60', '✅ OK after adjustment')" >
+    <area shape="rect" coords="251,464,320,508" onclick="f_adj('February 2', '17', '.17', 'Prefixed a decimal point', '.17', '✅ OK after adjustment')" >
+    <area shape="rect" coords="251,508,320,553" onclick="f_adj('February 3', '13', '.13', 'Prefixed a decimal point', '.13', '✅ OK after adjustment')" >
+    <area shape="rect" coords="251,553,320,597" onclick="f('February 4', '-', '-', '✅ OK')" >
+    <area shape="rect" coords="251,597,320,636" onclick="f_adj('February 5', '02', '.02', 'Prefixed a decimal point', '.02', '✅ OK after adjustment')" >
+    <area shape="rect" coords="251,636,320,684" onclick="f_adj('February 6', '06', '.06', 'Prefixed a decimal point', '.06', '✅ OK after adjustment')" >
+    <area shape="rect" coords="251,684,320,730" onclick="f_adj('February 7', '04', '.04', 'Prefixed a decimal point', '.04', '✅ OK after adjustment')" >
+    <area shape="rect" coords="251,730,320,774" onclick="f('February 8', '-', '-', '✅ OK')" >
+    <area shape="rect" coords="251,774,320,817" onclick="f_adj('February 9', '14', '.14', 'Prefixed a decimal point', '.14', '✅ OK after adjustment')" >
+    <area shape="rect" coords="251,817,320,858" onclick="f('February 10', '.19', '.19', '✅ OK')" >
+    <area shape="rect" coords="251,858,320,898" onclick="f_adj('February 11', '36', '.36', 'Prefixed a decimal point', '.36', '✅ OK after adjustment')" >
+    <area shape="rect" coords="251,898,320,943" onclick="f_adj('February 12', 'as', '.05', 'Prefixed a decimal point; Replaced &quot;as&quot; with &quot;05&quot;', '.05', '✅ OK after adjustment')" >
+    <area shape="rect" coords="251,943,320,984" onclick="f('February 13', '33', '.35', '❌ Wrong')" >
+    <area shape="rect" coords="251,984,320,1032" onclick="f_adj('February 14', '01', '.01', 'Prefixed a decimal point', '.01', '✅ OK after adjustment')" >
+    <area shape="rect" coords="251,1032,320,1079" onclick="f_adj('February 15', '-04', '.04', 'Replaced &quot;-&quot; as decimal point', '.04', '✅ OK after adjustment')" >
+    <area shape="rect" coords="251,1079,320,1117" onclick="f('February 16', '.01', '.01', '✅ OK')" >
+    <area shape="rect" coords="251,1117,320,1162" onclick="f_adj('February 17', '03', '.03', 'Prefixed a decimal point', '.03', '✅ OK after adjustment')" >
+    <area shape="rect" coords="251,1162,320,1206" onclick="f_adj('February 18', '12', '.12', 'Prefixed a decimal point', '.12', '✅ OK after adjustment')" >
+    <area shape="rect" coords="251,1206,320,1250" onclick="f_adj('February 19', '37', '.37', 'Prefixed a decimal point', '.37', '✅ OK after adjustment')" >
+    <area shape="rect" coords="251,1250,320,1289" onclick="f('February 20', '-', '-', '✅ OK')" >
+    <area shape="rect" coords="251,1289,320,1335" onclick="f('February 21', '-', '-', '✅ OK')" >
+    <area shape="rect" coords="251,1335,320,1385" onclick="f_adj('February 22', '07', '.07', 'Prefixed a decimal point', '.07', '✅ OK after adjustment')" >
+    <area shape="rect" coords="251,1385,320,1421" onclick="f('February 23', '.02', '.02', '✅ OK')" >
+    <area shape="rect" coords="251,1421,320,1470" onclick="f_adj('February 24', '11', '.11', 'Prefixed a decimal point', '.11', '✅ OK after adjustment')" >
+    <area shape="rect" coords="251,1470,320,1515" onclick="f('February 25', 'PO', '.80', '❌ Wrong')" >
+    <area shape="rect" coords="251,1515,320,1553" onclick="f_adj('February 26', '03', '.03', 'Prefixed a decimal point', '.03', '✅ OK after adjustment')" >
+    <area shape="rect" coords="251,1553,320,1600" onclick="f('February 27', '-', '-', '✅ OK')" >
+    <area shape="rect" coords="251,1600,320,1643" onclick="f_adj('February 28', '12', '.12', 'Prefixed a decimal point', '.12', '✅ OK after adjustment')" >
+    <area shape="rect" coords="251,1643,320,1684" onclick="f('February 29', '<None>', '<None>', '✅ OK')" >
+    <area shape="rect" coords="251,1684,320,1727" onclick="f('February 30', '<None>', '<None>', '✅ OK')" >
+    <area shape="rect" coords="251,1727,320,1770" onclick="f('February 31', '<None>', '<None>', '✅ OK')" >
+    <area shape="rect" coords="327,418,396,464" onclick="f_adj('March 1', '10', '.10', 'Prefixed a decimal point', '.10', '✅ OK after adjustment')" >
+    <area shape="rect" coords="327,464,396,508" onclick="f_adj('March 2', '64', '.64', 'Prefixed a decimal point', '.64', '✅ OK after adjustment')" >
+    <area shape="rect" coords="327,508,396,553" onclick="f_adj('March 3', '26', '.26', 'Prefixed a decimal point', '.26', '✅ OK after adjustment')" >
+    <area shape="rect" coords="327,553,396,597" onclick="f_adj('March 4', '03', '.03', 'Prefixed a decimal point', '.03', '✅ OK after adjustment')" >
+    <area shape="rect" coords="327,597,396,636" onclick="f('March 5', '-', '-', '✅ OK')" >
+    <area shape="rect" coords="327,636,396,684" onclick="f_adj('March 6', '08', '.08', 'Prefixed a decimal point', '.08', '✅ OK after adjustment')" >
+    <area shape="rect" coords="327,684,396,730" onclick="f('March 7', '-', '-', '✅ OK')" >
+    <area shape="rect" coords="327,730,396,774" onclick="f('March 8', '-', '-', '✅ OK')" >
+    <area shape="rect" coords="327,774,396,817" onclick="f_adj('March 9', '45', '.45', 'Prefixed a decimal point', '.45', '✅ OK after adjustment')" >
+    <area shape="rect" coords="327,817,396,858" onclick="f_adj('March 10', '03', '.03', 'Prefixed a decimal point', '.03', '✅ OK after adjustment')" >
+    <area shape="rect" coords="327,858,396,898" onclick="f_adj('March 11', '38', '.38', 'Prefixed a decimal point', '.38', '✅ OK after adjustment')" >
+    <area shape="rect" coords="327,898,396,943" onclick="f_adj('March 12', '05', '.05', 'Prefixed a decimal point', '.05', '✅ OK after adjustment')" >
+    <area shape="rect" coords="327,943,396,984" onclick="f_adj('March 13', '02', '.02', 'Prefixed a decimal point', '.02', '✅ OK after adjustment')" >
+    <area shape="rect" coords="327,984,396,1032" onclick="f_adj('March 14', '07', '.07', 'Prefixed a decimal point', '.07', '✅ OK after adjustment')" >
+    <area shape="rect" coords="327,1032,396,1079" onclick="f_adj('March 15', '1', '-', 'Replaced &quot;1&quot; with &quot;-&quot;', '-', '✅ OK after adjustment')" >
+    <area shape="rect" coords="327,1079,396,1117" onclick="f_adj('March 16', '18', '.18', 'Prefixed a decimal point', '.18', '✅ OK after adjustment')" >
+    <area shape="rect" coords="327,1117,396,1162" onclick="f('March 17', '.03', '.03', '✅ OK')" >
+    <area shape="rect" coords="327,1162,396,1206" onclick="f_adj('March 18', '1', '-', 'Replaced &quot;1&quot; with &quot;-&quot;', '-', '✅ OK after adjustment')" >
+    <area shape="rect" coords="327,1206,396,1250" onclick="f('March 19', '<None>', '-', '❌ Missed')" >
+    <area shape="rect" coords="327,1250,396,1289" onclick="f('March 20', '<None>', '-', '❌ Missed')" >
+    <area shape="rect" coords="327,1289,396,1335" onclick="f('March 21', '<None>', '-', '❌ Missed')" >
+    <area shape="rect" coords="327,1335,396,1385" onclick="f_adj('March 22', '06', '.06', 'Prefixed a decimal point', '.06', '✅ OK after adjustment')" >
+    <area shape="rect" coords="327,1385,396,1421" onclick="f_adj('March 23', '13', '.13', 'Prefixed a decimal point', '.13', '✅ OK after adjustment')" >
+    <area shape="rect" coords="327,1421,396,1470" onclick="f_adj('March 24', '30', '.30', 'Prefixed a decimal point', '.30', '✅ OK after adjustment')" >
+    <area shape="rect" coords="327,1470,396,1515" onclick="f_adj('March 25', '01', '.01', 'Prefixed a decimal point', '.01', '✅ OK after adjustment')" >
+    <area shape="rect" coords="327,1515,396,1553" onclick="f('March 26', '-', '-', '✅ OK')" >
+    <area shape="rect" coords="327,1553,396,1600" onclick="f_adj('March 27', '34', '.34', 'Prefixed a decimal point', '.34', '✅ OK after adjustment')" >
+    <area shape="rect" coords="327,1600,396,1643" onclick="f('March 28', '-', '-', '✅ OK')" >
+    <area shape="rect" coords="327,1643,396,1684" onclick="f('March 29', '-', '-', '✅ OK')" >
+    <area shape="rect" coords="327,1684,396,1727" onclick="f_adj('March 30', '/', '-', 'Replaced &quot;/&quot; with &quot;-&quot;', '-', '✅ OK after adjustment')" >
+    <area shape="rect" coords="327,1727,396,1770" onclick="f('March 31', '.05', '.05', '✅ OK')" >
+    <area shape="rect" coords="403,418,477,464" onclick="f_adj('April 1', '14', '.14', 'Prefixed a decimal point', '.14', '✅ OK after adjustment')" >
+    <area shape="rect" coords="403,464,477,508" onclick="f_adj('April 2', 'as', '.05', 'Prefixed a decimal point; Replaced &quot;as&quot; with &quot;05&quot;', '.05', '✅ OK after adjustment')" >
+    <area shape="rect" coords="403,508,477,553" onclick="f_adj('April 3', '63', '.63', 'Prefixed a decimal point', '.63', '✅ OK after adjustment')" >
+    <area shape="rect" coords="403,553,477,597" onclick="f_adj('April 4', '31', '.31', 'Prefixed a decimal point', '.31', '✅ OK after adjustment')" >
+    <area shape="rect" coords="403,597,477,636" onclick="f_adj('April 5', '03', '.03', 'Prefixed a decimal point', '.03', '✅ OK after adjustment')" >
+    <area shape="rect" coords="403,636,477,684" onclick="f_adj('April 6', '01', '.01', 'Prefixed a decimal point', '.01', '✅ OK after adjustment')" >
+    <area shape="rect" coords="403,684,477,730" onclick="f_adj('April 7', '4.2', '.42', 'Prefixed a decimal point/Removed misplaced decimal point', '.42', '✅ OK after adjustment')" >
+    <area shape="rect" coords="403,730,477,774" onclick="f_adj('April 8', '37', '.37', 'Prefixed a decimal point', '.37', '✅ OK after adjustment')" >
+    <area shape="rect" coords="403,774,477,817" onclick="f_adj('April 9', 'as', '.05', 'Prefixed a decimal point; Replaced &quot;as&quot; with &quot;05&quot;', '.05', '✅ OK after adjustment')" >
+    <area shape="rect" coords="403,817,477,858" onclick="f('April 10', '-', '-', '✅ OK')" >
+    <area shape="rect" coords="403,858,477,898" onclick="f('April 11', '-', '-', '✅ OK')" >
+    <area shape="rect" coords="403,898,477,943" onclick="f_adj('April 12', '12', '.12', 'Prefixed a decimal point', '.12', '✅ OK after adjustment')" >
+    <area shape="rect" coords="403,943,477,984" onclick="f_adj('April 13', '32', '.32', 'Prefixed a decimal point', '.32', '✅ OK after adjustment')" >
+    <area shape="rect" coords="403,984,477,1032" onclick="f_adj('April 14', '09', '.09', 'Prefixed a decimal point', '.09', '✅ OK after adjustment')" >
+    <area shape="rect" coords="403,1032,477,1079" onclick="f_adj('April 15', '16', '.16', 'Prefixed a decimal point', '.16', '✅ OK after adjustment')" >
+    <area shape="rect" coords="403,1079,477,1117" onclick="f_adj('April 16', '03', '.03', 'Prefixed a decimal point', '.03', '✅ OK after adjustment')" >
+    <area shape="rect" coords="403,1117,477,1162" onclick="f_adj('April 17', '/', '-', 'Replaced &quot;/&quot; with &quot;-&quot;', '-', '✅ OK after adjustment')" >
+    <area shape="rect" coords="403,1162,477,1206" onclick="f('April 18', '-', '-', '✅ OK')" >
+    <area shape="rect" coords="403,1206,477,1250" onclick="f('April 19', '-', '-', '✅ OK')" >
+    <area shape="rect" coords="403,1250,477,1289" onclick="f_adj('April 20', '34', '.34', 'Prefixed a decimal point', '.34', '✅ OK after adjustment')" >
+    <area shape="rect" coords="403,1289,477,1335" onclick="f_adj('April 21', '05', '.05', 'Prefixed a decimal point', '.05', '✅ OK after adjustment')" >
+    <area shape="rect" coords="403,1335,477,1385" onclick="f_adj('April 22', '24', '.24', 'Prefixed a decimal point', '.24', '✅ OK after adjustment')" >
+    <area shape="rect" coords="403,1385,477,1421" onclick="f('April 23', '10', '.18', '❌ Wrong')" >
+    <area shape="rect" coords="403,1421,477,1470" onclick="f('April 24', '-', '-', '✅ OK')" >
+    <area shape="rect" coords="403,1470,477,1515" onclick="f('April 25', '<None>', '-', '❌ Missed')" >
+    <area shape="rect" coords="403,1515,477,1553" onclick="f('April 26', '<None>', '-', '❌ Missed')" >
+    <area shape="rect" coords="403,1553,477,1600" onclick="f('April 27', '-', '-', '✅ OK')" >
+    <area shape="rect" coords="403,1600,477,1643" onclick="f_adj('April 28', '01', '.01', 'Prefixed a decimal point', '.01', '✅ OK after adjustment')" >
+    <area shape="rect" coords="403,1643,477,1684" onclick="f_adj('April 29', '01', '.01', 'Prefixed a decimal point', '.01', '✅ OK after adjustment')" >
+    <area shape="rect" coords="403,1684,477,1727" onclick="f('April 30', '<None>', '-', '❌ Missed')" >
+    <area shape="rect" coords="403,1727,477,1770" onclick="f('April 31', '<None>', '<None>', '✅ OK')" >
+    <area shape="rect" coords="484,418,557,464" onclick="f('May 1', '<None>', '-', '❌ Missed')" >
+    <area shape="rect" coords="484,464,557,508" onclick="f('May 2', '-', '-', '✅ OK')" >
+    <area shape="rect" coords="484,508,557,553" onclick="f('May 3', '-', '-', '✅ OK')" >
+    <area shape="rect" coords="484,553,557,597" onclick="f('May 4', '-', '-', '✅ OK')" >
+    <area shape="rect" coords="484,597,557,636" onclick="f('May 5', '-', '-', '✅ OK')" >
+    <area shape="rect" coords="484,636,557,684" onclick="f('May 6', '-', '-', '✅ OK')" >
+    <area shape="rect" coords="484,684,557,730" onclick="f('May 7', '-', '-', '✅ OK')" >
+    <area shape="rect" coords="484,730,557,774" onclick="f('May 8', '<None>', '-', '❌ Missed')" >
+    <area shape="rect" coords="484,774,557,817" onclick="f_adj('May 9', '29', '.29', 'Prefixed a decimal point', '.29', '✅ OK after adjustment')" >
+    <area shape="rect" coords="484,817,557,858" onclick="f_adj('May 10', '77', '.77', 'Prefixed a decimal point', '.77', '✅ OK after adjustment')" >
+    <area shape="rect" coords="484,858,557,898" onclick="f_adj('May 11', '02', '.02', 'Prefixed a decimal point', '.02', '✅ OK after adjustment')" >
+    <area shape="rect" coords="484,898,557,943" onclick="f_adj('May 12', '11', '.11', 'Prefixed a decimal point', '.11', '✅ OK after adjustment')" >
+    <area shape="rect" coords="484,943,557,984" onclick="f('May 13', '-', '-', '✅ OK')" >
+    <area shape="rect" coords="484,984,557,1032" onclick="f_adj('May 14', '10', '.10', 'Prefixed a decimal point', '.10', '✅ OK after adjustment')" >
+    <area shape="rect" coords="484,1032,557,1079" onclick="f('May 15', '-', '-', '✅ OK')" >
+    <area shape="rect" coords="484,1079,557,1117" onclick="f_adj('May 16', '18', '.18', 'Prefixed a decimal point', '.18', '✅ OK after adjustment')" >
+    <area shape="rect" coords="484,1117,557,1162" onclick="f_adj('May 17', '10', '.10', 'Prefixed a decimal point', '.10', '✅ OK after adjustment')" >
+    <area shape="rect" coords="484,1162,557,1206" onclick="f_adj('May 18', '16', '.16', 'Prefixed a decimal point', '.16', '✅ OK after adjustment')" >
+    <area shape="rect" coords="484,1206,557,1250" onclick="f_adj('May 19', '01', '.01', 'Prefixed a decimal point', '.01', '✅ OK after adjustment')" >
+    <area shape="rect" coords="484,1250,557,1289" onclick="f_adj('May 20', '1', '-', 'Replaced &quot;1&quot; with &quot;-&quot;', '-', '✅ OK after adjustment')" >
+    <area shape="rect" coords="484,1289,557,1335" onclick="f('May 21', '<None>', '-', '❌ Missed')" >
+    <area shape="rect" coords="484,1335,557,1385" onclick="f('May 22', '-', '-', '✅ OK')" >
+    <area shape="rect" coords="484,1385,557,1421" onclick="f('May 23', '-', '-', '✅ OK')" >
+    <area shape="rect" coords="484,1421,557,1470" onclick="f('May 24', '<None>', '-', '❌ Missed')" >
+    <area shape="rect" coords="484,1470,557,1515" onclick="f('May 25', '<None>', '-', '❌ Missed')" >
+    <area shape="rect" coords="484,1515,557,1553" onclick="f_adj('May 26', '18', '.18', 'Prefixed a decimal point', '.18', '✅ OK after adjustment')" >
+    <area shape="rect" coords="484,1553,557,1600" onclick="f('May 27', '1.28', '1.28', '✅ OK')" >
+    <area shape="rect" coords="484,1600,557,1643" onclick="f_adj('May 28', '02', '.02', 'Prefixed a decimal point', '.02', '✅ OK after adjustment')" >
+    <area shape="rect" coords="484,1643,557,1684" onclick="f('May 29', '-', '-', '✅ OK')" >
+    <area shape="rect" coords="484,1684,557,1727" onclick="f_adj('May 30', '02', '.02', 'Prefixed a decimal point', '.02', '✅ OK after adjustment')" >
+    <area shape="rect" coords="484,1727,557,1770" onclick="f_adj('May 31', '45', '.45', 'Prefixed a decimal point', '.45', '✅ OK after adjustment')" >
+    <area shape="rect" coords="564,418,639,464" onclick="f_adj('June 1', '16', '.16', 'Prefixed a decimal point', '.16', '✅ OK after adjustment')" >
+    <area shape="rect" coords="564,464,639,508" onclick="f_adj('June 2', '03', '.03', 'Prefixed a decimal point', '.03', '✅ OK after adjustment')" >
+    <area shape="rect" coords="564,508,639,553" onclick="f_adj('June 3', '41', '.41', 'Prefixed a decimal point', '.41', '✅ OK after adjustment')" >
+    <area shape="rect" coords="564,553,639,597" onclick="f_adj('June 4', '02', '.02', 'Prefixed a decimal point', '.02', '✅ OK after adjustment')" >
+    <area shape="rect" coords="564,597,639,636" onclick="f_adj('June 5', '07', '.07', 'Prefixed a decimal point', '.07', '✅ OK after adjustment')" >
+    <area shape="rect" coords="564,636,639,684" onclick="f_adj('June 6', '31', '.31', 'Prefixed a decimal point', '.31', '✅ OK after adjustment')" >
+    <area shape="rect" coords="564,684,639,730" onclick="f('June 7', '<None>', '-', '❌ Missed')" >
+    <area shape="rect" coords="564,730,639,774" onclick="f_adj('June 8', '28', '.28', 'Prefixed a decimal point', '.28', '✅ OK after adjustment')" >
+    <area shape="rect" coords="564,774,639,817" onclick="f_adj('June 9', '01', '.01', 'Prefixed a decimal point', '.01', '✅ OK after adjustment')" >
+    <area shape="rect" coords="564,817,639,858" onclick="f('June 10', '-', '-', '✅ OK')" >
+    <area shape="rect" coords="564,858,639,898" onclick="f_adj('June 11', '05', '.05', 'Prefixed a decimal point', '.05', '✅ OK after adjustment')" >
+    <area shape="rect" coords="564,898,639,943" onclick="f('June 12', '-', '-', '✅ OK')" >
+    <area shape="rect" coords="564,943,639,984" onclick="f('June 13', '<None>', '-', '❌ Missed')" >
+    <area shape="rect" coords="564,984,639,1032" onclick="f('June 14', '<None>', '-', '❌ Missed')" >
+    <area shape="rect" coords="564,1032,639,1079" onclick="f('June 15', '<None>', '-', '❌ Missed')" >
+    <area shape="rect" coords="564,1079,639,1117" onclick="f('June 16', '-', '-', '✅ OK')" >
+    <area shape="rect" coords="564,1117,639,1162" onclick="f_adj('June 17', '/', '-', 'Replaced &quot;/&quot; with &quot;-&quot;', '-', '✅ OK after adjustment')" >
+    <area shape="rect" coords="564,1162,639,1206" onclick="f_adj('June 18', '41', '.41', 'Prefixed a decimal point', '.41', '✅ OK after adjustment')" >
+    <area shape="rect" coords="564,1206,639,1250" onclick="f_adj('June 19', '02', '.02', 'Prefixed a decimal point', '.02', '✅ OK after adjustment')" >
+    <area shape="rect" coords="564,1250,639,1289" onclick="f_adj('June 20', '/', '-', 'Replaced &quot;/&quot; with &quot;-&quot;', '-', '✅ OK after adjustment')" >
+    <area shape="rect" coords="564,1289,639,1335" onclick="f_adj('June 21', 'oh', '.06', 'Prefixed a decimal point; Replaced &quot;h&quot; with &quot;6&quot;/Replaced &quot;o&quot; with &quot;0&quot;', '.06', '✅ OK after adjustment')" >
+    <area shape="rect" coords="564,1335,639,1385" onclick="f_adj('June 22', '6b', '.66', 'Prefixed a decimal point; Replaced &quot;6b&quot; with &quot;66&quot;', '.66', '✅ OK after adjustment')" >
+    <area shape="rect" coords="564,1385,639,1421" onclick="f_adj('June 23', '01', '.01', 'Prefixed a decimal point', '.01', '✅ OK after adjustment')" >
+    <area shape="rect" coords="564,1421,639,1470" onclick="f_adj('June 24', '09', '.09', 'Prefixed a decimal point', '.09', '✅ OK after adjustment')" >
+    <area shape="rect" coords="564,1470,639,1515" onclick="f_adj('June 25', '\'18', '.18', 'Replaced &quot;\'&quot; as decimal point', '.18', '✅ OK after adjustment')" >
+    <area shape="rect" coords="564,1515,639,1553" onclick="f('June 26', '.18', '.18', '✅ OK')" >
+    <area shape="rect" coords="564,1553,639,1600" onclick="f('June 27', '-', '-', '✅ OK')" >
+    <area shape="rect" coords="564,1600,639,1643" onclick="f('June 28', '-', '-', '✅ OK')" >
+    <area shape="rect" coords="564,1643,639,1684" onclick="f_adj('June 29', '15', '.15', 'Prefixed a decimal point', '.15', '✅ OK after adjustment')" >
+    <area shape="rect" coords="564,1684,639,1727" onclick="f('June 30', '.01', '.01', '✅ OK')" >
+    <area shape="rect" coords="564,1727,639,1770" onclick="f('June 31', '<None>', '<None>', '✅ OK')" >
+    <area shape="rect" coords="645,418,716,464" onclick="f('July 1', '-', '-', '✅ OK')" >
+    <area shape="rect" coords="645,464,716,508" onclick="f_adj('July 2', '13', '.13', 'Prefixed a decimal point', '.13', '✅ OK after adjustment')" >
+    <area shape="rect" coords="645,508,716,553" onclick="f_adj('July 3', '02', '.02', 'Prefixed a decimal point', '.02', '✅ OK after adjustment')" >
+    <area shape="rect" coords="645,553,716,597" onclick="f('July 4', '-', '-', '✅ OK')" >
+    <area shape="rect" coords="645,597,716,636" onclick="f_adj('July 5', '02', '.02', 'Prefixed a decimal point', '.02', '✅ OK after adjustment')" >
+    <area shape="rect" coords="645,636,716,684" onclick="f('July 6', '-', '-', '✅ OK')" >
+    <area shape="rect" coords="645,684,716,730" onclick="f('July 7', '-', '-', '✅ OK')" >
+    <area shape="rect" coords="645,730,716,774" onclick="f('July 8', '<None>', '-', '❌ Missed')" >
+    <area shape="rect" coords="645,774,716,817" onclick="f_adj('July 9', '-13', '.13', 'Replaced &quot;-&quot; as decimal point', '.13', '✅ OK after adjustment')" >
+    <area shape="rect" coords="645,817,716,858" onclick="f_adj('July 10', '03', '.03', 'Prefixed a decimal point', '.03', '✅ OK after adjustment')" >
+    <area shape="rect" coords="645,858,716,898" onclick="f('July 11', '-', '-', '✅ OK')" >
+    <area shape="rect" coords="645,898,716,943" onclick="f('July 12', '<None>', '-', '❌ Missed')" >
+    <area shape="rect" coords="645,943,716,984" onclick="f_adj('July 13', '20', '.20', 'Prefixed a decimal point', '.20', '✅ OK after adjustment')" >
+    <area shape="rect" coords="645,984,716,1032" onclick="f_adj('July 14', '203', '2.03', 'Inserted a decimal point', '2.03', '✅ OK after adjustment')" >
+    <area shape="rect" coords="645,1032,716,1079" onclick="f_adj('July 15', '77', '.77', 'Prefixed a decimal point', '.77', '✅ OK after adjustment')" >
+    <area shape="rect" coords="645,1079,716,1117" onclick="f_adj('July 16', '05', '.05', 'Prefixed a decimal point', '.05', '✅ OK after adjustment')" >
+    <area shape="rect" coords="645,1117,716,1162" onclick="f('July 17', '<None>', '-', '❌ Missed')" >
+    <area shape="rect" coords="645,1162,716,1206" onclick="f_adj('July 18', '01', '.01', 'Prefixed a decimal point', '.01', '✅ OK after adjustment')" >
+    <area shape="rect" coords="645,1206,716,1250" onclick="f_adj('July 19', '14', '.14', 'Prefixed a decimal point', '.14', '✅ OK after adjustment')" >
+    <area shape="rect" coords="645,1250,716,1289" onclick="f_adj('July 20', '01', '.01', 'Prefixed a decimal point', '.01', '✅ OK after adjustment')" >
+    <area shape="rect" coords="645,1289,716,1335" onclick="f('July 21', '.21', '.21', '✅ OK')" >
+    <area shape="rect" coords="645,1335,716,1385" onclick="f('July 22', '1.24', '1.24', '✅ OK')" >
+    <area shape="rect" coords="645,1385,716,1421" onclick="f_adj('July 23', '05', '.05', 'Prefixed a decimal point', '.05', '✅ OK after adjustment')" >
+    <area shape="rect" coords="645,1421,716,1470" onclick="f_adj('July 24', '08', '.08', 'Prefixed a decimal point', '.08', '✅ OK after adjustment')" >
+    <area shape="rect" coords="645,1470,716,1515" onclick="f_adj('July 25', '04', '.04', 'Prefixed a decimal point', '.04', '✅ OK after adjustment')" >
+    <area shape="rect" coords="645,1515,716,1553" onclick="f('July 26', '-', '-', '✅ OK')" >
+    <area shape="rect" coords="645,1553,716,1600" onclick="f_adj('July 27', '04', '.04', 'Prefixed a decimal point', '.04', '✅ OK after adjustment')" >
+    <area shape="rect" coords="645,1600,716,1643" onclick="f_adj('July 28', '01', '.01', 'Prefixed a decimal point', '.01', '✅ OK after adjustment')" >
+    <area shape="rect" coords="645,1643,716,1684" onclick="f_adj('July 29', '1', '-', 'Replaced &quot;1&quot; with &quot;-&quot;', '-', '✅ OK after adjustment')" >
+    <area shape="rect" coords="645,1684,716,1727" onclick="f_adj('July 30', '03', '.03', 'Prefixed a decimal point', '.03', '✅ OK after adjustment')" >
+    <area shape="rect" coords="645,1727,716,1770" onclick="f('July 31', '-', '-', '✅ OK')" >
+    <area shape="rect" coords="723,418,793,464" onclick="f_adj('August 1', '03', '.03', 'Prefixed a decimal point', '.03', '✅ OK after adjustment')" >
+    <area shape="rect" coords="723,464,793,508" onclick="f_adj('August 2', '23', '.23', 'Prefixed a decimal point', '.23', '✅ OK after adjustment')" >
+    <area shape="rect" coords="723,508,793,553" onclick="f('August 3', '-', '-', '✅ OK')" >
+    <area shape="rect" coords="723,553,793,597" onclick="f_adj('August 4', '06', '.06', 'Prefixed a decimal point', '.06', '✅ OK after adjustment')" >
+    <area shape="rect" coords="723,597,793,636" onclick="f_adj('August 5', '01', '.01', 'Prefixed a decimal point', '.01', '✅ OK after adjustment')" >
+    <area shape="rect" coords="723,636,793,684" onclick="f('August 6', '-', '-', '✅ OK')" >
+    <area shape="rect" coords="723,684,793,730" onclick="f_adj('August 7', '07', '.07', 'Prefixed a decimal point', '.07', '✅ OK after adjustment')" >
+    <area shape="rect" coords="723,730,793,774" onclick="f_adj('August 8', '40', '.40', 'Prefixed a decimal point', '.40', '✅ OK after adjustment')" >
+    <area shape="rect" coords="723,774,793,817" onclick="f_adj('August 9', '38', '.38', 'Prefixed a decimal point', '.38', '✅ OK after adjustment')" >
+    <area shape="rect" coords="723,817,793,858" onclick="f_adj('August 10', '23', '.23', 'Prefixed a decimal point', '.23', '✅ OK after adjustment')" >
+    <area shape="rect" coords="723,858,793,898" onclick="f('August 11', '-', '-', '✅ OK')" >
+    <area shape="rect" coords="723,898,793,943" onclick="f('August 12', '-', '-', '✅ OK')" >
+    <area shape="rect" coords="723,943,793,984" onclick="f_adj('August 13', '01', '.01', 'Prefixed a decimal point', '.01', '✅ OK after adjustment')" >
+    <area shape="rect" coords="723,984,793,1032" onclick="f('August 14', '-', '-', '✅ OK')" >
+    <area shape="rect" coords="723,1032,793,1079" onclick="f_adj('August 15', '08', '.08', 'Prefixed a decimal point', '.08', '✅ OK after adjustment')" >
+    <area shape="rect" coords="723,1079,793,1117" onclick="f_adj('August 16', '03', '.03', 'Prefixed a decimal point', '.03', '✅ OK after adjustment')" >
+    <area shape="rect" coords="723,1117,793,1162" onclick="f_adj('August 17', '12', '.12', 'Prefixed a decimal point', '.12', '✅ OK after adjustment')" >
+    <area shape="rect" coords="723,1162,793,1206" onclick="f_adj('August 18', '02', '.02', 'Prefixed a decimal point', '.02', '✅ OK after adjustment')" >
+    <area shape="rect" coords="723,1206,793,1250" onclick="f_adj('August 19', '23', '.23', 'Prefixed a decimal point', '.23', '✅ OK after adjustment')" >
+    <area shape="rect" coords="723,1250,793,1289" onclick="f_adj('August 20', '28', '.28', 'Prefixed a decimal point', '.28', '✅ OK after adjustment')" >
+    <area shape="rect" coords="723,1289,793,1335" onclick="f_adj('August 21', '5h', '.56', 'Prefixed a decimal point; Replaced &quot;h&quot; with &quot;6&quot;', '.56', '✅ OK after adjustment')" >
+    <area shape="rect" coords="723,1335,793,1385" onclick="f_adj('August 22', '30', '.30', 'Prefixed a decimal point', '.30', '✅ OK after adjustment')" >
+    <area shape="rect" coords="723,1385,793,1421" onclick="f_adj('August 23', '24', '.24', 'Prefixed a decimal point', '.24', '✅ OK after adjustment')" >
+    <area shape="rect" coords="723,1421,793,1470" onclick="f_adj('August 24', '01', '.01', 'Prefixed a decimal point', '.01', '✅ OK after adjustment')" >
+    <area shape="rect" coords="723,1470,793,1515" onclick="f_adj('August 25', '1', '-', 'Replaced &quot;1&quot; with &quot;-&quot;', '-', '✅ OK after adjustment')" >
+    <area shape="rect" coords="723,1515,793,1553" onclick="f('August 26', '53', '.55', '❌ Wrong')" >
+    <area shape="rect" coords="723,1553,793,1600" onclick="f_adj('August 27', '08', '.08', 'Prefixed a decimal point', '.08', '✅ OK after adjustment')" >
+    <area shape="rect" coords="723,1600,793,1643" onclick="f_adj('August 28', '48', '.48', 'Prefixed a decimal point', '.48', '✅ OK after adjustment')" >
+    <area shape="rect" coords="723,1643,793,1684" onclick="f_adj('August 29', '11', '.11', 'Prefixed a decimal point', '.11', '✅ OK after adjustment')" >
+    <area shape="rect" coords="723,1684,793,1727" onclick="f_adj('August 30', '50', '.50', 'Prefixed a decimal point', '.50', '✅ OK after adjustment')" >
+    <area shape="rect" coords="723,1727,793,1770" onclick="f_adj('August 31', '3b', '.36', 'Prefixed a decimal point; Replaced &quot;3b&quot; with &quot;36&quot;', '.36', '✅ OK after adjustment')" >
+    <area shape="rect" coords="800,418,870,464" onclick="f_adj('September 1', '01', '.01', 'Prefixed a decimal point', '.01', '✅ OK after adjustment')" >
+    <area shape="rect" coords="800,464,870,508" onclick="f_adj('September 2', '27', '.27', 'Prefixed a decimal point', '.27', '✅ OK after adjustment')" >
+    <area shape="rect" coords="800,508,870,553" onclick="f('September 3', '35', '.55', '❌ Wrong')" >
+    <area shape="rect" coords="800,553,870,597" onclick="f_adj('September 4', '01', '.01', 'Prefixed a decimal point', '.01', '✅ OK after adjustment')" >
+    <area shape="rect" coords="800,597,870,636" onclick="f('September 5', '-', '-', '✅ OK')" >
+    <area shape="rect" coords="800,636,870,684" onclick="f('September 6', '-', '-', '✅ OK')" >
+    <area shape="rect" coords="800,684,870,730" onclick="f_adj('September 7', '23', '.23', 'Prefixed a decimal point', '.23', '✅ OK after adjustment')" >
+    <area shape="rect" coords="800,730,870,774" onclick="f_adj('September 8', '01', '.01', 'Prefixed a decimal point', '.01', '✅ OK after adjustment')" >
+    <area shape="rect" coords="800,774,870,817" onclick="f('September 9', '-', '-', '✅ OK')" >
+    <area shape="rect" coords="800,817,870,858" onclick="f('September 10', '-', '-', '✅ OK')" >
+    <area shape="rect" coords="800,858,870,898" onclick="f_adj('September 11', '04', '.04', 'Prefixed a decimal point', '.04', '✅ OK after adjustment')" >
+    <area shape="rect" coords="800,898,870,943" onclick="f_adj('September 12', '12', '.12', 'Prefixed a decimal point', '.12', '✅ OK after adjustment')" >
+    <area shape="rect" coords="800,943,870,984" onclick="f_adj('September 13', '19', '.19', 'Prefixed a decimal point', '.19', '✅ OK after adjustment')" >
+    <area shape="rect" coords="800,984,870,1032" onclick="f('September 14', '5-9', '.59', '❌ Wrong')" >
+    <area shape="rect" coords="800,1032,870,1079" onclick="f('September 15', '1.87', '1.87', '✅ OK')" >
+    <area shape="rect" coords="800,1079,870,1117" onclick="f_adj('September 16', '01', '.01', 'Prefixed a decimal point', '.01', '✅ OK after adjustment')" >
+    <area shape="rect" coords="800,1117,870,1162" onclick="f_adj('September 17', '/', '-', 'Replaced &quot;/&quot; with &quot;-&quot;', '-', '✅ OK after adjustment')" >
+    <area shape="rect" coords="800,1162,870,1206" onclick="f('September 18', '-', '-', '✅ OK')" >
+    <area shape="rect" coords="800,1206,870,1250" onclick="f('September 19', '-', '-', '✅ OK')" >
+    <area shape="rect" coords="800,1250,870,1289" onclick="f_adj('September 20', '01', '.01', 'Prefixed a decimal point', '.01', '✅ OK after adjustment')" >
+    <area shape="rect" coords="800,1289,870,1335" onclick="f_adj('September 21', '/', '-', 'Replaced &quot;/&quot; with &quot;-&quot;', '-', '✅ OK after adjustment')" >
+    <area shape="rect" coords="800,1335,870,1385" onclick="f('September 22', '-', '-', '✅ OK')" >
+    <area shape="rect" coords="800,1385,870,1421" onclick="f('September 23', '.05', '.05', '✅ OK')" >
+    <area shape="rect" coords="800,1421,870,1470" onclick="f_adj('September 24', '1', '-', 'Replaced &quot;1&quot; with &quot;-&quot;', '-', '✅ OK after adjustment')" >
+    <area shape="rect" coords="800,1470,870,1515" onclick="f('September 25', '-', '-', '✅ OK')" >
+    <area shape="rect" coords="800,1515,870,1553" onclick="f('September 26', '<None>', '-', '❌ Missed')" >
+    <area shape="rect" coords="800,1553,870,1600" onclick="f('September 27', '<None>', '-', '❌ Missed')" >
+    <area shape="rect" coords="800,1600,870,1643" onclick="f('September 28', '-', '-', '✅ OK')" >
+    <area shape="rect" coords="800,1643,870,1684" onclick="f('September 29', '-', '-', '✅ OK')" >
+    <area shape="rect" coords="800,1684,870,1727" onclick="f_adj('September 30', '1', '-', 'Replaced &quot;1&quot; with &quot;-&quot;', '-', '✅ OK after adjustment')" >
+    <area shape="rect" coords="800,1727,870,1770" onclick="f('September 31', '<None>', '<None>', '✅ OK')" >
+    <area shape="rect" coords="877,418,950,464" onclick="f('October 1', '-', '-', '✅ OK')" >
+    <area shape="rect" coords="877,464,950,508" onclick="f('October 2', '-', '-', '✅ OK')" >
+    <area shape="rect" coords="877,508,950,553" onclick="f('October 3', '-', '-', '✅ OK')" >
+    <area shape="rect" coords="877,553,950,597" onclick="f('October 4', '.01', '.01', '✅ OK')" >
+    <area shape="rect" coords="877,597,950,636" onclick="f('October 5', '-', '-', '✅ OK')" >
+    <area shape="rect" coords="877,636,950,684" onclick="f('October 6', '-', '-', '✅ OK')" >
+    <area shape="rect" coords="877,684,950,730" onclick="f('October 7', '.01', '.01', '✅ OK')" >
+    <area shape="rect" coords="877,730,950,774" onclick="f('October 8', '-', '-', '✅ OK')" >
+    <area shape="rect" coords="877,774,950,817" onclick="f('October 9', '-', '-', '✅ OK')" >
+    <area shape="rect" coords="877,817,950,858" onclick="f('October 10', '.12', '.12', '✅ OK')" >
+    <area shape="rect" coords="877,858,950,898" onclick="f('October 11', '-', '-', '✅ OK')" >
+    <area shape="rect" coords="877,898,950,943" onclick="f_adj('October 12', '25', '.25', 'Prefixed a decimal point', '.25', '✅ OK after adjustment')" >
+    <area shape="rect" coords="877,943,950,984" onclick="f_adj('October 13', '05', '.05', 'Prefixed a decimal point', '.05', '✅ OK after adjustment')" >
+    <area shape="rect" coords="877,984,950,1032" onclick="f_adj('October 14', '45', '.45', 'Prefixed a decimal point', '.45', '✅ OK after adjustment')" >
+    <area shape="rect" coords="877,1032,950,1079" onclick="f_adj('October 15', '30', '.30', 'Prefixed a decimal point', '.30', '✅ OK after adjustment')" >
+    <area shape="rect" coords="877,1079,950,1117" onclick="f('October 16', '-', '-', '✅ OK')" >
+    <area shape="rect" coords="877,1117,950,1162" onclick="f_adj('October 17', '01', '.01', 'Prefixed a decimal point', '.01', '✅ OK after adjustment')" >
+    <area shape="rect" coords="877,1162,950,1206" onclick="f_adj('October 18', '04', '.04', 'Prefixed a decimal point', '.04', '✅ OK after adjustment')" >
+    <area shape="rect" coords="877,1206,950,1250" onclick="f_adj('October 19', '14', '.14', 'Prefixed a decimal point', '.14', '✅ OK after adjustment')" >
+    <area shape="rect" coords="877,1250,950,1289" onclick="f('October 20', '.34', '.34', '✅ OK')" >
+    <area shape="rect" coords="877,1289,950,1335" onclick="f_adj('October 21', '33', '.33', 'Prefixed a decimal point', '.33', '✅ OK after adjustment')" >
+    <area shape="rect" coords="877,1335,950,1385" onclick="f_adj('October 22', '92', '.92', 'Prefixed a decimal point', '.92', '✅ OK after adjustment')" >
+    <area shape="rect" coords="877,1385,950,1421" onclick="f_adj('October 23', '45', '.45', 'Prefixed a decimal point', '.45', '✅ OK after adjustment')" >
+    <area shape="rect" coords="877,1421,950,1470" onclick="f_adj('October 24', '33', '.33', 'Prefixed a decimal point', '.33', '✅ OK after adjustment')" >
+    <area shape="rect" coords="877,1470,950,1515" onclick="f_adj('October 25', '03', '.03', 'Prefixed a decimal point', '.03', '✅ OK after adjustment')" >
+    <area shape="rect" coords="877,1515,950,1553" onclick="f_adj('October 26', '16', '.16', 'Prefixed a decimal point', '.16', '✅ OK after adjustment')" >
+    <area shape="rect" coords="877,1553,950,1600" onclick="f_adj('October 27', '05', '.05', 'Prefixed a decimal point', '.05', '✅ OK after adjustment')" >
+    <area shape="rect" coords="877,1600,950,1643" onclick="f_adj('October 28', '18', '.18', 'Prefixed a decimal point', '.18', '✅ OK after adjustment')" >
+    <area shape="rect" coords="877,1643,950,1684" onclick="f_adj('October 29', '10', '.10', 'Prefixed a decimal point', '.10', '✅ OK after adjustment')" >
+    <area shape="rect" coords="877,1684,950,1727" onclick="f_adj('October 30', '22', '.22', 'Prefixed a decimal point', '.22', '✅ OK after adjustment')" >
+    <area shape="rect" coords="877,1727,950,1770" onclick="f('October 31', '-', '-', '✅ OK')" >
+    <area shape="rect" coords="957,418,1027,464" onclick="f('November 1', 'to', '<None>', '❌ Wrong')" >
+    <area shape="rect" coords="957,464,1027,508" onclick="f('November 2', 'to', '.78', '❌ Wrong')" >
+    <area shape="rect" coords="957,508,1027,553" onclick="f_adj('November 3', '01', '.01', 'Prefixed a decimal point', '.01', '✅ OK after adjustment')" >
+    <area shape="rect" coords="957,553,1027,597" onclick="f_adj('November 4', '28', '.28', 'Prefixed a decimal point', '.28', '✅ OK after adjustment')" >
+    <area shape="rect" coords="957,597,1027,636" onclick="f_adj('November 5', 'bs', '.65', 'Prefixed a decimal point; Replaced &quot;b&quot; with &quot;6&quot;/Replaced &quot;s&quot; with &quot;5&quot;', '.65', '✅ OK after adjustment')" >
+    <area shape="rect" coords="957,636,1027,684" onclick="f_adj('November 6', '40', '.40', 'Prefixed a decimal point', '.40', '✅ OK after adjustment')" >
+    <area shape="rect" coords="957,684,1027,730" onclick="f_adj('November 7', '01', '.01', 'Prefixed a decimal point', '.01', '✅ OK after adjustment')" >
+    <area shape="rect" coords="957,730,1027,774" onclick="f_adj('November 8', '35', '.35', 'Prefixed a decimal point', '.35', '✅ OK after adjustment')" >
+    <area shape="rect" coords="957,774,1027,817" onclick="f_adj('November 9', '70', '.70', 'Prefixed a decimal point', '.70', '✅ OK after adjustment')" >
+    <area shape="rect" coords="957,817,1027,858" onclick="f_adj('November 10', '43', '.43', 'Prefixed a decimal point', '.43', '✅ OK after adjustment')" >
+    <area shape="rect" coords="957,858,1027,898" onclick="f_adj('November 11', '73', '.73', 'Prefixed a decimal point', '.73', '✅ OK after adjustment')" >
+    <area shape="rect" coords="957,898,1027,943" onclick="f_adj('November 12', '44', '.44', 'Prefixed a decimal point', '.44', '✅ OK after adjustment')" >
+    <area shape="rect" coords="957,943,1027,984" onclick="f_adj('November 13', '30', '.30', 'Prefixed a decimal point', '.30', '✅ OK after adjustment')" >
+    <area shape="rect" coords="957,984,1027,1032" onclick="f_adj('November 14', '34', '.34', 'Prefixed a decimal point', '.34', '✅ OK after adjustment')" >
+    <area shape="rect" coords="957,1032,1027,1079" onclick="f('November 15', 'of', '.06', '❌ Wrong')" >
+    <area shape="rect" coords="957,1079,1027,1117" onclick="f_adj('November 16', '01', '.01', 'Prefixed a decimal point', '.01', '✅ OK after adjustment')" >
+    <area shape="rect" coords="957,1117,1027,1162" onclick="f_adj('November 17', '42', '.42', 'Prefixed a decimal point', '.42', '✅ OK after adjustment')" >
+    <area shape="rect" coords="957,1162,1027,1206" onclick="f_adj('November 18', '30', '.30', 'Prefixed a decimal point', '.30', '✅ OK after adjustment')" >
+    <area shape="rect" coords="957,1206,1027,1250" onclick="f_adj('November 19', '10', '.10', 'Prefixed a decimal point', '.10', '✅ OK after adjustment')" >
+    <area shape="rect" coords="957,1250,1027,1289" onclick="f_adj('November 20', '08', '.08', 'Prefixed a decimal point', '.08', '✅ OK after adjustment')" >
+    <area shape="rect" coords="957,1289,1027,1335" onclick="f_adj('November 21', '03', '.03', 'Prefixed a decimal point', '.03', '✅ OK after adjustment')" >
+    <area shape="rect" coords="957,1335,1027,1385" onclick="f_adj('November 22', '02', '.02', 'Prefixed a decimal point', '.02', '✅ OK after adjustment')" >
+    <area shape="rect" coords="957,1385,1027,1421" onclick="f('November 23', '-', '-', '✅ OK')" >
+    <area shape="rect" coords="957,1421,1027,1470" onclick="f('November 24', '-', '-', '✅ OK')" >
+    <area shape="rect" coords="957,1470,1027,1515" onclick="f('November 25', '42', '.02', '❌ Wrong')" >
+    <area shape="rect" coords="957,1515,1027,1553" onclick="f_adj('November 26', '04', '.04', 'Prefixed a decimal point', '.04', '✅ OK after adjustment')" >
+    <area shape="rect" coords="957,1553,1027,1600" onclick="f('November 27', '-', '-', '✅ OK')" >
+    <area shape="rect" coords="957,1600,1027,1643" onclick="f('November 28', '2.19', '2.19', '✅ OK')" >
+    <area shape="rect" coords="957,1643,1027,1684" onclick="f('November 29', '.39', '.39', '✅ OK')" >
+    <area shape="rect" coords="957,1684,1027,1727" onclick="f('November 30', '.22', '.22', '✅ OK')" >
+    <area shape="rect" coords="957,1727,1027,1770" onclick="f('November 31', '<None>', '<None>', '✅ OK')" >
+    <area shape="rect" coords="1035,418,1104,464" onclick="f_adj('December 1', '01', '.01', 'Prefixed a decimal point', '.01', '✅ OK after adjustment')" >
+    <area shape="rect" coords="1035,464,1104,508" onclick="f('December 2', '-', '-', '✅ OK')" >
+    <area shape="rect" coords="1035,508,1104,553" onclick="f('December 3', '-', '-', '✅ OK')" >
+    <area shape="rect" coords="1035,553,1104,597" onclick="f('December 4', '-', '-', '✅ OK')" >
+    <area shape="rect" coords="1035,597,1104,636" onclick="f_adj('December 5', '42', '.42', 'Prefixed a decimal point', '.42', '✅ OK after adjustment')" >
+    <area shape="rect" coords="1035,636,1104,684" onclick="f_adj('December 6', '10', '.10', 'Prefixed a decimal point', '.10', '✅ OK after adjustment')" >
+    <area shape="rect" coords="1035,684,1104,730" onclick="f('December 7', '-', '-', '✅ OK')" >
+    <area shape="rect" coords="1035,730,1104,774" onclick="f_adj('December 8', '02', '.02', 'Prefixed a decimal point', '.02', '✅ OK after adjustment')" >
+    <area shape="rect" coords="1035,774,1104,817" onclick="f_adj('December 9', '17', '.17', 'Prefixed a decimal point', '.17', '✅ OK after adjustment')" >
+    <area shape="rect" coords="1035,817,1104,858" onclick="f_adj('December 10', '73', '.73', 'Prefixed a decimal point', '.73', '✅ OK after adjustment')" >
+    <area shape="rect" coords="1035,858,1104,898" onclick="f_adj('December 11', '22', '.22', 'Prefixed a decimal point', '.22', '✅ OK after adjustment')" >
+    <area shape="rect" coords="1035,898,1104,943" onclick="f_adj('December 12', '14', '.14', 'Prefixed a decimal point', '.14', '✅ OK after adjustment')" >
+    <area shape="rect" coords="1035,943,1104,984" onclick="f_adj('December 13', '02', '.02', 'Prefixed a decimal point', '.02', '✅ OK after adjustment')" >
+    <area shape="rect" coords="1035,984,1104,1032" onclick="f_adj('December 14', '/', '-', 'Replaced &quot;/&quot; with &quot;-&quot;', '-', '✅ OK after adjustment')" >
+    <area shape="rect" coords="1035,1032,1104,1079" onclick="f_adj('December 15', '26', '.26', 'Prefixed a decimal point', '.26', '✅ OK after adjustment')" >
+    <area shape="rect" coords="1035,1079,1104,1117" onclick="f_adj('December 16', '01', '.01', 'Prefixed a decimal point', '.01', '✅ OK after adjustment')" >
+    <area shape="rect" coords="1035,1117,1104,1162" onclick="f_adj('December 17', '03', '.03', 'Prefixed a decimal point', '.03', '✅ OK after adjustment')" >
+    <area shape="rect" coords="1035,1162,1104,1206" onclick="f_adj('December 18', '19', '.19', 'Prefixed a decimal point', '.19', '✅ OK after adjustment')" >
+    <area shape="rect" coords="1035,1206,1104,1250" onclick="f('December 19', '-', '-', '✅ OK')" >
+    <area shape="rect" coords="1035,1250,1104,1289" onclick="f_adj('December 20', '12', '.12', 'Prefixed a decimal point', '.12', '✅ OK after adjustment')" >
+    <area shape="rect" coords="1035,1289,1104,1335" onclick="f_adj('December 21', '04', '.04', 'Prefixed a decimal point', '.04', '✅ OK after adjustment')" >
+    <area shape="rect" coords="1035,1335,1104,1385" onclick="f_adj('December 22', '21', '.21', 'Prefixed a decimal point', '.21', '✅ OK after adjustment')" >
+    <area shape="rect" coords="1035,1385,1104,1421" onclick="f_adj('December 23', '10', '.10', 'Prefixed a decimal point', '.10', '✅ OK after adjustment')" >
+    <area shape="rect" coords="1035,1421,1104,1470" onclick="f_adj('December 24', '01', '.01', 'Prefixed a decimal point', '.01', '✅ OK after adjustment')" >
+    <area shape="rect" coords="1035,1470,1104,1515" onclick="f_adj('December 25', '10', '.10', 'Prefixed a decimal point', '.10', '✅ OK after adjustment')" >
+    <area shape="rect" coords="1035,1515,1104,1553" onclick="f('December 26', '03', '.01', '❌ Wrong')" >
+    <area shape="rect" coords="1035,1553,1104,1600" onclick="f('December 27', 'in', '-', '❌ Wrong')" >
+    <area shape="rect" coords="1035,1600,1104,1643" onclick="f_adj('December 28', '83', '.83', 'Prefixed a decimal point', '.83', '✅ OK after adjustment')" >
+    <area shape="rect" coords="1035,1643,1104,1684" onclick="f_adj('December 29', '13', '.13', 'Prefixed a decimal point', '.13', '✅ OK after adjustment')" >
+    <area shape="rect" coords="1035,1684,1104,1727" onclick="f('December 30', '1.19', '1.19', '✅ OK')" >
+    <area shape="rect" coords="1035,1727,1104,1770" onclick="f('December 31', '.01', '.01', '✅ OK')" >
+</map>
+
+</body>
+</html>
