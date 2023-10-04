@@ -1,6 +1,9 @@
 ## Words identified by Amazon Textract within images of Rainfall Sheets
 
 * [DR_Anglesey_1871-1880C_p002](DR_Anglesey_1871-1880C_p002.rot.image_map.html)
+* [DR_Anglesey_1871-1880C_p005](DR_Anglesey_1871-1880C_p005.rot.image_map.html)
+* [DR_Anglesey_1871-1880C_p008](DR_Anglesey_1871-1880C_p008.rot.image_map.html)
+* [DR_Anglesey_1871-1880C_p017](DR_Anglesey_1871-1880C_p017.rot.image_map.html)
 * [DR_Anglesey_1871-1880C_p020](DR_Anglesey_1871-1880C_p020.rot.image_map.html)
 
 
