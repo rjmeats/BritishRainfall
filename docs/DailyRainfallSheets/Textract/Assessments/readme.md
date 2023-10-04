@@ -1,0 +1,3 @@
+## Assessment of readings extracted using Amazon Textract 
+
+... tbd ...
