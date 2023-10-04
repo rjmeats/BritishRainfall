@@ -13,10 +13,10 @@ Where an exact comparison fails, a comparison using predefined adjustments to th
 
 Click on each daily reading cell in an image to see details of the extracted text, manual transcription and adjustments needed to make a match. Cell borders are coloured by status:
 
-* green - the raw extracted text matches the manual reading
-* pale blue - the raw extracted text does not match the manual reading, but an adjusted form does match
+* green - the unmodified extracted text matches the manual transcription
+* pale blue - the raw extracted text does not match the manual transcription, but an adjusted form does match
 * yellow - where a 'long dash' appears on the sheet to indicate 'no rainfall' for a day, this is missed in the extracted text
-* orange - a reading other than a long dash is missed by the extract text
-* red - the extracted text does not match the manual reading, even after trying adjustments
+* orange - a reading other than a long dash is missed in the extracted text
+* red - the extracted text does not match the manual transcription, even after trying adjustments
 
 Summary counts of each of the above classifications are shown at the top of each image.
