@@ -1,0 +1,476 @@
+
+<html>
+<head/>
+<body>
+
+<script>
+function f_word(w, c, tt) {
+  alert("Word: [" + w + "]\nConf: " + c + "\nType: " + tt);
+}
+
+function f_cell(row, col, conf, contains, etype) {
+  alert(etype + ": row=" + row + ", column=" + col + "\nContains: " + contains);
+}
+</script>
+
+<img src="./DR_Anglesey_1871-1880C_p002.rot.textract-analysis.jpg" alt="DR_Anglesey_1871-1880C_p002.rot" usemap="#words_map" width="1200]">
+<map name="words_map">
+    <area shape="rect" coords="12,343,187,399" onclick="f_cell('1', '1', '94.7', '[Date.]', 'COLUMN_HEADER Cell')" >
+    <area shape="rect" coords="187,343,265,398" onclick="f_cell('1', '2', '62.8', '[Jan.]', 'COLUMN_HEADER Cell')" >
+    <area shape="rect" coords="265,342,347,398" onclick="f_cell('1', '3', '72.0', '[Feb.]', 'COLUMN_HEADER Cell')" >
+    <area shape="rect" coords="347,342,428,398" onclick="f_cell('1', '4', '88.6', '[March.]', 'COLUMN_HEADER Cell')" >
+    <area shape="rect" coords="429,342,511,398" onclick="f_cell('1', '5', '89.3', '[April.]', 'COLUMN_HEADER Cell')" >
+    <area shape="rect" coords="511,342,591,398" onclick="f_cell('1', '6', '87.4', '[May.]', 'COLUMN_HEADER Cell')" >
+    <area shape="rect" coords="591,342,670,397" onclick="f_cell('1', '7', '90.7', '[June.]', 'COLUMN_HEADER Cell')" >
+    <area shape="rect" coords="671,342,751,397" onclick="f_cell('1', '8', '92.3', '[July.]', 'COLUMN_HEADER Cell')" >
+    <area shape="rect" coords="751,342,835,397" onclick="f_cell('1', '9', '92.3', '[Aug.]', 'COLUMN_HEADER Cell')" >
+    <area shape="rect" coords="835,341,914,397" onclick="f_cell('1', '10', '90.2', '[Sept.]', 'COLUMN_HEADER Cell')" >
+    <area shape="rect" coords="914,341,995,397" onclick="f_cell('1', '11', '91.1', '[Oct.]', 'COLUMN_HEADER Cell')" >
+    <area shape="rect" coords="995,341,1075,397" onclick="f_cell('1', '12', '89.8', '[Nov.]', 'COLUMN_HEADER Cell')" >
+    <area shape="rect" coords="1075,341,1171,397" onclick="f_cell('1', '13', '91.5', '[Dec.]', 'COLUMN_HEADER Cell')" >
+    <area shape="rect" coords="12,398,187,424" onclick="f_cell('2', '1', '43.7', '<Blank>', 'Cell')" >
+    <area shape="rect" coords="187,398,265,424" onclick="f_cell('2', '2', '49.8', '[in.]', 'Cell')" >
+    <area shape="rect" coords="265,398,347,424" onclick="f_cell('2', '3', '41.4', '[in.]', 'Cell')" >
+    <area shape="rect" coords="347,398,428,424" onclick="f_cell('2', '4', '36.4', '[in.]', 'Cell')" >
+    <area shape="rect" coords="429,398,511,424" onclick="f_cell('2', '5', '49.3', '[in.]', 'Cell')" >
+    <area shape="rect" coords="511,398,591,424" onclick="f_cell('2', '6', '46.2', '[in.]', 'Cell')" >
+    <area shape="rect" coords="591,398,670,424" onclick="f_cell('2', '7', '72.1', '[in.]', 'Cell')" >
+    <area shape="rect" coords="671,398,751,424" onclick="f_cell('2', '8', '85.8', '[in.]', 'Cell')" >
+    <area shape="rect" coords="751,397,835,423" onclick="f_cell('2', '9', '78.7', '[in.]', 'Cell')" >
+    <area shape="rect" coords="835,397,914,423" onclick="f_cell('2', '10', '87.3', '[in.]', 'Cell')" >
+    <area shape="rect" coords="914,397,995,423" onclick="f_cell('2', '11', '84.1', '[in.]', 'Cell')" >
+    <area shape="rect" coords="995,397,1075,423" onclick="f_cell('2', '12', '88.7', '[in.]', 'Cell')" >
+    <area shape="rect" coords="1075,397,1171,422" onclick="f_cell('2', '13', '89.5', '[in,]', 'Cell')" >
+    <area shape="rect" coords="12,424,187,472" onclick="f_cell('3', '1', '43.7', '[1]', 'Cell')" >
+    <area shape="rect" coords="187,424,265,472" onclick="f_cell('3', '2', '49.8', '<Blank>', 'Cell')" >
+    <area shape="rect" coords="265,424,347,472" onclick="f_cell('3', '3', '41.4', '<Blank>', 'Cell')" >
+    <area shape="rect" coords="347,424,428,472" onclick="f_cell('3', '4', '45.3', '[-]', 'Cell')" >
+    <area shape="rect" coords="429,424,511,472" onclick="f_cell('3', '5', '49.3', '[42]', 'Cell')" >
+    <area shape="rect" coords="511,424,591,471" onclick="f_cell('3', '6', '46.2', '[-]', 'Cell')" >
+    <area shape="rect" coords="591,424,670,471" onclick="f_cell('3', '7', '72.1', '[75]', 'Cell')" >
+    <area shape="rect" coords="671,423,751,471" onclick="f_cell('3', '8', '85.8', '[27]', 'Cell')" >
+    <area shape="rect" coords="751,423,835,471" onclick="f_cell('3', '9', '78.7', '[09]', 'Cell')" >
+    <area shape="rect" coords="835,423,914,471" onclick="f_cell('3', '10', '87.3', '[1.73]', 'Cell')" >
+    <area shape="rect" coords="914,423,995,471" onclick="f_cell('3', '11', '84.1', '[1.40]', 'Cell')" >
+    <area shape="rect" coords="995,423,1075,471" onclick="f_cell('3', '12', '88.7', '[34]', 'Cell')" >
+    <area shape="rect" coords="1075,422,1171,471" onclick="f_cell('3', '13', '89.5', '[01]', 'Cell')" >
+    <area shape="rect" coords="12,472,187,512" onclick="f_cell('4', '1', '80.5', '[2]', 'Cell')" >
+    <area shape="rect" coords="187,472,265,511" onclick="f_cell('4', '2', '53.3', '<Blank>', 'Cell')" >
+    <area shape="rect" coords="265,472,347,511" onclick="f_cell('4', '3', '61.1', '<Blank>', 'Cell')" >
+    <area shape="rect" coords="347,472,428,511" onclick="f_cell('4', '4', '75.3', '[17]', 'Cell')" >
+    <area shape="rect" coords="429,472,511,511" onclick="f_cell('4', '5', '75.8', '[10]', 'Cell')" >
+    <area shape="rect" coords="511,472,591,511" onclick="f_cell('4', '6', '74.2', '[03]', 'Cell')" >
+    <area shape="rect" coords="591,471,670,511" onclick="f_cell('4', '7', '77.0', '[02]', 'Cell')" >
+    <area shape="rect" coords="671,471,751,511" onclick="f_cell('4', '8', '78.4', '[-]', 'Cell')" >
+    <area shape="rect" coords="751,471,835,511" onclick="f_cell('4', '9', '78.4', '[-]', 'Cell')" >
+    <area shape="rect" coords="835,471,914,510" onclick="f_cell('4', '10', '76.6', '[01]', 'Cell')" >
+    <area shape="rect" coords="914,471,995,510" onclick="f_cell('4', '11', '77.3', '[18]', 'Cell')" >
+    <area shape="rect" coords="995,471,1075,510" onclick="f_cell('4', '12', '76.3', '[21]', 'Cell')" >
+    <area shape="rect" coords="1075,471,1171,510" onclick="f_cell('4', '13', '77.7', '[01]', 'Cell')" >
+    <area shape="rect" coords="12,512,187,553" onclick="f_cell('5', '1', '88.7', '[3]', 'Cell')" >
+    <area shape="rect" coords="187,511,265,552" onclick="f_cell('5', '2', '58.8', '<Blank>', 'Cell')" >
+    <area shape="rect" coords="265,511,347,552" onclick="f_cell('5', '3', '67.4', '<Blank>', 'Cell')" >
+    <area shape="rect" coords="347,511,428,552" onclick="f_cell('5', '4', '83.0', '<Blank>', 'Cell')" >
+    <area shape="rect" coords="429,511,511,552" onclick="f_cell('5', '5', '83.6', '[-]', 'Cell')" >
+    <area shape="rect" coords="511,511,591,552" onclick="f_cell('5', '6', '81.8', '[28]', 'Cell')" >
+    <area shape="rect" coords="591,511,670,552" onclick="f_cell('5', '7', '85.0', '[03]', 'Cell')" >
+    <area shape="rect" coords="671,511,751,552" onclick="f_cell('5', '8', '86.5', '[1]', 'Cell')" >
+    <area shape="rect" coords="751,510,835,551" onclick="f_cell('5', '9', '86.4', '[-]', 'Cell')" >
+    <area shape="rect" coords="835,510,914,551" onclick="f_cell('5', '10', '84.5', '[15]', 'Cell')" >
+    <area shape="rect" coords="914,510,995,551" onclick="f_cell('5', '11', '85.3', '[P5]', 'Cell')" >
+    <area shape="rect" coords="995,510,1075,551" onclick="f_cell('5', '12', '84.1', '[05]', 'Cell')" >
+    <area shape="rect" coords="1075,510,1171,551" onclick="f_cell('5', '13', '85.7', '[03]', 'Cell')" >
+    <area shape="rect" coords="12,552,187,592" onclick="f_cell('6', '1', '86.4', '[4]', 'Cell')" >
+    <area shape="rect" coords="187,552,265,592" onclick="f_cell('6', '2', '57.3', '<Blank>', 'Cell')" >
+    <area shape="rect" coords="265,552,347,592" onclick="f_cell('6', '3', '65.7', '<Blank>', 'Cell')" >
+    <area shape="rect" coords="347,552,428,592" onclick="f_cell('6', '4', '80.9', '<Blank>', 'Cell')" >
+    <area shape="rect" coords="429,552,511,592" onclick="f_cell('6', '5', '81.4', '<Blank>', 'Cell')" >
+    <area shape="rect" coords="511,552,591,591" onclick="f_cell('6', '6', '79.7', '[06]', 'Cell')" >
+    <area shape="rect" coords="591,552,670,591" onclick="f_cell('6', '7', '82.7', '[17]', 'Cell')" >
+    <area shape="rect" coords="671,551,751,591" onclick="f_cell('6', '8', '84.2', '[1]', 'Cell')" >
+    <area shape="rect" coords="751,551,835,591" onclick="f_cell('6', '9', '84.2', '<Blank>', 'Cell')" >
+    <area shape="rect" coords="835,551,914,591" onclick="f_cell('6', '10', '82.3', '[10]', 'Cell')" >
+    <area shape="rect" coords="914,551,995,591" onclick="f_cell('6', '11', '83.1', '[32]', 'Cell')" >
+    <area shape="rect" coords="995,551,1075,591" onclick="f_cell('6', '12', '81.9', '[31]', 'Cell')" >
+    <area shape="rect" coords="1075,551,1171,590" onclick="f_cell('6', '13', '83.4', '[-]', 'Cell')" >
+    <area shape="rect" coords="12,592,187,635" onclick="f_cell('7', '1', '90.9', '[5]', 'Cell')" >
+    <area shape="rect" coords="187,592,265,635" onclick="f_cell('7', '2', '60.2', '<Blank>', 'Cell')" >
+    <area shape="rect" coords="265,592,347,635" onclick="f_cell('7', '3', '69.0', '<Blank>', 'Cell')" >
+    <area shape="rect" coords="347,592,428,635" onclick="f_cell('7', '4', '85.0', '<Blank>', 'Cell')" >
+    <area shape="rect" coords="429,592,511,635" onclick="f_cell('7', '5', '85.6', '<Blank>', 'Cell')" >
+    <area shape="rect" coords="511,592,591,635" onclick="f_cell('7', '6', '83.8', '[04]', 'Cell')" >
+    <area shape="rect" coords="591,591,670,634" onclick="f_cell('7', '7', '87.0', '[36]', 'Cell')" >
+    <area shape="rect" coords="671,591,751,634" onclick="f_cell('7', '8', '88.5', '[-]', 'Cell')" >
+    <area shape="rect" coords="751,591,835,634" onclick="f_cell('7', '9', '88.5', '[31]', 'Cell')" >
+    <area shape="rect" coords="835,591,914,634" onclick="f_cell('7', '10', '86.5', '[1.16]', 'Cell')" >
+    <area shape="rect" coords="914,591,995,634" onclick="f_cell('7', '11', '87.4', '[-]', 'Cell')" >
+    <area shape="rect" coords="995,591,1075,634" onclick="f_cell('7', '12', '86.1', '[40]', 'Cell')" >
+    <area shape="rect" coords="1075,591,1171,634" onclick="f_cell('7', '13', '87.7', '[79]', 'Cell')" >
+    <area shape="rect" coords="12,635,187,679" onclick="f_cell('8', '1', '91.4', '[6]', 'Cell')" >
+    <area shape="rect" coords="187,635,265,679" onclick="f_cell('8', '2', '60.5', '<Blank>', 'Cell')" >
+    <area shape="rect" coords="265,635,347,679" onclick="f_cell('8', '3', '69.4', '<Blank>', 'Cell')" >
+    <area shape="rect" coords="347,635,428,678" onclick="f_cell('8', '4', '85.4', '<Blank>', 'Cell')" >
+    <area shape="rect" coords="429,635,511,678" onclick="f_cell('8', '5', '86.1', '[0.3]', 'Cell')" >
+    <area shape="rect" coords="511,635,591,678" onclick="f_cell('8', '6', '84.2', '[0.3]', 'Cell')" >
+    <area shape="rect" coords="591,634,670,678" onclick="f_cell('8', '7', '87.4', '[03]', 'Cell')" >
+    <area shape="rect" coords="671,634,751,678" onclick="f_cell('8', '8', '89.0', '[39]', 'Cell')" >
+    <area shape="rect" coords="751,634,835,678" onclick="f_cell('8', '9', '89.0', '[02]', 'Cell')" >
+    <area shape="rect" coords="835,634,914,678" onclick="f_cell('8', '10', '87.0', '[04]', 'Cell')" >
+    <area shape="rect" coords="914,634,995,677" onclick="f_cell('8', '11', '87.8', '[29]', 'Cell')" >
+    <area shape="rect" coords="995,634,1075,677" onclick="f_cell('8', '12', '86.6', '[03]', 'Cell')" >
+    <area shape="rect" coords="1075,634,1171,677" onclick="f_cell('8', '13', '88.2', '[01]', 'Cell')" >
+    <area shape="rect" coords="12,679,187,721" onclick="f_cell('9', '1', '86.4', '[7]', 'Cell')" >
+    <area shape="rect" coords="187,679,265,721" onclick="f_cell('9', '2', '57.3', '<Blank>', 'Cell')" >
+    <area shape="rect" coords="265,679,347,721" onclick="f_cell('9', '3', '65.7', '<Blank>', 'Cell')" >
+    <area shape="rect" coords="347,678,428,721" onclick="f_cell('9', '4', '80.9', '[09]', 'Cell')" >
+    <area shape="rect" coords="429,678,511,721" onclick="f_cell('9', '5', '81.4', '[12]', 'Cell')" >
+    <area shape="rect" coords="511,678,591,720" onclick="f_cell('9', '6', '79.7', '[14]', 'Cell')" >
+    <area shape="rect" coords="591,678,670,720" onclick="f_cell('9', '7', '82.7', '[09]', 'Cell')" >
+    <area shape="rect" coords="671,678,751,720" onclick="f_cell('9', '8', '84.2', '[13]', 'Cell')" >
+    <area shape="rect" coords="751,678,835,720" onclick="f_cell('9', '9', '84.2', '[-]', 'Cell')" >
+    <area shape="rect" coords="835,678,914,720" onclick="f_cell('9', '10', '82.3', '[-]', 'Cell')" >
+    <area shape="rect" coords="914,677,995,720" onclick="f_cell('9', '11', '83.1', '[1.20]', 'Cell')" >
+    <area shape="rect" coords="995,677,1075,720" onclick="f_cell('9', '12', '81.9', '[08]', 'Cell')" >
+    <area shape="rect" coords="1075,677,1171,719" onclick="f_cell('9', '13', '83.4', '[01]', 'Cell')" >
+    <area shape="rect" coords="12,721,187,764" onclick="f_cell('10', '1', '88.6', '[8]', 'Cell')" >
+    <area shape="rect" coords="187,721,265,763" onclick="f_cell('10', '2', '58.7', '<Blank>', 'Cell')" >
+    <area shape="rect" coords="265,721,347,763" onclick="f_cell('10', '3', '67.3', '<Blank>', 'Cell')" >
+    <area shape="rect" coords="347,721,428,763" onclick="f_cell('10', '4', '82.8', '[20]', 'Cell')" >
+    <area shape="rect" coords="429,721,511,763" onclick="f_cell('10', '5', '83.4', '[03]', 'Cell')" >
+    <area shape="rect" coords="511,720,591,762" onclick="f_cell('10', '6', '81.7', '[05]', 'Cell')" >
+    <area shape="rect" coords="591,720,670,762" onclick="f_cell('10', '7', '84.8', '[43]', 'Cell')" >
+    <area shape="rect" coords="671,720,751,762" onclick="f_cell('10', '8', '86.3', '[.02]', 'Cell')" >
+    <area shape="rect" coords="751,720,835,762" onclick="f_cell('10', '9', '86.2', '[1]', 'Cell')" >
+    <area shape="rect" coords="835,720,914,762" onclick="f_cell('10', '10', '84.3', '[31]', 'Cell')" >
+    <area shape="rect" coords="914,720,995,762" onclick="f_cell('10', '11', '85.1', '[91]', 'Cell')" >
+    <area shape="rect" coords="995,720,1075,762" onclick="f_cell('10', '12', '83.9', '[02]', 'Cell')" >
+    <area shape="rect" coords="1075,719,1171,761" onclick="f_cell('10', '13', '85.5', '[80]', 'Cell')" >
+    <area shape="rect" coords="12,764,187,807" onclick="f_cell('11', '1', '87.9', '[9]', 'Cell')" >
+    <area shape="rect" coords="187,763,265,806" onclick="f_cell('11', '2', '58.3', '<Blank>', 'Cell')" >
+    <area shape="rect" coords="265,763,347,806" onclick="f_cell('11', '3', '66.8', '<Blank>', 'Cell')" >
+    <area shape="rect" coords="347,763,428,806" onclick="f_cell('11', '4', '82.3', '[20]', 'Cell')" >
+    <area shape="rect" coords="429,763,511,806" onclick="f_cell('11', '5', '82.9', '[-]', 'Cell')" >
+    <area shape="rect" coords="511,763,591,806" onclick="f_cell('11', '6', '81.1', '[1b]', 'Cell')" >
+    <area shape="rect" coords="591,762,670,805" onclick="f_cell('11', '7', '84.2', '[48]', 'Cell')" >
+    <area shape="rect" coords="671,762,751,805" onclick="f_cell('11', '8', '85.7', '[-]', 'Cell')" >
+    <area shape="rect" coords="751,762,835,805" onclick="f_cell('11', '9', '85.6', '<Blank>', 'Cell')" >
+    <area shape="rect" coords="835,762,914,805" onclick="f_cell('11', '10', '83.7', '[76]', 'Cell')" >
+    <area shape="rect" coords="914,762,995,805" onclick="f_cell('11', '11', '84.5', '[//]', 'Cell')" >
+    <area shape="rect" coords="995,762,1075,805" onclick="f_cell('11', '12', '83.3', '[12]', 'Cell')" >
+    <area shape="rect" coords="1075,762,1171,805" onclick="f_cell('11', '13', '84.9', '[10]', 'Cell')" >
+    <area shape="rect" coords="12,807,187,851" onclick="f_cell('12', '1', '86.4', '[10]', 'Cell')" >
+    <area shape="rect" coords="187,806,265,850" onclick="f_cell('12', '2', '57.3', '<Blank>', 'Cell')" >
+    <area shape="rect" coords="265,806,347,850" onclick="f_cell('12', '3', '65.7', '<Blank>', 'Cell')" >
+    <area shape="rect" coords="347,806,428,850" onclick="f_cell('12', '4', '80.9', '[1]', 'Cell')" >
+    <area shape="rect" coords="429,806,511,850" onclick="f_cell('12', '5', '81.4', '[02]', 'Cell')" >
+    <area shape="rect" coords="511,806,591,850" onclick="f_cell('12', '6', '79.7', '[-]', 'Cell')" >
+    <area shape="rect" coords="591,805,670,850" onclick="f_cell('12', '7', '82.7', '[07]', 'Cell')" >
+    <area shape="rect" coords="671,805,751,850" onclick="f_cell('12', '8', '84.2', '[10]', 'Cell')" >
+    <area shape="rect" coords="751,805,835,849" onclick="f_cell('12', '9', '84.2', '[31]', 'Cell')" >
+    <area shape="rect" coords="835,805,914,849" onclick="f_cell('12', '10', '82.3', '[20]', 'Cell')" >
+    <area shape="rect" coords="914,805,995,849" onclick="f_cell('12', '11', '83.1', '[99]', 'Cell')" >
+    <area shape="rect" coords="995,805,1075,849" onclick="f_cell('12', '12', '81.9', '[01]', 'Cell')" >
+    <area shape="rect" coords="1075,805,1171,849" onclick="f_cell('12', '13', '83.4', '[21]', 'Cell')" >
+    <area shape="rect" coords="12,851,187,893" onclick="f_cell('13', '1', '84.1', '[11]', 'Cell')" >
+    <area shape="rect" coords="187,851,265,893" onclick="f_cell('13', '2', '55.7', '<Blank>', 'Cell')" >
+    <area shape="rect" coords="265,850,347,892" onclick="f_cell('13', '3', '63.9', '<Blank>', 'Cell')" >
+    <area shape="rect" coords="347,850,428,892" onclick="f_cell('13', '4', '78.6', '[66]', 'Cell')" >
+    <area shape="rect" coords="429,850,511,892" onclick="f_cell('13', '5', '79.2', '[-]', 'Cell')" >
+    <area shape="rect" coords="511,850,591,892" onclick="f_cell('13', '6', '77.5', '[-]', 'Cell')" >
+    <area shape="rect" coords="591,850,670,892" onclick="f_cell('13', '7', '80.5', '[08]', 'Cell')" >
+    <area shape="rect" coords="671,850,751,892" onclick="f_cell('13', '8', '81.9', '[-]', 'Cell')" >
+    <area shape="rect" coords="751,850,835,892" onclick="f_cell('13', '9', '81.8', '<Blank>', 'Cell')" >
+    <area shape="rect" coords="835,849,914,891" onclick="f_cell('13', '10', '80.0', '[-]', 'Cell')" >
+    <area shape="rect" coords="914,849,995,891" onclick="f_cell('13', '11', '80.8', '[16]', 'Cell')" >
+    <area shape="rect" coords="995,849,1075,891" onclick="f_cell('13', '12', '79.7', '[-]', 'Cell')" >
+    <area shape="rect" coords="1075,849,1171,891" onclick="f_cell('13', '13', '81.2', '[04]', 'Cell')" >
+    <area shape="rect" coords="12,893,187,936" onclick="f_cell('14', '1', '85.6', '[12]', 'Cell')" >
+    <area shape="rect" coords="187,893,265,936" onclick="f_cell('14', '2', '56.7', '<Blank>', 'Cell')" >
+    <area shape="rect" coords="265,892,347,935" onclick="f_cell('14', '3', '65.1', '<Blank>', 'Cell')" >
+    <area shape="rect" coords="347,892,428,935" onclick="f_cell('14', '4', '80.1', '[12]', 'Cell')" >
+    <area shape="rect" coords="429,892,511,935" onclick="f_cell('14', '5', '80.7', '[-]', 'Cell')" >
+    <area shape="rect" coords="511,892,591,935" onclick="f_cell('14', '6', '79.0', '[22]', 'Cell')" >
+    <area shape="rect" coords="591,892,670,935" onclick="f_cell('14', '7', '81.9', '[-]', 'Cell')" >
+    <area shape="rect" coords="671,892,751,935" onclick="f_cell('14', '8', '83.4', '[-]', 'Cell')" >
+    <area shape="rect" coords="751,892,835,935" onclick="f_cell('14', '9', '83.4', '<Blank>', 'Cell')" >
+    <area shape="rect" coords="835,891,914,934" onclick="f_cell('14', '10', '81.5', '[-]', 'Cell')" >
+    <area shape="rect" coords="914,891,995,934" onclick="f_cell('14', '11', '82.3', '[25]', 'Cell')" >
+    <area shape="rect" coords="995,891,1075,934" onclick="f_cell('14', '12', '81.2', '[-]', 'Cell')" >
+    <area shape="rect" coords="1075,891,1171,934" onclick="f_cell('14', '13', '82.7', '[38]', 'Cell')" >
+    <area shape="rect" coords="12,936,187,978" onclick="f_cell('15', '1', '87.2', '[13]', 'Cell')" >
+    <area shape="rect" coords="187,936,265,977" onclick="f_cell('15', '2', '57.8', '<Blank>', 'Cell')" >
+    <area shape="rect" coords="265,935,347,977" onclick="f_cell('15', '3', '66.3', '<Blank>', 'Cell')" >
+    <area shape="rect" coords="347,935,428,977" onclick="f_cell('15', '4', '81.6', '[15]', 'Cell')" >
+    <area shape="rect" coords="429,935,511,977" onclick="f_cell('15', '5', '82.2', '[-]', 'Cell')" >
+    <area shape="rect" coords="511,935,591,977" onclick="f_cell('15', '6', '80.5', '[02]', 'Cell')" >
+    <area shape="rect" coords="591,935,670,977" onclick="f_cell('15', '7', '83.5', '[-]', 'Cell')" >
+    <area shape="rect" coords="671,935,751,976" onclick="f_cell('15', '8', '85.0', '[09]', 'Cell')" >
+    <area shape="rect" coords="751,935,835,976" onclick="f_cell('15', '9', '85.0', '[-]', 'Cell')" >
+    <area shape="rect" coords="835,934,914,976" onclick="f_cell('15', '10', '83.1', '[18]', 'Cell')" >
+    <area shape="rect" coords="914,934,995,976" onclick="f_cell('15', '11', '83.8', '[12]', 'Cell')" >
+    <area shape="rect" coords="995,934,1075,976" onclick="f_cell('15', '12', '82.7', '[-]', 'Cell')" >
+    <area shape="rect" coords="1075,934,1171,976" onclick="f_cell('15', '13', '84.2', '[01]', 'Cell')" >
+    <area shape="rect" coords="12,978,187,1019" onclick="f_cell('16', '1', '87.7', '[14]', 'Cell')" >
+    <area shape="rect" coords="187,977,265,1018" onclick="f_cell('16', '2', '58.2', '<Blank>', 'Cell')" >
+    <area shape="rect" coords="265,977,347,1018" onclick="f_cell('16', '3', '66.7', '<Blank>', 'Cell')" >
+    <area shape="rect" coords="347,977,428,1018" onclick="f_cell('16', '4', '82.1', '[01]', 'Cell')" >
+    <area shape="rect" coords="429,977,511,1018" onclick="f_cell('16', '5', '82.7', '<Blank>', 'Cell')" >
+    <area shape="rect" coords="511,977,591,1018" onclick="f_cell('16', '6', '81.0', '[0.5]', 'Cell')" >
+    <area shape="rect" coords="591,977,670,1018" onclick="f_cell('16', '7', '84.0', '<Blank>', 'Cell')" >
+    <area shape="rect" coords="671,977,751,1018" onclick="f_cell('16', '8', '85.5', '<Blank>', 'Cell')" >
+    <area shape="rect" coords="751,976,835,1017" onclick="f_cell('16', '9', '85.4', '<Blank>', 'Cell')" >
+    <area shape="rect" coords="835,976,914,1017" onclick="f_cell('16', '10', '83.5', '[-]', 'Cell')" >
+    <area shape="rect" coords="914,976,995,1017" onclick="f_cell('16', '11', '84.3', '[-]', 'Cell')" >
+    <area shape="rect" coords="995,976,1075,1017" onclick="f_cell('16', '12', '83.2', '[02]', 'Cell')" >
+    <area shape="rect" coords="1075,976,1171,1017" onclick="f_cell('16', '13', '84.7', '[20]', 'Cell')" >
+    <area shape="rect" coords="12,1019,187,1061" onclick="f_cell('17', '1', '87.8', '[15]', 'Cell')" >
+    <area shape="rect" coords="187,1018,265,1060" onclick="f_cell('17', '2', '58.2', '<Blank>', 'Cell')" >
+    <area shape="rect" coords="265,1018,347,1060" onclick="f_cell('17', '3', '66.7', '<Blank>', 'Cell')" >
+    <area shape="rect" coords="347,1018,428,1060" onclick="f_cell('17', '4', '82.1', '[18]', 'Cell')" >
+    <area shape="rect" coords="429,1018,511,1060" onclick="f_cell('17', '5', '82.8', '[-]', 'Cell')" >
+    <area shape="rect" coords="511,1018,591,1060" onclick="f_cell('17', '6', '81.0', '[03]', 'Cell')" >
+    <area shape="rect" coords="591,1018,670,1059" onclick="f_cell('17', '7', '84.0', '[07]', 'Cell')" >
+    <area shape="rect" coords="671,1018,751,1059" onclick="f_cell('17', '8', '85.5', '[-]', 'Cell')" >
+    <area shape="rect" coords="751,1017,835,1059" onclick="f_cell('17', '9', '85.5', '[10]', 'Cell')" >
+    <area shape="rect" coords="835,1017,914,1059" onclick="f_cell('17', '10', '83.6', '[-]', 'Cell')" >
+    <area shape="rect" coords="914,1017,995,1058" onclick="f_cell('17', '11', '84.4', '[52]', 'Cell')" >
+    <area shape="rect" coords="995,1017,1075,1058" onclick="f_cell('17', '12', '83.3', '[28]', 'Cell')" >
+    <area shape="rect" coords="1075,1017,1171,1058" onclick="f_cell('17', '13', '84.8', '[01]', 'Cell')" >
+    <area shape="rect" coords="12,1060,187,1100" onclick="f_cell('18', '1', '84.5', '[16]', 'Cell')" >
+    <area shape="rect" coords="187,1060,265,1100" onclick="f_cell('18', '2', '56.0', '<Blank>', 'Cell')" >
+    <area shape="rect" coords="265,1060,347,1099" onclick="f_cell('18', '3', '64.2', '<Blank>', 'Cell')" >
+    <area shape="rect" coords="347,1060,428,1099" onclick="f_cell('18', '4', '79.1', '[10]', 'Cell')" >
+    <area shape="rect" coords="429,1060,511,1099" onclick="f_cell('18', '5', '79.6', '<Blank>', 'Cell')" >
+    <area shape="rect" coords="511,1060,591,1099" onclick="f_cell('18', '6', '77.9', '[17]', 'Cell')" >
+    <area shape="rect" coords="591,1060,670,1099" onclick="f_cell('18', '7', '80.9', '[12]', 'Cell')" >
+    <area shape="rect" coords="671,1059,751,1098" onclick="f_cell('18', '8', '82.3', '[-]', 'Cell')" >
+    <area shape="rect" coords="751,1059,835,1098" onclick="f_cell('18', '9', '82.3', '[09]', 'Cell')" >
+    <area shape="rect" coords="835,1059,914,1098" onclick="f_cell('18', '10', '80.4', '[01]', 'Cell')" >
+    <area shape="rect" coords="914,1059,995,1098" onclick="f_cell('18', '11', '81.2', '[75]', 'Cell')" >
+    <area shape="rect" coords="995,1058,1075,1098" onclick="f_cell('18', '12', '80.1', '[21]', 'Cell')" >
+    <area shape="rect" coords="1075,1058,1171,1098" onclick="f_cell('18', '13', '81.6', '[93]', 'Cell')" >
+    <area shape="rect" coords="12,1100,187,1142" onclick="f_cell('19', '1', '88.9', '[17]', 'Cell')" >
+    <area shape="rect" coords="187,1100,265,1142" onclick="f_cell('19', '2', '58.9', '<Blank>', 'Cell')" >
+    <area shape="rect" coords="265,1099,347,1142" onclick="f_cell('19', '3', '67.5', '<Blank>', 'Cell')" >
+    <area shape="rect" coords="347,1099,428,1142" onclick="f_cell('19', '4', '83.2', '[43]', 'Cell')" >
+    <area shape="rect" coords="429,1099,511,1142" onclick="f_cell('19', '5', '83.8', '[06]', 'Cell')" >
+    <area shape="rect" coords="511,1099,591,1142" onclick="f_cell('19', '6', '82.0', '[-]', 'Cell')" >
+    <area shape="rect" coords="591,1098,670,1141" onclick="f_cell('19', '7', '85.1', '[25]', 'Cell')" >
+    <area shape="rect" coords="671,1098,751,1141" onclick="f_cell('19', '8', '86.6', '[-]', 'Cell')" >
+    <area shape="rect" coords="751,1098,835,1141" onclick="f_cell('19', '9', '86.6', '<Blank>', 'Cell')" >
+    <area shape="rect" coords="835,1098,914,1141" onclick="f_cell('19', '10', '84.6', '[12]', 'Cell')" >
+    <area shape="rect" coords="914,1098,995,1141" onclick="f_cell('19', '11', '85.4', '[01]', 'Cell')" >
+    <area shape="rect" coords="995,1098,1075,1141" onclick="f_cell('19', '12', '84.3', '[03]', 'Cell')" >
+    <area shape="rect" coords="1075,1098,1171,1141" onclick="f_cell('19', '13', '85.8', '[33]', 'Cell')" >
+    <area shape="rect" coords="12,1142,187,1185" onclick="f_cell('20', '1', '88.4', '[18]', 'Cell')" >
+    <area shape="rect" coords="187,1142,265,1184" onclick="f_cell('20', '2', '58.6', '<Blank>', 'Cell')" >
+    <area shape="rect" coords="265,1142,347,1184" onclick="f_cell('20', '3', '67.2', '<Blank>', 'Cell')" >
+    <area shape="rect" coords="347,1142,428,1184" onclick="f_cell('20', '4', '82.7', '[01]', 'Cell')" >
+    <area shape="rect" coords="429,1142,511,1184" onclick="f_cell('20', '5', '83.3', '[-]', 'Cell')" >
+    <area shape="rect" coords="511,1142,591,1184" onclick="f_cell('20', '6', '81.5', '[01]', 'Cell')" >
+    <area shape="rect" coords="591,1141,670,1184" onclick="f_cell('20', '7', '84.6', '[68]', 'Cell')" >
+    <area shape="rect" coords="671,1141,751,1184" onclick="f_cell('20', '8', '86.1', '[-]', 'Cell')" >
+    <area shape="rect" coords="751,1141,835,1183" onclick="f_cell('20', '9', '86.1', '<Blank>', 'Cell')" >
+    <area shape="rect" coords="835,1141,914,1183" onclick="f_cell('20', '10', '84.2', '[01]', 'Cell')" >
+    <area shape="rect" coords="914,1141,995,1183" onclick="f_cell('20', '11', '85.0', '[74]', 'Cell')" >
+    <area shape="rect" coords="995,1141,1075,1183" onclick="f_cell('20', '12', '83.8', '[37]', 'Cell')" >
+    <area shape="rect" coords="1075,1141,1171,1183" onclick="f_cell('20', '13', '85.4', '[08]', 'Cell')" >
+    <area shape="rect" coords="12,1185,187,1227" onclick="f_cell('21', '1', '81.1', '[19]', 'Cell')" >
+    <area shape="rect" coords="187,1185,265,1226" onclick="f_cell('21', '2', '53.7', '<Blank>', 'Cell')" >
+    <area shape="rect" coords="265,1184,347,1226" onclick="f_cell('21', '3', '61.6', '<Blank>', 'Cell')" >
+    <area shape="rect" coords="347,1184,428,1226" onclick="f_cell('21', '4', '75.8', '[-]', 'Cell')" >
+    <area shape="rect" coords="429,1184,511,1225" onclick="f_cell('21', '5', '76.4', '[-]', 'Cell')" >
+    <area shape="rect" coords="511,1184,591,1225" onclick="f_cell('21', '6', '74.8', '<Blank>', 'Cell')" >
+    <area shape="rect" coords="591,1184,670,1225" onclick="f_cell('21', '7', '77.5', '[59]', 'Cell')" >
+    <area shape="rect" coords="671,1184,751,1225" onclick="f_cell('21', '8', '79.0', '<Blank>', 'Cell')" >
+    <area shape="rect" coords="751,1184,835,1225" onclick="f_cell('21', '9', '78.9', '<Blank>', 'Cell')" >
+    <area shape="rect" coords="835,1183,914,1225" onclick="f_cell('21', '10', '77.1', '[40]', 'Cell')" >
+    <area shape="rect" coords="914,1183,995,1225" onclick="f_cell('21', '11', '77.9', '[-]', 'Cell')" >
+    <area shape="rect" coords="995,1183,1075,1224" onclick="f_cell('21', '12', '76.8', '[08]', 'Cell')" >
+    <area shape="rect" coords="1075,1183,1171,1225" onclick="f_cell('21', '13', '78.3', '[ob]', 'Cell')" >
+    <area shape="rect" coords="12,1227,187,1269" onclick="f_cell('22', '1', '80.8', '[20]', 'Cell')" >
+    <area shape="rect" coords="187,1226,265,1268" onclick="f_cell('22', '2', '53.5', '<Blank>', 'Cell')" >
+    <area shape="rect" coords="265,1226,347,1268" onclick="f_cell('22', '3', '61.4', '<Blank>', 'Cell')" >
+    <area shape="rect" coords="347,1226,428,1268" onclick="f_cell('22', '4', '75.5', '[01]', 'Cell')" >
+    <area shape="rect" coords="429,1226,511,1268" onclick="f_cell('22', '5', '76.1', '<Blank>', 'Cell')" >
+    <area shape="rect" coords="511,1226,591,1268" onclick="f_cell('22', '6', '74.5', '<Blank>', 'Cell')" >
+    <area shape="rect" coords="591,1225,670,1268" onclick="f_cell('22', '7', '77.3', '[01]', 'Cell')" >
+    <area shape="rect" coords="671,1225,751,1268" onclick="f_cell('22', '8', '78.7', '<Blank>', 'Cell')" >
+    <area shape="rect" coords="751,1225,835,1267" onclick="f_cell('22', '9', '78.6', '<Blank>', 'Cell')" >
+    <area shape="rect" coords="835,1225,914,1267" onclick="f_cell('22', '10', '76.9', '[14]', 'Cell')" >
+    <area shape="rect" coords="914,1225,995,1267" onclick="f_cell('22', '11', '77.6', '[bo]', 'Cell')" >
+    <area shape="rect" coords="995,1225,1075,1267" onclick="f_cell('22', '12', '76.6', '[50]', 'Cell')" >
+    <area shape="rect" coords="1075,1224,1171,1267" onclick="f_cell('22', '13', '78.0', '[15]', 'Cell')" >
+    <area shape="rect" coords="12,1269,187,1314" onclick="f_cell('23', '1', '87.6', '[21]', 'Cell')" >
+    <area shape="rect" coords="187,1269,265,1314" onclick="f_cell('23', '2', '58.1', '<Blank>', 'Cell')" >
+    <area shape="rect" coords="265,1268,347,1314" onclick="f_cell('23', '3', '66.6', '<Blank>', 'Cell')" >
+    <area shape="rect" coords="347,1268,428,1314" onclick="f_cell('23', '4', '82.0', '[02]', 'Cell')" >
+    <area shape="rect" coords="429,1268,511,1314" onclick="f_cell('23', '5', '82.6', '[76]', 'Cell')" >
+    <area shape="rect" coords="511,1268,591,1314" onclick="f_cell('23', '6', '80.9', '[04]', 'Cell')" >
+    <area shape="rect" coords="591,1268,670,1313" onclick="f_cell('23', '7', '83.9', '[04]', 'Cell')" >
+    <area shape="rect" coords="671,1268,751,1313" onclick="f_cell('23', '8', '85.4', '<Blank>', 'Cell')" >
+    <area shape="rect" coords="751,1267,835,1313" onclick="f_cell('23', '9', '85.4', '<Blank>', 'Cell')" >
+    <area shape="rect" coords="835,1267,914,1313" onclick="f_cell('23', '10', '83.4', '[23]', 'Cell')" >
+    <area shape="rect" coords="914,1267,995,1313" onclick="f_cell('23', '11', '84.2', '[1.04]', 'Cell')" >
+    <area shape="rect" coords="995,1267,1075,1312" onclick="f_cell('23', '12', '83.1', '[40]', 'Cell')" >
+    <area shape="rect" coords="1075,1267,1171,1312" onclick="f_cell('23', '13', '84.7', '[20]', 'Cell')" >
+    <area shape="rect" coords="12,1314,187,1356" onclick="f_cell('24', '1', '86.4', '[22]', 'Cell')" >
+    <area shape="rect" coords="187,1314,265,1355" onclick="f_cell('24', '2', '57.2', '<Blank>', 'Cell')" >
+    <area shape="rect" coords="265,1314,347,1356" onclick="f_cell('24', '3', '65.6', '<Blank>', 'Cell')" >
+    <area shape="rect" coords="347,1314,428,1355" onclick="f_cell('24', '4', '80.8', '[06]', 'Cell')" >
+    <area shape="rect" coords="429,1314,511,1355" onclick="f_cell('24', '5', '81.4', '[06]', 'Cell')" >
+    <area shape="rect" coords="511,1314,591,1355" onclick="f_cell('24', '6', '79.7', '[06]', 'Cell')" >
+    <area shape="rect" coords="591,1313,670,1355" onclick="f_cell('24', '7', '82.7', '[01]', 'Cell')" >
+    <area shape="rect" coords="671,1313,751,1355" onclick="f_cell('24', '8', '84.2', '<Blank>', 'Cell')" >
+    <area shape="rect" coords="751,1313,835,1355" onclick="f_cell('24', '9', '84.1', '<Blank>', 'Cell')" >
+    <area shape="rect" coords="835,1313,914,1354" onclick="f_cell('24', '10', '82.2', '[sb]', 'Cell')" >
+    <area shape="rect" coords="914,1312,995,1354" onclick="f_cell('24', '11', '83.0', '[01]', 'Cell')" >
+    <area shape="rect" coords="995,1312,1075,1354" onclick="f_cell('24', '12', '81.9', '[34]', 'Cell')" >
+    <area shape="rect" coords="1075,1312,1171,1354" onclick="f_cell('24', '13', '83.4', '[31]', 'Cell')" >
+    <area shape="rect" coords="12,1356,187,1396" onclick="f_cell('25', '1', '86.2', '[23]', 'Cell')" >
+    <area shape="rect" coords="187,1356,265,1395" onclick="f_cell('25', '2', '57.1', '<Blank>', 'Cell')" >
+    <area shape="rect" coords="265,1355,347,1395" onclick="f_cell('25', '3', '65.5', '<Blank>', 'Cell')" >
+    <area shape="rect" coords="347,1355,428,1395" onclick="f_cell('25', '4', '80.6', '[01]', 'Cell')" >
+    <area shape="rect" coords="429,1355,511,1395" onclick="f_cell('25', '5', '81.2', '[20]', 'Cell')" >
+    <area shape="rect" coords="511,1355,591,1395" onclick="f_cell('25', '6', '79.5', '[-]', 'Cell')" >
+    <area shape="rect" coords="591,1355,670,1395" onclick="f_cell('25', '7', '82.5', '[-]', 'Cell')" >
+    <area shape="rect" coords="671,1355,751,1394" onclick="f_cell('25', '8', '84.0', '[1]', 'Cell')" >
+    <area shape="rect" coords="751,1355,835,1394" onclick="f_cell('25', '9', '83.9', '<Blank>', 'Cell')" >
+    <area shape="rect" coords="835,1354,914,1394" onclick="f_cell('25', '10', '82.1', '[10]', 'Cell')" >
+    <area shape="rect" coords="914,1354,995,1394" onclick="f_cell('25', '11', '82.9', '[23]', 'Cell')" >
+    <area shape="rect" coords="995,1354,1075,1394" onclick="f_cell('25', '12', '81.7', '[1.01]', 'Cell')" >
+    <area shape="rect" coords="1075,1354,1171,1394" onclick="f_cell('25', '13', '83.3', '[30]', 'Cell')" >
+    <area shape="rect" coords="12,1396,187,1437" onclick="f_cell('26', '1', '86.2', '[24]', 'Cell')" >
+    <area shape="rect" coords="187,1395,265,1437" onclick="f_cell('26', '2', '57.1', '<Blank>', 'Cell')" >
+    <area shape="rect" coords="265,1395,347,1437" onclick="f_cell('26', '3', '65.5', '<Blank>', 'Cell')" >
+    <area shape="rect" coords="347,1395,429,1436" onclick="f_cell('26', '4', '80.7', '[03]', 'Cell')" >
+    <area shape="rect" coords="429,1395,511,1436" onclick="f_cell('26', '5', '81.3', '[15]', 'Cell')" >
+    <area shape="rect" coords="511,1395,591,1436" onclick="f_cell('26', '6', '79.5', '<Blank>', 'Cell')" >
+    <area shape="rect" coords="591,1395,670,1436" onclick="f_cell('26', '7', '82.5', '[15]', 'Cell')" >
+    <area shape="rect" coords="671,1395,751,1436" onclick="f_cell('26', '8', '84.0', '[-]', 'Cell')" >
+    <area shape="rect" coords="752,1394,835,1435" onclick="f_cell('26', '9', '84.0', '[30]', 'Cell')" >
+    <area shape="rect" coords="835,1394,914,1435" onclick="f_cell('26', '10', '82.1', '[20]', 'Cell')" >
+    <area shape="rect" coords="914,1394,995,1435" onclick="f_cell('26', '11', '82.9', '[05]', 'Cell')" >
+    <area shape="rect" coords="995,1394,1075,1435" onclick="f_cell('26', '12', '81.7', '[02]', 'Cell')" >
+    <area shape="rect" coords="1075,1394,1171,1435" onclick="f_cell('26', '13', '83.3', '[34]', 'Cell')" >
+    <area shape="rect" coords="12,1437,187,1478" onclick="f_cell('27', '1', '84.2', '[25]', 'Cell')" >
+    <area shape="rect" coords="187,1437,265,1478" onclick="f_cell('27', '2', '55.8', '<Blank>', 'Cell')" >
+    <area shape="rect" coords="265,1437,347,1478" onclick="f_cell('27', '3', '64.0', '<Blank>', 'Cell')" >
+    <area shape="rect" coords="347,1436,429,1477" onclick="f_cell('27', '4', '78.7', '[08]', 'Cell')" >
+    <area shape="rect" coords="429,1436,511,1477" onclick="f_cell('27', '5', '79.3', '[21]', 'Cell')" >
+    <area shape="rect" coords="511,1436,591,1477" onclick="f_cell('27', '6', '77.6', '[-]', 'Cell')" >
+    <area shape="rect" coords="591,1436,670,1477" onclick="f_cell('27', '7', '80.6', '[10]', 'Cell')" >
+    <area shape="rect" coords="671,1436,751,1477" onclick="f_cell('27', '8', '82.0', '[59]', 'Cell')" >
+    <area shape="rect" coords="752,1435,835,1477" onclick="f_cell('27', '9', '81.9', '[30]', 'Cell')" >
+    <area shape="rect" coords="835,1435,914,1477" onclick="f_cell('27', '10', '80.1', '[-]', 'Cell')" >
+    <area shape="rect" coords="914,1435,995,1476" onclick="f_cell('27', '11', '80.9', '[-]', 'Cell')" >
+    <area shape="rect" coords="995,1435,1075,1476" onclick="f_cell('27', '12', '79.8', '[26]', 'Cell')" >
+    <area shape="rect" coords="1075,1435,1171,1476" onclick="f_cell('27', '13', '81.2', '[19]', 'Cell')" >
+    <area shape="rect" coords="12,1478,187,1523" onclick="f_cell('28', '1', '88.8', '[26]', 'Cell')" >
+    <area shape="rect" coords="187,1478,265,1523" onclick="f_cell('28', '2', '58.8', '<Blank>', 'Cell')" >
+    <area shape="rect" coords="265,1478,347,1523" onclick="f_cell('28', '3', '67.5', '<Blank>', 'Cell')" >
+    <area shape="rect" coords="347,1477,429,1523" onclick="f_cell('28', '4', '83.1', '[03]', 'Cell')" >
+    <area shape="rect" coords="429,1477,511,1523" onclick="f_cell('28', '5', '83.7', '[0.3]', 'Cell')" >
+    <area shape="rect" coords="511,1477,591,1522" onclick="f_cell('28', '6', '81.9', '<Blank>', 'Cell')" >
+    <area shape="rect" coords="591,1477,670,1522" onclick="f_cell('28', '7', '85.0', '[11]', 'Cell')" >
+    <area shape="rect" coords="671,1477,751,1522" onclick="f_cell('28', '8', '86.5', '[as]', 'Cell')" >
+    <area shape="rect" coords="752,1477,835,1522" onclick="f_cell('28', '9', '86.5', '[02]', 'Cell')" >
+    <area shape="rect" coords="835,1476,914,1522" onclick="f_cell('28', '10', '84.5', '[62]', 'Cell')" >
+    <area shape="rect" coords="914,1476,995,1522" onclick="f_cell('28', '11', '85.4', '[m]', 'Cell')" >
+    <area shape="rect" coords="995,1476,1075,1522" onclick="f_cell('28', '12', '84.2', '[//]', 'Cell')" >
+    <area shape="rect" coords="1075,1476,1171,1521" onclick="f_cell('28', '13', '85.7', '[03]', 'Cell')" >
+    <area shape="rect" coords="12,1523,187,1567" onclick="f_cell('29', '1', '87.4', '[27]', 'Cell')" >
+    <area shape="rect" coords="187,1523,265,1567" onclick="f_cell('29', '2', '57.9', '<Blank>', 'Cell')" >
+    <area shape="rect" coords="265,1523,347,1567" onclick="f_cell('29', '3', '66.5', '<Blank>', 'Cell')" >
+    <area shape="rect" coords="347,1523,429,1567" onclick="f_cell('29', '4', '81.8', '[1.13]', 'Cell')" >
+    <area shape="rect" coords="429,1522,511,1566" onclick="f_cell('29', '5', '82.4', '[06]', 'Cell')" >
+    <area shape="rect" coords="511,1522,591,1566" onclick="f_cell('29', '6', '80.6', '[01]', 'Cell')" >
+    <area shape="rect" coords="591,1522,670,1566" onclick="f_cell('29', '7', '83.7', '[39]', 'Cell')" >
+    <area shape="rect" coords="671,1522,751,1566" onclick="f_cell('29', '8', '85.2', '[-]', 'Cell')" >
+    <area shape="rect" coords="752,1522,835,1566" onclick="f_cell('29', '9', '85.1', '[-]', 'Cell')" >
+    <area shape="rect" coords="835,1522,914,1565" onclick="f_cell('29', '10', '83.3', '[18]', 'Cell')" >
+    <area shape="rect" coords="914,1522,995,1565" onclick="f_cell('29', '11', '84.0', '[05]', 'Cell')" >
+    <area shape="rect" coords="995,1521,1075,1565" onclick="f_cell('29', '12', '82.9', '[02]', 'Cell')" >
+    <area shape="rect" coords="1075,1521,1171,1565" onclick="f_cell('29', '13', '84.4', '[33]', 'Cell')" >
+    <area shape="rect" coords="12,1567,187,1610" onclick="f_cell('30', '1', '83.7', '[28]', 'Cell')" >
+    <area shape="rect" coords="187,1567,265,1609" onclick="f_cell('30', '2', '55.5', '<Blank>', 'Cell')" >
+    <area shape="rect" coords="265,1567,347,1609" onclick="f_cell('30', '3', '63.6', '<Blank>', 'Cell')" >
+    <area shape="rect" coords="347,1567,429,1609" onclick="f_cell('30', '4', '78.3', '[3%]', 'Cell')" >
+    <area shape="rect" coords="429,1566,511,1608" onclick="f_cell('30', '5', '78.9', '[4+]', 'Cell')" >
+    <area shape="rect" coords="511,1566,591,1608" onclick="f_cell('30', '6', '77.2', '[-]', 'Cell')" >
+    <area shape="rect" coords="591,1566,670,1608" onclick="f_cell('30', '7', '80.1', '[-]', 'Cell')" >
+    <area shape="rect" coords="671,1566,751,1608" onclick="f_cell('30', '8', '81.6', '[11]', 'Cell')" >
+    <area shape="rect" coords="752,1565,835,1608" onclick="f_cell('30', '9', '81.5', '[04]', 'Cell')" >
+    <area shape="rect" coords="835,1565,914,1608" onclick="f_cell('30', '10', '79.7', '[01]', 'Cell')" >
+    <area shape="rect" coords="914,1565,995,1608" onclick="f_cell('30', '11', '80.5', '[02]', 'Cell')" >
+    <area shape="rect" coords="995,1565,1075,1607" onclick="f_cell('30', '12', '79.4', '[02]', 'Cell')" >
+    <area shape="rect" coords="1075,1565,1171,1607" onclick="f_cell('30', '13', '80.9', '[22]', 'Cell')" >
+    <area shape="rect" coords="12,1609,187,1654" onclick="f_cell('31', '1', '82.6', '[29]', 'Cell')" >
+    <area shape="rect" coords="187,1609,265,1653" onclick="f_cell('31', '2', '54.7', '<Blank>', 'Cell')" >
+    <area shape="rect" coords="265,1609,347,1653" onclick="f_cell('31', '3', '62.8', '<Blank>', 'Cell')" >
+    <area shape="rect" coords="347,1609,429,1653" onclick="f_cell('31', '4', '77.2', '[28]', 'Cell')" >
+    <area shape="rect" coords="429,1608,511,1652" onclick="f_cell('31', '5', '77.8', '[-]', 'Cell')" >
+    <area shape="rect" coords="511,1608,591,1652" onclick="f_cell('31', '6', '76.2', '[03]', 'Cell')" >
+    <area shape="rect" coords="591,1608,670,1652" onclick="f_cell('31', '7', '79.1', '[-]', 'Cell')" >
+    <area shape="rect" coords="671,1608,751,1652" onclick="f_cell('31', '8', '80.5', '[15]', 'Cell')" >
+    <area shape="rect" coords="752,1608,835,1652" onclick="f_cell('31', '9', '80.4', '[62]', 'Cell')" >
+    <area shape="rect" coords="835,1608,914,1652" onclick="f_cell('31', '10', '78.7', '[04]', 'Cell')" >
+    <area shape="rect" coords="914,1608,995,1652" onclick="f_cell('31', '11', '79.4', '[1.11]', 'Cell')" >
+    <area shape="rect" coords="995,1607,1075,1651" onclick="f_cell('31', '12', '78.3', '[22]', 'Cell')" >
+    <area shape="rect" coords="1075,1607,1171,1651" onclick="f_cell('31', '13', '79.8', '[-]', 'Cell')" >
+    <area shape="rect" coords="12,1654,187,1698" onclick="f_cell('32', '1', '85.6', '[30]', 'Cell')" >
+    <area shape="rect" coords="187,1653,265,1697" onclick="f_cell('32', '2', '56.7', '<Blank>', 'Cell')" >
+    <area shape="rect" coords="265,1653,347,1697" onclick="f_cell('32', '3', '65.0', '<Blank>', 'Cell')" >
+    <area shape="rect" coords="347,1653,429,1697" onclick="f_cell('32', '4', '80.0', '[05]', 'Cell')" >
+    <area shape="rect" coords="429,1653,511,1697" onclick="f_cell('32', '5', '80.7', '[-]', 'Cell')" >
+    <area shape="rect" coords="511,1652,591,1697" onclick="f_cell('32', '6', '78.9', '[20]', 'Cell')" >
+    <area shape="rect" coords="591,1652,670,1697" onclick="f_cell('32', '7', '81.9', '[11]', 'Cell')" >
+    <area shape="rect" coords="671,1652,751,1697" onclick="f_cell('32', '8', '83.3', '[-]', 'Cell')" >
+    <area shape="rect" coords="752,1652,835,1696" onclick="f_cell('32', '9', '83.3', '[04]', 'Cell')" >
+    <area shape="rect" coords="835,1652,914,1696" onclick="f_cell('32', '10', '81.5', '[23]', 'Cell')" >
+    <area shape="rect" coords="914,1652,995,1696" onclick="f_cell('32', '11', '82.3', '[03]', 'Cell')" >
+    <area shape="rect" coords="995,1652,1075,1696" onclick="f_cell('32', '12', '81.2', '[15]', 'Cell')" >
+    <area shape="rect" coords="1075,1651,1171,1695" onclick="f_cell('32', '13', '82.6', '[07]', 'Cell')" >
+    <area shape="rect" coords="12,1698,187,1736" onclick="f_cell('33', '1', '72.9', '[31]', 'Cell')" >
+    <area shape="rect" coords="187,1698,265,1735" onclick="f_cell('33', '2', '48.3', '<Blank>', 'Cell')" >
+    <area shape="rect" coords="265,1697,347,1735" onclick="f_cell('33', '3', '55.4', '<Blank>', 'Cell')" >
+    <area shape="rect" coords="347,1697,429,1735" onclick="f_cell('33', '4', '68.2', '<Blank>', 'Cell')" >
+    <area shape="rect" coords="429,1697,511,1735" onclick="f_cell('33', '5', '68.7', '<Blank>', 'Cell')" >
+    <area shape="rect" coords="511,1697,591,1735" onclick="f_cell('33', '6', '67.2', '<Blank>', 'Cell')" >
+    <area shape="rect" coords="591,1697,670,1734" onclick="f_cell('33', '7', '69.8', '<Blank>', 'Cell')" >
+    <area shape="rect" coords="671,1697,751,1734" onclick="f_cell('33', '8', '71.0', '[1]', 'Cell')" >
+    <area shape="rect" coords="752,1696,835,1734" onclick="f_cell('33', '9', '71.0', '[-]', 'Cell')" >
+    <area shape="rect" coords="835,1696,914,1734" onclick="f_cell('33', '10', '69.4', '<Blank>', 'Cell')" >
+    <area shape="rect" coords="914,1696,995,1734" onclick="f_cell('33', '11', '70.1', '[11]', 'Cell')" >
+    <area shape="rect" coords="995,1696,1075,1734" onclick="f_cell('33', '12', '69.1', '<Blank>', 'Cell')" >
+    <area shape="rect" coords="1075,1696,1171,1734" onclick="f_cell('33', '13', '70.4', '[18]', 'Cell')" >
+    <area shape="rect" coords="12,1735,187,1782" onclick="f_cell('34', '1', '92.3', '[Totals]', 'TABLE_SUMMARY Cell')" >
+    <area shape="rect" coords="187,1735,265,1782" onclick="f_cell('34', '2', '61.1', '<Blank>', 'TABLE_SUMMARY Cell')" >
+    <area shape="rect" coords="265,1735,347,1782" onclick="f_cell('34', '3', '70.1', '<Blank>', 'TABLE_SUMMARY Cell')" >
+    <area shape="rect" coords="347,1735,429,1782" onclick="f_cell('34', '4', '86.3', '[4:35]', 'TABLE_SUMMARY Cell')" >
+    <area shape="rect" coords="429,1735,511,1782" onclick="f_cell('34', '5', '87.0', '[2.221]', 'TABLE_SUMMARY Cell')" >
+    <area shape="rect" coords="511,1735,591,1781" onclick="f_cell('34', '6', '85.1', '[63]', 'TABLE_SUMMARY Cell')" >
+    <area shape="rect" coords="591,1735,670,1781" onclick="f_cell('34', '7', '88.3', '[5.14]', 'TABLE_SUMMARY Cell')" >
+    <area shape="rect" coords="671,1734,751,1781" onclick="f_cell('34', '8', '89.9', '[2.90]', 'TABLE_SUMMARY Cell')" >
+    <area shape="rect" coords="752,1734,835,1781" onclick="f_cell('34', '9', '89.8', '[2.24]', 'TABLE_SUMMARY Cell')" >
+    <area shape="rect" coords="835,1734,914,1781" onclick="f_cell('34', '10', '87.9', '[7.49]', 'TABLE_SUMMARY Cell')" >
+    <area shape="rect" coords="914,1734,995,1781" onclick="f_cell('34', '11', '88.7', '[12.05]', 'TABLE_SUMMARY Cell')" >
+    <area shape="rect" coords="995,1734,1075,1780" onclick="f_cell('34', '12', '87.5', '[561]', 'TABLE_SUMMARY Cell')" >
+    <area shape="rect" coords="1076,1734,1172,1780" onclick="f_cell('34', '13', '89.1', '[6.31]', 'TABLE_SUMMARY Cell')" >
+    <area shape="rect" coords="12,1782,187,1867" onclick="f_cell('35', '1', '94.6', '[march s] / [Total] / [from] / [Jane] / [49.94] / [K/1000/9/72.]', 'TABLE_SUMMARY Cell')" >
+    <area shape="rect" coords="187,1782,265,1866" onclick="f_cell('35', '2', '62.7', '<Blank>', 'TABLE_SUMMARY Cell')" >
+    <area shape="rect" coords="265,1782,347,1866" onclick="f_cell('35', '3', '71.9', '<Blank>', 'TABLE_SUMMARY Cell')" >
+    <area shape="rect" coords="347,1782,429,1866" onclick="f_cell('35', '4', '88.5', '<Blank>', 'TABLE_SUMMARY Cell')" >
+    <area shape="rect" coords="429,1782,511,1866" onclick="f_cell('35', '5', '89.2', '<Blank>', 'TABLE_SUMMARY Cell')" >
+    <area shape="rect" coords="511,1781,591,1865" onclick="f_cell('35', '6', '87.3', '<Blank>', 'TABLE_SUMMARY Cell')" >
+    <area shape="rect" coords="591,1781,671,1865" onclick="f_cell('35', '7', '90.5', '<Blank>', 'TABLE_SUMMARY Cell')" >
+    <area shape="rect" coords="671,1781,751,1865" onclick="f_cell('35', '8', '92.2', '<Blank>', 'TABLE_SUMMARY Cell')" >
+    <area shape="rect" coords="752,1781,835,1865" onclick="f_cell('35', '9', '92.1', '<Blank>', 'TABLE_SUMMARY Cell')" >
+    <area shape="rect" coords="835,1781,914,1865" onclick="f_cell('35', '10', '90.1', '<Blank>', 'TABLE_SUMMARY Cell')" >
+    <area shape="rect" coords="914,1781,995,1865" onclick="f_cell('35', '11', '90.9', '<Blank>', 'TABLE_SUMMARY Cell')" >
+    <area shape="rect" coords="995,1781,1075,1865" onclick="f_cell('35', '12', '89.7', '<Blank>', 'TABLE_SUMMARY Cell')" >
+    <area shape="rect" coords="1076,1780,1172,1864" onclick="f_cell('35', '13', '91.4', '<Blank>', 'TABLE_SUMMARY Cell')" >
+</map>
+
+</body>
+</html>
