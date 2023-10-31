@@ -23,4 +23,4 @@ Each row in the spreadsheet relates to a particular archive document. Fields in 
 * **Hierarchy Position** and **Level** : give a summary indication of where the document lives in the overall hierarchy. Useful for sorting.
 * **Archive ref no** : Met Office classification scheme: see https://www.metoffice.gov.uk/research/library-and-archive/archive/collections
 
-Data for the spreadsheet was extracted in early-September 2023. It contains a column to indicate which entries are new since the previous extract, June 2023.
+Data for the spreadsheet was extracted in late October 2023. It contains a column to indicate which entries are new since the previous extract, early September 2023.
