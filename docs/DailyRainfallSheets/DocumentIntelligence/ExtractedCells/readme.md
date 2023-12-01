@@ -9,7 +9,7 @@ Using Document Intelligence in 'Layout' mode to detect Table features as well as
 * [DR_Anglesey_1871-1880C_p020](DR_Anglesey_1871-1880C_p020.rot.di-layout.image_map.html)
 
 
-Blue and black rectangles on the images show the bounding boxes for each 'Word' identified by Amazon Textract. Click within a rectangle to see a pop-up showing the text which Amazon Textract detected. 
+Blue and black rectangles on the images show the bounding boxes for each 'Word' identified by Document Intelligence. Click within a rectangle to see a pop-up showing the text which Document Intelligence detected. 
 
 Yellow and red rectangles show the bounding boxes for table cells. Click within a rectangle to see a pop-up identifying the row/column of the cell, and the text of the 'Word' associated with the cell. Cells with a 
 red border have more than one 'Word' associated with them.
