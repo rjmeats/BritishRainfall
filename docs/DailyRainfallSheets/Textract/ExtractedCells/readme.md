@@ -16,8 +16,6 @@ red border have more than one 'Word' associated with them.
 
 (You can close the pop-ups with the 'Esc' key as well as by pressing the OK button.)
 
-A couple of cases where the Table detection hasn't worked properly for determining the rows in the table:
+An example where  Textract table detection hasn't worked properly for determining the rows in the table:
 
 * [DR_Anglesey_1871-1880C_p004](DR_Anglesey_1871-1880C_p004.rot.textract-analysis.image_map.html) - the rows determined by Textract gradually get out of alignment with the actual rows of figures in the image
-* [DR_Anglesey_1871-1880C_p011](DR_Anglesey_1871-1880C_p011.rot.textract-analysis.image_map.html) - the rows for Days 25, 26 and 27 are detected as just a single row by Textract, perhaps because quite a lot of the cells 
-in these rows are blank ? However, for a very similar image of the same sheet, [DR_Anglesey_1871-1880C_p010](DR_Anglesey_1871-1880C_p010.rot.textract-analysis.image_map.html), Textract has found the rows correctly.
