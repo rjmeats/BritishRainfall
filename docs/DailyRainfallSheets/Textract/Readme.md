@@ -7,3 +7,4 @@ Experiments to try and extract rainfall readings within sample images of daily r
 
 * [Extracted Text and Table Cells](./ExtractedCells) - shows the raw text and table cells extracted by Amazon Textract in 'Analyze Document' mode
 
+[Amazon Textract documentation](https://docs.aws.amazon.com/textract/latest/dg/what-is.html)
