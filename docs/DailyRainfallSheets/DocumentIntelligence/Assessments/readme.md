@@ -1,8 +1,8 @@
-## Assessment of readings extracted using Document Intelligence  
+## Assessment of readings extracted using Azure AI Document Intelligence
 
 * [DR_Anglesey_1871-1880C_p008](DR_Anglesey_1871-1880C_p008.image_map.html)
 
-Clickable images for a few sample daily rainfall sheets comparing manually transcribed daily readings with the readings text extracted by Document Intelligence from the images. 
+Clickable images for a few sample daily rainfall sheets comparing manually transcribed daily readings with the readings text extracted by Azure AI Document Intelligence from the images. 
 
 Where an exact comparison fails, a comparison using predefined adjustments to the extracted text was tried, including:
 * adding/relocating the decimal point to a readings
