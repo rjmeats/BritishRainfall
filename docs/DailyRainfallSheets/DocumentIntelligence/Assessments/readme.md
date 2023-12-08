@@ -1,6 +1,6 @@
 ## Assessment of readings extracted using Azure AI Document Intelligence
 
-* [DR_Anglesey_1871-1880C_p008](DR_Anglesey_1871-1880C_p008.di.image_map.html)
+* [DR_Anglesey_1871-1880C_p008](DR_Anglesey_1871-1880C_p008.image_map.di.html)
 
 Clickable images for a few sample daily rainfall sheets comparing manually transcribed daily readings with the readings text extracted by Azure AI Document Intelligence from the images. 
 
