@@ -119,3 +119,9 @@ Meteorological Observatory:
 Daily Weather Report:
 * the DWRs included a telegraphed report from Valentia from October 1860 onwards
 * in mid-1876, the DWR reporting was taken over by the Valentia Observatory
+
+British Rainfall monthly rainfall sheets relevant to this are:
+
+* [VALENTIA-MIX](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/VALENTIA-MIX), which contains a Met Council 'Telegraph Station' record from 1866 onwards, with the years before 1877 backfilled (in 1925?) from the Met Office Quarterly Reports. There is also a separate Valentia record with the Knight of Kerry as the observer for 1861-1870. A note on this record says two relevant things potentially linking it to the DWT/Telegraph world: i) the gauge moved from Knightstown to Foilhomurrum (the temporary Telegraph station) in 1865; ii) around the same time, a new gauge was substituted for the Fitzroy gauge.
+
+* [VALENTIA-OBSERVATORY](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/VALENTIA-OBSERVATORY)
