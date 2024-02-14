@@ -105,7 +105,14 @@ tbd
 
 ### Valentia Station
 
+There was a lot of telegraph and meteorology activity on and near Valentia Island in the 1861-1875 period:
 
-tbd
+* the first Transatlantic telegraph message was received by the Telegraph Station at the Slate Yard in Knightstown in 1858, although the cable stopped working shortly after
+* in 1865 a replacement Transatlantic cable reached the temporary Telegraph Station at Telegraph Field, Foilhomurrum Bay - [map](https://maps.nls.uk/geo/explore/#zoom=16.1&lat=51.89327&lon=-10.38416&layers=6&b=9)
+* in October 1868, the permanent Telegraph Station just south of Knightstown opened - [map](https://maps.nls.uk/geo/explore/#zoom=16.4&lat=51.92334&lon=-10.28955&layers=6&b=9)
 
 
+* the Met Office opened the Valentia Observatory at Revenue House in 1868, about a mile west of the permanent Telegraph Station - [map](https://maps.nls.uk/geo/explore/#zoom=16.4&lat=51.90998&lon=-10.30051&layers=6&b=9). The observatory used self-recording instruments.
+* in 1892 the Valentia Observatory moved to the mainland, to a house near Cahirciveen - [map](https://maps.nls.uk/geo/explore/#zoom=16.8&lat=51.94087&lon=-10.24296&layers=6&b=9)
+
+The DWRs included a telegraphed report from Valentia from October 1860 onwards. In mid-1876, this DWR reporting was taken over by the Valentia Observatory.
