@@ -98,11 +98,6 @@ For the London DWR station, the 1861-1875 data-set splits the station into 3 SEF
 
 If the British Rainfall Brixton Acre Lane station is correct, the Brixton station started a year earlier than indicated by the split between the SEF files indicate, as demonstrated in the Victoria Street comparison.
 
-### Liverpool / Bidston Station
-
-
-tbd
-
 ### Valentia Station
 
 There was a lot of telegraph and meteorology activity on and near Valentia Island in the 1861-1875 period:
@@ -124,4 +119,11 @@ British Rainfall monthly rainfall sheets relevant to this are:
 
 * [VALENTIA-MIX](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/VALENTIA-MIX), which contains a Met Council 'Telegraph Station' record from 1866 onwards, with the years before 1877 backfilled (in 1925?) from the Met Office Quarterly Reports. There is also a separate Valentia record with the Knight of Kerry as the observer for 1861-1870. A note on this record says two relevant things potentially linking it to the DWT/Telegraph world: i) the gauge moved from Knightstown to Foilhomurrum (the temporary Telegraph station) in 1865; ii) around the same time, a new gauge was substituted for the Fitzroy gauge.
 
-* [VALENTIA-OBSERVATORY](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/VALENTIA-OBSERVATORY)
+* [VALENTIA-OBSERVATORY](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/VALENTIA-OBSERVATORY), which contains a Met Council 'Valentia Observatory' record from 1880 (not 1868) onwards, relabelled 'Cahirciveen Valentia Observatory' from 1892.
+
+[Comparison](Comparisons/VALENTIA-DWR-1861-1875-Comparison.xlsx) of the aggregated monthly DWR 1861-1875 figures with British Rainfall monthly figures shows a lot of good matches for the Valentia-Mix Telegraph record 1866-1870, which is part of the period of back-filled figures taken from the Quarterly Reports. There's little match to the Knight of Kerry record, depsite its possible DWR links, although the Valencia DWR record has lots of missing days in its earlier years.
+
+### Liverpool / Bidston Station
+
+tbd
+
