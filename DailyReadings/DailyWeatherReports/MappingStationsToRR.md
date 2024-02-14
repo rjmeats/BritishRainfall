@@ -121,7 +121,7 @@ British Rainfall monthly rainfall sheets relevant to this are:
 
 * [VALENTIA-OBSERVATORY](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/VALENTIA-OBSERVATORY), which contains a Met Council 'Valentia Observatory' record from 1880 (not 1868) onwards, relabelled 'Cahirciveen Valentia Observatory' from 1892.
 
-[Comparison](Comparisons/VALENTIA-DWR-1861-1875-Comparison.xlsx) of the aggregated monthly DWR 1861-1875 figures with British Rainfall monthly figures shows a lot of good matches for the Valentia-Mix Telegraph record 1866-1870, which is part of the period of back-filled figures taken from the Quarterly Reports. There's little match to the Knight of Kerry record, depsite its possible DWR links, although the Valencia DWR record has lots of missing days in its earlier years.
+[Comparison](Comparisons/VALENTIA-DWR-1861-1875-Comparison.xlsx) of the aggregated monthly DWR 1861-1875 figures with British Rainfall monthly figures shows a lot of good matches for the Valentia-Mix Telegraph record 1866-1870, which is part of the period of back-filled figures taken from the Quarterly Reports. There's little match to the Knight of Kerry record, depsite its possible DWR links, although the Valentia DWR record has lots of missing days in its earlier years.
 
 ### Liverpool / Bidston Station
 
