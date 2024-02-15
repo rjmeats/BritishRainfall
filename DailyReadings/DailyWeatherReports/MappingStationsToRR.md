@@ -98,6 +98,29 @@ For the London DWR station, the 1861-1875 data-set splits the station into 3 SEF
 
 If the British Rainfall Brixton Acre Lane station is correct, the Brixton station started a year earlier than indicated by the split between the SEF files indicate, as demonstrated in the Victoria Street comparison.
 
+### Liverpool / Bidston Observatory Station
+
+The DWRs contain a 'Liverpool' entry from 1860 onwards, which changes to 'Liverpool (Bidston Obs.)' in mid 1871. The Met Office Annual Report 1871 says that the Liverpool instruments were formerly at the telegraph office in the centre of town, but that the observations were now taken at the Bidston Observatory in Birkenhead.
+
+Bidston Observatory ([map](https://maps.nls.uk/geo/explore/#zoom=15.7&lat=53.40083&lon=-3.07366&layers=6&b=1&marker=53.400735,-3.074226)) was set up when the Liverpool Observatory ([map](https://maps.nls.uk/geo/explore/#zoom=16.6&lat=53.41359&lon=-3.00217&layers=257&b=9&marker=51.45853,-2.59223)) had to close down at the end of 1866 when the Waterloo Docks were extended.
+
+The related British Rainfall monthly rainfall stations are:
+
+* [LIVERPOOL-OBSERVATORY](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/LIVERPOOL-OBSERVATORY) 1846 to the end of 1866
+* [BIDSTON-OBSERVATORY](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/BIDSTON-OBSERVATORY) from January 1867 onwards
+
+[Comparison](Comparisons/LIVERPOOL-DWR-1861-1875-Comparison.xlsx) of the aggregated monthly DWR 1861-1875 figures with British Rainfall monthly figures shows:
+
+* fairly close matching to LIVERPOOL-OBSERVATORY figures for a lot of months from 1863 to mid-1866
+* fairly close matching to BIDSTON-OBSERVATORY figures for mid-1871 onwards
+* but no matches for Bidston before that
+
+So possible the sequence of sites producing the Liverpool DWR station observations which fits the comparison matches and the Met Office 1871 Annual Report statement would be:
+* early 1860s - unclear
+* 1863/1864 to mid-1866 at Liverpool Observatory (demolished Jan 1867)
+* mid-1866 to mid-1871 at a central Liverpool Telegraph office
+* mid-1871 onwards at Bidston Observatory
+
 ### Valentia Station
 
 There was a lot of telegraph and meteorology activity on and near Valentia Island in the 1861-1875 period:
@@ -122,8 +145,4 @@ British Rainfall monthly rainfall sheets relevant to this are:
 * [VALENTIA-OBSERVATORY](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/VALENTIA-OBSERVATORY), which contains a Met Council 'Valentia Observatory' record from 1880 (not 1868) onwards, relabelled 'Cahirciveen Valentia Observatory' from 1892.
 
 [Comparison](Comparisons/VALENTIA-DWR-1861-1875-Comparison.xlsx) of the aggregated monthly DWR 1861-1875 figures with British Rainfall monthly figures shows a lot of good matches for the Valentia-Mix Telegraph record 1866-1870, which is part of the period of back-filled figures taken from the Quarterly Reports. There's little match to the Knight of Kerry record, depsite its possible DWR links, although the Valentia DWR record has lots of missing days in its earlier years.
-
-### Liverpool / Bidston Station
-
-tbd
 
