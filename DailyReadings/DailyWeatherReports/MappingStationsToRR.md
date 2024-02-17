@@ -7,16 +7,16 @@ In January 2024, Ed Hawkins and Philip Craig released digitised observations fro
 
 The rescued observations include daily rainfall figures from a few tens of DWR stations in Great Britain and Ireland and some nearby countries. 
 
-This note records how the DWR rainfall stations relate to the British Rainfall monthly rainfall stations in Great Britain and Ireland, mostly by a combination of:
-* identifying British Rainfall stations with 'Meteor. Council' or similar as the observer in the British Rainfall almanacs or on the ten-year rainfall sheets. These first appear in the 1877 edition of British Rainfall.
-* aggregating the DWR daily rainfall observations into monthly figures, and comparing these with the British Rainfall values transbribed by the Rainfall Rescue project
+The sections below record how the DWR rainfall stations relate to the British Rainfall monthly rainfall stations in Great Britain and Ireland, determined mostly by a combination of:
+* identifying British Rainfall stations with 'Meteor. Council' or similar as the observer in *British Rainfall* or on the ten-year rainfall sheets. These first appear in the 1877 edition of British Rainfall.
+* aggregating the DWR daily rainfall observations into monthly figures, and comparing these with the monthly British Rainfall values transcribed by the Rainfall Rescue project
 * DWR station history information from the Hawkins and Craig publication, early Met Office Annual Reports, and other sources
 
 ## DWR Stations with no related British Rainfall Station
 
 Most of the DWR stations which had stopped appearing in the DWRs by 1875 (i.e. before the Met Office began supplying records to British Rainfall in 1877) have no related British Rainfall station:
 
-* Aberdeen, Wick (initial site)
+* Wick (initial site)
 * Cape Clear, Galway, Greencastle (initial site), Portrush, Queenstown
 * Holyhead (initial site), Milford Haven
 * Berwick, London (Westminster sites), Penzance, Plymouth (initial site), Portland, Portsmouth
@@ -26,7 +26,7 @@ Most of the DWR stations which had stopped appearing in the DWRs by 1875 (i.e. b
 
 Many of the DWR rainfall stations which were still active at the end of the 1861–1875 period appear in British Rainfall only from 1877 onwards. British Rainfall gives 'The Met. Council' or similar as observer for these records. 1877 was the point at which the Met Office began supplying its rainfall records to British Rainfall, usually with no back-filling. 
 
-For these cases, there is no overlap in time between the 1861-1875 DWR data set and the rainfall figures held in British Rainfall for the same sites.
+For these cases, there is no overlap in time between the 1861-1875 DWR data set and the rainfall figures held in British Rainfall for the same sites, so there is no comparison of monthly data.
 
 <img src="Images/Leith_TYR.JPG" width=500>
 
@@ -34,11 +34,12 @@ For these cases, there is no overlap in time between the 1861-1875 DWR data set 
 
 |DWR Station|British Rainfall Station|
 |:----------|:----------------------|
+|Aberdeen|[ABERDEEN-BRAEMAR-PLACE](https://github.com/ed-hawkins/rainfall-rescue/blob/master/DATA/ABERDEEN-BRAEMAR-PLACE) (DWR moved to [ABERDEEN-OBSERVATORY](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/ABERDEEN-OBSERVATORY) in ~1889)|
 |Dover|Two 'leftover' Kent ten-year sheets: [1870s](https://github.com/ed-hawkins/rainfall-rescue-leftover/blob/main/DATA/Kent/TYRain_1870-1879_01_pt3-page-025.jpg) and [1880s](https://github.com/ed-hawkins/rainfall-rescue-leftover/blob/main/DATA/Kent/TYRain_1880-1889_02_pt1-page-021.jpg)|
 |Holyhead (Sailor's Home site)|[HOLYHEAD](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/HOLYHEAD)|
 |Hurst Castle|[HURST-CASTLE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/HURST-CASTLE)|
 |Leith|[LEITH](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/LEITH)|
-|Moville (successor to Greencastle)|[MOVILLE-PROSPECT-VILLA](https://github.com/ed-hawkins/rainfall-rescue-data-eire/tree/main/DATA/MOVILLE-PROSPECT-VILLA)|
+|Moville (nearby successor to Greencastle)|[MOVILLE-PROSPECT-VILLA](https://github.com/ed-hawkins/rainfall-rescue-data-eire/tree/main/DATA/MOVILLE-PROSPECT-VILLA)|
 |Portishead|One 'leftover' Somerset ten-year sheet: [1870s](https://github.com/ed-hawkins/rainfall-rescue-leftover/blob/main/DATA/Somerset/TYRain_1870-1879_05_pt3-page-021.jpg)|
 |Roche's Point|[ROCHES-POINT](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/ROCHES-POINT)|
 |Scarborough|[SCARBOROUGH-MIX](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/SCARBOROUGH-MIX)|
@@ -47,7 +48,7 @@ For these cases, there is no overlap in time between the 1861-1875 DWR data set 
 |Sumburgh|[SUMBURGHEAD-DUNROSSNESS](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/SUMBURGHEAD-DUNROSSNESS)|
 |Thurso|One 'leftover' Caithness ten-year sheet: [1870s](https://github.com/ed-hawkins/rainfall-rescue-leftover/blob/main/DATA/Caithness/TYRain_1870-1879_12_pt3-page-100.jpg)|
 |Wick (Market Place site)|[WICK-COASTGUARD-STATION](WICK-COASTGUARD-STATION)|
-|Yarmouth (Sailor's Home site)|[YARMOUTH-SAILORS-HOME.csv](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/YARMOUTH-SAILORS-HOME)|
+|Yarmouth (Sailor's Home site)|[YARMOUTH-SAILORS-HOME](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/YARMOUTH-SAILORS-HOME)|
 
 ## DWR Stations with figures which match to British Rainfall
 
@@ -57,7 +58,7 @@ A comparison spreadsheet for each site compares the month-by-month aggregated DW
 
 ### Inland DWR Stations added in July 1872
 
-In July 1872, four 'institutional' DWR stations were added to the DWR. 
+In July 1872, four inland DWR stations were added to the DWR. 
 
 |DWR Station|British Rainfall Station|Comparison Spreadsheet|Notes|
 |:----------|:----------------------|:---------|:----|
@@ -68,12 +69,12 @@ In July 1872, four 'institutional' DWR stations were added to the DWR.
 
 ### Coastal DWR Stations added in the early 1870s
 
-These coastal stations, added to the DWR in and around the early 1870s, have at least partially matching figures in British Rainfall, with the Met Council recorded as the observer.
+These coastal stations, added to the DWR in and around the early 1870s, have at least partially matching figures in British Rainfall, which records the Met Council as the observer.
 
 |DWR Station|British Rainfall Station|Comparison Spreadsheet|Notes|
 |:----------|:----------------------|:---------|:----|
-|Donaghadee|[DONAGHADEE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/DONAGHADEE)|[Link](Comparisons/DONAGHADEE-DWR-1861-1875-Comparison.xlsx)|Good match to British Rainfall for most months 1873-1875. BR Records for 1873-1876 have been back-filled.|
-|Kingstown|[KINGSTOWN](https://github.com/ed-hawkins/rainfall-rescue-data-eire/tree/main/DATA/KINGSTOWN)|[Link](Comparisons/KINGSTOWN-DWR-1861-1875-Comparison.xlsx)|Good match to British Rainfall for most months 1873-1875. BR Records for 1873-1876 have been back-filled.|
+|Donaghadee|[DONAGHADEE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/DONAGHADEE)|[Link](Comparisons/DONAGHADEE-DWR-1861-1875-Comparison.xlsx)|Good match to British Rainfall for most months 1873-1875. The BR Records for 1873-1876 were back-filled from another source.|
+|Kingstown|[KINGSTOWN](https://github.com/ed-hawkins/rainfall-rescue-data-eire/tree/main/DATA/KINGSTOWN)|[Link](Comparisons/KINGSTOWN-DWR-1861-1875-Comparison.xlsx)|Good match to British Rainfall for most months 1873-1875. The BR Records for 1873-1876 were back-filled from another source.|
 |Plymouth (Navigation School)|[PLYMOUTH-NAVIGATION-SCHOOL](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/PLYMOUTH-NAVIGATION-SCHOOL)|[Link](Comparisons/PLYMOUTH-DWR-1861-1875-Comparison.xlsx)|Mostly a good match to British Rainfall for 1870-1875, with a few big mismatches. Record continues to 1886 with observer as Merrifield.|
 |Pembroke (St Ann's)|[PEMBROKE-ST-ANNS](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/PEMBROKE-ST-ANNS)|[Link](Comparisons/PEMBROKE-DWR-1861-1875-Comparison.xlsx)|British Rainfall has an 1870-71 record, observer Marriott, which is mostly a good match until mid 1871. There is then a gap until 1877 when a normal 'Met Council' record starts.|
 |Scilly|[ST-MARYS-COASTGUARD-STATION](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/ST-MARYS-COASTGUARD-STATION)|[Link](Comparisons/SCILLY-DWR-1861-1875-Comparison.xlsx)|British Rainfall has a St Mary's record with readings for 1871, 1872 and 1874 (various observers), with the first half of 1871 and the middle of 1874 mostly matching well. There is then a gap until 1877 when a normal 'Met Council' record starts.|
@@ -89,20 +90,22 @@ These coastal stations, added to the DWR in and around the early 1870s, have at 
 
 ### London Brixton Station
 
-The 1861-1875 DWRs include a 'London' station. For the earlier years, which seems to have been at the Westminster offices of the Met Office - there is no British Rainfall match for these figures. For 1871-1875, there is a very good match for the [BRIXTON-ACRE-LANE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/BRIXTON-ACRE-LANE) British Rainfall station, observer 'The Met Council', with the British Rainfall station continuing to 1906. The Met Office Annual Report gives F.Gaster, a senior officer at the Met Office, as the DWR observer. 
+The 1861-1875 DWRs include a 'London' station. For the earlier years in this period, at the Westminster offices of the Met Office, there is no British Rainfall match. For 1871-1875, there is a very good match for the [BRIXTON-ACRE-LANE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/BRIXTON-ACRE-LANE) British Rainfall station, observer 'The Met Council', with the British Rainfall station continuing to 1906. The figures on the British Rainfall sheet for 1871-1876 look like they have been back-filled, with British Rainfall not recording this site in its annual publication until 1878.
+
+The Met Office Annual Report gives F.Gaster, a senior officer at the Met Office, as the named DWR observer from 1872 (before that the observer was just given as 'Clerks in the Meteorological Office')
 
 For the London DWR station, the 1861-1875 data-set splits the station into 3 SEF files:
 * 1862-1869 : Parliament Street
 * 1869-1872 : Victoria Street : [Comparison spreadsheet](Comparisons/LONDON2-VIC-STREET-DWR-1861-1875-Comparison.xlsx)
 * 1872-1875 : Acre Lane : [Comparison spreadsheet](Comparisons/LONDON3-BRIXTON-DWR-1861-1875-Comparison.xlsx)
 
-If the British Rainfall Brixton Acre Lane station is correct, the Brixton station started a year earlier than indicated by the split between the SEF files indicate, as demonstrated in the Victoria Street comparison.
+If the British Rainfall Brixton Acre Lane station is correct, the Brixton DWR station started a year earlier than the split between the SEF files indicates, as demonstrated by the Victoria Street comparison which has a good match to the British Rainfall Brixton Acre Lane figures for 1871.
 
 ### Liverpool / Bidston Observatory Station
 
 The DWRs contain a 'Liverpool' entry from 1860 onwards, which changes to 'Liverpool (Bidston Obs.)' in mid 1871. The Met Office Annual Report 1871 says that the Liverpool instruments were formerly at the telegraph office in the centre of town, but that the observations were now taken at the Bidston Observatory in Birkenhead.
 
-Bidston Observatory ([map](https://maps.nls.uk/geo/explore/#zoom=15.7&lat=53.40083&lon=-3.07366&layers=6&b=1&marker=53.400735,-3.074226)) was set up when the Liverpool Observatory ([map](https://maps.nls.uk/geo/explore/#zoom=16.6&lat=53.41359&lon=-3.00217&layers=257&b=9&marker=51.45853,-2.59223)) had to close down at the end of 1866 when the Waterloo Docks were extended.
+Bidston Observatory ([map](https://maps.nls.uk/geo/explore/#zoom=15.7&lat=53.40083&lon=-3.07366&layers=6&b=1&marker=53.400735,-3.074226)) was set up when the Liverpool Observatory ([map](https://maps.nls.uk/geo/explore/#zoom=16.6&lat=53.41359&lon=-3.00217&layers=257&b=9&marker=51.45853,-2.59223)) had to close down at the end of 1866 because the Waterloo Docks were being extended.
 
 The related British Rainfall monthly rainfall stations are:
 
@@ -113,9 +116,9 @@ The related British Rainfall monthly rainfall stations are:
 
 * fairly close matching to LIVERPOOL-OBSERVATORY figures for a lot of months from 1863 to mid-1866
 * fairly close matching to BIDSTON-OBSERVATORY figures for mid-1871 onwards
-* but no matches for Bidston before that
+* but no matches for Bidston before 1871
 
-So possible the sequence of sites producing the Liverpool DWR station observations which fits the comparison matches and the Met Office 1871 Annual Report statement would be:
+So a possible sequence of sites for the Liverpool DWR station observations which fits the comparison matches and the Met Office 1871 Annual Report statement would be:
 * early 1860s - unclear
 * 1863/1864 to mid-1866 at Liverpool Observatory (demolished Jan 1867)
 * mid-1866 to mid-1871 at a central Liverpool Telegraph office
@@ -140,9 +143,11 @@ Daily Weather Report:
 
 British Rainfall monthly rainfall sheets relevant to this are:
 
-* [VALENTIA-MIX](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/VALENTIA-MIX), which contains a Met Council 'Telegraph Station' record from 1866 onwards, with the years before 1877 backfilled (in 1925?) from the Met Office Quarterly Reports. There is also a separate Valentia record with the Knight of Kerry as the observer for 1861-1870. A note on this record says two relevant things potentially linking it to the DWT/Telegraph world: i) the gauge moved from Knightstown to Foilhomurrum (the temporary Telegraph station) in 1865; ii) around the same time, a new gauge was substituted for the Fitzroy gauge.
+* [VALENTIA-MIX](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/VALENTIA-MIX), which contains a Met Council 'Telegraph Station' record from 1866 onwards, with the years before 1877 backfilled (in 1925?) from the Met Office Quarterly Reports. There is also a separate Valentia record with the Knight of Kerry as the observer for 1861-1870. A note on this record says two things potentially linking it to the DWT/Telegraph world: 
+    * i) the gauge moved from Knightstown to Foilhomurrum (the temporary Telegraph station) in 1865; 
+    * ii) around the same time, a new gauge was substituted for the Fitzroy gauge.
 
 * [VALENTIA-OBSERVATORY](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/VALENTIA-OBSERVATORY), which contains a Met Council 'Valentia Observatory' record from 1880 (not 1868) onwards, relabelled 'Cahirciveen Valentia Observatory' from 1892.
 
-[Comparison](Comparisons/VALENTIA-DWR-1861-1875-Comparison.xlsx) of the aggregated monthly DWR 1861-1875 figures with British Rainfall monthly figures shows a lot of good matches for the Valentia-Mix Telegraph record 1866-1870, which is part of the period of back-filled figures taken from the Quarterly Reports. There's little match to the Knight of Kerry record, depsite its possible DWR links, although the Valentia DWR record has lots of missing days in its earlier years.
+[Comparison](Comparisons/VALENTIA-DWR-1861-1875-Comparison.xlsx) of the aggregated monthly DWR 1861-1875 figures with British Rainfall monthly figures shows a lot of good matches for the Valentia-Mix Telegraph record 1866-1870, which is part of the period of back-filled figures taken from the Quarterly Reports. There's little match to the Valentia-Mix Knight of Kerry record, depsite its possible DWR links, although the Valentia DWR record has lots of missing days in its earlier years.
 
