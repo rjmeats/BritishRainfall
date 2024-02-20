@@ -209,17 +209,22 @@ The actually monthly figures being compared for the DWR and British Rainfall sta
 
 ### Comparison mismatch reasons
 
-Where the same source station has produced the monthly rainfall figures for both a DWR station and a British Rainfall station, the comparison spreadsheet would ideally show no differences between the monthly figures from the two sources. 
-
-Reasons for mismatches arising could include:
+Where the same source station has produced the monthly rainfall figures for both a DWR station and a British Rainfall station, the comparison spreadsheet should ideally show no differences between the monthly figures from the two sources. In practice, we don't see that for a lot of cases; reasons for mismatches could include:
 
 * for early years, a difference in the period used to define the month, particularly how readings taken on the first of the month were handled
-* for early years, possibly rainfall missing from the DWR because of Sundays and holidays 
+* for early years, rainfall might be missing from the DWR because of Sundays and holidays 
 * errors introduced during the transmission of readings to the Met Office over the telegraph system (the Met Office Annual Report for 1874 discusses these)
 * DWR readings that have not been transcribed:
   * corrections or late-arriving records
   * a few DWRs that are missing from the Met Office online archive
   * a few DWRs that are missing from the 1861-1875 data-set
-* BR monthly figures would often have been produced by aggregating daily figures, and so there may be occasional errors introduced by this process
-* transcription errors in the DWR or British Rainfall data rescue processes
-* bugs in the generation of the comparison spreadsheet
+* the BR monthly figures were presumably produced by aggregating daily figures, and so there may be some errors introduced by this process
+* incorrect transcriptions in the DWR or British Rainfall data rescue processes
+
+### Example of a late-arriving DWR reading accounting for a comparison mismatch
+
+Using the transcribed DWR readings from the SEF file the Plymouth DWR Station for February 1874 gives an aggregate monthly rainfall of 2.47 inches, but with no reading on 15th February. The British Rainfall PLYMOUTH-NAVIGATION-SCHOOL station has monthly rainfall of 2.72 inches for the same month, 0.25 inches larger.
+
+The Additions section of the February 1874 DWR shows an entry for 15th February for Plymouth, with rainfall of 0.25 inches:
+
+<img src="Images/Plymouth_Addition.JPG" width=600>
