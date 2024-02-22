@@ -1,4 +1,4 @@
-# Mapping Daily Weather Report Stations to Rainfall Rescue (British Rainfall) stations
+# Mapping Early Daily Weather Report Stations to Rainfall Rescue (British Rainfall) stations
 
 In January 2024, Ed Hawkins and Philip Craig released digitised observations from the 1861-1875 Met Office Daily Weather Reports, transcribed by volunteers using the Zooniverse platform.
 
@@ -16,7 +16,7 @@ The sections below record how the DWR rainfall stations relate to the British Ra
 
 ## DWR Stations with no related British Rainfall Station
 
-Most of the DWR stations which had stopped appearing in the DWRs by 1875 have no related Rainfall Rescue station.
+Most of the early DWR stations which had stopped appearing in the DWRs by 1875 have no related Rainfall Rescue station:
 
 * Wick (initial site)
 * Cape Clear, Galway, Greencastle (initial site), Portrush, Queenstown
@@ -26,9 +26,9 @@ Most of the DWR stations which had stopped appearing in the DWRs by 1875 have no
 
 ## DWR Stations active by 1875 but only appearing later in British Rainfall
 
-Many of the DWR rainfall stations which were still active at the end of the 1861–1875 period appear as British Rainfall stations, but only from 1877 onwards. *British Rainfall* gives 'The Met. Council' or similar as observer for these records.
+Many of the DWR rainfall stations which were still active at the end of the 1861–1875 period appear as British Rainfall stations, but only from 1877 onwards, the point at which the Met Office began supply reports to British Rainfall. The 1877 and subsequent editions of *British Rainfall* give 'The Met. Council' or similar as observer for these records.
 
-For these cases, there is no overlap in time between the 1861-1875 DWR data set and the rainfall figures held in British Rainfall for the same stations, so there is no comparison of monthly data.
+For these stations, there is no overlap in time between the 1861-1875 DWR data set and the rainfall figures held in British Rainfall, so there is no comparison of monthly data.
 
 <img src="Images/Leith_TYR.JPG" width=500>
 
@@ -54,9 +54,9 @@ For these cases, there is no overlap in time between the 1861-1875 DWR data set 
 
 ## DWR Stations with figures which match to British Rainfall
 
-The remaining DWR rainfall stations in the 1861–1875 data-set have aggregate monthly rainfall figures that match up at least partially with a British Rainfall monthly station. 
+The remaining DWR rainfall stations in the 1861–1875 data-set have aggregate monthly rainfall figures that match up at least partially with figures from a British Rainfall monthly station. 
 
-A comparison spreadsheet for each site compares the month-by-month aggregated DWR 1861-1875 and Rainfall Rescue figures. (A section at the end of this note has more information on the comparison process.)
+A comparison spreadsheet for each site compares the month-by-month aggregated DWR 1861-1875 and Rainfall Rescue figures. (A [section](#comparisons) at the end of this note has more information on the comparison process.)
 
 ### Inland DWR Stations added in July 1872
 
@@ -153,11 +153,13 @@ British Rainfall monthly rainfall stations relevant to this are:
 
 [Comparison](Comparisons/VALENTIA-DWR-1861-1875-Comparison.xlsx) of the aggregated monthly DWR 1861-1875 figures with British Rainfall monthly figures shows a lot of good matches for the Valentia-Mix Telegraph record 1866-1870, which is part of the period of back-filled figures taken from Met Office Quarterly Reports. There's little match to the Valentia-Mix Knight of Kerry record, depsite its possible DWR links, although the Valentia DWR record has lots of missing days in its earlier years.
 
+<a id="comparisons"/>
+
 ## Comparison Spreadsheets
 
 The [comparison spreadsheets](Comparisons) referenced in previous sections were produced by comparing monthly rainfall records from British Rainfall stations with aggregated daily rainfall figures from the Daily Weather Report stations.
 
-### Definition of the monthly period for DWR stations
+### Definition of the monthly period for early DWR stations
 
 The 8 am DWR rainfall readings record the rainfall for the previous 24 hours, so the rainfall recorded in the DWR for the first day of a month relates to the new month and the previous one. 
 
@@ -165,7 +167,7 @@ The 1865 edition of *British Rainfall* discusses this aspect of producing monthl
 
 The aggregated monthly rainfall for DWR stations has been calculated here in the same way. For example, the DWR rainfall assigned to June is the sum of the readings in the DWR reports for the 2nd May to the 1st June inclusive.
 
-### Observations for Sundays and holidays in the DWR
+### Observations for Sundays and holidays in the early DWRs
 
 In the early years of the DWRs, there was usually no report published on 'non-working' days: Sundays, Good Friday and Christmas Day. This was the case until Good Friday 19th April 1867, after which Sundays and holidays did have DWRs.
 
@@ -177,7 +179,7 @@ Analysis (see [Zooniverse Talk discussions](https://www.zooniverse.org/projects/
 
 If so, the process of aggregating the daily DWR rainfall figures to produce a monthly figure should not be much affected by the missing DWRs on 'non-working' days. However, it does mean that where a non-working Sunday was the 1st of the month, the 2-day rainfall figure in the Monday DWR contains a contribution from two different rainfall months, but the whole of the 2-day rainfall will have been allocated by the aggregation process to the later month.
 
-### Other missing observations in the DWR
+### Other missing observations in the DWRs
 
 As well as the Sundays and holidays in the early years of the DWR not having rainfall readings, there are other days in the 1861-1875 period with missing DWR data (for some or all stations) in the SEF data-set files:
 * late-arriving figures and corrections to the DWRs (noted on later DWRs or as an end-of-month batch) have not been transcribed, so the SEF files just contain rainfall entries from the day of DWR itself
@@ -186,7 +188,7 @@ As well as the Sundays and holidays in the early years of the DWR not having rai
 
 In these cases, the monthly rainfall totally produced by the aggregation of the daily DWR values may be too small, depending on whether rain fell during the missing days. The aggregation process treats months with more than one missing day as error cases, and does not produce a monthly figure.
 
-### Comparison Spreadsheets
+### Comparison Spreadsheet Contents
 
 Each comparison spreadsheet compares aggregated monthly rainfall from one SEF file with the monthly rainfall from one or more related CSV files generated for British Rainfall stations by the Rainfall Rescue project.
 
