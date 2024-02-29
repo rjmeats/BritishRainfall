@@ -30,21 +30,3 @@
 |Wick||||
 |Yarmouth||||
 
-MALIN-HEAD.csv
-NAIRN.csv
-NORTH-SHIELDS-POST-OFFICE.csv
-NOTTINGHAM-SNEINTON-PUMPING-STATION.csv, first few DWR months not in RR
-PEMBROKE-ST-ANNS-3.csv
-PORTLAND-BILL.csv
-ROCHES-POINT.csv
-ST-MARYS-COASTGUARD-STATION.csv
-PATRINGTON-SPURN-HEAD.csv
-STORNOWAY-MIX.csv
-SUMBURGHEAD-DUNROSSNESS.csv
-WICK-COASTGUARD-STATION.csv
-YARMOUTH-SAILORS-HOME.csv
-
-Partial matches/complex/none matches
-
-|Liverpool (Bidston Obs.)||||
-BIDSTON-OBSERVATORY.csv, very small differences nearly every month. 8am ?
