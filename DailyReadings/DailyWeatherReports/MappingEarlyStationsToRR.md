@@ -221,6 +221,7 @@ Where the same source station has produced the monthly rainfall figures for both
   * a few DWRs that are missing from the Met Office online archive
   * a few DWRs that are missing from the 1861-1875 data-set
 * the BR monthly figures were presumably produced by aggregating daily figures, and so there may be some errors introduced by this process
+* DWR rainfall readings that could not be transcribed, e.g. because the figures in the image were too small to read or unclear
 * incorrect transcriptions in the DWR or British Rainfall data rescue processes
 
 ### Example of a late-arriving DWR reading accounting for a comparison mismatch
