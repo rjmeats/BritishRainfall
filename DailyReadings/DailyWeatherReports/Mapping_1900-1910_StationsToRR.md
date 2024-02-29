@@ -1,6 +1,12 @@
 # Mapping 1900-1910 Daily Weather Report Stations to Rainfall Rescue (British Rainfall) stations
 
+# Straight-forward matches to British Rainfall stations
 
+These DWR stations all match very well to a British Rainfall station, with most months having an exact match, producing a Comparison Spreadsheet similar to this :
+
+<img src="Images/Comparison_Example_1900-1910.JPG" width=500>
+
+</br>
 
 |DWR Station|British Rainfall Station|Comparison Spreadsheet|Notes|
 |:----------|:----------------------|:---------|:----|
