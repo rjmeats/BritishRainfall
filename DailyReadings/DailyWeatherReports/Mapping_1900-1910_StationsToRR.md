@@ -4,7 +4,7 @@
 
 These DWR stations all match very well to a British Rainfall station, with most months having an exact match, producing a Comparison Spreadsheet similar to this :
 
-<img src="Images/Comparison_Example_1900-1910.JPG" width=500>
+<img src="Images/Comparison_Example_1900-1910.JPG" width=800>
 
 </br>
 
