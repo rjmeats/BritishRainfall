@@ -55,29 +55,3 @@ Possibly the slight differences are caused by the British Rainfall site using a 
 ### Valentia
 ### Bath
 
-
-
-ABERDEEN-OBSERVATORY.csv 1900-1907 V good, 1908-1910 always small mismatches ?
-
-BIRR-CASTLE-2.csv - lots of almost matches - wrong day ? 8am ? Some years of DWR rainfall not in SEF files ?
-
-|Liverpool (Bidston Obs.)||||
-BIDSTON-OBSERVATORY.csv, very small differences nearly every month. 8am ?
-
-|Nottingham|[NOTTINGHAM-SNEINTON-PUMPING-STATION](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/main/DATA/NOTTINGHAM-SNEINTON-PUMPING-STATION)|[Link]()||
-Small differences after 1904
-'Castle' site
-
-OXFORD-RADCLIFFE-LAWNS.csv, very small differences nearly every month. 8am ? 1909 DWR rainfall not in SEF files ?
-
-VALENTIA-OBSERVATORY-4.csv - small diffs match 1900-1904, 1905-1907 good match. No match fo 1908-1910, nothing else found
-
-1 x Leftover Somerset, but only two years in RR, good match. BATH-HENRIETTA-PARK.csv - lots of near matches to Henrietta Park, especially mid 1900s. 
-
-
-July 1st 1908 - switch to 07:00 reporting
-
-
-## End of 1910 not so well matched ?
-
-## Link to comparison explanation
