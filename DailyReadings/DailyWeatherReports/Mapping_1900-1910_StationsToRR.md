@@ -132,18 +132,3 @@ Another messy case for the Bath DWR station, which commenced in 1903. The Bath D
 
 There is a good but not exact match to the [BATH-HENRIETTA-PARK](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/BATH-HENRIETTA-PARK) British Rainfall station for most of the 1903-1910 period. The observer Dr W.H.Symons is the same as the DWR observer named in the Met Office Annual Reports of the time. But from mid-1909 onwards, the BATH-HENRIETTA-PARK station stops matching to the Bath DWR record, with no obvious alternative British Rainfall station matching either.
 
-## And also:
-
-- Intro section
-- Does hourly explanation stack up ?
-- End of 1910 not so well matched ?
-- Link to comparison explanation
-
-- Missing Birr Castle years
-- Missing Oxford year
-
-
-Mysteries:
-- why not-quite-exact matches
-- Oxford 1909 data
-- Valentia 1908+
