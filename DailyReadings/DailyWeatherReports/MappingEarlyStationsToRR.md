@@ -14,6 +14,8 @@ The sections below record how the DWR rainfall stations relate to the British Ra
 * aggregating the DWR daily rainfall observations into monthly figures, and comparing these with the British Rainfall monthly values transcribed by the Rainfall Rescue project
 * DWR station history information from the Hawkins and Craig publication, early Met Office Annual Reports, and other sources
 
+There is a similar mapping of DWR stations to British Rainfall stations for the period 1900-1910 [here](Mapping_1900-1910_StationsToRR).
+
 ## DWR Stations with no related British Rainfall Station
 
 Most of the early DWR stations which had stopped appearing in the DWRs by 1875 have no related Rainfall Rescue station:

@@ -1,8 +1,26 @@
 # Mapping 1900-1910 Daily Weather Report Stations to Rainfall Rescue (British Rainfall) stations
 
-## Exact matches to British Rainfall stations
+In June 2020, Ed Hawkins and Philip Craig released digitised observations from the 1900-1910 Met Office Daily Weather Reports, transcribed by volunteers using the Zooniverse platform.
 
-These DWR stations all match very well to a British Rainfall station, with most months having an exact match, producing a Comparison Spreadsheet similar to this :
+* [Digitizing observations from the Met Office Daily Weather Reports for 1900-1910 using citizen scientist volunteers](https://rmets.onlinelibrary.wiley.com/doi/10.1002/gdj3.93)
+* [Met Office daily weather reports 1900-1910 Dataset](https://catalogue.ceda.ac.uk/uuid/235ff4a040854dcd8dfb754bbb898479) also now available on [GitHub](https://github.com/ed-hawkins/weather-rescue-data/tree/v2.1/dwr-1900-1910)
+
+The rescued observations include daily rainfall figures from a few tens of DWR stations in Great Britain and Ireland and some nearby countries. 
+
+The 'Rainfall Rescue' project, also run by Ed Hawkins, has transcribed monthly rainfall figures from the Met Office ten-year rainfall sheets, originally collected by the British Rainfall Organisation. These monthly rainfall stations are referred to as 'British Rainfall stations' in the rest of this note. British Rainfall started receiving rainfall records from the Met Office from 1877 onwards.
+
+The sections below record how the DWR rainfall stations relate to the British Rainfall stations, determined mostly by a combination of:
+* identifying British Rainfall stations with 'Meteor. Council' or similar as the observer in the *British Rainfall* or on the ten-year rainfall sheets. These first appear in the 1877 edition of *British Rainfall*.
+* aggregating the DWR daily rainfall observations into monthly figures, and comparing these with the British Rainfall monthly values transcribed by the Rainfall Rescue project
+* DWR station history information from the Hawkins and Craig publication, Met Office Annual Reports, and other sources
+
+A 'Comparison Spreadsheet' for each station shows a detailed month-by-month comparison of the rainfall figures from a DWR station and its matching British Rainfall station. These spreadsheets are explained in more detail [here](MappingEarlyStationsToRR.md#comparisons). Images from these spreadsheets are included below in the discussion of individual sites.
+
+There is a similar mapping of DWR stations to British Rainfall stations for the early DWR period 1861-1875 [here](MappingEarlyStationsToRR).
+
+## DWR Stations with an exact matches to British Rainfall stations
+
+The table below lists DWR stations which all match very well to a British Rainfall station, with most months having an exact match, producing a Comparison Spreadsheet similar to this :
 
 <img src="Images/Comparison_Example_1900-1910.jpg" width=400>
 
@@ -41,9 +59,9 @@ These DWR stations all match very well to a British Rainfall station, with most 
 
 ## Other matches to British Rainfall stations
 
-Most of the other British and Irish DWR rainfall stations also match well, but not quite exactly, to British Rainfall stations for the 1900-1910 period. 
+Most of the other British and Irish DWR rainfall stations also match well to British Rainfall stations for the 1900-1910 period, but often the matches are not quite exact.
 
-The slight differences may possible be caused by differences in the daily reporting hour. All these sites are inland/observatory type sites, and so may have had hourly rainfall recording, enabling the station to potentially use different definitions of 'daily' for British Rainfall and the DWR. British Rainfall sites used a 9 am daily reading, whereas the DWR reporting is based on an 8 am day (7 am from July 1st 1908, although Oxford and Birr Castle continued to use 8 am). 
+The slight differences may perhaps be caused by differences in the daily reporting hour. All these stations are inland/observatory-type sites, and so may have had hourly rainfall recording, enabling the station to potentially use different definitions of 'daily' for British Rainfall and the DWR. British Rainfall sites used a 9 am daily reading, whereas the DWR reporting is based on an 8 am day (7 am from July 1st 1908, although Oxford and Birr Castle continued to use 8 am). 
 
 ### Aberdeen
 
@@ -91,7 +109,7 @@ Met Office Annual Reports and Minutes for 1903-1904 discuss the setting up of th
 
 There is a very close but not quite exact match of the DWR Oxford rainfall to the British Rainfall [OXFORD-RADCLIFFE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/OXFORD-RADCLIFFE) 'Lawns' station. 
 
-The Oxford DWR rainfall data for the whole of 1909 is missing from its SEF data file. There are readings for Oxford in the 1909 DWRs, so this may just be an accidental omission.
+The Oxford DWR rainfall data for the whole of 1909 is missing from its SEF data file. There are readings for Oxford in the 1909 DWRs, so this may be an accidental omission from the SEF file.
 
 ### Valentia
 
@@ -114,13 +132,13 @@ The DWR Valentia station has three matching situations:
 
 ### Birr Castle (Parsonstown)
 
-<img src="Images/Bath_1900-1910_Comparison.jpg" width=400>
+<img src="Images/Birr-Castle_1900-1910_Comparison.jpg" width=400>
 
 [Comparison spreadsheet link](Comparisons/BIRR-CASTLE-DWR-1900-1910-Comparison.xlsx)
 
-A messier case. There is a close match to one or other of the British Rainfall [BIRR-CASTLE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/BIRR-CASTLE) gauges for most of the 1900-1910 period.
+A messier case. For most of the 1900-1910 period, there is a close match to one or other of the two British Rainfall [BIRR-CASTLE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/BIRR-CASTLE) gauges.
 
-The Birr Castle DWR rainfall data for 1903, 1906 and 1909 is missing from its SEF data file. There are readings for Parsonstown/Birr Castle in the DWRs for these years, so this may just be an accidental omission.
+The Birr Castle DWR rainfall data for 1903, 1906 and 1909 is missing from its SEF data file. There are readings for Parsonstown/Birr Castle in the DWRs for these years, so this may be an accidental omission from the SEF file.
 
 ### Bath
 
@@ -131,4 +149,3 @@ The Birr Castle DWR rainfall data for 1903, 1906 and 1909 is missing from its SE
 Another messy case for the Bath DWR station, which commenced in 1903. The Bath DWR station has an exact match for 1904 and 1906 on a ['leftover' British Rainfall Bath ten-year rainfall sheet](https://github.com/ed-hawkins/rainfall-rescue-leftover/blob/main/DATA/Somerset/TYRain_1900-1909_14_pt1-page-087.jpg), which only had figures for those two years. 
 
 There is a good but not exact match to the [BATH-HENRIETTA-PARK](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/BATH-HENRIETTA-PARK) British Rainfall station for most of the 1903-1910 period. The observer Dr W.H.Symons is the same as the DWR observer named in the Met Office Annual Reports of the time. But from mid-1909 onwards, the BATH-HENRIETTA-PARK station stops matching to the Bath DWR record, with no obvious alternative British Rainfall station matching either.
-
