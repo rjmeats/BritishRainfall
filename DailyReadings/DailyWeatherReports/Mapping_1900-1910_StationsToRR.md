@@ -97,9 +97,9 @@ The Nottingham Pumping Station DWR record has an exact match to the British Rain
 
 #### 'Nottingham Castle' DWR station discussion
 
-I wonder whether the 'Nottingham Castle' DWR readings (July-December 1903) are really just the early readings from the Nottingham Pumping Station site ? They don't match the British Rainfall NOTTINGHAM-THE-CASTLE station. The British Rainfall NOTTINGHAM-SNEINTON-PUMPING-STATION site has no monthly records to compare before 1904 to confirm this or not. 
+I wonder whether the 'Nottingham Castle' DWR readings (July-December 1903) are really just the early readings from the Nottingham Pumping Station site ? They don't match the British Rainfall NOTTINGHAM-THE-CASTLE station. The British Rainfall NOTTINGHAM-SNEINTON-PUMPING-STATION site has no monthly records to compare before 1904 to confirm or disprove this. 
 
-Met Office Annual Reports and Minutes for 1903-1904 discuss the setting up of the Nottingham station by Nottingham Corporation, but don't detail the location. However the inspections part of the 1903-04 Annual Report has separate entries for Nottingham Castle Climatological Station (p124) and the Nottingham Telegraphic Station (p127).
+Met Office Annual Reports and Minutes for 1903-1904 discuss the setting up of the Nottingham DWR station by Nottingham Corporation, but don't detail the location. The inspections part of the 1903-04 Annual Report has separate entries for Nottingham Castle Climatological Station (p124) and the Nottingham Telegraphic Station (p127).
 
 ### Oxford
 
