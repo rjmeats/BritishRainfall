@@ -16,7 +16,7 @@ The sections below record how the DWR rainfall stations relate to the British Ra
 
 A 'Comparison Spreadsheet' for each station shows a detailed month-by-month comparison of the rainfall figures from a DWR station and its matching British Rainfall station. These spreadsheets are explained in more detail [here](MappingEarlyStationsToRR.md#comparisons). Images from these spreadsheets are included below in the discussion of individual sites.
 
-There is a similar mapping of DWR stations to British Rainfall stations for the early DWR period 1861-1875 [here](MappingEarlyStationsToRR).
+There is a similar mapping of DWR stations to British Rainfall stations for the early DWR period 1861-1875 [here](MappingEarlyStationsToRR.md).
 
 ## DWR Stations with an exact matches to British Rainfall stations
 
