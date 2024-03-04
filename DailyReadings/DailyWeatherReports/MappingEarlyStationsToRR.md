@@ -30,7 +30,7 @@ Many of the DWR rainfall stations which were still active at the end of the 1861
 
 For these stations, there is no overlap in time between the 1861-1875 DWR data set and the rainfall figures held in British Rainfall, so there is no comparison of monthly data.
 
-<img src="Images/Leith_TYR.JPG" width=500>
+<img src="Images/Leith_TYR.jpg" width=500>
 
 </br>
 
@@ -203,11 +203,11 @@ The comparison table is repeated in two formats using these colours:
 * showing just a high-level indicator of the comparison outcome
 * showing the actual difference in monthly rainfall 
 
-<img src="Images/Comparison_Example.JPG" width=500>
+<img src="Images/Comparison_Example.jpg" width=500>
 
 The actually monthly figures being compared for the DWR and British Rainfall stations are also shown in the same table layout form. For the DWR figures, information in square brackets shows how many days are missing for the month, with 'S' indicating non-working days missing.
 
-<img src="Images/Comparison_Example_2.JPG" width=300>
+<img src="Images/Comparison_Example_2.jpg" width=300>
 
 ### Comparison mismatch reasons
 
@@ -230,4 +230,4 @@ Using the transcribed DWR readings from the SEF file the Plymouth DWR Station fo
 
 The Additions section of the February 1874 DWR shows an entry for 15th February for Plymouth, with rainfall of 0.25 inches:
 
-<img src="Images/Plymouth_Addition.JPG" width=600>
+<img src="Images/Plymouth_Addition.jpg" width=600>
