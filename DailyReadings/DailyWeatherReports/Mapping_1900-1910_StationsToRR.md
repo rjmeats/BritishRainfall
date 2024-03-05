@@ -44,8 +44,8 @@ The table below lists DWR stations which all match very well to a British Rainfa
 |Nairn|[NAIRN](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/NAIRN)|[Link](Comparisons/NAIRN-DWR-1900-1910-Comparison.xlsx)|
 |North Shields|[NORTH-SHIELDS-POST-OFFICE](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/NORTH-SHIELDS-POST-OFFICE)|[Link](Comparisons/SHIELDS-DWR-1900-1910-Comparison.xlsx)|
 |Pembroke (St Ann's Head)|[PEMBROKE-ST-ANNS](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/PEMBROKE-ST-ANNS)|[Link](Comparisons/PEMBROKE-DWR-1900-1910-Comparison.xlsx)|
-|Portland Bill (Old Lighthouse)|[PORTLAND-BILL](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/PORTLAND-BILL)|[Link](Comparisons/PORTLAND-BILL1-DWR-1900-1910-Comparison.xlsx)||
-|Portland Bill (New Lighthouse)|[PORTLAND-BILL](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/PORTLAND-BILL)|[Link](Comparisons/PORTLAND-BILL2-DWR-1900-1910-Comparison.xlsx)||
+|Portland Bill (Old Lighthouse)|[PORTLAND-BILL](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/PORTLAND-BILL)|[Link](Comparisons/PORTLAND-BILL1-DWR-1900-1910-Comparison.xlsx)|
+|Portland Bill (New Lighthouse)|[PORTLAND-BILL](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/PORTLAND-BILL)|[Link](Comparisons/PORTLAND-BILL2-DWR-1900-1910-Comparison.xlsx)|
 |Roche's Point|[ROCHES-POINT](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/ROCHES-POINT)|[Link](Comparison/ROCHES-POINT-DWR-1900-1910-Comparison.xlsx)|
 |Scilly|[ST-MARYS-COASTGUARD-STATION](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/ST-MARYS-COASTGUARD-STATION)|[Link](Comparisons/)|
 |Spurn Head|[PATRINGTON-SPURN-HEAD](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/PATRINGTON-SPURN-HEAD)|[Link](Comparisons/SPURN-HEAD-DWR-1900-1910-Comparison.xlsx)|
@@ -117,18 +117,19 @@ The Oxford DWR rainfall data for the whole of 1909 is missing from its SEF data 
 
 [Comparison spreadsheet link](Comparisons/VALENTIA-DWR-1900-1910-Comparison.xlsx)
 
-The DWR Valentia station has three matching situations:
+The DWR Valentia station has three different matching situations for the 1900-1910 period:
+
 * 1900-1904
 
   There is a very close but not quite exact match of the DWR Valentia rainfall to the British Rainfall [VALENTIA-OBSERVATORY](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/VALENTIA-OBSERVATORY) station.
 
 * 1905-1907
 
-  The match to the British Rainfall [VALENTIA-OBSERVATORY](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/VALENTIA-OBSERVATORY) station becomes an exact match
+  The match to the British Rainfall [VALENTIA-OBSERVATORY](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/VALENTIA-OBSERVATORY) station becomes an exact match.
 
 * 1908-1910
 
-  There is no close match to British Rainfall [VALENTIA-OBSERVATORY](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/VALENTIA-OBSERVATORY), or to any other obvious British Rainfall station.
+  There is no close match to British Rainfall [VALENTIA-OBSERVATORY](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/VALENTIA-OBSERVATORY), or to any other obvious British Rainfall station for this period. It is unclear what caused this change in matching behaviour - the British Rainfall ten-year sheet and Met Office Annual Reports provide no obvious indication.
 
 ### Birr Castle (Parsonstown)
 
