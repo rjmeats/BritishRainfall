@@ -18,7 +18,7 @@ A 'Comparison Spreadsheet' for each station shows a detailed month-by-month comp
 
 There is a similar mapping of DWR stations to British Rainfall stations for the early DWR period 1861-1875 [here](MappingEarlyStationsToRR.md).
 
-## DWR Stations with an exact matches to British Rainfall stations
+## DWR Stations with an exact match to British Rainfall stations
 
 The table below lists DWR stations which all match very well to a British Rainfall station, with most months having an exact match, producing a Comparison Spreadsheet similar to this :
 
@@ -121,7 +121,7 @@ The DWR Valentia station has three different matching situations for the 1900-19
 
 * 1900-1904
 
-  There is a very close but not quite exact match of the DWR Valentia rainfall to the British Rainfall [VALENTIA-OBSERVATORY](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/VALENTIA-OBSERVATORY) station.
+  There is a very close but not quite exact match of the DWR Valentia rainfall to the British Rainfall [VALENTIA-OBSERVATORY](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/VALENTIA-OBSERVATORY) station, similar to the other stations in this section.
 
 * 1905-1907
 
@@ -129,7 +129,9 @@ The DWR Valentia station has three different matching situations for the 1900-19
 
 * 1908-1910
 
-  There is no close match to British Rainfall [VALENTIA-OBSERVATORY](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/VALENTIA-OBSERVATORY), or to any other obvious British Rainfall station for this period. It is unclear what caused this change in matching behaviour - the British Rainfall ten-year sheet and Met Office Annual Reports provide no obvious indication.
+  There is no close match to British Rainfall [VALENTIA-OBSERVATORY](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/VALENTIA-OBSERVATORY), although the differences are still relatively small, nearly all being within +/-10% of the BR monthly rainfall figure.
+  
+  It is unclear what caused this reduction in matching behaviour - the British Rainfall ten-year sheet and Met Office Annual Reports provide no obvious clues.
 
 ### Birr Castle (Parsonstown)
 
