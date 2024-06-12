@@ -21,8 +21,8 @@ There is a similar mapping of DWR stations to British Rainfall stations for the 
 |DWR Station|DWR Period|British Rainfall Station|Notes|
 |:----------|:---------|:-----------------------|:----|
 |[ABERDEEN-DYCE](https://github.com/ed-hawkins/weather-rescue-data/tree/main/dwr-1919-1960/DWR_UKMO_RDG_DWRUK_ABERDEEN-DYCE_mslp_19190405_19601231.tsv)|1919-1947|[ABERDEEN-OBSERVATORY](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/ABERDEEN-OBSERVATORY)|Aberdeen Observatory|
-||1919|[Leftover/Aberdeenshire](https://github.com/ed-hawkins/rainfall-rescue-leftover/blob/main/DATA/Aberdeenshire/TYRain_1910-1919_28_pt1-page-071.jpg)|RNAS Longside (overnight)|
-||1942-1945, 1948-1960|[DYCE-ABERDEEN-AIRPORT](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/main/DATA/DYCE-ABERDEEN-AIRPORT)|RAF Dyce (overnight) / Aberdeen Airport|
+||1919|[Leftover/Aberdeenshire](https://github.com/ed-hawkins/rainfall-rescue-leftover/blob/main/DATA/Aberdeenshire/TYRain_1910-1919_28_pt1-page-071.jpg)|RNAS Longside|
+||1942-1945, 1948-1960|[DYCE-ABERDEEN-AIRPORT](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/main/DATA/DYCE-ABERDEEN-AIRPORT)|RAF Dyce, becomes Aberdeen Airport|
 |[ABERPORTH](https://github.com/ed-hawkins/weather-rescue-data/tree/main/dwr-1919-1960/DWR_UKMO_RDG_DWRUK_ABERPORTH_mslp_19431231_19601231.tsv)|1943-1960|[TBD](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/TBD)||
 |[ACKLINGTON](https://github.com/ed-hawkins/weather-rescue-data/tree/main/dwr-1919-1960/DWR_UKMO_RDG_DWRUK_ACKLINGTON_mslp_19431231_19490113.tsv)|1943-1949|[TBD](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/TBD)||
 |[ALDERGROVE](https://github.com/ed-hawkins/weather-rescue-data/tree/main/dwr-1919-1960/DWR_UKMO_RDG_DWRUK_ALDERGROVE_mslp_19300228_19601231.tsv)|1930-1960|[TBD](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/TBD)||
