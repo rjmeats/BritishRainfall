@@ -181,6 +181,6 @@ There is a similar mapping of DWR stations to British Rainfall stations for the 
 |[WIGTOWN](https://github.com/ed-hawkins/weather-rescue-data/tree/main/dwr-1919-1960/DWR_UKMO_RDG_DWRUK_WIGTOWN_mslp_19450620_19480512.tsv)|1945-1948|[TBD](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/TBD)||
 |[WINCHESTER](https://github.com/ed-hawkins/weather-rescue-data/tree/main/dwr-1919-1960/DWR_UKMO_RDG_DWRUK_WINCHESTER_mslp_19261101_19330831.tsv)|1926-1933|[WORTHY-DOWN-MET-OFFICE](https://github.com/ed-hawkins/rainfall-rescue-data-v3/tree/main/DATA/WORTHY-DOWN-MET-OFFICE)|RAF Worthy Down|
 |[WITTERING](https://github.com/ed-hawkins/weather-rescue-data/tree/main/dwr-1919-1960/DWR_UKMO_RDG_DWRUK_WITTERING_mslp_19490115_19601231.tsv)|1949-1950, 1955-1960|[WITTERING-AIRFIELD](https://github.com/ed-hawkins/rainfall-rescue-data-v2/tree/main/DATA/WITTERING-AIRFIELD)|RAF Wittering|
-|[WOODBRIDGE](https://github.com/ed-hawkins/weather-rescue-data/tree/main/dwr-1919-1960/DWR_UKMO_RDG_DWRUK_WOODBRIDGE_mslp_19451231_19460701.tsv)|1945-1946|[TBD](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/TBD)||
+|[WOODBRIDGE](https://github.com/ed-hawkins/weather-rescue-data/tree/main/dwr-1919-1960/DWR_UKMO_RDG_DWRUK_WOODBRIDGE_mslp_19451231_19460701.tsv)|1946|-|RAF Woodbridge, Suffolk|
 |[YEOVILTON](https://github.com/ed-hawkins/weather-rescue-data/tree/main/dwr-1919-1960/DWR_UKMO_RDG_DWRUK_YEOVILTON_mslp_19431231_19490102.tsv)|1943-1949|[TBD](https://github.com/ed-hawkins/rainfall-rescue/tree/master/DATA/TBD)||
 
