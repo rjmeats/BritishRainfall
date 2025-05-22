@@ -32,5 +32,5 @@ that Symons performed in the 1862-1876 period, covering 655 gauge inspections in
 
 <img src="ExampleInspections.jpg" style="width:600px">
 
-For ease of reference, the page images for these tables of inspections have been extracted and put into a separate PDF document: [BAAS_RainGaugeInspections.pdf](BAAS_RainGaugeInspections.pdf)
+For ease of reference, the page images for these tables of inspections have been extracted and put into a separate PDF document: [BAAS_RainGaugeInspections.pdf](BAAS_RainGaugeInspections.pdf). Stephen Burt has kindly produced a [searchable version](BAAS_RainGaugeInspections.searchable.pdf).
 
