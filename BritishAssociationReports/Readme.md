@@ -34,3 +34,6 @@ that Symons performed in the 1862-1876 period, covering 655 gauge inspections in
 
 For ease of reference, the page images for these tables of inspections have been extracted and put into a separate PDF document: [BAAS_RainGaugeInspections.pdf](BAAS_RainGaugeInspections.pdf). Stephen Burt has kindly produced a [searchable version](BAAS_RainGaugeInspections.searchable.pdf).
 
+A few of the Rainfall Rescue team have transcribed the main inspection details and mapped the inspected sites to Rainfall Rescue stations; the results are recorded in [this spreadsheet](BAAS_Inspections.xlsx). Combining
+these station mappings with the station locations determined by the Rainfall Rescue project (including a few corrections and adjustments which came to light from the inspection details) allows 
+a [map](https://www.google.com/maps/d/edit?mid=1r8KHIsr6JHL_prh-_I5FfdJG6NnuWJo&usp=sharing) of the inspected stations to be produced, showing the various 'inspection tours' undertaken by Symons during the period.
