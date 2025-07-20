@@ -38,5 +38,7 @@ A few of the Rainfall Rescue team have transcribed the main inspection details a
 these station mappings with the station locations determined by the Rainfall Rescue project (including a few corrections and adjustments which came to light from the inspection details) allows 
 a [map](https://www.google.com/maps/d/edit?mid=1r8KHIsr6JHL_prh-_I5FfdJG6NnuWJo&usp=sharing) of the inspected stations to be produced, showing the various 'inspection tours' undertaken by Symons during the period.
 
+<img src="InspectionsMap.jpg" style="width:600px">
+
 The Met Office archive contains [notebooks](https://library.metoffice.gov.uk/Portal/Default/en-GB/RecordView/Index/247508) of inspections for the period 1860-1917, contents unknown but presumably they include 
 these BAAS inspections and later ones performed by Symons and others.
