@@ -9,3 +9,13 @@ to read the relevant material more easily.
 
 * **Alexander_Buchan_Obituary.pdf** contains the full obituary pages for Alexander Buchan, from Symon's Meteorological Magazine, July 1907 edition - British Rainfall only has a short obituary for him, 
 referencing this fuller one.  The scanned magazine is available on the [Met Office Archive site](https://digital.nmla.metoffice.gov.uk/IO_d4bc41c5-baea-4e98-9664-3d85e5dacc68/). 
+
+In October 2025 the Rainfall Rescuers published an article on [The Rainfall Observers](https://rmets.onlinelibrary.wiley.com/doi/10.1002/wea.7775) in the Royal Meteorological Society's *Weather* Journal. As part of this, the British Rainfall Obituary sections were used to produce charts of the longest serving rainfall observers:
+
+Observers wth extremely long records:
+
+<img src="extremely_long.jpg" style="width:400px">
+
+Observers wth long records:
+
+<img src="long.jpg" style="width:400px">
